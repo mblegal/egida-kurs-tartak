@@ -25,8 +25,333 @@
   <!-- TEMPLATE: replace with {{COURSE_TITLE}} / {{MODULE_TITLE}} in Step 5 -->
   <div class="app-container">
 
-    <!-- Sidebar — uzupełniany w Step 2 (logo, lang-switcher, progress, nawigacja) -->
-    <aside class="sidebar" aria-label="Navegación del curso"></aside>
+    <!-- =====================================================================
+         SIDEBAR — logo, language switcher, progress, nawigacja tygodni
+         ===================================================================== -->
+    <aside class="sidebar" aria-label="Navegación del curso">
+
+      <!-- Logo blok -->
+      <div class="sidebar__logo">
+        <div class="sidebar__logo-mark" aria-hidden="true">TARTAK</div>
+        <div class="sidebar__logo-subtitle">
+          <span data-lang="es">Curso de aserradero</span>
+          <span data-lang="uk" hidden>Курс лісопильника</span>
+          <span data-lang="en" hidden>Sawmill Course</span>
+          <span data-lang="pl" hidden>Kurs tartakowy</span>
+        </div>
+      </div>
+
+      <!-- Language switcher — statyczny wygląd. Interakcja = Step 4. -->
+      <!-- TODO Step 4: podłączyć onclick -> toggle hidden po data-lang, set html[lang] i data-current-lang -->
+      <nav class="lang-switcher" aria-label="Language selector">
+        <button type="button" class="lang-btn lang-btn--active" data-lang-target="es" aria-pressed="true">ES</button>
+        <button type="button" class="lang-btn" data-lang-target="uk" aria-pressed="false">UK</button>
+        <button type="button" class="lang-btn" data-lang-target="en" aria-pressed="false">EN</button>
+        <button type="button" class="lang-btn" data-lang-target="pl" aria-pressed="false">PL</button>
+      </nav>
+
+      <!-- Progress bar — statycznie 0%. Podłączenie logiki = Step 5. -->
+      <!-- TODO Step 5: procent i width fill liczone z COURSE.progress w localStorage -->
+      <div class="progress">
+        <div class="progress__header">
+          <span class="progress__label">
+            <span data-lang="es">Progreso</span>
+            <span data-lang="uk" hidden>Прогрес</span>
+            <span data-lang="en" hidden>Progress</span>
+            <span data-lang="pl" hidden>Postęp</span>
+          </span>
+          <span class="progress__value">0%</span>
+        </div>
+        <div class="progress__bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress__fill" style="width: 0%;"></div>
+        </div>
+      </div>
+
+      <!-- Nawigacja 4 tygodni -->
+      <nav class="weeks-nav" aria-label="Lista de lecciones">
+
+        <!-- =========================================================
+             Semana 1 — Seguridad (blok: bezpieczenstwo)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 1</span>
+              <span data-lang="uk" hidden>Тиждень 1</span>
+              <span data-lang="en" hidden>Week 1</span>
+              <span data-lang="pl" hidden>Tydzień 1</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Seguridad</span>
+              <span data-lang="uk" hidden>Безпека</span>
+              <span data-lang="en" hidden>Safety</span>
+              <span data-lang="pl" hidden>Bezpieczeństwo</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item lesson-item--active" data-lesson-id="m1-w1-l1" aria-current="page">
+              <span data-lang="es">Por qué un aserradero es diferente</span>
+              <span data-lang="uk" hidden>Чому лісопилка — особливе місце</span>
+              <span data-lang="en" hidden>Why a Sawmill Is Different</span>
+              <span data-lang="pl" hidden>Dlaczego tartak jest inny</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l2">
+              <span data-lang="es">Riesgos mecánicos a tu alrededor</span>
+              <span data-lang="uk" hidden>Механічні небезпеки навколо тебе</span>
+              <span data-lang="en" hidden>Mechanical Hazards Around You</span>
+              <span data-lang="pl" hidden>Zagrożenia mechaniczne wokół ciebie</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l3">
+              <span data-lang="es">Polvo de madera y ruido — riesgos silenciosos</span>
+              <span data-lang="uk" hidden>Деревний пил і шум — тихі небезпеки</span>
+              <span data-lang="en" hidden>Wood Dust and Noise — Silent Hazards</span>
+              <span data-lang="pl" hidden>Pył drzewny i hałas — ciche zagrożenia</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l4">
+              <span data-lang="es">Riesgos de incendio en el aserradero</span>
+              <span data-lang="uk" hidden>Пожежні небезпеки на лісопилці</span>
+              <span data-lang="en" hidden>Fire Hazards in the Sawmill</span>
+              <span data-lang="pl" hidden>Zagrożenia pożarowe w tartaku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l5">
+              <span data-lang="es">Ropa de protección y EPP</span>
+              <span data-lang="uk" hidden>Захисний одяг та ЗІЗ</span>
+              <span data-lang="en" hidden>Protective Clothing and PPE</span>
+              <span data-lang="pl" hidden>Odzież ochronna i ŚOI</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l6">
+              <span data-lang="es">Zonas de trabajo y señalización</span>
+              <span data-lang="uk" hidden>Робочі зони і розмітка у цеху</span>
+              <span data-lang="en" hidden>Work Zones and Floor Markings</span>
+              <span data-lang="pl" hidden>Strefy pracy w hali i oznaczenia</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l7">
+              <span data-lang="es">Primeros auxilios ante un accidente</span>
+              <span data-lang="uk" hidden>Перша допомога при нещасному випадку</span>
+              <span data-lang="en" hidden>First Aid After an Accident</span>
+              <span data-lang="pl" hidden>Pierwsza pomoc przy wypadku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l8">
+              <span data-lang="es">Evacuación, alarma y PARO de emergencia</span>
+              <span data-lang="uk" hidden>Евакуація, тривога і аварійний СТОП</span>
+              <span data-lang="en" hidden>Evacuation, Alarm, and Emergency STOP</span>
+              <span data-lang="pl" hidden>Ewakuacja, alarm i STOP awaryjny</span>
+            </li>
+          </ol>
+        </section>
+
+        <!-- =========================================================
+             Semana 2 — Material (blok: material)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 2</span>
+              <span data-lang="uk" hidden>Тиждень 2</span>
+              <span data-lang="en" hidden>Week 2</span>
+              <span data-lang="pl" hidden>Tydzień 2</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Material</span>
+              <span data-lang="uk" hidden>Матеріал</span>
+              <span data-lang="en" hidden>Material</span>
+              <span data-lang="pl" hidden>Materiał</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item" data-lesson-id="m1-w2-l1">
+              <span data-lang="es">La madera como materia prima — estructura del tronco</span>
+              <span data-lang="uk" hidden>Деревина як сировина — будова колоди</span>
+              <span data-lang="en" hidden>Wood as a Raw Material — Log Structure</span>
+              <span data-lang="pl" hidden>Drewno jako surowiec — budowa kłody</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l2">
+              <span data-lang="es">Especies locales — pino, abeto, roble, haya, abedul</span>
+              <span data-lang="uk" hidden>Місцеві породи — сосна, ялина, дуб, бук, береза</span>
+              <span data-lang="en" hidden>Local Species — Pine, Spruce, Oak, Beech, Birch</span>
+              <span data-lang="pl" hidden>Gatunki krajowe — sosna, świerk, dąb, buk, brzoza</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l3">
+              <span data-lang="es">Del rollizo a la madera aserrada — terminología del patio</span>
+              <span data-lang="uk" hidden>Від кругляка до пиломатеріалів — термінологія майданчика</span>
+              <span data-lang="en" hidden>From Log Length to Lumber — Yard Terminology</span>
+              <span data-lang="pl" hidden>Od dłużycy do tarcicy — terminologia placu</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l4">
+              <span data-lang="es">Defectos de la madera visibles a simple vista</span>
+              <span data-lang="uk" hidden>Вади деревини, помітні неозброєним оком</span>
+              <span data-lang="en" hidden>Wood Defects Visible to the Naked Eye</span>
+              <span data-lang="pl" hidden>Wady drewna widoczne gołym okiem</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l5">
+              <span data-lang="es">Herramientas manuales en el aserradero</span>
+              <span data-lang="uk" hidden>Ручні інструменти на лісопилці</span>
+              <span data-lang="en" hidden>Hand Tools in the Sawmill</span>
+              <span data-lang="pl" hidden>Narzędzia ręczne w tartaku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l6">
+              <span data-lang="es">Máquinas «desde fuera» — sierra de bastidor, de cinta y circular</span>
+              <span data-lang="uk" hidden>Машини «ззовні» — рамна, стрічкова і дискова пилки</span>
+              <span data-lang="en" hidden>Machines "From the Outside" — Frame, Band, and Circular Saws</span>
+              <span data-lang="pl" hidden>Maszyny „z zewnątrz" — pilarki ramowa, taśmowa, tarczowa</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l7">
+              <span data-lang="es">Maquinaria auxiliar y de transporte</span>
+              <span data-lang="uk" hidden>Допоміжні і транспортні машини</span>
+              <span data-lang="en" hidden>Support and Transport Machinery</span>
+              <span data-lang="pl" hidden>Maszyny pomocnicze i transportowe</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l8">
+              <span data-lang="es">Madera seca vs. húmeda — qué significa para ti</span>
+              <span data-lang="uk" hidden>Суха і волога деревина — що це означає для тебе</span>
+              <span data-lang="en" hidden>Dry vs. Wet Wood — What It Means for You</span>
+              <span data-lang="pl" hidden>Drewno suche vs mokre — co to dla ciebie znaczy</span>
+            </li>
+          </ol>
+        </section>
+
+        <!-- =========================================================
+             Semana 3 — Procesos (blok: procesy)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 3</span>
+              <span data-lang="uk" hidden>Тиждень 3</span>
+              <span data-lang="en" hidden>Week 3</span>
+              <span data-lang="pl" hidden>Tydzień 3</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Procesos</span>
+              <span data-lang="uk" hidden>Процеси</span>
+              <span data-lang="en" hidden>Processes</span>
+              <span data-lang="pl" hidden>Procesy</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item" data-lesson-id="m1-w3-l1">
+              <span data-lang="es">El papel del ayudante en la línea de producción</span>
+              <span data-lang="uk" hidden>Роль помічника у виробничому процесі</span>
+              <span data-lang="en" hidden>The Helper's Role in the Production Line</span>
+              <span data-lang="pl" hidden>Rola pomocnika w ciągu produkcyjnym</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l2">
+              <span data-lang="es">Transporte manual de madera — reglas y límites</span>
+              <span data-lang="uk" hidden>Ручне перенесення деревини — правила і ліміти</span>
+              <span data-lang="en" hidden>Manual Wood Handling — Rules and Limits</span>
+              <span data-lang="pl" hidden>Transport ręczny drewna — zasady i limity</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l3">
+              <span data-lang="es">Descarga y almacenamiento de troncos en el patio</span>
+              <span data-lang="uk" hidden>Розвантаження і складування колод на майданчику</span>
+              <span data-lang="en" hidden>Unloading and Storing Logs in the Yard</span>
+              <span data-lang="pl" hidden>Rozładunek i składowanie kłód na placu</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l4">
+              <span data-lang="es">Apilado de madera con separadores</span>
+              <span data-lang="uk" hidden>Укладання пиломатеріалів у штабелі з прокладками</span>
+              <span data-lang="en" hidden>Stacking Lumber with Stickers</span>
+              <span data-lang="pl" hidden>Układanie tarcicy w stosy z przekładkami</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l5">
+              <span data-lang="es">Dar y recibir material al operador</span>
+              <span data-lang="uk" hidden>Подавання і прийом матеріалу від оператора</span>
+              <span data-lang="en" hidden>Feeding and Receiving Material with the Operator</span>
+              <span data-lang="pl" hidden>Podawanie i odbieranie materiału operatorowi</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l6">
+              <span data-lang="es">Serrado, cepillado y medición manuales</span>
+              <span data-lang="uk" hidden>Ручне пиляння, стругання, вимірювання</span>
+              <span data-lang="en" hidden>Hand Sawing, Planing, and Measuring</span>
+              <span data-lang="pl" hidden>Ręczne piłowanie, struganie, pomiar</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l7">
+              <span data-lang="es">Orden en el puesto — serrín, virutas, residuos</span>
+              <span data-lang="uk" hidden>Порядок на робочому місці — тирса, стружка, відходи</span>
+              <span data-lang="en" hidden>Workstation Housekeeping — Sawdust, Chips, Waste</span>
+              <span data-lang="pl" hidden>Porządek stanowiska — trociny, wióry, odpad</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l8">
+              <span data-lang="es">Marcado e identificación del material</span>
+              <span data-lang="uk" hidden>Маркування та ідентифікація матеріалу</span>
+              <span data-lang="en" hidden>Material Marking and Identification</span>
+              <span data-lang="pl" hidden>Oznaczanie i identyfikacja materiału</span>
+            </li>
+          </ol>
+        </section>
+
+        <!-- =========================================================
+             Semana 4 — Organización (blok: organizacja)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 4</span>
+              <span data-lang="uk" hidden>Тиждень 4</span>
+              <span data-lang="en" hidden>Week 4</span>
+              <span data-lang="pl" hidden>Tydzień 4</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Organización</span>
+              <span data-lang="uk" hidden>Організація</span>
+              <span data-lang="en" hidden>Organization</span>
+              <span data-lang="pl" hidden>Organizacja</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item" data-lesson-id="m1-w4-l1">
+              <span data-lang="es">El ritmo de la jornada en el aserradero</span>
+              <span data-lang="uk" hidden>Ритм дня на лісопилці</span>
+              <span data-lang="en" hidden>The Rhythm of a Sawmill Day</span>
+              <span data-lang="pl" hidden>Rytm dnia w tartaku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l2">
+              <span data-lang="es">Preparar tu propio puesto de trabajo</span>
+              <span data-lang="uk" hidden>Підготовка власного робочого місця</span>
+              <span data-lang="en" hidden>Preparing Your Own Workstation</span>
+              <span data-lang="pl" hidden>Przygotowanie własnego stanowiska pracy</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l3">
+              <span data-lang="es">Comunicación en la brigada con ruido</span>
+              <span data-lang="uk" hidden>Спілкування в бригаді в умовах шуму</span>
+              <span data-lang="en" hidden>Crew Communication in Noise</span>
+              <span data-lang="pl" hidden>Komunikacja w brygadzie przy hałasie</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l4">
+              <span data-lang="es">Términos y órdenes clave en polaco</span>
+              <span data-lang="uk" hidden>Ключові польські терміни і команди</span>
+              <span data-lang="en" hidden>Key Polish Terms and Commands</span>
+              <span data-lang="pl" hidden>Kluczowe polskie terminy i komunikaty</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l5">
+              <span data-lang="es">Documentación básica en el puesto</span>
+              <span data-lang="uk" hidden>Базова документація на робочому місці</span>
+              <span data-lang="en" hidden>Basic Workstation Paperwork</span>
+              <span data-lang="pl" hidden>Podstawowa dokumentacja na stanowisku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l6">
+              <span data-lang="es">Reporte de incidentes, averías y peligros</span>
+              <span data-lang="uk" hidden>Повідомлення про події, несправності та небезпеки</span>
+              <span data-lang="en" hidden>Reporting Incidents, Faults, and Hazards</span>
+              <span data-lang="pl" hidden>Raportowanie zdarzeń, usterek i niebezpieczeństw</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l7">
+              <span data-lang="es">Resumen de M1 — qué has aprendido</span>
+              <span data-lang="uk" hidden>Підсумок М1 — чого ти навчився</span>
+              <span data-lang="en" hidden>M1 Recap — What You've Learned</span>
+              <span data-lang="pl" hidden>Podsumowanie M1 — czego się nauczyłeś</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l8">
+              <span data-lang="es">Examen teórico + preparación para la práctica</span>
+              <span data-lang="uk" hidden>Теоретичний тест + підготовка до практики</span>
+              <span data-lang="en" hidden>Theory Test + Practical Prep</span>
+              <span data-lang="pl" hidden>Sprawdzian teoretyczny + przygotowanie do praktyki</span>
+            </li>
+          </ol>
+        </section>
+
+      </nav>
+    </aside>
 
     <!-- Main content — uzupełniany w Step 3 (breadcrumb, tytuł, 7 sekcji lekcji) -->
     <main class="main-content" aria-label="Contenido de la lección"></main>

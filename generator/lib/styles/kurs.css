@@ -79,3 +79,170 @@ li {
   padding: 2rem 2rem 4rem;
   width: 100%;
 }
+
+/* --------------------------------------------------------------------------
+   Step 2: sidebar — logo, lang-switcher, progress, nawigacja tygodni
+   -------------------------------------------------------------------------- */
+
+/* --- Logo --- */
+.sidebar__logo {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(250, 250, 245, 0.12);
+}
+
+.sidebar__logo-mark {
+  display: inline-block;
+  padding: 0.5rem 0.85rem;
+  background: var(--accent-primary);
+  color: var(--text-on-dark);
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: var(--fs-lg);
+  letter-spacing: 0.12em;
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+}
+
+.sidebar__logo-subtitle {
+  margin-top: 0.5rem;
+  font-size: var(--fs-sm);
+  color: var(--text-on-dark);
+  opacity: 0.8;
+}
+
+/* --- Language switcher --- */
+.lang-switcher {
+  display: flex;
+  gap: 0.35rem;
+  margin-bottom: 1.5rem;
+}
+
+.lang-btn {
+  flex: 1;
+  padding: 0.4rem 0;
+  background: transparent;
+  color: var(--text-on-dark);
+  border: 1px solid rgba(250, 250, 245, 0.25);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-sans);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: background 120ms ease, border-color 120ms ease;
+}
+
+.lang-btn:hover {
+  background: rgba(250, 250, 245, 0.08);
+  border-color: rgba(250, 250, 245, 0.45);
+}
+
+.lang-btn--active {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: var(--text-on-dark);
+}
+
+/* --- Progress bar --- */
+.progress {
+  margin-bottom: 1.5rem;
+}
+
+.progress__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.45rem;
+  font-size: var(--fs-sm);
+}
+
+.progress__label {
+  color: var(--text-on-dark);
+  opacity: 0.75;
+}
+
+.progress__value {
+  color: var(--text-on-dark);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.progress__bar {
+  height: 6px;
+  background: rgba(250, 250, 245, 0.12);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress__fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-primary), var(--accent-success));
+  border-radius: 999px;
+  transition: width 300ms ease;
+}
+
+/* --- Nawigacja tygodni --- */
+.weeks-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.week__header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid rgba(250, 250, 245, 0.1);
+}
+
+.week__label {
+  font-size: var(--fs-xs);
+  color: var(--accent-primary);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.week__title {
+  font-family: var(--font-display);
+  font-size: var(--fs-base);
+  color: var(--text-on-dark);
+  font-weight: 700;
+  margin-top: 0.1rem;
+}
+
+.lessons {
+  list-style: decimal inside;
+  margin: 0;
+  padding: 0;
+  color: var(--text-on-dark);
+}
+
+.lesson-item {
+  padding: 0.45rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  color: rgba(250, 250, 245, 0.78);
+  cursor: pointer;
+  transition: background 120ms ease, color 120ms ease;
+  margin-bottom: 0.1rem;
+}
+
+.lesson-item:hover {
+  background: rgba(250, 250, 245, 0.06);
+  color: var(--text-on-dark);
+}
+
+.lesson-item--active {
+  background: var(--accent-primary-dark);
+  color: var(--text-on-dark);
+  font-weight: 600;
+}
+
+.lesson-item--active::marker {
+  color: var(--accent-primary);
+  font-weight: 700;
+}
