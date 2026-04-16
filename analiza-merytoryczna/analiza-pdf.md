@@ -132,7 +132,7 @@ Kluczowy zasób dla bloków Materiał i Procesy w M1 i M2. Dobra terminologia po
 - Transport kłód i tarcicy na placu zakładu: ciągniki, chwytaki, żurawie
 - Znakowanie i ewidencja magazynowa wyrobów tartacznych
 - Wymagania BHP przy magazynowaniu i transporcie: układanie stosów, bezpieczne ciężary
-- Straty magazynowe drewna: pęknięcia, zasinizenia, zawilgocenie — zapobieganie
+- Straty magazynowe drewna: pęknięcia, zasinienia, zawilgocenie — zapobieganie
 
 ### Mapa pokrycia bloków i modułów
 
