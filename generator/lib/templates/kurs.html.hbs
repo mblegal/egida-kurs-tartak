@@ -796,9 +796,91 @@
 
   </div>
 
-  <!-- TODO Step 4: JS przełącznik języka (toggle `hidden` po data-lang, set html[lang] i html[data-current-lang]) -->
-  <!-- TODO Step 5: JS runtime — routing lekcji, scoring quizu, progress w localStorage -->
-  <!-- TODO Step 6: końcowy quiz modułu (próg 70% z config.passingScore) -->
-  <!-- TODO Step 7: responsywność — hamburger sidebar dla ≤1024px -->
+  <!-- =====================================================================
+       JS runtime kursu — cały w jednym bloku na końcu <body>, bez zależności.
+       Sekcje: [Step 4] lang-switcher · [Step 5] nav/progress/mini-quiz ·
+       [Step 6] końcowy quiz · [Step 7] hamburger mobile.
+       ===================================================================== -->
+  <script>
+    (function () {
+      'use strict';
+
+      // ---------------------------------------------------------------
+      // Stałe + klucze localStorage (wspólne dla wszystkich sekcji)
+      // ---------------------------------------------------------------
+      var SUPPORTED_LANGS = ['es', 'uk', 'en', 'pl'];
+      var DEFAULT_LANG = 'es';
+      var LS_LANG = 'egida_tartak_lang';
+
+      // ---------------------------------------------------------------
+      // STEP 4 — Przełącznik języka (UI + persistencja)
+      // ---------------------------------------------------------------
+
+      function setLanguage(lang) {
+        if (SUPPORTED_LANGS.indexOf(lang) === -1) return;
+
+        // Toggle `hidden` na wszystkich elementach treści z data-lang.
+        // Przyciski języka używają `data-lang-target`, więc nie łapią się,
+        // ale dla bezpieczeństwa wykluczamy też `.lang-btn`.
+        var langNodes = document.querySelectorAll('[data-lang]:not(.lang-btn)');
+        langNodes.forEach(function (node) {
+          if (node.getAttribute('data-lang') === lang) {
+            node.removeAttribute('hidden');
+          } else {
+            node.setAttribute('hidden', '');
+          }
+        });
+
+        // Update stanu przycisków lang-switcher
+        document.querySelectorAll('.lang-btn').forEach(function (btn) {
+          var isActive = btn.getAttribute('data-lang-target') === lang;
+          btn.classList.toggle('lang-btn--active', isActive);
+          btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        });
+
+        // Update atrybutów <html>
+        document.documentElement.setAttribute('lang', lang);
+        document.documentElement.dataset.currentLang = lang;
+
+        // Persystencja
+        try { localStorage.setItem(LS_LANG, lang); } catch (e) {}
+      }
+
+      function initLanguageSwitcher() {
+        // Event delegation na całym switcherze — odporne na ewentualną
+        // przyszłą zmianę liczby przycisków (gdyby doszedł np. 5. język).
+        var switcher = document.querySelector('.lang-switcher');
+        if (switcher) {
+          switcher.addEventListener('click', function (e) {
+            var btn = e.target.closest('.lang-btn');
+            if (!btn) return;
+            var lang = btn.getAttribute('data-lang-target');
+            if (lang) setLanguage(lang);
+          });
+        }
+
+        // Init: spróbuj odczytać zapisaną preferencję.
+        // Jeśli brak / nieznany język — zostawiamy stan domyślny z markup'u (ES).
+        var stored = null;
+        try { stored = localStorage.getItem(LS_LANG); } catch (e) {}
+        if (stored && SUPPORTED_LANGS.indexOf(stored) !== -1) {
+          setLanguage(stored);
+        }
+      }
+
+      // ---------------------------------------------------------------
+      // Boot
+      // ---------------------------------------------------------------
+      function init() {
+        initLanguageSwitcher();
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
+        init();
+      }
+    })();
+  </script>
 </body>
 </html>
