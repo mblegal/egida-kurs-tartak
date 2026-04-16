@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--
+  Kurs tartakowy EGIDA — template główny kursu self-study.
+  Wersja: beta (Task 3.7 Step 1: szkielet HTML + grid layout).
+  Placeholdery {{VAR_NAME}} zostaną wprowadzone w Step 5.
+  Języki: ES (default widoczny), UK, EN, PL (na razie hidden przez atrybut `hidden`).
+-->
+<html lang="es" data-current-lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Curso de aserradero — Módulo 1</title>
+
+  <!-- Google Fonts: Inter (sans) + Plus Jakarta Sans (display). Inter ma cyrylicę — wystarcza dla UK. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <!-- CSS modułowo: design tokens + karty + style kursu. W finalnej wersji standalone (dist/) wszystko pójdzie inline. -->
+  <link rel="stylesheet" href="../styles/design-tokens.css">
+  <link rel="stylesheet" href="../styles/cards.css">
+  <link rel="stylesheet" href="./kurs.css">
+</head>
+<body>
+  <!-- TEMPLATE: replace with {{COURSE_TITLE}} / {{MODULE_TITLE}} in Step 5 -->
+  <div class="app-container">
+
+    <!-- Sidebar — uzupełniany w Step 2 (logo, lang-switcher, progress, nawigacja) -->
+    <aside class="sidebar" aria-label="Navegación del curso"></aside>
+
+    <!-- Main content — uzupełniany w Step 3 (breadcrumb, tytuł, 7 sekcji lekcji) -->
+    <main class="main-content" aria-label="Contenido de la lección"></main>
+
+  </div>
+
+  <!-- TODO Step 4: JS przełącznik języka (toggle `hidden` po data-lang, set html[lang] i html[data-current-lang]) -->
+  <!-- TODO Step 5: JS runtime — routing lekcji, scoring quizu, progress w localStorage -->
+  <!-- TODO Step 6: końcowy quiz modułu (próg 70% z config.passingScore) -->
+  <!-- TODO Step 7: responsywność — hamburger sidebar dla ≤1024px -->
+</body>
+</html>
