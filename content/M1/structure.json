@@ -1,0 +1,542 @@
+{
+  "module": "M1",
+  "moduleRole": "pomocniczy",
+  "weeks": [
+    {
+      "week": 1,
+      "blockId": "bezpieczenstwo",
+      "lessons": [
+        {
+          "id": "m1-w1-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Dlaczego tartak jest inny",
+            "en": "Why a Sawmill Is Different",
+            "es": "Por qué un aserradero es diferente",
+            "uk": "Чому лісопилка — особливе місце"
+          },
+          "opis": {
+            "pl": "Rozumiesz, czym tartak różni się od innych zakładów pracy pod względem zagrożeń. Wiesz, dlaczego kurs zaczyna się od BHP, a nie od obsługi maszyn.",
+            "en": "You understand how a sawmill differs from other workplaces in terms of hazards. You know why this course starts with safety, not with machine operation.",
+            "es": "Entiendes en qué se diferencia un aserradero de otros lugares de trabajo en cuanto a riesgos. Sabes por qué el curso empieza por la seguridad y no por el manejo de máquinas.",
+            "uk": "Розумієш, чим лісопилка відрізняється від інших робочих місць за рівнем небезпек. Знаєш, чому курс починається з охорони праці, а не з роботи на машинах."
+          }
+        },
+        {
+          "id": "m1-w1-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Zagrożenia mechaniczne wokół ciebie",
+            "en": "Mechanical Hazards Around You",
+            "es": "Riesgos mecánicos a tu alrededor",
+            "uk": "Механічні небезпеки навколо тебе"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz ruchome elementy maszyn i miejsca, w których może dojść do pochwycenia, uderzenia lub odrzutu. Wiesz, dlaczego pomocnik nigdy nie wchodzi w strefę roboczą maszyny.",
+            "en": "You recognize moving machine parts and places where entanglement, impact, or kickback can happen. You know why a helper never steps into a machine's working zone.",
+            "es": "Reconoces las partes móviles de las máquinas y los lugares donde puede haber atrapamientos, golpes o rechazos. Sabes por qué un ayudante nunca entra en la zona de trabajo de una máquina.",
+            "uk": "Розпізнаєш рухомі частини машин і місця, де може статися затягування, удар або віддача. Знаєш, чому помічник ніколи не заходить у робочу зону машини."
+          }
+        },
+        {
+          "id": "m1-w1-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Pył drzewny i hałas — ciche zagrożenia",
+            "en": "Wood Dust and Noise — Silent Hazards",
+            "es": "Polvo de madera y ruido — riesgos silenciosos",
+            "uk": "Деревний пил і шум — тихі небезпеки"
+          },
+          "opis": {
+            "pl": "Rozumiesz, że pył z dębu i buku jest kancerogenny, a długotrwały hałas trwale uszkadza słuch. Wiesz, kiedy obowiązkowo zakładasz maskę i ochronniki.",
+            "en": "You understand that oak and beech dust is carcinogenic and that long-term noise permanently damages hearing. You know when wearing a mask and hearing protection is mandatory.",
+            "es": "Entiendes que el polvo de roble y haya es cancerígeno y que el ruido prolongado daña el oído de forma permanente. Sabes cuándo es obligatorio ponerte mascarilla y protectores auditivos.",
+            "uk": "Розумієш, що пил з дуба і бука є канцерогенним, а тривалий шум безповоротно пошкоджує слух. Знаєш, коли маска і навушники є обов'язковими."
+          }
+        },
+        {
+          "id": "m1-w1-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Zagrożenia pożarowe w tartaku",
+            "en": "Fire Hazards in the Sawmill",
+            "es": "Riesgos de incendio en el aserradero",
+            "uk": "Пожежні небезпеки на лісопилці"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz źródła zapłonu (tarcie, iskry, elektryczność, papierosy) i miejsca nagromadzenia pyłu i wiórów. Wiesz, gdzie są gaśnice i drogi ewakuacji.",
+            "en": "You recognize ignition sources (friction, sparks, electricity, cigarettes) and places where dust and chips accumulate. You know where the extinguishers and evacuation routes are.",
+            "es": "Reconoces las fuentes de ignición (fricción, chispas, electricidad, cigarrillos) y los lugares donde se acumulan polvo y virutas. Sabes dónde están los extintores y las rutas de evacuación.",
+            "uk": "Розпізнаєш джерела займання (тертя, іскри, електрика, цигарки) і місця скупчення пилу та тирси. Знаєш, де розташовані вогнегасники та шляхи евакуації."
+          }
+        },
+        {
+          "id": "m1-w1-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Odzież ochronna i ŚOI",
+            "en": "Protective Clothing and PPE",
+            "es": "Ropa de protección y EPP",
+            "uk": "Захисний одяг та ЗІЗ"
+          },
+          "opis": {
+            "pl": "Dobierasz obuwie z podnoskiem, hełm, okulary, rękawice, ochronniki słuchu i maskę do zadania. Wiesz, kiedy rękawic używać NIE wolno (maszyny wirujące).",
+            "en": "You choose safety-toe boots, a helmet, goggles, gloves, hearing protection, and a mask for the task. You know when gloves MUST NOT be used (rotating machines).",
+            "es": "Eliges botas con puntera de acero, casco, gafas, guantes, protectores auditivos y mascarilla según la tarea. Sabes cuándo NO se deben usar guantes (máquinas giratorias).",
+            "uk": "Підбираєш взуття з металевим носком, каску, окуляри, рукавиці, навушники і маску до завдання. Знаєш, коли рукавиці використовувати НЕ МОЖНА (обертові машини)."
+          }
+        },
+        {
+          "id": "m1-w1-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Strefy pracy w hali i oznaczenia",
+            "en": "Work Zones and Floor Markings",
+            "es": "Zonas de trabajo y señalización",
+            "uk": "Робочі зони і розмітка у цеху"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz linie na posadzce, piktogramy i tabliczki BHP. Wiesz, gdzie wolno stać, gdzie przechodzić i gdzie obowiązuje zakaz wstępu.",
+            "en": "You recognize floor lines, pictograms, and safety signs. You know where you may stand, where you may walk, and where entry is forbidden.",
+            "es": "Reconoces las líneas en el suelo, los pictogramas y las señales de seguridad. Sabes dónde puedes estar, por dónde puedes pasar y dónde está prohibido entrar.",
+            "uk": "Розпізнаєш лінії на підлозі, піктограми та знаки безпеки. Знаєш, де можна стояти, де проходити, а куди вхід заборонено."
+          }
+        },
+        {
+          "id": "m1-w1-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Pierwsza pomoc przy wypadku",
+            "en": "First Aid After an Accident",
+            "es": "Primeros auxilios ante un accidente",
+            "uk": "Перша допомога при нещасному випадку"
+          },
+          "opis": {
+            "pl": "Znasz schemat postępowania przy skaleczeniu, amputacji palca, porażeniu prądem i uderzeniu odbiciem materiału. Wiesz, gdzie jest apteczka i jak wezwać pomoc.",
+            "en": "You know the response for a cut, finger amputation, electric shock, and being hit by kickback. You know where the first-aid kit is and how to call for help.",
+            "es": "Conoces los pasos ante un corte, amputación de dedo, descarga eléctrica y golpe por rechazo del material. Sabes dónde está el botiquín y cómo pedir ayuda.",
+            "uk": "Знаєш порядок дій при порізі, ампутації пальця, ураженні електрострумом і ударі від віддачі матеріалу. Знаєш, де аптечка і як викликати допомогу."
+          }
+        },
+        {
+          "id": "m1-w1-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Ewakuacja, alarm i STOP awaryjny",
+            "en": "Evacuation, Alarm, and Emergency STOP",
+            "es": "Evacuación, alarma y PARO de emergencia",
+            "uk": "Евакуація, тривога і аварійний СТОП"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz sygnały alarmowe, znasz trasę ewakuacji. Wiesz, jak użyć wyłącznika awaryjnego i komu zgłosić zdarzenie.",
+            "en": "You recognize alarm signals and know the evacuation route. You know how to use the emergency stop button and whom to report an incident to.",
+            "es": "Reconoces las señales de alarma y conoces la ruta de evacuación. Sabes cómo usar el botón de paro de emergencia y a quién informar del incidente.",
+            "uk": "Розпізнаєш сигнали тривоги, знаєш маршрут евакуації. Знаєш, як скористатися аварійним вимикачем і кому повідомити про подію."
+          }
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "blockId": "material",
+      "lessons": [
+        {
+          "id": "m1-w2-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Drewno jako surowiec — budowa kłody",
+            "en": "Wood as a Raw Material — Log Structure",
+            "es": "La madera como materia prima — estructura del tronco",
+            "uk": "Деревина як сировина — будова колоди"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz biel, twardziel, słoje roczne i korę na przekroju. Rozumiesz, dlaczego ta sama kłoda ma różne strefy o różnej jakości.",
+            "en": "You recognize sapwood, heartwood, annual rings, and bark in a cross-section. You understand why the same log has different zones of different quality.",
+            "es": "Reconoces la albura, el duramen, los anillos anuales y la corteza en un corte transversal. Entiendes por qué el mismo tronco tiene zonas distintas con calidades diferentes.",
+            "uk": "Розпізнаєш заболонь, ядро, річні кільця та кору на поперечному зрізі. Розумієш, чому та сама колода має різні зони з різною якістю."
+          }
+        },
+        {
+          "id": "m1-w2-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Gatunki krajowe — sosna, świerk, dąb, buk, brzoza",
+            "en": "Local Species — Pine, Spruce, Oak, Beech, Birch",
+            "es": "Especies locales — pino, abeto, roble, haya, abedul",
+            "uk": "Місцеві породи — сосна, ялина, дуб, бук, береза"
+          },
+          "opis": {
+            "pl": "Odróżniasz wzrokowo pięć gatunków używanych w polskim tartaku. Wiesz, które są iglaste, a które liściaste i co z tego wynika dla pracy.",
+            "en": "You can visually tell apart five species used in a Polish sawmill. You know which are coniferous and which are deciduous, and what that means for the work.",
+            "es": "Distingues a simple vista cinco especies usadas en un aserradero polaco. Sabes cuáles son coníferas y cuáles frondosas, y lo que eso implica para el trabajo.",
+            "uk": "На око розрізняєш п'ять порід, які використовуються на польській лісопилці. Знаєш, які з них хвойні, а які листяні, і що це означає для роботи."
+          }
+        },
+        {
+          "id": "m1-w2-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Od dłużycy do tarcicy — terminologia placu",
+            "en": "From Log Length to Lumber — Yard Terminology",
+            "es": "Del rollizo a la madera aserrada — terminología del patio",
+            "uk": "Від кругляка до пиломатеріалів — термінологія майданчика"
+          },
+          "opis": {
+            "pl": "Nazywasz po polsku: dłużyca, kłoda, tarcica, deska, bal, krawędziak, łata, oblina. Wiesz, w jakiej kolejności surowiec przechodzi przez tartak.",
+            "en": "You can name in Polish: 'dłużyca' (long log), 'kłoda' (log), 'tarcica' (lumber), 'deska' (board), 'bal' (plank), 'krawędziak' (square timber), 'łata' (batten), 'oblina' (slab). You know the order in which material moves through the sawmill.",
+            "es": "Nombras en polaco: 'dłużyca' (rollizo largo), 'kłoda' (tronco), 'tarcica' (madera aserrada), 'deska' (tabla), 'bal' (tablón grueso), 'krawędziak' (escuadría), 'łata' (listón), 'oblina' (costero). Sabes el orden en que el material recorre el aserradero.",
+            "uk": "Називаєш польською: 'dłużyca' (довгий кругляк), 'kłoda' (колода), 'tarcica' (пиломатеріал), 'deska' (дошка), 'bal' (брус), 'krawędziak' (брусок квадратний), 'łata' (рейка), 'oblina' (горбиль). Знаєш, у якому порядку сировина проходить через лісопилку."
+          }
+        },
+        {
+          "id": "m1-w2-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Wady drewna widoczne gołym okiem",
+            "en": "Wood Defects Visible to the Naked Eye",
+            "es": "Defectos de la madera visibles a simple vista",
+            "uk": "Вади деревини, помітні неозброєним оком"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz sęki (zdrowe i martwe), pęknięcia, krzywizny, zgniliznę i zasinienie. Wiesz, że wady wpływają na klasę jakości deski.",
+            "en": "You recognize knots (sound and dead), splits, sweep, rot, and blue stain. You know that defects affect a board's quality grade.",
+            "es": "Reconoces nudos (sanos y muertos), fendas, curvaturas, pudrición y azulado. Sabes que los defectos afectan la clase de calidad de la tabla.",
+            "uk": "Розпізнаєш сучки (здорові та мертві), тріщини, кривизну, гниль і синяву. Знаєш, що вади впливають на клас якості дошки."
+          }
+        },
+        {
+          "id": "m1-w2-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Narzędzia ręczne w tartaku",
+            "en": "Hand Tools in the Sawmill",
+            "es": "Herramientas manuales en el aserradero",
+            "uk": "Ручні інструменти на лісопилці"
+          },
+          "opis": {
+            "pl": "Nazywasz i rozpoznajesz piły ręczne, dłuta, strug, młotek, przymiar, kątownik, wkrętarkę. Wiesz, jak je bezpiecznie podać.",
+            "en": "You can name and recognize handsaws, chisels, a plane, hammer, rule, square, and power drill. You know how to pass them safely.",
+            "es": "Nombras y reconoces serruchos, formones, cepillo de mano, martillo, regla, escuadra y atornillador. Sabes cómo pasarlos de forma segura.",
+            "uk": "Називаєш і розпізнаєш ручні пилки, стамески, рубанок, молоток, лінійку, косинець, шуруповерт. Знаєш, як безпечно їх передавати."
+          }
+        },
+        {
+          "id": "m1-w2-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Maszyny „z zewnątrz\" — pilarki ramowa, taśmowa, tarczowa",
+            "en": "Machines \"From the Outside\" — Frame, Band, and Circular Saws",
+            "es": "Máquinas \"desde fuera\" — sierra de bastidor, de cinta y circular",
+            "uk": "Машини «ззовні» — рамна, стрічкова і дискова пилки"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz trzy główne typy pilarek tartacznych. Nie obsługujesz ich — znasz ich nazwy, wygląd i strefę niebezpieczną.",
+            "en": "You recognize the three main types of sawmill saws. You don't operate them — you know their names, appearance, and danger zone.",
+            "es": "Reconoces los tres tipos principales de sierras de aserradero. No las operas — conoces sus nombres, su aspecto y su zona de peligro.",
+            "uk": "Розпізнаєш три основні типи лісопильних пилок. Ти не працюєш на них — знаєш їхні назви, вигляд і небезпечну зону."
+          }
+        },
+        {
+          "id": "m1-w2-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Maszyny pomocnicze i transportowe",
+            "en": "Support and Transport Machinery",
+            "es": "Maquinaria auxiliar y de transporte",
+            "uk": "Допоміжні і транспортні машини"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz wózek widłowy, przenośnik rolkowy i taśmowy, chwytak, korowarkę. Wiesz, gdzie kończy się strefa bezpieczna dla pieszego.",
+            "en": "You recognize the forklift, roller and belt conveyors, grapple, and debarker. You know where the pedestrian safety zone ends.",
+            "es": "Reconoces la carretilla elevadora, el transportador de rodillos y el de banda, la pinza y la descortezadora. Sabes dónde termina la zona segura para peatones.",
+            "uk": "Розпізнаєш навантажувач, роликовий і стрічковий конвеєри, грейфер, окорувальник. Знаєш, де закінчується безпечна зона для пішохода."
+          }
+        },
+        {
+          "id": "m1-w2-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Drewno suche vs mokre — co to dla ciebie znaczy",
+            "en": "Dry vs. Wet Wood — What It Means for You",
+            "es": "Madera seca vs. húmeda — qué significa para ti",
+            "uk": "Суха і волога деревина — що це означає для тебе"
+          },
+          "opis": {
+            "pl": "Rozumiesz różnicę między tarcicą świeżą (mokrą) a suszoną — ciężar, zachowanie przy transporcie, ryzyko spaczenia. Wiesz, dlaczego układanie stosu mokrej i suchej różni się.",
+            "en": "You understand the difference between fresh (wet) and kiln-dried lumber — weight, handling behavior, risk of warping. You know why stacking wet and dry lumber differs.",
+            "es": "Entiendes la diferencia entre madera fresca (húmeda) y seca — peso, comportamiento al transportarla, riesgo de deformación. Sabes por qué apilar madera húmeda y seca es distinto.",
+            "uk": "Розумієш різницю між свіжими (вологими) і сушеними пиломатеріалами — вагу, поведінку при перенесенні, ризик жолоблення. Знаєш, чому укладання штабеля вологих і сухих пиломатеріалів відрізняється."
+          }
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "blockId": "procesy",
+      "lessons": [
+        {
+          "id": "m1-w3-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Rola pomocnika w ciągu produkcyjnym",
+            "en": "The Helper's Role in the Production Line",
+            "es": "El papel del ayudante en la línea de producción",
+            "uk": "Роль помічника у виробничому процесі"
+          },
+          "opis": {
+            "pl": "Rozumiesz, gdzie twoja praca wchodzi między operatora a magazyniera. Wiesz, co znaczy „pomagam, ale nie obsługuję\" i gdzie jest granica.",
+            "en": "You understand where your work fits between the operator and the yard worker. You know what \"I help, but I don't operate\" means and where the line is.",
+            "es": "Entiendes dónde se sitúa tu trabajo entre el operador y el almacenero. Sabes qué significa \"ayudo, pero no opero\" y dónde está el límite.",
+            "uk": "Розумієш, де твоя робота знаходиться між оператором і складським працівником. Знаєш, що означає «допомагаю, але не керую» і де проходить межа."
+          }
+        },
+        {
+          "id": "m1-w3-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Transport ręczny drewna — zasady i limity",
+            "en": "Manual Wood Handling — Rules and Limits",
+            "es": "Transporte manual de madera — reglas y límites",
+            "uk": "Ручне перенесення деревини — правила і ліміти"
+          },
+          "opis": {
+            "pl": "Znasz limity podnoszenia (mężczyzna, kobieta, jednorazowo, powtarzalnie) i pozycję z ugiętych kolan. Wiesz, kiedy zawsze wołasz drugą osobę.",
+            "en": "You know the lifting limits (for men, women, one-time, repeated) and the bent-knee lifting position. You know when you must always call a second person.",
+            "es": "Conoces los límites de levantamiento (hombre, mujer, una vez, repetido) y la postura con rodillas flexionadas. Sabes cuándo siempre debes llamar a otra persona.",
+            "uk": "Знаєш ліміти підіймання (для чоловіка, жінки, одноразово, повторно) і позицію з зігнутими колінами. Знаєш, коли завжди кличеш другу людину."
+          }
+        },
+        {
+          "id": "m1-w3-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Rozładunek i składowanie kłód na placu",
+            "en": "Unloading and Storing Logs in the Yard",
+            "es": "Descarga y almacenamiento de troncos en el patio",
+            "uk": "Розвантаження і складування колод на майданчику"
+          },
+          "opis": {
+            "pl": "Rozumiesz zasady składowania dłużyc i kłód — klinowanie, podkłady, odstępy. Wiesz, gdzie NIGDY nie stajesz podczas rozładunku.",
+            "en": "You understand the rules for storing long logs and logs — chocking, dunnage, spacing. You know where you NEVER stand during unloading.",
+            "es": "Entiendes las reglas de almacenamiento de rollizos y troncos — calzos, durmientes, separación. Sabes dónde NUNCA te colocas durante la descarga.",
+            "uk": "Розумієш правила складування довгих кругляків і колод — клиння, підкладки, інтервали. Знаєш, де НІКОЛИ не стоїш під час розвантаження."
+          }
+        },
+        {
+          "id": "m1-w3-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Układanie tarcicy w stosy z przekładkami",
+            "en": "Stacking Lumber with Stickers",
+            "es": "Apilado de madera con separadores",
+            "uk": "Укладання пиломатеріалів у штабелі з прокладками"
+          },
+          "opis": {
+            "pl": "Układasz deski w stos na przekładkach tak, aby zapewnić wentylację i stabilność. Rozumiesz, dlaczego źle ułożony stos pęka i może runąć.",
+            "en": "You stack boards on stickers to ensure airflow and stability. You understand why a badly built stack splits and can collapse.",
+            "es": "Apilas las tablas sobre separadores para asegurar ventilación y estabilidad. Entiendes por qué una pila mal armada se raja y puede venirse abajo.",
+            "uk": "Укладаєш дошки у штабель на прокладках так, щоб забезпечити провітрювання і стійкість. Розумієш, чому погано складений штабель тріскається і може впасти."
+          }
+        },
+        {
+          "id": "m1-w3-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Podawanie i odbieranie materiału operatorowi",
+            "en": "Feeding and Receiving Material with the Operator",
+            "es": "Dar y recibir material al operador",
+            "uk": "Подавання і прийом матеріалу від оператора"
+          },
+          "opis": {
+            "pl": "Wiesz, jak ustawić się za linią strefy roboczej, jak podać deskę i jak reagować na gest operatora „stop\" / „dawaj\".",
+            "en": "You know how to stand behind the working-zone line, how to hand over a board, and how to respond to the operator's gesture 'stop' / 'dawaj' (give it).",
+            "es": "Sabes cómo colocarte detrás de la línea de la zona de trabajo, cómo pasar una tabla y cómo reaccionar al gesto del operador 'stop' / 'dawaj' (pásalo).",
+            "uk": "Знаєш, як стати за лінією робочої зони, як подати дошку і як реагувати на жест оператора 'stop' / 'dawaj' (подавай)."
+          }
+        },
+        {
+          "id": "m1-w3-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Ręczne piłowanie, struganie, pomiar",
+            "en": "Hand Sawing, Planing, and Measuring",
+            "es": "Serrado, cepillado y medición manuales",
+            "uk": "Ручне пиляння, стругання, вимірювання"
+          },
+          "opis": {
+            "pl": "Wykonujesz podstawowe cięcie piłą ręczną, ostrużyny strugiem i pomiar przymiarem. Wiesz, jak bezpiecznie trzymać materiał i narzędzie.",
+            "en": "You make a basic cut with a handsaw, take shavings with a hand plane, and take a measurement with a rule. You know how to hold the material and the tool safely.",
+            "es": "Haces un corte básico con serrucho, sacas virutas con el cepillo y tomas medidas con la regla. Sabes cómo sujetar el material y la herramienta con seguridad.",
+            "uk": "Виконуєш базовий розпил ручною пилкою, знімаєш стружку рубанком і проводиш вимірювання лінійкою. Знаєш, як безпечно тримати матеріал та інструмент."
+          }
+        },
+        {
+          "id": "m1-w3-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Porządek stanowiska — trociny, wióry, odpad",
+            "en": "Workstation Housekeeping — Sawdust, Chips, Waste",
+            "es": "Orden en el puesto — serrín, virutas, residuos",
+            "uk": "Порядок на робочому місці — тирса, стружка, відходи"
+          },
+          "opis": {
+            "pl": "Rozumiesz, dlaczego trociny pod nogami to ryzyko poślizgu i pożaru. Wiesz, czym i kiedy sprzątasz oraz gdzie oddajesz odpad.",
+            "en": "You understand why sawdust underfoot is a slip and fire risk. You know what to clean with, when to clean, and where to take the waste.",
+            "es": "Entiendes por qué el serrín en el suelo es un riesgo de resbalón e incendio. Sabes con qué y cuándo limpiar, y dónde llevar los residuos.",
+            "uk": "Розумієш, чому тирса під ногами — це ризик послизнутися і загоряння. Знаєш, чим і коли прибираєш та куди здаєш відходи."
+          }
+        },
+        {
+          "id": "m1-w3-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Oznaczanie i identyfikacja materiału",
+            "en": "Material Marking and Identification",
+            "es": "Marcado e identificación del material",
+            "uk": "Маркування та ідентифікація матеріалу"
+          },
+          "opis": {
+            "pl": "Czytasz oznaczenia kredowe i pisakowe na kłodach i tarcicy (gatunek, wymiar, data, operator). Wiesz, dlaczego nie wolno ich ścierać.",
+            "en": "You read chalk and marker markings on logs and lumber (species, size, date, operator). You know why they must not be wiped off.",
+            "es": "Lees las marcas de tiza y rotulador en los troncos y en la madera (especie, medida, fecha, operador). Sabes por qué no se deben borrar.",
+            "uk": "Читаєш маркування крейдою і маркером на колодах та пиломатеріалах (порода, розмір, дата, оператор). Знаєш, чому їх не можна стирати."
+          }
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "blockId": "organizacja",
+      "lessons": [
+        {
+          "id": "m1-w4-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Rytm dnia w tartaku",
+            "en": "The Rhythm of a Sawmill Day",
+            "es": "El ritmo de la jornada en el aserradero",
+            "uk": "Ритм дня на лісопилці"
+          },
+          "opis": {
+            "pl": "Znasz typowy dzień: odprawa, sprawdzenie stanowiska, 5-minutowe BHP, praca, przerwa, sprzątanie, raport. Wiesz, kto wydaje polecenia i komu raportujesz.",
+            "en": "You know a typical day: briefing, workstation check, 5-minute safety talk, work, break, cleanup, report. You know who gives instructions and whom you report to.",
+            "es": "Conoces una jornada típica: reunión, revisión del puesto, charla de seguridad de 5 minutos, trabajo, pausa, limpieza, informe. Sabes quién da las órdenes y a quién reportas.",
+            "uk": "Знаєш типовий день: планерка, перевірка робочого місця, 5-хвилинний інструктаж з безпеки, робота, перерва, прибирання, звіт. Знаєш, хто дає вказівки і кому ти звітуєш."
+          }
+        },
+        {
+          "id": "m1-w4-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Przygotowanie własnego stanowiska pracy",
+            "en": "Preparing Your Own Workstation",
+            "es": "Preparar tu propio puesto de trabajo",
+            "uk": "Підготовка власного робочого місця"
+          },
+          "opis": {
+            "pl": "Sprawdzasz: ŚOI, czystość, drogi przejścia, oświetlenie, narzędzia, wyłącznik awaryjny w zasięgu. Wiesz, co zrobić, gdy czegoś brakuje.",
+            "en": "You check: PPE, cleanliness, walkways, lighting, tools, emergency stop within reach. You know what to do when something is missing.",
+            "es": "Compruebas: EPP, limpieza, pasos, iluminación, herramientas, botón de paro de emergencia al alcance. Sabes qué hacer cuando falta algo.",
+            "uk": "Перевіряєш: ЗІЗ, чистоту, проходи, освітлення, інструменти, аварійний вимикач у межах досяжності. Знаєш, що робити, коли чогось не вистачає."
+          }
+        },
+        {
+          "id": "m1-w4-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Komunikacja w brygadzie przy hałasie",
+            "en": "Crew Communication in Noise",
+            "es": "Comunicación en la brigada con ruido",
+            "uk": "Спілкування в бригаді в умовах шуму"
+          },
+          "opis": {
+            "pl": "Stosujesz uzgodnione gesty „stop\", „podaj\", „czekaj\", „uważaj\", „cofnij\". Używasz krótkich polskich komend, nawet gdy słabo mówisz po polsku.",
+            "en": "You use the agreed gestures 'stop', 'podaj' (pass), 'czekaj' (wait), 'uważaj' (watch out), 'cofnij' (back up). You use short Polish commands even if your Polish is weak.",
+            "es": "Usas los gestos acordados 'stop', 'podaj' (pasa), 'czekaj' (espera), 'uważaj' (cuidado), 'cofnij' (retrocede). Usas órdenes cortas en polaco aunque hables poco polaco.",
+            "uk": "Використовуєш узгоджені жести 'stop', 'podaj' (подай), 'czekaj' (чекай), 'uważaj' (обережно), 'cofnij' (відійди). Користуєшся короткими польськими командами, навіть якщо польською говориш слабко."
+          }
+        },
+        {
+          "id": "m1-w4-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Kluczowe polskie terminy i komunikaty",
+            "en": "Key Polish Terms and Commands",
+            "es": "Términos y órdenes clave en polaco",
+            "uk": "Ключові польські терміни і команди"
+          },
+          "opis": {
+            "pl": "Rozumiesz ze słuchu i wymawiasz ~30 polskich słów tartakowych. Reagujesz na komendy „uwaga\", „odsuń się\", „zablokuj\", „puść\", „trzymaj\".",
+            "en": "You understand by ear and pronounce about 30 Polish sawmill words. You respond to commands 'uwaga' (attention), 'odsuń się' (step back), 'zablokuj' (block it), 'puść' (let go), 'trzymaj' (hold).",
+            "es": "Entiendes de oído y pronuncias unas 30 palabras polacas del aserradero. Reaccionas a las órdenes 'uwaga' (atención), 'odsuń się' (apártate), 'zablokuj' (bloquéalo), 'puść' (suéltalo), 'trzymaj' (sujétalo).",
+            "uk": "Розумієш на слух і вимовляєш близько 30 польських слів, пов'язаних з лісопилкою. Реагуєш на команди 'uwaga' (увага), 'odsuń się' (відійди), 'zablokuj' (заблокуй), 'puść' (відпусти), 'trzymaj' (тримай)."
+          }
+        },
+        {
+          "id": "m1-w4-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Podstawowa dokumentacja na stanowisku",
+            "en": "Basic Workstation Paperwork",
+            "es": "Documentación básica en el puesto",
+            "uk": "Базова документація на робочому місці"
+          },
+          "opis": {
+            "pl": "Znasz dokumenty, które są na twoim stanowisku: karta stanowiska, rejestr obecności, rejestr drobnych zdarzeń, zgoda na użycie narzędzia. Wiesz, które podpisujesz sam, a które wypełnia brygadzista.",
+            "en": "You know the documents kept at your workstation: job card, attendance log, minor-incident log, tool-use authorization. You know which you sign yourself and which the foreman fills in.",
+            "es": "Conoces los documentos del puesto: ficha del puesto, registro de asistencia, registro de incidentes menores, autorización de uso de herramienta. Sabes cuáles firmas tú y cuáles rellena el capataz.",
+            "uk": "Знаєш документи, які є на твоєму робочому місці: картка робочого місця, журнал присутності, журнал дрібних подій, дозвіл на використання інструменту. Знаєш, які підписуєш сам, а які заповнює бригадир."
+          }
+        },
+        {
+          "id": "m1-w4-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Raportowanie zdarzeń, usterek i niebezpieczeństw",
+            "en": "Reporting Incidents, Faults, and Hazards",
+            "es": "Reporte de incidentes, averías y peligros",
+            "uk": "Повідомлення про події, несправності та небезпеки"
+          },
+          "opis": {
+            "pl": "Zgłaszasz brygadziście skaleczenie, awarię, rozsypane trociny, uszkodzony stos, brak osłony. Rozumiesz, dlaczego ukrywanie drobnego zdarzenia prowadzi do dużego wypadku.",
+            "en": "You report to the foreman: a cut, a breakdown, spilled sawdust, a damaged stack, a missing guard. You understand why hiding a minor incident leads to a serious accident.",
+            "es": "Informas al capataz de un corte, una avería, serrín desparramado, una pila dañada, la falta de un resguardo. Entiendes por qué ocultar un incidente pequeño lleva a un accidente grande.",
+            "uk": "Повідомляєш бригадира про поріз, поломку, розсипану тирсу, пошкоджений штабель, відсутність захисного огородження. Розумієш, чому приховування дрібної події призводить до великого нещасного випадку."
+          }
+        },
+        {
+          "id": "m1-w4-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Podsumowanie M1 — czego się nauczyłeś",
+            "en": "M1 Recap — What You've Learned",
+            "es": "Resumen de M1 — qué has aprendido",
+            "uk": "Підсумок М1 — чого ти навчився"
+          },
+          "opis": {
+            "pl": "Przypominasz główne pojęcia z tygodni 1–3 i widzisz, jak łączą się w jednym dniu pracy. Wiesz, co powinieneś umieć przed testem.",
+            "en": "You review the key concepts from weeks 1–3 and see how they come together in a single workday. You know what you should be able to do before the test.",
+            "es": "Repasas los conceptos clave de las semanas 1 a 3 y ves cómo se conectan en una jornada de trabajo. Sabes qué debes dominar antes del examen.",
+            "uk": "Повторюєш основні поняття з тижнів 1–3 і бачиш, як вони поєднуються в одному робочому дні. Знаєш, що маєш вміти перед тестом."
+          }
+        },
+        {
+          "id": "m1-w4-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Sprawdzian teoretyczny + przygotowanie do praktyki",
+            "en": "Theory Test + Practical Prep",
+            "es": "Examen teórico + preparación para la práctica",
+            "uk": "Теоретичний тест + підготовка до практики"
+          },
+          "opis": {
+            "pl": "Przechodzisz test końcowy M1 (próg 70%) i dostajesz scenariusz zadania praktycznego. Wiesz, jak będziesz oceniany przez brygadzistę.",
+            "en": "You take the M1 final test (70% passing score) and receive the practical assignment scenario. You know how the foreman will evaluate you.",
+            "es": "Realizas el examen final de M1 (umbral 70%) y recibes el escenario de la prueba práctica. Sabes cómo te va a evaluar el capataz.",
+            "uk": "Складаєш підсумковий тест М1 (поріг 70%) і отримуєш сценарій практичного завдання. Знаєш, як тебе оцінюватиме бригадир."
+          }
+        }
+      ]
+    }
+  ]
+}
