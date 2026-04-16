@@ -368,6 +368,17 @@
         </div>
       </header>
 
+      <!-- =====================================================================
+           Wrapper treści lekcji. Jedna <article.lesson> na każdą lekcję;
+           widoczna jest tylko ta z data-lesson-id pasującym do aktywnej pozycji
+           w sidebarze. Dla Step 5 mamy rozpisaną jedną lekcję (m1-w1-l1) +
+           placeholder dla pozostałych 31 (finalne treści wygenerują się w Task 3.8).
+           ===================================================================== -->
+      <div class="lesson-content-wrapper">
+
+      <!-- ============ Lekcja m1-w1-l1 — „Por qué un aserradero es diferente" ============ -->
+      <article class="lesson" data-lesson-id="m1-w1-l1">
+
       <!-- Tytuł lekcji -->
       <h1 class="lesson-title">
         <span data-lang="es">Por qué un aserradero es diferente</span>
@@ -615,12 +626,11 @@
                 <span data-lang="en" hidden>Slipping on a wet floor</span>
                 <span data-lang="pl" hidden>Poślizgnięcie na mokrej podłodze</span>
               </li>
-              <li class="mini-quiz__option mini-quiz__option--correct">
+              <li class="mini-quiz__option" data-correct="true">
                 <span data-lang="es">Rechazo (kickback) de la madera desde la sierra</span>
                 <span data-lang="uk" hidden>Віддача (kickback) деревини від пилки</span>
                 <span data-lang="en" hidden>Wood kickback from the saw</span>
                 <span data-lang="pl" hidden>Odrzut (kickback) drewna z pilarki</span>
-                <span class="mini-quiz__badge" aria-label="respuesta correcta">✓</span>
               </li>
               <li class="mini-quiz__option">
                 <span data-lang="es">Fatiga visual por pantallas</span>
@@ -658,12 +668,11 @@
                 <span data-lang="en" hidden>Because the law requires that order</span>
                 <span data-lang="pl" hidden>Bo prawo wymaga takiej kolejności</span>
               </li>
-              <li class="mini-quiz__option mini-quiz__option--correct">
+              <li class="mini-quiz__option" data-correct="true">
                 <span data-lang="es">Porque necesitas poder estar en el taller sin ser un peligro antes de tocar una máquina</span>
                 <span data-lang="uk" hidden>Бо ти маєш уміти перебувати у цеху, не створюючи небезпеки, перш ніж торкнешся машини</span>
                 <span data-lang="en" hidden>Because you must be able to be in the workshop without being a danger before you touch any machine</span>
                 <span data-lang="pl" hidden>Bo musisz umieć być w hali nie stanowiąc zagrożenia, zanim dotkniesz jakiejkolwiek maszyny</span>
-                <span class="mini-quiz__badge" aria-label="respuesta correcta">✓</span>
               </li>
               <li class="mini-quiz__option">
                 <span data-lang="es">Porque las máquinas son muy complicadas</span>
@@ -689,12 +698,11 @@
                 <span data-lang="en" hidden>It has a strong smell</span>
                 <span data-lang="pl" hidden>Ma silny zapach</span>
               </li>
-              <li class="mini-quiz__option mini-quiz__option--correct">
+              <li class="mini-quiz__option" data-correct="true">
                 <span data-lang="es">Queda flotando en el aire durante horas y entra a los pulmones sin notarlo</span>
                 <span data-lang="uk" hidden>Тримається в повітрі годинами і потрапляє в легені непомітно</span>
                 <span data-lang="en" hidden>It stays airborne for hours and enters the lungs unnoticed</span>
                 <span data-lang="pl" hidden>Utrzymuje się w powietrzu godzinami i wchodzi do płuc niepostrzeżenie</span>
-                <span class="mini-quiz__badge" aria-label="respuesta correcta">✓</span>
               </li>
               <li class="mini-quiz__option">
                 <span data-lang="es">Cambia de color con la humedad</span>
@@ -775,6 +783,33 @@
         </div>
       </section>
 
+      </article><!-- /lekcja m1-w1-l1 -->
+
+      <!-- ============ Placeholder dla 31 pozostałych lekcji M1 ============
+           W Task 3.8 (build-kurs.mjs) ten blok zostanie zastąpiony 31 pełnymi
+           <article>-ami wygenerowanymi z content/M1/**.md. Na razie wyświetla
+           komunikat, że lekcja jest w przygotowaniu. ===================== -->
+      <article class="lesson lesson--placeholder" data-lesson-id="__placeholder__" hidden>
+        <div class="lesson-placeholder" data-lang="es">
+          <h1 class="lesson-title">Lección en preparación</h1>
+          <p>Esta lección se generará en el Task 3.8 (build-kurs.mjs). Por ahora estás viendo solo la lección de prueba <strong>m1-w1-l1</strong>.</p>
+        </div>
+        <div class="lesson-placeholder" data-lang="uk" hidden>
+          <h1 class="lesson-title">Урок у підготовці</h1>
+          <p>Цей урок буде згенеровано в Task 3.8 (build-kurs.mjs). Наразі ти бачиш лише тестовий урок <strong>m1-w1-l1</strong>.</p>
+        </div>
+        <div class="lesson-placeholder" data-lang="en" hidden>
+          <h1 class="lesson-title">Lesson in preparation</h1>
+          <p>This lesson will be generated in Task 3.8 (build-kurs.mjs). For now, you are only seeing the sample lesson <strong>m1-w1-l1</strong>.</p>
+        </div>
+        <div class="lesson-placeholder" data-lang="pl" hidden>
+          <h1 class="lesson-title">Lekcja w przygotowaniu</h1>
+          <p>Ta lekcja zostanie wygenerowana w Task 3.8 (build-kurs.mjs). Na razie widzisz tylko przykładową lekcję <strong>m1-w1-l1</strong>.</p>
+        </div>
+      </article>
+
+      </div><!-- /.lesson-content-wrapper -->
+
       <!-- Nawigacja dół lekcji -->
       <!-- TODO Step 5: podłączyć routing lekcji (prev/next na podstawie indeksu) -->
       <nav class="lesson-nav" aria-label="Navegación entre lecciones">
@@ -811,6 +846,20 @@
       var SUPPORTED_LANGS = ['es', 'uk', 'en', 'pl'];
       var DEFAULT_LANG = 'es';
       var LS_LANG = 'egida_tartak_lang';
+      var LS_PROGRESS = 'egida_tartak_M1_progress';
+      var TOTAL_LESSONS = 32; // 4 tygodnie × 8 lekcji w M1
+
+      // Feedback mini-quizu w 4 językach (krótki tekst — reszta UI zostaje w HTML).
+      var UI_FEEDBACK = {
+        es: { correct: '✅ ¡Correcto!', incorrect: '❌ Inténtalo de nuevo' },
+        uk: { correct: '✅ Правильно!', incorrect: '❌ Спробуй ще раз' },
+        en: { correct: '✅ Correct!',   incorrect: '❌ Try again' },
+        pl: { correct: '✅ Dobrze!',    incorrect: '❌ Spróbuj jeszcze raz' }
+      };
+
+      function getCurrentLang() {
+        return document.documentElement.dataset.currentLang || DEFAULT_LANG;
+      }
 
       // ---------------------------------------------------------------
       // STEP 4 — Przełącznik języka (UI + persistencja)
@@ -869,10 +918,242 @@
       }
 
       // ---------------------------------------------------------------
+      // STEP 5 — Nawigacja lekcji + progress + mini-quiz
+      // ---------------------------------------------------------------
+
+      // Lista wszystkich ID lekcji w kolejności sidebara (dla prev/next)
+      function getAllLessonIds() {
+        var items = document.querySelectorAll('.lesson-item[data-lesson-id]');
+        var ids = [];
+        items.forEach(function (item) { ids.push(item.getAttribute('data-lesson-id')); });
+        return ids;
+      }
+
+      function loadProgress() {
+        try {
+          var raw = localStorage.getItem(LS_PROGRESS);
+          return raw ? JSON.parse(raw) : {};
+        } catch (e) { return {}; }
+      }
+
+      function saveProgress(progress) {
+        try { localStorage.setItem(LS_PROGRESS, JSON.stringify(progress)); } catch (e) {}
+      }
+
+      function updateProgressBar() {
+        var progress = loadProgress();
+        var completed = 0;
+        getAllLessonIds().forEach(function (id) { if (progress[id]) completed++; });
+        var pct = Math.round((completed / TOTAL_LESSONS) * 100);
+
+        var fill  = document.querySelector('.progress__fill');
+        var value = document.querySelector('.progress__value');
+        var bar   = document.querySelector('.progress__bar');
+        if (fill)  fill.style.width = pct + '%';
+        if (value) value.textContent = pct + '%';
+        if (bar)   bar.setAttribute('aria-valuenow', String(pct));
+      }
+
+      function refreshSidebarCompletedFlags() {
+        var progress = loadProgress();
+        document.querySelectorAll('.lesson-item[data-lesson-id]').forEach(function (item) {
+          var id = item.getAttribute('data-lesson-id');
+          item.classList.toggle('lesson-item--completed', !!progress[id]);
+        });
+      }
+
+      function markLessonComplete(id) {
+        if (!id) return;
+        var progress = loadProgress();
+        if (progress[id]) return;
+        progress[id] = true;
+        saveProgress(progress);
+        refreshSidebarCompletedFlags();
+        updateProgressBar();
+      }
+
+      // Format data-lesson-id: "m{module}-w{week}-l{lesson}"
+      function parseLessonId(id) {
+        var m = /^m(\d+)-w(\d+)-l(\d+)$/.exec(id || '');
+        if (!m) return null;
+        return { module: +m[1], week: +m[2], lesson: +m[3] };
+      }
+
+      function updateBreadcrumb(id) {
+        var parsed = parseLessonId(id);
+        if (!parsed) return;
+        var labels = {
+          es: 'Módulo '  + parsed.module + ' / Semana '   + parsed.week + ' / Lección ' + parsed.lesson,
+          uk: 'Модуль '  + parsed.module + ' / Тиждень '  + parsed.week + ' / Урок '    + parsed.lesson,
+          en: 'Module '  + parsed.module + ' / Week '     + parsed.week + ' / Lesson '  + parsed.lesson,
+          pl: 'Moduł '   + parsed.module + ' / Tydzień '  + parsed.week + ' / Lekcja '  + parsed.lesson
+        };
+        var bc = document.querySelector('.breadcrumb');
+        if (!bc) return;
+        bc.querySelectorAll('[data-lang]').forEach(function (n) {
+          var lang = n.getAttribute('data-lang');
+          if (labels[lang]) n.textContent = labels[lang];
+        });
+      }
+
+      function goToLesson(id) {
+        if (!id) return;
+
+        // 1. Aktywna pozycja w sidebarze
+        document.querySelectorAll('.lesson-item[data-lesson-id]').forEach(function (item) {
+          var isActive = item.getAttribute('data-lesson-id') === id;
+          item.classList.toggle('lesson-item--active', isActive);
+          if (isActive) item.setAttribute('aria-current', 'page');
+          else          item.removeAttribute('aria-current');
+        });
+
+        // 2. Pokaż właściwy <article> — realna lekcja (m1-w1-l1) lub placeholder
+        var wrapper = document.querySelector('.lesson-content-wrapper');
+        if (!wrapper) return;
+        var articles = wrapper.querySelectorAll('article.lesson');
+        var realMatched = null;
+        var placeholder = null;
+        articles.forEach(function (a) {
+          var aid = a.getAttribute('data-lesson-id');
+          if (aid === '__placeholder__') placeholder = a;
+          else if (aid === id)           realMatched = a;
+        });
+
+        articles.forEach(function (a) { a.setAttribute('hidden', ''); });
+        if (realMatched) {
+          realMatched.removeAttribute('hidden');
+        } else if (placeholder) {
+          placeholder.removeAttribute('hidden');
+        }
+
+        // 3. Breadcrumb + przyciski prev/next
+        updateBreadcrumb(id);
+        updateLessonNavButtons(id);
+
+        // 4. Scroll do góry + zamknij sidebar (mobile — Step 7 podłączy ten hook)
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function updateLessonNavButtons(currentId) {
+        var ids = getAllLessonIds();
+        var idx = ids.indexOf(currentId);
+        var prev = document.querySelector('.lesson-nav__btn--prev');
+        var next = document.querySelector('.lesson-nav__btn--next');
+
+        if (prev) {
+          if (idx <= 0) {
+            prev.setAttribute('disabled', '');
+            prev.setAttribute('aria-disabled', 'true');
+          } else {
+            prev.removeAttribute('disabled');
+            prev.removeAttribute('aria-disabled');
+          }
+        }
+        if (next) {
+          if (idx === -1 || idx >= ids.length - 1) {
+            next.setAttribute('disabled', '');
+            next.setAttribute('aria-disabled', 'true');
+          } else {
+            next.removeAttribute('disabled');
+            next.removeAttribute('aria-disabled');
+          }
+        }
+      }
+
+      function getCurrentLessonId() {
+        var active = document.querySelector('.lesson-item.lesson-item--active[data-lesson-id]');
+        return active ? active.getAttribute('data-lesson-id') : null;
+      }
+
+      function initLessonNavigation() {
+        // Event delegation na .weeks-nav — klik w pozycję lekcji
+        var weeksNav = document.querySelector('.weeks-nav');
+        if (weeksNav) {
+          weeksNav.addEventListener('click', function (e) {
+            var item = e.target.closest('.lesson-item[data-lesson-id]');
+            if (!item) return;
+            goToLesson(item.getAttribute('data-lesson-id'));
+          });
+        }
+
+        // Przyciski prev / next (bezpośrednie listenery — są tylko dwa)
+        var prev = document.querySelector('.lesson-nav__btn--prev');
+        var next = document.querySelector('.lesson-nav__btn--next');
+        if (prev) {
+          prev.addEventListener('click', function () {
+            var ids = getAllLessonIds();
+            var idx = ids.indexOf(getCurrentLessonId());
+            if (idx > 0) goToLesson(ids[idx - 1]);
+          });
+        }
+        if (next) {
+          next.addEventListener('click', function () {
+            var ids = getAllLessonIds();
+            var cur = getCurrentLessonId();
+            var idx = ids.indexOf(cur);
+            // Klik „Następna lekcja" = uznaj bieżącą za ukończoną.
+            if (cur) markLessonComplete(cur);
+            if (idx !== -1 && idx < ids.length - 1) goToLesson(ids[idx + 1]);
+          });
+        }
+
+        // Init — progress bar, flagi completed, stan przycisków
+        refreshSidebarCompletedFlags();
+        updateProgressBar();
+        var cur = getCurrentLessonId();
+        if (cur) updateLessonNavButtons(cur);
+      }
+
+      // --- Mini-quiz — inline sprawdzenie pojedynczego pytania ---
+      function initMiniQuiz() {
+        // Event delegation na .main-content — odporne na przełączanie lekcji.
+        var root = document.querySelector('.main-content');
+        if (!root) return;
+
+        root.addEventListener('click', function (e) {
+          var opt = e.target.closest('.mini-quiz__option');
+          if (!opt) return;
+
+          var question = opt.closest('.mini-quiz__question');
+          if (!question) return;
+          if (question.dataset.answered === 'true') return; // pytanie już rozwiązane
+
+          var isCorrect = opt.getAttribute('data-correct') === 'true';
+
+          question.dataset.answered = 'true';
+          question.querySelectorAll('.mini-quiz__option').forEach(function (o) {
+            o.classList.add('mini-quiz__option--locked');
+            // Zawsze podświetl poprawną — żeby user wiedział, która była dobra.
+            if (o.getAttribute('data-correct') === 'true') {
+              o.classList.add('mini-quiz__option--correct');
+            }
+          });
+          if (!isCorrect) opt.classList.add('mini-quiz__option--incorrect');
+
+          // Feedback tekstowy — generujemy spany w 4 językach i pokazujemy
+          // tylko bieżący (pozostałe z `hidden`). Spójne z resztą szablonu.
+          var fb = document.createElement('div');
+          fb.className = 'mini-quiz__feedback ' +
+            (isCorrect ? 'mini-quiz__feedback--correct' : 'mini-quiz__feedback--incorrect');
+          var cur = getCurrentLang();
+          SUPPORTED_LANGS.forEach(function (l) {
+            var s = document.createElement('span');
+            s.setAttribute('data-lang', l);
+            s.textContent = isCorrect ? UI_FEEDBACK[l].correct : UI_FEEDBACK[l].incorrect;
+            if (l !== cur) s.setAttribute('hidden', '');
+            fb.appendChild(s);
+          });
+          question.appendChild(fb);
+        });
+      }
+
+      // ---------------------------------------------------------------
       // Boot
       // ---------------------------------------------------------------
       function init() {
         initLanguageSwitcher();
+        initLessonNavigation();
+        initMiniQuiz();
       }
 
       if (document.readyState === 'loading') {

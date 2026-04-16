@@ -247,6 +247,18 @@ li {
   font-weight: 700;
 }
 
+/* Lekcja ukończona — znacznik ✓ przed tekstem */
+.lesson-item--completed {
+  color: rgba(250, 250, 245, 0.92);
+}
+
+.lesson-item--completed::before {
+  content: '✓ ';
+  color: var(--accent-success);
+  font-weight: 700;
+  margin-right: 0.1em;
+}
+
 /* --------------------------------------------------------------------------
    Step 3: main content — nagłówek, tytuł lekcji, sekcje, quiz, nawigacja
    -------------------------------------------------------------------------- */
@@ -417,6 +429,74 @@ li {
   border-color: var(--accent-success);
   color: var(--accent-success);
   font-weight: 600;
+}
+
+.mini-quiz__option--correct::after {
+  content: ' ✓';
+  color: var(--accent-success);
+  font-weight: 700;
+  margin-left: 0.35em;
+}
+
+.mini-quiz__option--incorrect {
+  background: var(--accent-danger-bg);
+  border-color: var(--accent-danger);
+  color: var(--accent-danger);
+  font-weight: 600;
+}
+
+.mini-quiz__option--incorrect::after {
+  content: ' ✕';
+  color: var(--accent-danger);
+  font-weight: 700;
+  margin-left: 0.35em;
+}
+
+.mini-quiz__option--locked {
+  cursor: default;
+  pointer-events: none;
+}
+
+.mini-quiz__feedback {
+  margin-top: 0.75rem;
+  padding: 0.6rem 0.85rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  font-size: var(--fs-sm);
+  transition: opacity 200ms ease;
+}
+
+.mini-quiz__feedback--correct {
+  background: var(--accent-success-bg);
+  color: var(--accent-success);
+  border: 1px solid var(--accent-success-border);
+}
+
+.mini-quiz__feedback--incorrect {
+  background: var(--accent-danger-bg);
+  color: var(--accent-danger);
+  border: 1px solid var(--accent-danger-border);
+}
+
+/* --- Placeholder dla lekcji jeszcze niewygenerowanych (Task 3.8) --- */
+.lesson-placeholder {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  background: var(--bg-muted);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-lg);
+  color: var(--text-muted);
+}
+
+.lesson-placeholder h1.lesson-title {
+  color: var(--text-primary);
+  font-size: var(--fs-2xl);
+  margin-bottom: 0.75rem;
+}
+
+.lesson-placeholder p {
+  margin: 0;
+  font-size: var(--fs-base);
 }
 
 .mini-quiz__badge {
