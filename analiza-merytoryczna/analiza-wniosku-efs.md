@@ -7,21 +7,28 @@
 
 ---
 
-> **UWAGA KRYTYCZNA — kontekst projektu:**
-> Ten wniosek dotyczy projektu pn. „Budowa fundamentów pod lokalną politykę migracyjną
+> **KONTEKST PROJEKTU I DECYZJA (2026-04-16):**
+> Wniosek dotyczy projektu pn. „Budowa fundamentów pod lokalną politykę migracyjną
 > i integracyjną" realizowanego przez **Fundację na rzecz Edukacji SMART** (lider) +
-> **Fundację pomocy prawnej EGIDA** (partner). Projekt NIE jest kursem tartakowym — jest
-> projektem wzmocnienia potencjału organizacyjnego obu fundacji, aby mogły w przyszłości
-> prowadzić kursy integracyjne dla migrantów (j. polski, prawa, zawodowe). Kurs tartakowy
-> jest zatem DZIAŁANIEM PRZYSZŁYM, które organizacje będą realizować PO wzmocnieniu
-> potencjału — finansowanym z zasobów wytworzonych w tym projekcie lub z kolejnych
-> projektów. Nie jest wprost opisany w wniosku jako osobny kurs BHP/tartak.
+> **Fundację pomocy prawnej EGIDA** (partner) — projekt wzmocnienia potencjału
+> organizacyjnego obu fundacji (500 000 zł, 2026-01-01 → 2027-12-31). Kurs tartakowy
+> nie jest explicite wskaźnikiem projektowym, ale jest **efektem docelowym** budowania
+> potencjału: wniosek finansuje wzmocnienie, **po to żeby** organizacja realizowała
+> swój cel statutowy — a działaniami statutowymi są m.in. kursy integracyjne dla migrantów.
 >
-> Implikacja dla Podprojektu A: kurs tartakowy wpisuje się w obszar „nauczanie życia w Polsce"
-> i „szkolenia kompetencyjne" opisane w wizji organizacji, ale NIE ma dedykowanego wskaźnika
-> w tym wniosku. Analiza poniżej opisuje wymogi, które obowiązują EGIDĘ jako beneficjenta
-> EFS+ — i które muszą być zachowane we wszystkich materiałach wydawanych w ramach tego
-> projektu, w tym w kursach e-learningowych.
+> **DECYZJA (podjęta przez koordynatora EGIDA, 2026-04-16) — OPCJA C „HYBRYDA":**
+> Kurs tartakowy jest traktowany jako działanie projektowe (łańcuch przyczynowy
+> wniosek → potencjał → kursy jest ciągły). Oznaczenia UE (3 logotypy: FE Opolskie
+> + barwy RP + UE) oraz klauzula informacyjna SĄ obowiązkowe. Implementacja przez
+> **placeholdery** parametryzowane w `course.config.json` — zgodnie z D14 (Architektura 3
+> „deferred split"), żeby w fazie C (plugin Claude Code) inna organizacja mogła podmienić
+> wartości bez modyfikacji kodu.
+>
+> Konsekwencje praktyczne: logotypy + klauzula w stopce `kurs.html`, slajdzie tytułowym
+> `prezentacja.html`, nagłówku zaświadczeń DOCX (faza B), naklejkach na sprzęt (jeśli
+> dotyczy). Wskaźniki projektu (11 osób personelu) NIE są zmartwieniem kursu —
+> to sprawa SMART+EGIDA jako beneficjentów. Pre-test/post-test: opcjonalny dla kursu
+> migrantów, mechanizm karty postępu (Opcja R ze speca) wystarczający.
 
 ---
 
@@ -47,10 +54,10 @@ Projekt trwa 2026-01-01 — 2027-12-31 (24 miesiące). Budżet: 500 000 zł (dof
 
 - E-learning tartakowy mieści się w kategorii „nauczanie życia w Polsce / szkolenia
   kompetencyjne" — jest zgodny z wizją ośrodka one-stop-shop.
-- Kurs musi być sygnowany jako działanie realizowane w ramach projektu EFS+ (logo, klauzula)
-  jeśli jest finansowany lub współfinansowany z budżetu projektowego.
-- Jeśli kurs jest rozwijany poza budżetem projektowym (np. jako niezależny produkt EGIDY),
-  oznaczenia EFS+ NIE są obowiązkowe — do weryfikacji z koordynatorem projektu.
+- **Kurs jest sygnowany jako działanie realizowane w ramach projektu EFS+** (logo + klauzula
+  obowiązkowe) — zgodnie z decyzją koordynatora z 2026-04-16, zob. nota na górze dokumentu.
+- Implementacja przez placeholdery w `course.config.json` (`{{UE_LOGO_BLOCK}}`,
+  `{{CO_FUNDED_CLAUSE}}`, `{{PROJEKT_NAZWA}}`, `{{PROJEKT_NUMER}}`) — Architektura 3.
 
 ---
 
@@ -84,8 +91,9 @@ Wniosek wskazuje, że organizacje „obecnie obejmują wsparciem 80-osobową gru
 - Kurs BHP/tartak trafia do **migrantów poszukujących zatrudnienia** — głównie Ukraińcy
   i Kolumbijczycy w woj. opolskim. Uzasadnienie językowe (UA, ES, PL) jest więc zgodne
   z profilowaną grupą docelową wniosku.
-- Jeśli kurs ma być zaliczony do działań projektowych: uczestnik musi być pełnoletni
-  i legalnie przebywać w Polsce — to kryterium kwalifikowalności do weryfikacji.
+- **Kryteria kwalifikowalności uczestnika** (zgodnie z decyzją C — kurs w ramach projektu):
+  pełnoletność + legalny pobyt w RP. Weryfikujemy przy zapisie; odzwierciedlenie w umowie
+  o kurs (Podprojekt B) — pole `{{UCZESTNIK_STATUS_POBYTOWY}}`.
 - Poziom języka polskiego uczestników: wyższy niż podstawowy (A2+/B1) — kurs PL
   pisany dla A2+ jest bezpieczny.
 - Wniosek **nie precyzuje** wymagań formalnych co do poziomu wykształcenia uczestników
@@ -370,9 +378,11 @@ Elementy, które muszą być w dokumentach administracyjnych:
 
 ## Uwagi końcowe — braki i luki do uzupełnienia
 
-1. **Kurs tartakowy nie jest explicite wymieniony w wniosku** — jest efektem docelowym
+1. ~~**Kurs tartakowy nie jest explicite wymieniony w wniosku** — jest efektem docelowym
    budowania potencjału, nie zadaniem projektowym. Czy kurs będzie formalnie powiązany
-   z projektem (i tym samym objęty wymogami EFS+) — **do decyzji koordynatora projektu**.
+   z projektem (i tym samym objęty wymogami EFS+) — **do decyzji koordynatora projektu**.~~
+   **ROZSTRZYGNIĘTE 2026-04-16:** kurs traktowany jako działanie projektowe (opcja C „hybryda"),
+   oznaczenia UE obowiązkowe, implementacja przez placeholdery. Zob. nota na górze dokumentu.
 
 2. **Pełna klauzula oznakowania EFS+** (dokładna treść i kolejność logotypów) — brak
    w tekście wniosku, odsyła do *Podręcznika wnioskodawcy*. Pobrać z portalu:
