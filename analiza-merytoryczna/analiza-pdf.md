@@ -217,7 +217,7 @@ Najważniejsze źródło dla bloków Procesy i Materiał w M2/M3. Poradnik jest 
 
 | Blok | M1 | M2 | M3 |
 |------|----|----|-----|
-| **B — Bezpieczeństwo** | ★★★ | ★★☆ | ★★★ |
+| **B — Bezpieczeństwo** | ★★☆ | ★★☆ | ★★★ |
 | **M — Materiał** | ★☆☆ | ★☆☆ | ★☆☆ |
 | **P — Procesy** | ★☆☆ | ★☆☆ | ★☆☆ |
 | **O — Organizacja** | ★★☆ | ★★☆ | ★★★ |
@@ -282,6 +282,8 @@ Wąski zakres — przydatny tylko do jednej lekcji w M1 (transport kłód na pla
 Prawdopodobnie studium przypadku dużego polskiego zakładu drzewnego (Barlinek SA to jeden z największych polskich producentów parkietu i materiałów drzewnych). Praca naukowa — prawdopodobnie zawiera: historię zakładu, strukturę organizacyjną, analizę produkcji, kontekst branżowy przemysłu drzewnego w Polsce.
 
 ### Mapa pokrycia bloków i modułów
+
+> *Gwiazdki w tej tabeli to szacunki oparte na tytule i kontekście pracy — plik nie został fizycznie odczytany.*
 
 | Blok | M1 | M2 | M3 |
 |------|----|----|-----|
