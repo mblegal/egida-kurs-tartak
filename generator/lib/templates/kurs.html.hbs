@@ -23,12 +23,16 @@
 </head>
 <body>
   <!-- TEMPLATE: replace with {{COURSE_TITLE}} / {{MODULE_TITLE}} in Step 5 -->
+
+  <!-- Overlay mobilny (Step 7) — widoczny tylko gdy sidebar jest otwarty na ≤1024px -->
+  <div class="sidebar-overlay" aria-hidden="true"></div>
+
   <div class="app-container">
 
     <!-- =====================================================================
          SIDEBAR — logo, language switcher, progress, nawigacja tygodni
          ===================================================================== -->
-    <aside class="sidebar" aria-label="Navegación del curso">
+    <aside id="course-sidebar" class="sidebar" aria-label="Navegación del curso">
 
       <!-- Logo blok -->
       <div class="sidebar__logo">
@@ -369,6 +373,8 @@
 
       <!-- Breadcrumb / nagłówek pasek -->
       <header class="content-header">
+        <!-- Hamburger mobile (Step 7) — widoczny tylko na ≤1024px -->
+        <button type="button" class="menu-toggle" aria-label="Menú" aria-controls="course-sidebar" aria-expanded="false">☰</button>
         <div class="breadcrumb" aria-label="breadcrumb">
           <span data-lang="es">Módulo 1 / Semana 1 / Lección 1</span>
           <span data-lang="uk" hidden>Модуль 1 / Тиждень 1 / Урок 1</span>
@@ -1280,8 +1286,9 @@
         updateBreadcrumb(id);
         updateLessonNavButtons(id);
 
-        // 4. Scroll do góry + zamknij sidebar (mobile — Step 7 podłączy ten hook)
+        // 4. Scroll do góry + zamknij sidebar na mobile (Step 7)
         window.scrollTo({ top: 0, behavior: 'smooth' });
+        closeSidebarMobile();
       }
 
       function updateLessonNavButtons(currentId) {
@@ -1518,7 +1525,12 @@
 
       function initFinalQuiz() {
         var openBtn = document.querySelector('.final-quiz-open');
-        if (openBtn) openBtn.addEventListener('click', showFinalQuiz);
+        if (openBtn) {
+          openBtn.addEventListener('click', function () {
+            showFinalQuiz();
+            closeSidebarMobile(); // na mobile po otwarciu quizu chowamy sidebar
+          });
+        }
 
         var form = document.querySelector('.final-quiz-form');
         if (form) {
@@ -1533,6 +1545,41 @@
       }
 
       // ---------------------------------------------------------------
+      // STEP 7 — Hamburger mobile (≤1024px)
+      // ---------------------------------------------------------------
+      function openSidebarMobile() {
+        var sidebar = document.querySelector('.sidebar');
+        var overlay = document.querySelector('.sidebar-overlay');
+        var toggle  = document.querySelector('.menu-toggle');
+        if (sidebar) sidebar.classList.add('sidebar--open');
+        if (overlay) overlay.classList.add('sidebar-overlay--visible');
+        if (toggle)  toggle.setAttribute('aria-expanded', 'true');
+      }
+
+      function closeSidebarMobile() {
+        var sidebar = document.querySelector('.sidebar');
+        var overlay = document.querySelector('.sidebar-overlay');
+        var toggle  = document.querySelector('.menu-toggle');
+        if (sidebar) sidebar.classList.remove('sidebar--open');
+        if (overlay) overlay.classList.remove('sidebar-overlay--visible');
+        if (toggle)  toggle.setAttribute('aria-expanded', 'false');
+      }
+
+      function initMobileMenu() {
+        var toggle = document.querySelector('.menu-toggle');
+        var overlay = document.querySelector('.sidebar-overlay');
+        if (toggle) {
+          toggle.addEventListener('click', function () {
+            var sidebar = document.querySelector('.sidebar');
+            if (!sidebar) return;
+            if (sidebar.classList.contains('sidebar--open')) closeSidebarMobile();
+            else openSidebarMobile();
+          });
+        }
+        if (overlay) overlay.addEventListener('click', closeSidebarMobile);
+      }
+
+      // ---------------------------------------------------------------
       // Boot
       // ---------------------------------------------------------------
       function init() {
@@ -1540,6 +1587,7 @@
         initLessonNavigation();
         initMiniQuiz();
         initFinalQuiz();
+        initMobileMenu();
       }
 
       if (document.readyState === 'loading') {
