@@ -1,0 +1,26 @@
+{
+  "name": "egida-kurs-tartak",
+  "version": "0.1.0",
+  "description": "Kurs tartakowy Fundacji EGIDA — materiały 4-językowe (PL/EN/ES/UK)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build:kurs": "node generator/build-kurs.mjs",
+    "build:prezentacja": "node generator/build-prezentacja.mjs",
+    "build:docs": "node generator/build-docs.mjs",
+    "build:prospekt": "node generator/build-prospekt.mjs",
+    "build:all": "npm run build:kurs && npm run build:prezentacja && npm run build:docs && npm run build:prospekt",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-attrs": "^4.3.1",
+    "markdown-it-container": "^4.0.0",
+    "gray-matter": "^4.0.3"
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0",
+    "puppeteer": "^23.0.0"
+  }
+}
