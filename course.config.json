@@ -1,0 +1,58 @@
+{
+  "course": "tartak",
+  "courseName": {
+    "pl": "Kurs pracy w tartaku",
+    "en": "Sawmill Work Course",
+    "es": "Curso de trabajo en el aserradero",
+    "uk": "Курс роботи на лісопильному заводі"
+  },
+  "modules": [
+    {
+      "id": "M1",
+      "name": {
+        "pl": "Moduł 1: Pracownik pomocniczy",
+        "en": "Module 1: Assistant Worker",
+        "es": "Módulo 1: Trabajador auxiliar",
+        "uk": "Модуль 1: Помічник робітника"
+      },
+      "role": "pomocniczy"
+    },
+    {
+      "id": "M2",
+      "name": {
+        "pl": "Moduł 2: Młodszy pracownik",
+        "en": "Module 2: Junior Worker",
+        "es": "Módulo 2: Trabajador junior",
+        "uk": "Модуль 2: Молодший робітник"
+      },
+      "role": "młodszy"
+    },
+    {
+      "id": "M3",
+      "name": {
+        "pl": "Moduł 3: Pracownik samodzielny",
+        "en": "Module 3: Independent Worker",
+        "es": "Módulo 3: Trabajador independiente",
+        "uk": "Модуль 3: Самостійний робітник"
+      },
+      "role": "samodzielny"
+    }
+  ],
+  "languages": ["pl", "en", "es", "uk"],
+  "defaultLanguage": "es",
+  "blocks": [
+    { "id": "bezpieczenstwo", "week": 1,
+      "name": { "pl": "Bezpieczeństwo", "en": "Safety", "es": "Seguridad", "uk": "Безпека" } },
+    { "id": "material", "week": 2,
+      "name": { "pl": "Materiał", "en": "Material", "es": "Material", "uk": "Матеріал" } },
+    { "id": "procesy", "week": 3,
+      "name": { "pl": "Procesy", "en": "Processes", "es": "Procesos", "uk": "Процеси" } },
+    { "id": "organizacja", "week": 4,
+      "name": { "pl": "Organizacja", "en": "Organization", "es": "Organización", "uk": "Організація" } }
+  ],
+  "lessonDurationMin": 120,
+  "lessonsPerWeek": 8,
+  "weeksPerModule": 4,
+  "passingScore": 70,
+  "version": "0.1.0"
+}
