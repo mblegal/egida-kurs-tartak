@@ -1,0 +1,67 @@
+/* ==========================================================================
+   Semantyczne karty — zgodne z md-to-html.mjs (containers: info/warning/tip/example/formula)
+   Każda karta renderowana jako <div class="{name}-card">...</div>
+   ========================================================================== */
+
+.info-card,
+.warning-card,
+.tip-card,
+.example-card,
+.formula-card {
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border-left: 4px solid;
+  box-shadow: var(--shadow-sm);
+}
+
+.info-card {
+  background: var(--accent-info-bg);
+  border-color: var(--accent-info);
+  color: var(--text-primary);
+}
+
+.warning-card {
+  background: var(--accent-warning-bg);
+  border-color: var(--accent-warning);
+  color: var(--text-primary);
+}
+
+.tip-card {
+  background: var(--accent-success-bg);
+  border-color: var(--accent-success);
+  color: var(--text-primary);
+}
+
+.example-card {
+  background: var(--accent-primary-light);
+  border-color: var(--accent-primary-dark);
+  color: var(--text-primary);
+}
+
+.formula-card {
+  background: var(--bg-muted);
+  border-color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  color: var(--text-primary);
+}
+
+/* Nagłówki wewnątrz kart — lżejsza hierarchia niż główne h2/h3 */
+.info-card h3,
+.warning-card h3,
+.tip-card h3,
+.example-card h3,
+.formula-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: var(--fs-lg);
+  font-family: var(--font-sans);
+}
+
+.info-card p:last-child,
+.warning-card p:last-child,
+.tip-card p:last-child,
+.example-card p:last-child,
+.formula-card p:last-child {
+  margin-bottom: 0;
+}

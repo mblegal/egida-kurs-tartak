@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Paleta kursu tartakowego EGIDA — podgląd</title>
+  <link rel="stylesheet" href="design-tokens.css">
+  <link rel="stylesheet" href="cards.css">
+  <style>
+    body {
+      font-family: var(--font-sans);
+      padding: 2.5rem;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      max-width: 1100px;
+      margin: 0 auto;
+      line-height: 1.5;
+    }
+    h1, h2 {
+      font-family: var(--font-display);
+      color: var(--text-primary);
+    }
+    h1 { font-size: var(--fs-4xl); margin: 0 0 0.5rem 0; }
+    h2 { font-size: var(--fs-2xl); margin: 2.5rem 0 1rem 0; border-bottom: 2px solid var(--border); padding-bottom: 0.5rem; }
+    .subtitle { color: var(--text-muted); font-size: var(--fs-lg); margin-bottom: 2rem; }
+
+    .swatch-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1rem;
+    }
+    .swatch {
+      border-radius: var(--radius-md);
+      overflow: hidden;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid var(--border);
+      background: var(--bg-card);
+    }
+    .swatch-color {
+      height: 110px;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-start;
+      padding: 0.75rem 1rem;
+      font-family: var(--font-mono);
+      font-size: var(--fs-sm);
+    }
+    .swatch-meta {
+      padding: 0.75rem 1rem;
+      background: var(--bg-card);
+    }
+    .swatch-name {
+      font-weight: 600;
+      font-size: var(--fs-sm);
+      color: var(--text-primary);
+    }
+    .swatch-role {
+      font-size: var(--fs-xs);
+      color: var(--text-muted);
+      margin-top: 0.25rem;
+    }
+
+    .type-sample {
+      background: var(--bg-card);
+      padding: 1.5rem;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border);
+      margin-top: 1rem;
+    }
+    .type-sample h3 { font-family: var(--font-display); font-size: var(--fs-2xl); margin: 0 0 0.5rem 0; }
+    .type-sample p { margin: 0 0 0.75rem 0; }
+    .type-sample .muted { color: var(--text-muted); }
+    .type-sample a { color: var(--text-link); }
+
+    .dark-preview {
+      background: var(--bg-dark);
+      color: var(--text-on-dark);
+      padding: 1.5rem;
+      border-radius: var(--radius-md);
+      margin-top: 1rem;
+    }
+    .dark-preview h3 { color: var(--text-on-dark); margin: 0 0 0.5rem 0; font-family: var(--font-display); }
+  </style>
+</head>
+<body>
+
+  <h1>Paleta kursu tartakowego EGIDA</h1>
+  <p class="subtitle">Brąz (kość słoniowa) + zielone drewno + pomarańcz BHP. Celowo inna niż MAG Welding (turkus) i EGIDA.html (gold+navy).</p>
+
+  <!-- ==================================================================== -->
+  <h2>Tła i tekst</h2>
+  <div class="swatch-grid">
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--bg-primary); color: var(--text-primary); border-bottom: 1px solid var(--border);">#FAFAF5</div>
+      <div class="swatch-meta"><div class="swatch-name">--bg-primary</div><div class="swatch-role">kość słoniowa — główne tło</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--bg-card); color: var(--text-primary); border-bottom: 1px solid var(--border);">#FFFFFF</div>
+      <div class="swatch-meta"><div class="swatch-name">--bg-card</div><div class="swatch-role">karty i sekcje treści</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--bg-muted); color: var(--text-primary);">#F5EFE6</div>
+      <div class="swatch-meta"><div class="swatch-name">--bg-muted</div><div class="swatch-role">ciepły szary dla podziałów</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--bg-dark); color: var(--text-on-dark);">#2A1F17</div>
+      <div class="swatch-meta"><div class="swatch-name">--bg-dark</div><div class="swatch-role">ciemny brąz — sidebar, nagłówki</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--text-primary); color: var(--text-on-dark);">#2A1F17</div>
+      <div class="swatch-meta"><div class="swatch-name">--text-primary</div><div class="swatch-role">główny tekst</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--text-muted); color: white;">#6B5D52</div>
+      <div class="swatch-meta"><div class="swatch-name">--text-muted</div><div class="swatch-role">drugorzędny, szary-beż</div></div>
+    </div>
+  </div>
+
+  <!-- ==================================================================== -->
+  <h2>Akcent główny — zielone drewno</h2>
+  <div class="swatch-grid">
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-primary); color: white;">#6B8E4E</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-primary</div><div class="swatch-role">główne akcenty: przyciski, nagłówki sekcji, aktywne linki</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-primary-dark); color: white;">#4E6A38</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-primary-dark</div><div class="swatch-role">hover, focus, linki w tekście</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-primary-light); color: var(--accent-primary-dark);">#E8EFDE</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-primary-light</div><div class="swatch-role">tło example-card, aktywna pozycja w sidebarze</div></div>
+    </div>
+  </div>
+
+  <!-- ==================================================================== -->
+  <h2>Akcenty semantyczne</h2>
+  <div class="swatch-grid">
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-warning); color: white;">#D97706</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-warning</div><div class="swatch-role">pomarańcz BHP — warning-card, ostrzeżenia bezpieczeństwa</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-success); color: white;">#059669</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-success</div><div class="swatch-role">tip-card, wskazówki, zaliczone quizy</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-danger); color: white;">#DC2626</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-danger</div><div class="swatch-role">krytyczne zagrożenia, błędy testu</div></div>
+    </div>
+    <div class="swatch">
+      <div class="swatch-color" style="background: var(--accent-info); color: white;">#0369A1</div>
+      <div class="swatch-meta"><div class="swatch-name">--accent-info</div><div class="swatch-role">info-card, informacje uzupełniające</div></div>
+    </div>
+  </div>
+
+  <!-- ==================================================================== -->
+  <h2>Typografia</h2>
+  <div class="type-sample">
+    <h3>Bezpieczeństwo pracy w tartaku</h3>
+    <p>Ten kurs łączy trzy priorytety: ochronę zdrowia, jakość produktu i szacunek do drewna jako surowca. Każda lekcja zaczyna się od przypomnienia BHP.</p>
+    <p class="muted">Materiały pomocnicze dla trenera — 2 godziny teorii w sali Fundacji, 3 × 8 godzin praktyki w tartaku partnerskim.</p>
+    <p>Zobacz <a href="#">szczegóły programu</a> i zasady ukończenia modułu.</p>
+  </div>
+
+  <div class="dark-preview">
+    <h3>Nawigacja na ciemnym tle (sidebar)</h3>
+    <p>Tydzień 1 — Bezpieczeństwo · Tydzień 2 — Materiał · Tydzień 3 — Procesy · Tydzień 4 — Organizacja</p>
+  </div>
+
+  <!-- ==================================================================== -->
+  <h2>Karty semantyczne (md-to-html containers)</h2>
+
+  <div class="info-card">
+    <h3>info-card — informacja</h3>
+    <p>W 2025 roku w polskich tartakach pracowało około 42 tys. osób. Większość zakładów to firmy rodzinne średniej wielkości.</p>
+  </div>
+
+  <div class="warning-card">
+    <h3>warning-card — BHP / uwaga</h3>
+    <p>Pył z dębu i buku jest <strong>kancerogenny</strong>. Nigdy nie pracuj bez maski FFP2/FFP3 przy obróbce tych gatunków.</p>
+  </div>
+
+  <div class="tip-card">
+    <h3>tip-card — wskazówka praktyczna</h3>
+    <p>Sprawdzaj ostrze taśmy codziennie przed pierwszym rozruchem — mikropęknięcia u podstawy zęba to najczęstszy powód zerwania taśmy.</p>
+  </div>
+
+  <div class="example-card">
+    <h3>example-card — przykład</h3>
+    <p>Kłoda sosnowa 4 m × 30 cm daje typowo 5–6 desek tartacznych 32×200 mm po obrzynaniu, zależnie od jakości surowca i prowadzenia cięcia.</p>
+  </div>
+
+  <div class="formula-card">
+    <h3>formula-card — wzór / obliczenie</h3>
+    <p>wydajność = (objętość tarcicy uzyskanej / objętość surowca) × 100%<br>typowo 55–65% dla taśmy, 45–55% dla ramowej.</p>
+  </div>
+
+  <!-- ==================================================================== -->
+  <h2>Przyciski</h2>
+  <p style="margin-top: 1rem;">
+    <button style="background: var(--accent-primary); color: white; border: 0; padding: 0.75rem 1.5rem; border-radius: var(--radius-md); font-family: var(--font-sans); font-size: var(--fs-base); cursor: pointer;">Rozpocznij lekcję</button>
+    <button style="background: var(--bg-card); color: var(--accent-primary-dark); border: 1px solid var(--accent-primary); padding: 0.75rem 1.5rem; border-radius: var(--radius-md); font-family: var(--font-sans); font-size: var(--fs-base); cursor: pointer; margin-left: 0.5rem;">Powrót</button>
+    <button style="background: var(--accent-warning); color: white; border: 0; padding: 0.75rem 1.5rem; border-radius: var(--radius-md); font-family: var(--font-sans); font-size: var(--fs-base); cursor: pointer; margin-left: 0.5rem;">Zatrzymaj maszynę</button>
+  </p>
+
+</body>
+</html>

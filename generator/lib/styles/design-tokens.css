@@ -1,0 +1,78 @@
+/* ==========================================================================
+   Design tokens — kurs tartakowy EGIDA
+   Paleta: brąz (kość słoniowa) + zielone drewno + pomarańcz BHP
+   Branding celowo inny niż MAG Welding (turkus) i EGIDA.html (gold+navy)
+   ========================================================================== */
+
+:root {
+  /* --- Tła --- */
+  --bg-primary: #FAFAF5;              /* kość słoniowa — główne tło */
+  --bg-card: #FFFFFF;                 /* karty i sekcje treści */
+  --bg-dark: #2A1F17;                 /* ciemny brąz — nagłówki, sidebar */
+  --bg-muted: #F5EFE6;                /* lekko ciepły szary dla podziałów */
+
+  /* --- Tekst --- */
+  --text-primary: #2A1F17;            /* główny, ciemny brąz na jasnym tle */
+  --text-muted: #6B5D52;              /* drugorzędny, szary-beż */
+  --text-on-dark: #FAFAF5;            /* tekst na ciemnym tle */
+  --text-link: #4E6A38;               /* linki — ciemna zieleń */
+
+  /* --- Akcent główny (zielone drewno) --- */
+  --accent-primary: #6B8E4E;
+  --accent-primary-dark: #4E6A38;
+  --accent-primary-light: #E8EFDE;
+
+  /* --- Akcent BHP / uwaga (pomarańcz) --- */
+  --accent-warning: #D97706;
+  --accent-warning-bg: #FFF7ED;
+  --accent-warning-border: #FDBA74;
+
+  /* --- Success (ciemna zieleń, inna niż primary) --- */
+  --accent-success: #059669;
+  --accent-success-bg: #ECFDF5;
+  --accent-success-border: #6EE7B7;
+
+  /* --- Danger (czerwony, dla zagrożeń) --- */
+  --accent-danger: #DC2626;
+  --accent-danger-bg: #FEF2F2;
+  --accent-danger-border: #FCA5A5;
+
+  /* --- Info (chłodny niebieski, kontrast do ciepłych tonów) --- */
+  --accent-info: #0369A1;
+  --accent-info-bg: #F0F9FF;
+  --accent-info-border: #7DD3FC;
+
+  /* --- Borders --- */
+  --border: #E7E0D5;
+  --border-light: #F5EFE6;
+
+  /* --- Shadows (ciepły cień zamiast neutralnego) --- */
+  --shadow-sm: 0 1px 2px rgba(42, 31, 23, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(42, 31, 23, 0.07);
+  --shadow-lg: 0 10px 15px -3px rgba(42, 31, 23, 0.08);
+
+  /* --- Radius --- */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  /* --- Fonts --- */
+  --font-sans: 'Inter', -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Plus Jakarta Sans', var(--font-sans);
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* --- Font sizes --- */
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.25rem;
+  --fs-2xl: 1.5rem;
+  --fs-3xl: 2rem;
+  --fs-4xl: 2.5rem;
+
+  /* --- Layout --- */
+  --sidebar-width: 320px;
+  --header-height: 64px;
+  --content-max-width: 768px;
+}
