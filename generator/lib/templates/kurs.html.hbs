@@ -351,6 +351,15 @@
         </section>
 
       </nav>
+
+      <!-- Przycisk otwierający końcowy quiz modułu (Step 6) -->
+      <button type="button" class="final-quiz-open">
+        <span data-lang="es">🏆 Examen final del módulo</span>
+        <span data-lang="uk" hidden>🏆 Підсумковий іспит модуля</span>
+        <span data-lang="en" hidden>🏆 Final module exam</span>
+        <span data-lang="pl" hidden>🏆 Egzamin końcowy modułu</span>
+      </button>
+
     </aside>
 
     <!-- =====================================================================
@@ -810,6 +819,233 @@
 
       </div><!-- /.lesson-content-wrapper -->
 
+      <!-- =====================================================================
+           FINAL QUIZ VIEW (Step 6) — ukryty domyślnie.
+           TEMPLATE: 5 sample pytań, w Task 3.8 będą wstawione z content/M1/quizzes.json.
+           Nagłówek mówi „20 pytań · ≥70%", ale tu jest 5 jako placeholder — pass ≥ 70% (min 4/5).
+           ===================================================================== -->
+      <section class="final-quiz-view" hidden aria-label="Examen final">
+
+        <header class="final-quiz-header">
+          <h1 class="final-quiz-title">
+            <span data-lang="es">Examen final — Módulo 1</span>
+            <span data-lang="uk" hidden>Підсумковий іспит — Модуль 1</span>
+            <span data-lang="en" hidden>Final exam — Module 1</span>
+            <span data-lang="pl" hidden>Egzamin końcowy — Moduł 1</span>
+          </h1>
+          <p class="final-quiz-info">
+            <span data-lang="es">20 preguntas · Aprobado ≥ 70%</span>
+            <span data-lang="uk" hidden>20 питань · Прохідний бал ≥ 70%</span>
+            <span data-lang="en" hidden>20 questions · Pass ≥ 70%</span>
+            <span data-lang="pl" hidden>20 pytań · Zaliczenie ≥ 70%</span>
+          </p>
+        </header>
+
+        <form class="final-quiz-form" novalidate>
+          <ol class="final-quiz-questions">
+
+            <!-- ================ Pytanie 1 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>1.</strong> ¿Cuál de estos es un riesgo específico del aserradero?</span>
+                <span data-lang="uk" hidden><strong>1.</strong> Який із цих ризиків характерний саме для лісопилки?</span>
+                <span data-lang="en" hidden><strong>1.</strong> Which of these is a sawmill-specific hazard?</span>
+                <span data-lang="pl" hidden><strong>1.</strong> Które z poniższych zagrożeń jest specyficzne dla tartaku?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q1" value="a">
+                  <span data-lang="es">Fatiga visual por pantallas</span>
+                  <span data-lang="uk" hidden>Втома очей від екранів</span>
+                  <span data-lang="en" hidden>Eye strain from screens</span>
+                  <span data-lang="pl" hidden>Zmęczenie oczu od ekranów</span>
+                </label></li>
+                <li><label><input type="radio" name="q1" value="b" data-correct="true">
+                  <span data-lang="es">Rechazo (kickback) de la madera</span>
+                  <span data-lang="uk" hidden>Віддача (kickback) деревини</span>
+                  <span data-lang="en" hidden>Wood kickback</span>
+                  <span data-lang="pl" hidden>Odrzut (kickback) drewna</span>
+                </label></li>
+                <li><label><input type="radio" name="q1" value="c">
+                  <span data-lang="es">Cortes con papel</span>
+                  <span data-lang="uk" hidden>Порізи папером</span>
+                  <span data-lang="en" hidden>Paper cuts</span>
+                  <span data-lang="pl" hidden>Skaleczenia papierem</span>
+                </label></li>
+                <li><label><input type="radio" name="q1" value="d">
+                  <span data-lang="es">Electricidad estática</span>
+                  <span data-lang="uk" hidden>Статична електрика</span>
+                  <span data-lang="en" hidden>Static electricity</span>
+                  <span data-lang="pl" hidden>Elektryczność statyczna</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 2 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>2.</strong> ¿A partir de qué nivel de ruido diario se daña el oído de forma permanente?</span>
+                <span data-lang="uk" hidden><strong>2.</strong> З якого рівня щоденного шуму слух пошкоджується назавжди?</span>
+                <span data-lang="en" hidden><strong>2.</strong> Above what daily noise level is hearing damage permanent?</span>
+                <span data-lang="pl" hidden><strong>2.</strong> Od jakiego poziomu codziennego hałasu słuch jest uszkadzany trwale?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q2" value="a">
+                  <span data-lang="es">60 dB</span>
+                  <span data-lang="uk" hidden>60 дБ</span>
+                  <span data-lang="en" hidden>60 dB</span>
+                  <span data-lang="pl" hidden>60 dB</span>
+                </label></li>
+                <li><label><input type="radio" name="q2" value="b">
+                  <span data-lang="es">70 dB</span>
+                  <span data-lang="uk" hidden>70 дБ</span>
+                  <span data-lang="en" hidden>70 dB</span>
+                  <span data-lang="pl" hidden>70 dB</span>
+                </label></li>
+                <li><label><input type="radio" name="q2" value="c" data-correct="true">
+                  <span data-lang="es">85 dB</span>
+                  <span data-lang="uk" hidden>85 дБ</span>
+                  <span data-lang="en" hidden>85 dB</span>
+                  <span data-lang="pl" hidden>85 dB</span>
+                </label></li>
+                <li><label><input type="radio" name="q2" value="d">
+                  <span data-lang="es">120 dB</span>
+                  <span data-lang="uk" hidden>120 дБ</span>
+                  <span data-lang="en" hidden>120 dB</span>
+                  <span data-lang="pl" hidden>120 dB</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 3 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>3.</strong> ¿Qué tipo de mascarilla es adecuado frente al polvo fino de madera?</span>
+                <span data-lang="uk" hidden><strong>3.</strong> Яка маска підходить проти дрібного деревного пилу?</span>
+                <span data-lang="en" hidden><strong>3.</strong> Which mask is suitable against fine wood dust?</span>
+                <span data-lang="pl" hidden><strong>3.</strong> Która maska nadaje się przeciw drobnemu pyłowi drzewnemu?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q3" value="a">
+                  <span data-lang="es">Mascarilla quirúrgica</span>
+                  <span data-lang="uk" hidden>Хірургічна маска</span>
+                  <span data-lang="en" hidden>Surgical mask</span>
+                  <span data-lang="pl" hidden>Maska chirurgiczna</span>
+                </label></li>
+                <li><label><input type="radio" name="q3" value="b">
+                  <span data-lang="es">Bufanda de tela</span>
+                  <span data-lang="uk" hidden>Тканинний шарф</span>
+                  <span data-lang="en" hidden>Fabric scarf</span>
+                  <span data-lang="pl" hidden>Szalik z tkaniny</span>
+                </label></li>
+                <li><label><input type="radio" name="q3" value="c" data-correct="true">
+                  <span data-lang="es">Mascarilla FFP3 ajustada a la cara</span>
+                  <span data-lang="uk" hidden>Маска FFP3, щільно припасована</span>
+                  <span data-lang="en" hidden>FFP3 mask sealed to the face</span>
+                  <span data-lang="pl" hidden>Maska FFP3 szczelnie dopasowana</span>
+                </label></li>
+                <li><label><input type="radio" name="q3" value="d">
+                  <span data-lang="es">Ninguna — el polvo no es peligroso</span>
+                  <span data-lang="uk" hidden>Жодна — пил не небезпечний</span>
+                  <span data-lang="en" hidden>None — dust isn't dangerous</span>
+                  <span data-lang="pl" hidden>Żadna — pył nie jest niebezpieczny</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 4 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>4.</strong> ¿Dónde NO debes colocarte cuando el operador está cortando con una sierra?</span>
+                <span data-lang="uk" hidden><strong>4.</strong> Де НЕ можна стояти, коли оператор ріже на пилці?</span>
+                <span data-lang="en" hidden><strong>4.</strong> Where must you NOT stand while the operator is cutting?</span>
+                <span data-lang="pl" hidden><strong>4.</strong> Gdzie NIE wolno stawać, gdy operator tnie piłą?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q4" value="a">
+                  <span data-lang="es">A un lado de la máquina, fuera de la línea de corte</span>
+                  <span data-lang="uk" hidden>Збоку від машини, поза лінією різу</span>
+                  <span data-lang="en" hidden>Beside the machine, off the line of cut</span>
+                  <span data-lang="pl" hidden>Z boku maszyny, poza linią cięcia</span>
+                </label></li>
+                <li><label><input type="radio" name="q4" value="b" data-correct="true">
+                  <span data-lang="es">En la línea de corte, incluso detrás del operador</span>
+                  <span data-lang="uk" hidden>У лінії різу, навіть за оператором</span>
+                  <span data-lang="en" hidden>In the line of cut, even behind the operator</span>
+                  <span data-lang="pl" hidden>W linii cięcia, nawet za plecami operatora</span>
+                </label></li>
+                <li><label><input type="radio" name="q4" value="c">
+                  <span data-lang="es">En la ruta marcada para peatones</span>
+                  <span data-lang="uk" hidden>На розміченій пішохідній доріжці</span>
+                  <span data-lang="en" hidden>On the marked pedestrian route</span>
+                  <span data-lang="pl" hidden>Na wyznaczonej trasie dla pieszych</span>
+                </label></li>
+                <li><label><input type="radio" name="q4" value="d">
+                  <span data-lang="es">Fuera del taller</span>
+                  <span data-lang="uk" hidden>Поза цехом</span>
+                  <span data-lang="en" hidden>Outside the workshop</span>
+                  <span data-lang="pl" hidden>Poza halą</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 5 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>5.</strong> ¿Por qué el curso empieza por seguridad antes que por el manejo de máquinas?</span>
+                <span data-lang="uk" hidden><strong>5.</strong> Чому курс починається з безпеки, а не з роботи на машинах?</span>
+                <span data-lang="en" hidden><strong>5.</strong> Why does the course start with safety before machine operation?</span>
+                <span data-lang="pl" hidden><strong>5.</strong> Dlaczego kurs zaczyna się od BHP, a nie od obsługi maszyn?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q5" value="a">
+                  <span data-lang="es">Porque así lo exige la ley polaca</span>
+                  <span data-lang="uk" hidden>Бо цього вимагає польський закон</span>
+                  <span data-lang="en" hidden>Because Polish law requires it</span>
+                  <span data-lang="pl" hidden>Bo tak wymaga polskie prawo</span>
+                </label></li>
+                <li><label><input type="radio" name="q5" value="b" data-correct="true">
+                  <span data-lang="es">Para poder estar en el taller sin ser un peligro antes de tocar una máquina</span>
+                  <span data-lang="uk" hidden>Щоб перебувати в цеху, не створюючи небезпеки, перш ніж торкнешся машини</span>
+                  <span data-lang="en" hidden>So you can be in the workshop without being a danger before touching any machine</span>
+                  <span data-lang="pl" hidden>Aby móc być w hali nie stanowiąc zagrożenia, zanim dotkniesz maszyny</span>
+                </label></li>
+                <li><label><input type="radio" name="q5" value="c">
+                  <span data-lang="es">Porque las máquinas son demasiado complicadas</span>
+                  <span data-lang="uk" hidden>Бо машини надто складні</span>
+                  <span data-lang="en" hidden>Because the machines are too complicated</span>
+                  <span data-lang="pl" hidden>Bo maszyny są zbyt skomplikowane</span>
+                </label></li>
+                <li><label><input type="radio" name="q5" value="d">
+                  <span data-lang="es">Porque es más barato</span>
+                  <span data-lang="uk" hidden>Бо це дешевше</span>
+                  <span data-lang="en" hidden>Because it's cheaper</span>
+                  <span data-lang="pl" hidden>Bo jest taniej</span>
+                </label></li>
+              </ul>
+            </li>
+
+          </ol>
+
+          <div class="final-quiz-actions">
+            <button type="submit" class="final-quiz-submit">
+              <span data-lang="es">Enviar</span>
+              <span data-lang="uk" hidden>Надіслати</span>
+              <span data-lang="en" hidden>Submit</span>
+              <span data-lang="pl" hidden>Wyślij</span>
+            </button>
+            <button type="button" class="final-quiz-back">
+              <span data-lang="es">Volver al curso</span>
+              <span data-lang="uk" hidden>Повернутися до курсу</span>
+              <span data-lang="en" hidden>Back to course</span>
+              <span data-lang="pl" hidden>Powrót do kursu</span>
+            </button>
+          </div>
+        </form>
+
+        <!-- Widok wyniku — wypełniany przez JS po submit. -->
+        <div class="final-quiz-result" hidden aria-live="polite"></div>
+      </section>
+
       <!-- Nawigacja dół lekcji -->
       <!-- TODO Step 5: podłączyć routing lekcji (prev/next na podstawie indeksu) -->
       <nav class="lesson-nav" aria-label="Navegación entre lecciones">
@@ -847,7 +1083,9 @@
       var DEFAULT_LANG = 'es';
       var LS_LANG = 'egida_tartak_lang';
       var LS_PROGRESS = 'egida_tartak_M1_progress';
+      var LS_QUIZ = 'egida_tartak_M1_quizResult';
       var TOTAL_LESSONS = 32; // 4 tygodnie × 8 lekcji w M1
+      var PASS_THRESHOLD = 70; // procent
 
       // Feedback mini-quizu w 4 językach (krótki tekst — reszta UI zostaje w HTML).
       var UI_FEEDBACK = {
@@ -855,6 +1093,18 @@
         uk: { correct: '✅ Правильно!', incorrect: '❌ Спробуй ще раз' },
         en: { correct: '✅ Correct!',   incorrect: '❌ Try again' },
         pl: { correct: '✅ Dobrze!',    incorrect: '❌ Spróbuj jeszcze raz' }
+      };
+
+      // Teksty wyniku końcowego quizu
+      var UI_RESULT = {
+        es: { passed: '✅ ¡Aprobado!', failed: '❌ No aprobado', scoreLabel: 'Tu puntuación:',
+              retake: 'Intentar de nuevo', backToCourse: 'Volver al curso' },
+        uk: { passed: '✅ Склав!',     failed: '❌ Не склав',    scoreLabel: 'Твій результат:',
+              retake: 'Спробувати знову', backToCourse: 'Повернутися до курсу' },
+        en: { passed: '✅ Passed!',    failed: '❌ Not passed',  scoreLabel: 'Your score:',
+              retake: 'Try again', backToCourse: 'Back to course' },
+        pl: { passed: '✅ Zdane!',     failed: '❌ Niezaliczone', scoreLabel: 'Twój wynik:',
+              retake: 'Spróbuj ponownie', backToCourse: 'Powrót do kursu' }
       };
 
       function getCurrentLang() {
@@ -1148,12 +1398,148 @@
       }
 
       // ---------------------------------------------------------------
+      // STEP 6 — Końcowy quiz modułu
+      // ---------------------------------------------------------------
+      function showFinalQuiz() {
+        var wrapper = document.querySelector('.lesson-content-wrapper');
+        var quizView = document.querySelector('.final-quiz-view');
+        var nav = document.querySelector('.lesson-nav');
+        if (wrapper)  wrapper.setAttribute('hidden', '');
+        if (nav)      nav.setAttribute('hidden', '');
+        if (quizView) quizView.removeAttribute('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function backToCourse() {
+        var wrapper = document.querySelector('.lesson-content-wrapper');
+        var quizView = document.querySelector('.final-quiz-view');
+        var nav = document.querySelector('.lesson-nav');
+        if (wrapper)  wrapper.removeAttribute('hidden');
+        if (nav)      nav.removeAttribute('hidden');
+        if (quizView) quizView.setAttribute('hidden', '');
+        // Przy wyjściu przywracamy widok pytania/submit (gdyby ktoś wracał po submicie)
+        var resultEl = document.querySelector('.final-quiz-result');
+        if (resultEl) resultEl.setAttribute('hidden', '');
+        var questions = document.querySelector('.final-quiz-questions');
+        var submit = document.querySelector('.final-quiz-submit');
+        if (questions) questions.removeAttribute('hidden');
+        if (submit)    submit.removeAttribute('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function retakeFinalQuiz() {
+        var form = document.querySelector('.final-quiz-form');
+        if (form) form.reset();
+        var resultEl = document.querySelector('.final-quiz-result');
+        if (resultEl) resultEl.setAttribute('hidden', '');
+        var questions = document.querySelector('.final-quiz-questions');
+        var submit = document.querySelector('.final-quiz-submit');
+        if (questions) questions.removeAttribute('hidden');
+        if (submit)    submit.removeAttribute('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function submitFinalQuiz() {
+        var form = document.querySelector('.final-quiz-form');
+        if (!form) return;
+        var questions = form.querySelectorAll('.final-quiz-question');
+        var total = questions.length;
+        var correct = 0;
+        questions.forEach(function (q) {
+          var selected = q.querySelector('input[type="radio"]:checked');
+          if (selected && selected.getAttribute('data-correct') === 'true') correct++;
+        });
+        var pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+        var passed = pct >= PASS_THRESHOLD;
+
+        // Zapisz ostatni wynik (bez historii — nadpisuje poprzedni)
+        try {
+          localStorage.setItem(LS_QUIZ, JSON.stringify({
+            score: pct, correct: correct, total: total, passed: passed,
+            date: new Date().toISOString()
+          }));
+        } catch (e) {}
+
+        renderFinalQuizResult(pct, correct, total, passed);
+      }
+
+      function renderFinalQuizResult(pct, correct, total, passed) {
+        var resultEl = document.querySelector('.final-quiz-result');
+        if (!resultEl) return;
+
+        // Schowaj pytania + submit — pokazujemy tylko wynik
+        var questionsBlock = document.querySelector('.final-quiz-questions');
+        var submit = document.querySelector('.final-quiz-submit');
+        if (questionsBlock) questionsBlock.setAttribute('hidden', '');
+        if (submit)         submit.setAttribute('hidden', '');
+        resultEl.removeAttribute('hidden');
+
+        // Zbuduj świeży widok wyniku w 4 językach
+        resultEl.innerHTML = '';
+        var cur = getCurrentLang();
+
+        SUPPORTED_LANGS.forEach(function (l) {
+          var wrap = document.createElement('div');
+          wrap.setAttribute('data-lang', l);
+          if (l !== cur) wrap.setAttribute('hidden', '');
+
+          var h = document.createElement('h2');
+          h.className = 'final-quiz-result__title ' +
+            (passed ? 'final-quiz-result__title--passed' : 'final-quiz-result__title--failed');
+          h.textContent = passed ? UI_RESULT[l].passed : UI_RESULT[l].failed;
+          wrap.appendChild(h);
+
+          var p = document.createElement('p');
+          p.className = 'final-quiz-result__score';
+          p.textContent = UI_RESULT[l].scoreLabel + ' ' + correct + '/' + total + ' (' + pct + '%)';
+          wrap.appendChild(p);
+
+          var actions = document.createElement('div');
+          actions.className = 'final-quiz-result__actions';
+
+          var retakeBtn = document.createElement('button');
+          retakeBtn.type = 'button';
+          retakeBtn.className = 'final-quiz-result__btn final-quiz-result__btn--retake';
+          retakeBtn.textContent = UI_RESULT[l].retake;
+          retakeBtn.addEventListener('click', retakeFinalQuiz);
+          actions.appendChild(retakeBtn);
+
+          var backBtn = document.createElement('button');
+          backBtn.type = 'button';
+          backBtn.className = 'final-quiz-result__btn final-quiz-result__btn--back';
+          backBtn.textContent = UI_RESULT[l].backToCourse;
+          backBtn.addEventListener('click', backToCourse);
+          actions.appendChild(backBtn);
+
+          wrap.appendChild(actions);
+          resultEl.appendChild(wrap);
+        });
+      }
+
+      function initFinalQuiz() {
+        var openBtn = document.querySelector('.final-quiz-open');
+        if (openBtn) openBtn.addEventListener('click', showFinalQuiz);
+
+        var form = document.querySelector('.final-quiz-form');
+        if (form) {
+          form.addEventListener('submit', function (e) {
+            e.preventDefault();
+            submitFinalQuiz();
+          });
+        }
+
+        var backBtn = document.querySelector('.final-quiz-back');
+        if (backBtn) backBtn.addEventListener('click', backToCourse);
+      }
+
+      // ---------------------------------------------------------------
       // Boot
       // ---------------------------------------------------------------
       function init() {
         initLanguageSwitcher();
         initLessonNavigation();
         initMiniQuiz();
+        initFinalQuiz();
       }
 
       if (document.readyState === 'loading') {
