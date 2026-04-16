@@ -1,0 +1,542 @@
+{
+  "module": "M3",
+  "moduleRole": "samodzielny",
+  "weeks": [
+    {
+      "week": 1,
+      "blockId": "bezpieczenstwo",
+      "lessons": [
+        {
+          "id": "m3-w1-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Od młodszego operatora do operatora samodzielnego",
+            "en": "From Junior Operator to Independent Operator",
+            "es": "De operador junior a operador independiente",
+            "uk": "Від молодшого оператора до самостійного оператора"
+          },
+          "opis": {
+            "pl": "Rozumiesz, co zmienia się w twojej pracy, gdy brygadzista przestaje stać obok maszyny. Przyjmujesz odpowiedzialność prawną, decyzyjną i jakościową — raport idzie do brygadzisty po fakcie, nie przed operacją.",
+            "en": "You understand what changes in your work when the foreman no longer stands next to the machine. You take on legal, decision-making, and quality responsibility — the report goes to the foreman after the fact, not before the operation.",
+            "es": "Entiendes qué cambia en tu trabajo cuando el capataz deja de estar junto a la máquina. Asumes responsabilidad legal, de decisión y de calidad — el reporte llega al capataz después del hecho, no antes de la operación.",
+            "uk": "Розумієш, що змінюється у твоїй роботі, коли бригадир перестає стояти поруч із машиною. Береш на себе юридичну відповідальність, відповідальність за рішення та якість — звіт іде до бригадира після факту, а не перед операцією."
+          }
+        },
+        {
+          "id": "m3-w1-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Pięciominutowa odprawa BHP — teraz ty ją prowadzisz",
+            "en": "Five-Minute Safety Briefing — Now You Lead It",
+            "es": "Charla de seguridad de cinco minutos — ahora la diriges tú",
+            "uk": "П'ятихвилинний інструктаж з безпеки — тепер ти його ведеш"
+          },
+          "opis": {
+            "pl": "Prowadzisz odprawę BHP na początku zmiany dla pomocnika i młodszego operatora. Dobierasz temat do dnia (surowiec, pogoda, awaria z poprzedniej zmiany) i kwitujesz odprawę w dzienniku.",
+            "en": "You lead the safety briefing at the start of the shift for the helper and the junior operator. You match the topic to the day (raw material, weather, breakdown from the previous shift) and sign off the briefing in the log.",
+            "es": "Diriges la charla de seguridad al inicio del turno para el ayudante y el operador junior. Ajustas el tema al día (materia prima, clima, avería del turno anterior) y firmas la charla en el diario.",
+            "uk": "Ведеш інструктаж з безпеки на початку зміни для помічника і молодшого оператора. Підбираєш тему до дня (сировина, погода, несправність з попередньої зміни) і підписуєш інструктаж у журналі."
+          }
+        },
+        {
+          "id": "m3-w1-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Odpowiedzialność prawna operatora samodzielnego",
+            "en": "Legal Responsibility of an Independent Operator",
+            "es": "Responsabilidad legal del operador independiente",
+            "uk": "Юридична відповідальність самостійного оператора"
+          },
+          "opis": {
+            "pl": "Znasz art. 210 Kodeksu pracy (prawo odmowy niebezpiecznej pracy), art. 220 (obowiązki pracownika), zakres odpowiedzialności wykroczeniowej operatora. Wiesz, kiedy spisuje się notatkę służbową i co ona oznacza.",
+            "en": "You know art. 210 Kodeks pracy (Polish Labour Code art. 210 — right to refuse dangerous work), art. 220 (employee duties), and the scope of an operator's petty-offence liability. You know when a service memo is written and what it means.",
+            "es": "Conoces el art. 210 del Código de Trabajo polaco (derecho a negarse a un trabajo peligroso), el art. 220 (obligaciones del trabajador) y el alcance de la responsabilidad por infracciones del operador. Sabes cuándo se redacta una nota de servicio y qué significa.",
+            "uk": "Знаєш ст. 210 Кодексу праці (польський Кодекс праці ст. 210 — право відмовитися від небезпечної роботи), ст. 220 (обов'язки працівника), межі адміністративної відповідальності оператора. Знаєш, коли складається службова записка і що вона означає."
+          }
+        },
+        {
+          "id": "m3-w1-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Decyzja o zatrzymaniu linii — kiedy i jak",
+            "en": "Deciding to Stop the Line — When and How",
+            "es": "Decidir parar la línea — cuándo y cómo",
+            "uk": "Рішення зупинити лінію — коли і як"
+          },
+          "opis": {
+            "pl": "Decydujesz samodzielnie o wstrzymaniu pracy maszyny lub całej linii przy wykryciu zagrożenia, wady surowca lub nieprawidłowej pracy maszyny. Znasz procedurę „STOP — zabezpiecz — zgłoś — udokumentuj\".",
+            "en": "You decide on your own to halt a machine or the whole line when you detect a hazard, a raw-material defect, or abnormal machine behavior. You know the procedure \"STOP — zabezpiecz — zgłoś — udokumentuj\" (stop — secure — report — document).",
+            "es": "Decides por ti mismo detener la máquina o toda la línea al detectar un peligro, un defecto de materia prima o un funcionamiento anómalo de la máquina. Conoces el procedimiento \"STOP — zabezpiecz — zgłoś — udokumentuj\" (para — asegura — reporta — documenta).",
+            "uk": "Вирішуєш самостійно зупинити машину або всю лінію при виявленні небезпеки, вади сировини або неправильної роботи машини. Знаєш процедуру \"STOP — zabezpiecz — zgłoś — udokumentuj\" (зупини — забезпеч — повідом — задокументуй)."
+          }
+        },
+        {
+          "id": "m3-w1-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Postępowanie po incydencie — operator jako lider",
+            "en": "Post-Incident Response — The Operator as Leader",
+            "es": "Actuación tras un incidente — el operador como líder",
+            "uk": "Дії після інциденту — оператор як лідер"
+          },
+          "opis": {
+            "pl": "Działasz w pierwszych minutach po wypadku zmiennika: zabezpieczasz miejsce, odcinasz zasilanie, wzywasz służby, przekazujesz informacje kierownikowi zmiany. Zabezpieczasz dowody do protokołu powypadkowego.",
+            "en": "You act in the first minutes after a co-worker's accident: you secure the site, cut the power, call emergency services, and pass information to the shift supervisor. You preserve evidence for the accident report.",
+            "es": "Actúas en los primeros minutos tras el accidente de un compañero: aseguras el lugar, cortas la alimentación, llamas a los servicios y transmites la información al jefe de turno. Preservas las pruebas para el acta de accidente.",
+            "uk": "Дієш у перші хвилини після нещасного випадку зі змінником: забезпечуєш місце, відключаєш живлення, викликаєш служби, передаєш інформацію начальнику зміни. Зберігаєш докази для акта про нещасний випадок."
+          }
+        },
+        {
+          "id": "m3-w1-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Ocena ryzyka na nowym stanowisku",
+            "en": "Risk Assessment at a New Workstation",
+            "es": "Evaluación de riesgos en un puesto nuevo",
+            "uk": "Оцінка ризику на новому робочому місці"
+          },
+          "opis": {
+            "pl": "Wypełniasz krótką kartę oceny ryzyka dla operacji, której jeszcze nie robiłeś (nowy gatunek, nowy wymiar, zastępstwo). Identyfikujesz trzy najgroźniejsze ryzyka i ich mitygację, zanim pierwszy raz włączysz maszynę.",
+            "en": "You fill out a short risk-assessment card for an operation you haven't done before (new species, new size, filling in for someone). You identify the three most serious risks and their mitigation before you start the machine for the first time.",
+            "es": "Rellenas una ficha breve de evaluación de riesgos para una operación que no has hecho antes (nueva especie, nueva medida, sustitución). Identificas los tres riesgos más graves y su mitigación antes de arrancar la máquina por primera vez.",
+            "uk": "Заповнюєш коротку картку оцінки ризику для операції, якої ще не виконував (нова порода, новий розмір, заміщення). Визначаєш три найсерйозніші ризики та їх пом'якшення, перш ніж уперше запустити машину."
+          }
+        },
+        {
+          "id": "m3-w1-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Praca w warunkach nietypowych — mróz, wilgoć, przeciążenie",
+            "en": "Work in Unusual Conditions — Frost, Humidity, Overload",
+            "es": "Trabajo en condiciones atípicas — heladas, humedad, sobrecarga",
+            "uk": "Робота в нетипових умовах — мороз, вологість, перевантаження"
+          },
+          "opis": {
+            "pl": "Decydujesz o rozruchu maszyny zimą (-10°C i niżej), przy wysokiej wilgotności i po długim postoju. Znasz wymogi wstępnego rozgrzania, ryzyko kondensacji na układach elektrycznych i limity producenta.",
+            "en": "You decide on starting the machine in winter (-10°C and below), in high humidity, and after a long shutdown. You know the warm-up requirements, the risk of condensation on electrical circuits, and the manufacturer's limits.",
+            "es": "Decides el arranque de la máquina en invierno (-10°C y menos), con alta humedad y tras una parada prolongada. Conoces los requisitos de precalentamiento, el riesgo de condensación en los sistemas eléctricos y los límites del fabricante.",
+            "uk": "Вирішуєш щодо запуску машини взимку (-10°C і нижче), при високій вологості та після тривалого простою. Знаєш вимоги попереднього прогріву, ризик конденсації на електричних системах і ліміти виробника."
+          }
+        },
+        {
+          "id": "m3-w1-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Instruktaż stanowiskowy dla pomocnika (M1)",
+            "en": "Workstation Instruction for the Helper (M1)",
+            "es": "Instrucción en el puesto para el ayudante (M1)",
+            "uk": "Інструктаж на робочому місці для помічника (М1)"
+          },
+          "opis": {
+            "pl": "Instruujesz nowego pomocnika z M1 przy swojej maszynie: ŚOI, strefa zakazu, gesty, sygnał STOP. Kwitujesz przyjęcie na stanowisko i odpowiadasz za jego bezpieczeństwo do końca zmiany.",
+            "en": "You instruct a new M1 helper at your machine: PPE, no-entry zone, gestures, STOP signal. You sign off their acceptance at the workstation and are responsible for their safety until the end of the shift.",
+            "es": "Instruyes a un nuevo ayudante de M1 en tu máquina: EPI, zona prohibida, gestos, señal de STOP. Firmas su aceptación en el puesto y respondes por su seguridad hasta el final del turno.",
+            "uk": "Інструктуєш нового помічника з М1 на своїй машині: ЗІЗ, зона заборони, жести, сигнал STOP. Підписуєш прийняття на робоче місце і відповідаєш за його безпеку до кінця зміни."
+          }
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "blockId": "material",
+      "lessons": [
+        {
+          "id": "m3-w2-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Wady wewnętrzne drewna — diagnostyka po cięciu",
+            "en": "Internal Wood Defects — Diagnosis After Cutting",
+            "es": "Defectos internos de la madera — diagnóstico tras el corte",
+            "uk": "Внутрішні вади деревини — діагностика після різання"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz pęknięcia rdzeniowe, mrozowe, zaparzenie, pleśń wewnętrzną i zgniliznę rdzeniową — wady niewidoczne na dłużycy, ujawniające się dopiero po przetarciu. Decydujesz, czy kłodę dociąć inaczej, zdeklasować czy odrzucić.",
+            "en": "You recognize pith shakes, frost cracks, heat damage (zaparzenie), internal mold, and pith rot — defects invisible on the whole trunk (*dłużyca*) that only reveal themselves after sawing. You decide whether to recut the log differently, downgrade it, or reject it.",
+            "es": "Reconoces fendas de médula, grietas por helada, recalentamiento (*zaparzenie*), moho interno y pudrición de médula — defectos invisibles en el rollizo entero (*dłużyca*) que solo se revelan tras el aserrado. Decides si recortar el tronco de otro modo, bajarlo de clase o descartarlo.",
+            "uk": "Розпізнаєш серцевинні тріщини, морозобоїни, запарювання (*zaparzenie*), внутрішню цвіль і серцевинну гниль — вади, непомітні на цілому стовбурі (*dłużyca*), які виявляються лише після розпилу. Вирішуєш, чи розрізати колоду інакше, знизити клас чи відбракувати."
+          }
+        },
+        {
+          "id": "m3-w2-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Klasyfikacja wizualna PN-EN 1611-1 — asysta klasyfikatora",
+            "en": "Visual Grading PN-EN 1611-1 — Grader Assistance",
+            "es": "Clasificación visual PN-EN 1611-1 — asistencia al clasificador",
+            "uk": "Візуальне сортування PN-EN 1611-1 — асистування класифікатору"
+          },
+          "opis": {
+            "pl": "Rozumiesz zasady klasyfikacji wizualnej tarcicy iglastej wg PN-EN 1611-1. Rozpoznajesz wady (sęki, pęknięcia, oblina, krzywizna) i przygotowujesz partię pod klasyfikację certyfikowanego klasyfikatora tartaku.",
+            "en": "You understand the rules of visual grading of softwood lumber under PN-EN 1611-1 (European standard for visual softwood grading). You recognize defects (knots, splits, *oblina* (slab), sweep) and prepare the batch for grading by the sawmill's certified grader.",
+            "es": "Entiendes las reglas de clasificación visual de madera aserrada de conífera según PN-EN 1611-1 (norma europea de clasificación visual de madera de conífera). Reconoces defectos (nudos, fendas, *oblina* (costero), curvatura) y preparas el lote para la clasificación del clasificador certificado del aserradero.",
+            "uk": "Розумієш правила візуального сортування хвойних пиломатеріалів згідно з PN-EN 1611-1 (європейський стандарт візуального сортування хвойної деревини). Розпізнаєш вади (сучки, тріщини, *oblina* (горбиль), кривизну) і готуєш партію для сортування сертифікованим класифікатором лісопилки."
+          }
+        },
+        {
+          "id": "m3-w2-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Klasyfikacja wytrzymałościowa PN-EN 14081 — zrozumieć klasy C16/C24/C35",
+            "en": "Strength Grading PN-EN 14081 — Understanding C16/C24/C35",
+            "es": "Clasificación por resistencia PN-EN 14081 — entender C16/C24/C35",
+            "uk": "Сортування за міцністю PN-EN 14081 — розуміння класів C16/C24/C35"
+          },
+          "opis": {
+            "pl": "Rozumiesz różnicę między klasyfikacją wizualną a wytrzymałościową oraz wymóg akredytowanego szkolenia ITB dla klasyfikatora. Rozpoznajesz wskaźniki wizualne (gęstość, szerokość słoja, sęki), które sugerują klasy C16, C24 lub C35.",
+            "en": "You understand the difference between visual and strength grading and the requirement of accredited ITB (Polish Building Research Institute) training for the grader. You recognize visual indicators (density, ring width, knots) that suggest grades C16, C24, or C35.",
+            "es": "Entiendes la diferencia entre clasificación visual y por resistencia, y la exigencia de formación acreditada del ITB (Instituto Polaco de Investigación de la Construcción) para el clasificador. Reconoces los indicadores visuales (densidad, anchura del anillo, nudos) que sugieren las clases C16, C24 o C35.",
+            "uk": "Розумієш різницю між візуальним сортуванням і сортуванням за міцністю та вимогу акредитованого навчання в ITB (польський Інститут будівельної техніки) для класифікатора. Розпізнаєш візуальні показники (щільність, ширина кільця, сучки), які вказують на класи C16, C24 або C35."
+          }
+        },
+        {
+          "id": "m3-w2-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Wytrzymałość drewna — co znaczą klasy C dla klienta",
+            "en": "Wood Strength — What C Grades Mean for the Customer",
+            "es": "Resistencia de la madera — qué significan las clases C para el cliente",
+            "uk": "Міцність деревини — що означають класи C для клієнта"
+          },
+          "opis": {
+            "pl": "Rozumiesz parametry mechaniczne kryjące się za klasami: wytrzymałość na zginanie, moduł sprężystości, gęstość. Wiesz, do czego klient używa C16 (więźba ekonomiczna), C24 (stropy, konstrukcje mieszkalne) i C35 (wysoko obciążone elementy).",
+            "en": "You understand the mechanical parameters behind the grades: bending strength, modulus of elasticity, density. You know what the customer uses C16 for (economy roof trusses), C24 (floors, residential structures), and C35 (high-load elements).",
+            "es": "Entiendes los parámetros mecánicos detrás de las clases: resistencia a flexión, módulo de elasticidad, densidad. Sabes para qué usa el cliente el C16 (cerchas económicas), el C24 (forjados, estructuras residenciales) y el C35 (elementos muy cargados).",
+            "uk": "Розумієш механічні параметри, що стоять за класами: міцність на згин, модуль пружності, щільність. Знаєш, для чого клієнт використовує C16 (економічна кроквяна конструкція), C24 (перекриття, житлові конструкції) та C35 (високонавантажені елементи)."
+          }
+        },
+        {
+          "id": "m3-w2-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Interpretacja pomiaru wilgotności w kontekście kampanii",
+            "en": "Interpreting Moisture Readings in the Campaign Context",
+            "es": "Interpretar la medición de humedad en el contexto de la campaña",
+            "uk": "Інтерпретація вимірювання вологості в контексті кампанії"
+          },
+          "opis": {
+            "pl": "Interpretujesz wynik wilgotnościomierza w zależności od przeznaczenia tarcicy: stolarka meblowa 8–10%, stolarka budowlana 12–15%, więźba dachowa 18%. Decydujesz, czy partia jest gotowa do wydania, czy wraca do suszenia.",
+            "en": "You interpret the moisture-meter reading according to the lumber's end use: furniture joinery 8–10%, construction joinery 12–15%, roof trusses 18%. You decide whether the batch is ready for release or goes back to drying.",
+            "es": "Interpretas la lectura del higrómetro según el destino de la madera: carpintería de muebles 8–10%, carpintería de obra 12–15%, cerchas de cubierta 18%. Decides si el lote está listo para salida o vuelve al secado.",
+            "uk": "Інтерпретуєш показання вологоміра залежно від призначення пиломатеріалів: меблева столярка 8–10%, будівельна столярка 12–15%, кроквяна конструкція 18%. Вирішуєш, чи готова партія до видачі, чи повертається на сушіння."
+          }
+        },
+        {
+          "id": "m3-w2-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Taśmy i piły — dobór pod gatunek i sortyment",
+            "en": "Bands and Blades — Matching to Species and Assortment",
+            "es": "Cintas y sierras — selección según especie y surtido",
+            "uk": "Стрічки і пилки — підбір під породу і сортимент"
+          },
+          "opis": {
+            "pl": "Dobierasz samodzielnie typ taśmy (stal stellitowa, taśma stopowa, szerokość, podziałka zębów) pod konkretną kłodę i zamówienie. Znasz różnicę między cięciem sosny świeżej, dębu suchego i zamarzniętej kłody.",
+            "en": "You choose on your own the band type (stellite steel, alloy band, width, tooth pitch) for a specific log and order. You know the difference between cutting fresh pine, dry oak, and a frozen log.",
+            "es": "Eliges por ti mismo el tipo de cinta (acero estelita, cinta de aleación, anchura, paso de diente) según el tronco y el pedido concretos. Conoces la diferencia entre cortar pino fresco, roble seco y un tronco congelado.",
+            "uk": "Самостійно підбираєш тип стрічки (стелітова сталь, сплавна стрічка, ширина, крок зубів) під конкретну колоду і замовлення. Знаєш різницю між розпилюванням свіжої сосни, сухого дуба і замерзлої колоди."
+          }
+        },
+        {
+          "id": "m3-w2-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Geometria ostrza i rozwarcie zębów",
+            "en": "Blade Geometry and Tooth Set",
+            "es": "Geometría de la hoja y trabado de los dientes",
+            "uk": "Геометрія леза і розвід зубів"
+          },
+          "opis": {
+            "pl": "Rozumiesz, jak szpic, rozwarcie i kąt natarcia wpływają na jakość rzazu i zużycie taśmy. Oceniasz wzrokowo stępienie zęba i mikropęknięcia u podstawy zęba — dwa najczęstsze powody zerwania taśmy.",
+            "en": "You understand how the tip, set, and rake angle affect kerf quality and band wear. You visually assess tooth dulling and micro-cracks at the tooth base — the two most common causes of a band break.",
+            "es": "Entiendes cómo la punta, el trabado y el ángulo de ataque afectan a la calidad del corte y al desgaste de la cinta. Evalúas a simple vista el embotamiento del diente y las microgrietas en la base del diente — las dos causas más frecuentes de rotura de la cinta.",
+            "uk": "Розумієш, як кінчик, розвід і передній кут впливають на якість пропилу та знос стрічки. Оцінюєш візуально затуплення зуба і мікротріщини біля основи зуба — дві найчастіші причини розриву стрічки."
+          }
+        },
+        {
+          "id": "m3-w2-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Konserwacja maszyn — utrzymanie ruchu w tartaku",
+            "en": "Machine Maintenance — Keeping the Sawmill Running",
+            "es": "Mantenimiento de máquinas — mantener el aserradero en marcha",
+            "uk": "Обслуговування машин — підтримання роботи лісопилки"
+          },
+          "opis": {
+            "pl": "Wykonujesz codzienną konserwację stanowiska: smarowanie prowadnic, czyszczenie odciągu, wymiana elementów eksploatacyjnych (filtry, klocki taśmy, żarówki sygnalizacji). Wiesz, kiedy zgłaszasz do utrzymania ruchu (UR), a kiedy robisz sam.",
+            "en": "You perform daily workstation maintenance: lubricating guides, cleaning the dust extraction, replacing consumables (filters, band pads, signal bulbs). You know when to report to UR (maintenance department) and when to do it yourself.",
+            "es": "Realizas el mantenimiento diario del puesto: engrase de guías, limpieza de la aspiración, cambio de consumibles (filtros, tacos de cinta, bombillas de señalización). Sabes cuándo reportas a UR (departamento de mantenimiento) y cuándo lo haces tú mismo.",
+            "uk": "Виконуєш щоденне обслуговування робочого місця: змащення напрямних, чищення витяжки, заміна видаткових елементів (фільтри, колодки стрічки, сигнальні лампи). Знаєш, коли повідомляєш до UR (служба обслуговування), а коли робиш сам."
+          }
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "blockId": "procesy",
+      "lessons": [
+        {
+          "id": "m3-w3-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Dobór parametrów cięcia pod konkretne zlecenie",
+            "en": "Choosing Cutting Parameters for a Specific Order",
+            "es": "Selección de parámetros de corte para un pedido concreto",
+            "uk": "Підбір параметрів різання під конкретне замовлення"
+          },
+          "opis": {
+            "pl": "Dobierasz samodzielnie prędkość posuwu, grubość rzazu i rozstaw taśmy pod surowiec (gatunek, wilgotność, wady) i sortyment docelowy z dyspozycji. Decyzja jest twoja, zanim uruchomisz maszynę.",
+            "en": "You choose on your own the feed rate, kerf thickness, and band setup for the raw material (species, moisture, defects) and the target assortment in the work order. The decision is yours before you start the machine.",
+            "es": "Eliges por ti mismo la velocidad de avance, el espesor del corte y el ajuste de la cinta según la materia prima (especie, humedad, defectos) y el surtido objetivo de la orden. La decisión es tuya antes de arrancar la máquina.",
+            "uk": "Самостійно підбираєш швидкість подачі, товщину пропилу і налаштування стрічки під сировину (порода, вологість, вади) та цільовий сортимент з наряду. Рішення — твоє, перш ніж запустиш машину."
+          }
+        },
+        {
+          "id": "m3-w3-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Samodzielna wymiana taśmy i regulacja zgrzewarki",
+            "en": "Independent Band Change and Welder Adjustment",
+            "es": "Cambio de cinta y ajuste de la soldadora por tu cuenta",
+            "uk": "Самостійна заміна стрічки і налаштування зварювального апарата"
+          },
+          "opis": {
+            "pl": "Wymieniasz taśmę bez asysty: demontaż, zgrzewanie nowej, szlifowanie zgrzewu, ustawienie napięcia 2200–2400 PSI i prowadnic 3–4 mm. Kontrolujesz równość zgrzewu przed pierwszym rozruchem.",
+            "en": "You change the band without assistance: removal, welding the new one, grinding the weld, setting tension to 2200–2400 PSI and guides to 3–4 mm. You check the weld's evenness before the first start-up.",
+            "es": "Cambias la cinta sin ayuda: desmontaje, soldadura de la nueva, rectificado de la soldadura, ajuste de la tensión a 2200–2400 PSI y de las guías a 3–4 mm. Verificas la uniformidad de la soldadura antes del primer arranque.",
+            "uk": "Міняєш стрічку без асистента: демонтаж, зварювання нової, шліфування шва, налаштування натягу 2200–2400 PSI і напрямних на 3–4 mm. Контролюєш рівність шва перед першим запуском."
+          }
+        },
+        {
+          "id": "m3-w3-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Planowanie kampanii suszarniczej",
+            "en": "Planning a Kiln Drying Campaign",
+            "es": "Planificación de la campaña de secado",
+            "uk": "Планування кампанії сушіння"
+          },
+          "opis": {
+            "pl": "Planujesz cykl suszenia dla partii tarcicy: wybór programu (sosna 70°C, dąb/buk 60°C), harmonogram załadunku, skład partii jednorodny. Oszacujesz czas cyklu i termin wydania klientowi.",
+            "en": "You plan the drying cycle for a lumber batch: program choice (pine 70°C, oak/beech 60°C), loading schedule, uniform batch composition. You estimate the cycle time and the customer-release date.",
+            "es": "Planificas el ciclo de secado para un lote de madera: elección de programa (pino 70°C, roble/haya 60°C), calendario de carga, composición homogénea del lote. Estimas el tiempo de ciclo y la fecha de entrega al cliente.",
+            "uk": "Плануєш цикл сушіння для партії пиломатеріалів: вибір програми (сосна 70°C, дуб/бук 60°C), графік завантаження, однорідний склад партії. Оцінюєш час циклу і термін видачі клієнту."
+          }
+        },
+        {
+          "id": "m3-w3-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Monitoring cyklu suszenia i korekta programu",
+            "en": "Monitoring the Drying Cycle and Adjusting the Program",
+            "es": "Monitoreo del ciclo de secado y ajuste del programa",
+            "uk": "Моніторинг циклу сушіння і коригування програми"
+          },
+          "opis": {
+            "pl": "Odczytujesz parametry sterownika suszarni (temperatura, wilgotność względna, wilgotność drewna EMC), rozpoznajesz alarm i interpretujesz trend. Decydujesz o korekcie wentylacji lub chłodzenia (max 6°C/h), żeby uniknąć pęknięć i paczenia.",
+            "en": "You read the kiln controller parameters (temperature, relative humidity, wood moisture EMC), recognize alarms, and interpret the trend. You decide on adjusting ventilation or cooling (max 6°C/h) to avoid splits and warping.",
+            "es": "Lees los parámetros del controlador del secadero (temperatura, humedad relativa, humedad de la madera EMC), reconoces alarmas e interpretas la tendencia. Decides el ajuste de ventilación o enfriamiento (máx. 6°C/h) para evitar fendas y alabeo.",
+            "uk": "Зчитуєш параметри контролера сушарні (температура, відносна вологість, вологість деревини EMC), розпізнаєш сигнал тривоги і інтерпретуєш тренд. Вирішуєш про коригування вентиляції або охолодження (макс 6°C/год), щоб уникнути тріщин і жолоблення."
+          }
+        },
+        {
+          "id": "m3-w3-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Rozładunek komory i inspekcja po suszeniu",
+            "en": "Kiln Unloading and Post-Drying Inspection",
+            "es": "Descarga de la cámara e inspección tras el secado",
+            "uk": "Розвантаження камери та інспекція після сушіння"
+          },
+          "opis": {
+            "pl": "Wykonujesz rozładunek: pomiar wilgotności końcowej w min. pięciu punktach stosu, oględziny czołowe i powierzchniowe, diagnostyka pęknięć wewnętrznych (checker), paczenia, skrętu. Klasyfikujesz partię: zdaj / dosuszenie / reklamacja do mistrza suszarni.",
+            "en": "You carry out the unloading: measuring final moisture at a minimum of five points in the stack, end and surface inspection, diagnosing internal cracks (*checker* — internal honeycomb cracks), warping (*paczenie*), and twist (*skręt*). You classify the batch: pass / re-dry / complaint to the kiln master.",
+            "es": "Ejecutas la descarga: medición de humedad final en al menos cinco puntos de la pila, inspección frontal y superficial, diagnóstico de fendas internas (*checker* — fendas internas tipo panal), alabeo (*paczenie*) y torcedura (*skręt*). Clasificas el lote: apto / resecar / reclamación al maestro del secadero.",
+            "uk": "Виконуєш розвантаження: вимірювання кінцевої вологості мінімум у п'яти точках штабеля, торцевий і поверхневий огляд, діагностика внутрішніх тріщин (*checker* — внутрішні стільникові тріщини), жолоблення (*paczenie*), скручування (*skręt*). Класифікуєш партію: здати / досушити / рекламація майстру сушарні."
+          }
+        },
+        {
+          "id": "m3-w3-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Ekonomika przetarcia — wydajność, odpad, wartość",
+            "en": "Sawing Economics — Yield, Waste, Value",
+            "es": "Economía del aserrado — rendimiento, residuos, valor",
+            "uk": "Економіка розпилу — вихід, відходи, вартість"
+          },
+          "opis": {
+            "pl": "Rozumiesz pojęcia yield (wydajność surowca), udział klas C16/C24/C35 w partii, wartość odpadu (oblina, zrzyny, trociny). Czytasz prosty raport zmianowy i wiesz, jak twoje decyzje przekładają się na wynik tartaku.",
+            "en": "You understand the concepts of yield (raw-material efficiency), the share of C16/C24/C35 in a batch, and the value of waste (*oblina* (slab), *zrzyny* (offcuts), sawdust). You read a simple shift report and know how your decisions translate into the sawmill's bottom line.",
+            "es": "Entiendes los conceptos de yield (rendimiento de la materia prima), la proporción de C16/C24/C35 en el lote y el valor de los residuos (*oblina* (costero), *zrzyny* (recortes), serrín). Lees un informe de turno sencillo y sabes cómo tus decisiones se traducen en el resultado del aserradero.",
+            "uk": "Розумієш поняття yield (вихід сировини), частку класів C16/C24/C35 у партії, вартість відходів (*oblina* (горбиль), *zrzyny* (обрізки), тирса). Читаєш простий змінний звіт і знаєш, як твої рішення відбиваються на результаті лісопилки."
+          }
+        },
+        {
+          "id": "m3-w3-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Nadzór nad pomocnikiem i młodszym operatorem",
+            "en": "Supervising the Helper and the Junior Operator",
+            "es": "Supervisión del ayudante y del operador junior",
+            "uk": "Нагляд за помічником і молодшим оператором"
+          },
+          "opis": {
+            "pl": "Nadzorujesz pracę pomocnika M1 i młodszego operatora M2 na linii: korygujesz ich postawę, technikę podawania, sortowanie. Decydujesz o autoryzacji młodszego operatora do samodzielnego kolejnego cyklu i wpisujesz to do karty autoryzacji.",
+            "en": "You supervise the work of the M1 helper and the M2 junior operator on the line: you correct their posture, feeding technique, sorting. You decide on authorizing the junior operator for the next independent cycle and record it on the authorization card.",
+            "es": "Supervisas el trabajo del ayudante M1 y del operador junior M2 en la línea: corriges su postura, técnica de alimentación, clasificación. Decides autorizar al operador junior para el siguiente ciclo por su cuenta y lo anotas en la tarjeta de autorización.",
+            "uk": "Наглядаєш за роботою помічника М1 і молодшого оператора М2 на лінії: коригуєш їхню поставу, техніку подавання, сортування. Вирішуєш про авторизацію молодшого оператора до самостійного наступного циклу і вписуєш це в картку авторизації."
+          }
+        },
+        {
+          "id": "m3-w3-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Diagnostyka usterek maszyny — zgłoś czy napraw sam",
+            "en": "Machine Fault Diagnosis — Report or Fix Yourself",
+            "es": "Diagnóstico de averías de la máquina — reportar o arreglar tú",
+            "uk": "Діагностика несправностей машини — повідомити чи відремонтувати самому"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz typowe usterki pilarki taśmowej (falisty rzaz, bicie koła, wibracja, dymienie, przeciążenie silnika) i diagnozujesz przyczynę. Znasz granicę swoich uprawnień: co regulujesz sam, co zgłaszasz do utrzymania ruchu.",
+            "en": "You recognize typical bandsaw faults (wavy kerf, wheel runout, vibration, smoke, motor overload) and diagnose the cause. You know the limits of your authority: what you adjust yourself and what you report to UR (maintenance department).",
+            "es": "Reconoces las averías típicas de la sierra de cinta (corte ondulado, descentrado del volante, vibración, humo, sobrecarga del motor) y diagnosticas la causa. Conoces los límites de tus competencias: qué ajustas tú y qué reportas a UR (departamento de mantenimiento).",
+            "uk": "Розпізнаєш типові несправності стрічкової пилки (хвилястий пропил, биття колеса, вібрація, дим, перевантаження двигуна) і діагностуєш причину. Знаєш межі своїх повноважень: що регулюєш сам, а що повідомляєш до UR (служба обслуговування)."
+          }
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "blockId": "organizacja",
+      "lessons": [
+        {
+          "id": "m3-w4-l1",
+          "czas": 120,
+          "tytul": {
+            "pl": "Dokumentacja partii i dane dla klasyfikatora",
+            "en": "Batch Documentation and Data for the Grader",
+            "es": "Documentación del lote y datos para el clasificador",
+            "uk": "Документація партії і дані для класифікатора"
+          },
+          "opis": {
+            "pl": "Przygotowujesz dokumentację partii: pomiar wilgotności, wymiary, gatunek, wskazania wizualne wad. Przekazujesz kompletny zestaw danych certyfikowanemu klasyfikatorowi do podpisu. Znasz format dokumentu WZ i wiesz, za co odpowiadasz ty, a za co klasyfikator.",
+            "en": "You prepare the batch documentation: moisture measurement, dimensions, species, visual defect notes. You hand over the complete dataset to the certified grader for signature. You know the format of the WZ document (goods-issue note) and know what you are responsible for and what the grader is.",
+            "es": "Preparas la documentación del lote: medición de humedad, dimensiones, especie, observaciones visuales de defectos. Entregas el conjunto completo de datos al clasificador certificado para su firma. Conoces el formato del documento WZ (albarán de salida) y sabes de qué respondes tú y de qué el clasificador.",
+            "uk": "Готуєш документацію партії: вимірювання вологості, розміри, порода, візуальні позначки вад. Передаєш повний набір даних сертифікованому класифікатору на підпис. Знаєш формат документа WZ (накладна видачі товару) і знаєш, за що відповідаєш ти, а за що класифікатор."
+          }
+        },
+        {
+          "id": "m3-w4-l2",
+          "czas": 120,
+          "tytul": {
+            "pl": "Reklamacje klienta — postępowanie i zapobieganie",
+            "en": "Customer Complaints — Handling and Prevention",
+            "es": "Reclamaciones del cliente — gestión y prevención",
+            "uk": "Рекламації клієнта — обробка і запобігання"
+          },
+          "opis": {
+            "pl": "Rozpoznajesz typowe podstawy reklamacji tarcicy (wymiar poza tolerancją, wilgotność poza klasą, niezgodność gatunku, pęknięcia po suszeniu). Wiesz, jak dokumentować partię, żeby zapobiec reklamacji, i jak zachować się podczas wizyty reklamacyjnej klienta.",
+            "en": "You recognize the typical grounds for a lumber complaint (dimension out of tolerance, moisture outside the grade, species mismatch, post-drying splits). You know how to document a batch to prevent a complaint and how to conduct yourself during a customer's complaint visit.",
+            "es": "Reconoces las causas típicas de reclamación de la madera (medida fuera de tolerancia, humedad fuera de clase, especie no coincidente, fendas tras el secado). Sabes cómo documentar el lote para prevenir la reclamación y cómo comportarte durante la visita de reclamación del cliente.",
+            "uk": "Розпізнаєш типові підстави для рекламації пиломатеріалів (розмір поза допуском, вологість поза класом, невідповідність породи, тріщини після сушіння). Знаєш, як документувати партію, щоб запобігти рекламації, і як поводитися під час рекламаційного візиту клієнта."
+          }
+        },
+        {
+          "id": "m3-w4-l3",
+          "czas": 120,
+          "tytul": {
+            "pl": "Audyt FSC/PEFC i wizyta kontrolna na hali",
+            "en": "FSC/PEFC Audit and On-Floor Inspection Visit",
+            "es": "Auditoría FSC/PEFC y visita de control en planta",
+            "uk": "Аудит FSC/PEFC і перевірний візит у цеху"
+          },
+          "opis": {
+            "pl": "Rozumiesz, co kontroluje audytor FSC/PEFC — łańcuch dostaw, separacja partii certyfikowanych i niecertyfikowanych, oznaczenia na stosach. Wiesz, jak zachować się podczas wizyty klienta lub kontrolera na twoim stanowisku.",
+            "en": "You understand what the FSC/PEFC auditor inspects — the supply chain, separation of certified and non-certified batches, stack markings. You know how to conduct yourself during a customer's or inspector's visit to your workstation.",
+            "es": "Entiendes qué controla el auditor FSC/PEFC — la cadena de suministro, la separación de lotes certificados y no certificados, el marcado de las pilas. Sabes cómo comportarte durante la visita de un cliente o inspector a tu puesto.",
+            "uk": "Розумієш, що контролює аудитор FSC/PEFC — ланцюг постачання, відокремлення сертифікованих і несертифікованих партій, маркування на штабелях. Знаєш, як поводитися під час візиту клієнта або контролера на твоє робоче місце."
+          }
+        },
+        {
+          "id": "m3-w4-l4",
+          "czas": 120,
+          "tytul": {
+            "pl": "Koordynacja zmiany — operator jako węzeł komunikacji",
+            "en": "Shift Coordination — The Operator as Communication Hub",
+            "es": "Coordinación del turno — el operador como nodo de comunicación",
+            "uk": "Координація зміни — оператор як вузол комунікації"
+          },
+          "opis": {
+            "pl": "Prowadzisz swoją zmianę: przekazujesz dyspozycje dalej (operator wózka, ładowacz komory, sortownia), raportujesz brygadziście stan maszyny, surowca i tarcicy. Znasz format krótkiego raportu zmianowego.",
+            "en": "You lead your shift: you pass instructions onward (forklift operator, kiln loader, sorting line), and report to the foreman the state of the machine, raw material, and lumber. You know the format of a short shift report.",
+            "es": "Diriges tu turno: trasladas las órdenes hacia delante (operador de carretilla, cargador de cámara, sala de clasificación), informas al capataz del estado de la máquina, la materia prima y la madera. Conoces el formato de un informe breve de turno.",
+            "uk": "Ведеш свою зміну: передаєш вказівки далі (оператор навантажувача, завантажувач камери, сортувальна лінія), звітуєш бригадиру про стан машини, сировини та пиломатеріалів. Знаєш формат короткого змінного звіту."
+          }
+        },
+        {
+          "id": "m3-w4-l5",
+          "czas": 120,
+          "tytul": {
+            "pl": "Przekazanie zmiany zmiennikowi",
+            "en": "Handing the Shift Over to the Next Operator",
+            "es": "Entrega del turno al relevo",
+            "uk": "Передача зміни зміннику"
+          },
+          "opis": {
+            "pl": "Przekazujesz stanowisko następnej zmianie: stan maszyny, kończone zlecenie, zgłoszone usterki, otwarte punkty BHP z odprawy. Wiesz, że niekompletne przekazanie = odpowiedzialność za zdarzenia na następnej zmianie.",
+            "en": "You hand the workstation over to the next shift: machine status, the order being finished, reported faults, open safety points from the briefing. You know that an incomplete handover = responsibility for events on the next shift.",
+            "es": "Entregas el puesto al siguiente turno: estado de la máquina, pedido en curso, averías reportadas, puntos abiertos de seguridad desde la charla. Sabes que una entrega incompleta = responsabilidad por los hechos del siguiente turno.",
+            "uk": "Передаєш робоче місце наступній зміні: стан машини, замовлення, що завершується, заявлені несправності, відкриті пункти з безпеки з інструктажу. Знаєш, що неповна передача = відповідальність за події на наступній зміні."
+          }
+        },
+        {
+          "id": "m3-w4-l6",
+          "czas": 120,
+          "tytul": {
+            "pl": "Rozwój zawodowy po kursie — ścieżki w branży",
+            "en": "Post-Course Career Development — Paths in the Industry",
+            "es": "Desarrollo profesional tras el curso — trayectorias en el sector",
+            "uk": "Професійний розвиток після курсу — шляхи в галузі"
+          },
+          "opis": {
+            "pl": "Znasz typowe ścieżki dalszego rozwoju: mistrz suszarni, brygadzista, kontroler jakości, operator maszyn CNC w stolarni. Rozumiesz, jakie uprawnienia i szkolenia dają ci dostęp do każdej z nich (UDT, SEP, kurs pilarza, CAD).",
+            "en": "You know the typical development paths: kiln master, foreman, quality controller, CNC machine operator in a joinery. You understand what qualifications and training give you access to each (UDT (Polish Technical Inspection Office — operator licensing body), SEP, a sawyer course, CAD).",
+            "es": "Conoces las trayectorias típicas de desarrollo: maestro del secadero, capataz, controlador de calidad, operador de máquinas CNC en carpintería. Entiendes qué habilitaciones y formaciones te dan acceso a cada una (UDT (Oficina Polaca de Inspección Técnica), SEP, curso de aserrador, CAD).",
+            "uk": "Знаєш типові шляхи подальшого розвитку: майстер сушарні, бригадир, контролер якості, оператор верстатів ЧПК у столярні. Розумієш, які дозволи і навчання дають тобі доступ до кожного з них (UDT (польський Орган технічного нагляду), SEP, курс пиляра, CAD)."
+          }
+        },
+        {
+          "id": "m3-w4-l7",
+          "czas": 120,
+          "tytul": {
+            "pl": "Podsumowanie M3 i całego kursu",
+            "en": "M3 and Full-Course Recap",
+            "es": "Resumen de M3 y de todo el curso",
+            "uk": "Підсумок М3 і всього курсу"
+          },
+          "opis": {
+            "pl": "Przypominasz łuk kursu: M1 pomocnik → M2 operator z nadzorem → M3 operator samodzielny z odpowiedzialnością za jakość i zespół. Widzisz, co potrafisz dziś, czego nie potrafiłeś trzy miesiące temu.",
+            "en": "You review the course arc: M1 helper → M2 operator under supervision → M3 independent operator responsible for quality and team. You see what you can do today that you couldn't three months ago.",
+            "es": "Repasas el arco del curso: M1 ayudante → M2 operador bajo supervisión → M3 operador independiente responsable de la calidad y del equipo. Ves lo que sabes hacer hoy y no sabías hace tres meses.",
+            "uk": "Повторюєш дугу курсу: М1 помічник → М2 оператор під наглядом → М3 самостійний оператор з відповідальністю за якість і команду. Бачиш, що вмієш сьогодні, чого не вмів три місяці тому."
+          }
+        },
+        {
+          "id": "m3-w4-l8",
+          "czas": 120,
+          "tytul": {
+            "pl": "Sprawdzian teoretyczny końcowy + przygotowanie do praktyki",
+            "en": "Final Theory Test + Practical Prep",
+            "es": "Examen teórico final + preparación para la práctica",
+            "uk": "Підсумковий теоретичний тест + підготовка до практики"
+          },
+          "opis": {
+            "pl": "Przechodzisz końcowy test M3 (próg 70%), obejmujący wszystkie trzy moduły w proporcji 20/30/50. Dostajesz scenariusz zadania praktycznego: samodzielne prowadzenie zmiany na pilarce taśmowej z sortowaniem i klasyfikacją.",
+            "en": "You take the final M3 test (70% passing score) covering all three modules in a 20/30/50 proportion. You receive the practical assignment scenario: independently leading a shift on the bandsaw with sorting and grading.",
+            "es": "Realizas el examen final de M3 (umbral 70%) que cubre los tres módulos en proporción 20/30/50. Recibes el escenario de la prueba práctica: dirigir tú solo un turno en la sierra de cinta con clasificación y graduación.",
+            "uk": "Складаєш підсумковий тест М3 (поріг 70%), що охоплює всі три модулі у пропорції 20/30/50. Отримуєш сценарій практичного завдання: самостійне ведення зміни на стрічковій пилці з сортуванням і класифікацією."
+          }
+        }
+      ]
+    }
+  ]
+}
