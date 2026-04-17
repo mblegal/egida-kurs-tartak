@@ -130,13 +130,22 @@ describe('buildSidebar — unit', () => {
 
 describe('buildLessons — placeholder fallback', () => {
   it('gdy brak .md dla lekcji → lesson--placeholder z polskimi diakrytykami', () => {
-    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M1', 'structure.json'), 'utf8'));
-    const { html, counts } = buildLessons('M1', structure);
+    // Używamy M2, który nadal jest 0/32 placeholderów (M1 ma już realną lekcję m1-w1-l1 od Part 4)
+    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M2', 'structure.json'), 'utf8'));
+    const { html, counts } = buildLessons('M2', structure);
     expect(counts.rendered).toBe(0);
     expect(counts.placeholder).toBe(32);
     expect(html).toContain('lesson--placeholder');
     // Polskie diakrytyki w tekście placeholdera
     expect(html).toContain('Ta lekcja nie ma jeszcze treści');
+  });
+
+  it('M1 po Part 4: co najmniej 1 realna lekcja + reszta jako placeholder, suma 32', () => {
+    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M1', 'structure.json'), 'utf8'));
+    const { counts } = buildLessons('M1', structure);
+    expect(counts.rendered).toBeGreaterThanOrEqual(1);
+    expect(counts.placeholder).toBeGreaterThanOrEqual(1);
+    expect(counts.rendered + counts.placeholder).toBe(32);
   });
 });
 
