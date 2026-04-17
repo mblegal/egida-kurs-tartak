@@ -63,11 +63,19 @@ describe('build-kurs.mjs — E2E', () => {
     expect(unique.has('m1-w4-l8')).toBe(true);
   });
 
-  it('dist/kurs_M1.html zawiera 32 lesson--placeholder (brak realnego content w content/M1/)', () => {
+  it('dist/kurs_M1.html: placeholder + rendered = 32 lekcji (niezmiennik modułu)', () => {
     const html = readFileSync(join(DIST, 'kurs_M1.html'), 'utf8');
-    const matches = html.match(/lesson--placeholder/g) || [];
-    // Każda lekcja placeholderowa ma 2 wystąpienia: class na <article> i class na div-body.
-    expect(matches.length, `Znaleziono ${matches.length} wystąpień "lesson--placeholder"`).toBeGreaterThanOrEqual(32);
+    // Każda lekcja placeholderowa ma 2 wystąpienia "lesson--placeholder"
+    // (class na <article> i class na div-body). Liczba placeholderów = matches/2.
+    const placeholderMatches = html.match(/lesson--placeholder/g) || [];
+    const placeholderCount = Math.floor(placeholderMatches.length / 2);
+    // Liczba unikalnych lesson-id (wszystkie 32) MUSI być stała.
+    const lessonIds = html.match(/data-lesson-id="(m1-w\d-l\d)"/g) || [];
+    const unique = new Set(lessonIds.map((m) => m.match(/"(.+)"/)[1]));
+    expect(unique.size, 'Moduł M1 zawsze ma 32 lekcje').toBe(32);
+    // Rendered = wszystkie − placeholder
+    const renderedCount = 32 - placeholderCount;
+    expect(renderedCount, `Rendered: ${renderedCount}, Placeholder: ${placeholderCount}, Suma: 32`).toBeGreaterThan(0);
   });
 
   it('dist/kurs_M1.html ma klucze localStorage dla M1, nie dla M2', () => {
