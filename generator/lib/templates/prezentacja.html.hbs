@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--
+  Kurs tartakowy EGIDA — prezentacja trenera (Reveal.js 5.2.1).
+  Template z placeholderami podmienianymi przez generator build-prezentacja.mjs (Task 3.9).
+  Języki: ES (default widoczny), UK, EN, PL (przełączalne). Notatki trenera w <aside class="notes">.
+-->
+<html lang="es" data-current-lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{COURSE_NAME_ES}} — {{MODULE_NAME_ES}} · Prezentacja trenera</title>
+
+  <!-- Google Fonts: Inter (sans) + Plus Jakarta Sans (display). Inter ma cyrylicę — wystarcza dla UK. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Reveal.js 5.2.1 (CSS + theme white jako baza — nadpisujemy w prezentacja.css) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.2.1/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.2.1/dist/theme/white.css" id="theme">
+
+  <!-- CSS własne: design tokens + karty + theme prezentacji (w standalone zostanie inline'owane) -->
+  <link rel="stylesheet" href="../styles/design-tokens.css">
+  <link rel="stylesheet" href="../styles/cards.css">
+  <link rel="stylesheet" href="../styles/prezentacja.css">
+</head>
+<body>
+
+  <!-- Language switcher — fixed top-right, poza reveal container -->
+  <nav class="lang-switcher lang-switcher--presentation" aria-label="Language selector">
+    <button type="button" class="lang-btn lang-btn--active" data-lang-target="es" aria-pressed="true">ES</button>
+    <button type="button" class="lang-btn" data-lang-target="uk" aria-pressed="false">UK</button>
+    <button type="button" class="lang-btn" data-lang-target="en" aria-pressed="false">EN</button>
+    <button type="button" class="lang-btn" data-lang-target="pl" aria-pressed="false">PL</button>
+  </nav>
+
+  <!-- ==========================================================
+       REVEAL.JS — slajdy generowane z content/${MODULE_ID}/
+       ========================================================== -->
+  <div class="reveal">
+    <div class="slides">
+{{SLIDES_HTML}}
+    </div>
+  </div>
+
+  <!-- Reveal.js core + plugin notes (speaker notes po klawiszu S) -->
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.2.1/dist/reveal.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5.2.1/plugin/notes/notes.js"></script>
+
+  <script>
+    (function () {
+      'use strict';
+
+      // ---------------------------------------------------------------
+      // Konfiguracja + stałe
+      // ---------------------------------------------------------------
+      var SUPPORTED_LANGS = ['es', 'uk', 'en', 'pl'];
+      var DEFAULT_LANG = 'es';
+      var LS_LANG = 'egida_tartak_lang'; // wspólny z kurs_Mx.html
+
+      // ---------------------------------------------------------------
+      // Reveal.js init — 1920x1080, transition fade, plugin notes
+      // ---------------------------------------------------------------
+      Reveal.initialize({
+        hash: true,
+        controls: true,
+        controlsTutorial: false,
+        progress: true,
+        center: false,
+        transition: 'fade',
+        transitionSpeed: 'default',
+        backgroundTransition: 'fade',
+        width: 1920,
+        height: 1080,
+        margin: 0.04,
+        minScale: 0.2,
+        maxScale: 2.0,
+        plugins: [RevealNotes]
+      });
+
+      // ---------------------------------------------------------------
+      // Language switcher — toggle hidden po data-lang
+      // Działa BEZ Reveal.js API (DOM bez Reveal state)
+      // ---------------------------------------------------------------
+      function applyLang(lang) {
+        if (SUPPORTED_LANGS.indexOf(lang) === -1) lang = DEFAULT_LANG;
+
+        // Toggle hidden na wszystkich elementach z data-lang (z wyjątkiem .lang-btn)
+        var nodes = document.querySelectorAll('[data-lang]:not(.lang-btn)');
+        for (var i = 0; i < nodes.length; i++) {
+          nodes[i].hidden = (nodes[i].dataset.lang !== lang);
+        }
+
+        // Update przycisków
+        var btns = document.querySelectorAll('.lang-btn');
+        for (var j = 0; j < btns.length; j++) {
+          var active = btns[j].dataset.langTarget === lang;
+          btns[j].classList.toggle('lang-btn--active', active);
+          btns[j].setAttribute('aria-pressed', active ? 'true' : 'false');
+        }
+
+        // Update html attributes
+        document.documentElement.lang = lang;
+        document.documentElement.dataset.currentLang = lang;
+
+        // Zapisz preferencję
+        try { localStorage.setItem(LS_LANG, lang); } catch (e) { /* brak localStorage */ }
+      }
+
+      // Delegacja kliku na nav.lang-switcher
+      document.querySelector('.lang-switcher').addEventListener('click', function (evt) {
+        var btn = evt.target.closest('.lang-btn');
+        if (!btn) return;
+        applyLang(btn.dataset.langTarget);
+      });
+
+      // Init: odczyt z localStorage lub default ES
+      var saved = null;
+      try { saved = localStorage.getItem(LS_LANG); } catch (e) { /* ignore */ }
+      if (saved && SUPPORTED_LANGS.indexOf(saved) !== -1) {
+        applyLang(saved);
+      }
+      // Default ES już ustawiony w markup'ie — nic nie trzeba robić dla braku saved
+
+    })();
+  </script>
+</body>
+</html>

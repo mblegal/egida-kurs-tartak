@@ -1,0 +1,316 @@
+/* ==========================================================================
+   prezentacja.css — theme Reveal.js dla kursu tartakowego
+   Nadpisuje bazowy `white.css` naszymi design-tokens (brąz + zieleń + BHP).
+   Slajdy 1920×1080, duża typografia (Reveal auto-scaling).
+   ========================================================================== */
+
+/* --- Reveal container + global typography ------------------------------- */
+.reveal {
+  font-family: var(--font-sans);
+  font-size: 36px;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+}
+
+.reveal .slides section {
+  text-align: left;
+  padding: 2rem 3rem;
+  box-sizing: border-box;
+}
+
+/* --- Nagłówki ------------------------------------------------------------ */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  font-family: var(--font-display);
+  color: var(--text-primary);
+  text-transform: none;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.8em 0;
+  font-weight: 700;
+}
+
+.reveal h1 { font-size: 3.5em; line-height: 1.05; }
+.reveal h2 { font-size: 2.4em; line-height: 1.1; }
+.reveal h3 { font-size: 1.6em; line-height: 1.2; }
+.reveal h4 { font-size: 1.2em; }
+
+.reveal p,
+.reveal li {
+  line-height: 1.5;
+}
+
+.reveal ul,
+.reveal ol {
+  margin-left: 2em;
+}
+
+.reveal ul li { margin-bottom: 0.5em; }
+
+/* --- Akcenty kolorystyczne Reveal --------------------------------------- */
+.reveal .controls {
+  color: var(--accent-primary);
+}
+
+.reveal .progress {
+  color: var(--accent-primary);
+  background: rgba(107, 142, 78, 0.15);
+}
+
+.reveal .slide-number {
+  color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: var(--radius-sm);
+}
+
+/* --- Warianty slajdów --------------------------------------------------- */
+
+/* Slajd tytułowy (hero) — gradient brąz→zieleń */
+.reveal .slide-title {
+  background: linear-gradient(135deg, var(--bg-dark) 0%, var(--accent-primary-dark) 100%);
+  color: var(--text-on-dark);
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 3rem 4rem;
+}
+
+.reveal .slide-title h1 {
+  color: var(--text-on-dark);
+  font-size: 4em;
+  margin-bottom: 0.4em;
+}
+
+.reveal .slide-title .subtitle {
+  color: var(--accent-primary-light);
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+.reveal .slide-title .module-role {
+  display: inline-block;
+  margin-top: 1.2em;
+  padding: 0.3em 1em;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-md);
+  font-size: 0.9em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* Slajd spisu treści */
+.reveal .slide-toc {
+  background: var(--bg-muted);
+}
+
+.reveal .slide-toc h2 { color: var(--accent-primary-dark); }
+
+.reveal .slide-toc ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.reveal .slide-toc li {
+  padding: 0.6em 0 0.6em 1.5em;
+  border-left: 4px solid var(--accent-primary);
+  margin-bottom: 0.4em;
+  background: var(--bg-card);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+}
+
+.reveal .slide-toc .week-num {
+  display: inline-block;
+  min-width: 5em;
+  color: var(--accent-primary-dark);
+  font-weight: 700;
+}
+
+.reveal .slide-toc .week-lessons {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin-left: 0.5em;
+}
+
+/* Slajd intro lekcji (każda nowa lekcja zaczyna się od tego) */
+.reveal .slide-lesson-intro {
+  background: var(--bg-card);
+  border-top: 8px solid var(--accent-primary);
+}
+
+.reveal .slide-lesson-intro .lesson-meta {
+  display: inline-block;
+  padding: 0.2em 0.8em;
+  background: var(--accent-primary-light);
+  color: var(--accent-primary-dark);
+  font-size: 0.75em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-radius: var(--radius-sm);
+  margin-bottom: 1em;
+}
+
+.reveal .slide-lesson-intro h2 {
+  color: var(--accent-primary-dark);
+}
+
+.reveal .slide-lesson-intro .lesson-desc {
+  font-size: 1.1em;
+  color: var(--text-muted);
+  margin-top: 1em;
+  max-width: 60ch;
+}
+
+/* Slajd sekcji lekcji (Objetivos, Contenido, Términos, ...) */
+.reveal .slide-section h3 {
+  color: var(--accent-primary-dark);
+  border-bottom: 3px solid var(--accent-primary);
+  padding-bottom: 0.3em;
+  display: inline-block;
+}
+
+/* Slajd placeholder — dla lekcji bez .md */
+.reveal .slide-placeholder {
+  background: var(--bg-muted);
+}
+
+.reveal .slide-placeholder .placeholder-tag {
+  display: inline-block;
+  padding: 0.3em 1em;
+  background: var(--accent-warning-bg);
+  color: var(--accent-warning);
+  border: 1px solid var(--accent-warning-border);
+  font-size: 0.85em;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  margin-bottom: 1em;
+}
+
+.reveal .slide-placeholder p {
+  color: var(--text-muted);
+  font-size: 1.1em;
+  max-width: 50ch;
+}
+
+/* Slajd końcowy "Gracias" */
+.reveal .slide-end {
+  background: linear-gradient(135deg, var(--accent-primary-dark) 0%, var(--bg-dark) 100%);
+  color: var(--text-on-dark);
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.reveal .slide-end h2 {
+  color: var(--text-on-dark);
+  font-size: 5em;
+  margin-bottom: 0.2em;
+}
+
+.reveal .slide-end p {
+  color: var(--accent-primary-light);
+  font-size: 1.3em;
+}
+
+/* --- Karty BHP (info/warning/tip/example) — przewymiarowanie dla slajdu --- */
+.reveal .info-card,
+.reveal .warning-card,
+.reveal .tip-card,
+.reveal .example-card,
+.reveal .formula-card {
+  padding: 1.2em 1.5em;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+
+.reveal .info-card h3,
+.reveal .warning-card h3,
+.reveal .tip-card h3,
+.reveal .example-card h3,
+.reveal .formula-card h3 {
+  border-bottom: none;
+  padding-bottom: 0;
+  display: block;
+  font-size: 1.3em;
+  margin-bottom: 0.4em;
+}
+
+/* --- Lista terminów kluczowych (Términos clave) ------------------------- */
+.reveal .terms-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.reveal .terms-list li {
+  padding: 0.5em 1em;
+  background: var(--bg-card);
+  border-left: 4px solid var(--accent-primary);
+  margin-bottom: 0.4em;
+  font-size: 0.9em;
+}
+
+.reveal .terms-list .term-pl {
+  font-weight: 700;
+  color: var(--accent-primary-dark);
+}
+
+.reveal .terms-list .term-icon {
+  margin-right: 0.4em;
+}
+
+.reveal .terms-list .term-translations {
+  color: var(--text-muted);
+  font-size: 0.85em;
+  margin-left: 0.5em;
+}
+
+/* --- Language switcher — fixed top-right ------------------------------- */
+.lang-switcher--presentation {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 100;
+  display: flex;
+  gap: 0.25rem;
+  padding: 0.4rem;
+  background: rgba(42, 31, 23, 0.85);
+  border-radius: var(--radius-md);
+  backdrop-filter: blur(8px);
+  box-shadow: var(--shadow-md);
+}
+
+.lang-switcher--presentation .lang-btn {
+  padding: 0.4rem 0.7rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: none;
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--text-on-dark);
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  font-family: var(--font-sans);
+}
+
+.lang-switcher--presentation .lang-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.lang-switcher--presentation .lang-btn--active {
+  background: var(--accent-primary);
+  color: var(--text-on-dark);
+}
+
+/* --- Elementy hidden dla not-aktywnych języków — Reveal nie pokazuje ukrytego --- */
+[data-lang][hidden] {
+  display: none !important;
+}
+
+/* Speaker notes są ukryte natywnie przez Reveal.js — nie ruszamy */
