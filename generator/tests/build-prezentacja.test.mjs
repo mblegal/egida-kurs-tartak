@@ -122,10 +122,11 @@ describe('build-prezentacja.mjs E2E', () => {
   });
 
   it('placeholder lekcji ma tag "Lección por preparar" + tytuł z structure.json', () => {
-    expect(m1Html).toContain('class="placeholder-tag"');
-    expect(m1Html).toContain('Lección por preparar');
-    expect(m1Html).toContain('Lekcja w przygotowaniu'); // PL w ukrytym spanie
-    // Tytuł pierwszej lekcji M1 (z structure.json)
+    // M1 po Bloku 3 T4 ma 32/32 lekcji z treścią (0 placeholder), więc placeholder sprawdzamy na M2
+    expect(m2Html).toContain('class="placeholder-tag"');
+    expect(m2Html).toContain('Lección por preparar');
+    expect(m2Html).toContain('Lekcja w przygotowaniu'); // PL w ukrytym spanie
+    // Tytuł pierwszej lekcji M1 (z structure.json) — nadal obecny, już nie w placeholderze bo lekcja ma treść
     expect(m1Html).toContain('Por qué un aserradero es diferente');
     expect(m1Html).toContain('Dlaczego tartak jest inny');
   });

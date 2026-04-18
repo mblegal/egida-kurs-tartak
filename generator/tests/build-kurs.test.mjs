@@ -148,11 +148,13 @@ describe('buildLessons — placeholder fallback', () => {
     expect(html).toContain('Ta lekcja nie ma jeszcze treści');
   });
 
-  it('M1 po Part 4: co najmniej 1 realna lekcja + reszta jako placeholder, suma 32', () => {
+  it('M1 suma lekcji: rendered + placeholder = 32 (niezmiennik)', () => {
+    // Po zakończeniu T4 Blok 3 (l7+l8) M1 ma 32/32 rendered + 0 placeholder.
+    // Test sprawdza niezmiennik „suma = 32", działa niezależnie od stanu renderingu.
     const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M1', 'structure.json'), 'utf8'));
     const { counts } = buildLessons('M1', structure);
     expect(counts.rendered).toBeGreaterThanOrEqual(1);
-    expect(counts.placeholder).toBeGreaterThanOrEqual(1);
+    expect(counts.placeholder).toBeGreaterThanOrEqual(0);
     expect(counts.rendered + counts.placeholder).toBe(32);
   });
 });
