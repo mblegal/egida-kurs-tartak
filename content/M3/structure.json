@@ -16,20 +16,20 @@
             "uk": "Від молодшого оператора до самостійного оператора"
           },
           "opis": {
-            "pl": "Rozumiesz, co zmienia się w twojej pracy, gdy brygadzista przestaje stać obok maszyny. Przyjmujesz odpowiedzialność prawną, decyzyjną i jakościową — raport idzie do brygadzisty po fakcie, nie przed operacją.",
-            "en": "You understand what changes in your work when the foreman no longer stands next to the machine. You take on legal, decision-making, and quality responsibility — the report goes to the foreman after the fact, not before the operation.",
-            "es": "Entiendes qué cambia en tu trabajo cuando el capataz deja de estar junto a la máquina. Asumes responsabilidad legal, de decisión y de calidad — el reporte llega al capataz después del hecho, no antes de la operación.",
-            "uk": "Розумієш, що змінюється у твоїй роботі, коли бригадир перестає стояти поруч із машиною. Береш на себе юридичну відповідальність, відповідальність за рішення та якість — звіт іде до бригадира після факту, а не перед операцією."
+            "pl": "Rozumiesz, co zmienia się w twojej pracy, gdy brygadzista przestaje stać obok maszyny. Przyjmujesz odpowiedzialność prawną, decyzyjną i jakościową – raport idzie do brygadzisty po fakcie, nie przed operacją.",
+            "en": "You understand what changes in your work when the foreman no longer stands next to the machine. You take on legal, decision-making, and quality responsibility – the report goes to the foreman after the fact, not before the operation.",
+            "es": "Entiendes qué cambia en tu trabajo cuando el capataz deja de estar junto a la máquina. Asumes responsabilidad legal, de decisión y de calidad – el reporte llega al capataz después del hecho, no antes de la operación.",
+            "uk": "Розумієш, що змінюється у твоїй роботі, коли бригадир перестає стояти поруч із машиною. Береш на себе юридичну відповідальність, відповідальність за рішення та якість – звіт іде до бригадира після факту, а не перед операцією."
           }
         },
         {
           "id": "m3-w1-l2",
           "czas": 120,
           "tytul": {
-            "pl": "Pięciominutowa odprawa BHP — teraz ty ją prowadzisz",
-            "en": "Five-Minute Safety Briefing — Now You Lead It",
-            "es": "Charla de seguridad de cinco minutos — ahora la diriges tú",
-            "uk": "П'ятихвилинний інструктаж з безпеки — тепер ти його ведеш"
+            "pl": "Pięciominutowa odprawa BHP – teraz ty ją prowadzisz",
+            "en": "Five-Minute Safety Briefing – Now You Lead It",
+            "es": "Charla de seguridad de cinco minutos – ahora la diriges tú",
+            "uk": "П'ятихвилинний інструктаж з безпеки – тепер ти його ведеш"
           },
           "opis": {
             "pl": "Prowadzisz odprawę BHP na początku zmiany dla pomocnika i młodszego operatora. Dobierasz temat do dnia (surowiec, pogoda, awaria z poprzedniej zmiany) i kwitujesz odprawę w dzienniku.",
@@ -49,35 +49,35 @@
           },
           "opis": {
             "pl": "Znasz art. 210 Kodeksu pracy (prawo odmowy niebezpiecznej pracy), art. 220 (obowiązki pracownika), zakres odpowiedzialności wykroczeniowej operatora. Wiesz, kiedy spisuje się notatkę służbową i co ona oznacza.",
-            "en": "You know art. 210 Kodeks pracy (Polish Labour Code art. 210 — right to refuse dangerous work), art. 220 (employee duties), and the scope of an operator's petty-offence liability. You know when a service memo is written and what it means.",
+            "en": "You know art. 210 Kodeks pracy (Polish Labour Code art. 210 – right to refuse dangerous work), art. 220 (employee duties), and the scope of an operator's petty-offence liability. You know when a service memo is written and what it means.",
             "es": "Conoces el art. 210 del Código de Trabajo polaco (derecho a negarse a un trabajo peligroso), el art. 220 (obligaciones del trabajador) y el alcance de la responsabilidad por infracciones del operador. Sabes cuándo se redacta una nota de servicio y qué significa.",
-            "uk": "Знаєш ст. 210 Кодексу праці (польський Кодекс праці ст. 210 — право відмовитися від небезпечної роботи), ст. 220 (обов'язки працівника), межі адміністративної відповідальності оператора. Знаєш, коли складається службова записка і що вона означає."
+            "uk": "Знаєш ст. 210 Кодексу праці (польський Кодекс праці ст. 210 – право відмовитися від небезпечної роботи), ст. 220 (обов'язки працівника), межі адміністративної відповідальності оператора. Знаєш, коли складається службова записка і що вона означає."
           }
         },
         {
           "id": "m3-w1-l4",
           "czas": 120,
           "tytul": {
-            "pl": "Decyzja o zatrzymaniu linii — kiedy i jak",
-            "en": "Deciding to Stop the Line — When and How",
-            "es": "Decidir parar la línea — cuándo y cómo",
-            "uk": "Рішення зупинити лінію — коли і як"
+            "pl": "Decyzja o zatrzymaniu linii – kiedy i jak",
+            "en": "Deciding to Stop the Line – When and How",
+            "es": "Decidir parar la línea – cuándo y cómo",
+            "uk": "Рішення зупинити лінію – коли і як"
           },
           "opis": {
-            "pl": "Decydujesz samodzielnie o wstrzymaniu pracy maszyny lub całej linii przy wykryciu zagrożenia, wady surowca lub nieprawidłowej pracy maszyny. Znasz procedurę „STOP — zabezpiecz — zgłoś — udokumentuj\".",
-            "en": "You decide on your own to halt a machine or the whole line when you detect a hazard, a raw-material defect, or abnormal machine behavior. You know the procedure \"STOP — zabezpiecz — zgłoś — udokumentuj\" (stop — secure — report — document).",
-            "es": "Decides por ti mismo detener la máquina o toda la línea al detectar un peligro, un defecto de materia prima o un funcionamiento anómalo de la máquina. Conoces el procedimiento \"STOP — zabezpiecz — zgłoś — udokumentuj\" (para — asegura — reporta — documenta).",
-            "uk": "Вирішуєш самостійно зупинити машину або всю лінію при виявленні небезпеки, вади сировини або неправильної роботи машини. Знаєш процедуру \"STOP — zabezpiecz — zgłoś — udokumentuj\" (зупини — забезпеч — повідом — задокументуй)."
+            "pl": "Decydujesz samodzielnie o wstrzymaniu pracy maszyny lub całej linii przy wykryciu zagrożenia, wady surowca lub nieprawidłowej pracy maszyny. Znasz procedurę „STOP – zabezpiecz – zgłoś – udokumentuj\".",
+            "en": "You decide on your own to halt a machine or the whole line when you detect a hazard, a raw-material defect, or abnormal machine behavior. You know the procedure \"STOP – zabezpiecz – zgłoś – udokumentuj\" (stop – secure – report – document).",
+            "es": "Decides por ti mismo detener la máquina o toda la línea al detectar un peligro, un defecto de materia prima o un funcionamiento anómalo de la máquina. Conoces el procedimiento \"STOP – zabezpiecz – zgłoś – udokumentuj\" (para – asegura – reporta – documenta).",
+            "uk": "Вирішуєш самостійно зупинити машину або всю лінію при виявленні небезпеки, вади сировини або неправильної роботи машини. Знаєш процедуру \"STOP – zabezpiecz – zgłoś – udokumentuj\" (зупини – забезпеч – повідом – задокументуй)."
           }
         },
         {
           "id": "m3-w1-l5",
           "czas": 120,
           "tytul": {
-            "pl": "Postępowanie po incydencie — operator jako lider",
-            "en": "Post-Incident Response — The Operator as Leader",
-            "es": "Actuación tras un incidente — el operador como líder",
-            "uk": "Дії після інциденту — оператор як лідер"
+            "pl": "Postępowanie po incydencie – operator jako lider",
+            "en": "Post-Incident Response – The Operator as Leader",
+            "es": "Actuación tras un incidente – el operador como líder",
+            "uk": "Дії після інциденту – оператор як лідер"
           },
           "opis": {
             "pl": "Działasz w pierwszych minutach po wypadku zmiennika: zabezpieczasz miejsce, odcinasz zasilanie, wzywasz służby, przekazujesz informacje kierownikowi zmiany. Zabezpieczasz dowody do protokołu powypadkowego.",
@@ -106,10 +106,10 @@
           "id": "m3-w1-l7",
           "czas": 120,
           "tytul": {
-            "pl": "Praca w warunkach nietypowych — mróz, wilgoć, przeciążenie",
-            "en": "Work in Unusual Conditions — Frost, Humidity, Overload",
-            "es": "Trabajo en condiciones atípicas — heladas, humedad, sobrecarga",
-            "uk": "Робота в нетипових умовах — мороз, вологість, перевантаження"
+            "pl": "Praca w warunkach nietypowych – mróz, wilgoć, przeciążenie",
+            "en": "Work in Unusual Conditions – Frost, Humidity, Overload",
+            "es": "Trabajo en condiciones atípicas – heladas, humedad, sobrecarga",
+            "uk": "Робота в нетипових умовах – мороз, вологість, перевантаження"
           },
           "opis": {
             "pl": "Decydujesz o rozruchu maszyny zimą (-10°C i niżej), przy wysokiej wilgotności i po długim postoju. Znasz wymogi wstępnego rozgrzania, ryzyko kondensacji na układach elektrycznych i limity producenta.",
@@ -144,26 +144,26 @@
           "id": "m3-w2-l1",
           "czas": 120,
           "tytul": {
-            "pl": "Wady wewnętrzne drewna — diagnostyka po cięciu",
-            "en": "Internal Wood Defects — Diagnosis After Cutting",
-            "es": "Defectos internos de la madera — diagnóstico tras el corte",
-            "uk": "Внутрішні вади деревини — діагностика після різання"
+            "pl": "Wady wewnętrzne drewna – diagnostyka po cięciu",
+            "en": "Internal Wood Defects – Diagnosis After Cutting",
+            "es": "Defectos internos de la madera – diagnóstico tras el corte",
+            "uk": "Внутрішні вади деревини – діагностика після різання"
           },
           "opis": {
-            "pl": "Rozpoznajesz pęknięcia rdzeniowe, mrozowe, zaparzenie, pleśń wewnętrzną i zgniliznę rdzeniową — wady niewidoczne na dłużycy, ujawniające się dopiero po przetarciu. Decydujesz, czy kłodę dociąć inaczej, zdeklasować czy odrzucić.",
-            "en": "You recognize pith shakes, frost cracks, heat damage (zaparzenie), internal mold, and pith rot — defects invisible on the whole trunk (*dłużyca*) that only reveal themselves after sawing. You decide whether to recut the log differently, downgrade it, or reject it.",
-            "es": "Reconoces fendas de médula, grietas por helada, recalentamiento (*zaparzenie*), moho interno y pudrición de médula — defectos invisibles en el rollizo entero (*dłużyca*) que solo se revelan tras el aserrado. Decides si recortar el tronco de otro modo, bajarlo de clase o descartarlo.",
-            "uk": "Розпізнаєш серцевинні тріщини, морозобоїни, запарювання (*zaparzenie*), внутрішню цвіль і серцевинну гниль — вади, непомітні на цілому стовбурі (*dłużyca*), які виявляються лише після розпилу. Вирішуєш, чи розрізати колоду інакше, знизити клас чи відбракувати."
+            "pl": "Rozpoznajesz pęknięcia rdzeniowe, mrozowe, zaparzenie, pleśń wewnętrzną i zgniliznę rdzeniową – wady niewidoczne na dłużycy, ujawniające się dopiero po przetarciu. Decydujesz, czy kłodę dociąć inaczej, zdeklasować czy odrzucić.",
+            "en": "You recognize pith shakes, frost cracks, heat damage (zaparzenie), internal mold, and pith rot – defects invisible on the whole trunk (*dłużyca*) that only reveal themselves after sawing. You decide whether to recut the log differently, downgrade it, or reject it.",
+            "es": "Reconoces fendas de médula, grietas por helada, recalentamiento (*zaparzenie*), moho interno y pudrición de médula – defectos invisibles en el rollizo entero (*dłużyca*) que solo se revelan tras el aserrado. Decides si recortar el tronco de otro modo, bajarlo de clase o descartarlo.",
+            "uk": "Розпізнаєш серцевинні тріщини, морозобоїни, запарювання (*zaparzenie*), внутрішню цвіль і серцевинну гниль – вади, непомітні на цілому стовбурі (*dłużyca*), які виявляються лише після розпилу. Вирішуєш, чи розрізати колоду інакше, знизити клас чи відбракувати."
           }
         },
         {
           "id": "m3-w2-l2",
           "czas": 120,
           "tytul": {
-            "pl": "Klasyfikacja wizualna PN-EN 1611-1 — asysta klasyfikatora",
-            "en": "Visual Grading PN-EN 1611-1 — Grader Assistance",
-            "es": "Clasificación visual PN-EN 1611-1 — asistencia al clasificador",
-            "uk": "Візуальне сортування PN-EN 1611-1 — асистування класифікатору"
+            "pl": "Klasyfikacja wizualna PN-EN 1611-1 – asysta klasyfikatora",
+            "en": "Visual Grading PN-EN 1611-1 – Grader Assistance",
+            "es": "Clasificación visual PN-EN 1611-1 – asistencia al clasificador",
+            "uk": "Візуальне сортування PN-EN 1611-1 – асистування класифікатору"
           },
           "opis": {
             "pl": "Rozumiesz zasady klasyfikacji wizualnej tarcicy iglastej wg PN-EN 1611-1. Rozpoznajesz wady (sęki, pęknięcia, oblina, krzywizna) i przygotowujesz partię pod klasyfikację certyfikowanego klasyfikatora tartaku.",
@@ -176,10 +176,10 @@
           "id": "m3-w2-l3",
           "czas": 120,
           "tytul": {
-            "pl": "Klasyfikacja wytrzymałościowa PN-EN 14081 — zrozumieć klasy C16/C24/C35",
-            "en": "Strength Grading PN-EN 14081 — Understanding C16/C24/C35",
-            "es": "Clasificación por resistencia PN-EN 14081 — entender C16/C24/C35",
-            "uk": "Сортування за міцністю PN-EN 14081 — розуміння класів C16/C24/C35"
+            "pl": "Klasyfikacja wytrzymałościowa PN-EN 14081 – zrozumieć klasy C16/C24/C35",
+            "en": "Strength Grading PN-EN 14081 – Understanding C16/C24/C35",
+            "es": "Clasificación por resistencia PN-EN 14081 – entender C16/C24/C35",
+            "uk": "Сортування за міцністю PN-EN 14081 – розуміння класів C16/C24/C35"
           },
           "opis": {
             "pl": "Rozumiesz różnicę między klasyfikacją wizualną a wytrzymałościową oraz wymóg akredytowanego szkolenia ITB dla klasyfikatora. Rozpoznajesz wskaźniki wizualne (gęstość, szerokość słoja, sęki), które sugerują klasy C16, C24 lub C35.",
@@ -192,10 +192,10 @@
           "id": "m3-w2-l4",
           "czas": 120,
           "tytul": {
-            "pl": "Wytrzymałość drewna — co znaczą klasy C dla klienta",
-            "en": "Wood Strength — What C Grades Mean for the Customer",
-            "es": "Resistencia de la madera — qué significan las clases C para el cliente",
-            "uk": "Міцність деревини — що означають класи C для клієнта"
+            "pl": "Wytrzymałość drewna – co znaczą klasy C dla klienta",
+            "en": "Wood Strength – What C Grades Mean for the Customer",
+            "es": "Resistencia de la madera – qué significan las clases C para el cliente",
+            "uk": "Міцність деревини – що означають класи C для клієнта"
           },
           "opis": {
             "pl": "Rozumiesz parametry mechaniczne kryjące się za klasami: wytrzymałość na zginanie, moduł sprężystości, gęstość. Wiesz, do czego klient używa C16 (więźba ekonomiczna), C24 (stropy, konstrukcje mieszkalne) i C35 (wysoko obciążone elementy).",
@@ -224,10 +224,10 @@
           "id": "m3-w2-l6",
           "czas": 120,
           "tytul": {
-            "pl": "Taśmy i piły — dobór pod gatunek i sortyment",
-            "en": "Bands and Blades — Matching to Species and Assortment",
-            "es": "Cintas y sierras — selección según especie y surtido",
-            "uk": "Стрічки і пилки — підбір під породу і сортимент"
+            "pl": "Taśmy i piły – dobór pod gatunek i sortyment",
+            "en": "Bands and Blades – Matching to Species and Assortment",
+            "es": "Cintas y sierras – selección según especie y surtido",
+            "uk": "Стрічки і пилки – підбір під породу і сортимент"
           },
           "opis": {
             "pl": "Dobierasz samodzielnie typ taśmy (stal stellitowa, taśma stopowa, szerokość, podziałka zębów) pod konkretną kłodę i zamówienie. Znasz różnicę między cięciem sosny świeżej, dębu suchego i zamarzniętej kłody.",
@@ -246,20 +246,20 @@
             "uk": "Геометрія леза і розвід зубів"
           },
           "opis": {
-            "pl": "Rozumiesz, jak szpic, rozwarcie i kąt natarcia wpływają na jakość rzazu i zużycie taśmy. Oceniasz wzrokowo stępienie zęba i mikropęknięcia u podstawy zęba — dwa najczęstsze powody zerwania taśmy.",
-            "en": "You understand how the tip, set, and rake angle affect kerf quality and band wear. You visually assess tooth dulling and micro-cracks at the tooth base — the two most common causes of a band break.",
-            "es": "Entiendes cómo la punta, el trabado y el ángulo de ataque afectan a la calidad del corte y al desgaste de la cinta. Evalúas a simple vista el embotamiento del diente y las microgrietas en la base del diente — las dos causas más frecuentes de rotura de la cinta.",
-            "uk": "Розумієш, як кінчик, розвід і передній кут впливають на якість пропилу та знос стрічки. Оцінюєш візуально затуплення зуба і мікротріщини біля основи зуба — дві найчастіші причини розриву стрічки."
+            "pl": "Rozumiesz, jak szpic, rozwarcie i kąt natarcia wpływają na jakość rzazu i zużycie taśmy. Oceniasz wzrokowo stępienie zęba i mikropęknięcia u podstawy zęba – dwa najczęstsze powody zerwania taśmy.",
+            "en": "You understand how the tip, set, and rake angle affect kerf quality and band wear. You visually assess tooth dulling and micro-cracks at the tooth base – the two most common causes of a band break.",
+            "es": "Entiendes cómo la punta, el trabado y el ángulo de ataque afectan a la calidad del corte y al desgaste de la cinta. Evalúas a simple vista el embotamiento del diente y las microgrietas en la base del diente – las dos causas más frecuentes de rotura de la cinta.",
+            "uk": "Розумієш, як кінчик, розвід і передній кут впливають на якість пропилу та знос стрічки. Оцінюєш візуально затуплення зуба і мікротріщини біля основи зуба – дві найчастіші причини розриву стрічки."
           }
         },
         {
           "id": "m3-w2-l8",
           "czas": 120,
           "tytul": {
-            "pl": "Konserwacja maszyn — utrzymanie ruchu w tartaku",
-            "en": "Machine Maintenance — Keeping the Sawmill Running",
-            "es": "Mantenimiento de máquinas — mantener el aserradero en marcha",
-            "uk": "Обслуговування машин — підтримання роботи лісопилки"
+            "pl": "Konserwacja maszyn – utrzymanie ruchu w tartaku",
+            "en": "Machine Maintenance – Keeping the Sawmill Running",
+            "es": "Mantenimiento de máquinas – mantener el aserradero en marcha",
+            "uk": "Обслуговування машин – підтримання роботи лісопилки"
           },
           "opis": {
             "pl": "Wykonujesz codzienną konserwację stanowiska: smarowanie prowadnic, czyszczenie odciągu, wymiana elementów eksploatacyjnych (filtry, klocki taśmy, żarówki sygnalizacji). Wiesz, kiedy zgłaszasz do utrzymania ruchu (UR), a kiedy robisz sam.",
@@ -287,7 +287,7 @@
             "pl": "Dobierasz samodzielnie prędkość posuwu, grubość rzazu i rozstaw taśmy pod surowiec (gatunek, wilgotność, wady) i sortyment docelowy z dyspozycji. Decyzja jest twoja, zanim uruchomisz maszynę.",
             "en": "You choose on your own the feed rate, kerf thickness, and band setup for the raw material (species, moisture, defects) and the target assortment in the work order. The decision is yours before you start the machine.",
             "es": "Eliges por ti mismo la velocidad de avance, el espesor del corte y el ajuste de la cinta según la materia prima (especie, humedad, defectos) y el surtido objetivo de la orden. La decisión es tuya antes de arrancar la máquina.",
-            "uk": "Самостійно підбираєш швидкість подачі, товщину пропилу і налаштування стрічки під сировину (порода, вологість, вади) та цільовий сортимент з наряду. Рішення — твоє, перш ніж запустиш машину."
+            "uk": "Самостійно підбираєш швидкість подачі, товщину пропилу і налаштування стрічки під сировину (порода, вологість, вади) та цільовий сортимент з наряду. Рішення – твоє, перш ніж запустиш машину."
           }
         },
         {
@@ -349,19 +349,19 @@
           },
           "opis": {
             "pl": "Wykonujesz rozładunek: pomiar wilgotności końcowej w min. pięciu punktach stosu, oględziny czołowe i powierzchniowe, diagnostyka pęknięć wewnętrznych (checker), paczenia, skrętu. Klasyfikujesz partię: zdaj / dosuszenie / reklamacja do mistrza suszarni.",
-            "en": "You carry out the unloading: measuring final moisture at a minimum of five points in the stack, end and surface inspection, diagnosing internal cracks (*checker* — internal honeycomb cracks), warping (*paczenie*), and twist (*skręt*). You classify the batch: pass / re-dry / complaint to the kiln master.",
-            "es": "Ejecutas la descarga: medición de humedad final en al menos cinco puntos de la pila, inspección frontal y superficial, diagnóstico de fendas internas (*checker* — fendas internas tipo panal), alabeo (*paczenie*) y torcedura (*skręt*). Clasificas el lote: apto / resecar / reclamación al maestro del secadero.",
-            "uk": "Виконуєш розвантаження: вимірювання кінцевої вологості мінімум у п'яти точках штабеля, торцевий і поверхневий огляд, діагностика внутрішніх тріщин (*checker* — внутрішні стільникові тріщини), жолоблення (*paczenie*), скручування (*skręt*). Класифікуєш партію: здати / досушити / рекламація майстру сушарні."
+            "en": "You carry out the unloading: measuring final moisture at a minimum of five points in the stack, end and surface inspection, diagnosing internal cracks (*checker* – internal honeycomb cracks), warping (*paczenie*), and twist (*skręt*). You classify the batch: pass / re-dry / complaint to the kiln master.",
+            "es": "Ejecutas la descarga: medición de humedad final en al menos cinco puntos de la pila, inspección frontal y superficial, diagnóstico de fendas internas (*checker* – fendas internas tipo panal), alabeo (*paczenie*) y torcedura (*skręt*). Clasificas el lote: apto / resecar / reclamación al maestro del secadero.",
+            "uk": "Виконуєш розвантаження: вимірювання кінцевої вологості мінімум у п'яти точках штабеля, торцевий і поверхневий огляд, діагностика внутрішніх тріщин (*checker* – внутрішні стільникові тріщини), жолоблення (*paczenie*), скручування (*skręt*). Класифікуєш партію: здати / досушити / рекламація майстру сушарні."
           }
         },
         {
           "id": "m3-w3-l6",
           "czas": 120,
           "tytul": {
-            "pl": "Ekonomika przetarcia — wydajność, odpad, wartość",
-            "en": "Sawing Economics — Yield, Waste, Value",
-            "es": "Economía del aserrado — rendimiento, residuos, valor",
-            "uk": "Економіка розпилу — вихід, відходи, вартість"
+            "pl": "Ekonomika przetarcia – wydajność, odpad, wartość",
+            "en": "Sawing Economics – Yield, Waste, Value",
+            "es": "Economía del aserrado – rendimiento, residuos, valor",
+            "uk": "Економіка розпилу – вихід, відходи, вартість"
           },
           "opis": {
             "pl": "Rozumiesz pojęcia yield (wydajność surowca), udział klas C16/C24/C35 w partii, wartość odpadu (oblina, zrzyny, trociny). Czytasz prosty raport zmianowy i wiesz, jak twoje decyzje przekładają się na wynik tartaku.",
@@ -390,10 +390,10 @@
           "id": "m3-w3-l8",
           "czas": 120,
           "tytul": {
-            "pl": "Diagnostyka usterek maszyny — zgłoś czy napraw sam",
-            "en": "Machine Fault Diagnosis — Report or Fix Yourself",
-            "es": "Diagnóstico de averías de la máquina — reportar o arreglar tú",
-            "uk": "Діагностика несправностей машини — повідомити чи відремонтувати самому"
+            "pl": "Diagnostyka usterek maszyny – zgłoś czy napraw sam",
+            "en": "Machine Fault Diagnosis – Report or Fix Yourself",
+            "es": "Diagnóstico de averías de la máquina – reportar o arreglar tú",
+            "uk": "Діагностика несправностей машини – повідомити чи відремонтувати самому"
           },
           "opis": {
             "pl": "Rozpoznajesz typowe usterki pilarki taśmowej (falisty rzaz, bicie koła, wibracja, dymienie, przeciążenie silnika) i diagnozujesz przyczynę. Znasz granicę swoich uprawnień: co regulujesz sam, co zgłaszasz do utrzymania ruchu.",
@@ -428,10 +428,10 @@
           "id": "m3-w4-l2",
           "czas": 120,
           "tytul": {
-            "pl": "Reklamacje klienta — postępowanie i zapobieganie",
-            "en": "Customer Complaints — Handling and Prevention",
-            "es": "Reclamaciones del cliente — gestión y prevención",
-            "uk": "Рекламації клієнта — обробка і запобігання"
+            "pl": "Reklamacje klienta – postępowanie i zapobieganie",
+            "en": "Customer Complaints – Handling and Prevention",
+            "es": "Reclamaciones del cliente – gestión y prevención",
+            "uk": "Рекламації клієнта – обробка і запобігання"
           },
           "opis": {
             "pl": "Rozpoznajesz typowe podstawy reklamacji tarcicy (wymiar poza tolerancją, wilgotność poza klasą, niezgodność gatunku, pęknięcia po suszeniu). Wiesz, jak dokumentować partię, żeby zapobiec reklamacji, i jak zachować się podczas wizyty reklamacyjnej klienta.",
@@ -450,20 +450,20 @@
             "uk": "Аудит FSC/PEFC і перевірний візит у цеху"
           },
           "opis": {
-            "pl": "Rozumiesz, co kontroluje audytor FSC/PEFC — łańcuch dostaw, separacja partii certyfikowanych i niecertyfikowanych, oznaczenia na stosach. Wiesz, jak zachować się podczas wizyty klienta lub kontrolera na twoim stanowisku.",
-            "en": "You understand what the FSC/PEFC auditor inspects — the supply chain, separation of certified and non-certified batches, stack markings. You know how to conduct yourself during a customer's or inspector's visit to your workstation.",
-            "es": "Entiendes qué controla el auditor FSC/PEFC — la cadena de suministro, la separación de lotes certificados y no certificados, el marcado de las pilas. Sabes cómo comportarte durante la visita de un cliente o inspector a tu puesto.",
-            "uk": "Розумієш, що контролює аудитор FSC/PEFC — ланцюг постачання, відокремлення сертифікованих і несертифікованих партій, маркування на штабелях. Знаєш, як поводитися під час візиту клієнта або контролера на твоє робоче місце."
+            "pl": "Rozumiesz, co kontroluje audytor FSC/PEFC – łańcuch dostaw, separacja partii certyfikowanych i niecertyfikowanych, oznaczenia na stosach. Wiesz, jak zachować się podczas wizyty klienta lub kontrolera na twoim stanowisku.",
+            "en": "You understand what the FSC/PEFC auditor inspects – the supply chain, separation of certified and non-certified batches, stack markings. You know how to conduct yourself during a customer's or inspector's visit to your workstation.",
+            "es": "Entiendes qué controla el auditor FSC/PEFC – la cadena de suministro, la separación de lotes certificados y no certificados, el marcado de las pilas. Sabes cómo comportarte durante la visita de un cliente o inspector a tu puesto.",
+            "uk": "Розумієш, що контролює аудитор FSC/PEFC – ланцюг постачання, відокремлення сертифікованих і несертифікованих партій, маркування на штабелях. Знаєш, як поводитися під час візиту клієнта або контролера на твоє робоче місце."
           }
         },
         {
           "id": "m3-w4-l4",
           "czas": 120,
           "tytul": {
-            "pl": "Koordynacja zmiany — operator jako węzeł komunikacji",
-            "en": "Shift Coordination — The Operator as Communication Hub",
-            "es": "Coordinación del turno — el operador como nodo de comunicación",
-            "uk": "Координація зміни — оператор як вузол комунікації"
+            "pl": "Koordynacja zmiany – operator jako węzeł komunikacji",
+            "en": "Shift Coordination – The Operator as Communication Hub",
+            "es": "Coordinación del turno – el operador como nodo de comunicación",
+            "uk": "Координація зміни – оператор як вузол комунікації"
           },
           "opis": {
             "pl": "Prowadzisz swoją zmianę: przekazujesz dyspozycje dalej (operator wózka, ładowacz komory, sortownia), raportujesz brygadziście stan maszyny, surowca i tarcicy. Znasz format krótkiego raportu zmianowego.",
@@ -492,14 +492,14 @@
           "id": "m3-w4-l6",
           "czas": 120,
           "tytul": {
-            "pl": "Rozwój zawodowy po kursie — ścieżki w branży",
-            "en": "Post-Course Career Development — Paths in the Industry",
-            "es": "Desarrollo profesional tras el curso — trayectorias en el sector",
-            "uk": "Професійний розвиток після курсу — шляхи в галузі"
+            "pl": "Rozwój zawodowy po kursie – ścieżki w branży",
+            "en": "Post-Course Career Development – Paths in the Industry",
+            "es": "Desarrollo profesional tras el curso – trayectorias en el sector",
+            "uk": "Професійний розвиток після курсу – шляхи в галузі"
           },
           "opis": {
             "pl": "Znasz typowe ścieżki dalszego rozwoju: mistrz suszarni, brygadzista, kontroler jakości, operator maszyn CNC w stolarni. Rozumiesz, jakie uprawnienia i szkolenia dają ci dostęp do każdej z nich (UDT, SEP, kurs pilarza, CAD).",
-            "en": "You know the typical development paths: kiln master, foreman, quality controller, CNC machine operator in a joinery. You understand what qualifications and training give you access to each (UDT (Polish Technical Inspection Office — operator licensing body), SEP, a sawyer course, CAD).",
+            "en": "You know the typical development paths: kiln master, foreman, quality controller, CNC machine operator in a joinery. You understand what qualifications and training give you access to each (UDT (Polish Technical Inspection Office – operator licensing body), SEP, a sawyer course, CAD).",
             "es": "Conoces las trayectorias típicas de desarrollo: maestro del secadero, capataz, controlador de calidad, operador de máquinas CNC en carpintería. Entiendes qué habilitaciones y formaciones te dan acceso a cada una (UDT (Oficina Polaca de Inspección Técnica), SEP, curso de aserrador, CAD).",
             "uk": "Знаєш типові шляхи подальшого розвитку: майстер сушарні, бригадир, контролер якості, оператор верстатів ЧПК у столярні. Розумієш, які дозволи і навчання дають тобі доступ до кожного з них (UDT (польський Орган технічного нагляду), SEP, курс пиляра, CAD)."
           }

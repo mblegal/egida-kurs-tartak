@@ -138,9 +138,9 @@ describe('buildSidebar — unit', () => {
 
 describe('buildLessons — placeholder fallback', () => {
   it('gdy brak .md dla lekcji → lesson--placeholder z polskimi diakrytykami', () => {
-    // Używamy M2, który nadal jest 0/32 placeholderów (M1 ma już realną lekcję m1-w1-l1 od Part 4)
-    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M2', 'structure.json'), 'utf8'));
-    const { html, counts } = buildLessons('M2', structure);
+    // Używamy M3, który nadal jest 0/32 placeholderów. M1 i M2 mają już realne lekcje.
+    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M3', 'structure.json'), 'utf8'));
+    const { html, counts } = buildLessons('M3', structure);
     expect(counts.rendered).toBe(0);
     expect(counts.placeholder).toBe(32);
     expect(html).toContain('lesson--placeholder');
@@ -153,6 +153,16 @@ describe('buildLessons — placeholder fallback', () => {
     // Test sprawdza niezmiennik „suma = 32", działa niezależnie od stanu renderingu.
     const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M1', 'structure.json'), 'utf8'));
     const { counts } = buildLessons('M1', structure);
+    expect(counts.rendered).toBeGreaterThanOrEqual(1);
+    expect(counts.placeholder).toBeGreaterThanOrEqual(0);
+    expect(counts.rendered + counts.placeholder).toBe(32);
+  });
+
+  it('M2 suma lekcji: rendered + placeholder = 32 (niezmiennik)', () => {
+    // M2 zaczyna się od pilota m2-w1-l1 (2026-04-18). Test sprawdza niezmiennik „suma = 32",
+    // działa niezależnie od postępu produkcji treści M2.
+    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M2', 'structure.json'), 'utf8'));
+    const { counts } = buildLessons('M2', structure);
     expect(counts.rendered).toBeGreaterThanOrEqual(1);
     expect(counts.placeholder).toBeGreaterThanOrEqual(0);
     expect(counts.rendered + counts.placeholder).toBe(32);

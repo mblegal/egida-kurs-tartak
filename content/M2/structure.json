@@ -10,16 +10,16 @@
           "id": "m2-w1-l1",
           "czas": 120,
           "tytul": {
-            "pl": "Od pomocnika do operatora — nowa odpowiedzialność",
-            "en": "From Helper to Operator — New Responsibility",
-            "es": "De ayudante a operador — nueva responsabilidad",
-            "uk": "Від помічника до оператора — нова відповідальність"
+            "pl": "Od pomocnika do operatora – nowa odpowiedzialność",
+            "en": "From Helper to Operator – New Responsibility",
+            "es": "De ayudante a operador – nueva responsabilidad",
+            "uk": "Від помічника до оператора – нова відповідальність"
           },
           "opis": {
-            "pl": "Rozumiesz, co zmienia się w twoich obowiązkach, gdy zaczynasz uruchamiać maszynę. Wiesz, dlaczego każdą czynność wykonujesz po autoryzacji brygadzisty i potwierdzeniu „sprawdź — uruchom — zgłoś\".",
-            "en": "You understand what changes in your duties when you start operating a machine. You know why every action is done only after the foreman's authorization and after confirming \"sprawdź — uruchom — zgłoś\" (check — start — report).",
-            "es": "Entiendes qué cambia en tus responsabilidades cuando empiezas a poner en marcha una máquina. Sabes por qué cada acción la realizas tras la autorización del capataz y la confirmación \"sprawdź — uruchom — zgłoś\" (comprueba — arranca — reporta).",
-            "uk": "Розумієш, що змінюється у твоїх обов'язках, коли починаєш запускати машину. Знаєш, чому кожну дію виконуєш після дозволу бригадира і підтвердження \"sprawdź — uruchom — zgłoś\" (перевір — запусти — доповідай)."
+            "pl": "Rozumiesz, co zmienia się w twoich obowiązkach, gdy zaczynasz uruchamiać maszynę. Wiesz, dlaczego każdą czynność wykonujesz po autoryzacji brygadzisty i potwierdzeniu „sprawdź – uruchom – zgłoś\".",
+            "en": "You understand what changes in your duties when you start operating a machine. You know why every action is done only after the foreman's authorization and after confirming \"sprawdź – uruchom – zgłoś\" (check – start – report).",
+            "es": "Entiendes qué cambia en tus responsabilidades cuando empiezas a poner en marcha una máquina. Sabes por qué cada acción la realizas tras la autorización del capataz y la confirmación \"sprawdź – uruchom – zgłoś\" (comprueba – arranca – reporta).",
+            "uk": "Розумієш, що змінюється у твоїх обов'язках, коли починаєш запускати машину. Знаєш, чому кожну дію виконуєш після дозволу бригадира і підтвердження \"sprawdź – uruchom – zgłoś\" (перевір – запусти – доповідай)."
           }
         },
         {
@@ -74,10 +74,10 @@
           "id": "m2-w1-l5",
           "czas": 120,
           "tytul": {
-            "pl": "Rozporządzenie MG 2000 — co prawo wymaga od operatora",
-            "en": "Rozp. MG 2000 — What the Law Requires from the Operator",
-            "es": "Rozp. MG 2000 — lo que la ley exige al operador",
-            "uk": "Розп. МЕ 2000 — що закон вимагає від оператора"
+            "pl": "Rozporządzenie MG 2000 – co prawo wymaga od operatora",
+            "en": "Rozp. MG 2000 – What the Law Requires from the Operator",
+            "es": "Rozp. MG 2000 – lo que la ley exige al operador",
+            "uk": "Розп. МЕ 2000 – що закон вимагає від оператора"
           },
           "opis": {
             "pl": "Znasz najważniejsze obowiązki operatora obrabiarki do drewna wg Rozp. MG z 14.04.2000: hamulec, osłony, przeciwodrzut, zakaz rękawic przy elementach wirujących. Wiesz, gdzie szukać pełnego tekstu.",
@@ -112,10 +112,10 @@
             "uk": "Аварійне завершення циклу без втрати пальців"
           },
           "opis": {
-            "pl": "Wiesz, co zrobić, gdy materiał się zakleszczył, taśma zeszła z koła lub zadziałał wyłącznik — zawsze zatrzymaj, nigdy nie wyjmuj dłonią, poczekaj do pełnego zatrzymania i wezwij brygadzistę.",
-            "en": "You know what to do when the material jams, the band comes off the wheel, or a switch trips — always stop, never remove with your hand, wait for a full stop, and call the foreman.",
-            "es": "Sabes qué hacer si el material se atasca, la cinta se sale del volante o se dispara un interruptor — siempre detén, nunca saques con la mano, espera a la parada total y llama al capataz.",
-            "uk": "Знаєш, що робити, коли матеріал заклинило, стрічка зійшла з колеса або спрацював вимикач — завжди зупиняй, ніколи не виймай рукою, дочекайся повної зупинки і виклич бригадира."
+            "pl": "Wiesz, co zrobić, gdy materiał się zakleszczył, taśma zeszła z koła lub zadziałał wyłącznik – zawsze zatrzymaj, nigdy nie wyjmuj dłonią, poczekaj do pełnego zatrzymania i wezwij brygadzistę.",
+            "en": "You know what to do when the material jams, the band comes off the wheel, or a switch trips – always stop, never remove with your hand, wait for a full stop, and call the foreman.",
+            "es": "Sabes qué hacer si el material se atasca, la cinta se sale del volante o se dispara un interruptor – siempre detén, nunca saques con la mano, espera a la parada total y llama al capataz.",
+            "uk": "Знаєш, що робити, коли матеріал заклинило, стрічка зійшла з колеса або спрацював вимикач – завжди зупиняй, ніколи не виймай рукою, дочекайся повної зупинки і виклич бригадира."
           }
         },
         {
@@ -144,10 +144,10 @@
           "id": "m2-w2-l1",
           "czas": 120,
           "tytul": {
-            "pl": "Wilgotność drewna — od czego zależy twoja praca",
-            "en": "Wood Moisture — What Your Work Depends On",
-            "es": "Humedad de la madera — de qué depende tu trabajo",
-            "uk": "Вологість деревини — від чого залежить твоя робота"
+            "pl": "Wilgotność drewna – od czego zależy twoja praca",
+            "en": "Wood Moisture – What Your Work Depends On",
+            "es": "Humedad de la madera – de qué depende tu trabajo",
+            "uk": "Вологість деревини – від чого залежить твоя робота"
           },
           "opis": {
             "pl": "Rozumiesz, że drewno świeże ma 50–100% wilgotności, powietrznie suche 15–20%, a tarcica eksportowa 12–18%. Wiesz, dlaczego wilgotność decyduje o cięciu, suszeniu i składowaniu.",
@@ -176,10 +176,10 @@
           "id": "m2-w2-l3",
           "czas": 120,
           "tytul": {
-            "pl": "Manipulacja dłużycą — zanim kłoda trafi na trak",
-            "en": "Handling a Long Log — Before It Reaches the Sawmill",
-            "es": "Manipulación del rollizo largo — antes de que llegue al aserradero",
-            "uk": "Робота з довгим кругляком — перш ніж колода потрапить на пилораму"
+            "pl": "Manipulacja dłużycą – zanim kłoda trafi na trak",
+            "en": "Handling a Long Log – Before It Reaches the Sawmill",
+            "es": "Manipulación del rollizo largo – antes de que llegue al aserradero",
+            "uk": "Робота з довгим кругляком – перш ніж колода потрапить на пилораму"
           },
           "opis": {
             "pl": "Rozumiesz, po co dłużycę dzieli się na kłody o różnej jakości (odziomek, środek, wierzchołek). Wiesz, jak brygadzista oznacza miejsca cięcia i jaką rolę ma w tym operator.",
@@ -208,16 +208,16 @@
           "id": "m2-w2-l5",
           "czas": 120,
           "tytul": {
-            "pl": "Sortymenty tarcicy — obrzynana, nieobrzynana, pryzma",
-            "en": "Lumber Assortments — Edged, Unedged, Cant",
-            "es": "Surtidos de madera aserrada — canteada, sin cantear, pryzma",
-            "uk": "Сортименти пиломатеріалів — обрізні, необрізні, брус-заготовка"
+            "pl": "Sortymenty tarcicy – obrzynana, nieobrzynana, pryzma",
+            "en": "Lumber Assortments – Edged, Unedged, Cant",
+            "es": "Surtidos de madera aserrada – canteada, sin cantear, pryzma",
+            "uk": "Сортименти пиломатеріалів – обрізні, необрізні, брус-заготовка"
           },
           "opis": {
             "pl": "Odróżniasz tarcicę obrzynaną od nieobrzynanej, rozpoznajesz oblinę, opół i pryzmę. Wiesz, jaki sortyment wychodzi z pilarki taśmowej, a jaki z okrawiarki.",
-            "en": "You tell edged from unedged lumber and recognize *oblina* (slab), *opół* (half-sawn log), and *pryzma* (cant — squared log before further sawing). You know which assortment comes off the bandsaw and which off the edger.",
+            "en": "You tell edged from unedged lumber and recognize *oblina* (slab), *opół* (half-sawn log), and *pryzma* (cant – squared log before further sawing). You know which assortment comes off the bandsaw and which off the edger.",
             "es": "Distingues la madera canteada de la sin cantear y reconoces *oblina* (costero), *opół* (tronco aserrado por la mitad) y *pryzma* (madero escuadrado antes del siguiente corte). Sabes qué surtido sale de la sierra de cinta y cuál de la canteadora.",
-            "uk": "Відрізняєш обрізні пиломатеріали від необрізних і розпізнаєш *oblina* (горбиль), *opół* (колода, розпиляна навпіл) та *pryzma* (брус-заготовка — обкантована колода перед подальшим розпилом). Знаєш, який сортимент виходить зі стрічкової пилки, а який з обрізного верстата."
+            "uk": "Відрізняєш обрізні пиломатеріали від необрізних і розпізнаєш *oblina* (горбиль), *opół* (колода, розпиляна навпіл) та *pryzma* (брус-заготовка – обкантована колода перед подальшим розпилом). Знаєш, який сортимент виходить зі стрічкової пилки, а який з обрізного верстата."
           }
         },
         {
@@ -230,20 +230,20 @@
             "uk": "Вступ до класів якості пиломатеріалів A/B/C/D"
           },
           "opis": {
-            "pl": "Rozumiesz, że ta sama deska może mieć różną wartość w zależności od wad. Znasz cztery klasy wizualne A, B, C, D i wiesz, że klasyfikuje mistrz — ty sortujesz pod jego instrukcją.",
-            "en": "You understand that the same board can have different value depending on its defects. You know the four visual grades A, B, C, D and know that the master grader classifies — you sort under his instructions.",
-            "es": "Entiendes que la misma tabla puede tener valor distinto según sus defectos. Conoces las cuatro clases visuales A, B, C, D y sabes que quien clasifica es el maestro — tú clasificas bajo sus instrucciones.",
-            "uk": "Розумієш, що та сама дошка може мати різну вартість залежно від вад. Знаєш чотири візуальні класи A, B, C, D і знаєш, що класифікує майстер — ти сортуєш за його вказівкою."
+            "pl": "Rozumiesz, że ta sama deska może mieć różną wartość w zależności od wad. Znasz cztery klasy wizualne A, B, C, D i wiesz, że klasyfikuje mistrz – ty sortujesz pod jego instrukcją.",
+            "en": "You understand that the same board can have different value depending on its defects. You know the four visual grades A, B, C, D and know that the master grader classifies – you sort under his instructions.",
+            "es": "Entiendes que la misma tabla puede tener valor distinto según sus defectos. Conoces las cuatro clases visuales A, B, C, D y sabes que quien clasifica es el maestro – tú clasificas bajo sus instrucciones.",
+            "uk": "Розумієш, що та сама дошка може мати різну вартість залежно від вад. Знаєш чотири візуальні класи A, B, C, D і знаєш, що класифікує майстер – ти сортуєш за його вказівкою."
           }
         },
         {
           "id": "m2-w2-l7",
           "czas": 120,
           "tytul": {
-            "pl": "Piły i ostrza — budowa, zużycie, kiedy zgłaszać",
-            "en": "Saws and Blades — Structure, Wear, When to Report",
-            "es": "Sierras y hojas — estructura, desgaste, cuándo reportar",
-            "uk": "Пилки і полотна — будова, знос, коли повідомляти"
+            "pl": "Piły i ostrza – budowa, zużycie, kiedy zgłaszać",
+            "en": "Saws and Blades – Structure, Wear, When to Report",
+            "es": "Sierras y hojas – estructura, desgaste, cuándo reportar",
+            "uk": "Пилки і полотна – будова, знос, коли повідомляти"
           },
           "opis": {
             "pl": "Rozpoznajesz taśmę, tarczę, piłę ramową i wielopiłową. Wiesz, co to ząb, szpic, rozwarcie, napięcie; rozpoznajesz oznaki zużycia (pęknięcia, stępienie, falistość rzazu).",
@@ -278,10 +278,10 @@
           "id": "m2-w3-l1",
           "czas": 120,
           "tytul": {
-            "pl": "Pilarka taśmowa — uruchamianie krok po kroku",
-            "en": "Bandsaw — Step-by-Step Start-Up",
-            "es": "Sierra de cinta — arranque paso a paso",
-            "uk": "Стрічкова пилка — запуск крок за кроком"
+            "pl": "Pilarka taśmowa – uruchamianie krok po kroku",
+            "en": "Bandsaw – Step-by-Step Start-Up",
+            "es": "Sierra de cinta – arranque paso a paso",
+            "uk": "Стрічкова пилка – запуск крок за кроком"
           },
           "opis": {
             "pl": "Wykonujesz pod nadzorem procedurę: osłony, zgrzew, ostrość, włącznik główny, bieg jałowy, obserwacja taśmy, dopiero materiał. Znasz pięć powodów do natychmiastowego STOP.",
@@ -326,10 +326,10 @@
           "id": "m2-w3-l4",
           "czas": 120,
           "tytul": {
-            "pl": "Pilarka tarczowa i wielopiłowa — obsługa pod nadzorem",
-            "en": "Circular and Multi-Rip Saw — Supervised Operation",
-            "es": "Sierra circular y multihoja — manejo bajo supervisión",
-            "uk": "Циркулярна та багатопильна пилка — робота під наглядом"
+            "pl": "Pilarka tarczowa i wielopiłowa – obsługa pod nadzorem",
+            "en": "Circular and Multi-Rip Saw – Supervised Operation",
+            "es": "Sierra circular y multihoja – manejo bajo supervisión",
+            "uk": "Циркулярна та багатопильна пилка – робота під наглядом"
           },
           "opis": {
             "pl": "Rozpoznajesz klin rozszczepiający, popychacz (przy krótkim <300 mm i wąskim <150 mm), zasadę „pojedynczy materiał przez trak\". Wiesz, że tarczówki poprzeczne i wzdłużne mają różne ryzyka.",
@@ -342,10 +342,10 @@
           "id": "m2-w3-l5",
           "czas": 120,
           "tytul": {
-            "pl": "Okrawiarka i strugarka — pozycja i podawanie",
-            "en": "Edger and Planer — Position and Feeding",
-            "es": "Canteadora y cepilladora — posición y alimentación",
-            "uk": "Обрізний і стругальний верстат — позиція і подавання"
+            "pl": "Okrawiarka i strugarka – pozycja i podawanie",
+            "en": "Edger and Planer – Position and Feeding",
+            "es": "Canteadora y cepilladora – posición y alimentación",
+            "uk": "Обрізний і стругальний верстат – позиція і подавання"
           },
           "opis": {
             "pl": "Ustawiasz się z boku okrawiarki, nigdy w osi wyrzutu; podajesz tarcicę do strugarko-wyrówniarki pojedynczo, w kierunku włókien. Wiesz, gdzie zaczyna się strefa niebezpieczna każdej z tych maszyn.",
@@ -374,10 +374,10 @@
           "id": "m2-w3-l7",
           "czas": 120,
           "tytul": {
-            "pl": "Suszenie komorowe — rola ładowacza",
-            "en": "Kiln Drying — The Loader's Role",
-            "es": "Secado en cámara — el papel del cargador",
-            "uk": "Камерне сушіння — роль завантажувача"
+            "pl": "Suszenie komorowe – rola ładowacza",
+            "en": "Kiln Drying – The Loader's Role",
+            "es": "Secado en cámara – el papel del cargador",
+            "uk": "Камерне сушіння – роль завантажувача"
           },
           "opis": {
             "pl": "Rozumiesz, że sosna znosi 35–70°C, a dąb i buk tylko 30–60°C przez ryzyko deformacji i wypływu żywicy. Wiesz, że chłodzenie nie może przekraczać 6°C/h, a niewłaściwa temperatura = pęknięcia.",
@@ -412,10 +412,10 @@
           "id": "m2-w4-l1",
           "czas": 120,
           "tytul": {
-            "pl": "Dyspozycja przetarcia — co brygadzista zleca operatorowi",
-            "en": "Sawing Work Order — What the Foreman Assigns the Operator",
-            "es": "Orden de aserrado — qué encarga el capataz al operador",
-            "uk": "Наряд на розпил — що бригадир доручає оператору"
+            "pl": "Dyspozycja przetarcia – co brygadzista zleca operatorowi",
+            "en": "Sawing Work Order – What the Foreman Assigns the Operator",
+            "es": "Orden de aserrado – qué encarga el capataz al operador",
+            "uk": "Наряд на розпил – що бригадир доручає оператору"
           },
           "opis": {
             "pl": "Czytasz dyspozycję (gatunek, sortyment docelowy, priorytet, ilość), zadajesz pytania przy niejasnościach i kwitujesz odbiór zlecenia. Wiesz, co robić, gdy stan surowca nie pasuje do dyspozycji.",
@@ -450,10 +450,10 @@
             "uk": "Стандарти PN-EN і сертифікати FSC/PEFC коротко"
           },
           "opis": {
-            "pl": "Rozumiesz, że PN-EN 1611 dotyczy sortowania wizualnego, PN-EN 14081 — wytrzymałościowego, a FSC/PEFC to certyfikat łańcucha dostaw drewna. Wiesz, czemu klient eksportowy pyta o te oznaczenia.",
+            "pl": "Rozumiesz, że PN-EN 1611 dotyczy sortowania wizualnego, PN-EN 14081 – wytrzymałościowego, a FSC/PEFC to certyfikat łańcucha dostaw drewna. Wiesz, czemu klient eksportowy pyta o te oznaczenia.",
             "en": "You understand that PN-EN 1611 (European standard for visual softwood grading) covers visual sorting, PN-EN 14081 (European standard for strength-graded structural timber) covers strength grading, and FSC/PEFC is a wood supply-chain certification. You know why an export customer asks about these marks.",
             "es": "Entiendes que PN-EN 1611 (norma europea de clasificación visual de madera de conífera) cubre la clasificación visual, PN-EN 14081 (norma europea de clasificación por resistencia de madera estructural) la clasificación resistente, y FSC/PEFC es la certificación de la cadena de suministro de madera. Sabes por qué el cliente de exportación pregunta por estas marcas.",
-            "uk": "Розумієш, що PN-EN 1611 (європейський стандарт візуального сортування хвойної деревини) стосується візуального сортування, PN-EN 14081 (європейський стандарт сортування конструкційної деревини за міцністю) — сортування за міцністю, а FSC/PEFC — це сертифікат ланцюга постачання деревини. Знаєш, чому експортний клієнт питає про ці позначення."
+            "uk": "Розумієш, що PN-EN 1611 (європейський стандарт візуального сортування хвойної деревини) стосується візуального сортування, PN-EN 14081 (європейський стандарт сортування конструкційної деревини за міцністю) – сортування за міцністю, а FSC/PEFC – це сертифікат ланцюга постачання деревини. Знаєш, чому експортний клієнт питає про ці позначення."
           }
         },
         {
@@ -501,17 +501,17 @@
             "pl": "Znasz rytm zmianowy, obowiązkowe przerwy, zasady rotacji stanowisk, ćwiczenia rozluźniające kark i nadgarstki. Wiesz, czemu zmęczony operator to ryzyko dla siebie i dla brygady.",
             "en": "You know the shift rhythm, mandatory breaks, workstation rotation rules, and relaxation exercises for the neck and wrists. You know why a tired operator is a risk to himself and to the crew.",
             "es": "Conoces el ritmo del turno, las pausas obligatorias, las reglas de rotación de puestos y los ejercicios de relajación para el cuello y las muñecas. Sabes por qué un operador cansado es un riesgo para sí mismo y para la brigada.",
-            "uk": "Знаєш ритм змін, обов'язкові перерви, правила ротації робочих місць, вправи для розслаблення шиї та зап'ясть. Знаєш, чому втомлений оператор — це ризик для себе і для бригади."
+            "uk": "Знаєш ритм змін, обов'язкові перерви, правила ротації робочих місць, вправи для розслаблення шиї та зап'ясть. Знаєш, чому втомлений оператор – це ризик для себе і для бригади."
           }
         },
         {
           "id": "m2-w4-l7",
           "czas": 120,
           "tytul": {
-            "pl": "Podsumowanie M2 — czego się nauczyłeś",
-            "en": "M2 Recap — What You've Learned",
-            "es": "Resumen de M2 — qué has aprendido",
-            "uk": "Підсумок М2 — чого ти навчився"
+            "pl": "Podsumowanie M2 – czego się nauczyłeś",
+            "en": "M2 Recap – What You've Learned",
+            "es": "Resumen de M2 – qué has aprendido",
+            "uk": "Підсумок М2 – чого ти навчився"
           },
           "opis": {
             "pl": "Przypominasz główne umiejętności M2: uruchomienie maszyny pod nadzorem, pomiar wilgotności, sortowanie, obsługa załadunku komory. Wiesz, co ma być pewne przed testem i co odróżnia cię od pomocnika z M1.",
