@@ -1,0 +1,110 @@
+---
+id: m2-w3-l1
+blok: proces
+czas: 120
+---
+
+## Introducción
+
+Lunes, 7:00 de la mañana, sierra de cinta Wood-Mizer LT40 número dos. La misma máquina en la que, hace una semana, Maricel asistió a Tadeusz durante el cambio de cinta. La cinta está fresca: Silvertip 51 × 1,07 mm, montada el viernes, dos jornadas completas de trabajo sobre pino y todavía apta para roble. El capataz Marek está de pie junto al pupitre de mando, con una hoja en la mano izquierda: la lista de control de cinco puntos de la lección 4 de la semana 1 del módulo segundo. A su lado, con los guantes quitados y guardados en el bolsillo del chaleco (prohibición de guantes cerca de elementos giratorios, lección 2 de la semana 1), se encuentra el nuevo operario júnior: **Oleksii Bohdaniuk, 28 años, ucraniano de Járkov (Kharkiv)**. Cuatro años de experiencia como carpintero en un taller de muebles en su ciudad natal, manejo de sierras manuales y de una pequeña sierra de calar de mesa, pero **es la primera vez que se enfrenta a una sierra de cinta industrial**. Lleva tres meses en Polonia y tres semanas en el aserradero de la Fundación EGIDA: las semanas 1 y 2 del módulo segundo ya están cubiertas (SST, EPI, ritual de cinco puntos, humedad, defectos, clases de calidad, cambio de cinta como asistente). Hoy realiza, por primera vez, **una acción solo pero bajo supervisión**: arranca la sierra siguiendo el procedimiento en seis pasos.
+
+Esta lección es **la primera acción operativa autónoma** de todo el módulo segundo. Hasta ahora has mirado, has medido, has reportado, has alcanzado herramientas. Ahora **pulsas botones en una secuencia determinada**, observas la máquina con tus propios ojos y oídos, y tomas la primera decisión autónoma: «arranco» o «STOP, algo no va bien». Marek permanece a dos metros de ti durante toda la secuencia, no para sustituirte, sino para mostrarte qué has notado y qué se te ha pasado por alto. El mantra de la semana tres: **«arranco, regulo, corto, clasifico, pero siempre bajo la supervisión del capataz o de un operario sénior»**.
+
+El arranque de la sierra es un **procedimiento de seis pasos** que hoy ejecutas por primera vez. Cada paso tiene un solo objetivo y un solo indicador «superado / no superado». No improvisas el orden. No omites ningún paso, ni siquiera cuando «parece que todo va bien». La secuencia se ha consolidado a partir de decenas de accidentes y miles de arranques seguros: cada paso que parece superfluo, en algún momento, salvó la vida de alguien.
+
+## Objetivos
+
+Al terminar esta lección:
+
+1. Conoces los **seis pasos del procedimiento de arranque** de la sierra de cinta en un orden fijo e irreversible: resguardos, cinta (inspección visual, sin regulación), interruptor principal y prueba de STOP, marcha en vacío de 30 segundos, observación de la cinta con la vista y el oído, solo entonces el material (corte de prueba en tabla de descarte). Saltarse un paso rompe la protección mecánica incorporada al procedimiento.
+2. Aplicas la regla **«mano izquierda en STOP antes de la mano derecha en START»** de la lección 3 de la semana 1: antes de pulsar el botón verde de arranque, tu otra mano toca la seta roja de emergencia. Es un hábito mecánico, no simbólico: ante el sonido de la primera anomalía detienes la máquina en una fracción de segundo.
+3. Sabes que la **marcha en vacío de 30 segundos** (cifra del oficio tomada de la lección 8 de la semana 2) es una ventana diagnóstica: el ochenta por ciento de las averías ocultas se manifiestan en los primeros diez segundos. No acortas el tiempo, aunque la máquina «suene bien desde el primer momento». La autorización para arrancar de forma independiente sin la supervisión del capataz llega tras 10 a 20 repeticiones bajo la mirada de Marek, normalmente después de 2 a 4 semanas de trabajo diario.
+4. Sabes reconocer los **cinco motivos de STOP inmediato** durante el arranque y en los primeros segundos de funcionamiento: ruido extraño (chirrido, golpeteo, zumbido sordo), olor extraño (a quemado, humo), vibración superior a la habitual, objeto extraño en la zona de corte, señal del capataz o de un compañero. Cada uno de estos motivos significa mano izquierda en STOP, sin discusión, sin «espero un momento a ver si pasa».
+
+## Contenido
+
+::: info
+En el aserradero de la Fundación EGIDA el procedimiento de seis pasos se ejecuta en **90 a 120 segundos** para un operario con experiencia (3 minutos para el júnior durante las primeras semanas). Se realiza por la mañana durante el primer arranque y después de cualquier pausa superior a 15 minutos (cambio de material, cambio de cinta, avería, pausa para desayunar). Las pausas más cortas no requieren el procedimiento completo: basta con el paso 4 (marcha en vacío de control de 10 segundos).
+:::
+
+### Los seis pasos del procedimiento: qué haces, qué ves, qué oyes
+
+**Paso 1: Resguardos.** Te acercas a la sierra por el lado del operario (lado derecho de la máquina, desde el pupitre). Inspeccionas visualmente los dos resguardos: el **superior** (sobre la rueda tensora superior, unos 900 mm de ancho) y el **inferior** (sobre la rueda motriz inferior, unos 700 mm). Compruebas: (1) que ambos resguardos están en su sitio, (2) que los cuatro tornillos M8 de cada resguardo están apretados (un toque rápido con el dedo: no aprietas, solo compruebas al tacto que están completos), (3) que no hay holguras visibles, fisuras ni chapas dobladas. Si un resguardo está retirado o flojo, **no arrancas**: lo comunicas al capataz. Sin resguardo, una sierra de cinta, en caso de rotura, proyecta un fragmento de acero a una velocidad de hasta 50 m/s: eso significa amputación o herida penetrante en la caja torácica.
+
+**Paso 2: Cinta – inspección visual sin regulación.** Miras por la mirilla de control del resguardo (una ventana de metacrilato de 100 × 60 mm en el lado derecho de cada resguardo; no abres el resguardo, solo miras por la ventana). Observas tres cosas: (1) **la cinta está bien asentada en las ruedas** (no se ha desplazado, no cuelga), (2) **no hay fisuras visibles** en la parte que puedes ver (girar la cinta con la mano desde la rueda exterior solo si Marek te ha enseñado cómo hacerlo de forma segura), (3) **la tensión previa tiene buen aspecto** (la cinta no cuelga suelta, pero tampoco parece una cuerda sometida a una tensión excesiva: es una evaluación visual, no una medición con manómetro; el manómetro pertenece al paso de la lección 8 de la semana 2, cambio de cinta, no al arranque diario). **No regulas** la tensión, no tocas el tensor, no abres el resguardo: inspección visual desde fuera. La regulación de las guías y la tensión es el tema de la lección 2 de esta misma semana.
+
+**Paso 3: Interruptor principal y prueba de STOP.** El interruptor principal de la sierra es la **caja gris y verde situada a la izquierda del pupitre**: la manilla en posición ON (vertical hacia arriba) indica que la máquina está alimentada. Compruebas que la manilla está en ON, que no tiene un candado LOTO con el nombre de otro operario, que la tarjeta «NO ARRANCAR» del cambio anterior ha sido retirada (Tadeusz cerró el procedimiento en la lección 8 de la semana 2). A continuación, la **prueba funcional de STOP**: colocas la mano izquierda sobre la seta roja de emergencia (a la izquierda del pupitre, sobre el interruptor principal). La seta debe estar en posición **extraída** (lista para ser pulsada): si está hundida por una emergencia previa, tienes que desbloquearla girándola en el sentido de las agujas del reloj. Tocar la seta no es un gesto simbólico: **compruebas que sobresale en toda su altura de 30 mm** (una seta bloqueada sobresale solo 10 mm). Ese segundo de contacto con el STOP es un hábito mecánico: tu mano izquierda conoce la posición de la seta **antes** de que la derecha alcance el START.
+
+**Paso 4: START y marcha en vacío de 30 segundos.** La mano izquierda permanece sobre el STOP. Con la mano derecha pulsas el botón verde de START del pupitre. Anuncias en voz alta, para que te oigan los compañeros de la nave: **«¡Arranco sierra número dos, marcha en vacío treinta segundos!»**. La cinta acelera (2 segundos hasta alcanzar la velocidad de trabajo de 30 a 50 m/s), oyes el silbido creciente del motor y el zumbido de la cinta cortando el aire. Miras el contador de segundos del pupitre (o el reloj): cuentas 30 segundos de marcha en vacío completa **sin tocar el material**. Durante esos 30 segundos: permaneces inmóvil, mano izquierda en STOP, mano derecha bajada, ojos en la cinta (a través de la mirilla del resguardo) y oídos en el motor. No haces nada: solo observas.
+
+::: tip
+El formador: «Treinta segundos es el tiempo que necesitan la caja de cambios, los rodamientos y los rodillos guía para entrar en el ritmo normal de trabajo. Los primeros diez segundos detectan el ochenta por ciento de las averías bruscas: un rodamiento roto empieza a chirriar al instante, una cinta mal tensada empieza a golpear los rodillos desde el primer segundo. Los veinte segundos siguientes detectan los problemas térmicos: un rodamiento apretado se calienta progresivamente, un rodillo guía mal ajustado muestra vibración a los 15 o 20 segundos. Acortar la marcha en vacío a 10 segundos parece un ahorro de tiempo. No es un ahorro: es renunciar a 20 segundos de ventana diagnóstica.»
+:::
+
+**Paso 5: Observación – vista y oído.** Después de los 30 segundos de marcha en vacío **todavía no pulsas nada**. Te quedas junto al pupitre 5 segundos más y evalúas la máquina con tres sentidos: (1) **sonido**: un silbido uniforme, sin chirridos, sin golpeteo, sin zumbido sordo; (2) **vibración**: el pupitre bajo tu mano derecha no tiembla más de lo habitual (la vibración transmitida por la estructura de la máquina es el síntoma más frecuente de un rodillo mal ajustado); (3) **olor**: el aire no tiene olor a quemado (un rodamiento quemado huele a goma ardiendo, un motor eléctrico quemado huele a ozono con barniz chamuscado). Si los tres sentidos dicen «todo bien», pasas al paso 6. Si aunque sea uno solo dice «algo no va», **mano izquierda en STOP sin discusión** y se lo comunicas a Marek.
+
+**Paso 6: Solo entonces el material – corte de prueba.** El último paso antes del corte de producción es el **corte de prueba en tabla de descarte**. La tabla de prueba está en una caja aparte marcada «PARA PRUEBA» (pino, 25 × 150 × 500 mm, no roble: el roble es más caro y está destinado a producción). Coges la tabla con guantes de cuero (los guantes solo se usan para manipular madera **antes** de la máquina: te los quitas antes de acercarte a una distancia de brazo de la cinta; prohibición de guantes cerca de elementos giratorios, lección 2 de la semana 1). Presentas la tabla sobre la mesa de trabajo de la sierra **despacio**, primer corte de 30 a 50 cm hacia el interior de la tabla, luego retrocedes. Compruebas la superficie del corte: lisa (como una lija de grano 120), sin ondulaciones, sin marcas oscuras de quemado. Si el corte de prueba sale bien, la sierra está lista para producción: llamas a Marek y le dices: «Corte de prueba OK, solicito autorización para cortar». Si el corte muestra ondulaciones o quemaduras, paras la sierra, se lo comunicas a Marek y no corriges por tu cuenta (la regulación de los parámetros es la lección 3 de esta semana).
+
+::: warning
+**Cinco motivos de STOP inmediato** durante los primeros 30 segundos de trabajo tras el arranque: (1) ruido extraño (chirrido de un rodamiento, golpeteo de un rodillo suelto, zumbido sordo de una rueda mal equilibrada); (2) olor extraño (a quemado, humo, olor acre de aislamiento ardiendo); (3) vibración más fuerte de lo normal (reconocerás la norma tras 20 o 30 arranques; el júnior, durante la primera semana, pregunta a Marek: «¿Es esta vibración normal?»); (4) objeto extraño en la zona de corte o sobre la mesa de trabajo (un trapo, una llave, un papel: cualquier objeto arrastrado por la cinta se convierte en un proyectil a 30 o 50 m/s); (5) señal del capataz o de un compañero (mano levantada, grito de «STOP», señal acústica de la nave). Cada uno de estos motivos equivale a **mano izquierda en la seta en una fracción de segundo**, sin análisis, sin «espero un momento a ver si se va». Tras detener la máquina analizas la situación con Marek, no contigo mismo.
+:::
+
+### El papel del capataz durante los primeros arranques
+
+Marek permanece a dos metros de ti durante todo el procedimiento. **No te sustituye.** No te dice «ahora el paso dos, ahora el paso tres»: conoce tu memoria y confía en ella. Comenta **al final de la secuencia**, no durante. Si detecta un error que amenaza la seguridad (por ejemplo, olvidar la prueba de STOP del paso 3), te detiene con la frase «Stop, vuelve al paso tres». Si detecta un error menor (por ejemplo, un giro demasiado rápido al inspeccionar la cinta), lo anota y te lo comunica al terminar todo el procedimiento.
+
+La autorización para arrancar de forma independiente sin supervisión llega tras **10 a 20 repeticiones** bajo la mirada de Marek, normalmente 2 a 4 semanas de trabajo diario para un júnior con formación artesanal previa (como Oleksii) o 4 a 6 semanas para un júnior sin contacto previo con maquinaria industrial. Marek no concede la autorización «porque ha pasado una semana»: la concede cuando ve que tus manos recorren los seis pasos sin vacilación, sin preguntas, sin errores de orden. No es una cuestión de tiempo, sino de **repetibilidad**.
+
+## Términos clave
+
+**procedimiento de arranque en seis pasos** · PL: procedura sześciokrokowa · EN: six-step start-up procedure · ES: procedimiento de arranque en seis pasos · UK: шестикрокова процедура запуску
+
+**marcha en vacío de 30 segundos** · PL: bieg jałowy · EN: no-load run / idle run (30 seconds) · ES: marcha en vacío (30 segundos) · UK: холостий хід (30 секунд)
+
+**prueba funcional de STOP** · PL: test funkcjonalny grzybka awaryjnego · EN: emergency stop functional test · ES: prueba funcional de parada de emergencia · UK: функціональне випробування аварійного стопу
+
+**corte de prueba en tabla de descarte** · PL: rzaz testowy · EN: test cut on scrap board · ES: corte de prueba en tabla de descarte · UK: тестовий пропил на відходовій дошці
+
+**regla «mano izquierda en STOP»** · PL: zasada „lewa dłoń na STOP" · EN: "left hand on STOP first" rule · ES: regla „mano izquierda en STOP primero" · UK: правило „ліва долоня на СТОП першою"
+
+**ventana diagnóstica de la marcha en vacío** · PL: okno diagnostyczne · EN: diagnostic window (idle run) · ES: ventana diagnóstica (marcha en vacío) · UK: діагностичне вікно (холостий хід)
+
+**autorización del capataz para arranque independiente** · PL: autoryzacja brygadzisty · EN: foreman authorization for independent start-up · ES: autorización del capataz para arranque independiente · UK: авторизація бригадира для самостійного запуску
+
+## Autoevaluación
+
+1. Enuncia los seis pasos del procedimiento de arranque de la sierra de cinta en el orden establecido. ¿Qué examina cada uno de los pasos y por qué el orden es irreversible?
+2. ¿Por qué la regla «mano izquierda en STOP antes de la mano derecha en START» es un hábito mecánico y no simbólico? ¿Qué ocurre si, en el momento del arranque, la mano está lejos de la seta?
+3. ¿Cuánto dura la marcha en vacío y por qué no se puede acortar, incluso cuando la máquina «suena bien desde el primer momento»? ¿Qué revelan los primeros 10 segundos y qué los 20 siguientes?
+4. Enumera los cinco motivos de STOP inmediato durante los primeros segundos de trabajo. ¿Qué haces después de detener la máquina: analizas tú solo o con el capataz?
+5. ¿En qué consiste el papel del capataz durante los primeros 10 a 20 arranques? ¿Cuándo sustituye, cuándo comenta, cuándo detiene?
+6. ¿Por qué la inspección de la cinta en el paso 2 es visual (a través de la mirilla) y no con regulación (con el tensor)? ¿En qué punto del programa del curso aparece la regulación de la tensión?
+7. ¿Cuál es el requisito para la autorización de arranque independiente sin supervisión del capataz? ¿Es una cuestión de tiempo o de repetibilidad?
+
+## Vínculo con la práctica
+
+**Ejercicio 1 (primeros arranques bajo supervisión, a diario durante la primera semana):** Cada mañana de la primera semana en el puesto ejecutas el procedimiento de seis pasos bajo la mirada de Marek. Marek anota en su cuaderno de observación el ritmo (objetivo: 90 a 120 segundos después de 10 repeticiones) y el número de errores de orden (objetivo: cero después de 15 repeticiones). No te evalúas a ti mismo: te evalúa Marek.
+
+**Ejercicio 2 (prueba de orden, 30 segundos al día):** Al terminar la primera semana, Marek pregunta una vez al día: «Enuncia los seis pasos». Respondes de memoria, sin notas, sin vacilación, en 30 segundos. Tres segundos por paso. Si dudas, tienes que repetir toda la secuencia desde el principio. Después de una semana de este ejercicio los seis pasos son un **automatismo profesional**, no un conocimiento académico.
+
+**Ejercicio 3 (prueba de los cinco motivos de STOP, una vez por semana):** Una vez por semana, durante el primer mes, Marek pregunta: «¿Cuáles son los cinco motivos de STOP inmediato durante el arranque?». Respondes: sonido, olor, vibración, objeto extraño, señal. Cinco motivos, cinco segundos, cero vacilación. El capataz amplía la pregunta: «¿Qué significa sonido extraño, concretamente?»; entonces aportas ejemplos (chirrido, golpeteo, zumbido sordo). Este ejercicio distingue al operario que **sabe** del operario que **es capaz de ejecutar bajo presión**.
+
+## Notas para el formador
+
+**Objetivo pedagógico**: primera acción operativa autónoma en el M2. Transición del observador (T2) al ejecutor bajo supervisión (T3). Clave: **seis pasos en orden irreversible** como protección mecánica incorporada a la secuencia. El júnior debe aprender el orden, no la filosofía de cada paso (esta llegará con las repeticiones y las preguntas del capataz).
+
+**Decisión del procedimiento reducido (6 pasos en lugar de 8 a 10)**: se han omitido deliberadamente los detalles del pupitre (botones, pilotos, contadores, selección de modo). Motivo: esta es una lección de formación, no un manual de instrucciones del Wood-Mizer LT40. Los detalles del pupitre se aprenden tras 10 a 20 arranques bajo la mirada de Marek, no memorizando un texto. Los cinco motivos de STOP se introducen como warning-box en el paso 6 y no como una sección amplia separada: es una decisión consciente a favor de la compacidad del procedimiento.
+
+**Protagonista Oleksii Bohdaniuk**: ucraniano de Járkov, excarpintero, con formación artesanal (taller de muebles, sierras manuales). Culturalmente: la modestia artesanal de Europa del Este, «repito, no invento», encaja con el espíritu de la semana 3, en la que el aprendiz debe ejecutar procedimientos por primera vez, no improvisar. Elegido por realismo sociológico (cerca de 1,5 millones de ucranianos en Polonia en 2025 y 2026, el grupo migrante más numeroso en los aserraderos polacos). Amplía la base nacional tras la línea filipina (Maricel en T2 Bloques 1 y 3) y la nigeriana (Emeka en T2 Bloque 2).
+
+**Mantra de la semana 3**: «arranco, regulo, corto, clasifico, pero siempre bajo la supervisión del capataz o de un operario sénior». Se introduce en la lección 1, regresa en la lección 2 (regulación de guías), lección 3 (parámetros de corte), lección 4 (otras máquinas), lección 5 (desorilladora, cepilladora), lección 6 (clasificación), lecciones 7 y 8 (secado). La repetición del mantra en cada lección construye el ritmo pedagógico de la semana.
+
+**Estadística PIP (Inspección de Trabajo polaca) 2019–2023**: acortar el procedimiento (arrancar sin inspección de la cinta, alimentar material antes de completar los 30 s de marcha en vacío, omitir el corte de prueba) es responsable del **29 % de los accidentes durante el arranque de sierras de aserradero**. No tanto por la acción omitida en sí, cuanto por la pérdida del ritmo de comprobación: quien empieza a omitir pierde la capacidad de notar qué ha omitido. Además, un **7 % de los accidentes** se debe a setas de emergencia no desbloqueadas tras una avería previa (el operario pulsó START, la máquina no arrancó, el operario abrió el resguardo, la cinta bajo tensión saltó fuera); de ahí que la prueba de STOP del paso 3 no sea una formalidad.
+
+**Trampas de la conducción**:
+1. **No aceleres al júnior.** El objetivo de 90 a 120 s de procedimiento es para un operario con experiencia. El júnior en la primera semana tiene derecho a 3 minutos. Presionar por ritmo en la primera semana equivale a perder seguridad en la segunda.
+2. **No concedas la autorización demasiado pronto.** El criterio no es el tiempo, sino la repetibilidad sin vacilación. Un júnior que ante la pregunta «¿paso tres?» responde «ehhh… ¿interruptor principal?» tras dos semanas necesita otra semana más, aunque «parezca seguro de sí mismo».
+
+**Integración con lecciones anteriores**: lección 2 de T1 M2 (prohibición de guantes) en el paso 6 (te quitas los guantes antes de acercarte a la cinta); lección 3 de T1 M2 (STOP mayor que START, seta) en el paso 3 (prueba funcional); lección 4 de T1 M2 (checklist de cinco puntos) en los pasos 1 a 3 como aplicación práctica; lección 7 de T1 M2 (protocolo de avería de cinco pasos: STOP, ESPERA, FIJA, NOTIFICA, INVESTIGA) como reacción ante cada uno de los 5 motivos de STOP del warning-box; lección 8 de T2 M2 (cambio de cinta, 30 s de marcha en vacío) en el paso 4, que aplica la misma cifra profesional al arranque diario.
+
+**Anticipo de las lecciones 2 y 3 de esta semana**: la lección 2 introduce la regulación de las guías de la cinta (3 a 4 mm de la lección 8 de la semana 2 como parámetro profesional; ahora el aprendiz lo ajusta él mismo bajo supervisión). La lección 3 introduce los parámetros de corte y el avance: la primera lección en la que el aprendiz adapta la máquina al material, no solo a sí mismo. El bloque 1 de la semana 3 equivale a la tríada completa «arrancar, regular, cortar» de la sierra de cinta, el corazón del aserradero polaco.
