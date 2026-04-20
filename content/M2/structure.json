@@ -390,16 +390,16 @@
           "id": "m2-w3-l8",
           "czas": 120,
           "tytul": {
-            "pl": "Załadunek stosu do komory suszarniczej",
-            "en": "Loading the Stack into the Drying Kiln",
-            "es": "Carga de la pila en la cámara de secado",
-            "uk": "Завантаження штабеля в сушильну камеру"
+            "pl": "Kontrola po suszeniu i wyjmowanie partii",
+            "en": "Post-drying Inspection and Unloading the Batch",
+            "es": "Control postsecado y descarga del lote",
+            "uk": "Контроль після сушіння і вивантаження партії"
           },
           "opis": {
-            "pl": "Układasz pakiet na przekładkach 25 mm ustawionych pionowo jedna nad drugą, zachowujesz odstępy dla powietrza 2–5 m/s, czoła desek zabezpieczasz powłoką przed pękaniem. Wiesz, że układasz pod nadzorem mistrza suszarni.",
-            "en": "You stack the package on 25 mm stickers aligned vertically one above the other, keep airflow gaps for 2–5 m/s, and seal the board ends against splitting. You know you do this under the kiln master's supervision.",
-            "es": "Apilas el paquete sobre separadores de 25 mm alineados verticalmente uno sobre otro, dejas huecos para un flujo de aire de 2–5 m/s y sellas los testeros de las tablas contra la fenda. Sabes que apilas bajo supervisión del maestro del secadero.",
-            "uk": "Укладаєш пакет на прокладках 25 mm, вирівняних вертикально одна над одною, залишаєш проміжки для потоку повітря 2–5 m/s, торці дошок захищаєш покриттям від розтріскування. Знаєш, що укладаєш під наглядом майстра сушарні."
+            "pl": "Mierzysz wilgotność wilgotnościomierzem oporowym w 4 pozycjach (z lekcji 2 tygodnia 2), oceniasz pęknięcia powierzchniowe i czołowe, reklasyfikujesz deski A→B przy przekroczeniu progów klasy. Aktualizujesz etykietę partii i wpis w rejestrze suszarni. Wiesz, że klasa nie jest stała – materiał dojrzewa i degraduje przez suszenie.",
+            "en": "You measure moisture with a resistance meter in 4 positions (from Week 2 Lesson 2), assess surface and end checks, and reclassify boards A→B when class thresholds are exceeded. You update the batch label and the kiln log entry. You know that class is not permanent – the material matures and degrades through drying.",
+            "es": "Mides la humedad con un medidor resistivo en 4 posiciones (de la semana 2 lección 2), evalúas fendas superficiales y en los testeros, y reclasificas las tablas A→B cuando se superan los umbrales de clase. Actualizas la etiqueta del lote y el registro del secadero. Sabes que la clase no es permanente – el material madura y se degrada con el secado.",
+            "uk": "Вимірюєш вологість кондуктометром у 4 позиціях (з тижня 2 уроку 2), оцінюєш поверхневі та торцеві тріщини, перекласифіковуєш дошки A→B при перевищенні порогів класу. Оновлюєш етикетку партії та запис у журналі сушарні. Знаєш, що клас не є постійним – матеріал дозріває і деградує через сушіння."
           }
         }
       ]
