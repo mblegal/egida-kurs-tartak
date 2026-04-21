@@ -137,15 +137,16 @@ describe('buildSidebar — unit', () => {
 });
 
 describe('buildLessons — placeholder fallback', () => {
-  it('gdy brak .md dla lekcji → lesson--placeholder z polskimi diakrytykami', () => {
-    // Używamy M3, który nadal jest 0/32 placeholderów. M1 i M2 mają już realne lekcje.
+  it('gdy istnieją placeholdery → lesson--placeholder z polskimi diakrytykami', () => {
+    // M3 jest w trakcie produkcji (Part 20: 2/32 rendered). Dopóki ma placeholdery,
+    // sprawdzamy że się renderują. Gdy M3 osiągnie 32/32, warunek wygaśnie i ten test
+    // stanie się trywialny (co jest OK, test niezmiennika poniżej i tak chroni sumę).
     const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M3', 'structure.json'), 'utf8'));
     const { html, counts } = buildLessons('M3', structure);
-    expect(counts.rendered).toBe(0);
-    expect(counts.placeholder).toBe(32);
-    expect(html).toContain('lesson--placeholder');
-    // Polskie diakrytyki w tekście placeholdera
-    expect(html).toContain('Ta lekcja nie ma jeszcze treści');
+    if (counts.placeholder > 0) {
+      expect(html).toContain('lesson--placeholder');
+      expect(html).toContain('Ta lekcja nie ma jeszcze treści');
+    }
   });
 
   it('M1 suma lekcji: rendered + placeholder = 32 (niezmiennik)', () => {
@@ -164,6 +165,16 @@ describe('buildLessons — placeholder fallback', () => {
     const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M2', 'structure.json'), 'utf8'));
     const { counts } = buildLessons('M2', structure);
     expect(counts.rendered).toBeGreaterThanOrEqual(1);
+    expect(counts.placeholder).toBeGreaterThanOrEqual(0);
+    expect(counts.rendered + counts.placeholder).toBe(32);
+  });
+
+  it('M3 suma lekcji: rendered + placeholder = 32 (niezmiennik)', () => {
+    // M3 zaczyna się od pilota m3-w1-l1 (2026-04-21, Part 20). Test sprawdza niezmiennik
+    // „suma = 32", działa niezależnie od postępu produkcji treści M3.
+    const structure = JSON.parse(readFileSync(join(CONTENT_DIR, 'M3', 'structure.json'), 'utf8'));
+    const { counts } = buildLessons('M3', structure);
+    expect(counts.rendered).toBeGreaterThanOrEqual(0);
     expect(counts.placeholder).toBeGreaterThanOrEqual(0);
     expect(counts.rendered + counts.placeholder).toBe(32);
   });
