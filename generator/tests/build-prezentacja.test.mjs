@@ -121,14 +121,15 @@ describe('build-prezentacja.mjs E2E', () => {
     expect(m3Html).toContain('Самостійний');
   });
 
-  it('placeholder lekcji ma tag "Lección por preparar" + tytuł z structure.json', () => {
-    // M1 i M2 po ukończeniu Modułu 2 mają 32/32 lekcji z treścią (0 placeholder), więc placeholder sprawdzamy na M3
-    expect(m3Html).toContain('class="placeholder-tag"');
-    expect(m3Html).toContain('Lección por preparar');
-    expect(m3Html).toContain('Lekcja w przygotowaniu'); // PL w ukrytym spanie
-    // Tytuł pierwszej lekcji M1 (z structure.json) — nadal obecny, już nie w placeholderze bo lekcja ma treść
+  it('pierwsza lekcja M1 jest obecna z tytułem z structure.json (PL + ES)', () => {
+    // Po ukończeniu Fazy 3 kursu (M1+M2+M3 = 96/96 lekcji z treścią, 0 placeholder)
+    // test placeholder-tag nie ma sensu — weryfikujemy, że tytuł pierwszej lekcji M1 nadal się renderuje
     expect(m1Html).toContain('Por qué un aserradero es diferente');
     expect(m1Html).toContain('Dlaczego tartak jest inny');
+    // Weryfikacja, że żaden z 3 modułów nie zawiera placeholder-tag (wszystkie ukończone)
+    expect(m1Html).not.toContain('class="placeholder-tag"');
+    expect(m2Html).not.toContain('class="placeholder-tag"');
+    expect(m3Html).not.toContain('class="placeholder-tag"');
   });
 
   it('lang-switcher jest obecny z 4 przyciskami', () => {
