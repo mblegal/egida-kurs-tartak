@@ -3,3 +3,5 @@ dist/
 *.log
 .DS_Store
 ._*
+podprojekt-b/.iura-queries/
+__pycache__/
