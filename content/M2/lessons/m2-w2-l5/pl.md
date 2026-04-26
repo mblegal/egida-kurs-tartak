@@ -6,11 +6,11 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, ósmy dzień tygodnia drugiego. Wczoraj Emeka nauczył się **widzieć** cztery wady drewna. Dzisiaj uczy się **nazywać to, co widzi na stosach po cięciu**. O 7:30 mistrz Jan prowadzi go wzdłuż wschodniej ściany hali, gdzie leży pięć różnych sterów tarcicy, każdy oznaczony tabliczką z numerem kolejnym od 1 do 5.
+Piątek, ósmy dzień tygodnia drugiego. Wczoraj Carlos nauczył się **widzieć** cztery wady drewna. Dzisiaj uczy się **nazywać to, co widzi na stosach po cięciu**. O 7:30 mistrz Jan prowadzi go wzdłuż wschodniej ściany hali, gdzie leży pięć różnych sterów tarcicy, każdy oznaczony tabliczką z numerem kolejnym od 1 do 5.
 
-„Zobacz, Emeka. To wszystko wyszło z jednej wczorajszej kłody dębowej. **Pięć różnych stosów, pięć różnych cen, pięciu różnych klientów.** Zanim nauczę cię sortować do tych stosów, musisz wiedzieć, jak się nazywa to, co tam leży. Inaczej na zeszycie zamówień piszesz 'deska' i nikt nie wie, co masz na myśli."
+„Zobacz, Carlos. To wszystko wyszło z jednej wczorajszej kłody dębowej. **Pięć różnych stosów, pięć różnych cen, pięciu różnych klientów.** Zanim nauczę cię sortować do tych stosów, musisz wiedzieć, jak się nazywa to, co tam leży. Inaczej na zeszycie zamówień piszesz 'deska' i nikt nie wie, co masz na myśli."
 
-Ta lekcja jest o **sortymentach tarcicy**: nazwach handlowych dla tego, co wychodzi z tartaku po przetarciu kłody. Słowa, które wydają się synonimami, w handlu drewnem są różnymi kategoriami o różnych cenach: **obrzynana i nieobrzynana** to nie to samo co **deska i belka**. **Pryzma** to nie kłoda ani deska, tylko półprodukt pomiędzy. **Oblina** to odpad cenny na opał albo deskę opakowaniową, ale nigdy na konstrukcję. Emeka nauczy się dziś rozróżniać pięć podstawowych sortymentów i wiedzieć, z której maszyny każdy wychodzi.
+Ta lekcja jest o **sortymentach tarcicy**: nazwach handlowych dla tego, co wychodzi z tartaku po przetarciu kłody. Słowa, które wydają się synonimami, w handlu drewnem są różnymi kategoriami o różnych cenach: **obrzynana i nieobrzynana** to nie to samo co **deska i belka**. **Pryzma** to nie kłoda ani deska, tylko półprodukt pomiędzy. **Oblina** to odpad cenny na opał albo deskę opakowaniową, ale nigdy na konstrukcję. Carlos nauczy się dziś rozróżniać pięć podstawowych sortymentów i wiedzieć, z której maszyny każdy wychodzi.
 
 ## Cele
 
@@ -43,7 +43,7 @@ Zanim deska trafi do klienta, kłoda przechodzi przez 5 etapów maszynowych. Ka�
 
 ### Sortyment pierwszy: oblina
 
-Emeka stoi przed stosem nr 1. Widzi deski o dziwnym profilu: **jedna strona płaska (po cięciu), druga zaokrąglona z korą** (po naturalnym brzegu pnia). Grubość nierówna: w środku 30 mm, po bokach 5–10 mm.
+Carlos stoi przed stosem nr 1. Widzi deski o dziwnym profilu: **jedna strona płaska (po cięciu), druga zaokrąglona z korą** (po naturalnym brzegu pnia). Grubość nierówna: w środku 30 mm, po bokach 5–10 mm.
 
 **Oblina** (*slab*, niem. *Schwarte*) to pierwszy i ostatni kawałek kłody po cięciu wzdłużnym pilarką taśmową. Ma **tylko jedną płaską stronę** – tę, po której przeszła piła. Druga strona zachowuje naturalny łuk pnia oraz korę (jeśli kłoda nie była korowana). Długość równa długości kłody (2,5–6 m), szerokość zmienia się od 0 na końcach do maksimum w środku.
 
@@ -61,7 +61,7 @@ Emeka stoi przed stosem nr 1. Widzi deski o dziwnym profilu: **jedna strona pła
 
 ### Sortyment drugi: opół
 
-Emeka podchodzi do stosu nr 2. Widzi grube kawałki drewna **o przekroju półkola**: jedna strona płaska (przekrój przez środek kłody), druga zaokrąglona z korą (pozostałość pnia z drugiej strony). Grubość w środku 20–25 cm, szerokość 30–50 cm, długość 4 m.
+Carlos podchodzi do stosu nr 2. Widzi grube kawałki drewna **o przekroju półkola**: jedna strona płaska (przekrój przez środek kłody), druga zaokrąglona z korą (pozostałość pnia z drugiej strony). Grubość w środku 20–25 cm, szerokość 30–50 cm, długość 4 m.
 
 **Opół** (*half-sawn log*, niem. *Halbholz*) to kłoda przecięta **przez środek na dwie równe połówki**. Powstaje, gdy pilarka taśmowa wykona tylko jeden rzaz przez środek osi kłody, bez dalszego cięcia. Opół ma jedną stronę płaską (rzaz) i drugą naturalną (z korą albo po korowaniu).
 
@@ -95,7 +95,7 @@ Stos nr 3 to coś innego: **cztery ściany proste, kąt 90° każda, przekrój p
 
 ### Sortymenty czwarty i piąty: tarcica nieobrzynana i obrzynana
 
-Emeka patrzy na stosy 4 i 5 obok siebie. Stos 4: **deski z płaskimi górą i dołem, ale bokami naturalnymi** – szeroka w środku, zwężająca się na końcach, po bokach ślady po korze. Stos 5: **te same deski, ale z czterema prostymi kantami** – każda ma idealny prostokątny przekrój.
+Carlos patrzy na stosy 4 i 5 obok siebie. Stos 4: **deski z płaskimi górą i dołem, ale bokami naturalnymi** – szeroka w środku, zwężająca się na końcach, po bokach ślady po korze. Stos 5: **te same deski, ale z czterema prostymi kantami** – każda ma idealny prostokątny przekrój.
 
 **Tarcica nieobrzynana** (*unedged lumber*) = deska po pilarce taśmowej, **nie przeszła przez okrawiarkę**. Góra i dół płaskie (po pile), boki naturalne (profil pnia). Szerokość zmienia się wzdłuż deski: na czołówce może być 35 cm, w środku 25 cm, na drugiej czołówce znów 35 cm.
 
@@ -122,7 +122,7 @@ Za kłodę kupioną w lesie po 300 zł/m³ (objętość 0,38 m³ w korze = 114 z
 
 ### Skąd wiesz, z której maszyny który sortyment
 
-Emeka porządkuje w głowie:
+Carlos porządkuje w głowie:
 - **Pilarka taśmowa (trak główny)**: kłoda → **deski nieobrzynane + 2 oblina + ewentualnie pryzma**.
 - **Okrawiarka (*edger*)**: deski nieobrzynane → **deski obrzynane + listwy odpadowe**.
 - **Pilarka ramowa / wielopiłowa**: pryzma → **pakiet desek obrzynanych o identycznej grubości** jednym cięciem przez 6–12 pił.
@@ -163,18 +163,18 @@ W poniedziałek (lekcja 6, nowy tydzień) poznasz **klasy jakości tarcicy A/B/C
 
 **Dlaczego akurat pięć sortymentów**: selekcja pragmatyczna. Pełna klasyfikacja handlowa tarcicy rozróżnia 15+ sortymentów (łata, kantówka, listwa, boazeria, element kalibrowany, fryz, legar, krokwiak itd.), ale one wszystkie są **wariantami tarcicy obrzynanej o specyficznych wymiarach**. Fundamentalne sortymenty to **oblina / opół / pryzma / obrzynana / nieobrzynana**, bo definiują **geometrię przekroju i stopień obróbki**. Wymiary to drugi wymiar klasyfikacji (rozmiar), klasa to trzeci (jakość). Te trzy razem (sortyment + wymiar + klasa) dają pełną pozycję cenową.
 
-**Analogia prowadząca**: sortyment jak „cięcie mięsa w rzeźni". Ten sam byk daje polędwicę (najdroższa, wymaga precyzyjnego cięcia), antrykot, schab, łopatkę, mostek, odpad na kiełbasę. Sortyment tartaku analogicznie: odziomek dębowy na fornir (analogia polędwicy), pryzma konstrukcyjna (antrykot), tarcica obrzynana klasa B (schab), nieobrzynana (łopatka), oblina (mostek), trociny (odpad na kiełbasę/pellet). Kursanci z krajów o rozwiniętym rzeźnictwie (większość Afryki, Filipiny, Ukraina, Gruzja) tę analogię rozumieją natychmiast.
+**Analogia prowadząca**: sortyment jak „cięcie mięsa w rzeźni". Ten sam byk daje polędwicę (najdroższa, wymaga precyzyjnego cięcia), antrykot, schab, łopatkę, mostek, odpad na kiełbasę. Sortyment tartaku analogicznie: odziomek dębowy na fornir (analogia polędwicy), pryzma konstrukcyjna (antrykot), tarcica obrzynana klasa B (schab), nieobrzynana (łopatka), oblina (mostek), trociny (odpad na kiełbasę/pellet). Kursanci z krajów o rozwiniętym rzeźnictwie (Ukraina, Kolumbia, Wenezuela, większość Ameryki Łacińskiej) tę analogię rozumieją natychmiast.
 
 **Gdzie ta lekcja wraca**: m2-w2-l6 klasy A/B/C/D (jakość, trzeci wymiar), m2-w2-l7 piły (jaka piła do jakiego sortymentu), m2-w2-l8 wymiana taśmy (zużycie taśmy zależy od sortymentu – cięcie pryzmy dębowej tępi piłę 3× szybciej niż cięcie sosnowej obliny), m2-w3-l2 pilarka taśmowa w ruchu, m2-w3-l5 okrawiarka, m2-w4-l2 sortowanie i układanie gotowej tarcicy.
 
 **Pułapki kursantów migranckich**:
-- „Tarcica = deska" – **niekoniecznie**. Tarcica to termin zbiorczy na wszystko po cięciu wzdłużnym (deski + belki + listwy + oblina). Deska to konkretny sortyment o proporcjach grubość < szerokość < długość. Kursanci z Filipin i Afryki często używają jednego słowa odpowiadającego „drewno cięte" i nie rozróżniają.
+- „Tarcica = deska" – **niekoniecznie**. Tarcica to termin zbiorczy na wszystko po cięciu wzdłużnym (deski + belki + listwy + oblina). Deska to konkretny sortyment o proporcjach grubość < szerokość < długość. Kursanci z krajów, gdzie słownik tartaczny nie rozbudował się historycznie (część Ameryki Łacińskiej), często używają jednego słowa odpowiadającego „drewno cięte" i nie rozróżniają.
 - Oblina „jako odpad do wyrzucenia" – **nie**, oblina to produkt 80–350 zł/m³. W krajach bez rozwiniętej gospodarki odpadami drewnianymi to trudna zmiana mentalna.
 - Pryzma „mylona z belką" – pryzma to półprodukt (wchodzi na dalsze cięcie), belka to produkt końcowy (na krokwię). Ta sama geometria (40×40×400 cm), ale różne przeznaczenie. Pryzma ma świeży kolor, nie jest suszona; belka suszona do <20%, z oznakowaniem CE C24/C30.
 - Tarcica obrzynana vs deska podłogowa – obrzynana to surowa tarcica z 4 prostymi kantami, podłogowa to obrzynana po strugu, heblu, ewentualnie z profilem pióro-wpust.
 
 **Ekonomia sortymentów**: tartak zarabia głównie na tarcicy obrzynanej A/B (60–70% przychodów), mało na oblinie i zrębkach (5–10%), ale bez nich zbankrutowałby (musiałby płacić za utylizację). Każdy sortyment ma rolę w mikroekonomii zakładu.
 
-**Case Emeka – kontynuacja**: w czwartek poznał wady, w piątek sortymenty. W poniedziałek (l6) dowie się o klasach A/B/C/D. W trzecim tygodniu M2 zobaczy pilarki w ruchu – zamknie rozumienie, które zaczął w tym tygodniu na statycznych kawałkach.
+**Case Carlos – kontynuacja**: w czwartek poznał wady, w piątek sortymenty. W poniedziałek (l6) dowie się o klasach A/B/C/D. W trzecim tygodniu M2 zobaczy pilarki w ruchu – zamknie rozumienie, które zaczął w tym tygodniu na statycznych kawałkach.
 
 **Dla trenera zaawansowanego**: po tej lekcji warto zrobić spacer po tartaku z kursantem, pokazując fizycznie maszyny i stosy. Tartak to świat wizualny, opis słowny nie wystarczy. 45-minutowy spacer po hali po tej lekcji to najcenniejsza część kursu.

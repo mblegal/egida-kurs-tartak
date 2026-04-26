@@ -59,7 +59,7 @@ Format: trener czyta case głośno grupie, daje 2-3 minuty na samodzielne przemy
 
 ## Case 5: „Kolega podpisz mi rejestr"
 
-**Sytuacja**. Czwartek, 7:45. Pomocnik wchodzi do biurka z rejestrem obecności. Kolega z brygady (Białorusin, dobry znajomy, razem pracują od 3 miesięcy) podchodzi: „słuchaj, ja spóźnię się dzisiaj 40 minut, dentysta. Podpisz mi godzinę 6:50, OK? Normalnie bym sam zrobił, ale chcę uniknąć kłopotów z brygadzistą, tylko ten jeden raz". Pomocnik go lubi, wiedzą że kolega jest w trudnej sytuacji finansowej i spóźnienie może oznaczać potrącenie.
+**Sytuacja**. Czwartek, 7:45. Pomocnik wchodzi do biurka z rejestrem obecności. Kolega z brygady (Kolumbijczyk, dobry znajomy, razem pracują od 3 miesięcy) podchodzi: „słuchaj, ja spóźnię się dzisiaj 40 minut, dentysta. Podpisz mi godzinę 6:50, OK? Normalnie bym sam zrobił, ale chcę uniknąć kłopotów z brygadzistą, tylko ten jeden raz". Pomocnik go lubi, wiedzą że kolega jest w trudnej sytuacji finansowej i spóźnienie może oznaczać potrącenie.
 
 **Pytania do dyskusji**:
 1. Co się stanie, jeśli pomocnik podpisze?

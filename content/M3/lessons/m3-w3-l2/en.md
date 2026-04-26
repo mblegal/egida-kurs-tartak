@@ -6,15 +6,15 @@ czas: 120
 
 ## Introduction
 
-Wednesday, 2026-05-28, 9:45 a.m. Rustam is standing in the **blade workshop** (*warsztat taśm*, a separate room in the hall, 6 x 4 m, marked door "BLADES, access for M3 operators, the classifier, the foreman"). Yesterday, Tuesday, order ZLE-2026-05-077 was closed (the last brush pine cuts for floorboards, a continuation from l1). Today from the morning the shift on P3 is calm, for the first half hour Rustam and Wahan did daily maintenance, and at 9:30 a **package of blades** arrived from Wood-Mizer Polska (three pieces returned from sharpening plus one new from production), **and the spare-blade store has shrunk** to two pieces. Foreman Marek Kowalski has ordered Rustam to weld **two new blades from the raw stock roll** (*rolka taśmy surowej*) in the workshop, so that the spare-blade store returns to a healthy state (4 pieces).
+Wednesday, 2026-05-28, 9:45 a.m. Mykoła is standing in the **blade workshop** (*warsztat taśm*, a separate room in the hall, 6 x 4 m, marked door "BLADES, access for M3 operators, the classifier, the foreman"). Yesterday, Tuesday, order ZLE-2026-05-077 was closed (the last brush pine cuts for floorboards, a continuation from l1). Today from the morning the shift on P3 is calm, for the first half hour Mykoła and Wasyl did daily maintenance, and at 9:30 a **package of blades** arrived from Wood-Mizer Polska (three pieces returned from sharpening plus one new from production), **and the spare-blade store has shrunk** to two pieces. Foreman Marek Kowalski has ordered Mykoła to weld **two new blades from the raw stock roll** (*rolka taśmy surowej*) in the workshop, so that the spare-blade store returns to a healthy state (4 pieces).
 
 The blade workshop is not a place that an M1 or M2 operator may enter on their own. It is a **competence of the M3 operator**, entered in the EGIDA qualification card in March 2026 after the competence audit (the auditor found that handing 100 percent of blades to Wood-Mizer Polska for welding was a continuity-of-production risk, and that autonomous operators should be able to weld a blade locally in an emergency). **Blade welding** is not a daily task, it is done 1-2 times per quarter, but the operator must be able to do it correctly under time pressure (for example, a broken blade on Friday evening, Wood-Mizer is closed on Saturday, on Monday a client collects the order, you have to weld yourself).
 
-Wahan is not entering the workshop today (M1 has no authorisation), but he is standing behind the glass observation door. Rustam is working alone, commenting aloud on the sequence of actions, so that Wahan learns it structurally (in M2 he will one day get a close-up view, in M3 he will do it himself).
+Wasyl is not entering the workshop today (M1 has no authorisation), but he is standing behind the glass observation door. Mykoła is working alone, commenting aloud on the sequence of actions, so that Wasyl learns it structurally (in M2 he will one day get a close-up view, in M3 he will do it himself).
 
 ### 9:47, workshop equipment
 
-Rustam does a quick inventory of the equipment (EGIDA standard, checked on every entry before work):
+Mykoła does a quick inventory of the equipment (EGIDA standard, checked on every entry before work):
 
 1. **Wood-Mizer BMS-250 blade welder** (*zgrzewarka oporowa*, resistance welder), 2018 model, on the work station, 400 V three-phase power supply, 15 kVA transformer output, maximum blade width 50 mm (the LT70 uses 38, it fits). Weld counter on the panel: **2847** (since purchase in 2018, on average 570 welds per year). Manufacturer catalogue number W-BMS250-2018.
 2. **Two-stage grinding stone** (*brusek dwustopniowy*) for grinding welds, upper plate coarse (P80 grit), lower plate finishing (P240), catalogue number W-GR-80/240.
@@ -31,16 +31,16 @@ Rustam does a quick inventory of the equipment (EGIDA standard, checked on every
 10. **Self-adhesive A6 labels** for marking finished blades (the sticker: type, weld date, operator, counter at the sharpener pending).
 11. **LT70 welding instruction** from Wood-Mizer, original (in Polish, issued 2020, in force, 14 pages, in a plastic sleeve next to the welder).
 
-Rustam checks the power supply: the wall panel, the orange LED "ready", the green LED "cool" (the device is not heated yet, reaching welding temperature takes 15 minutes). He flips the "ON" switch, the orange LED blinks; in 15 minutes it will glow steady.
+Mykoła checks the power supply: the wall panel, the orange LED "ready", the green LED "cool" (the device is not heated yet, reaching welding temperature takes 15 minutes). He flips the "ON" switch, the orange LED blinks; in 15 minutes it will glow steady.
 
 ### 10:02, measuring and cutting the first blade
 
 The blade length for an LT70 sawmill follows from **the circumference of the two tensioning wheels**. For an LT70 (wheels 483 mm diameter each, axles 1610 mm apart) the blade circumference is about **5 m 380 mm** (for a working tension of 2200 PSI). Wood-Mizer norm: **5.40 m +/-10 mm** (a centimetre either way is acceptable). A shorter blade will not seat on the wheels at full tension, a longer one will not reach 2200 PSI tension (the tensioner carriage has a limited stroke).
 
-Rustam takes the **alloy 38/7-8 rake 10 degrees** (the first, today we are making typical blades for pine) from the roll. He measures out on the table:
+Mykoła takes the **alloy 38/7-8 rake 10 degrees** (the first, today we are making typical blades for pine) from the roll. He measures out on the table:
 
 1. Hooks the beginning of the blade on the left holder of the table (a magnetic catch, the steel blade sticks to it).
-2. Unwinds the roll to the right, by hand. The blade is wound in the roll under tension, it jumps out sharply, Rustam holds it in thick leather gloves (OHS, the blade has teeth, it cuts a finger if you are careless).
+2. Unwinds the roll to the right, by hand. The blade is wound in the roll under tension, it jumps out sharply, Mykoła holds it in thick leather gloves (OHS, the blade has teeth, it cuts a finger if you are careless).
 3. Measures with a 5-metre steel tape (two pieces, overlapping), marks the cut point with a white marker at **5.40 m**.
 4. Plus an extra control length of **+20 mm** for cutting (because the circular saw takes 2-3 mm, plus a margin for end cleanliness).
 5. Cut with the HSS circular saw: the blade lying on the table, saw in hand, cut perpendicular at 90 degrees (important so that the ends are parallel to each other after welding).
@@ -55,7 +55,7 @@ The ends of the blade are factory-sharp (teeth and edge), but not clean. Before 
 2. **Acetone on a cotton swab**, wiping the same 3 cm section. It removes grease that the brush did not pick up. Acetone evaporates in 20-30 seconds with no residue. **OHS note**: acetone in an open container only briefly, nitrile gloves (not latex, acetone dissolves latex), the hall has ventilation plus **ATEX Zone 22**, so an open flame (e.g. a cigarette) on the same shift would be forbidden before the bottle is closed.
 3. **Drying for 30 seconds** in the air, so that acetone residues evaporate before the blade goes into the welder.
 
-Rustam does this with methodical mindfulness. For many years he has learned that **the quality of a weld starts on the steel brush**. The sawmill in Romania where he worked before Poland had a rule: "the brush goes on as long as you see bare rough metallic surface with no matt film", and this rule came with Rustam.
+Mykoła does this with methodical mindfulness. For many years he has learned that **the quality of a weld starts on the steel brush**. The sawmill in Romania where he worked before Poland had a rule: "the brush goes on as long as you see bare rough metallic surface with no matt film", and this rule came with Mykoła.
 
 ### 10:11, setting in the welder jaws
 
@@ -70,7 +70,7 @@ The Wood-Mizer BMS-250 welder has a top panel with:
 - **Green LED** (ready, ready to weld)
 - **Red LED** (error, interrupted cycle, transformer overheating)
 
-Rustam sets:
+Mykoła sets:
 - **Current: 9 kA** (middle of the 8-10 range for 38 x 1.07 alloy blades)
 - **Time: 1.8 s** (Wood-Mizer standard for this thickness)
 - **Pressure: 70 kg** (set by a mechanical lever, verified with the EGIDA spring scale, reading 68-72 kg, acceptable)
@@ -82,11 +82,11 @@ Positioning the ends of the blade in the jaws:
 4. Check the contact of the ends: it should be **metal to metal with no gap, no overlap**. If there is a 0.1 mm gap, there will be a hole in the weld (it will tear on the first tension). If there is overlap, right over left, the weld will be thicker at that spot (it will need heavier grinding). Optimum: the ends touch plane to plane, visibly perpendicular.
 5. The right jaw lever goes down.
 
-Rustam checks visually. The contact is beautifully perpendicular, the gap is invisible. **OK**.
+Mykoła checks visually. The contact is beautifully perpendicular, the gap is invisible. **OK**.
 
 ### 10:15, welding cycle
 
-Rustam steps back from the welder's arm (OHS, the weld is very bright, DIN 5 or DIN 6 safety goggles are required, Rustam has DIN 5 on his forehead, lowered at the moment of start).
+Mykoła steps back from the welder's arm (OHS, the weld is very bright, DIN 5 or DIN 6 safety goggles are required, Mykoła has DIN 5 on his forehead, lowered at the moment of start).
 
 - **Goggles down** (green lenses, brightness filter).
 - **Hand on the cycle start button.**
@@ -100,7 +100,7 @@ Automatic cycle:
 - **2.1-4.0 s**: 2 seconds of cooling under pressure (important, under pressure the metal solidifies evenly, without pores).
 - **4.0 s**: pressure released, cycle complete, the green LED blinks.
 
-Through his goggles Rustam sees a bright white flash (short, 1-2 s), the fused contact turns red, then dark red, then black metallic. The welder hums at the typical low 50 Hz tone from the welding current. Wahan, from the other side of the door, sees the flash through the shield and squints slightly (Wahan has put on safety goggles as well, OHS in the workshop for an observer behind a glass door is not required but EGIDA requires it for familiarisation with the procedure).
+Through his goggles Mykoła sees a bright white flash (short, 1-2 s), the fused contact turns red, then dark red, then black metallic. The welder hums at the typical low 50 Hz tone from the welding current. Wasyl, from the other side of the door, sees the flash through the shield and squints slightly (Wasyl has put on safety goggles as well, OHS in the workshop for an observer behind a glass door is not required but EGIDA requires it for familiarisation with the procedure).
 
 ### 10:16, natural cooling
 
@@ -108,15 +108,15 @@ After the weld the blade stays in the jaws, **you must not take it out immediate
 
 EGIDA procedure: **wait 60-90 seconds with the blade in the jaws** (*chłodzenie naturalne*, natural cooling), let the temperature equalise with the surroundings. Then release the jaws carefully, pull the blade out to the next stage.
 
-Rustam waits. He stands by the welder, looks at the thermometer on the wall (22 degrees C in the hall), thinks about tomorrow's order. Wahan looks in through the door, Rustam nods a finger meaning "wait". Wahan nods, **good work with the procedure**.
+Mykoła waits. He stands by the welder, looks at the thermometer on the wall (22 degrees C in the hall), thinks about tomorrow's order. Wasyl looks in through the door, Mykoła nods a finger meaning "wait". Wasyl nods, **good work with the procedure**.
 
-10:17, 75 seconds after the weld. Rustam opens the jaws, pulls out the blade. He touches the weld with a gloved finger, warm but **not hot** (40-45 degrees C). He moves on to grinding.
+10:17, 75 seconds after the weld. Mykoła opens the jaws, pulls out the blade. He touches the weld with a gloved finger, warm but **not hot** (40-45 degrees C). He moves on to grinding.
 
 ### 10:18, grinding the weld
 
 After the welder the weld is not smooth. At the contact of the end surfaces a **"weld bead"** (*grat zgrzewu*) forms (slightly bulging material, typically 0.5-1.0 mm above the blade thickness), on both flat sides of the blade. If such a blade with a bead were mounted on a sawmill, **the bead would touch the guides** (BG-UHMW-70 blocks from l8 M3 T2) and quickly wear them out, and the bead itself would be blunted.
 
-Rustam takes the **two-stage grinding stone** (*brusek dwustopniowy*):
+Mykoła takes the **two-stage grinding stone** (*brusek dwustopniowy*):
 
 **Stage 1, coarse P80 stone** (grinding stone of 80 grit, handheld, about 10 cm plate, 2-3 cm thick, held in the hand):
 1. Place the blade on the table, spine up, weld under the stone.
@@ -131,15 +131,15 @@ Rustam takes the **two-stage grinding stone** (*brusek dwustopniowy*):
 4. Time: 1-2 minutes each side.
 
 **Stage 3, micrometer measurement**:
-Rustam measures the weld (middle of the blade width, holding the micrometer perpendicular). Measurement 1: **1.08 mm**. Measurement 2, 2 mm away from the first: **1.07 mm**. Measurement 3: **1.06 mm**. Mean **1.07 mm**, which is the factory blade thickness. **OK**, the weld has been ground evenly.
+Mykoła measures the weld (middle of the blade width, holding the micrometer perpendicular). Measurement 1: **1.08 mm**. Measurement 2, 2 mm away from the first: **1.07 mm**. Measurement 3: **1.06 mm**. Mean **1.07 mm**, which is the factory blade thickness. **OK**, the weld has been ground evenly.
 
-Wahan asks through the door: *"Why are you measuring three times?"* Rustam: *"Because over the 5 cm of weld width the thickness can vary. If one side of the weld is 1.10 mm (too thick) and the other 1.05 mm (too thin), a 1.07 mean looks OK, but in reality I have an uneven weld that will shear off in cutting. I have to see all three points together, not just the mean."*
+Wasyl asks through the door: *"Why are you measuring three times?"* Mykoła: *"Because over the 5 cm of weld width the thickness can vary. If one side of the weld is 1.10 mm (too thick) and the other 1.05 mm (too thin), a 1.07 mean looks OK, but in reality I have an uneven weld that will shear off in cutting. I have to see all three points together, not just the mean."*
 
 EGIDA tolerance for a weld (*tolerancja grubości zgrzewu*, weld thickness tolerance): **1.07 +/-0.03 mm** at each of the three points. For today's weld all three are within tolerance (1.06 to 1.08), **OK**.
 
 ### 10:26, visual and geometric tests
 
-After grinding Rustam:
+After grinding Mykoła:
 
 1. **Lays the blade flat on the table**, looks from a side perspective. The weld should be **invisible from a flat perspective** (that is, no "hump" or "dip" in the plane of the blade).
 2. **Looks from above** at the weld, looking for microcracks (most often in the centre of the width, clear dark hairline lines). For a good weld: uniform matt metallic grey with fine P240 grinding streaks. For a bad one: visible radial or axial cracks. Today's weld: **uniform, OK**.
@@ -150,12 +150,12 @@ If any of the tests is **not OK**, the weld goes to the bin (cut out and weld ag
 
 ### 10:28, labelling and storage
 
-Rustam takes an A6 self-adhesive label and writes:
+Mykoła takes an A6 self-adhesive label and writes:
 
 ```
 Type: alloy 38x1.07, pitch 7/8, rake 10 degrees
 No.: EGIDA-ST-77-2026-05-28
-Weld: 2026-05-28, 10:15, Rustam Nazarov
+Weld: 2026-05-28, 10:15, Mykoła Hrycenko
 Post-sharpener counter: 0 (welded, not yet sharpened)
 Storage: blade workshop, shelf 2
 ```
@@ -166,11 +166,11 @@ Welder counter: **2848** (2847 before, +1 for this one).
 
 ### 10:35, second blade, repetition
 
-Rustam repeats the whole cycle for the **second blade**, also alloy 38/7-8 rake 10 degrees (because the store has shortages of this type). Measuring, cutting, brush, acetone, setting in the jaws, welding cycle (9 kA / 1.8 s / 70 kg), 75 s cooling, P80/P240 grinding, micrometer measurement (1.07/1.07/1.08), bend test, label, storage.
+Mykoła repeats the whole cycle for the **second blade**, also alloy 38/7-8 rake 10 degrees (because the store has shortages of this type). Measuring, cutting, brush, acetone, setting in the jaws, welding cycle (9 kA / 1.8 s / 70 kg), 75 s cooling, P80/P240 grinding, micrometer measurement (1.07/1.07/1.08), bend test, label, storage.
 
-Time: **17 minutes** (without start-up equipping, without waiting for the welder to be ready). The second blade is faster than the first, because Rustam's movements are set.
+Time: **17 minutes** (without start-up equipping, without waiting for the welder to be ready). The second blade is faster than the first, because Mykoła's movements are set.
 
-10:52, the blade workshop is done, **two new blades in the store**, stock back to a healthy 4 pieces. Rustam switches off the welder (the orange LED goes out, the green "cool" briefly), cleans the table, returns to the hall to P3.
+10:52, the blade workshop is done, **two new blades in the store**, stock back to a healthy 4 pieces. Mykoła switches off the welder (the orange LED goes out, the green "cool" briefly), cleans the table, returns to the hall to P3.
 
 ## Objectives
 
@@ -241,7 +241,7 @@ A weak weld (badly made) shortens the blade's life. EGIDA 2025 statistics (47 lo
   - 1 cracked at 80 cuts (a borderline weld, hard to pinpoint the cause, Wood-Mizer diagnosis did not detect it)
   - 1 cracked at 130 cuts (acceptable, close to the expected life, this is not a "weak weld")
 
-EGIDA acceptance threshold: **max 10 percent rejection in the first line** (the operator themselves rejects a badly made weld at the test stage). If an operator has a rejection statistic of 15 percent+ in a quarter, the foreman invites Rustam (or Damian) to Wood-Mizer Polska for a training day (EGIDA procedure from 2024).
+EGIDA acceptance threshold: **max 10 percent rejection in the first line** (the operator themselves rejects a badly made weld at the test stage). If an operator has a rejection statistic of 15 percent+ in a quarter, the foreman invites Mykoła (or Damian) to Wood-Mizer Polska for a training day (EGIDA procedure from 2024).
 
 For comparison, welds **from Wood-Mizer Polska** have a statistic of **more than 95 percent of full cycles** (about 5 percent cracks). EGIDA with its 91.5 percent is lower but acceptably so, the difference coming from experience and the plant's machine park (EGIDA's BMS-250 vs WM Polska's plant machines).
 
@@ -357,11 +357,11 @@ Breaking any of these requirements is a matter of **Art. 211 pt. 2 of the Labour
 
 ## Closing scene, 11:00, blade test on P3
 
-Rustam returns from the workshop to the sawmill hall. In his hand **one of the two freshly welded blades**, the second stays in the store as a spare. The first goes **onto P3 for a practical test** (because nothing replaces checking under real cutting conditions, laboratory tests are a control, but the final test is the cut).
+Mykoła returns from the workshop to the sawmill hall. In his hand **one of the two freshly welded blades**, the second stays in the store as a spare. The first goes **onto P3 for a practical test** (because nothing replaces checking under real cutting conditions, laboratory tests are a control, but the final test is the cut).
 
 ### 11:05, blade replacement on P3
 
-P3 has been working since the morning with yesterday's blade (alloy 38/7-8, 130 cuts on the counter, close to the end of the cycle, a good moment to replace). Rustam follows the procedure from l6/l7:
+P3 has been working since the morning with yesterday's blade (alloy 38/7-8, 130 cuts on the counter, close to the end of the cycle, a good moment to replace). Mykoła follows the procedure from l6/l7:
 
 - LOTO (switch OFF, padlock, tag).
 - Tension release (lever to SLACK, gauge to 0).
@@ -378,48 +378,48 @@ Total time: **22 minutes**.
 
 ### 11:27, trial cut
 
-On the P3 bed lies a small piece of pine (a log offcut about 60 cm long, 25 cm diameter, left over from ZLE-077 yesterday, Rustam kept it specifically for testing new blades). This is not a "paid cut", it is **a weld quality test in a real cut**.
+On the P3 bed lies a small piece of pine (a log offcut about 60 cm long, 25 cm diameter, left over from ZLE-077 yesterday, Mykoła kept it specifically for testing new blades). This is not a "paid cut", it is **a weld quality test in a real cut**.
 
-Feed speed: **30 feet/min** (gently, so he can watch the blade). Rustam starts the cut. The blade goes through the wood, straight kerf, even motor sound, no "waving". 60 cm of cut, in 4 seconds the head returns. Board no. 1 in hand, 28 x 155 mm of even thickness (measurement at 3 points: 27.8 / 28.0 / 28.2 mm), **within tolerance**.
+Feed speed: **30 feet/min** (gently, so he can watch the blade). Mykoła starts the cut. The blade goes through the wood, straight kerf, even motor sound, no "waving". 60 cm of cut, in 4 seconds the head returns. Board no. 1 in hand, 28 x 155 mm of even thickness (measurement at 3 points: 27.8 / 28.0 / 28.2 mm), **within tolerance**.
 
 Second cut, identical speed. Board no. 2 in hand, measurement **28.0 / 28.1 / 28.0**. **OK**.
 
 Third cut: a knot in the middle of the log (visible from the front), the blade passes through it **with no visible resistance** (no jerk, motor sound not disturbed), the kerf at the knot **straight**. Board no. 3: **28.0 / 27.9 / 28.1**.
 
-**Three-cut test OK.** The blade is fit for production work. Rustam stops the machine, goes to the desk, fills in KDP-001 for the next order (tomorrow Thursday, the plan of order ZLE-2026-05-079 from foreman Marek).
+**Three-cut test OK.** The blade is fit for production work. Mykoła stops the machine, goes to the desk, fills in KDP-001 for the next order (tomorrow Thursday, the plan of order ZLE-2026-05-079 from foreman Marek).
 
 ### 11:40, entry in the welding workshop log
 
-The blade workshop has its **own log** (*dziennik warsztatu*), a register of all welds (separate from KKS-001 and KDP-001, a dedicated workshop document). Rustam comes back for a minute and writes two rows:
+The blade workshop has its **own log** (*dziennik warsztatu*), a register of all welds (separate from KKS-001 and KDP-001, a dedicated workshop document). Mykoła comes back for a minute and writes two rows:
 
 ```
-2026-05-28 10:15  EGIDA-ST-77  alloy 38/7-8/10deg  R.Nazarov  9kA/1.8s/70kg  1.07-1.07-1.08  3-cut-test OK
-2026-05-28 10:52  EGIDA-ST-78  alloy 38/7-8/10deg  R.Nazarov  9kA/1.8s/70kg  1.07-1.07-1.07  in store, test after mounting
+2026-05-28 10:15  EGIDA-ST-77  alloy 38/7-8/10deg  R.Hrycenko  9kA/1.8s/70kg  1.07-1.07-1.08  3-cut-test OK
+2026-05-28 10:52  EGIDA-ST-78  alloy 38/7-8/10deg  R.Hrycenko  9kA/1.8s/70kg  1.07-1.07-1.07  in store, test after mounting
 ```
 
 Log retention 5 years paper plus OneDrive scan.
 
-### 11:45, Rustam's reflection with Wahan
+### 11:45, Mykoła's reflection with Wasyl
 
-Wahan waited the whole time for new work, looked through the workshop door, wrote in his pocket diary. Now time for a coffee conversation (11:45, a short break, 15 minutes).
+Wasyl waited the whole time for new work, looked through the workshop door, wrote in his pocket diary. Now time for a coffee conversation (11:45, a short break, 15 minutes).
 
-Rustam: *"Wahan, what did you write down from what you saw?"*
+Mykoła: *"Wasyl, what did you write down from what you saw?"*
 
-Wahan reads the diary: *"1. Brush + acetone + wait 30 s drying. 2. Set in the jaws, check perpendicularity and teeth. 3. Current 9, time 1.8, pressure 70. 4. Start, flash, wait 80 seconds. 5. Grind P80, grind P240, measure 3 points, bend test. 6. Label, store."*
+Wasyl reads the diary: *"1. Brush + acetone + wait 30 s drying. 2. Set in the jaws, check perpendicularity and teeth. 3. Current 9, time 1.8, pressure 70. 4. Start, flash, wait 80 seconds. 5. Grind P80, grind P240, measure 3 points, bend test. 6. Label, store."*
 
 *"Good. One more thing, the most important, which you did not notice."*
 
-Wahan thinks. *"Acetone OHS?"*
+Wasyl thinks. *"Acetone OHS?"*
 
 *"No, not even that. **I do everything slowly.** I do not rush. Each step has its time. Did you see how I stopped between the brush and the acetone for 5 seconds? I was checking whether the brush really had taken everything off, not just swept over the surface. Did you see how I looked at the contact of the ends in the jaws for 10 seconds? I was looking at whether they were perpendicular, whether the teeth were parallel. None of those 5-10 seconds are visible to you, but **they are in the weld statistic: 91.5 percent good versus 80 percent good if I rush**. Welding is patience."*
 
-Wahan writes: *"Patience. 5-10 seconds of slowness = +10 percentage points of quality."*
+Wasyl writes: *"Patience. 5-10 seconds of slowness = +10 percentage points of quality."*
 
 *"And remember, you do not have to know how to weld in M1 and M2. I also only learned in March 2026, after the competence audit. **Competence grows with time and discipline, not with acceleration.**"*
 
 ### 12:00, the shift continues
 
-The rest of the shift on P3 goes without incident. Rustam continues with small cuts (pine leftovers from the last logs of ZLE-077), Wahan at the feeder. The freshly welded blade runs smoothly, straight kerfs, no hesitation. 3:00 p.m. end of shift, Rustam tidies the workstation, KDP-001 filled in (sections 1-5), envelope to the foreman's desk. Day closed.
+The rest of the shift on P3 goes without incident. Mykoła continues with small cuts (pine leftovers from the last logs of ZLE-077), Wasyl at the feeder. The freshly welded blade runs smoothly, straight kerfs, no hesitation. 3:00 p.m. end of shift, Mykoła tidies the workstation, KDP-001 filled in (sections 1-5), envelope to the foreman's desk. Day closed.
 
 ## Key Terms
 

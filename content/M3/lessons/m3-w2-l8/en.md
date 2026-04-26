@@ -6,19 +6,19 @@ czas: 120
 
 ## Introduction
 
-Tuesday, 2026-05-19, 6:58 a.m. Rustam Nazarov walks into the sawmill hall 2 minutes before the official shift start. Second day of the second oak campaign, *taśma stellite 38/15* (stellite band 38 mm wide, 15 mm tooth pitch) no. 24057, installed yesterday at 9:15 a.m. (after the inspection and replacement described in l7, the directly preceding lesson). Yesterday's throughput: **1.1 m³ of pedunculate oak** (4 logs in 7 hours of cutting), no band failure, no incidents. Today's plan: another **1.1 m³** (the fourth oak log of 0.42 m³ plus the fifth one of 0.68 m³), closing the campaign on Wednesday morning. Wahan Petrosyan arrives at the same moment, holding an open pocket notebook with notes from Monday's inspection (Ms. Ania asked him to write down the sequence of operations to help him remember).
+Tuesday, 2026-05-19, 6:58 a.m. Mykoła Hrycenko walks into the sawmill hall 2 minutes before the official shift start. Second day of the second oak campaign, *taśma stellite 38/15* (stellite band 38 mm wide, 15 mm tooth pitch) no. 24057, installed yesterday at 9:15 a.m. (after the inspection and replacement described in l7, the directly preceding lesson). Yesterday's throughput: **1.1 m³ of pedunculate oak** (4 logs in 7 hours of cutting), no band failure, no incidents. Today's plan: another **1.1 m³** (the fourth oak log of 0.42 m³ plus the fifth one of 0.68 m³), closing the campaign on Wednesday morning. Wasyl Melnyk arrives at the same moment, holding an open pocket notebook with notes from Monday's inspection (Ms. Ania asked him to write down the sequence of operations to help him remember).
 
-Before switching on the motor, EGIDA's standing procedure is **daily workstation maintenance**: five operator tasks performed every morning before the sawmill is started. In a sawmill this is not an option or a good practice, it is an employee duty stemming from **Art. 211 pt. 3 of the Labour Code** (duty to care for the proper condition of machines) and **§ 41 sec. 1 pt. 2 of the general OHS regulation** (permanently available machine operation instructions, which in EGIDA's practice include the list of maintenance tasks). Time for the complete five tasks: **25-30 minutes for one person**, **15-20 minutes for two people**. Rustam and Wahan do it together, rotating roles, so that Wahan learns each task on his own.
+Before switching on the motor, EGIDA's standing procedure is **daily workstation maintenance**: five operator tasks performed every morning before the sawmill is started. In a sawmill this is not an option or a good practice, it is an employee duty stemming from **Art. 211 pt. 3 of the Labour Code** (duty to care for the proper condition of machines) and **§ 41 sec. 1 pt. 2 of the general OHS regulation** (permanently available machine operation instructions, which in EGIDA's practice include the list of maintenance tasks). Time for the complete five tasks: **25-30 minutes for one person**, **15-20 minutes for two people**. Mykoła and Wasyl do it together, rotating roles, so that Wasyl learns each task on his own.
 
 ### Before start-up: reading Monday's entry
 
-7:00 a.m. Rustam opens the **KKS-001 card** (the workstation maintenance card, introduced in l7) held in a transparent sleeve under the cover of panel P3. The card is monthly (May 2026), with columns per task times day. Yesterday's entry by Ms. Ania and Rustam from the band inspection is on page 2 (section "Inspections and replacements", not "Daily maintenance"). Rustam only checks: was there any entry yesterday about an incident or a note for today? There was none. Tip, set, tension, everything from Monday 9:15 is fresh. Good.
+7:00 a.m. Mykoła opens the **KKS-001 card** (the workstation maintenance card, introduced in l7) held in a transparent sleeve under the cover of panel P3. The card is monthly (May 2026), with columns per task times day. Yesterday's entry by Ms. Ania and Mykoła from the band inspection is on page 2 (section "Inspections and replacements", not "Daily maintenance"). Mykoła only checks: was there any entry yesterday about an incident or a note for today? There was none. Tip, set, tension, everything from Monday 9:15 is fresh. Good.
 
-Wahan peeks over Rustam's shoulder into the card and notices the field "Notes / escalations / maintenance": it is empty for May. "That is a good sign," Rustam says in Polish, slowly. "The whole of May without an escalation. It means P3 is running on rhythm, nothing odd." Wahan nods, but a mental note is taken: **this field exists and may get filled**. In 27 minutes this field will receive its first May entry.
+Wasyl peeks over Mykoła's shoulder into the card and notices the field "Notes / escalations / maintenance": it is empty for May. "That is a good sign," Mykoła says in Polish, slowly. "The whole of May without an escalation. It means P3 is running on rhythm, nothing odd." Wasyl nods, but a mental note is taken: **this field exists and may get filled**. In 27 minutes this field will receive its first May entry.
 
 ### Task 1 (7:02-7:12): lubrication of guides, rollers, bearings
 
-Rustam takes the **Wood-Mizer hand grease gun** (catalogue no. P07252, a green plastic body with a steel nozzle and a cartridge) from the tool cabinet, loaded with **NLGI No. 2 Lithium grease** (Amoco Rycon #2 Synthetic cartridge, no. P07253, replaced in December 2025 with its Polish equivalent Lotos Greasen LiX Plus 2, on the recommendation of a Wood-Mizer Polska service technician, identical specification, three times cheaper).
+Mykoła takes the **Wood-Mizer hand grease gun** (catalogue no. P07252, a green plastic body with a steel nozzle and a cartridge) from the tool cabinet, loaded with **NLGI No. 2 Lithium grease** (Amoco Rycon #2 Synthetic cartridge, no. P07253, replaced in December 2025 with its Polish equivalent Lotos Greasen LiX Plus 2, on the recommendation of a Wood-Mizer Polska service technician, identical specification, three times cheaper).
 
 List of lubrication points on the EGIDA LT70 (from Wallace Farm practice and Wood-Mizer USA, per the LT70 manual):
 
@@ -33,7 +33,7 @@ List of lubrication points on the EGIDA LT70 (from Wallace Farm practice and Woo
 
 In total **20 lubrication points**. For each point: wipe the nipple end with a clean cloth (so that sawdust and dust do not go into the bearing with the grease), set it square, **press 1-2 pumps** (more pushes grease out of the bearing and creates an abrasive paste with the dust), wipe off excess with a cloth.
 
-Wahan asks in Ukrainian: "How do you know it is two pumps and not three?" Rustam answers with mime plus a word: **1-2 pumps**, he shows the motion, "the third one already makes a mess, an abrasive paste." Wahan writes in his notebook: "1-2 pumps, no more". A Wood-Mizer service instructor from YouTube videos said the same thing in English, "Don't overdo it". One of the three most common causes of bearing failures in sawmills, according to Wood-Mizer service: **over-greasing**. The second: no greasing at all. The third: greasing with a grease of the wrong base (mixing base types produces incompatible mixtures).
+Wasyl asks in Ukrainian: "How do you know it is two pumps and not three?" Mykoła answers with mime plus a word: **1-2 pumps**, he shows the motion, "the third one already makes a mess, an abrasive paste." Wasyl writes in his notebook: "1-2 pumps, no more". A Wood-Mizer service instructor from YouTube videos said the same thing in English, "Don't overdo it". One of the three most common causes of bearing failures in sawmills, according to Wood-Mizer service: **over-greasing**. The second: no greasing at all. The third: greasing with a grease of the wrong base (mixing base types produces incompatible mixtures).
 
 Lubrication frequency at EGIDA (a compromise between the Wood-Mizer USA manual and Polish practice):
 
@@ -41,7 +41,7 @@ Lubrication frequency at EGIDA (a compromise between the Wood-Mizer USA manual a
 - **Points 2, 7, 8** (more movable, higher frequency of motion, grease washes out more easily): **every 25 engine hours** (every 3 days).
 - **Every morning**: only a **visual check** that grease is visible (shiny, not dry and dusty). Full lubrication not every morning, only per the engine-hour counter on the LT70 panel.
 
-Tuesday 2026-05-19: the P3 engine-hour counter shows **1847 h** (Monday evening's reading, after the 1.1 m³ campaign). The last full lubrication was on Thursday 2026-05-14 (counter 1830 h). **Difference 17 h**, still below the 25 h threshold, so today only a visual check (2 minutes). Rustam: walks around the sawmill with an LED torch, looks at each of the 20 points, at the guide arm he touches the surface with the tip of a cloth, the grease is fresh, golden-brown, smells like paste. **Visual OK.**
+Tuesday 2026-05-19: the P3 engine-hour counter shows **1847 h** (Monday evening's reading, after the 1.1 m³ campaign). The last full lubrication was on Thursday 2026-05-14 (counter 1830 h). **Difference 17 h**, still below the 25 h threshold, so today only a visual check (2 minutes). Mykoła: walks around the sawmill with an LED torch, looks at each of the 20 points, at the guide arm he touches the surface with the tip of a cloth, the grease is fresh, golden-brown, smells like paste. **Visual OK.**
 
 ::: info
 **Why do we track engine hours, not the calendar?** An hour of sawmill operation is **a real hour of bearings actually working**. If the shift is 8 h but you spent 3 h standing because the client did not deliver the wood, the engine only ran 5 h. Calendar 8 h is misleading. The engine-hour counter on the LT70 panel is a mechanical device counting crankshaft revolutions; it measures **machine truth**. Similarly in cars a workshop changes the oil "every 15,000 km or once a year"; in sawmills we count hours.
@@ -63,14 +63,14 @@ Four check points on the LT70:
 
 ### Task 3 (7:22-7:26): cleaning sawdust and dust
 
-Wahan takes over this task on his own after a demonstration from Rustam. Scope:
+Wasyl takes over this task on his own after a demonstration from Mykoła. Scope:
 
 1. **Outriggers**, with compressed air (CDN-1 gun from the hall compressor) blow sawdust off the adjustment bearings.
 2. **Rub rails** (both sides under the band wheels), 50 mm bristle brush, by hand. Not compressed air, because that blows sawdust into the bearings.
-3. **Drive wheel and tension wheel**, a dry cloth plus a cloth lightly soaked in white spirit (for pine-resin residues; not needed on oak, but Wahan is learning for all species).
+3. **Drive wheel and tension wheel**, a dry cloth plus a cloth lightly soaked in white spirit (for pine-resin residues; not needed on oak, but Wasyl is learning for all species).
 4. **Control panel**, wipe with a cloth, dust off the E-STOP buttons and LED panel (PIP requires a signalling check; here only cleanliness, the functional test is in task 5).
 
-Tuesday 7:24: Wahan finishes, shows Rustam the work, **OK**.
+Tuesday 7:24: Wasyl finishes, shows Mykoła the work, **OK**.
 
 ### Task 4 (7:26-7:30, skipped today): replacing blade guide blocks
 
@@ -78,7 +78,7 @@ Blade guide blocks are wearable plastic elements (material: UHMW polyethylene; s
 
 Replacement frequency: **every 200-250 engine hours** for a typical mixed campaign (60% pine, 40% oak). For pure oak (higher lateral load on the blocks): **every 150 engine hours**. The replacement counter is kept in KKS-001, a separate row "Last BG replacement: [date + engine hours]".
 
-Tuesday 2026-05-19: last replacement **2026-04-28 at 1702 h**, today counter **1847 h**, **difference 145 h**. The task rule is "every 150 h for oak"; we are close to the threshold, but still below it. Rustam: decision, **replace on Thursday after the oak campaign closes** (expected counter ~1855 h, giving 153 h since the last replacement). Entry in KKS-001: **"BG to be replaced Thursday 21.05 morning."**
+Tuesday 2026-05-19: last replacement **2026-04-28 at 1702 h**, today counter **1847 h**, **difference 145 h**. The task rule is "every 150 h for oak"; we are close to the threshold, but still below it. Mykoła: decision, **replace on Thursday after the oak campaign closes** (expected counter ~1855 h, giving 153 h since the last replacement). Entry in KKS-001: **"BG to be replaced Thursday 21.05 morning."**
 
 If the replacement were today, the procedure would be:
 
@@ -92,7 +92,7 @@ If the replacement were today, the procedure would be:
 8. Adjust alignment (a separate instruction, outside the l8 scope).
 9. Put the guard back, remove LOTO, test run at low rpm.
 
-Total time for an experienced operator: **30 minutes**. Wahan watches, Rustam narrates with words, but today we do not do it.
+Total time for an experienced operator: **30 minutes**. Wasyl watches, Mykoła narrates with words, but today we do not do it.
 
 ### Task 5 (7:26-7:30): checking signalling and safety switches
 
@@ -104,60 +104,60 @@ Five points, **all of them before every start-up**, a strict PIP requirement:
 4. **Head upper position sensor** (top limit switch); when the head reaches the top position, the raising motor switches off. Test: raise the head manually with the lever, check for the click. Tuesday: **works**.
 5. **Control-panel LED signalling**, four lamps: power (green), motor (orange), warning (yellow), fault (red). Tuesday: green on for power, orange blinking (motor in ready mode), yellow and red off. **OK**.
 
-7:30 a.m. Task 5 finished. KKS-001 card, field "Daily maintenance 19.05": Rustam writes the row: **"OK 7:00 lubrication visual, OK 7:12 oils OK, OK 7:22 cleaning (Wahan), 7:26 BG deferred to Thursday, OK 7:26 E-STOP OK, signed: RN."** Ready for start-up. Motor probably in 2 minutes.
+7:30 a.m. Task 5 finished. KKS-001 card, field "Daily maintenance 19.05": Mykoła writes the row: **"OK 7:00 lubrication visual, OK 7:12 oils OK, OK 7:22 cleaning (Wasyl), 7:26 BG deferred to Thursday, OK 7:26 E-STOP OK, signed: RN."** Ready for start-up. Motor probably in 2 minutes.
 
 ### 7:32, a leak
 
-Rustam walks to the front of the machine to fetch an empty trolley, glances under the lower guard on the right side of the head (where the hydraulic head-raising cylinder sits). He sees something that was not there yesterday evening. **A dark spot on the concrete floor, about 30 by 20 cm, fresh** (edges wet, surface glossy). Wahan! Come here! Rustam crouches, shines the LED torch.
+Mykoła walks to the front of the machine to fetch an empty trolley, glances under the lower guard on the right side of the head (where the hydraulic head-raising cylinder sits). He sees something that was not there yesterday evening. **A dark spot on the concrete floor, about 30 by 20 cm, fresh** (edges wet, surface glossy). Wasyl! Come here! Mykoła crouches, shines the LED torch.
 
-Oil, not water. Smell: typical hydraulic, slightly ethereal, no burnt note. Consistency: thinner than grease, less viscous than engine oil, looks like runny honey under the LED. **Shell TTF-SB**, the same that is in the LT70 hydrostatic system. Source: Rustam looks up, under the lower guard of the head-raising cylinder he can see a streak on the steel cylinder housing, running down in droplets. **He counts**: 6 seconds per drop, **about 1 drop per 6 seconds = 10 drops per minute, ~0.5 ml/min**. Over an 8-hour shift that is **~250 ml**. Over a week of work: **~1.25 l**. Hydrostatic-system capacity: 5.7 l, so after a week the loss is 22% of the fluid, the system would run at 78% fill. Too little to cause immediate failure, but enough to be a serious problem if the leak is not repaired within 2-3 days.
+Oil, not water. Smell: typical hydraulic, slightly ethereal, no burnt note. Consistency: thinner than grease, less viscous than engine oil, looks like runny honey under the LED. **Shell TTF-SB**, the same that is in the LT70 hydrostatic system. Source: Mykoła looks up, under the lower guard of the head-raising cylinder he can see a streak on the steel cylinder housing, running down in droplets. **He counts**: 6 seconds per drop, **about 1 drop per 6 seconds = 10 drops per minute, ~0.5 ml/min**. Over an 8-hour shift that is **~250 ml**. Over a week of work: **~1.25 l**. Hydrostatic-system capacity: 5.7 l, so after a week the loss is 22% of the fluid, the system would run at 78% fill. Too little to cause immediate failure, but enough to be a serious problem if the leak is not repaired within 2-3 days.
 
-Rustam stands up, looks at Wahan. Decision **immediate**, no discussion: the machine **does not start**. Hydraulic leak equals escalation.
+Mykoła stands up, looks at Wasyl. Decision **immediate**, no discussion: the machine **does not start**. Hydraulic leak equals escalation.
 
 ### 7:33, LOTO and documentation
 
 The **LOTO** (Lock Out Tag Out) procedure from m3-w1-l4 for all non-standard situations:
 
 1. **P3 main disconnect switch to OFF** (lever down, an audible "click"). The panel goes dark; the motor was already off, but the procedure requires a formal OFF.
-2. **Maintenance padlock** (red, with a tag "Do not start, maintenance, R. Nazarov, 19.05") on the switch lug. Rustam slips the padlock key into the right pocket of his overalls.
-3. **Tag on the panel**: "P3 OUT OF SERVICE, hydraulic leak, service reported 7:35, R. Nazarov". A yellow A5 tag with a magnetic mount, from the storage slot under the panel.
-4. **Entry in KKS-001** (field "Notes / escalations / maintenance"): Rustam writes by hand, ballpoint pen, in block letters:
+2. **Maintenance padlock** (red, with a tag "Do not start, maintenance, R. Hrycenko, 19.05") on the switch lug. Mykoła slips the padlock key into the right pocket of his overalls.
+3. **Tag on the panel**: "P3 OUT OF SERVICE, hydraulic leak, service reported 7:35, R. Hrycenko". A yellow A5 tag with a magnetic mount, from the storage slot under the panel.
+4. **Entry in KKS-001** (field "Notes / escalations / maintenance"): Mykoła writes by hand, ballpoint pen, in block letters:
 
-> **19.05 7:32**, wyciek oleju hydraulicznego pod cylindrem podnoszenia głowicy. Plamka ok. 30 × 20 cm na posadzce, świeża. Tempo: 1 kropla/6 sekund (~0,5 ml/min). Źródło wizualnie: smuga na obudowie cylindra. Wyłącznik OFF, LOTO zamknięte 7:33. Zgłaszam brygadziście. **R. Nazarov.**
+> **19.05 7:32**, wyciek oleju hydraulicznego pod cylindrem podnoszenia głowicy. Plamka ok. 30 × 20 cm na posadzce, świeża. Tempo: 1 kropla/6 sekund (~0,5 ml/min). Źródło wizualnie: smuga na obudowie cylindra. Wyłącznik OFF, LOTO zamknięte 7:33. Zgłaszam brygadziście. **R. Hrycenko.**
 
-**Explanatory translation:** 19.05 at 7:32, hydraulic oil leak under the head-raising cylinder. Spot approx. 30 by 20 cm on the floor, fresh. Rate: 1 drop per 6 seconds (~0.5 ml/min). Visible source: a streak on the cylinder housing. Main switch OFF, LOTO closed at 7:33. I am reporting to the foreman. R. Nazarov.
+**Explanatory translation:** 19.05 at 7:32, hydraulic oil leak under the head-raising cylinder. Spot approx. 30 by 20 cm on the floor, fresh. Rate: 1 drop per 6 seconds (~0.5 ml/min). Visible source: a streak on the cylinder housing. Main switch OFF, LOTO closed at 7:33. I am reporting to the foreman. R. Hrycenko.
 
-Entry length: 55 words. The EGIDA rule from WSP-002: "an entry in KKS must be **observational, not diagnostic**". Rustam does not write "the cylinder seal is broken" (he does not know that, he has not seen the disassembly); he writes what he sees. The diagnosis will be made by the Wood-Mizer Polska service technician.
+Entry length: 55 words. The EGIDA rule from WSP-002: "an entry in KKS must be **observational, not diagnostic**". Mykoła does not write "the cylinder seal is broken" (he does not know that, he has not seen the disassembly); he writes what he sees. The diagnosis will be made by the Wood-Mizer Polska service technician.
 
 ### 7:35, phone call to the foreman
 
-Rustam pulls out the EGIDA company phone (a Nokia 3310 2017, nothing else, for work tasks only). From the contact list: **Marek Kowalski, foreman** (the syllabus has introduced him in M1 l7 in the Dnieper incident; since then Rustam has called him 3 times). One ring, Marek picks up.
+Mykoła pulls out the EGIDA company phone (a Nokia 3310 2017, nothing else, for work tasks only). From the contact list: **Marek Kowalski, foreman** (the syllabus has introduced him in M1 l7 in the Dnieper incident; since then Mykoła has called him 3 times). One ring, Marek picks up.
 
-*"Rustam, what's going on?"*
+*"Mykoła, what's going on?"*
 *"Sir, P3 has a hydraulic leak. Not much, a drop per 6 seconds, but under the head-raising cylinder. I have switched off, LOTO is on. Please come over."*
 *"On my way."*
 
-25 seconds of conversation. Rustam does not explain the source, does not propose a repair. He informs, reports, waits. That is the standard escalation procedure at EGIDA: **the operator observes, the foreman decides, the service repairs**.
+25 seconds of conversation. Mykoła does not explain the source, does not propose a repair. He informs, reports, waits. That is the standard escalation procedure at EGIDA: **the operator observes, the foreman decides, the service repairs**.
 
 ### 7:41, Marek arrives, diagnoses, decides
 
-Marek Kowalski, EGIDA foreman (age 42, 18 years in sawmills, an electromechanic with SEP G1-E authorisation up to 1 kV; no Wood-Mizer producer authorisation for hydraulic repairs), walks in from the drying hall where he was on an inspection. A glance at the spot, he crouches just as Rustam did 8 minutes earlier, shines his torch.
+Marek Kowalski, EGIDA foreman (age 42, 18 years in sawmills, an electromechanic with SEP G1-E authorisation up to 1 kV; no Wood-Mizer producer authorisation for hydraulic repairs), walks in from the drying hall where he was on an inspection. A glance at the spot, he crouches just as Mykoła did 8 minutes earlier, shines his torch.
 
-*"A drop per 6 seconds. Confirmed. This is not the main piston seal, because then there would be more, it is a leak at the cylinder-head seal. Small, but... Rustam, well done reporting straight away, not waiting. If you had worked the whole day, you would have let 250 ml onto the floor and, hm, it might have got worse."*
+*"A drop per 6 seconds. Confirmed. This is not the main piston seal, because then there would be more, it is a leak at the cylinder-head seal. Small, but... Mykoła, well done reporting straight away, not waiting. If you had worked the whole day, you would have let 250 ml onto the floor and, hm, it might have got worse."*
 
 Marek takes out his phone, opens the contact **Wood-Mizer Polska, Service, Kolonia Koszajec**. He dials, third ring, a technician answers.
 
-*"Good morning, Kowalski, EGIDA Sawmill, Strzałowo. We have a hydraulic leak on an LT70, 2021 model, serial 0274-K-EG. Under the head-raising cylinder. Rate one drop per 6 seconds, Rustam measured it, spot 30 by 20 cm. When could you come?"*
+*"Good morning, Kowalski, EGIDA Sawmill, Strzałowo. We have a hydraulic leak on an LT70, 2021 model, serial 0274-K-EG. Under the head-raising cylinder. Rate one drop per 6 seconds, Mykoła measured it, spot 30 by 20 cm. When could you come?"*
 
 Pause, the service technician checks the calendar.
 
 *"Tomorrow Wednesday 10:00 we have a slot, Pan Krzysztof, our hydraulic specialist. Typical visit duration 3-4 hours, rod-seal replacement 180-220 zł plus travel from Kolonia Koszajec to Strzałowo at 2.80 zł/km times 290 km there and back = 812 zł, labour 150 zł/h times 4 h = 600 zł. Plus VAT. Total net about 1600 zł, gross 1968 zł."*
 
-*"Agreed. Booking tomorrow 10:00. Rustam, leave the machine as it is, do not remove LOTO until Krzysztof arrives."*
+*"Agreed. Booking tomorrow 10:00. Mykoła, leave the machine as it is, do not remove LOTO until Krzysztof arrives."*
 
-*"Good. Should Rustam be present during the visit?"*
+*"Good. Should Mykoła be present during the visit?"*
 
-Marek glances at Rustam.
+Marek glances at Mykoła.
 
 *"Yes, please, let him stay to observe. It matters for him professionally, he is learning."*
 
@@ -165,21 +165,21 @@ Conversation 3 minutes 10 seconds. End, Marek puts the phone away.
 
 ### 7:45, the decision about today's oak
 
-Marek to Rustam: *"P3 is out until Wednesday evening, probably. You do the second day of the campaign on **P1 Serra SM40**, it has been free since yesterday, client Dom-Bud Piaseczno has collected their boards, today it is available. Move the oak logs in progress from the P3 platform to P1, continue there. The band on P1 is a pine band (20° rake angle), **you are not going to saw oak with it**. From the stores pull the oak flat band 38/22 no. 23812 (from l6, it was on the pine campaign of the 3rd of May, but it is fine for oak too). Change-over time 26 minutes, you know the procedure from l6."*
+Marek to Mykoła: *"P3 is out until Wednesday evening, probably. You do the second day of the campaign on **P1 Serra SM40**, it has been free since yesterday, client Dom-Bud Piaseczno has collected their boards, today it is available. Move the oak logs in progress from the P3 platform to P1, continue there. The band on P1 is a pine band (20° rake angle), **you are not going to saw oak with it**. From the stores pull the oak flat band 38/22 no. 23812 (from l6, it was on the pine campaign of the 3rd of May, but it is fine for oak too). Change-over time 26 minutes, you know the procedure from l6."*
 
-Rustam nods. Wahan: *"Sir, do I go with Rustam to P1, or do I stay to observe the service?"*
+Mykoła nods. Wasyl: *"Sir, do I go with Mykoła to P1, or do I stay to observe the service?"*
 
-Marek thinks for 3 seconds. *"Wahan, go with Rustam. The service is tomorrow Wednesday, not today. Today work on P1. Tomorrow morning, when Krzysztof arrives, you both come back to observe; the band on P1 stays in its rest position."*
+Marek thinks for 3 seconds. *"Wasyl, go with Mykoła. The service is tomorrow Wednesday, not today. Today work on P1. Tomorrow morning, when Krzysztof arrives, you both come back to observe; the band on P1 stays in its rest position."*
 
 ### 7:50, migration to P1
 
-Rustam, Wahan, a hand trolley, two oak logs (log four 0.42 m³ and log five 0.68 m³), 4 minutes of moving across the hall. Change-over on P1: remove the pine band 38/18 (20° angle, not for oak), fit the flat band 38/22 no. 23812 (rake angle 12-15°, universal, in l6 it turned out to be OK for oak though not optimal). 26 minutes per l6. Wahan helps, he remembered the sequence from l6 because he had written it down.
+Mykoła, Wasyl, a hand trolley, two oak logs (log four 0.42 m³ and log five 0.68 m³), 4 minutes of moving across the hall. Change-over on P1: remove the pine band 38/18 (20° angle, not for oak), fit the flat band 38/22 no. 23812 (rake angle 12-15°, universal, in l6 it turned out to be OK for oak though not optimal). 26 minutes per l6. Wasyl helps, he remembered the sequence from l6 because he had written it down.
 
-At **8:18 a.m. P1 is ready to cut**, the P1 engine-hour counter shows 2143 h (P1 is older than P3 and has more hours). Rustam starts with oak four. A ten-minute delay against the normal 7:30 start plus around 25 minutes of throughput drop (P1 has less power than P3, 25 kW vs 37 kW; for oak the cut is ~15% slower). **Lost time of the day**: ~45 minutes of work for one person, acceptable.
+At **8:18 a.m. P1 is ready to cut**, the P1 engine-hour counter shows 2143 h (P1 is older than P3 and has more hours). Mykoła starts with oak four. A ten-minute delay against the normal 7:30 start plus around 25 minutes of throughput drop (P1 has less power than P3, 25 kW vs 37 kW; for oak the cut is ~15% slower). **Lost time of the day**: ~45 minutes of work for one person, acceptable.
 
-### 8:25, Rustam's reflection
+### 8:25, Mykoła's reflection
 
-For the first 20 minutes of cutting on P1 Rustam is thinking about the morning. In his head there are three reflections which in the evening he will write into his personal professional notebook (EGIDA encourages trainees to keep one, WSP-002 point 14):
+For the first 20 minutes of cutting on P1 Mykoła is thinking about the morning. In his head there are three reflections which in the evening he will write into his personal professional notebook (EGIDA encourages trainees to keep one, WSP-002 point 14):
 
 1. **The competence boundary protects me.** If I tried to tighten the cylinder seal myself (seemingly a simple thing), I could have deformed it, turned a small leak into a major one, damaged the piston, the repair cost would have gone from ~1600 zł to ~8-12 thousand zł (whole cylinder replacement). And in an extreme case I could have injured myself: hydraulic oil under 2000 PSI has enough force to pierce the skin, hospitalisation.
 
@@ -187,7 +187,7 @@ For the first 20 minutes of cutting on P1 Rustam is thinking about the morning. 
 
 3. **The boundary protects the sawmill.** Wood-Mizer Polska has service liability insurance and a 12-month warranty on replaced parts. If I had done it myself, there would be no warranty, and if the piston failed in a month, EGIDA would pay a second time.
 
-Three people, three responsibilities, one event. **The rule of § 40 sec. 2 of the general OHS regulation**: the person managing employees (Marek) is obliged to stop work immediately when a hazard is found. Rustam (employee) has the duty to report (Art. 211 pt. 6 Labour Code). Wood-Mizer (third party with authorisations) carries out the repair. **Each in their own role.** That is the core of today's lesson.
+Three people, three responsibilities, one event. **The rule of § 40 sec. 2 of the general OHS regulation**: the person managing employees (Marek) is obliged to stop work immediately when a hazard is found. Mykoła (employee) has the duty to report (Art. 211 pt. 6 Labour Code). Wood-Mizer (third party with authorisations) carries out the repair. **Each in their own role.** That is the core of today's lesson.
 
 ## Objectives
 
@@ -243,7 +243,7 @@ Daily: only a **visual level check** (level between MIN and MAX, ~30 seconds per
 6. Undo the filler plug, pour in the new oil slowly (funnel, 200 ml plus dipstick check, top up to MAX).
 7. Refit the filler plug.
 8. Remove LOTO, run at low rpm for 5 minutes, STOP, check level (it will drop ~10 ml as the channel fills, top up to MAX).
-9. Entry in KKS-001: "19.05 Up/Down oil change, Mobil SHC 634 200 ml fill, counter 1847 h. R. Nazarov."
+9. Entry in KKS-001: "19.05 Up/Down oil change, Mobil SHC 634 200 ml fill, counter 1847 h. R. Hrycenko."
 
 Total time: **25 minutes for one person**. Frequency: every 500 h or once a year (whichever comes first). For a typical EGIDA schedule (two-shift operation, 16 h/day times 250 days/year = 4000 h/year): **gearbox oils ~8 times a year, hydrostat ~4 times a year**.
 
@@ -273,7 +273,7 @@ Signs for replacement:
 - Visible lateral marks on the band (the block does not hold evenly).
 - Engine-hour counter: **every 150-250 h** depending on wood hardness (oak 150, pine 250, mixed 200).
 
-The replacement procedure is described above in the lesson (the Rustam + Wahan scene, 30 minutes). Key point: **never without LOTO**; without releasing the band tension the blocks carry a load of 2000-3000 N and a finger can be lost during replacement. Safety first.
+The replacement procedure is described above in the lesson (the Mykoła + Wasyl scene, 30 minutes). Key point: **never without LOTO**; without releasing the band tension the blocks carry a load of 2000-3000 N and a finger can be lost during replacement. Safety first.
 
 **Task 5. Checking signalling and safety switches.**
 
@@ -306,7 +306,7 @@ Key for our lesson: **point 3** (care for the proper condition of machines, lubr
 
 **Explanatory translation:** Art. 237 § 1 Polish Labour Code prohibits admitting an employee to work for which they do not hold the required qualifications or necessary skills, or sufficient knowledge of OHS rules and principles.
 
-Meaning: **the employer cannot order Rustam to replace a hydraulic cylinder seal**, because Rustam has not completed the manufacturer's Wood-Mizer hydraulic-repair training. The ban on admission binds the employer (Marek, plant manager Krzysztof Nowak), not the employee themselves, but an employee who sees they are being given an instruction outside their qualifications has the right (and duty) to refuse (Art. 210 of the Labour Code, the right to abstain from work that endangers health).
+Meaning: **the employer cannot order Mykoła to replace a hydraulic cylinder seal**, because Mykoła has not completed the manufacturer's Wood-Mizer hydraulic-repair training. The ban on admission binds the employer (Marek, plant manager Krzysztof Nowak), not the employee themselves, but an employee who sees they are being given an instruction outside their qualifications has the right (and duty) to refuse (Art. 210 of the Labour Code, the right to abstain from work that endangers health).
 
 **Level 3. § 41 of the MPiPS Regulation of 26.09.1997 on general OHS provisions** (literal IURA citation):
 
@@ -372,7 +372,7 @@ Cost: **~0 zł external** (operator and foreman labour; materials: grease 40 zł
 
 Cost: **2500-4500 zł net** for a 2021 LT70 (depending on the scope of replaced parts). EGIDA has an annual budget of 5 thousand zł gross per machine (margin for unforeseen parts).
 
-**Inspection C (interventional)**: Wood-Mizer service on call, response time 2-5 working days, cost depending on the problem. Rustam's oil leak today is an example of a C-type inspection.
+**Inspection C (interventional)**: Wood-Mizer service on call, response time 2-5 working days, cost depending on the problem. Mykoła's oil leak today is an example of a C-type inspection.
 
 ### Documentation: KKS-001 in detail
 
@@ -391,7 +391,7 @@ The workstation maintenance card **KKS-001** is a paper A3 form (297 by 420 mm, 
 | E-STOP (short / full) | S | P | ... | S |
 | Operator signature | RN | RN | ... | RN |
 
-Legend: W = visual, P = full, K = check, OK = done, S = short, RN = Rustam Nazarov.
+Legend: W = visual, P = full, K = check, OK = done, S = short, RN = Mykoła Hrycenko.
 
 **Back side (A3)**: divided into three sections:
 
@@ -403,7 +403,7 @@ Each month the card goes to the foreman, who **signs the control** (consistency 
 
 ### Closing scene: what happened to the leak
 
-Thursday 2026-05-21, 10:00 a.m. Rustam and Wahan stand by P3. LOTO removed, the cylinder lower guard removed. Pan Krzysztof from Wood-Mizer Polska (hydraulic specialist, age 52, 24 years at Wood-Mizer, completed Wood-Mizer USA producer training in Indianapolis 3 times) disassembled the head-raising cylinder in 2 hours. The rod seal was worn, normal wear after 1800 engine hours of operation (first replacement since the machine was installed in 2021). Replaced with a new one (Parker Hannifin, 180 zł net), Shell TTF-SB oil topped up (total loss ~400 ml), 30-minute leak test with no seepage, reassembly 1.5 hours.
+Thursday 2026-05-21, 10:00 a.m. Mykoła and Wasyl stand by P3. LOTO removed, the cylinder lower guard removed. Pan Krzysztof from Wood-Mizer Polska (hydraulic specialist, age 52, 24 years at Wood-Mizer, completed Wood-Mizer USA producer training in Indianapolis 3 times) disassembled the head-raising cylinder in 2 hours. The rod seal was worn, normal wear after 1800 engine hours of operation (first replacement since the machine was installed in 2021). Replaced with a new one (Parker Hannifin, 180 zł net), Shell TTF-SB oil topped up (total loss ~400 ml), 30-minute leak test with no seepage, reassembly 1.5 hours.
 
 Total cost: **1672 zł gross** (in line with Pan Krzysztof's estimate, a 3% deviation downwards). Invoice with a 30-day payment term to the EGIDA finance department, entry in KKS-001 (section "Inspections and replacements"):
 
@@ -411,11 +411,11 @@ Total cost: **1672 zł gross** (in line with Pan Krzysztof's estimate, a 3% devi
 
 **Explanatory translation:** 21.05 at 12:30, Wood-Mizer Polska service, Pan Krzysztof. Replacement of the rod seal of the head-raising cylinder (new Parker Hannifin). Shell TTF-SB oil topped up, 400 ml. 30-minute leak test, no seepage. Service protocol WM-2026-05-087 on file. Cost 1672 zł gross. Signed: Marek Kowalski, foreman.
 
-At 12:30 p.m. Rustam and Wahan unload the oak logs from the storage platform (they had returned from Wednesday's campaign on P1), reload them onto P3 and start the machine. First cut of the fourth oak, *taśma stellite 38/15* no. 24057 (the same as on Monday), no leak at all. The oak campaign closes on Friday afternoon, total production 3.2 m³ in 4 days (with a one-day delay).
+At 12:30 p.m. Mykoła and Wasyl unload the oak logs from the storage platform (they had returned from Wednesday's campaign on P1), reload them onto P3 and start the machine. First cut of the fourth oak, *taśma stellite 38/15* no. 24057 (the same as on Monday), no leak at all. The oak campaign closes on Friday afternoon, total production 3.2 m³ in 4 days (with a one-day delay).
 
-Rustam to Wahan, on the second oak: *"You see, Wahan. The leak was Tuesday morning, Pan Krzysztof came Wednesday evening, today Thursday morning we are ready. 48 hours from detection to repair. If I had tightened it myself, I would be in hospital or the sawmill would have a new cylinder for 12 thousand. The boundary works."*
+Mykoła to Wasyl, on the second oak: *"You see, Wasyl. The leak was Tuesday morning, Pan Krzysztof came Wednesday evening, today Thursday morning we are ready. 48 hours from detection to repair. If I had tightened it myself, I would be in hospital or the sawmill would have a new cylinder for 12 thousand. The boundary works."*
 
-Wahan nods, writes in his notebook: "**Границя працює. Зголошувати одразу.**" (the boundary works, report immediately).
+Wasyl nods, writes in his notebook: "**Границя працює. Зголошувати одразу.**" (the boundary works, report immediately).
 
 ## Key terms
 
@@ -447,10 +447,10 @@ Wahan nods, writes in his notebook: "**Границя працює. Зголош
   - pl: procedura eskalacji do UR (siedem kroków gdy operator wykrywa anomalię poza swoją kompetencją: 1. STOP obserwacja bez eksperymentowania; 2. LOTO wyłącznik główny plus kłódka plus tabliczka; 3. wpis w KKS-001 pole „Notatki / eskalacje / UR" w stylu obserwacyjnym nie diagnostycznym; 4. telefon do brygadzisty 20-30 sekund informacja nie propozycja; 5. brygadzista decyduje o eskalacji zewnętrznej; 6. operator czeka, obserwuje, uczy się; 7. wpis końcowy w KKS-001 z datą zamknięcia i protokołem naprawy)
   - es: procedimiento de escalado a mantenimiento (siete pasos cuando el operador detecta una anomalía fuera de su competencia: 1. STOP, observar sin experimentar; 2. LOTO, interruptor principal más candado más etiqueta; 3. entrada en KKS-001 en el campo „Notas / escaladas / mantenimiento" en estilo observacional, no diagnóstico; 4. llamada al encargado, 20-30 segundos, información no propuesta; 5. el encargado decide sobre el escalado externo; 6. el operador espera, observa, aprende; 7. entrada final en KKS-001 con fecha de cierre y protocolo de reparación)
   - uk: процедура передачі до відділу обслуговування (сім кроків, коли оператор виявляє аномалію поза своєю компетенцією: 1. STOP, спостереження без експериментування; 2. LOTO, головний вимикач плюс замок плюс табличка; 3. запис у KKS-001 у полі „Нотатки / передачі / обслуговування" в спостережувальному, не діагностичному стилі; 4. телефонний дзвінок бригадирові, 20-30 секунд, інформація, не пропозиція; 5. бригадир вирішує про зовнішнє передання; 6. оператор чекає, спостерігає, навчається; 7. остаточний запис у KKS-001 з датою закриття і протоколом ремонту)
-- **KKS-001 daily maintenance card** (a monthly A3 form with a table of 31 day columns times 8 task rows; retention 3 years paper plus 5 years scan in EGIDA OneDrive; legend: W visual, P full, K check, OK done, S short, RN Rustam Nazarov; foreman's signature once a month as a compliance check; falsifying entries = a serious breach of employee duties, Art. 52 § 1 pt. 1 of the Labour Code)
-  - pl: karta KKS-001 codzienna konserwacja (formularz A3 miesięczny z tabelą 31 kolumn dni × 8 rzędów czynności; retencja 3 lata papier plus 5 lat skan OneDrive EGIDA; legenda: W wzrokowa, P pełne, K kontrola, ✓ wykonane, S skrócony, RN Rustam Nazarov; podpis brygadzisty raz w miesiącu jako kontrola zgodności; fałszowanie wpisów = ciężkie naruszenie obowiązków pracowniczych art. 52 § 1 pkt 1 KP)
-  - es: ficha KKS-001 de mantenimiento diario (formulario mensual A3 con tabla de 31 columnas de días × 8 filas de tareas; retención de 3 años en papel más 5 años de escaneo en OneDrive de EGIDA; leyenda: W visual, P completo, K comprobación, ✓ hecho, S corto, RN Rustam Nazarov; firma del encargado una vez al mes como comprobación de cumplimiento; falsificar entradas = infracción grave de las obligaciones del empleado, art. 52 § 1 pto. 1 del Código de Trabajo)
-  - uk: картка KKS-001 щоденного обслуговування (щомісячний бланк A3 з таблицею 31 колонки днів × 8 рядків дій; термін зберігання 3 роки паперова плюс 5 років сканована копія в OneDrive EGIDA; легенда: W візуальне, P повне, K перевірка, ✓ виконано, S скорочене, RN Rustam Nazarov; підпис бригадира раз на місяць як перевірка відповідності; фальсифікація записів = тяжке порушення обов'язків працівника, ст. 52 § 1 п. 1 Кодексу праці)
+- **KKS-001 daily maintenance card** (a monthly A3 form with a table of 31 day columns times 8 task rows; retention 3 years paper plus 5 years scan in EGIDA OneDrive; legend: W visual, P full, K check, OK done, S short, RN Mykoła Hrycenko; foreman's signature once a month as a compliance check; falsifying entries = a serious breach of employee duties, Art. 52 § 1 pt. 1 of the Labour Code)
+  - pl: karta KKS-001 codzienna konserwacja (formularz A3 miesięczny z tabelą 31 kolumn dni × 8 rzędów czynności; retencja 3 lata papier plus 5 lat skan OneDrive EGIDA; legenda: W wzrokowa, P pełne, K kontrola, ✓ wykonane, S skrócony, RN Mykoła Hrycenko; podpis brygadzisty raz w miesiącu jako kontrola zgodności; fałszowanie wpisów = ciężkie naruszenie obowiązków pracowniczych art. 52 § 1 pkt 1 KP)
+  - es: ficha KKS-001 de mantenimiento diario (formulario mensual A3 con tabla de 31 columnas de días × 8 filas de tareas; retención de 3 años en papel más 5 años de escaneo en OneDrive de EGIDA; leyenda: W visual, P completo, K comprobación, ✓ hecho, S corto, RN Mykoła Hrycenko; firma del encargado una vez al mes como comprobación de cumplimiento; falsificar entradas = infracción grave de las obligaciones del empleado, art. 52 § 1 pto. 1 del Código de Trabajo)
+  - uk: картка KKS-001 щоденного обслуговування (щомісячний бланк A3 з таблицею 31 колонки днів × 8 рядків дій; термін зберігання 3 роки паперова плюс 5 років сканована копія в OneDrive EGIDA; легенда: W візуальне, P повне, K перевірка, ✓ виконано, S скорочене, RN Mykoła Hrycenko; підпис бригадира раз на місяць як перевірка відповідності; фальсифікація записів = тяжке порушення обов'язків працівника, ст. 52 § 1 п. 1 Кодексу праці)
 - **Art. 211 of the Polish Labour Code** (the employee's fundamental OHS duty; seven points: know the rules, work in compliance with OHS, maintain the condition of machines, use PPE, undergo medical examinations, promptly report accidents or hazards, cooperate with the employer; points 3 and 6 are the basis for the operator's duty of daily maintenance and reporting anomalies; literal citation in a quote block, consolidated text as of 2026-04-21, IURA document_id 68fa701a210c9367cc560c1d)
   - pl: art. 211 Kodeksu pracy (podstawowy obowiązek pracownika BHP; siedem punktów: znać przepisy, wykonywać pracę zgodnie z BHP, dbać o stan maszyn, stosować ŚOI, poddawać się badaniom lekarskim, niezwłocznie zawiadamiać o wypadku lub zagrożeniu, współdziałać z pracodawcą; punkty 3 i 6 są podstawą obowiązku operatora do codziennej konserwacji i zgłaszania anomalii; cytat dosłowny w bloku cytatowym, tekst jednolity stan 2026-04-21, IURA document_id 68fa701a210c9367cc560c1d)
   - es: art. 211 del Código de Trabajo polaco (obligación fundamental del trabajador en materia de SST; siete puntos: conocer las normas, trabajar conforme a la SST, cuidar el estado de las máquinas, usar EPI, someterse a reconocimientos médicos, notificar sin demora accidentes o peligros, cooperar con el empleador; los puntos 3 y 6 son la base del deber del operador de mantenimiento diario y notificación de anomalías; cita literal en bloque de citas, texto consolidado a 21-04-2026, IURA document_id 68fa701a210c9367cc560c1d)
@@ -471,10 +471,10 @@ Wahan nods, writes in his notebook: "**Границя працює. Зголош
   - pl: przegląd roczny B (serwis Wood-Mizer Polska z Kolonii Koszajec k. Pruszkowa, 6-8 godzin, raz w roku marzec-kwiecień niski sezon; zakres kwartalny plus pomiary elektryczne co 2 lata, wymiana łożysk głowicy jeśli zużyte, regeneracja kół taśmowych co 2-4 lata, przegląd hydrauliki z wymianą uszczelek, przegląd konstrukcji, aktualizacja oprogramowania; koszt 2500-4500 zł netto, budżet EGIDA 5 tys. zł brutto rocznie na maszynę)
   - es: revisión anual B (servicio de Wood-Mizer Polska de Kolonia Koszajec cerca de Pruszków, 6-8 horas, una vez al año en marzo-abril, temporada baja; alcance trimestral más mediciones eléctricas cada 2 años, sustitución de rodamientos del cabezal si están gastados, reacondicionamiento de ruedas de cinta cada 2-4 años, revisión hidráulica con sustitución de juntas, revisión estructural, actualización de software; coste 2500-4500 zł neto, presupuesto EGIDA 5 000 zł brutto al año por máquina)
   - uk: річний огляд B (сервіс Wood-Mizer Polska з Kolonia Koszajec поблизу Прушкова, 6-8 годин, раз на рік у березні-квітні, низький сезон; квартальний обсяг плюс електричні вимірювання раз на 2 роки, заміна підшипників голівки, якщо спрацьовані, регенерація стрічкових коліс кожні 2-4 роки, огляд гідравліки із заміною ущільнень, огляд конструкції, оновлення програмного забезпечення; вартість 2500-4500 zł нетто, бюджет EGIDA 5 тис. zł брутто на рік на машину)
-- **Interventional inspection C** (Wood-Mizer service on call, response time 2-5 working days, cost depending on the problem; summoned by the foreman after operator diagnosis and escalation; typical cases: hydraulic leaks, control-panel failures, unusual bearing noises, unusual vibrations; Rustam's oil-leak scene on 2026-05-19 is an example of this kind of inspection, call-out on Tuesday, repair Wednesday-Thursday, cost 1672 zł gross)
-  - pl: przegląd interwencyjny C (serwis Wood-Mizer na wezwanie, czas reakcji 2-5 dni roboczych, koszt zależny od problemu; wezwanie przez brygadzistę po diagnozie operatora i eskalacji; typowe przypadki: wycieki hydrauliki, awarie panelu sterowania, nietypowe hałasy łożysk, nietypowe wibracje; scena wycieku oleju Rustama 2026-05-19 jest przykładem tego rodzaju przeglądu, wezwanie wtorek, naprawa środa-czwartek, koszt 1672 zł brutto)
-  - es: revisión por incidente C (servicio de Wood-Mizer a demanda, tiempo de respuesta 2-5 días laborables, coste según el problema; convocado por el encargado tras el diagnóstico del operador y el escalado; casos típicos: fugas hidráulicas, averías del panel de control, ruidos inusuales de rodamientos, vibraciones inusuales; la escena de la fuga de aceite de Rustam el 19-05-2026 es un ejemplo de este tipo de revisión, llamada el martes, reparación miércoles-jueves, coste 1672 zł brutto)
-  - uk: інтервенційний огляд C (сервіс Wood-Mizer на виклик, час реакції 2-5 робочих днів, вартість залежить від проблеми; викликається бригадиром після діагностики оператора і передачі; типові випадки: гідравлічні витоки, несправності панелі керування, нетипові звуки підшипників, нетипові вібрації; сцена витоку оливи Рустама 19.05.2026 є прикладом такого огляду, виклик у вівторок, ремонт середа-четвер, вартість 1672 zł брутто)
+- **Interventional inspection C** (Wood-Mizer service on call, response time 2-5 working days, cost depending on the problem; summoned by the foreman after operator diagnosis and escalation; typical cases: hydraulic leaks, control-panel failures, unusual bearing noises, unusual vibrations; Mykoła's oil-leak scene on 2026-05-19 is an example of this kind of inspection, call-out on Tuesday, repair Wednesday-Thursday, cost 1672 zł gross)
+  - pl: przegląd interwencyjny C (serwis Wood-Mizer na wezwanie, czas reakcji 2-5 dni roboczych, koszt zależny od problemu; wezwanie przez brygadzistę po diagnozie operatora i eskalacji; typowe przypadki: wycieki hydrauliki, awarie panelu sterowania, nietypowe hałasy łożysk, nietypowe wibracje; scena wycieku oleju Mykoły 2026-05-19 jest przykładem tego rodzaju przeglądu, wezwanie wtorek, naprawa środa-czwartek, koszt 1672 zł brutto)
+  - es: revisión por incidente C (servicio de Wood-Mizer a demanda, tiempo de respuesta 2-5 días laborables, coste según el problema; convocado por el encargado tras el diagnóstico del operador y el escalado; casos típicos: fugas hidráulicas, averías del panel de control, ruidos inusuales de rodamientos, vibraciones inusuales; la escena de la fuga de aceite de Mykoła el 19-05-2026 es un ejemplo de este tipo de revisión, llamada el martes, reparación miércoles-jueves, coste 1672 zł brutto)
+  - uk: інтервенційний огляд C (сервіс Wood-Mizer на виклик, час реакції 2-5 робочих днів, вартість залежить від проблеми; викликається бригадиром після діагностики оператора і передачі; типові випадки: гідравлічні витоки, несправності панелі керування, нетипові звуки підшипників, нетипові вібрації; сцена витоку оливи Миколи 19.05.2026 є прикладом такого огляду, виклик у вівторок, ремонт середа-четвер, вартість 1672 zł брутто)
 - **Wood-Mizer Polska service in Kolonia Koszajec** (the Polish distributor of the Wood-Mizer brand, based in Kolonia Koszajec, Brwinów commune near Pruszków; runs sales, workstation training, service for all LT40/LT50/LT70/LT80 models; contact by phone, the foreman calls after the operator's diagnosis; travel to the sawmill: 2.80 zł/km plus labour at 150 zł/h plus parts; issues a service protocol with a number for KKS-001 and an invoice for accounting)
   - pl: Wood-Mizer Polska serwis Kolonia Koszajec (polski dystrybutor marki Wood-Mizer, siedziba Kolonia Koszajec gm. Brwinów k. Pruszkowa; prowadzi sprzedaż, szkolenia stanowiskowe, serwis wszystkich modeli LT40/LT50/LT70/LT80; kontakt telefoniczny, brygadzista dzwoni po diagnozie operatora; dojazd do tartaku: 2,80 zł/km plus robocizna 150 zł/h plus części; wystawia protokół serwisowy z numerem dla KKS-001 i faktury dla księgowości)
   - es: servicio Wood-Mizer Polska en Kolonia Koszajec (distribuidor polaco de la marca Wood-Mizer, sede en Kolonia Koszajec, municipio de Brwinów, cerca de Pruszków; realiza ventas, formación del puesto, servicio de todos los modelos LT40/LT50/LT70/LT80; contacto telefónico, el encargado llama tras el diagnóstico del operador; desplazamiento al aserradero: 2,80 zł/km más mano de obra a 150 zł/h más piezas; emite un protocolo de servicio con número para KKS-001 y una factura para contabilidad)
@@ -506,15 +506,15 @@ Wahan nods, writes in his notebook: "**Границя працює. Зголош
 
 **Part D. Legal basis:**
 
-10. Quote (from memory or paraphrasing) **Art. 211 pt. 3 and pt. 6 of the Labour Code**. Which of them binds Rustam on Tuesday 2026-05-19 at 7:32 a.m. (the moment the leak is detected)?
-11. Why does **Art. 237 § 1 of the Labour Code** protect Rustam from an instruction by the foreman to "tighten that seal yourself"?
+10. Quote (from memory or paraphrasing) **Art. 211 pt. 3 and pt. 6 of the Labour Code**. Which of them binds Mykoła on Tuesday 2026-05-19 at 7:32 a.m. (the moment the leak is detected)?
+11. Why does **Art. 237 § 1 of the Labour Code** protect Mykoła from an instruction by the foreman to "tighten that seal yourself"?
 12. How is **§ 41 of the general OHS regulation** the basis for the existence of the KKS-001 card and the workstation instructions?
 
 **Part E. Escalation:**
 
 13. List the seven steps of the escalation procedure to maintenance.
 14. Why should the operator's KKS-001 entry be **observational and not diagnostic**? How would you phrase such an entry for the oil leak?
-15. The lesson scene: Rustam calls Marek at 7:35 a.m., the conversation is 25 seconds long. Why so short? What does Rustam say, what does he NOT say?
+15. The lesson scene: Mykoła calls Marek at 7:35 a.m., the conversation is 25 seconds long. Why so short? What does Mykoła say, what does he NOT say?
 
 **Part F. Practice:**
 

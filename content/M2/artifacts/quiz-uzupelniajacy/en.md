@@ -327,7 +327,7 @@ D) Everything averaged into a single score.
 
 **44. Explain why "I can't handle it" is reported in the 4W format, not in general terms.**
 
-*(The 4W format translates the subjective "I can't handle it" into observable facts: Marek, Hai, saw 2, 13:30, three signs of fatigue, please rotate me or give me a 10 min micro-break; the foreman gets a basis for an operational decision without negotiation; protection of the operator against being interpreted as "lazy".)*
+*(The 4W format translates the subjective "I can't handle it" into observable facts: Marek, Andrij, saw 2, 13:30, three signs of fatigue, please rotate me or give me a 10 min micro-break; the foreman gets a basis for an operational decision without negotiation; protection of the operator against being interpreted as "lazy".)*
 
 **45. Describe five differences between an operator in the crew and a junior under supervision (synthesis of M1 vs M2).**
 
@@ -393,19 +393,19 @@ Friday 13:45, end of shift. You are filling in the green logbook ZMI-2026-087-01
 
 Friday 14:15, 6.5 hours into the shift. You notice in yourself: finger tremor at the pusher (paper test confirms), squinting eyes at the ammeter (you cannot see fine values from 2 m), slowed reaction when writing in the notebook. Marek is on the far end of the hall. What do you do?
 
-*(Rule of three signals activated: three = mandatory micro-break or 4W report; STOP at the end of the current cut; report to Marek by gesture within sight or 4W by phone: "Marek, Hai, saw 2, 14:15, three signs of fatigue tremor-squinting-slowdown, please rotate me to the logbook or give me a 10 min micro-break"; foreman's decision: rotation or a micro-break in the break room; entry in the logbook as evidence of good self-regulation practice.)*
+*(Rule of three signals activated: three = mandatory micro-break or 4W report; STOP at the end of the current cut; report to Marek by gesture within sight or 4W by phone: "Marek, Andrij, saw 2, 14:15, three signs of fatigue tremor-squinting-slowdown, please rotate me to the logbook or give me a 10 min micro-break"; foreman's decision: rotation or a micro-break in the break room; entry in the logbook as evidence of good self-regulation practice.)*
 
 **54. Case: forklift operator without eye contact**
 
 Thursday 11:45. You are receiving the bundle SO-FSC-260420-020 from Krzysztof Zagrodny on the FSC yard. Krzysztof is maneuvering the Toyota forklift, but is not looking at you, the bundle is already 2 m from your position. You have not made the READY gesture because you are not ready. What do you do?
 
-*(Step back out of the 3 m maneuvering zone; loud shout "Krzysiek STOP, STOP!" + STOP gesture palm above the head; eye contact with the forklift operator absolutely mandatory before lowering the bundle; I cite the PIP statistic 2019-2023: 48% of forklift + operator accidents = hitting a standing operator; report to Marek in 4W format after the incident: "Marek, Hai, FSC yard, 11:45, Krzysztof lowered the bundle without my READY gesture and without eye contact, please hold a calibration conversation"; entry in the logbook as a near-miss.)*
+*(Step back out of the 3 m maneuvering zone; loud shout "Krzysiek STOP, STOP!" + STOP gesture palm above the head; eye contact with the forklift operator absolutely mandatory before lowering the bundle; I cite the PIP statistic 2019-2023: 48% of forklift + operator accidents = hitting a standing operator; report to Marek in 4W format after the incident: "Marek, Andrij, FSC yard, 11:45, Krzysztof lowered the bundle without my READY gesture and without eye contact, please hold a calibration conversation"; entry in the logbook as a near-miss.)*
 
 **55. Case: escalation straight to Anna Kwiatkowska**
 
 Monday 7:40, 5 min before the start. You see that in drying chamber number 3 the control panel shows an alarm "temperature 82°C in the chamber with oak", Zbigniew Majchrzak has not yet arrived, Marek is in a briefing until 7:55, Piotr Czerwiński is on a business trip. Production manager Anna Kwiatkowska is in her office, 30 m away. What do you do?
 
-*(Urgency classification IMMEDIATELY: oak temperature 82°C >> limit 60°C = risk of medullary ray cracks + loss of the entire batch of 15-25 m³ of oak in the cycle; skipping 3 levels (foreman + shift supervisor + kiln supervisor) up to the production manager is allowed because all are unavailable and the matter cannot wait; I run 30 m to Anna's office with the 4W format: "manager, Hai, kiln chamber 3, 7:40, alarm 82°C in oak cycle, limit 60°C, Zbigniew and Marek unavailable, please intervene immediately"; Anna decides to shut down the chamber; immediate SMS to Marek and Zbigniew about the 3-level skip; entry in the logbook with a full timeline.)*
+*(Urgency classification IMMEDIATELY: oak temperature 82°C >> limit 60°C = risk of medullary ray cracks + loss of the entire batch of 15-25 m³ of oak in the cycle; skipping 3 levels (foreman + shift supervisor + kiln supervisor) up to the production manager is allowed because all are unavailable and the matter cannot wait; I run 30 m to Anna's office with the 4W format: "manager, Andrij, kiln chamber 3, 7:40, alarm 82°C in oak cycle, limit 60°C, Zbigniew and Marek unavailable, please intervene immediately"; Anna decides to shut down the chamber; immediate SMS to Marek and Zbigniew about the 3-level skip; entry in the logbook with a full timeline.)*
 
 ---
 

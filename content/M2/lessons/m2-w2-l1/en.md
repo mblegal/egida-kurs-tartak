@@ -8,9 +8,9 @@ czas: 120
 
 Monday, day six of week two. Week 1 was about **how to operate the machine safely**. Week 2 is about **what goes between the jaws of that machine**. Because the saw is the same, but green oak and seasoned oak behave completely differently: they crack differently, they pinch differently, they overheat the motor differently.
 
-**The character of week 2 is Maricel Santos**, 28 years old, a Filipina from Pangasinan province. She has been at the Fundacja EGIDA Sawmill at 12 Dębowa Street in Dębowa Góra for six months. She is the first woman operator in this hall. In M1 she was a helper on the log yard; now she is training as a junior operator. Last Friday Maricel received a delivery: twenty cubic metres of pine, brought out of the forest on Monday morning, seven days ago. Foreman Marek looked at the stack, shook his head and said: "Maricel, measure the moisture before this goes on the bandsaw. If it comes out above thirty-five, we are talking differently."
+**The character of week 2 is Sofía Ramírez**, 28 years old, a Colombian from Medellín. She has been at the Fundacja EGIDA Sawmill at 12 Dębowa Street in Dębowa Góra for six months. She is the first woman operator in this hall. In M1 she was a helper on the log yard; now she is training as a junior operator. Last Friday Sofía received a delivery: twenty cubic metres of pine, brought out of the forest on Monday morning, seven days ago. Foreman Marek looked at the stack, shook his head and said: "Sofía, measure the moisture before this goes on the bandsaw. If it comes out above thirty-five, we are talking differently."
 
-Maricel took the moisture meter, drove the electrodes into the end of the first log and read: **38%**. Then the second: 42%. The third: 36%. She sat with that number in her head and asked herself the question that is yours today: **what does this number actually mean, and why did the foreman react?**
+Sofía took the moisture meter, drove the electrodes into the end of the first log and read: **38%**. Then the second: 42%. The third: 36%. She sat with that number in her head and asked herself the question that is yours today: **what does this number actually mean, and why did the foreman react?**
 
 ## Objectives
 
@@ -27,7 +27,7 @@ After this lesson:
 
 ### Why wood moisture can exceed 100%
 
-Maricel hears "38 percent" and thinks about it like coffee: the more percent, the more of something in something else. With wood it is different. **Absolute moisture content** is the ratio of the mass of water to the **mass of completely dry wood** (dried in a laboratory oven to 0%, the so-called *oven-dry mass*). The formula is simple:
+Sofía hears "38 percent" and thinks about it like coffee: the more percent, the more of something in something else. With wood it is different. **Absolute moisture content** is the ratio of the mass of water to the **mass of completely dry wood** (dried in a laboratory oven to 0%, the so-called *oven-dry mass*). The formula is simple:
 
 ::: formula
 **MC (%) = (wet mass – dry mass) / dry mass × 100%**
@@ -60,7 +60,7 @@ What does this mean in practice?
 
 That is why drying has two stages: fast (down to FSP, no risk of cracks) and slow (below FSP, because here every extra degree per hour means cracks in the board). There will be more on this in module 3.
 
-One more practical note on FSP. Shrinkage is not uniform in all directions. Wood shrinks most in the tangential direction (along the growth rings), about half as much in the radial direction (across the rings), and almost not at all along the grain. That is why a flat-sawn board cups and a quarter-sawn board stays flatter. When Maricel plans a cut next week, this will matter: how the log is oriented on the carriage determines whether the boards come out tangential or radial, and therefore how much they will move as they dry.
+One more practical note on FSP. Shrinkage is not uniform in all directions. Wood shrinks most in the tangential direction (along the growth rings), about half as much in the radial direction (across the rings), and almost not at all along the grain. That is why a flat-sawn board cups and a quarter-sawn board stays flatter. When Sofía plans a cut next week, this will matter: how the log is oriented on the carriage determines whether the boards come out tangential or radial, and therefore how much they will move as they dry.
 
 ### Three ranges you see every day
 
@@ -77,7 +77,7 @@ The standard condition for construction lumber in Poland: roof trusses, roof str
 Required by customers in Germany, the UK, Scandinavia. Living-room furniture: 8–12%. Floorboards over underfloor heating: 7–9%. Exotic parquet: 6–8%.
 :::
 
-With her reading of 38%, Maricel landed **above FSP, in the "green" zone**. This means: the wood can be cut right away (many sawmills do this with pine), but it cannot be stored longer than 2 weeks without protection, because mould fungi and blue stain will appear. Foreman Marek had reason to worry: the delivery had already been waiting seven days, with 7 left until the fungus.
+With her reading of 38%, Sofía landed **above FSP, in the "green" zone**. This means: the wood can be cut right away (many sawmills do this with pine), but it cannot be stored longer than 2 weeks without protection, because mould fungi and blue stain will appear. Foreman Marek had reason to worry: the delivery had already been waiting seven days, with 7 left until the fungus.
 
 Notice what the three ranges do not include: anything between 20% and 30%. That gap is not an accident. It is the zone nobody wants to sit in: too dry to store safely as green, too wet to sell as dry, and right at the edge of FSP where any small change in conditions pushes wood into cracking. Sawmills move material through this zone as fast as possible, either by accelerating drying in a kiln or by keeping stock wet until cutting day. In practice, if a moisture meter shows you 25% on a stack that should be "dry", something has gone wrong: interrupted drying, a leaking shed, or mixed stock. Treat it as a warning, not a reading.
 
@@ -99,7 +99,7 @@ For a junior operator this number is not academic. Five things change between 50
 
 ### Why a green log has 10–14 days
 
-The last thing Maricel had to understand: **why a delivery from a week ago is already a problem, not a reserve**. A fresh log (above 30% moisture) is the perfect environment for:
+The last thing Sofía had to understand: **why a delivery from a week ago is already a problem, not a reserve**. A fresh log (above 30% moisture) is the perfect environment for:
 
 - **Mould fungi** (*Aspergillus*, *Penicillium*): 3–7 days from felling, especially in warmth above 15°C. Visually: white, grey, green bloom on the end grain.
 - **Blue stain** (*Ceratocystis* fungi): 7–21 days, permanent discoloration of the wood structure. **It does not come off in cutting, it does not come off in planing, it does not come off in drying.** The whole log loses grade A and B, drops to C-D or to firewood.
@@ -109,7 +109,7 @@ The last thing Maricel had to understand: **why a delivery from a week ago is al
 **The 14-day rule** (summer) **/ 21-day rule** (winter): from felling the tree in the forest to sawing on the bandsaw or submerging in the pond, no more time than this should pass. For pine and spruce in 30°C heat, **10 days** is the limit. For oak, which is more resistant, up to 28 days. After that time the wood either goes into the water pond (water displaces air, fungi do not grow without oxygen), or gets sprayed with borate.
 :::
 
-Maricel's delivery was already 7 days old. Another 7 until the limit. That is why the foreman said "we are talking differently": he had to rearrange the shift plan and move that pine to Monday morning, ahead of the oak that was originally in the schedule.
+Sofía's delivery was already 7 days old. Another 7 until the limit. That is why the foreman said "we are talking differently": he had to rearrange the shift plan and move that pine to Monday morning, ahead of the oak that was originally in the schedule.
 
 ## Key terms
 
@@ -152,6 +152,6 @@ Tomorrow (lesson 2) you will learn **measurement with a resistance moisture mete
 - Confusing relative humidity (of air) with absolute moisture (of wood). In weather, 80% air humidity means something different from 80% wood moisture. Mark this explicitly.
 - "If wet cuts worse, then dry is always better": **no**, wood dried below 8% can burn from friction heat on a circular saw. Fresh pine, because of the resin, actually cuts more easily than seasoned. Each range has its advantages and its traps.
 
-**Maricel case, to expand in discussion**: why did the foreman say "we are talking differently" and not "cut immediately"? Because he also had in the schedule fresh oak from yesterday (0 days, time up to 28), which could wait, and older pine from 7 days (time up to 7), which had to be saved. **Cutting priority is not delivery order: it is species × age order.** This rule comes back in m2-w4-l1 (cutting planning).
+**Sofía case, to expand in discussion**: why did the foreman say "we are talking differently" and not "cut immediately"? Because he also had in the schedule fresh oak from yesterday (0 days, time up to 28), which could wait, and older pine from 7 days (time up to 7), which had to be saved. **Cutting priority is not delivery order: it is species × age order.** This rule comes back in m2-w4-l1 (cutting planning).
 
-**Phonetic glossary EN**: "fiber saturation point" – full pronunciation in the Introduction at the start of the lesson, then the abbreviation FSP. A Filipino, Ukrainian, Nigerian trainee pronounces "FSP" more easily than the full name. Likewise "MC": let them get used to it, because on the moisture meter only MC will appear.
+**Phonetic glossary EN**: "fiber saturation point" – full pronunciation in the Introduction at the start of the lesson, then the abbreviation FSP. A Ukrainian, Colombian, Venezuelan trainee pronounces "FSP" more easily than the full name. Likewise "MC": let them get used to it, because on the moisture meter only MC will appear.

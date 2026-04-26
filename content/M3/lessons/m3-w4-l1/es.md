@@ -6,21 +6,21 @@ czas: 120
 
 ## Introducción
 
-Jueves, 2026-06-18, las 6:55. Nave del aserradero, plataforma **P3 Wood-Mizer LT70**. Ayer, miércoles 17.06, Rustam Nazarov tuvo un turno marcado por dos averías (corte ondulado por sí mismo, alabeo de la rueda para el servicio técnico), con el registro completo en la ficha KKS-001 del día anterior. Por la tarde del 17.06, a las 14:10, **el Sr. Krzysztof de Wood-Mizer Polska** terminó el cambio de los rodamientos de las ruedas inferiores (precinto antimanipulación nuevo, serie WM-LT70-BB-2026-0142, garantía de taller de 36 meses, coste 800 zł netos solo mano de obra, factura FV WM/06/2026/427). Precinto de servicio amarillo, **equilibrado dinámico terminado**, máquina lista para operar.
+Jueves, 2026-06-18, las 6:55. Nave del aserradero, plataforma **P3 Wood-Mizer LT70**. Ayer, miércoles 17.06, Mykoła Hrycenko tuvo un turno marcado por dos averías (corte ondulado por sí mismo, alabeo de la rueda para el servicio técnico), con el registro completo en la ficha KKS-001 del día anterior. Por la tarde del 17.06, a las 14:10, **el Sr. Krzysztof de Wood-Mizer Polska** terminó el cambio de los rodamientos de las ruedas inferiores (precinto antimanipulación nuevo, serie WM-LT70-BB-2026-0142, garantía de taller de 36 meses, coste 800 zł netos solo mano de obra, factura FV WM/06/2026/427). Precinto de servicio amarillo, **equilibrado dinámico terminado**, máquina lista para operar.
 
-Hoy P3 **vuelve al trabajo**. En el puesto también se juntan otros dos eventos organizativos: **la Sra. Ania (Anna Kowalczyk, 55 años, clasificadora ITB)** vuelve tras una pausa de tres días (permiso familiar de fin de semana 13-15.06 más la formación del lunes sobre PN-EN 14081-1 en Poznań el 16.06). La Sra. Ania llegará hoy a las 13:00 para clasificar el lote que Rustam preparará por la mañana. **Wahan Petrosjan** (22 años, ayudante fijo en P3) volvió ayer de una semana de vacaciones con la familia en Armenia (07-14.06) y hoy es su primer día completo en el puesto. Adrian Kowal (M2, autorizado desde la l7) trabaja hoy en P2 LT30 con su propio encargo de tablas de valla, no en P3.
+Hoy P3 **vuelve al trabajo**. En el puesto también se juntan otros dos eventos organizativos: **la Sra. Ania (Anna Kowalczyk, 55 años, clasificadora ITB)** vuelve tras una pausa de tres días (permiso familiar de fin de semana 13-15.06 más la formación del lunes sobre PN-EN 14081-1 en Poznań el 16.06). La Sra. Ania llegará hoy a las 13:00 para clasificar el lote que Mykoła preparará por la mañana. **Wasyl Melnyk** (22 años, ayudante fijo en P3) volvió ayer de una semana de vacaciones con la familia en Ucrania (07-14.06) y hoy es su primer día completo en el puesto. Adrian Kowal (M2, autorizado desde la l7) trabaja hoy en P2 LT30 con su propio encargo de tablas de valla, no en P3.
 
 Encargo de la disposición matinal de Marek Kowalski (capataz, redactó la disposición el viernes 12.06 por la tarde, vigente tras el cambio): **ZLE-2026-06-017**, **abedul péndulo (*Betula pendula*)**, 4 troncos de 4,05 m de rollizo, humedad recién cortada del 38% (cortados el 2026-06-08, diez días de reposo en el patio), clase B según la evaluación rápida del patio del 15.06 (nudo pequeño en el tronco nº 3, sin grieta medular en los testeros), surtido objetivo **listones de acabado de 20 × 80 × 4050 mm** para **carpintería de muebles para el cliente MebelPro Olsztyn** (colaboración estable, que tras el secado exige clase C16 según PN-EN 14081-1, lo que en el abedul de carpintería se corresponde con la clase D30 para frondosas, pero el cliente acepta C16 contractualmente porque los listones de acabado no soportan carga: se quedan en la camisa encolada del armario). **Cantidad objetivo: 3,0 m³ de madera aserrada en bruto**. Tiempo hasta terminar el corte: se esperan 5 horas (el abedul va más rápido que el roble, troncos finos de 28 cm de media).
 
-Rustam tiene hoy una tarea distinta a la habitual. No solo aserrar y clasificar. Hoy tiene que **por primera vez desde el inicio de T4 M3 preparar la documentación completa del lote** (la ficha **KEP-001 „Ficha de Registro de Lote"**, formulario nuevo de EGIDA introducido en 03.2026 para operadores M3) y **entregársela a la Sra. Ania a las 13:00**. La diferencia entre el trabajo anterior de Rustam y el de hoy: hasta ahora la clasificadora medía ella misma la humedad, ella misma anotaba las dimensiones, ella misma evaluaba los defectos. Rustam era solo **fuente de materia prima**. Desde hoy, tras la Part 29 de la l7 con la KAO-001 de Adrian y la l1 de hoy, Rustam es **proveedor de datos de medición**, y la clasificadora solo **verifica y firma**. La Sra. Ania recibió por la mañana un SMS de Marek: *«Rustam hoy lo anotará todo en la KEP-001, tú solo las clases y la firma en la WZ.»* Respondió: *«Genial. Hacía tiempo que lo esperaba.»*
+Mykoła tiene hoy una tarea distinta a la habitual. No solo aserrar y clasificar. Hoy tiene que **por primera vez desde el inicio de T4 M3 preparar la documentación completa del lote** (la ficha **KEP-001 „Ficha de Registro de Lote"**, formulario nuevo de EGIDA introducido en 03.2026 para operadores M3) y **entregársela a la Sra. Ania a las 13:00**. La diferencia entre el trabajo anterior de Mykoła y el de hoy: hasta ahora la clasificadora medía ella misma la humedad, ella misma anotaba las dimensiones, ella misma evaluaba los defectos. Mykoła era solo **fuente de materia prima**. Desde hoy, tras la Part 29 de la l7 con la KAO-001 de Adrian y la l1 de hoy, Mykoła es **proveedor de datos de medición**, y la clasificadora solo **verifica y firma**. La Sra. Ania recibió por la mañana un SMS de Marek: *«Mykoła hoy lo anotará todo en la KEP-001, tú solo las clases y la firma en la WZ.»* Respondió: *«Genial. Hacía tiempo que lo esperaba.»*
 
 ### 7:00, inicio del turno y recorrido de la máquina
 
-Rustam entra a la nave con una taza de café, sudadera de trabajo EGIDA, identificador M3 en el cordón. **Wahan ya está junto a P3**, se pone el casco y los cascos antirruido, revisa la escoba y la carretilla. Rustam le saluda brevemente:
+Mykoła entra a la nave con una taza de café, sudadera de trabajo EGIDA, identificador M3 en el cordón. **Wasyl ya está junto a P3**, se pone el casco y los cascos antirruido, revisa la escoba y la carretilla. Mykoła le saluda brevemente:
 
-*«Wahan, volviste. ¿Qué tal Armenia?»*
+*«Wasyl, volviste. ¿Qué tal Ucrania?»*
 
-*«Calor. 34 grados en Gyumri. Mi madre te manda saludos.»*
+*«Calor. 34 grados en Ternópil. Mi madre te manda saludos.»*
 
 *«Devuélveselos. Hoy abedul, troncos finos, pero **no iremos rápido**: hacemos la documentación del lote para la Sra. Ania, llega a las 13:00. Te iré dictando las dimensiones de cada tabla, tú lo anotas en una hoja, luego yo lo paso a la KEP-001.»*
 
@@ -28,7 +28,7 @@ Rustam entra a la nave con una taza de café, sudadera de trabajo EGIDA, identif
 
 *«No conocemos las clases, eso lo hace la Sra. Ania. Nosotros solo: especie, humedad, dimensiones, defectos visuales. Sin valorar la clase. Esa es la frontera.»*
 
-Wahan asiente. Rustam saca del armario una **KEP-001 en blanco** (A4, cartulina, de tres columnas, campo de cabecera / datos del lote / mediciones en 5 puntos de humedad / lista de tablas con defectos / firma del operador / campo de la clasificadora en blanco). **Al lado en la mesa**, un ejemplar modelo de KEP-001 rellenado del lote anterior (ZLE-2026-06-012 pino de la semana pasada, rellenado entonces por el Sr. Henryk de secado), para consultar el formato.
+Wasyl asiente. Mykoła saca del armario una **KEP-001 en blanco** (A4, cartulina, de tres columnas, campo de cabecera / datos del lote / mediciones en 5 puntos de humedad / lista de tablas con defectos / firma del operador / campo de la clasificadora en blanco). **Al lado en la mesa**, un ejemplar modelo de KEP-001 rellenado del lote anterior (ZLE-2026-06-012 pino de la semana pasada, rellenado entonces por el Sr. Henryk de secado), para consultar el formato.
 
 Recorrido de P3, puesta en marcha completa tras el servicio (alabeo de rueda de ayer + rodamientos nuevos = **primera puesta en marcha, atención especial**):
 
@@ -50,61 +50,61 @@ Recorrido P3 Wood-Mizer LT70 – 2026-06-18 07:08
 Puesta en marcha autorizada.
 ```
 
-*«La máquina está limpia tras el servicio. Hoy **excepcionalmente el primer corte lo hago yo solo, Wahan se queda a un lado**: el protocolo WM tras el cambio de rodamientos exige que los 3 primeros cortes los haga el operador M3 sin ayudante, porque si algo se afloja, solo se ve cuando una persona observa todo en la máquina. Luego, desde el tronco 4, vamos normalmente juntos.»*
+*«La máquina está limpia tras el servicio. Hoy **excepcionalmente el primer corte lo hago yo solo, Wasyl se queda a un lado**: el protocolo WM tras el cambio de rodamientos exige que los 3 primeros cortes los haga el operador M3 sin ayudante, porque si algo se afloja, solo se ve cuando una persona observa todo en la máquina. Luego, desde el tronco 4, vamos normalmente juntos.»*
 
-Wahan se aleja hacia la escoba. Empieza a barrer el patio de la nave detrás de P3 (serrín de la campaña de roble de Adrian de ayer).
+Wasyl se aleja hacia la escoba. Empieza a barrer el patio de la nave detrás de P3 (serrín de la campaña de roble de Adrian de ayer).
 
 ### 7:20, calentamiento de la máquina y colocación de la cinta
 
-Rustam coloca la **ST-38-10-S14** (stellite de 38 mm de ancho, paso de 10 TPI, serie S14, nueva de almacén, sin usar), tensión 2250 PSI (el abedul es más ligero que el roble, inferior a los 2350 de ayer, pero superior a los 2150 del pino), guías 3,2 mm delante / 3,5 mm detrás (más anchas que con roble, porque el abedul es más elástico), motor a 1920 RPM. Calentamiento del motor durante 5 minutos en vacío, Rustam observa el panel (corriente 8A en vacío, temperatura del aceite de la transmisión 35°C desde los 18°C del entorno, todo en norma).
+Mykoła coloca la **ST-38-10-S14** (stellite de 38 mm de ancho, paso de 10 TPI, serie S14, nueva de almacén, sin usar), tensión 2250 PSI (el abedul es más ligero que el roble, inferior a los 2350 de ayer, pero superior a los 2150 del pino), guías 3,2 mm delante / 3,5 mm detrás (más anchas que con roble, porque el abedul es más elástico), motor a 1920 RPM. Calentamiento del motor durante 5 minutos en vacío, Mykoła observa el panel (corriente 8A en vacío, temperatura del aceite de la transmisión 35°C desde los 18°C del entorno, todo en norma).
 
 ### 7:35, colocación del primer tronco y primer corte
 
 Primer tronco (BR-BR-06-P1, diámetro 31 cm, longitud 4,05 m, el mayor de los 4) colocado en la mesa de trabajo hidráulicamente, sujeto con grapas. Primer corte: **retirada del costero superior de 2 cm**, espesor de la vía de sierra 1,5 mm (stellite de corte fino), tiempo 42 segundos de borde a borde.
 
-El corte **recto, uniforme, sin ondulación**. Rustam toca la cinta con el guante: **sin vibraciones, sin calor excesivo** (rodamientos nuevos fríos). Puesta en marcha tras el servicio **correcta**.
+El corte **recto, uniforme, sin ondulación**. Mykoła toca la cinta con el guante: **sin vibraciones, sin calor excesivo** (rodamientos nuevos fríos). Puesta en marcha tras el servicio **correcta**.
 
-Segundo corte (costero inferior), tercero (costero lateral). Tras tres cortes Rustam para la máquina, revisa visualmente la cinta (diente 1 íntegro, sin microfisuras), la rueda motriz (alabeo todavía de 0,1 mm a la vista, OK), el rodamiento inferior (sonido seco). **Servicio WM superado.**
+Segundo corte (costero inferior), tercero (costero lateral). Tras tres cortes Mykoła para la máquina, revisa visualmente la cinta (diente 1 íntegro, sin microfisuras), la rueda motriz (alabeo todavía de 0,1 mm a la vista, OK), el rodamiento inferior (sonido seco). **Servicio WM superado.**
 
-*«¡Wahan! Vamos juntos. Hoy el rol estándar: yo corto, tú recoges las tablas, yo dicto las dimensiones en una hoja, tú anotas. Cada 10 tablas haz un resumen para que lo revise.»*
+*«¡Wasyl! Vamos juntos. Hoy el rol estándar: yo corto, tú recoges las tablas, yo dicto las dimensiones en una hoja, tú anotas. Cada 10 tablas haz un resumen para que lo revise.»*
 
-Wahan viene con el cuaderno. Empiezan a trabajar sistemáticamente.
+Wasyl viene con el cuaderno. Empiezan a trabajar sistemáticamente.
 
 ### 8:00-11:30, aserrado de 4 troncos y clasificación en tablas
 
-Tronco 1 (31 cm de diámetro, 4,05 m): escuadrado a 260 × 260 mm tras los costeros, despiezado en **listones de 20 mm de grosor × 80 mm de anchura**, esquema de corte **en serie vertical** (tras el escuadrado de 260 × 260 mm salen 10 listones de 20 mm + 60 mm inferiores para una segunda pasada, de los cuales 3 listones de 20 mm, residuo inferior de 0 mm, así que en total **13 listones × 4 lados × 1 tronco ≈ 20 listones de dimensión completa 80 × 4050 mm**). **Del tronco 1 Rustam obtiene 20 listones**, tiempo de corte 47 min. Esquema de rendimiento:
+Tronco 1 (31 cm de diámetro, 4,05 m): escuadrado a 260 × 260 mm tras los costeros, despiezado en **listones de 20 mm de grosor × 80 mm de anchura**, esquema de corte **en serie vertical** (tras el escuadrado de 260 × 260 mm salen 10 listones de 20 mm + 60 mm inferiores para una segunda pasada, de los cuales 3 listones de 20 mm, residuo inferior de 0 mm, así que en total **13 listones × 4 lados × 1 tronco ≈ 20 listones de dimensión completa 80 × 4050 mm**). **Del tronco 1 Mykoła obtiene 20 listones**, tiempo de corte 47 min. Esquema de rendimiento:
 - escuadrado: 4 costeros laterales, 0,18 m³ de residuo
 - pasada vertical: 13 listones de 20 mm de un lado, 7 más de la segunda pasada
 - surtido de P1: 20 listones de dimensión 20 × 80 × 4050 mm, 0 listones de descarte, costero lateral 0,18 m³
 
-Tronco 2 (28 cm de diámetro, 4,05 m, **nudo pequeño central**): escuadrado a 230 × 230 mm, 16 listones de 20 × 80 × 4050 mm obtiene Rustam, **nudo central localizado en 3 listones** (Rustam marca con lápiz graso al final de cada tabla la letra «**S**» – nudo (*sęk*)). Tiempo 43 min.
+Tronco 2 (28 cm de diámetro, 4,05 m, **nudo pequeño central**): escuadrado a 230 × 230 mm, 16 listones de 20 × 80 × 4050 mm obtiene Mykoła, **nudo central localizado en 3 listones** (Mykoła marca con lápiz graso al final de cada tabla la letra «**S**» – nudo (*sęk*)). Tiempo 43 min.
 
 Tronco 3 (30 cm de diámetro, 4,05 m, sin defectos en los testeros): escuadrado a 250 × 250 mm, 19 listones de 20 × 80 × 4050 mm, **todos limpios**. Tiempo 45 min.
 
-Tronco 4 (27 cm de diámetro, 4,05 m, **pequeña grieta de helada en el testero superior visible tras el descortezado**): escuadrado a 220 × 220 mm, 15 listones, **2 listones superiores con grieta de helada salen más cortos** (3,85 m en vez de 4,05 m, porque Rustam corta el testero dañado de 20 cm). Tiempo 42 min.
+Tronco 4 (27 cm de diámetro, 4,05 m, **pequeña grieta de helada en el testero superior visible tras el descortezado**): escuadrado a 220 × 220 mm, 15 listones, **2 listones superiores con grieta de helada salen más cortos** (3,85 m en vez de 4,05 m, porque Mykoła corta el testero dañado de 20 cm). Tiempo 42 min.
 
 **En total tras los 4 troncos a las 11:30**: 20 + 16 + 19 + 15 = **70 listones de dimensión completa 20 × 80 × 4050** + **2 listones más cortos 20 × 80 × 3850** + **6 listones marcados con «S» nudo**. En total **78 tablas en el lote ZLE-2026-06-017**. Volumen de madera aserrada en bruto: 78 × 0,020 × 0,080 × longitud media 4,04 m ≈ **0,505 m³ de listones a partir de 4 troncos de rollizo de 4,6 m³** (rendimiento yield = 0,505/4,6 = **11% porque los listones finos de 20 mm de troncos gruesos son un surtido estrecho, el resto del 89% es costero/recortes/serrín, normal para este surtido, el 89% va al briqueteado para calefacción y a las placas MDF klimkowe para Fabryka Płyt Pfleiderer Grajewo, ingreso secundario 320 zł/m³ de costero + 85 zł/m³ de serrín).
 
-*«Wahan, ahora la parte más importante del día. Mediciones en la KEP-001.»*
+*«Wasyl, ahora la parte más importante del día. Mediciones en la KEP-001.»*
 
-Wahan deja la escoba.
+Wasyl deja la escoba.
 
 ### 11:30, preparación para las mediciones de la KEP-001
 
-Rustam coloca las 78 tablas en la mesa de clasificación (mesa metálica larga de 6 × 1,2 m con iluminación LED encima, junto a P3, usada por la Sra. Ania desde hace años). Tablas colocadas **planas, en 4 capas de 20 tablas** (la última capa con 18). Entre capas **separadores de madera de 10 × 40 × 1000 mm** (para que circule el aire y las tablas no sudaran con el calor de la nave). Wahan recibe la tarea: **marca con lápiz un numerador en el testero de cada tabla del 1 al 78**. Lo hace con soltura, 25 minutos.
+Mykoła coloca las 78 tablas en la mesa de clasificación (mesa metálica larga de 6 × 1,2 m con iluminación LED encima, junto a P3, usada por la Sra. Ania desde hace años). Tablas colocadas **planas, en 4 capas de 20 tablas** (la última capa con 18). Entre capas **separadores de madera de 10 × 40 × 1000 mm** (para que circule el aire y las tablas no sudaran con el calor de la nave). Wasyl recibe la tarea: **marca con lápiz un numerador en el testero de cada tabla del 1 al 78**. Lo hace con soltura, 25 minutos.
 
-Rustam saca del armario:
+Mykoła saca del armario:
 - **Higrómetro Tanel ET-6** (de agujas, de dos pinchos, rango 6-40%, calibrado el 2026-03-15, válido 12 meses)
 - **Calibre electrónico Mitutoyo 500-160-30** (precisión 0,01 mm, rango 0-150 mm, calibrado el 2026-01-10)
 - **Cinta métrica en pulgadas de 5 m Stanley** (para la longitud de los listones)
 - **Lupa 10× Eschenbach** (para la evaluación de defectos visuales, sobre todo nudos)
 - **Lápiz naranja** (para marcar defectos en las tablas, verde es el clasificador de la Sra. Ania)
 - **KEP-001 en blanco 1 ud.**
-- **Cuaderno de trabajo A5 con espiral** (Wahan anota el dictado)
+- **Cuaderno de trabajo A5 con espiral** (Wasyl anota el dictado)
 
 ### 11:45, cabecera de la KEP-001
 
-Rustam escribe **con bolígrafo azul** (porque la KEP-001 se hace con bolígrafo, no a lápiz, es un documento de archivo, retención de 5 años en el archivo EGIDA conforme al § 12 ap. 3 del reglamento de calidad reg.wew.05/2024):
+Mykoła escribe **con bolígrafo azul** (porque la KEP-001 se hace con bolígrafo, no a lápiz, es un documento de archivo, retención de 5 años en el archivo EGIDA conforme al § 12 ap. 3 del reglamento de calidad reg.wew.05/2024):
 
 ```
 FICHA DE REGISTRO DE LOTE – KEP-001
@@ -116,8 +116,8 @@ Procedencia:          Nadleśnictwo Strzałowo, forestal Wężewo, tala 2026/03
 Fecha de corta:       2026-06-08
 Fecha de reposo:      10 días en patio (hasta 2026-06-18)
 Fecha de aserrado:    2026-06-18, 08:00-11:30
-Operador P3:          Rustam Nazarov (M3, autorización 04.2026)
-Asistencia:           Wahan Petrosjan (M1 ayudante)
+Operador P3:          Mykoła Hrycenko (M3, autorización 04.2026)
+Asistencia:           Wasyl Melnyk (M1 ayudante)
 
 Cantidad de tablas:   78 uds.
  - dimensión completa 20×80×4050:  70 uds.
@@ -130,11 +130,11 @@ Cliente final:        MebelPro Olsztyn (contrato marco UR/2025/108)
 Clase esperada (tras secado 8-10%): C16 contractual (listones no estructurales)
 ```
 
-Rustam subraya «**C16 contractual**» y le explica a Wahan:
+Mykoła subraya «**C16 contractual**» y le explica a Wasyl:
 
 *«El abedul como especie frondosa no se rige clásicamente por la PN-EN 14081-1, porque esa norma es para coníferas. Para frondosas está la PN-EN 13366 con clases D18 a D70. Pero el cliente **MebelPro** tiene en el contrato **clase C16 contractual**, porque los listones de acabado no soportan carga estructural, así que la clasificación es **proforma**: la Sra. Ania firma la WZ bajo C16, pero **no ensaya la resistencia**, solo los defectos visuales según PN-EN 1611-1. Contractual significa que las partes del contrato acuerdan que ese parámetro es como una clasificación, pero formalmente la clase estructural no se ensaya. **No confundas esto con la clasificación para cabios** (mira la sesión anterior, ZLE-015 pino C24 para Dom-Bud), allí la clasificación es completa, de resistencia, con carga.»*
 
-Wahan anota en su cuaderno: «abedul = clase contractual, C16 sobre el papel, sin carga».
+Wasyl anota en su cuaderno: «abedul = clase contractual, C16 sobre el papel, sin carga».
 
 ### 12:00-12:30, medición de humedad en 5 puntos
 
@@ -146,7 +146,7 @@ Wahan anota en su cuaderno: «abedul = clase contractual, C16 sobre el papel, si
 4. Tabla para medir: **al azar de la capa**, ni la mejor ni la peor a la vista.
 5. Tres lecturas por punto rotando 90°, el resultado es la **media aritmética**.
 
-Rustam trabaja sistemáticamente. Wahan le dicta los números de las tablas de las esquinas (capa 1: tabla nº 1 izquierda superior, nº 20 derecha superior; capa 4: tabla nº 59 izquierda inferior, nº 78 derecha inferior; centro: tabla nº 40 en la capa 2).
+Mykoła trabaja sistemáticamente. Wasyl le dicta los números de las tablas de las esquinas (capa 1: tabla nº 1 izquierda superior, nº 20 derecha superior; capa 4: tabla nº 59 izquierda inferior, nº 78 derecha inferior; centro: tabla nº 40 en la capa 2).
 
 ```
 Mediciones de humedad 2026-06-18 12:10-12:25 (Tanel ET-6, calibración 2026-03-15)
@@ -172,9 +172,9 @@ DISPERSIÓN:      0,6 puntos (37,9 a 38,5) – muy baja, buena homogeneidad
 ESTADO:          madera recién aserrada, antes del secado (coherente con fecha de corta 2026-06-08)
 ```
 
-*«Wahan, anota en el cuaderno: **media 38,1%, dispersión 0,6 puntos, homogénea**. Eso a la KEP-001. Una homogeneidad de 0,6 puntos significa que todas las tablas secarán en la cámara de forma uniforme, no habrá problema con el secado de las capas.»*
+*«Wasyl, anota en el cuaderno: **media 38,1%, dispersión 0,6 puntos, homogénea**. Eso a la KEP-001. Una homogeneidad de 0,6 puntos significa que todas las tablas secarán en la cámara de forma uniforme, no habrá problema con el secado de las capas.»*
 
-Wahan toma nota. Rustam lo pasa a la KEP-001:
+Wasyl toma nota. Mykoła lo pasa a la KEP-001:
 
 ```
 MEDICIÓN DE HUMEDAD (método: PN-EN 13183-2, resistivo)
@@ -193,18 +193,18 @@ Homogeneidad:    BUENA (conforme a PN-EN 13183-2 punto 7.4)
 
 Conclusión del operador: madera recién aserrada, lista para carga de secado
                          lote homogéneo, no requiere selección previa al secado
-Firma del operador:      Rustam Nazarov, 2026-06-18, 12:25
+Firma del operador:      Mykoła Hrycenko, 2026-06-18, 12:25
 ```
 
 ### 12:30-13:00, mediciones de dimensiones y defectos visuales
 
-**Segunda sección de la KEP-001: lista de las 78 tablas con dimensiones y defectos.** Método: Rustam mide con calibre (grosor, anchura) y con cinta (longitud) **cada tabla**. Wahan anota en el cuaderno de trabajo. Tras terminar las 78, Rustam pasa el conjunto a la KEP-001.
+**Segunda sección de la KEP-001: lista de las 78 tablas con dimensiones y defectos.** Método: Mykoła mide con calibre (grosor, anchura) y con cinta (longitud) **cada tabla**. Wasyl anota en el cuaderno de trabajo. Tras terminar las 78, Mykoła pasa el conjunto a la KEP-001.
 
-Es un trabajo **monótono pero clave**: cada tabla, una entrada. Rustam le explica a Wahan la regla:
+Es un trabajo **monótono pero clave**: cada tabla, una entrada. Mykoła le explica a Wasyl la regla:
 
 *«No anotamos solo la media. Anotamos **cada tabla**, porque la clasificadora responde por cada tabla por separado. Si luego resulta que la tabla nº 43 mide 19,2 mm en vez de 20 mm, **de la KEP-001 se sabe que nosotros lo sabíamos**. El cliente reclama, nosotros enseñamos la KEP-001. **La documentación nos protege a todos**: operador, clasificadora, capataz.»*
 
-Wahan asiente.
+Wasyl asiente.
 
 Sistema de medición:
 
@@ -233,24 +233,24 @@ Grosor:    mín. 20,0 / máx. 20,2 / med. 20,10 mm (tolerancia objetivo ±0,5)
 Anchura:   mín. 79,9 / máx. 80,4 / med. 80,12 mm (tolerancia objetivo ±1,0)
 Longitud:  71 tablas × 4050 mm + 7 tablas × 3850 mm
 
-Firma del operador de defectos:  Rustam Nazarov, 2026-06-18, 12:58
+Firma del operador de defectos:  Mykoła Hrycenko, 2026-06-18, 12:58
 ```
 
-*«Wahan, listo. He terminado las mediciones. Voy a por un café y luego, a las 13:00, llega la Sra. Ania. Hoy su trabajo será más corto de lo habitual.»*
+*«Wasyl, listo. He terminado las mediciones. Voy a por un café y luego, a las 13:00, llega la Sra. Ania. Hoy su trabajo será más corto de lo habitual.»*
 
-Wahan recoge la mesa (viruta del calibre, cuaderno de trabajo lo guarda en el armario del jefe, **archivo del operador**), se sirve café del termo. Rustam va a por café a la sala social.
+Wasyl recoge la mesa (viruta del calibre, cuaderno de trabajo lo guarda en el armario del jefe, **archivo del operador**), se sirve café del termo. Mykoła va a por café a la sala social.
 
 ### 13:00, llega la Sra. Ania
 
 La Sra. Ania, 55 años, clasificadora ITB (acreditación nº ITB-KLAS-247/2019, válida hasta 11.2027, confirmada por la formación PN-EN 14081-1 del 16.06.2026 en Poznań, certificado nº ITB/PK/2026/0427 con banda de actualización), pelo canoso recogido en moño, gafas azul marino, en la mano su **lápiz verde de clasificadora** (color corporativo ITB: verde clasificador, rojo inspector de construcción, azul operador), **cuaderno** y **sello personal con número de habilitación**.
 
-Rustam la saluda:
+Mykoła la saluda:
 
 *«Sra. Ania, buenos días. ¿Qué tal la formación del 16.06?»*
 
 *«Estándar, 8 horas, repaso de los cambios en PN-EN 14081-1 de diciembre de 2025: nuevos umbrales para la clase C30 del pino, pero a nosotros hoy no nos afecta. Enséñame la KEP-001.»*
 
-Rustam le pasa la KEP-001 rellenada. La Sra. Ania se sienta en la mesa de clasificación, **abre la ficha y lee**:
+Mykoła le pasa la KEP-001 rellenada. La Sra. Ania se sienta en la mesa de clasificación, **abre la ficha y lee**:
 
 ```
 – Cabecera: ZLE-2026-06-017, abedul, 78 tablas, MebelPro Olsztyn, C16 contractual.  OK.
@@ -259,14 +259,14 @@ Rustam le pasa la KEP-001 rellenada. La Sra. Ania se sienta en la mesa de clasif
 – Defectos: 70 A, 6 B nudo, 2 B dimensión más corta.                              OK.
 ```
 
-*«Rustam, excelente. Todo lo que yo mediría, ya lo has medido. Yo solo echaré un vistazo a ver si no se os ha escapado algún defecto y firmaré la WZ. **Sin KEP-001 me llevaría 3 horas, ahora me bastan 90 minutos.**»*
+*«Mykoła, excelente. Todo lo que yo mediría, ya lo has medido. Yo solo echaré un vistazo a ver si no se os ha escapado algún defecto y firmaré la WZ. **Sin KEP-001 me llevaría 3 horas, ahora me bastan 90 minutos.**»*
 
-Rustam sonríe. Wahan se alegró de que las «tres horas» no le tocaran.
+Mykoła sonríe. Wasyl se alegró de que las «tres horas» no le tocaran.
 
 ### 13:00-14:30, la Sra. Ania verifica el lote
 
 La Sra. Ania tiene su propio método. Coge la **lupa 10×**, camina entre las capas de tablas, mira **cada tabla** con la KEP-001 en la mano. Para cada una verifica:
-1. **Dimensión de grosor** (usa su propio calibre Mitutoyo 500-196-30, en paralelo al de Rustam): **control completo** de las primeras 10 tablas, luego **muestreo cada 5 tablas** (método SPC, aceptado por ITB para lotes homogéneos con dispersión <1 mm).
+1. **Dimensión de grosor** (usa su propio calibre Mitutoyo 500-196-30, en paralelo al de Mykoła): **control completo** de las primeras 10 tablas, luego **muestreo cada 5 tablas** (método SPC, aceptado por ITB para lotes homogéneos con dispersión <1 mm).
 2. **Defectos visuales**: inspección completa de cada tabla, porque los defectos la clasificadora los ve mejor que el operador.
 3. **Concordancia de la letra «S» en las tablas 21-26**: OK, todas tienen nudos conforme a la KEP-001.
 4. **Testeros de las tablas 69 y 70**: OK, cortados rectos (grieta de helada ya retirada), longitud 3,85 m medida con precisión al calibre.
@@ -296,21 +296,21 @@ Sello personal:               [sello verde]
 
 La Sra. Ania rellena a mano en la sección de la clasificadora de la KEP-001, **imprime la WZ (Emisión Externa)** en la impresora junto a la mesa, la firma **con su sello**. La WZ la tendrá Marek por la tarde, Marek la validará contablemente.
 
-### 14:30-14:45, conversación con Rustam
+### 14:30-14:45, conversación con Mykoła
 
-La Sra. Ania se sienta con Rustam en la mesa, café:
+La Sra. Ania se sienta con Mykoła en la mesa, café:
 
-*«Rustam, primera KEP-001 tuya. Varias observaciones:
+*«Mykoła, primera KEP-001 tuya. Varias observaciones:
 1. **Mediciones excelentes**: dispersión de 0,6 puntos en humedad, es trabajo de manual. Mejor de lo que yo hacía hace 30 años.
 2. **La marca «S» en las tablas 21-26**: genial. Supe enseguida dónde buscar los nudos, no perdí tiempo mirando las limpias.
 3. **Tablas 69-70 más cortas**: correctamente documentada la longitud de 3,85 m. Testeros cortados rectos, grieta de helada de 20 cm eliminada: la evaluación del operador fue **precisa**, no encontré grieta residual en el interior.
 4. **Una observación técnica**: en la columna 'clase preliminar' escribiste A/B en lugar de C16-A/C16-B. La nomenclatura formal exige el prefijo de la clase objetivo. La próxima vez.»*
 
-Rustam anota en su cuaderno de trabajo: «KEP-001 columna clase preliminar: escribir C16-A, C16-B, no solo A/B».
+Mykoła anota en su cuaderno de trabajo: «KEP-001 columna clase preliminar: escribir C16-A, C16-B, no solo A/B».
 
 La Sra. Ania continúa:
 
-*«Rustam, **el formato de la WZ**: te muestro cómo es el documento de salida terminado para el cliente. Seis secciones:
+*«Mykoła, **el formato de la WZ**: te muestro cómo es el documento de salida terminado para el cliente. Seis secciones:
 1. **Cabecera**: datos de EGIDA, número de WZ, fecha, número de encargo, número de lote, FSC-C112233.
 2. **Datos del cliente**: MebelPro Olsztyn, NIP, dirección de envío, persona que recibe con autorización.
 3. **Descripción del lote**: especie, cantidad, dimensiones, volumen, clase, humedad, destino.
@@ -322,7 +322,7 @@ La Sra. Ania continúa:
 
 *«**Porque la WZ es un documento certificador**. La certificación es un **acto jurídico** con fuerza ante un tribunal, la hacienda pública, un auditor. Quien firme la certificación, **asume la responsabilidad civil y tributario-penal** por la veracidad de los datos. Yo tengo habilitación ITB y seguro de RC por 250 000 zł (todos los clasificadores), y tú no. Marek firma como empleado de EGIDA, responde la organización. Tú eres **fuente de datos de medición**: eso es la **KEP-001**, tu ficha, que tiene fuerza interna (archivo, retención), pero **no sale al cliente**.»*
 
-Rustam anota en el cuaderno: «KEP-001 = interno, WZ = externo. El operador firma la KEP, la clasificadora + el capataz firman la WZ. Documentos distintos, responsabilidades distintas.»
+Mykoła anota en el cuaderno: «KEP-001 = interno, WZ = externo. El operador firma la KEP, la clasificadora + el capataz firman la WZ. Documentos distintos, responsabilidades distintas.»
 
 *«Sra. Ania, ¿cómo me siento cuando yo mida mal y usted firme la WZ con mis datos?»*
 
@@ -332,27 +332,27 @@ Rustam anota en el cuaderno: «KEP-001 = interno, WZ = externo. El operador firm
 
 *«Hoy confié en ti, **porque tu KEP-001 está rellenada de forma modélica**. La próxima vez también confiaré si recibo una KEP-001 igual de buena. **La confianza se construye con documentación**: un buen documento no basta, pero **una serie de 10 buenos documentos crea la reputación del operador**. Después de 20 documentos así dejo de verificar completamente las 10 primeras, entro directamente en muestreo. **Me acortarás el tiempo de clasificación, acortarás el tiempo de ciclo del lote, acelerarás el aserradero**. Marek lo notará y recuerda que **el suplemento del 3% a la tarifa del operador M3 por 'trabajo documental'** está en el reglamento EGIDA reg.wew.05/2024 § 7 ap. 2 para operadores que durante 6 meses tengan cero errores en la KEP-001.»*
 
-Rustam sonríe. El 3% son 150 zł brutos más en su sueldo mensual (5000 zł brutos tarifa base M3). Tras 6 meses de documentación escrupulosa.
+Mykoła sonríe. El 3% son 150 zł brutos más en su sueldo mensual (5000 zł brutos tarifa base M3). Tras 6 meses de documentación escrupulosa.
 
-### 14:45, Wahan y el reparto de responsabilidades
+### 14:45, Wasyl y el reparto de responsabilidades
 
-Wahan oye la conversación, se suma:
+Wasyl oye la conversación, se suma:
 
-*«Sra. Ania, ¿y yo? Anoto en el cuaderno, le dicto a Rustam, pero no firmo nada.»*
+*«Sra. Ania, ¿y yo? Anoto en el cuaderno, le dicto a Mykoła, pero no firmo nada.»*
 
 La Sra. Ania sonríe:
 
-*«Wahan, **el ayudante M1 no firma**. La firma es habilitación + responsabilidad. Tú no tienes habilitación porque todavía no tienes ni formación M2 ni M3. Pero **sin ti Rustam no habría hecho esas mediciones en una hora**. Tú eres **la mano del operador** que escribe. La responsabilidad formal la asume él. **Tienes responsabilidad de compañerismo**: si te equivocas en una cifra en el cuaderno y Rustam la pasa mal a la KEP-001, **responderá Rustam**, no tú. Pero **perderás tu confianza en él** y él en ti. Eso es más importante que el papel.»*
+*«Wasyl, **el ayudante M1 no firma**. La firma es habilitación + responsabilidad. Tú no tienes habilitación porque todavía no tienes ni formación M2 ni M3. Pero **sin ti Mykoła no habría hecho esas mediciones en una hora**. Tú eres **la mano del operador** que escribe. La responsabilidad formal la asume él. **Tienes responsabilidad de compañerismo**: si te equivocas en una cifra en el cuaderno y Mykoła la pasa mal a la KEP-001, **responderá Mykoła**, no tú. Pero **perderás tu confianza en él** y él en ti. Eso es más importante que el papel.»*
 
-Wahan asiente. Recoge de la mesa el cuaderno de trabajo, **cuaderno con espiral, hoja arrancada tras el registro, original al archivo del operador de EGIDA**.
+Wasyl asiente. Recoge de la mesa el cuaderno de trabajo, **cuaderno con espiral, hoja arrancada tras el registro, original al archivo del operador de EGIDA**.
 
-### 14:50, última pregunta de Rustam
+### 14:50, última pregunta de Mykoła
 
-Rustam le pregunta a la Sra. Ania antes de irse:
+Mykoła le pregunta a la Sra. Ania antes de irse:
 
 *«Sra. Ania, y el formato de la **WZ** para el cliente, ¿puedo pedirle un ejemplo para verlo con mis ojos? Hoy estoy aprendiendo algo nuevo.»*
 
-La Sra. Ania abre el archivador, saca la **WZ del lote de roble de Rustam de ayer** (emisión a DOM-STOL Warszawa por 1,2 m³ de tableros, expedida el 18.06 por la mañana por Marek). Le enseña:
+La Sra. Ania abre el archivador, saca la **WZ del lote de roble de Mykoła de ayer** (emisión a DOM-STOL Warszawa por 1,2 m³ de tableros, expedida el 18.06 por la mañana por Marek). Le enseña:
 
 ```
 === EMISIÓN EXTERNA – WZ nº EGIDA/2026/06/108 ===
@@ -408,43 +408,43 @@ Escaneo:   CRM EGIDA (archivo digital)
 Base:      § 12 ap. 3 del reglamento de calidad reg.wew.05/2024
 ```
 
-Rustam mira la WZ con atención. **Observa**: en el campo del vendedor, Marek Kowalski. En el campo de la clasificadora, la Sra. Ania. El campo del operador no existe.
+Mykoła mira la WZ con atención. **Observa**: en el campo del vendedor, Marek Kowalski. En el campo de la clasificadora, la Sra. Ania. El campo del operador no existe.
 
 *«Sra. Ania, ¿y dónde está mi rol en la WZ?»*
 
 *«Tu rol está **en la KEP-001**, que es archivo interno. La WZ es la interfaz con el cliente, ahí aparecemos nosotros dos: yo (clasificadora) y el capataz (vendedor). Tú eres **invisible en la WZ, pero clave en la KEP-001**. **Esa es la arquitectura de la responsabilidad**: cada uno visible solo donde tiene habilitación y seguro. Tú tienes habilitación de operador M3, tus datos son la KEP. Yo tengo habilitación de clasificadora, mis datos son la clasificación. Marek tiene habilitación de vendedor, sus datos son el precio y la emisión. Tres firmas, tres ámbitos de responsabilidad.»*
 
-Rustam lo anota mentalmente. Wahan asiente en dirección al armario, guarda el cuaderno de trabajo. El café se termina. La Sra. Ania se levanta.
+Mykoła lo anota mentalmente. Wasyl asiente en dirección al armario, guarda el cuaderno de trabajo. El café se termina. La Sra. Ania se levanta.
 
-*«Rustam, adiós. El próximo lote será el lunes, 4 m³ de abedul bajo el mismo contrato de MebelPro. Esta vez verificaré solo el 10%, porque tras dos buenos lotes pasamos a muestreo SPC completo. ¿Bien? Bien. Hasta la vista.»*
+*«Mykoła, adiós. El próximo lote será el lunes, 4 m³ de abedul bajo el mismo contrato de MebelPro. Esta vez verificaré solo el 10%, porque tras dos buenos lotes pasamos a muestreo SPC completo. ¿Bien? Bien. Hasta la vista.»*
 
-La Sra. Ania se marcha. Rustam cierra la KEP-001 en el archivador del operador **ZLE-2026-06-017**, anota en su cuaderno la tarea: «lunes 22.06, continuación abedul, verificación del 10% de la Sra. Ania: preparar la KEP-001 igual de bien que hoy».
+La Sra. Ania se marcha. Mykoła cierra la KEP-001 en el archivador del operador **ZLE-2026-06-017**, anota en su cuaderno la tarea: «lunes 22.06, continuación abedul, verificación del 10% de la Sra. Ania: preparar la KEP-001 igual de bien que hoy».
 
-### 14:55, Wahan y el silencio
+### 14:55, Wasyl y el silencio
 
-Wahan se queda a solas con Rustam en el patio delante de la nave:
+Wasyl se queda a solas con Mykoła en el patio delante de la nave:
 
-*«Rustam, hoy ni siquiera te has cansado. No has cortado nada. Y aun así **dices que fue un buen día**.»*
+*«Mykoła, hoy ni siquiera te has cansado. No has cortado nada. Y aun así **dices que fue un buen día**.»*
 
-Rustam sonríe:
+Mykoła sonríe:
 
-*«Wahan, **un operador M3 no es solo el que corta. Es también el que documenta**. Hoy corté 3,5 horas por la mañana, documenté durante una hora, asistí a la Sra. Ania 90 minutos. **El trabajo M3 es 60% corte, 25% documentación, 15% comunicación**. Mira a la Sra. Ania: dedica 90 minutos a la clasificación porque tenía la KEP-001 completa. Si no la hubiera tenido, 3 horas, y todo el aserradero habría estado parado más tiempo. **La documentación acelera el aserradero**, no lo ralentiza. Lo aprendí durante un año y todavía no siempre me acuerdo. Hoy Marek estará contento porque el lote saldrá a MebelPro el viernes y no el lunes.»*
+*«Wasyl, **un operador M3 no es solo el que corta. Es también el que documenta**. Hoy corté 3,5 horas por la mañana, documenté durante una hora, asistí a la Sra. Ania 90 minutos. **El trabajo M3 es 60% corte, 25% documentación, 15% comunicación**. Mira a la Sra. Ania: dedica 90 minutos a la clasificación porque tenía la KEP-001 completa. Si no la hubiera tenido, 3 horas, y todo el aserradero habría estado parado más tiempo. **La documentación acelera el aserradero**, no lo ralentiza. Lo aprendí durante un año y todavía no siempre me acuerdo. Hoy Marek estará contento porque el lote saldrá a MebelPro el viernes y no el lunes.»*
 
-Wahan cierra la nave. Rustam lleva la KEP-001 a Marek en la oficina. Marek mira la ficha:
+Wasyl cierra la nave. Mykoła lleva la KEP-001 a Marek en la oficina. Marek mira la ficha:
 
-*«Rustam, primera KEP-001 tuya. La Sra. Ania ya me dijo por teléfono que no hubo observaciones. Buen trabajo. **Desde el 01.09.2026 introducimos la KEP-001 obligatoriamente para todos los operadores M3 de EGIDA**: serás el modelo. Damian y Robert (el otro M3) también aprenderán con tu documentación. **El suplemento del 3% por trabajo documental empezará a contarse desde el 01.01.2027 si aguantas 6 meses sin errores.** Rustam, sigue así. Vete a casa.»*
+*«Mykoła, primera KEP-001 tuya. La Sra. Ania ya me dijo por teléfono que no hubo observaciones. Buen trabajo. **Desde el 01.09.2026 introducimos la KEP-001 obligatoriamente para todos los operadores M3 de EGIDA**: serás el modelo. Damian y Robert (el otro M3) también aprenderán con tu documentación. **El suplemento del 3% por trabajo documental empezará a contarse desde el 01.01.2027 si aguantas 6 meses sin errores.** Mykoła, sigue así. Vete a casa.»*
 
-Rustam vuelve a casa, por el camino le escribe un SMS a su esposa Elvira: «Hoy mi primera KEP-001 sin error. La Sra. Ania me elogió. 3% de suplemento si 6 meses sin errores.» Elvira responde: «💚 La comida está lista.»
+Mykoła vuelve a casa, por el camino le escribe un SMS a su esposa Elvira: «Hoy mi primera KEP-001 sin error. La Sra. Ania me elogió. 3% de suplemento si 6 meses sin errores.» Elvira responde: «💚 La comida está lista.»
 
 ### 15:00, fin del turno
 
-En el apartado del parte de turno de Rustam:
+En el apartado del parte de turno de Mykoła:
 
 ```
-PARTE DE TURNO 2026-06-18 (Rustam Nazarov, M3, P3 LT70)
+PARTE DE TURNO 2026-06-18 (Mykoła Hrycenko, M3, P3 LT70)
 Inicio: 07:00
 Fin: 15:00
-Presentes:  Rustam (M3, P3), Wahan (M1 ayudante P3), Sra. Ania (clasificadora 13:00-14:50)
+Presentes:  Mykoła (M3, P3), Wasyl (M1 ayudante P3), Sra. Ania (clasificadora 13:00-14:50)
             Marek (capataz oficina)
 Máquina: P3 Wood-Mizer LT70 tras servicio de rodamientos 17.06, primer turno completo OK
 Encargo: ZLE-2026-06-017 abedul BR-BR-06, 4 troncos, 78 tablas, 0,505 m³
@@ -452,7 +452,7 @@ Documentación: KEP-001 completa, entregada a la Sra. Ania 13:00, WZ nº EGIDA/2
                 firmada 14:30, lote envío lunes 22.06
 Observaciones: lote homogéneo, 100% admitido a C16 contractual, dos más cortas 3850 documentadas
 Próximo turno: viernes 19.06 ZLE-2026-06-018 pino (según disposición de Marek)
-Firma: Rustam Nazarov, 2026-06-18 15:00
+Firma: Mykoła Hrycenko, 2026-06-18 15:00
 ```
 
 ## Teoría: documentación del lote, KEP-001, WZ, reparto de responsabilidades
@@ -460,7 +460,7 @@ Firma: Rustam Nazarov, 2026-06-18 15:00
 ### Qué es la KEP-001
 
 **La Ficha de Registro de Lote (KEP-001)** es un documento interno de EGIDA, introducido en marzo de 2026 para operadores M3, que sustituye la práctica anterior de «**la clasificadora mide ella misma**». La KEP-001 es la **fuente de datos de medición** que se entrega a la clasificadora antes de clasificar, lo que:
-1. **Reduce el tiempo de clasificación** en un 30-60% (en el caso del abedul de Rustam de 3 h a 90 min).
+1. **Reduce el tiempo de clasificación** en un 30-60% (en el caso del abedul de Mykoła de 3 h a 90 min).
 2. **Reparte la responsabilidad**: el operador responde por la **medición**, la clasificadora por la **valoración de la clase**.
 3. **Crea una prueba archivística** por si hay reclamación (retención de 5 años en el archivador ZLE).
 4. **Eleva al operador M3 al rango de proveedor de datos**, no solo de procesador de materia prima.
@@ -490,7 +490,7 @@ La norma **PN-EN 13183-2 „Humedad de una muestra de madera aserrada – determ
 **Dispersión 1-3 puntos** = lote medianamente homogéneo, secado con corrección del programa.
 **Dispersión > 3 puntos** = lote no homogéneo, **selección antes del secado** (separar partidas más secas).
 
-Rustam tuvo hoy 0,6 puntos de dispersión: **muy buen resultado**.
+Mykoła tuvo hoy 0,6 puntos de dispersión: **muy buen resultado**.
 
 ### Clases de defectos visuales PN-EN 1611-1
 
@@ -504,7 +504,7 @@ Rustam tuvo hoy 0,6 puntos de dispersión: **muy buen resultado**.
 
 Las clases A y B son **comercializables**, la clase C se vende a **precio reducido**, los **rechazos** van a serrín/briqueta para calefacción.
 
-**En el caso del abedul de Rustam:** 70 tablas clase A, 6 tablas clase B (nudo), 2 tablas clase B (dimensión más corta), 0 tablas C, 0 rechazos: **100% del lote comercializable**, que es **muy buen resultado** (norma EGIDA del 90% de lote comercializable, 10% de rechazos aceptables).
+**En el caso del abedul de Mykoła:** 70 tablas clase A, 6 tablas clase B (nudo), 2 tablas clase B (dimensión más corta), 0 tablas C, 0 rechazos: **100% del lote comercializable**, que es **muy buen resultado** (norma EGIDA del 90% de lote comercializable, 10% de rechazos aceptables).
 
 ### Reparto de responsabilidades operador / clasificadora
 
@@ -546,9 +546,9 @@ Las clases A y B son **comercializables**, la clase C se vende a **precio reduci
 3. **Las dimensiones no son cuestión de memoria**: 20,1 mm vs 20,0 mm es una diferencia del 0,5%, que nadie recuerda con exactitud tras 6 horas.
 4. **Una KEP-001 retrospectiva es falsa en su fuerza probatoria**: el auditor o el fiscal en caso de reclamación judicial preguntarán: «¿cuándo se rellenó?». Si la fecha de cumplimentación es **posterior** a la fecha de medición, la KEP-001 **pierde credibilidad**.
 
-**Regla EGIDA**: la KEP-001 se rellena **durante las mediciones** (fecha = hora de medición, no hora de cumplimentación). El cuaderno de trabajo de Wahan + el paso a la KEP-001 el mismo día = **conforme a la regla** (no es «de memoria», sino «de notas del mismo día»).
+**Regla EGIDA**: la KEP-001 se rellena **durante las mediciones** (fecha = hora de medición, no hora de cumplimentación). El cuaderno de trabajo de Wasyl + el paso a la KEP-001 el mismo día = **conforme a la regla** (no es «de memoria», sino «de notas del mismo día»).
 
-### Qué ha aprendido Rustam hoy
+### Qué ha aprendido Mykoła hoy
 
 Mirando atrás al turno del 18.06:
 
@@ -596,8 +596,8 @@ Mirando atrás al turno del 18.06:
 11. ¿Por qué es un error rellenar la KEP-001 **retrospectivamente** por la tarde «de memoria»?
 12. ¿Qué es la **marca con la letra S** en una tabla y qué le dice a la clasificadora?
 13. ¿Cuál es el **papel del ayudante M1** en el proceso documental si no firma documentos?
-14. ¿Por qué las tablas 69 y 70 miden **3850 en lugar de 4050 mm**? ¿Qué ha retirado Rustam?
-15. ¿Qué **tres equipos de medición** usó Rustam hoy y por qué cada uno de ellos debe tener una **calibración** vigente?
+14. ¿Por qué las tablas 69 y 70 miden **3850 en lugar de 4050 mm**? ¿Qué ha retirado Mykoła?
+15. ¿Qué **tres equipos de medición** usó Mykoła hoy y por qué cada uno de ellos debe tener una **calibración** vigente?
 16. ¿Cuál es la **frontera entre la medición del operador y la clasificación** de la clasificadora en materia de resistencia de la madera?
 17. ¿Qué dijo la Sra. Ania sobre **la construcción de la reputación** del operador mediante la documentación? ¿Cuántos documentos hacen falta para el SPC?
 18. ¿Por qué la clasificadora ITB tiene un **seguro de RC profesional obligatorio de 250 000 zł** y el operador M3 no?

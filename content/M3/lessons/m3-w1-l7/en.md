@@ -6,15 +6,15 @@ czas: 120
 
 ## Introduction
 
-Tuesday, 2026-04-28, 5:52 in the morning. Rustam walks across the yard of the EGIDA sawmill to the main hall. The thermometer at the gatehouse reads **-12°C**. The sky is clear, the sodium lights cast an orange reflex on the frozen snow. The hall stood closed for 58 hours over the weekend. On Friday at 15:00 Piotr (afternoon shift) switched off the machines, closed the gate, set the hall thermostat to night mode: 8°C. Over the weekend the blizzard dropped to -14°C, the thermostat held 8°C inside, but the air at floor level fell to **3°C**, and near the southern wall (the windows) even to 1°C.
+Tuesday, 2026-04-28, 5:52 in the morning. Mykoła walks across the yard of the EGIDA sawmill to the main hall. The thermometer at the gatehouse reads **-12°C**. The sky is clear, the sodium lights cast an orange reflex on the frozen snow. The hall stood closed for 58 hours over the weekend. On Friday at 15:00 Piotr (afternoon shift) switched off the machines, closed the gate, set the hall thermostat to night mode: 8°C. Over the weekend the blizzard dropped to -14°C, the thermostat held 8°C inside, but the air at floor level fell to **3°C**, and near the southern wall (the windows) even to 1°C.
 
-At 5:55 Rustam enters the hall. The sliding doors open slowly, the metal of the guide rail is cold through the glove. The smell of a sawmill in winter is different from summer: less resin, more dust, cold metal, something like a hospital. He sees his own breath five metres ahead.
+At 5:55 Mykoła enters the hall. The sliding doors open slowly, the metal of the guide rail is cold through the glove. The smell of a sawmill in winter is different from summer: less resin, more dust, cold metal, something like a hospital. He sees his own breath five metres ahead.
 
-The first log of the batch (pine from the state forestry, fresh, moisture probably 50-60%) lies on the inbound ramp under a tarpaulin. Marek dispatched this batch for Rustam: batch 58, pine 120 x 50, 1800 running metres, morning shift, start 7:00. Rustam has one hour and five minutes to **wake** the machine up, run the winter start-up, and begin production at 7:00 with the first board clean.
+The first log of the batch (pine from the state forestry, fresh, moisture probably 50-60%) lies on the inbound ramp under a tarpaulin. Marek dispatched this batch for Mykoła: batch 58, pine 120 x 50, 1800 running metres, morning shift, start 7:00. Mykoła has one hour and five minutes to **wake** the machine up, run the winter start-up, and begin production at 7:00 with the first board clean.
 
-If Rustam pressed the red button at 6:55 and expected a normal cutting cycle, one of four things would happen: the band would snap in the first log (stiff from the frost, one time in three), the motor would protect itself (overload from thick oil in the gearbox), the electronics would display an error (condensation on the controller boards), or the cut would proceed with a **wavy kerf** (the band heats asymmetrically and cuts crooked). In each case the day would begin badly.
+If Mykoła pressed the red button at 6:55 and expected a normal cutting cycle, one of four things would happen: the band would snap in the first log (stiff from the frost, one time in three), the motor would protect itself (overload from thick oil in the gearbox), the electronics would display an error (condensation on the controller boards), or the cut would proceed with a **wavy kerf** (the band heats asymmetrically and cuts crooked). In each case the day would begin badly.
 
-Rustam knows this. He learned it in M2, he refreshed it at the Monday briefing. Today he performs a **winter start-up** for the first time as a self-reliant operator, without Piotr next to him. To begin he will take out card OR-OP-001 (from l6), note three risks specific to the frost, three mitigations, and only then start the procedure.
+Mykoła knows this. He learned it in M2, he refreshed it at the Monday briefing. Today he performs a **winter start-up** for the first time as a self-reliant operator, without Piotr next to him. To begin he will take out card OR-OP-001 (from l6), note three risks specific to the frost, three mitigations, and only then start the procedure.
 
 Today you will learn how to **warm up** the sawmill in winter, what to do about condensation and high humidity, how to recognise the risk of starting up after a long shutdown. This is not a "winter" lesson in a seasonal sense, it is a lesson on **unusual conditions**, which occur a few times a year and each time raise the risk if the operator ignores them.
 
@@ -41,7 +41,7 @@ Unusual conditions for a self-reliant operator group into three categories. Each
 
 **Category 3: long shutdown.** The machine has stood for more than 48 hours. At EGIDA: weekends (58-62 hours), holidays (96-120 hours), technical break (one week in August, one in December). Long shutdown means: oil has run off the cylinder walls, moisture has condensed on the boards, grease in the bearings has thickened, surface rust on the guide rails, a spider built a web in the extraction. All four factors can be put right in 20 minutes of the morning start-up.
 
-**Most common combination:** frost (cat. 1) + long shutdown (cat. 3) = Monday morning in winter. Exactly what Rustam has today. Three weekends a month in winter look like that.
+**Most common combination:** frost (cat. 1) + long shutdown (cat. 3) = Monday morning in winter. Exactly what Mykoła has today. Three weekends a month in winter look like that.
 
 ::: info
 The fourth trigger for the operation risk assessment (from l6 we had three: new species, new dimension, replacement) is **unusual conditions**. Add it to your list in your notebook. A Monday start-up in the frost always triggers card OR-OP-001, even if the species and dimension are your routine ones. Fifteen minutes of filling in the card before the first log is an investment in a whole week of safe production.
@@ -49,32 +49,32 @@ The fourth trigger for the operation risk assessment (from l6 we had three: new 
 
 ### Winter start-up of P3: five steps with minimum time
 
-At 5:57 Rustam enters the main hall, switches on the light, puts his backpack in the cubicle by the P3 control panel. He takes off winter gloves (woollen with a thermal insert), puts on work gloves (leather with fleece). He opens the document cabinet, takes out card OR-OP-001 and the Wood-Mizer LT70 operating manual (copied, laminated, hanging on a hook). 6:00.
+At 5:57 Mykoła enters the main hall, switches on the light, puts his backpack in the cubicle by the P3 control panel. He takes off winter gloves (woollen with a thermal insert), puts on work gloves (leather with fleece). He opens the document cabinet, takes out card OR-OP-001 and the Wood-Mizer LT70 operating manual (copied, laminated, hanging on a hook). 6:00.
 
-**Step 1: hall inspection (5 minutes).** Hall temperature on the wall thermometer: **+8°C at the wall, +3°C at the floor** (Rustam squats, reads the floor-level thermometer at P3). Humidity: **72% RH**. Lighting: on as standard. Extraction: off (night break), Rustam switches it on. Floor: mostly dry, a wet patch 2 x 2 m near the western wall (roof condensate? Rustam will note this). Walkway clear, no slip hazard.
+**Step 1: hall inspection (5 minutes).** Hall temperature on the wall thermometer: **+8°C at the wall, +3°C at the floor** (Mykoła squats, reads the floor-level thermometer at P3). Humidity: **72% RH**. Lighting: on as standard. Extraction: off (night break), Mykoła switches it on. Floor: mostly dry, a wet patch 2 x 2 m near the western wall (roof condensate? Mykoła will note this). Walkway clear, no slip hazard.
 
 Conclusion: category 1 (frost) not present (+3°C at the floor is within the boundary, the -5°C limit applies to air), category 2 (high humidity) borderline (72%, limit 85%), category 3 (long shutdown) YES (58 hours from Friday).
 
-**Step 2: warming up the P3 gearbox (10 minutes without load).** This is the step operators **most often skip**, and which protects the saw from most morning problems. Rustam switches on the main power (6:05), but does **not** yet start the main motor. He starts only the **gearbox oil pump** ("oil pre-warm" button on the Wood-Mizer control panel, green light on). The pump circulates oil through the gearbox for 10 minutes, oil temperature rises from +3°C to +18°C (thermometer on the control panel). Meanwhile Rustam does something else: **he removes the tarpaulin from the log**, checks its temperature (hand through the glove), it is icy, estimate -5°C to -2°C at the core.
+**Step 2: warming up the P3 gearbox (10 minutes without load).** This is the step operators **most often skip**, and which protects the saw from most morning problems. Mykoła switches on the main power (6:05), but does **not** yet start the main motor. He starts only the **gearbox oil pump** ("oil pre-warm" button on the Wood-Mizer control panel, green light on). The pump circulates oil through the gearbox for 10 minutes, oil temperature rises from +3°C to +18°C (thermometer on the control panel). Meanwhile Mykoła does something else: **he removes the tarpaulin from the log**, checks its temperature (hand through the glove), it is icy, estimate -5°C to -2°C at the core.
 
 ::: warning
 Without warming up the gearbox the oil is thick, the oil pump circulates more slowly, and the main motor at start-up loads the gearbox with full torque in cold oil. Result: after a year of such starts the gearbox bearing begins to heat unevenly, after three years it needs replacement. The cost of replacing the gearbox in a Wood-Mizer LT70: about 18,000 PLN. The cost of 10 minutes of oil warming per day: 0 PLN. The maths is one-sided.
 :::
 
-**Step 3: flushing the hydraulics (5 minutes at low load).** 6:15. Rustam starts the main motor at **idling**. The Wood-Mizer LT70 has a 44 kW diesel motor, at idling about 1000 rpm, the hydraulic pump turns, hydraulic oil (carriage, guide rails, log clamp) circulates. Rustam walks around the machine, listening: bearings quiet, no vibrations, no knocking. The hydraulic pressure gauge rises from 1200 PSI (cold) to 2100 PSI (operating) over five minutes. If the pressure does not rise or rises in jumps: the hydraulic oil has condensation water in it, stop the start-up, change the oil.
+**Step 3: flushing the hydraulics (5 minutes at low load).** 6:15. Mykoła starts the main motor at **idling**. The Wood-Mizer LT70 has a 44 kW diesel motor, at idling about 1000 rpm, the hydraulic pump turns, hydraulic oil (carriage, guide rails, log clamp) circulates. Mykoła walks around the machine, listening: bearings quiet, no vibrations, no knocking. The hydraulic pressure gauge rises from 1200 PSI (cold) to 2100 PSI (operating) over five minutes. If the pressure does not rise or rises in jumps: the hydraulic oil has condensation water in it, stop the start-up, change the oil.
 
 Today the pressure rises evenly, at 6:20 shows 2100 PSI stable. Hydraulics awakened.
 
-**Step 4: running the band without load (5 minutes).** 6:20. Rustam mounts the band (checks it before mounting: finger along the teeth, no microcracks, the set is even, the previous shift left it washed), tensions it to 2300 PSI, runs the band without a log. The band runs for 5 minutes **without cutting**, to warm up by friction on the guide rollers. After 5 minutes he touches the band carefully (short touch, leather glove), temperature noticeably higher than the air, about +15°C. Band ready for the first cut.
+**Step 4: running the band without load (5 minutes).** 6:20. Mykoła mounts the band (checks it before mounting: finger along the teeth, no microcracks, the set is even, the previous shift left it washed), tensions it to 2300 PSI, runs the band without a log. The band runs for 5 minutes **without cutting**, to warm up by friction on the guide rollers. After 5 minutes he touches the band carefully (short touch, leather glove), temperature noticeably higher than the air, about +15°C. Band ready for the first cut.
 
-**Step 5: trial log (5 minutes + assessment).** 6:25. Rustam does not start with full production, but with a **trial log**. He takes the smallest log from the batch (33 cm diameter, the shortest, 2.8 m), sets it on the carriage, starts the cut. He sets the feed rate at **half the standard** (7 m/min instead of 14 m/min). The first board comes out. Rustam looks at it, touches it with his hand, listens to the machine:
+**Step 5: trial log (5 minutes + assessment).** 6:25. Mykoła does not start with full production, but with a **trial log**. He takes the smallest log from the batch (33 cm diameter, the shortest, 2.8 m), sets it on the carriage, starts the cut. He sets the feed rate at **half the standard** (7 m/min instead of 14 m/min). The first board comes out. Mykoła looks at it, touches it with his hand, listens to the machine:
 
 - The board is **clean**, the kerf is even, the thickness of 50 mm is stable on a caliper measurement. Visually compliant.
 - The sound of the machine is uniform, no "jumping" of the band.
 - The vibrations felt through the control panel with the hand: low, stable, nothing worrying.
 - Gearbox temperature (thermometer on the control panel): +28°C, within the operating range.
 
-Rustam's conclusion: the machine is properly awakened. He raises the feed rate to the standard 14 m/min, sets the first production log on the carriage. 6:35. Production starts 25 minutes before the formal time (7:00), which means the shift has a buffer, and Rustam is not stressed about the first hour.
+Mykoła's conclusion: the machine is properly awakened. He raises the feed rate to the standard 14 m/min, sets the first production log on the carriage. 6:35. Production starts 25 minutes before the formal time (7:00), which means the shift has a buffer, and Mykoła is not stressed about the first hour.
 
 ::: tip
 The first log on Monday **always** goes at half feed, even if you performed the procedure perfectly. This is a test, not production. If something is not right (the band jumps, the sound is uneven, the board is wavy), you stop, diagnose, go back. If everything is in order, you raise the feed rate to the standard. The loss on the first log: 4 minutes. The gain from avoiding an error: a whole day. The ratio is not to be rejected.
@@ -89,39 +89,39 @@ The operating manual (original in English, Polish translation in Marek's cabinet
 - **Frozen log (core temperature below 0°C):** permitted, but maximum feed rate 10 m/min (instead of 14), the power drawn by the motor rises by about 20%, band wear by about 30%. With a log at -8°C oak cuts like "stone" (a quote from the manual, "like stone").
 - **Relative humidity:** limit 90% RH. Above this you must wait for the hall to dry out (open the lower gate, switch on the drying fan, time 20-40 minutes).
 
-For Rustam today: the hall is +3°C at the floor (above the limit of -5°C), +72% RH (below the limit of 90%). All conditions are within norm. The 15-minute procedure is enough.
+For Mykoła today: the hall is +3°C at the floor (above the limit of -5°C), +72% RH (below the limit of 90%). All conditions are within norm. The 15-minute procedure is enough.
 
-If the hall were +1°C and 88% RH (borderline) or -2°C in the air (below the -5°C limit), Rustam would perform the 45-minute procedure. If the hall were -6°C (outside the limit for standard oil), Rustam would **refuse to start** until Marek either switched the oil to winter oil or heated the hall with an air heater (EGIDA has two mobile heaters, 50 kW each, in the technical cabinet, the procedure of heating the hall from -6°C to +5°C: 90 minutes).
+If the hall were +1°C and 88% RH (borderline) or -2°C in the air (below the -5°C limit), Mykoła would perform the 45-minute procedure. If the hall were -6°C (outside the limit for standard oil), Mykoła would **refuse to start** until Marek either switched the oil to winter oil or heated the hall with an air heater (EGIDA has two mobile heaters, 50 kW each, in the technical cabinet, the procedure of heating the hall from -6°C to +5°C: 90 minutes).
 
 ### Risk of condensation on the electronics
 
 This is the most hidden risk of unusual conditions, and the self-reliant operator **has to** understand it, because the electronic controller does not warn of water damage.
 
-**When condensation forms.** The machine stood in a cold hall (+3°C), the air has high humidity (80% RH). Rustam switches on the power, the electronics begin to heat (circuit board, processor, power supplies). The board temperature quickly rises to +30°C. The air around remains at +3°C. **A difference of 27°C.** Moisture condenses on the cooler elements of the housing and drips onto the board.
+**When condensation forms.** The machine stood in a cold hall (+3°C), the air has high humidity (80% RH). Mykoła switches on the power, the electronics begin to heat (circuit board, processor, power supplies). The board temperature quickly rises to +30°C. The air around remains at +3°C. **A difference of 27°C.** Moisture condenses on the cooler elements of the housing and drips onto the board.
 
 Effects visible immediately: error E-07 (power supply short circuit), cyclic reset of the controller, incorrect sensor readings. Effects visible later: electrolytic corrosion on the tracks, failure after a week, replacement of the controller board (cost 4,200 PLN).
 
 **How to prevent it.** Two ways. First: **let the machine stand for an hour in the hall** before switching on the power. The housing temperature equalises with the air, condensation does not form. Second: if you do not have an hour, **switch on the heating of the controller housing** (P3 has a built-in electric heater, the "control box heating" option in the panel menu). The heater warms the housing from inside, moisture evaporates before condensing on the board.
 
 ::: warning
-After a long shutdown in a cold hall **the first thing** after entering is not to switch on the power, but to switch on the heating of the controller housing (if there is one) or to wait for an hour. At EGIDA the standard is that security (on duty 24/7 at the gatehouse) switches on the housing heating of all machines at 5:00 in the morning, that is, one hour before the first shift. When Rustam enters at 5:55, the housings are already at about +15°C, condensation is impossible. Check at your plant whether this standard exists. If not, ask the foreman to introduce it.
+After a long shutdown in a cold hall **the first thing** after entering is not to switch on the power, but to switch on the heating of the controller housing (if there is one) or to wait for an hour. At EGIDA the standard is that security (on duty 24/7 at the gatehouse) switches on the housing heating of all machines at 5:00 in the morning, that is, one hour before the first shift. When Mykoła enters at 5:55, the housings are already at about +15°C, condensation is impossible. Check at your plant whether this standard exists. If not, ask the foreman to introduce it.
 :::
 
 ### Frozen log: how the cutting changes
 
-The material is the other side of unusual conditions. A log that lay on the yard over the weekend at -14°C has a surface temperature of -12°C, a core of about -8°C (wood is a good insulator). When it enters the +3°C hall, the core reaches 0°C only after 4-6 hours, +3°C after 12-18 hours. So Rustam usually cuts a **frozen log**, not a thawed one.
+The material is the other side of unusual conditions. A log that lay on the yard over the weekend at -14°C has a surface temperature of -12°C, a core of about -8°C (wood is a good insulator). When it enters the +3°C hall, the core reaches 0°C only after 4-6 hours, +3°C after 12-18 hours. So Mykoła usually cuts a **frozen log**, not a thawed one.
 
 **Changes in cutting frozen wood:**
 
 - **Water in the growth ring is frozen.** Fresh wood (pine at 50% moisture) has water in the vessels and cell walls. At -8°C that water is **ice**. The band entering the ice meets resistance about 1.5-2 times higher than in positive-temperature wood.
 - **Stiffer fibres.** Frozen wood is **stiffer** (bending strength +20-30%) but **less plastic** (tensile strength across the grain reduced). Result: a frozen log **breaks more easily** under the clamp, the kerf is **more brittle** (edge splinters instead of a smooth cut).
-- **The band dulls faster.** Ice in the growth ring acts like fine abrasive on the teeth. Stellite tips hold well, but the side edges wear faster. On a frozen day Rustam should change the band after **120 logs** instead of the standard **180**.
+- **The band dulls faster.** Ice in the growth ring acts like fine abrasive on the teeth. Stellite tips hold well, but the side edges wear faster. On a frozen day Mykoła should change the band after **120 logs** instead of the standard **180**.
 - **Motor power rises.** For the Wood-Mizer LT70 with a frozen log the motor runs at 75-85% of rated power, instead of the standard 60-70%. If you do not reduce the feed, the electronics activate the overload protection and interrupt the cut.
 
-**Marek's practical rule:** "frozen oak cuts like stone, frozen pine like hardwood". For Rustam: with frozen oak he **refuses** standard work, asks for thawing (minimum 18 hours in a +8°C hall) or a shift target reduced by 40%. With frozen pine he **works**, but at 10 m/min and changes the band after 120 logs.
+**Marek's practical rule:** "frozen oak cuts like stone, frozen pine like hardwood". For Mykoła: with frozen oak he **refuses** standard work, asks for thawing (minimum 18 hours in a +8°C hall) or a shift target reduced by 40%. With frozen pine he **works**, but at 10 m/min and changes the band after 120 logs.
 
 ::: example
-Three years ago at EGIDA Bartek (the one from l6, Rustam's colleague from the crew) tried to cut frozen oak at the standard pace. The first log went with difficulty, but it went through. The second one stopped the motor (overload), Bartek tried to restart, it stopped again, in the end he interrupted the cut. The third one cracked under the clamp (the log was **too brittle** from the frost), the rebounding chunk hit the guard. Bartek reported it to Marek, Marek stopped the batch, thawed the logs, they went back to work the next day. Loss: 6 working hours, cost 2,800 PLN. Lesson: **frozen oak is not oak**, it is a different technological material.
+Three years ago at EGIDA Bartek (the one from l6, Mykoła's colleague from the crew) tried to cut frozen oak at the standard pace. The first log went with difficulty, but it went through. The second one stopped the motor (overload), Bartek tried to restart, it stopped again, in the end he interrupted the cut. The third one cracked under the clamp (the log was **too brittle** from the frost), the rebounding chunk hit the guard. Bartek reported it to Marek, Marek stopped the batch, thawed the logs, they went back to work the next day. Loss: 6 working hours, cost 2,800 PLN. Lesson: **frozen oak is not oak**, it is a different technological material.
 :::
 
 ### High humidity: when the blade does not move
@@ -131,29 +131,29 @@ The second category (high humidity, above 85% RH) appears more often in spring a
 **Risks:**
 
 - **Slips on the floor.** Condensation on concrete creates a thin film of water. An operator running to the emergency mushroom may slip. Mitigation: a spread of technical salt (Marek's store) on critical pathways, an anti-slip mat on the outfeed ramp.
-- **Surface corrosion.** The band guide rails cover with rust in 24 hours of high humidity. Rustam has to clean the guide rails before start-up: a cloth with machine oil, wipe to a shine, two minutes.
+- **Surface corrosion.** The band guide rails cover with rust in 24 hours of high humidity. Mykoła has to clean the guide rails before start-up: a cloth with machine oil, wipe to a shine, two minutes.
 - **Electronics failure.** Same as in the frost: condensation on the controller boards. Mitigation as above: an hour of waiting or the housing heating.
-- **The material takes on moisture.** Logs brought from the forest after rain have 65-70% moisture instead of the typical 50%. The sawn timber coming out of this log will also be more humid, Rustam notes this in the batch documentation (requires longer drying).
+- **The material takes on moisture.** Logs brought from the forest after rain have 65-70% moisture instead of the typical 50%. The sawn timber coming out of this log will also be more humid, Mykoła notes this in the batch documentation (requires longer drying).
 
 ### Refusal of work when conditions exceed the limit
 
-Rustam knows from l3 (art. 210 of the Polish Labour Code) that he has the right to refuse work if conditions directly threaten life or health. Unusual conditions exceeding the manufacturer's limit are one such situation. When exactly does Rustam refuse?
+Mykoła knows from l3 (art. 210 of the Polish Labour Code) that he has the right to refuse work if conditions directly threaten life or health. Unusual conditions exceeding the manufacturer's limit are one such situation. When exactly does Mykoła refuse?
 
-**Situation 1: hall below the limit for standard oil (-5°C in the air).** Rustam checks P3, it shows -6°C. Standard oil thickens, gearbox damage risk is real. Rustam to Marek: "Marek, -6°C at P3, standard oil limit is -5°C. I am not starting up until the hall is heated or the oil changed to winter oil." Marek starts the air heater (90 minutes), Rustam waits. Production starts 90 minutes later, but the gearbox will survive.
+**Situation 1: hall below the limit for standard oil (-5°C in the air).** Mykoła checks P3, it shows -6°C. Standard oil thickens, gearbox damage risk is real. Mykoła to Marek: "Marek, -6°C at P3, standard oil limit is -5°C. I am not starting up until the hall is heated or the oil changed to winter oil." Marek starts the air heater (90 minutes), Mykoła waits. Production starts 90 minutes later, but the gearbox will survive.
 
-**Situation 2: humidity above the manufacturer's limit (90% RH) and no drying ventilation.** Rustam sees 93% on the hygrometer. Risk to the electronics. He informs Marek. Marek switches on the drying fan (EGIDA has two, 5 kW each), waits 40 minutes, humidity falls to 82%. Production starts.
+**Situation 2: humidity above the manufacturer's limit (90% RH) and no drying ventilation.** Mykoła sees 93% on the hygrometer. Risk to the electronics. He informs Marek. Marek switches on the drying fan (EGIDA has two, 5 kW each), waits 40 minutes, humidity falls to 82%. Production starts.
 
-**Situation 3: frozen oak log with no possibility of thawing.** Rustam sees on the ramp oak logs covered with hoarfrost, surface temperature -12°C. Marek orders "today oak on the morning shift". Rustam: "Marek, frozen oak is at the limit of the saw, risk of damaging the band and the material, I ask for a day of thawing or a change to pine from another order". Marek changes the batch order: oak on Wednesday (after 48 hours in the hall), Rustam cuts pine today.
+**Situation 3: frozen oak log with no possibility of thawing.** Mykoła sees on the ramp oak logs covered with hoarfrost, surface temperature -12°C. Marek orders "today oak on the morning shift". Mykoła: "Marek, frozen oak is at the limit of the saw, risk of damaging the band and the material, I ask for a day of thawing or a change to pine from another order". Marek changes the batch order: oak on Wednesday (after 48 hours in the hall), Mykoła cuts pine today.
 
-In all three situations Rustam's refusal is **professional and justified**, not panicky. Rustam does not say "I am afraid". He cites **a specific number** (-6°C, 93% RH, oak at -12°C), **a specific limit from the manual**, and **proposes an alternative** (heater, fan, change of batch). That is the difference between a protected refusal (art. 210 of the Polish Labour Code) and a capricious one.
+In all three situations Mykoła's refusal is **professional and justified**, not panicky. Mykoła does not say "I am afraid". He cites **a specific number** (-6°C, 93% RH, oak at -12°C), **a specific limit from the manual**, and **proposes an alternative** (heater, fan, change of batch). That is the difference between a protected refusal (art. 210 of the Polish Labour Code) and a capricious one.
 
 ::: info
 Art. 210 § 2 of the Polish Labour Code gives you the right to **refrain from carrying out work** in a direct threat, with the duty to notify the superior. Unusual conditions exceeding the manufacturer's limit are a direct threat to the operator's health (a potential blow from the clamp of a broken log, a slip on a condensation-covered floor) or to property (gearbox, controller). Your notification to Marek is required formally and operationally. Without it a refusal hangs in a vacuum. With it, it is an element of the EGIDA procedure.
 :::
 
-### Unusual conditions in the OR-OP card: example for Rustam
+### Unusual conditions in the OR-OP card: example for Mykoła
 
-Rustam filled in card OR-OP-001 at 5:58 in the morning, before starting the procedure. Three risks specific to today's start-up:
+Mykoła filled in card OR-OP-001 at 5:58 in the morning, before starting the procedure. Three risks specific to today's start-up:
 
 > **Operation:** winter start-up of P3 after the weekend (58 h shutdown), pine 120 x 50, 1800 running metres
 >
@@ -172,7 +172,7 @@ Rustam filled in card OR-OP-001 at 5:58 in the morning, before starting the proc
 > Mitigation of R2: heating the controller housing (the green light) before the main power
 > Mitigation of R3: floor inspection in step 1, spread of salt if condensation present (it is not today)
 
-This card goes into the OR-OP folder in Marek's cabinet at 6:40 (after the first production log, Rustam delivers a copy). Rustam receives the usual rate for the working time spent filling in the card (15 minutes), because the card is part of the operation risk assessment in accordance with PN-N-18002 § 7.3 (the employer's duty to ensure risk assessment, work connected with the assessment is working time).
+This card goes into the OR-OP folder in Marek's cabinet at 6:40 (after the first production log, Mykoła delivers a copy). Mykoła receives the usual rate for the working time spent filling in the card (15 minutes), because the card is part of the operation risk assessment in accordance with PN-N-18002 § 7.3 (the employer's duty to ensure risk assessment, work connected with the assessment is working time).
 
 ### What you do at the end of the shift: the state of the machine on Friday evening
 
@@ -185,7 +185,7 @@ This is the other side of unusual conditions: **what to do** for the machine to 
 5. **Put the tarpaulin on the logs on the ramp** (if the logs stay). Protection from weekend rain, from direct frost.
 6. **Close the inbound gate.** Keeps the heat of the hall in, reduces night humidity.
 
-Piotr (Friday afternoon shift) did this on Friday 24 April. Without his evening procedure, Rustam's Monday start-up would have been twice as long. This is an **exchange** between shifts: you do the sunset for me, I do the sunrise for you.
+Piotr (Friday afternoon shift) did this on Friday 24 April. Without his evening procedure, Mykoła's Monday start-up would have been twice as long. This is an **exchange** between shifts: you do the sunset for me, I do the sunrise for you.
 
 ### Summary of lesson seven
 
@@ -199,7 +199,7 @@ Frozen log: the band dulls faster (120 logs instead of 180), motor power higher 
 
 Refusal of work (art. 210 of the Polish Labour Code) outside the manufacturer's limit: with a specific number, a specific limit, a proposed alternative. Professional, not capricious.
 
-Tomorrow in l8, the last lesson of week 1 of M3, you move to the other side of the self-reliant operator's responsibility: **workstation instruction for the helper (M1)**. Wahan Petrosjan will be at your workstation on Monday.
+Tomorrow in l8, the last lesson of week 1 of M3, you move to the other side of the self-reliant operator's responsibility: **workstation instruction for the helper (M1)**. Wasyl Melnyk will be at your workstation on Monday.
 
 ## Key terms
 
@@ -282,17 +282,17 @@ Over the next two weeks in your sawmill:
 
 - **Ask the foreman for the operating manual** of your saw (in Polish, if available; if not, ask for a translation of the section "cold-weather start-up"). Find the specific temperature and humidity limit for your machine. Write them down in your notebook. They will serve you to the end of your career.
 - **On the first Monday of the month** enter the hall one hour before the shift and measure: the hall temperature at the wall, the temperature at the floor, the humidity. Write it down in your notebook. After three months you will have a map of conditions in the hall across the seasons.
-- **On a day with a level of -5°C or lower** fill in the OR-OP-001 card for a winter start-up. Note the three risks you saw, and the three mitigations you applied. Compare with Rustam's card from the lesson.
+- **On a day with a level of -5°C or lower** fill in the OR-OP-001 card for a winter start-up. Note the three risks you saw, and the three mitigations you applied. Compare with Mykoła's card from the lesson.
 - **Observe coworkers at other workstations:** how P1, P2, circular saws warm up after a weekend. Every machine has its own procedure, but all share the principle "5 steps, first log at half the feed rate". See how it looks at your circular saw.
 - **At the end of the Friday shift** practise the six tasks of preparing for the weekend. In the third week the exercise is already a reflex. After six months you do it in five minutes, invisibly.
 
-Tomorrow in l8 is the last lesson of week 1 of M3. Workstation instruction for the M1 helper. Wahan Petrosjan will come to you at P3 on Monday in a week's time, and you will be responsible for his safety until the end of the shift. Today you learned how to wake the machine up. Tomorrow, how to wake a coworker up to work with it.
+Tomorrow in l8 is the last lesson of week 1 of M3. Workstation instruction for the M1 helper. Wasyl Melnyk will come to you at P3 on Monday in a week's time, and you will be responsible for his safety until the end of the shift. Today you learned how to wake the machine up. Tomorrow, how to wake a coworker up to work with it.
 
 ## Instructor notes
 
-- **120 min rhythm (proposed):** 10 min Introduction + Objectives; 10 min three categories of unusual conditions (board, examples from trainees' lives); 25 min five steps of the winter start-up (saw diagram if available; Rustam's scene read step by step); 10 min manufacturer's limits Wood-Mizer LT70 (reading an extract, discussion: "are the limits the same on your saw?"); 15 min risk of condensation on the electronics (two mitigations, discussion: "what does your plant do systemically?"); 15 min frozen log (change in cutting, Marek's rule, Bartek's scene); 10 min refusal of work outside the limit (art. 210 of the Polish Labour Code, three examples); 10 min the OR-OP card for unusual conditions (filled in together for a hypothetical situation); 10 min end of the Friday shift (six tasks, discussion); 5 min Key terms, summary, preview of l8.
+- **120 min rhythm (proposed):** 10 min Introduction + Objectives; 10 min three categories of unusual conditions (board, examples from trainees' lives); 25 min five steps of the winter start-up (saw diagram if available; Mykoła's scene read step by step); 10 min manufacturer's limits Wood-Mizer LT70 (reading an extract, discussion: "are the limits the same on your saw?"); 15 min risk of condensation on the electronics (two mitigations, discussion: "what does your plant do systemically?"); 15 min frozen log (change in cutting, Marek's rule, Bartek's scene); 10 min refusal of work outside the limit (art. 210 of the Polish Labour Code, three examples); 10 min the OR-OP card for unusual conditions (filled in together for a hypothetical situation); 10 min end of the Friday shift (six tasks, discussion); 5 min Key terms, summary, preview of l8.
 
-- **Pedagogical trap no. 1: trainees from warm countries** (the Middle East, North Africa, Latin America) have zero experience with frost. "-10°C in the air" is abstract to them. Demonstrate with concrete things: coffee cold in a cup after five minutes, breath visible in the hall, frozen vapour on a window. Ask trainees from Ukraine or Belarus to share their experience. They know how frost affects metal, oil, the skin of the hands. Intra-group pedagogy is the most effective one.
+- **Pedagogical trap no. 1: trainees from warm countries** (Colombia, Venezuela, Peru, Bolivia, Honduras, the Dominican Republic) have zero experience with frost. "-10°C in the air" is abstract to them. Demonstrate with concrete things: coffee cold in a cup after five minutes, breath visible in the hall, frozen vapour on a window. Ask trainees from Ukraine to share their experience. They know how frost affects metal, oil, the skin of the hands. Intra-group pedagogy is the most effective one.
 
 - **Pedagogical trap no. 2: "manufacturer's limit" as a fetish.** Some trainees may treat the -5°C limit as a law of physics. Explain: this is the limit of the **oil**, not the wood. If you change to winter oil (ISO VG 32), the boundary shifts to -15°C. The limit is always connected to a **specific technological element**. The self-reliant operator reads the manual, understands the reason for the limit, and knows when the limit does not apply (e.g. after heating the hall with a heater).
 
@@ -308,4 +308,4 @@ Tomorrow in l8 is the last lesson of week 1 of M3. Workstation instruction for t
 
 - **Winter oil in Polish practice.** Not every plant has winter oil in stock before the first frosts. Typical sequence of errors: November -2°C, standard oil still OK. December, first -8°C, gearboxes work with thick oil. January, gearbox running noisily, operator ignores. February failure. Tell the trainees: ask the foreman in **October** whether winter oil is in stock. If not, that is information you pass to the shift master. The self-reliant operator has the **role of an antenna**, not only of an executor.
 
-- **Link to l8 (instruction for the helper):** in l8 the helper Wahan will come to you. In winter the workstation instruction **covers the winter start-up**. You cannot perform the winter start-up "together with the helper standing next to you and watching". During the start-up the helper stands **outside the zone** (behind the barrier, 2 m from the saw), because the start-up is an operator's activity, the helper assists only from the production log onward. Mention this tomorrow, during Wahan's instruction.
+- **Link to l8 (instruction for the helper):** in l8 the helper Wasyl will come to you. In winter the workstation instruction **covers the winter start-up**. You cannot perform the winter start-up "together with the helper standing next to you and watching". During the start-up the helper stands **outside the zone** (behind the barrier, 2 m from the saw), because the start-up is an operator's activity, the helper assists only from the production log onward. Mention this tomorrow, during Wasyl's instruction.

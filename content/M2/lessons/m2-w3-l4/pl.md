@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Czwartek, 7:00, hala tarczowa tartaku Fundacji EGIDA. Oleksii spędził trzy poprzednie dni przy pilarce taśmowej Wood-Mizer LT40 numer dwa: poniedziałek uruchamianie, wtorek regulacja rolek, środa pierwsze cięcie produkcyjne dębu. Dzisiaj zmiana stanowiska. Marek prowadzi go w drugą stronę hali, do **okrawiarki Storti DDM-200** – urządzenia, które obrabia tarcicę nieobrzynaną przychodzącą właśnie z pilarki taśmowej. Deski dębowe 150 × 25 × 3000 mm, które Oleksii ciął we środę, leżą spakowane na wózku: mają oblinę z dwóch stron (krawędzie z korą), trzeba je obrzynać na prostokątny przekrój. Tutaj kończy się pilarka taśmowa, zaczyna tarczowa.
+Czwartek, 7:00, hala tarczowa tartaku Fundacji EGIDA. Oleksij spędził trzy poprzednie dni przy pilarce taśmowej Wood-Mizer LT40 numer dwa: poniedziałek uruchamianie, wtorek regulacja rolek, środa pierwsze cięcie produkcyjne dębu. Dzisiaj zmiana stanowiska. Marek prowadzi go w drugą stronę hali, do **okrawiarki Storti DDM-200** – urządzenia, które obrabia tarcicę nieobrzynaną przychodzącą właśnie z pilarki taśmowej. Deski dębowe 150 × 25 × 3000 mm, które Oleksij ciął we środę, leżą spakowane na wózku: mają oblinę z dwóch stron (krawędzie z korą), trzeba je obrzynać na prostokątny przekrój. Tutaj kończy się pilarka taśmowa, zaczyna tarczowa.
 
-Na pierwszy rzut oka okrawiarka wygląda zupełnie inaczej niż pilarka taśmowa: zamiast długiej pionowej taśmy krążącej na dwóch kołach widać **dwie tarcze poziome o średnicy 350 mm**, ustawione równolegle w odległości około 130 mm od siebie, wystające na 40 mm ponad stół podawczy. Materiał wjeżdża na przenośniku rolkowym pomiędzy tarcze, wyjeżdża obrzynany po obu stronach w jednym przejściu. Marek podaje Oleksiiemu popychacz drewniany długości 500 mm i mówi: „Tarczówka wzdłużna. Te same zasady co taśmowa – sprawdź, uruchom, podaj – ale z trzema różnicami. **Klin rozszczepiający, osłona nastawna, popychacz**. Bez tych trzech nie podejdziesz do tarczy."
+Na pierwszy rzut oka okrawiarka wygląda zupełnie inaczej niż pilarka taśmowa: zamiast długiej pionowej taśmy krążącej na dwóch kołach widać **dwie tarcze poziome o średnicy 350 mm**, ustawione równolegle w odległości około 130 mm od siebie, wystające na 40 mm ponad stół podawczy. Materiał wjeżdża na przenośniku rolkowym pomiędzy tarcze, wyjeżdża obrzynany po obu stronach w jednym przejściu. Marek podaje Oleksijowi popychacz drewniany długości 500 mm i mówi: „Tarczówka wzdłużna. Te same zasady co taśmowa – sprawdź, uruchom, podaj – ale z trzema różnicami. **Klin rozszczepiający, osłona nastawna, popychacz**. Bez tych trzech nie podejdziesz do tarczy."
 
 Ta lekcja wprowadza **pilarkę tarczową** jako drugie po pilarce taśmowej stanowisko przetwarzania drewna, do którego masz dostęp pod nadzorem. Okrawiarka to **pilarka tarczowa wzdłużna** – tnie w kierunku włókien, po długości deski. Pilarka tarczowa **poprzeczna** (cross-cut) tnie w poprzek włókien i służy do skracania dłużyc lub tarcicy na zadane długości. Dwie konstrukcje, jedno pryncypium cięcia (obracająca się tarcza z ostrzami), ale inne geometrie ryzyka.
 
@@ -47,7 +47,7 @@ Po tej lekcji:
 
 Pilarka tarczowa wzdłużna ma **dwie osłony**: **stałą** (zakrywa tylną, nieaktywną część tarczy) i **nastawną** (opuszcza się na materiał, zakrywa tarczę w miejscu aktywnym). Osłona nastawna zasłania dłoń operatora przed wiórami i odpryskami, a przy drobnym odrzucie pełni rolę ekranu.
 
-Zasada ustawienia: **szczelina nie większa niż 5 mm ponad materiał**. Wyżej – okno, w które może trafić dłoń lub wiór. Leży na materiale – tarcie blokuje ruch, operator podnosi i „zapomina" opuścić. Oleksii na okrawiarce Storti sprawdza to tak: kładzie deskę 25 mm pod tarczą, opuszcza osłonę do kontaktu, podnosi o szczelinę papieru (≤1 mm).
+Zasada ustawienia: **szczelina nie większa niż 5 mm ponad materiał**. Wyżej – okno, w które może trafić dłoń lub wiór. Leży na materiale – tarcie blokuje ruch, operator podnosi i „zapomina" opuścić. Oleksij na okrawiarce Storti sprawdza to tak: kładzie deskę 25 mm pod tarczą, opuszcza osłonę do kontaktu, podnosi o szczelinę papieru (≤1 mm).
 
 **Prawo**: § 11 rozporządzenia z 14.04.2000 r. wymaga szczeliny nieprzekraczającej wartości niezbędnej dla pracy. Praktyka polska: maksymalnie 5 mm.
 
@@ -59,7 +59,7 @@ Procedura jest **analogiczna do pilarki taśmowej** (lekcja 1 tego tygodnia), al
 
 **Krok 2: Kontrola klina rozszczepiającego (20 sekund).** Odległość 2–10 mm od tarczy (liniałka z podziałką milimetrową, Marek ma taką na pulpicie), wysokość 2–5 mm poniżej najwyższego zęba (wzrokowo), grubość tabliczki klina zgodna z tabliczką tarczy, dwie śruby M10 z kontrą dokręcone.
 
-**Krok 3: Test wyłącznika STOP (10 sekund).** Grzybek na pulpicie okrawiarki – wystaje 30 mm w pozycji gotowej, zablokowany 10 mm po naciśnięciu. Oleksii robi test bez uruchamiania tarczy: nacisk, odblokowanie, nacisk, odblokowanie. **Lewa dłoń na STOP zanim prawa na START** – nawyk mechaniczny z lekcji 3 tygodnia 1, wraca na każdej maszynie do końca kariery.
+**Krok 3: Test wyłącznika STOP (10 sekund).** Grzybek na pulpicie okrawiarki – wystaje 30 mm w pozycji gotowej, zablokowany 10 mm po naciśnięciu. Oleksij robi test bez uruchamiania tarczy: nacisk, odblokowanie, nacisk, odblokowanie. **Lewa dłoń na STOP zanim prawa na START** – nawyk mechaniczny z lekcji 3 tygodnia 1, wraca na każdej maszynie do końca kariery.
 
 **Krok 4: START i bieg jałowy 30 sekund (30 sekund).** Ogłoszenie głośne: „Uruchamiam okrawiarkę numer jeden, bieg jałowy trzydzieści sekund!". START. Obserwacja 3 zmysłami: dźwięk silnika równomierny bez „chuchania" (tarcza nie ociera o osłonę), brak wibracji przekazywanej przez stół na dłoń (dłoń operatora lekko na ramie maszyny), brak zapachu spalenizny silnika. **Specyficzne dla tarczowej**: obserwacja obrotów na wskaźniku (2000–4000 obr/min w zielonym polu, tarcza 350 mm zwykle 3000 obr/min = prędkość obwodowa 55 m/s).
 
@@ -75,7 +75,7 @@ Procedura jest **analogiczna do pilarki taśmowej** (lekcja 1 tego tygodnia), al
 
 **Materiał popychacza: drewno**, nigdy metal. Popychacz metalowy przy odrzucie staje się dodatkowym pociskiem lecącym z prędkością 30 m/s. Popychacz drewniany łamie się, ale nie rani.
 
-Oleksii otwiera szafkę przy okrawiarce – jest tam 6 popychaczy w różnych rozmiarach, każdy z datą wykonania i inicjałami operatora (Tadeusz Kowalski wyrzeźbił trzy z nich 2 miesiące temu). Marek pokazuje, który pasuje do dębu 25 × 150 mm: popychacz 500 mm z rowkiem 25 mm.
+Oleksij otwiera szafkę przy okrawiarce – jest tam 6 popychaczy w różnych rozmiarach, każdy z datą wykonania i inicjałami operatora (Tadeusz Kowalski wyrzeźbił trzy z nich 2 miesiące temu). Marek pokazuje, który pasuje do dębu 25 × 150 mm: popychacz 500 mm z rowkiem 25 mm.
 
 ### Wzdłużna czy poprzeczna – dwie geometrie ryzyka
 
@@ -105,11 +105,11 @@ Juniorowi wolno: podawać pryzmy na przenośnik wejściowy (strefa 2 m przed mas
 Powód: dwie deski o różnej grubości pod tarczą powodują asymetryczne obciążenie tarczy, tarcza ugina się, klin rozszczepiający przestaje pracować, odrzut 30–40 m/s.
 :::
 
-### Case Oleksii – pierwsze 40 desek i pierwsza oznaka zużycia
+### Case Oleksij – pierwsze 40 desek i pierwsza oznaka zużycia
 
-Czwartek, 7:30, Oleksii kończy procedurę 6 kroków (klin 4 parametry, osłony sprawdzone, rzaz testowy na sośnie 25 × 150 × 500 mm bez uwag). START produkcyjny. Pierwsze 40 desek dębowych 25 × 150 × 3000 mm ze środowej sesji na pilarce taśmowej idzie sprawnie: podanie pojedyncze, popychacz w ostatnich 300 mm, 25 sekund na deskę. Marek 2 m za stanowiskiem, obserwuje, nie komentuje.
+Czwartek, 7:30, Oleksij kończy procedurę 6 kroków (klin 4 parametry, osłony sprawdzone, rzaz testowy na sośnie 25 × 150 × 500 mm bez uwag). START produkcyjny. Pierwsze 40 desek dębowych 25 × 150 × 3000 mm ze środowej sesji na pilarce taśmowej idzie sprawnie: podanie pojedyncze, popychacz w ostatnich 300 mm, 25 sekund na deskę. Marek 2 m za stanowiskiem, obserwuje, nie komentuje.
 
-Deska 41 wychodzi z falistą krawędzią (amplituda 1,5 mm, długość fali 20 mm). Oleksii widzi to od razu – oznaka 2 z lekcji 3: falistość rzazu. Lewa dłoń na STOP. „Marek, proszę spojrzeć – falistość." Marek sprawdza krawędź, potem tarczę: jeden ząb ukruszony, wykruszenie 3 × 2 mm. „Dobre wykrycie. Wymiana tarczy za dwie godziny – teraz kończymy partię wolniej, posuw 15 m/min zamiast 25."
+Deska 41 wychodzi z falistą krawędzią (amplituda 1,5 mm, długość fali 20 mm). Oleksij widzi to od razu – oznaka 2 z lekcji 3: falistość rzazu. Lewa dłoń na STOP. „Marek, proszę spojrzeć – falistość." Marek sprawdza krawędź, potem tarczę: jeden ząb ukruszony, wykruszenie 3 × 2 mm. „Dobre wykrycie. Wymiana tarczy za dwie godziny – teraz kończymy partię wolniej, posuw 15 m/min zamiast 25."
 
 **Nauka dnia**: oznaki zużycia tarczy to **taka sama dyscyplina jak oznaki zużycia taśmy** (pilarka taśmowa, lekcja 3). Pęknięcia, ukruszenia zębów, niebieskie plamy na korpusie, falistość rzazu – każda z nich = STOP + zgłoszenie. Oznaka niezgłoszona to amputacja za 5 minut, nie za 5 tygodni.
 
@@ -173,4 +173,4 @@ W tym miesiącu będziesz asystował przy tarczowej pojedynczej. Za 4–6 miesi�
 
 **Dyscyplina popychacza i granica wielopiłowej**: popychacz jest ZAWSZE gotowy w szafce przy stanowisku, nie w toolboxie. Gdy kursant nie widzi popychacza pod ręką, przerywa cięcie, znajduje popychacz, wznawia. „Szybko skończę rękoma tylko tę jedną deskę" = historia amputacji PIP 2019–2023. Przy wielopiłowej nie ucz obsługi, ucz rozpoznawania – kursant po lekcji umie powiedzieć: „To multi-rip, ja jej nie obsługuję, mogę podawać pryzmę z odległości 2 m". Autoryzacja samodzielnej tarczowej pojedynczej: minimum 100 godzin pod nadzorem, 4–6 mies. Wielopiłowa: minimum 6 mies. przy pojedynczej + UDT + 20–30 cięć pod nadzorem.
 
-**Pomost do lekcji 5**: kolejna lekcja (okrawiarka i strugarka – pozycja i podawanie) rozszerza temat tego obszaru hali. Oleksii kontynuuje przy Storti, pracuje też ze strugarką 4-stronną Weinig – pozycja z boku, nie w osi wyrzutu.
+**Pomost do lekcji 5**: kolejna lekcja (okrawiarka i strugarka – pozycja i podawanie) rozszerza temat tego obszaru hali. Oleksij kontynuuje przy Storti, pracuje też ze strugarką 4-stronną Weinig – pozycja z boku, nie w osi wyrzutu.

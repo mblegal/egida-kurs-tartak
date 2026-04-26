@@ -6,21 +6,21 @@ czas: 120
 
 ## Wprowadzenie
 
-Czwartek, 2026-06-18, godzina 6:55. Hala tartaku, platforma **P3 Wood-Mizer LT70**. Wczoraj, w środę 17.06, Rustam Nazarov miał zmianę pod znakiem dwóch usterek (falisty rzaz sam, bicie koła do serwisu) – pełny zapis w karcie KKS-001 z zeszłego dnia. Wieczorem 17.06 o godzinie 14:10 **Pan Krzysztof z Wood-Mizer Polska** zakończył wymianę łożysk kół dolnych (plomba antymanipulacyjna nowa, seria WM-LT70-BB-2026-0142, gwarancja warsztatowa 36 miesięcy, koszt 800 zł netto tylko robocizna, rachunek FV WM/06/2026/427). Plomba serwisowa żółta, **wyważanie dynamiczne zakończone**, maszyna gotowa do ruchu.
+Czwartek, 2026-06-18, godzina 6:55. Hala tartaku, platforma **P3 Wood-Mizer LT70**. Wczoraj, w środę 17.06, Mykoła Hrycenko miał zmianę pod znakiem dwóch usterek (falisty rzaz sam, bicie koła do serwisu) – pełny zapis w karcie KKS-001 z zeszłego dnia. Wieczorem 17.06 o godzinie 14:10 **Pan Krzysztof z Wood-Mizer Polska** zakończył wymianę łożysk kół dolnych (plomba antymanipulacyjna nowa, seria WM-LT70-BB-2026-0142, gwarancja warsztatowa 36 miesięcy, koszt 800 zł netto tylko robocizna, rachunek FV WM/06/2026/427). Plomba serwisowa żółta, **wyważanie dynamiczne zakończone**, maszyna gotowa do ruchu.
 
-Dziś P3 **wraca do pracy**. Na stoisku także dwa inne wydarzenia organizacyjne: **Pani Ania (Anna Kowalczyk, 55 l., klasyfikatorka ITB)** wraca po trzydniowej przerwie (weekendowy urlop rodzinny 13-15.06 plus poniedziałkowe szkolenie PN-EN 14081-1 w Poznaniu 16.06). Pani Ania przyjedzie dziś o 13:00, żeby sklasyfikować partię, którą Rustam przygotuje rano. **Wahan Petrosjan** (22 l., pomocnik stacjonarny P3) wrócił wczoraj z tygodniowego urlopu u rodziny w Armenii (07-14.06) i dziś jest pierwszy pełny dzień na stanowisku. Adrian Kowal (M2, autoryzowany z l7) pracuje dziś na P2 LT30 pod własne zlecenie desek ogrodzeniowych, nie na P3.
+Dziś P3 **wraca do pracy**. Na stoisku także dwa inne wydarzenia organizacyjne: **Pani Ania (Anna Kowalczyk, 55 l., klasyfikatorka ITB)** wraca po trzydniowej przerwie (weekendowy urlop rodzinny 13-15.06 plus poniedziałkowe szkolenie PN-EN 14081-1 w Poznaniu 16.06). Pani Ania przyjedzie dziś o 13:00, żeby sklasyfikować partię, którą Mykoła przygotuje rano. **Wasyl Melnyk** (22 l., pomocnik stacjonarny P3) wrócił wczoraj z tygodniowego urlopu u rodziny w Ukrainie (07-14.06) i dziś jest pierwszy pełny dzień na stanowisku. Adrian Kowal (M2, autoryzowany z l7) pracuje dziś na P2 LT30 pod własne zlecenie desek ogrodzeniowych, nie na P3.
 
 Zlecenie z dyspozycji porannej Marka Kowalskiego (brygadzista, wypisał dyspozycję piątek 12.06 wieczorem, aktualna po zmianie): **ZLE-2026-06-017**, **brzoza brodawkowata (*Betula pendula*)**, 4 pnie 4,05 m dłużyca, wilgotność świeża 38% (cięte 2026-06-08, dziesięć dni leżakowania na placu), klasa B wg szybkiej oceny placowej z 15.06 (mały sęk na pniu nr 3, bez rdzeniowego pęknięcia na czołach), sortyment docelowy **listwy wykończeniowe 20 × 80 × 4050 mm** na **stolarkę meblową dla klienta MebelPro Olsztyn** (stała współpraca, wymaga po suszeniu klasy C16 wg PN-EN 14081-1, co dla brzozy stolarskiej odpowiada klasie D30 dla liściastych, ale klient akceptuje C16 umownie, bo listwy wykończeniowe nie przenoszą obciążenia – zostają na klejonym płaszczu szafy). **Ilość docelowa: 3,0 m³ tarcicy surowej**. Czas do zakończenia cięcia: oczekiwany 5 godzin (brzoza szybsza niż dąb, pnie cienkie średnio 28 cm).
 
-Rustam dziś ma inne zadanie niż zwykle. Nie tylko przetrzeć i posortować. Dziś musi **po raz pierwszy od początku T4 M3 przygotować kompletną dokumentację partii** (kartę **KEP-001 „Karta Ewidencyjna Partii"**, nowy formularz EGIDA wprowadzony 03.2026 dla operatorów M3) i **przekazać ją Pani Ani o 13:00**. Różnica między wcześniejszą pracą Rustama a dzisiejszą: do tej pory klasyfikator sam mierzył wilgotność, sam spisywał wymiary, sam oceniał wady. Rustam był tylko **źródłem surowca**. Od dziś – po Part 29 l7 z KAO-001 Adriana i dzisiejszym l1 – Rustam jest **dostarczycielem danych pomiarowych**, a klasyfikator tylko **weryfikuje i podpisuje**. Pani Ania dostała rano SMS-a od Marka: *„Rustam dziś wszystko spisze na KEP-001, Ty tylko klasy i podpis pod WZ."* Odpisała: *„Super. Dawno na to czekałam."*
+Mykoła dziś ma inne zadanie niż zwykle. Nie tylko przetrzeć i posortować. Dziś musi **po raz pierwszy od początku T4 M3 przygotować kompletną dokumentację partii** (kartę **KEP-001 „Karta Ewidencyjna Partii"**, nowy formularz EGIDA wprowadzony 03.2026 dla operatorów M3) i **przekazać ją Pani Ani o 13:00**. Różnica między wcześniejszą pracą Mykoły a dzisiejszą: do tej pory klasyfikator sam mierzył wilgotność, sam spisywał wymiary, sam oceniał wady. Mykoła był tylko **źródłem surowca**. Od dziś – po Part 29 l7 z KAO-001 Adriana i dzisiejszym l1 – Mykoła jest **dostarczycielem danych pomiarowych**, a klasyfikator tylko **weryfikuje i podpisuje**. Pani Ania dostała rano SMS-a od Marka: *„Mykoła dziś wszystko spisze na KEP-001, Ty tylko klasy i podpis pod WZ."* Odpisała: *„Super. Dawno na to czekałam."*
 
 ### 7:00, rozpoczęcie zmiany i obchód maszyny
 
-Rustam wchodzi na halę z kubkiem kawy, bluza robocza EGIDA, identyfikator M3 na taśmie. **Wahan już przy P3**, zakłada kask i nauszniki, sprawdza miotłę i wózek transportowy. Rustam wita krótko:
+Mykoła wchodzi na halę z kubkiem kawy, bluza robocza EGIDA, identyfikator M3 na taśmie. **Wasyl już przy P3**, zakłada kask i nauszniki, sprawdza miotłę i wózek transportowy. Mykoła wita krótko:
 
-*„Wahan, wróciłeś. Jak Armenia?"*
+*„Wasyl, wróciłeś. Jak Ukraina?"*
 
-*„Gorąco. 34 stopnie w Giumri. Mama kazała pozdrowić."*
+*„Gorąco. 34 stopnie w Tarnopolu. Mama kazała pozdrowić."*
 
 *„Pozdrów z powrotem. Dziś brzoza, pnie cienkie, ale **szybko nie pójdzie** – robimy dokumentację partii na Panią Anię, przyjedzie o 13:00. Będę ci dyktował wymiary każdej deski, ty zapisujesz na kartkę, potem ja przepisuję na KEP-001."*
 
@@ -28,7 +28,7 @@ Rustam wchodzi na halę z kubkiem kawy, bluza robocza EGIDA, identyfikator M3 na
 
 *„Nie znamy klas – to Pani Ania robi. My tylko: gatunek, wilgotność, wymiary, wady wzrokowe. Bez oceny klasy. To granica."*
 
-Wahan kiwa głową. Rustam wyciąga z szafki **KEP-001 czystą** (A4, karton, trójkolumnowa, pole nagłówka / dane partii / pomiary 5 pkt wilgotności / lista desek z wadami / podpis operatora / pole klasyfikatora puste). **Obok na biurku** – wzorcowy egzemplarz wypełnionej KEP-001 z poprzedniej partii (ZLE-2026-06-012 sosna z zeszłego tygodnia, wypełniany wtedy przez Pana Henryka suszarniczo), do podejrzenia formatu.
+Wasyl kiwa głową. Mykoła wyciąga z szafki **KEP-001 czystą** (A4, karton, trójkolumnowa, pole nagłówka / dane partii / pomiary 5 pkt wilgotności / lista desek z wadami / podpis operatora / pole klasyfikatora puste). **Obok na biurku** – wzorcowy egzemplarz wypełnionej KEP-001 z poprzedniej partii (ZLE-2026-06-012 sosna z zeszłego tygodnia, wypełniany wtedy przez Pana Henryka suszarniczo), do podejrzenia formatu.
 
 Obchód P3, pełny rozruch po serwisie (wczorajsze bicie koła + nowe łożyska = **pierwsze uruchomienie, szczególna uwaga**):
 
@@ -50,61 +50,61 @@ Obchód P3 Wood-Mizer LT70 – 2026-06-18 07:08
 Rozruch zezwolony.
 ```
 
-*„Maszyna po serwisie czysta. Dziś **wyjątkowo pierwsze cięcie tnę sam, Wahan stoi z boku** – protokół WM po wymianie łożysk wymaga, żeby pierwsze 3 cięcia zrobił operator M3 bez pomocnika, bo jak coś się poluzuje, to widać tylko wtedy, gdy jedna osoba obserwuje wszystko na maszynie. Potem, od 4 pnia, jedziemy normalnie razem."*
+*„Maszyna po serwisie czysta. Dziś **wyjątkowo pierwsze cięcie tnę sam, Wasyl stoi z boku** – protokół WM po wymianie łożysk wymaga, żeby pierwsze 3 cięcia zrobił operator M3 bez pomocnika, bo jak coś się poluzuje, to widać tylko wtedy, gdy jedna osoba obserwuje wszystko na maszynie. Potem, od 4 pnia, jedziemy normalnie razem."*
 
-Wahan odchodzi do miotły. Zaczyna zamiatać hal plac za P3 (trociny z wczorajszej kampanii dębu Adriana).
+Wasyl odchodzi do miotły. Zaczyna zamiatać hal plac za P3 (trociny z wczorajszej kampanii dębu Adriana).
 
 ### 7:20, rozgrzanie maszyny i założenie taśmy
 
-Rustam zakłada **ST-38-10-S14** (stellite 38 mm szerokość, 10 TPI podziałka, seria S14 – świeża z magazynu, nie używana), naprężenie 2250 PSI (brzoza lżejsza niż dąb, niższe niż wczorajsze 2350, ale wyższe niż przy sośnie 2150), prowadniki 3,2 mm przód / 3,5 mm tył (szerzej niż przy dębie, bo brzoza elastyczniejsza), silnik 1920 RPM. Rozgrzewanie silnika 5 minut jałowych, Rustam obserwuje panel (prąd 8A jałowy, temperatura oleju przekładni 35°C z 18°C środowiska, wszystko w normie).
+Mykoła zakłada **ST-38-10-S14** (stellite 38 mm szerokość, 10 TPI podziałka, seria S14 – świeża z magazynu, nie używana), naprężenie 2250 PSI (brzoza lżejsza niż dąb, niższe niż wczorajsze 2350, ale wyższe niż przy sośnie 2150), prowadniki 3,2 mm przód / 3,5 mm tył (szerzej niż przy dębie, bo brzoza elastyczniejsza), silnik 1920 RPM. Rozgrzewanie silnika 5 minut jałowych, Mykoła obserwuje panel (prąd 8A jałowy, temperatura oleju przekładni 35°C z 18°C środowiska, wszystko w normie).
 
 ### 7:35, ustawienie pierwszego pnia i pierwsze cięcie
 
 Pień pierwszy (BR-BR-06-P1, średnica 31 cm, długość 4,05 m, największy z 4) ustawiony na stole roboczym hydraulicznie, zamocowany klamrami. Cięcie pierwsze: **zdjęcie obliny górnej 2 cm**, grubość rzazu 1,5 mm (stellite cienkorzezający), czas 42 sekundy od brzegu do brzegu.
 
-Rzaz **prosty, równy, bez falistości**. Rustam dotyka taśmy rękawiczką: **bez wibracji, bez nadmiernego ciepła** (łożyska nowe chłodne). Uruchomienie po serwisie **poprawne**.
+Rzaz **prosty, równy, bez falistości**. Mykoła dotyka taśmy rękawiczką: **bez wibracji, bez nadmiernego ciepła** (łożyska nowe chłodne). Uruchomienie po serwisie **poprawne**.
 
-Cięcie drugie (oblina dolna), trzecie (oblina boczna). Po trzech cięciach Rustam zatrzymuje maszynę, sprawdza wzrokowo taśmę (ząb 1 pełny, bez mikropęknięć), koło napędowe (bicie nadal 0,1 mm wzrokowo, OK), łożysko dolne (dźwięk suchy). **Serwis WM zaliczony.**
+Cięcie drugie (oblina dolna), trzecie (oblina boczna). Po trzech cięciach Mykoła zatrzymuje maszynę, sprawdza wzrokowo taśmę (ząb 1 pełny, bez mikropęknięć), koło napędowe (bicie nadal 0,1 mm wzrokowo, OK), łożysko dolne (dźwięk suchy). **Serwis WM zaliczony.**
 
-*„Wahan! Jedziemy razem. Dziś rolka standardowa: ja tnę, ty zbierasz deski, ja dyktuję wymiary na kartkę, ty zapisujesz. Po każdych 10 deskach zrób podsumowanie mi do sprawdzenia."*
+*„Wasyl! Jedziemy razem. Dziś rolka standardowa: ja tnę, ty zbierasz deski, ja dyktuję wymiary na kartkę, ty zapisujesz. Po każdych 10 deskach zrób podsumowanie mi do sprawdzenia."*
 
-Wahan przychodzi z notatnikiem. Zaczynają pracować systematycznie.
+Wasyl przychodzi z notatnikiem. Zaczynają pracować systematycznie.
 
 ### 8:00-11:30, przetarcie 4 pni i sortowanie na deski
 
-Pień 1 (31 cm średnica, 4,05 m): czworokantowanie 260 × 260 mm po oblinach, rozrzynanie na **listwy 20 mm grubość × 80 mm szerokość**, schemat cięcia **pionowego serią** (po czworokantowaniu z 260 × 260 mm wychodzi 10 listew 20 mm + 60 mm dolne pod ponowny rzut, z tego 3 listwy 20 mm, dolny odpad 0 mm, więc razem **13 listew × 4 strony × 1 pień ≈ 20 listew pełnego wymiaru 80 × 4050 mm**). **Z pnia 1 Rustam wyrzyna 20 listew**, czas cięcia 47 min. Schemat stosunku:
+Pień 1 (31 cm średnica, 4,05 m): czworokantowanie 260 × 260 mm po oblinach, rozrzynanie na **listwy 20 mm grubość × 80 mm szerokość**, schemat cięcia **pionowego serią** (po czworokantowaniu z 260 × 260 mm wychodzi 10 listew 20 mm + 60 mm dolne pod ponowny rzut, z tego 3 listwy 20 mm, dolny odpad 0 mm, więc razem **13 listew × 4 strony × 1 pień ≈ 20 listew pełnego wymiaru 80 × 4050 mm**). **Z pnia 1 Mykoła wyrzyna 20 listew**, czas cięcia 47 min. Schemat stosunku:
 - czworokantowanie: 4 oblin boczne, 0,18 m³ odpad
 - rzut pionowy: 13 listew 20 mm z jednej strony, 7 dalszych z drugiego rzutu
 - sortyment z P1: 20 listew wymiaru 20 × 80 × 4050 mm, 0 listew odpadowych, oblina boczna 0,18 m³
 
-Pień 2 (28 cm średnica, 4,05 m, **mały sęk środkowy**): czworokantowanie 230 × 230 mm, 16 listew 20 × 80 × 4050 mm wyrzyna Rustam, **sęk środkowy zlokalizowany w 3 listwach** (Rustam zaznacza ołówkiem tłustym na końcu każdej deski literką „**S**" – sęk). Czas 43 min.
+Pień 2 (28 cm średnica, 4,05 m, **mały sęk środkowy**): czworokantowanie 230 × 230 mm, 16 listew 20 × 80 × 4050 mm wyrzyna Mykoła, **sęk środkowy zlokalizowany w 3 listwach** (Mykoła zaznacza ołówkiem tłustym na końcu każdej deski literką „**S**" – sęk). Czas 43 min.
 
 Pień 3 (30 cm średnica, 4,05 m, bez wad czołowych): czworokantowanie 250 × 250 mm, 19 listew 20 × 80 × 4050 mm, **wszystkie czyste**. Czas 45 min.
 
-Pień 4 (27 cm średnica, 4,05 m, **niewielkie pęknięcie mrozowe czoła górnego widoczne po obnażeniu**): czworokantowanie 220 × 220 mm, 15 listew, **2 listwy górne z pęknięciem mrozowym wychodzą krótsze** (3,85 m zamiast 4,05 m, bo Rustam ucina chore czoło 20 cm). Czas 42 min.
+Pień 4 (27 cm średnica, 4,05 m, **niewielkie pęknięcie mrozowe czoła górnego widoczne po obnażeniu**): czworokantowanie 220 × 220 mm, 15 listew, **2 listwy górne z pęknięciem mrozowym wychodzą krótsze** (3,85 m zamiast 4,05 m, bo Mykoła ucina chore czoło 20 cm). Czas 42 min.
 
 **Łącznie po 4 pniach o 11:30**: 20 + 16 + 19 + 15 = **70 listew pełnowymiarowych 20 × 80 × 4050** + **2 listwy krótsze 20 × 80 × 3850** + **6 listew z oznaczeniem „S" sęk**. Razem **78 desek w partii ZLE-2026-06-017**. Objętość tarcicy surowej: 78 × 0,020 × 0,080 × średnia długość 4,04 m ≈ **0,505 m³ listew z 4 pni dłużycy 4,6 m³** (wydajność yield = 0,505/4,6 = **11% bo cienkie listwy 20 mm z grubych pni są wąskim sortymentem, reszta 89% to oblina/zrzyny/trociny – normalne dla tego sortymentu, 89% trafia do brykietu opałowego i na klimkowe płyty MDF do Fabryki Płyt Pfleiderer Grajewo, dochód uboczny 320 zł/m³ oblinowy + 85 zł/m³ trocin).
 
-*„Wahan, teraz najważniejsza część dnia. Pomiary na KEP-001."*
+*„Wasyl, teraz najważniejsza część dnia. Pomiary na KEP-001."*
 
-Wahan odkłada miotłę.
+Wasyl odkłada miotłę.
 
 ### 11:30, przygotowanie do pomiarów KEP-001
 
-Rustam kładzie 78 desek na stole klasyfikacyjnym (długi metalowy stół 6 × 1,2 m z oświetleniem LED nad, obok P3, używany przez Panią Anię od lat). Deski ułożone **płasko, w 4 warstwach po 20 desek** (ostatnia warstwa 18). Między warstwami **drewniane przekładki 10 × 40 × 1000 mm** (żeby powietrze cyrkulowało, deski nie parowały w cieple hali). Wahan dostaje zadanie: **zaznacz ołówkiem numerator na czole każdej deski od 1 do 78**. Robi to sprawnie, 25 minut.
+Mykoła kładzie 78 desek na stole klasyfikacyjnym (długi metalowy stół 6 × 1,2 m z oświetleniem LED nad, obok P3, używany przez Panią Anię od lat). Deski ułożone **płasko, w 4 warstwach po 20 desek** (ostatnia warstwa 18). Między warstwami **drewniane przekładki 10 × 40 × 1000 mm** (żeby powietrze cyrkulowało, deski nie parowały w cieple hali). Wasyl dostaje zadanie: **zaznacz ołówkiem numerator na czole każdej deski od 1 do 78**. Robi to sprawnie, 25 minut.
 
-Rustam wyciąga z szafki:
+Mykoła wyciąga z szafki:
 - **Wilgotnościomierz Tanel ET-6** (igiełkowy, dwubolcowy, zakres 6-40%, kalibrowany 2026-03-15, ważny 12 miesięcy)
 - **Suwmiarka elektroniczna Mitutoyo 500-160-30** (dokładność 0,01 mm, zakres 0-150 mm, skalibrowana 2026-01-10)
 - **Miara calowa 5 m Stanley** (do długości listew)
 - **Lupa 10× Eschenbach** (do oceny wad wzrokowych, szczególnie sęków)
 - **Pomarańczowa kredka** (do oznaczania wad na deskach – zielony klasyfikator Pani Ani)
 - **KEP-001 czysta 1 szt.**
-- **Notes roboczy A5 spięty drutem** (Wahan zapisuje dyktowanie)
+- **Notes roboczy A5 spięty drutem** (Wasyl zapisuje dyktowanie)
 
 ### 11:45, nagłówek KEP-001
 
-Rustam wpisuje **długopisem niebieskim** (bo KEP-001 robi się długopisem, nie ołówkiem – to dokument archiwalny, retencja 5 lat w archiwum EGIDA zgodnie z § 12 ust. 3 regulaminu jakości reg.wew.05/2024):
+Mykoła wpisuje **długopisem niebieskim** (bo KEP-001 robi się długopisem, nie ołówkiem – to dokument archiwalny, retencja 5 lat w archiwum EGIDA zgodnie z § 12 ust. 3 regulaminu jakości reg.wew.05/2024):
 
 ```
 KARTA EWIDENCYJNA PARTII – KEP-001
@@ -116,8 +116,8 @@ Pochodzenie:        Nadleśnictwo Strzałowo, leśnictwo Wężewo, poręba 2026/
 Data ścinki:        2026-06-08
 Data leżakowania:   10 dni na placu (do 2026-06-18)
 Data przetarcia:    2026-06-18, 08:00-11:30
-Operator P3:        Rustam Nazarov (M3, autoryzacja 04.2026)
-Asysta:             Wahan Petrosjan (M1 pomocnik)
+Operator P3:        Mykoła Hrycenko (M3, autoryzacja 04.2026)
+Asysta:             Wasyl Melnyk (M1 pomocnik)
 
 Ilość desek:        78 szt.
  - pełnowymiarowe 20×80×4050:  70 szt.
@@ -130,11 +130,11 @@ Klient docelowy:    MebelPro Olsztyn (umowa ramowa UR/2025/108)
 Oczekiwana klasa (po suszeniu 8-10%): C16 umowna (listwy niekonstrukcyjne)
 ```
 
-Rustam podkreśla „**C16 umowna**" – tłumaczy Wahanowi:
+Mykoła podkreśla „**C16 umowna**" – tłumaczy Wasylowi:
 
 *„Brzoza jako gatunek liściasty nie podlega klasycznie PN-EN 14081-1, bo ta norma dotyczy iglastych. Dla liściastych jest PN-EN 13366 z klasami D18 do D70. Ale klient **MebelPro** ma w umowie **klasę C16 umowną**, bo listwy wykończeniowe nie przenoszą obciążenia konstrukcyjnego, więc klasyfikacja jest **proforma** – Pani Ania podpisuje WZ pod C16, ale **nie bada wytrzymałości**, tylko wady wizualne wg PN-EN 1611-1. Umowne znaczy: strony umowy się zgadzają, że ten parametr jest jakby klasyfikacja, ale formalnie klasa konstrukcyjna nie jest badana. **Nie myl tego z klasyfikacją dla krokwi** (zobacz zeszła sesja, ZLE-015 sosna C24 dla Dom-Bud) – tam klasyfikacja pełna, wytrzymałościowa, z obciążeniem."*
 
-Wahan zapisuje w swoim notesie: „brzoza = klasa umowna, C16 na papierze, nie obciążenie".
+Wasyl zapisuje w swoim notesie: „brzoza = klasa umowna, C16 na papierze, nie obciążenie".
 
 ### 12:00-12:30, pomiar wilgotności 5 punktów
 
@@ -146,7 +146,7 @@ Wahan zapisuje w swoim notesie: „brzoza = klasa umowna, C16 na papierze, nie o
 4. Deska do pomiaru: **losowa z warstwy**, nie najlepsza i nie najgorsza wzrokowo.
 5. Trzy odczyty na punkt z obrotem o 90°, wynik to **średnia arytmetyczna**.
 
-Rustam pracuje systematycznie. Wahan dyktuje mu numery desek z narożników (warstwa 1: deska nr 1 lewy górny, nr 20 prawy górny; warstwa 4: deska nr 59 lewy dolny, nr 78 prawy dolny; środek: deska nr 40 w warstwie 2).
+Mykoła pracuje systematycznie. Wasyl dyktuje mu numery desek z narożników (warstwa 1: deska nr 1 lewy górny, nr 20 prawy górny; warstwa 4: deska nr 59 lewy dolny, nr 78 prawy dolny; środek: deska nr 40 w warstwie 2).
 
 ```
 Pomiary wilgotności 2026-06-18 12:10-12:25 (Tanel ET-6, kalibracja 2026-03-15)
@@ -172,9 +172,9 @@ ROZRZUT:         0,6 pkt (37,9 do 38,5)  – bardzo niski, dobra jednorodność
 STAN:            świeża tarcica, przed suszeniem (zgodny z datą ścinki 2026-06-08)
 ```
 
-*„Wahan, zapisz w notesie: **średnia 38,1%, rozrzut 0,6 pkt, jednorodna**. To do KEP-001. Jednorodność 0,6 pkt oznacza, że wszystkie deski zasną w komorze równomiernie, nie będzie problemu z dosuszeniem warstw."*
+*„Wasyl, zapisz w notesie: **średnia 38,1%, rozrzut 0,6 pkt, jednorodna**. To do KEP-001. Jednorodność 0,6 pkt oznacza, że wszystkie deski zasną w komorze równomiernie, nie będzie problemu z dosuszeniem warstw."*
 
-Wahan notuje. Rustam przepisuje do KEP-001:
+Wasyl notuje. Mykoła przepisuje do KEP-001:
 
 ```
 POMIAR WILGOTNOŚCI (metoda: PN-EN 13183-2, oporowa)
@@ -193,18 +193,18 @@ Jednorodność:    DOBRA (zgodna z PN-EN 13183-2 pkt 7.4)
 
 Wniosek operatora:  tarcica świeża, gotowa do wsadu suszarniczego
                     partia jednorodna, nie wymaga selekcji przed suszeniem
-Podpis operatora:   Rustam Nazarov, 2026-06-18, 12:25
+Podpis operatora:   Mykoła Hrycenko, 2026-06-18, 12:25
 ```
 
 ### 12:30-13:00, pomiary wymiarów i wady wizualne
 
-**Druga sekcja KEP-001: lista wszystkich 78 desek z wymiarami i wadami.** Metoda: Rustam mierzy suwmiarką (grubość, szerokość) i miarą (długość) **każdą deskę**. Wahan zapisuje w notesie roboczym. Po zakończeniu wszystkich 78 Rustam przepisuje zestaw na KEP-001.
+**Druga sekcja KEP-001: lista wszystkich 78 desek z wymiarami i wadami.** Metoda: Mykoła mierzy suwmiarką (grubość, szerokość) i miarą (długość) **każdą deskę**. Wasyl zapisuje w notesie roboczym. Po zakończeniu wszystkich 78 Mykoła przepisuje zestaw na KEP-001.
 
-To jest praca **monotonna ale kluczowa** – każda deska jeden wpis. Rustam tłumaczy Wahanowi zasadę:
+To jest praca **monotonna ale kluczowa** – każda deska jeden wpis. Mykoła tłumaczy Wasylowi zasadę:
 
 *„Nie zapisujemy tylko średniej. Zapisujemy **każdą deskę**, bo klasyfikator odpowiada za każdą deskę osobno. Jeśli potem okaże się, że deska nr 43 ma 19,2 mm zamiast 20 mm, to **z KEP-001 wiadomo, że my to wiedzieliśmy**. Klient reklamuje – my pokazujemy KEP-001. **Dokumentacja chroni nas wszystkich** – operatora, klasyfikatora, brygadzistę."*
 
-Wahan kiwa głową.
+Wasyl kiwa głową.
 
 System pomiarowy:
 
@@ -233,24 +233,24 @@ Grubość:    min 20,0 / max 20,2 / śr. 20,10 mm (tolerancja docelowa ±0,5)
 Szerokość: min 79,9 / max 80,4 / śr. 80,12 mm (tolerancja docelowa ±1,0)
 Długość:   71 desek × 4050 mm + 7 desek × 3850 mm
 
-Podpis operatora wad:  Rustam Nazarov, 2026-06-18, 12:58
+Podpis operatora wad:  Mykoła Hrycenko, 2026-06-18, 12:58
 ```
 
-*„Wahan, gotowe. Skończyłem pomiary. Idę po kawę, a potem o 13:00 przychodzi Pani Ania. Dziś jej praca będzie krótsza niż zwykle."*
+*„Wasyl, gotowe. Skończyłem pomiary. Idę po kawę, a potem o 13:00 przychodzi Pani Ania. Dziś jej praca będzie krótsza niż zwykle."*
 
-Wahan sprząta stół (wiórki suwmiarkowe, notes roboczy odkłada do szafki kierownika – **archiwum operatorskie**), ubiera kawę z termosu. Rustam idzie po kawę do pokoju socjalnego.
+Wasyl sprząta stół (wiórki suwmiarkowe, notes roboczy odkłada do szafki kierownika – **archiwum operatorskie**), ubiera kawę z termosu. Mykoła idzie po kawę do pokoju socjalnego.
 
 ### 13:00, Pani Ania przychodzi
 
 Pani Ania, 55 lat, klasyfikatorka ITB (akredytacja nr ITB-KLAS-247/2019, ważna do 11.2027, potwierdzona szkoleniem PN-EN 14081-1 16.06.2026 w Poznaniu, certyfikat nr ITB/PK/2026/0427 ze wstęgą aktualizacyjną), siwe włosy związane w kok, okulary granatowe, w ręku swoją **zieloną kredkę klasyfikatorską** (kolor firmowy ITB – zielony klasyfikatora, czerwony inspektora budowlanego, niebieski operatora), **notatnik** i **pieczątkę imienną z numerem uprawnień**.
 
-Rustam wita się:
+Mykoła wita się:
 
 *„Pani Aniu, dzień dobry. Jak szkolenie 16.06?"*
 
 *„Standardowe, 8 godzin, odświeżenie zmian w PN-EN 14081-1 z grudnia 2025 – nowe progi dla klasy C30 sosny, ale nas to nie dotyczy dziś. Pokaż KEP-001."*
 
-Rustam podaje KEP-001 wypełnioną. Pani Ania siada przy stole klasyfikacyjnym, **otwiera kartę i czyta**:
+Mykoła podaje KEP-001 wypełnioną. Pani Ania siada przy stole klasyfikacyjnym, **otwiera kartę i czyta**:
 
 ```
 – Nagłówek: ZLE-2026-06-017, brzoza, 78 desek, MebelPro Olsztyn, C16 umowna.  OK.
@@ -259,14 +259,14 @@ Rustam podaje KEP-001 wypełnioną. Pani Ania siada przy stole klasyfikacyjnym, 
 – Wady: 70 A, 6 B sęk, 2 B wymiar krótszy.                                   OK.
 ```
 
-*„Rustam, znakomite. Wszystko co ja bym zmierzyła, już zmierzyłeś. Ja tylko zerknę wzrokiem, czy nie przeoczyliście wady, i podpiszę pod WZ. **Bez KEP-001 trwałoby mi to 3 godziny – teraz 90 minut mi starczy.**"*
+*„Mykoła, znakomite. Wszystko co ja bym zmierzyła, już zmierzyłeś. Ja tylko zerknę wzrokiem, czy nie przeoczyliście wady, i podpiszę pod WZ. **Bez KEP-001 trwałoby mi to 3 godziny – teraz 90 minut mi starczy.**"*
 
-Rustam uśmiecha się. Wahan się ucieszył, że „trzech godzin" się nie doczekał.
+Mykoła uśmiecha się. Wasyl się ucieszył, że „trzech godzin" się nie doczekał.
 
 ### 13:00-14:30, Pani Ania weryfikuje partię
 
 Pani Ania ma własną metodę. Bierze **lupę 10×**, chodzi między warstwami desek, patrzy **na każdą deskę** z KEP-001 w ręku. Dla każdej weryfikuje:
-1. **Wymiar grubości** (używa własnej suwmiarki Mitutoyo 500-196-30, równoległej do Rustama) – **kontrola pełna** pierwszych 10 desek, potem **wyrywkowa co 5 desek** (metoda SPC, akceptacja przez ITB dla partii jednorodnych z rozrzutem <1 mm).
+1. **Wymiar grubości** (używa własnej suwmiarki Mitutoyo 500-196-30, równoległej do Mykoły) – **kontrola pełna** pierwszych 10 desek, potem **wyrywkowa co 5 desek** (metoda SPC, akceptacja przez ITB dla partii jednorodnych z rozrzutem <1 mm).
 2. **Wady wzrokowe** – pełna inspekcja każdej deski, bo wady klasyfikator widzi lepiej niż operator.
 3. **Zgodność literki „S" na deskach 21-26** – OK, wszystkie mają sęki zgodnie z KEP-001.
 4. **Czoła desek 69 i 70** – OK, cięte proste (pęknięcie mrozowe wcześniej usunięte), długość 3,85 m suwmiarką zmierzona precyzyjnie.
@@ -296,21 +296,21 @@ Pieczątka imienna:       [pieczątka zielona]
 
 Pani Ania wpisuje ręcznie w sekcji klasyfikatora KEP-001, **drukuje WZ (Wydanie Zewnętrzne)** na drukarce przy stole, podpisuje **ze swoją pieczątką**. WZ dostanie Marka wieczorem, Marek zatwierdzi księgowo.
 
-### 14:30-14:45, omówienie z Rustamem
+### 14:30-14:45, omówienie z Mykołą
 
-Pani Ania siada z Rustamem przy stole, kawa:
+Pani Ania siada z Mykołą przy stole, kawa:
 
-*„Rustam, pierwsze KEP-001 od Ciebie. Kilka uwag:
+*„Mykoła, pierwsze KEP-001 od Ciebie. Kilka uwag:
 1. **Pomiary doskonałe** – rozrzut 0,6 pkt na wilgotności, to szkolna robota. Lepiej niż ja byłam 30 lat temu.
 2. **Oznaczenie „S" na deskach 21-26** – genialne. Od razu wiedziałam, gdzie szukać sęków, nie marnowałam czasu na oglądanie czystych.
 3. **Deski 69-70 krótsze** – poprawnie udokumentowane długość 3,85 m. Czoła obcięte prosto, pęknięcie mrozowe 20 cm wyjęte – ocena operatorska była **dokładna**, ja nie znalazłam residualnego pęknięcia w głębi.
 4. **Jedna uwaga techniczna**: w kolumnie 'klasa wstępna' napisałeś A/B zamiast C16-A/C16-B. Nomenklatura formalna wymaga przedrostka klasy docelowej. Następnym razem."*
 
-Rustam notuje w swoim notesie roboczym: „KEP-001 kolumna klasa wstępna: pisać C16-A, C16-B, nie samo A/B".
+Mykoła notuje w swoim notesie roboczym: „KEP-001 kolumna klasa wstępna: pisać C16-A, C16-B, nie samo A/B".
 
 Pani Ania kontynuuje:
 
-*„Rustam, **format WZ** – pokazuję Ci, jak wygląda gotowy dokument wyjścia dla klienta. Sześć sekcji:
+*„Mykoła, **format WZ** – pokazuję Ci, jak wygląda gotowy dokument wyjścia dla klienta. Sześć sekcji:
 1. **Nagłówek** – EGIDA dane, numer WZ, data, numer zlecenia, numer partii, FSC-C112233.
 2. **Dane klienta** – MebelPro Olsztyn, NIP, adres wysyłki, osoba odbierająca z upoważnieniem.
 3. **Opis partii** – gatunek, ilość, wymiary, objętość, klasa, wilgotność, przeznaczenie.
@@ -322,7 +322,7 @@ Pani Ania kontynuuje:
 
 *„**Bo WZ to dokument certyfikacyjny**. Certyfikacja jest **aktem prawnym**, który ma moc pokazać przed sądem, urzędem skarbowym, audytorem. Kto podpisze certyfikację, ten **bierze odpowiedzialność cywilną i karno-skarbową** za prawdę danych. Ja mam uprawnienia ITB i ubezpieczenie OC na 250 000 zł (wszystkie klasyfikatorskie), a Ty nie masz. Marek podpisuje jako pracownik EGIDA, organizacja odpowiada. Ty jesteś **źródłem danych pomiarowych** – to **KEP-001**, Twoja karta, która ma moc wewnętrzną (archiwum, retencja), ale **nie wychodzi do klienta**."*
 
-Rustam zapisuje w notesie: „KEP-001 = wewnętrzne, WZ = zewnętrzne. Operator podpisuje KEP, klasyfikator + brygadzista podpisują WZ. Dokumenty różne, odpowiedzialności różne."
+Mykoła zapisuje w notesie: „KEP-001 = wewnętrzne, WZ = zewnętrzne. Operator podpisuje KEP, klasyfikator + brygadzista podpisują WZ. Dokumenty różne, odpowiedzialności różne."
 
 *„Pani Aniu, jak ja się czuję, kiedy ja zmierzę źle, a Pani podpisze WZ na moich danych?"*
 
@@ -332,27 +332,27 @@ Rustam zapisuje w notesie: „KEP-001 = wewnętrzne, WZ = zewnętrzne. Operator 
 
 *„Dziś Ci zaufałam, **bo Twoje KEP-001 jest wzorcowo wypełniona**. Następnym razem też zaufam, jeśli dostanę KEP-001 równie dobrą. **Zaufanie buduje się dokumentacją** – jeden dobry dokument nie wystarczy, ale **seria 10 dobrych dokumentów tworzy reputację operatora**. Po 20 takich dokumentach ja przestaję pełne weryfikować pierwsze 10 – wchodzę od razu w wyrywkę. **Skrócisz mi czas klasyfikacji, skrócisz czas cyklu partii, przyspieszysz tartak**. Marek to zauważy i pamiętaj, **dodatek 3% do stawki operatora M3 za 'pracę dokumentacyjną'** jest w regulaminie EGIDA reg.wew.05/2024 § 7 ust. 2 dla operatorów, którzy przez 6 miesięcy mają zero błędów w KEP-001."*
 
-Rustam uśmiecha się. 3% to 150 zł brutto do jego pensji miesięcznie (5000 zł brutto stawka M3 podstawowa). Po 6 miesiącach skrupulatnej dokumentacji.
+Mykoła uśmiecha się. 3% to 150 zł brutto do jego pensji miesięcznie (5000 zł brutto stawka M3 podstawowa). Po 6 miesiącach skrupulatnej dokumentacji.
 
-### 14:45, Wahan i podział odpowiedzialności
+### 14:45, Wasyl i podział odpowiedzialności
 
-Wahan słyszy rozmowę, dołącza:
+Wasyl słyszy rozmowę, dołącza:
 
-*„Pani Aniu, a ja? Wpisuję w notes, dyktuję Rustamowi, ale nie podpisuję niczego."*
+*„Pani Aniu, a ja? Wpisuję w notes, dyktuję Mykole, ale nie podpisuję niczego."*
 
 Pani Ania uśmiecha się:
 
-*„Wahan, **pomocnik M1 nie podpisuje**. Podpis jest uprawnieniem + odpowiedzialnością. Ty nie masz uprawnień, bo nie masz jeszcze szkolenia M2 ani M3. Ale **bez Ciebie Rustam by tych pomiarów nie zrobił w godzinę**. Ty jesteś **ręka operatora**, która pisze. Odpowiedzialność formalną bierze on. **Odpowiedzialność koleżeńską masz** – jeśli pomylisz cyfrę w notesie i Rustam przepisze źle do KEP-001, to **Rustam odpowie**, nie Ty. Ale **Twoje zaufanie do niego stracisz** i on do Ciebie. To jest ważniejsze od papieru."*
+*„Wasyl, **pomocnik M1 nie podpisuje**. Podpis jest uprawnieniem + odpowiedzialnością. Ty nie masz uprawnień, bo nie masz jeszcze szkolenia M2 ani M3. Ale **bez Ciebie Mykoła by tych pomiarów nie zrobił w godzinę**. Ty jesteś **ręka operatora**, która pisze. Odpowiedzialność formalną bierze on. **Odpowiedzialność koleżeńską masz** – jeśli pomylisz cyfrę w notesie i Mykoła przepisze źle do KEP-001, to **Mykoła odpowie**, nie Ty. Ale **Twoje zaufanie do niego stracisz** i on do Ciebie. To jest ważniejsze od papieru."*
 
-Wahan kiwa głową. Sprząta ze stołu notes roboczy – **zeszyt spiny drutem, strona wyrwana po ewidencji, oryginał do archiwum operatorskiego EGIDA**.
+Wasyl kiwa głową. Sprząta ze stołu notes roboczy – **zeszyt spiny drutem, strona wyrwana po ewidencji, oryginał do archiwum operatorskiego EGIDA**.
 
-### 14:50, ostatnie pytanie Rustama
+### 14:50, ostatnie pytanie Mykoły
 
-Rustam pyta Panią Anię przed wyjściem:
+Mykoła pyta Panią Anię przed wyjściem:
 
 *„Pani Aniu, a format **WZ** dla klienta – mogę Pani poprosić o przykład, żebym zobaczył oczami? Uczę się dziś nowej rzeczy."*
 
-Pani Ania otwiera segregator, wyjmuje **WZ z wczorajszej partii dębu Rustama** (wydanie do DOM-STOL Warszawa za 1,2 m³ blatów, wystawiona 18.06 rano przez Marka). Pokazuje:
+Pani Ania otwiera segregator, wyjmuje **WZ z wczorajszej partii dębu Mykoły** (wydanie do DOM-STOL Warszawa za 1,2 m³ blatów, wystawiona 18.06 rano przez Marka). Pokazuje:
 
 ```
 === WYDANIE ZEWNĘTRZNE – WZ nr EGIDA/2026/06/108 ===
@@ -408,43 +408,43 @@ Skan:       CRM EGIDA (archiwum cyfrowe)
 Podstawa:   § 12 ust. 3 regulaminu jakości reg.wew.05/2024
 ```
 
-Rustam ogląda WZ uważnie. **Zauważa**: w polu sprzedawcy – Marek Kowalski. W polu klasyfikatora – Pani Ania. Pole operatora nie istnieje.
+Mykoła ogląda WZ uważnie. **Zauważa**: w polu sprzedawcy – Marek Kowalski. W polu klasyfikatora – Pani Ania. Pole operatora nie istnieje.
 
 *„Pani Aniu, a gdzie moja rola w WZ?"*
 
 *„Twoja rola jest **w KEP-001**, która jest archiwum wewnętrznym. WZ to interfejs do klienta, tam występujemy my dwaj: ja (klasyfikator) i brygadzista (sprzedawca). Ty jesteś **niewidoczny w WZ, ale kluczowy w KEP-001**. **To jest architektura odpowiedzialności** – każdy widoczny tylko tam, gdzie ma uprawnienia i ubezpieczenie. Ty masz uprawnienia operatora M3, Twoje dane to KEP. Ja mam uprawnienia klasyfikatora, moje dane to klasyfikacja. Marek ma uprawnienia sprzedawcy, jego dane to cena i wydanie. Trzy podpisy, trzy zakresy odpowiedzialności."*
 
-Rustam notuje w pamięci. Wahan kiwa głową w stronę szafki – chowa notes roboczy. Kawa się kończy. Pani Ania wstaje.
+Mykoła notuje w pamięci. Wasyl kiwa głową w stronę szafki – chowa notes roboczy. Kawa się kończy. Pani Ania wstaje.
 
-*„Rustam, do widzenia. Kolejna partia będzie poniedziałek, brzozy 4 m³ pod tę samą umowę MebelPro. Tym razem 10% tylko weryfikuję, bo po dwóch dobrych partiach idziemy w pełną wyrywkę SPC. Dobrze? Dobrze. Do zobaczenia."*
+*„Mykoła, do widzenia. Kolejna partia będzie poniedziałek, brzozy 4 m³ pod tę samą umowę MebelPro. Tym razem 10% tylko weryfikuję, bo po dwóch dobrych partiach idziemy w pełną wyrywkę SPC. Dobrze? Dobrze. Do zobaczenia."*
 
-Pani Ania wychodzi. Rustam zamyka KEP-001 w segregatorze operatorskim **ZLE-2026-06-017**, wpisuje do swojego notesu zadania: „poniedziałek 22.06, brzoza kontynuacja, 10% weryfikacja Pani Ani – przygotuj KEP-001 równie dobrze jak dziś".
+Pani Ania wychodzi. Mykoła zamyka KEP-001 w segregatorze operatorskim **ZLE-2026-06-017**, wpisuje do swojego notesu zadania: „poniedziałek 22.06, brzoza kontynuacja, 10% weryfikacja Pani Ani – przygotuj KEP-001 równie dobrze jak dziś".
 
-### 14:55, Wahan i cisza
+### 14:55, Wasyl i cisza
 
-Wahan zostaje sam z Rustamem na placu przed halą:
+Wasyl zostaje sam z Mykołą na placu przed halą:
 
-*„Rustam, a Ty dziś nawet się nie uszedłeś. Nic nie tnąłeś. A mimo to **mówisz, że to był dobry dzień**."*
+*„Mykoła, a Ty dziś nawet się nie uszedłeś. Nic nie tnąłeś. A mimo to **mówisz, że to był dobry dzień**."*
 
-Rustam uśmiecha się:
+Mykoła uśmiecha się:
 
-*„Wahan, **operator M3 to nie tylko tnący. To też dokumentujący**. Dziś tnąłem rano 3,5 godziny, dokumentowałem godzinę, asystowałem Pani Ani 90 minut. **Praca M3 to 60% cięcie, 25% dokumentacja, 15% komunikacja**. Widzisz Panią Anię – spędza 90 minut na klasyfikacji, bo miała KEP-001 pełną. Gdyby nie miała – 3 godziny, i cały tartak stałby dłużej. **Dokumentacja przyspiesza tartak**, nie spowalnia. Tego się uczyłem przez rok, nadal nie zawsze pamiętam. Dziś Marek będzie zadowolony, bo partia wyjdzie do MebelPro w piątek, a nie w poniedziałek."*
+*„Wasyl, **operator M3 to nie tylko tnący. To też dokumentujący**. Dziś tnąłem rano 3,5 godziny, dokumentowałem godzinę, asystowałem Pani Ani 90 minut. **Praca M3 to 60% cięcie, 25% dokumentacja, 15% komunikacja**. Widzisz Panią Anię – spędza 90 minut na klasyfikacji, bo miała KEP-001 pełną. Gdyby nie miała – 3 godziny, i cały tartak stałby dłużej. **Dokumentacja przyspiesza tartak**, nie spowalnia. Tego się uczyłem przez rok, nadal nie zawsze pamiętam. Dziś Marek będzie zadowolony, bo partia wyjdzie do MebelPro w piątek, a nie w poniedziałek."*
 
-Wahan zamyka halę. Rustam zanosi KEP-001 do Marka w biurze. Marek patrzy na kartę:
+Wasyl zamyka halę. Mykoła zanosi KEP-001 do Marka w biurze. Marek patrzy na kartę:
 
-*„Rustam, pierwsze KEP-001 od Ciebie. Pani Ania już mi powiedziała po telefonie, że było bez uwag. Dobra robota. **Od 01.09.2026 wprowadzamy KEP-001 obowiązkowo dla wszystkich operatorów M3 w EGIDA** – będziesz wzorem. Damian i Robert (drugi M3) też się nauczą z Twojej dokumentacji. **Dodatek 3% za pracę dokumentacyjną licznie się zacznie od 01.01.2027, jeśli wytrzymasz 6 miesięcy zero-błędnie.** Rustam, tak trzymaj. Idź do domu."*
+*„Mykoła, pierwsze KEP-001 od Ciebie. Pani Ania już mi powiedziała po telefonie, że było bez uwag. Dobra robota. **Od 01.09.2026 wprowadzamy KEP-001 obowiązkowo dla wszystkich operatorów M3 w EGIDA** – będziesz wzorem. Damian i Robert (drugi M3) też się nauczą z Twojej dokumentacji. **Dodatek 3% za pracę dokumentacyjną licznie się zacznie od 01.01.2027, jeśli wytrzymasz 6 miesięcy zero-błędnie.** Mykoła, tak trzymaj. Idź do domu."*
 
-Rustam wraca do domu, w drodze pisze SMS do żony Elviry: „Dziś mój pierwszy KEP-001 bez błędu. Pani Ania pochwaliła. 3% dodatku jeśli 6 miesięcy zero-błędne." Elvira odpisuje: „💚 Obiad gotowy."
+Mykoła wraca do domu, w drodze pisze SMS do żony Elviry: „Dziś mój pierwszy KEP-001 bez błędu. Pani Ania pochwaliła. 3% dodatku jeśli 6 miesięcy zero-błędne." Elvira odpisuje: „💚 Obiad gotowy."
 
 ### 15:00, koniec zmiany
 
-W rubryce raportu zmianowego Rustama:
+W rubryce raportu zmianowego Mykoły:
 
 ```
-RAPORT ZMIANOWY 2026-06-18 (Rustam Nazarov, M3, P3 LT70)
+RAPORT ZMIANOWY 2026-06-18 (Mykoła Hrycenko, M3, P3 LT70)
 Start: 07:00
 Koniec: 15:00
-Obecni:  Rustam (M3, P3), Wahan (M1 pomocnik P3), Pani Ania (klasyfikator 13:00-14:50)
+Obecni:  Mykoła (M3, P3), Wasyl (M1 pomocnik P3), Pani Ania (klasyfikator 13:00-14:50)
          Marek (brygadzista biuro)
 Maszyna: P3 Wood-Mizer LT70 po serwisie łożysk 17.06, pierwsza zmiana pełna OK
 Zlecenie: ZLE-2026-06-017 brzoza BR-BR-06, 4 pnie, 78 desek, 0,505 m³
@@ -452,7 +452,7 @@ Dokumentacja: KEP-001 kompletna, przekazana Pani Ani 13:00, WZ nr EGIDA/2026/06/
                 podpisana 14:30, partia wysyłka poniedziałek 22.06
 Uwagi:   partia jednorodna, 100% przyjęta do C16 umownej, dwie krótsze 3850 udokumentowane
 Następna zmiana: piątek 19.06 ZLE-2026-06-018 sosna (wg dyspozycji Marka)
-Podpis: Rustam Nazarov, 2026-06-18 15:00
+Podpis: Mykoła Hrycenko, 2026-06-18 15:00
 ```
 
 ## Teoria: dokumentacja partii, KEP-001, WZ, podział odpowiedzialności
@@ -460,7 +460,7 @@ Podpis: Rustam Nazarov, 2026-06-18 15:00
 ### Czym jest KEP-001
 
 **Karta Ewidencyjna Partii (KEP-001)** to wewnętrzny dokument EGIDA, wprowadzony w marcu 2026 dla operatorów M3, zastępujący wcześniejszą praktykę „**klasyfikator mierzy sam**". KEP-001 jest **źródłem danych pomiarowych** przekazywanym klasyfikatorowi przed klasyfikacją, co:
-1. **Skraca czas klasyfikacji** o 30-60% (w przypadku brzozy Rustama z 3h do 90 min).
+1. **Skraca czas klasyfikacji** o 30-60% (w przypadku brzozy Mykoły z 3h do 90 min).
 2. **Rozdziela odpowiedzialność**: operator odpowiada za **pomiar**, klasyfikator za **ocenę klasy**.
 3. **Tworzy dowód archiwalny** na wypadek reklamacji (retencja 5 lat w segregatorze ZLE).
 4. **Podnosi operatora M3 do rangi dostawcy danych**, nie tylko przetwarzaj surowca.
@@ -490,7 +490,7 @@ Norma **PN-EN 13183-2 „Wilgotność próbki tarcicy – oznaczenie metodą ele
 **Rozrzut 1-3 pkt** = partia średnio jednorodna, suszenie z korektą programu.
 **Rozrzut > 3 pkt** = partia niejednorodna, **selekcja przed suszeniem** (oddzielić partie suchsze).
 
-Rustam dziś miał 0,6 pkt rozrzutu – **bardzo dobry wynik**.
+Mykoła dziś miał 0,6 pkt rozrzutu – **bardzo dobry wynik**.
 
 ### Klasy wad wizualnych PN-EN 1611-1
 
@@ -504,7 +504,7 @@ Rustam dziś miał 0,6 pkt rozrzutu – **bardzo dobry wynik**.
 
 Klasa A i B są **towarowe**, klasa C sprzedawana po **obniżonej cenie**, **odrzuty** idą na trociny/brykiet opałowy.
 
-**W przypadku brzozy Rustama:** 70 desek klasy A, 6 desek klasy B (sęk), 2 deski klasy B (wymiar krótszy), 0 desek C, 0 odrzutów – **100% partii towarowej**, co jest **bardzo dobrym wynikiem** (norma EGIDA to 90% partia towarowa, 10% odrzuty akceptowalne).
+**W przypadku brzozy Mykoły:** 70 desek klasy A, 6 desek klasy B (sęk), 2 deski klasy B (wymiar krótszy), 0 desek C, 0 odrzutów – **100% partii towarowej**, co jest **bardzo dobrym wynikiem** (norma EGIDA to 90% partia towarowa, 10% odrzuty akceptowalne).
 
 ### Podział odpowiedzialności operator / klasyfikator
 
@@ -546,9 +546,9 @@ Klasa A i B są **towarowe**, klasa C sprzedawana po **obniżonej cenie**, **odr
 3. **Wymiary nie są kwestią pamięci** – 20,1 mm vs 20,0 mm to 0,5% różnica, której nikt nie pamięta dokładnie po 6 godzinach.
 4. **Retrospektywne KEP-001 jest fałszywe w mocy dowodowej** – audytor albo prokurator w przypadku reklamacji sądowej zada pytanie: „kiedy zostało wypełnione". Jeśli data wypełnienia jest **później** niż data pomiaru, KEP-001 **traci wiarygodność**.
 
-**Zasada EGIDA**: KEP-001 wypełnia się **w trakcie pomiarów** (data = czas pomiaru, nie czas wypełnienia). Notes roboczy Wahana + przepisanie na KEP-001 w tym samym dniu = **zgodne z regułą** (nie jest „z pamięci", tylko „z notatek tego samego dnia").
+**Zasada EGIDA**: KEP-001 wypełnia się **w trakcie pomiarów** (data = czas pomiaru, nie czas wypełnienia). Notes roboczy Wasyla + przepisanie na KEP-001 w tym samym dniu = **zgodne z regułą** (nie jest „z pamięci", tylko „z notatek tego samego dnia").
 
-### Co Rustam się nauczył dziś
+### Co Mykoła się nauczył dziś
 
 Patrząc wstecz na zmianę 18.06:
 
@@ -596,8 +596,8 @@ Patrząc wstecz na zmianę 18.06:
 11. Dlaczego błędem jest wypełnianie KEP-001 **retrospektywnie** wieczorem „z pamięci"?
 12. Co to jest **oznaczenie literki S** na desce i co ono mówi klasyfikatorowi?
 13. Jaka jest **rola pomocnika M1** w procesie dokumentacyjnym, jeśli nie podpisuje dokumentów?
-14. Dlaczego deski 69 i 70 mają długość **3850 zamiast 4050 mm**? Co Rustam usunął?
-15. Jakie **trzy przyrządy pomiarowe** użył Rustam dziś i dlaczego każdy z nich musi mieć ważną **kalibrację**?
+14. Dlaczego deski 69 i 70 mają długość **3850 zamiast 4050 mm**? Co Mykoła usunął?
+15. Jakie **trzy przyrządy pomiarowe** użył Mykoła dziś i dlaczego każdy z nich musi mieć ważną **kalibrację**?
 16. Jaka jest **granica między pomiarem operatora a klasyfikacją** klasyfikatora w zakresie wytrzymałości drewna?
 17. Co powiedziała Pani Ania o **budowaniu reputacji** operatora przez dokumentację? Ile dokumentów trzeba dla SPC?
 18. Dlaczego klasyfikator ITB ma **obowiązkowe OC zawodowe 250 000 zł**, a operator M3 – nie?

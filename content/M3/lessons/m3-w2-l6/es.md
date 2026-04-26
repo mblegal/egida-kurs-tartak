@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Miércoles, 2026-05-13, 8:45. Rustam y Wahan terminan las mediciones de humedad en las cámaras de secado (pino del P3 listo para entrega al 9,3%, abeto del P4 para secado adicional al 11,9%). Ahora van a la nave de sierras. Plan del día: a las 9:30 empieza la **nueva campaña de roble** en la sierra de cinta **P3 Wood-Mizer LT70** (la sierra en la que Rustam trabaja de forma independiente desde el 4 de mayo, tras concluir el periodo bajo supervisión). Durante las tres semanas anteriores en la P3 cortó pino silvestre (recién apeado, humedad 50-65%, secciones estándar 50 × 150 para viguetas de forjado). El martes por la tarde terminaron los últimos rollizos de pino del pedido para Dom-Bud Piaseczno. Desde el miércoles a las 9:30 empieza el **roble común** (*Quercus robur*) del Distrito Forestal de Strzałowo cerca de Mrągowo. Los rollizos reposaron 6 meses en el almacén tras el apeo, parcialmente presecados, humedad 25-35%. Pedido: tablas de roble de 32 × 200 × 3000 mm, 2,8 m³, clase de calidad G2-1 (primera clase de ebanistería), cliente „Dąb-Meble" Piaseczno (el mismo al que hoy por la mañana hemos entregado el pino para carpintería de mueble).
+Miércoles, 2026-05-13, 8:45. Mykoła y Wasyl terminan las mediciones de humedad en las cámaras de secado (pino del P3 listo para entrega al 9,3%, abeto del P4 para secado adicional al 11,9%). Ahora van a la nave de sierras. Plan del día: a las 9:30 empieza la **nueva campaña de roble** en la sierra de cinta **P3 Wood-Mizer LT70** (la sierra en la que Mykoła trabaja de forma independiente desde el 4 de mayo, tras concluir el periodo bajo supervisión). Durante las tres semanas anteriores en la P3 cortó pino silvestre (recién apeado, humedad 50-65%, secciones estándar 50 × 150 para viguetas de forjado). El martes por la tarde terminaron los últimos rollizos de pino del pedido para Dom-Bud Piaseczno. Desde el miércoles a las 9:30 empieza el **roble común** (*Quercus robur*) del Distrito Forestal de Strzałowo cerca de Mrągowo. Los rollizos reposaron 6 meses en el almacén tras el apeo, parcialmente presecados, humedad 25-35%. Pedido: tablas de roble de 32 × 200 × 3000 mm, 2,8 m³, clase de calidad G2-1 (primera clase de ebanistería), cliente „Dąb-Meble" Piaseczno (el mismo al que hoy por la mañana hemos entregado el pino para carpintería de mueble).
 
-Cambio de especie significa **cambio de cinta**. El pino fresco exige otra cinta que el roble presecado. Rustam, antes de empezar la campaña de roble, tiene que desmontar la cinta actual (acero aleado, anchura 38 mm, paso de diente 22 mm, típica para pino fresco) y montar una nueva (acero estelita, 38 mm, paso 15 mm, para roble seco). El cambio de cinta en la Wood-Mizer LT70 le lleva al operador independiente **26 minutos** con la asistencia de un ayudante (desmontaje 8 minutos, montaje 12 minutos, regulación de tensión y de guías 6 minutos). Para un operador que lo hace por primera vez, sin asistencia, 40-50 minutos. Rustam ya lo ha hecho dos veces en M2 con el encargado Marek (instrucción junto al puesto), más una vez en M3 por su cuenta (3 de mayo, con la nota de entrada en el trabajo independiente).
+Cambio de especie significa **cambio de cinta**. El pino fresco exige otra cinta que el roble presecado. Mykoła, antes de empezar la campaña de roble, tiene que desmontar la cinta actual (acero aleado, anchura 38 mm, paso de diente 22 mm, típica para pino fresco) y montar una nueva (acero estelita, 38 mm, paso 15 mm, para roble seco). El cambio de cinta en la Wood-Mizer LT70 le lleva al operador independiente **26 minutos** con la asistencia de un ayudante (desmontaje 8 minutos, montaje 12 minutos, regulación de tensión y de guías 6 minutos). Para un operador que lo hace por primera vez, sin asistencia, 40-50 minutos. Mykoła ya lo ha hecho dos veces en M2 con el encargado Marek (instrucción junto al puesto), más una vez en M3 por su cuenta (3 de mayo, con la nota de entrada en el trabajo independiente).
 
 En la pared de la nave hay un panel con el catálogo de cintas EGIDA:
 
@@ -16,7 +16,7 @@ En la pared de la nave hay un panel con el catálogo de cintas EGIDA:
 - **Acero estelita** (premium, 320 zł/m, vida útil 50-70% más larga): roble seco, haya seca, especies tropicales.
 - **Bi-metal** (reforzada, 450 zł/m, uso poco frecuente): madera congelada, especies muy duras (nogal americano, wengué).
 
-Wahan mira el panel: *„Rustam, ¿por qué para el roble precisamente estelita y no aleada? La estelita cuesta 140 zł/m más. ¿Merece la pena?"*. Rustam responde: *„Porque el roble seco con humedad 25-35% es más duro que el pino fresco al 50%. La cinta aleada sobre roble seco se desgasta tres veces más rápido. La estelita aguanta. Calculamos coste por metro cúbico de madera, no por cinta. Con estelita una cinta hace 8-10 m³ de roble antes de cambiar, con aleada 2-3 m³. La economía es más favorable con estelita para el roble."*. Wahan asiente, lo apunta.
+Wasyl mira el panel: *„Mykoła, ¿por qué para el roble precisamente estelita y no aleada? La estelita cuesta 140 zł/m más. ¿Merece la pena?"*. Mykoła responde: *„Porque el roble seco con humedad 25-35% es más duro que el pino fresco al 50%. La cinta aleada sobre roble seco se desgasta tres veces más rápido. La estelita aguanta. Calculamos coste por metro cúbico de madera, no por cinta. Con estelita una cinta hace 8-10 m³ de roble antes de cambiar, con aleada 2-3 m³. La economía es más favorable con estelita para el roble."*. Wasyl asiente, lo apunta.
 
 ## Objetivos
 
@@ -165,7 +165,7 @@ El paso de diente es la **distancia entre las cimas de dientes contiguos** en la
 - **Vida útil:** 4-5 m³.
 - **Frecuencia de cambio:** cada 3-4 días.
 
-Además de estos tres escenarios hay combinaciones menos frecuentes (haya seca, fresno, alerce, madera tropical), pero para un operador principiante en M3 (como Rustam) los tres escenarios principales cubren el **85% del trabajo**.
+Además de estos tres escenarios hay combinaciones menos frecuentes (haya seca, fresno, alerce, madera tropical), pero para un operador principiante en M3 (como Mykoła) los tres escenarios principales cubren el **85% del trabajo**.
 
 ::: warning
 **No se puede cambiar el paso de diente en una cinta existente**. El paso es fijo, tallado o moldeado en fábrica. Cambiar el paso = cambiar la cinta. Error de operadores principiantes: intentan cortar pino fresco con una cinta de 15 mm (porque quedó tras el roble). Efecto: atasco en el corte, sobrecalentamiento, rotura de la cinta tras 20-30 minutos. **Comprueba siempre el tipo de cinta antes de arrancar la máquina**: la etiqueta de la cinta (grabada o sobre adhesivo) indica tipo, anchura, paso, fecha de la última regeneración. La comprobación lleva 20 segundos, una cinta incorrecta supone rotura, 30 min de parada, posible daño de los volantes o las guías.
@@ -173,43 +173,43 @@ Además de estos tres escenarios hay combinaciones menos frecuentes (haya seca, 
 
 ### Escena de cambio de cinta: P3 Wood-Mizer LT70, 8:50-9:20
 
-Rustam y Wahan están junto a la sierra P3. Sierra en STOP, alimentación cortada, candado LOTO (Bloqueo y Etiquetado) en el interruptor general (procedimiento de m3-w1-l4). Rustam lleva la cinta nueva (estelita 38 mm, paso 15 mm, longitud 4200 mm, sacada del almacén de cintas).
+Mykoła y Wasyl están junto a la sierra P3. Sierra en STOP, alimentación cortada, candado LOTO (Bloqueo y Etiquetado) en el interruptor general (procedimiento de m3-w1-l4). Mykoła lleva la cinta nueva (estelita 38 mm, paso 15 mm, longitud 4200 mm, sacada del almacén de cintas).
 
-> **Rustam:** „Wahan, abrimos el protector de volantes. Protector superior, cuatro tornillos M8, llave del 13."
+> **Mykoła:** „Wasyl, abrimos el protector de volantes. Protector superior, cuatro tornillos M8, llave del 13."
 >
-> **Wahan:** „Hecho, protector retirado. Veo la cinta."
+> **Wasyl:** „Hecho, protector retirado. Veo la cinta."
 
-Vemos la cinta vieja (aleada 38/22 de la campaña de pino) sobre los volantes. Volante superior (tensor) e inferior (de arrastre). Rustam afloja el **mando de tensión** (volante lateral de la carcasa), la tensión cae de 2400 PSI a 0.
+Vemos la cinta vieja (aleada 38/22 de la campaña de pino) sobre los volantes. Volante superior (tensor) e inferior (de arrastre). Mykoła afloja el **mando de tensión** (volante lateral de la carcasa), la tensión cae de 2400 PSI a 0.
 
-> **Rustam:** „Tensión liberada. Ahora retiramos la cinta del volante superior. Con cuidado, dientes hacia fuera."
+> **Mykoła:** „Tensión liberada. Ahora retiramos la cinta del volante superior. Con cuidado, dientes hacia fuera."
 
-Rustam y Wahan retiran la cinta del volante superior. La cinta rodea de forma holgada el volante inferior. Rustam desplaza la cinta hacia abajo, la retira del volante inferior. La cinta vieja la enrollan en forma de ocho (procedimiento estándar, las cintas se almacenan en forma de lazo doble, para que quepan en el contenedor), la dejan en el contenedor de cintas usadas (para regeneración o para chatarra).
+Mykoła y Wasyl retiran la cinta del volante superior. La cinta rodea de forma holgada el volante inferior. Mykoła desplaza la cinta hacia abajo, la retira del volante inferior. La cinta vieja la enrollan en forma de ocho (procedimiento estándar, las cintas se almacenan en forma de lazo doble, para que quepan en el contenedor), la dejan en el contenedor de cintas usadas (para regeneración o para chatarra).
 
 Tiempo: **8 minutos** (incluye la apertura del protector).
 
-> **Rustam:** „Ahora la nueva. Estelita 38/15, comprueba la etiqueta."
+> **Mykoła:** „Ahora la nueva. Estelita 38/15, comprueba la etiqueta."
 >
-> **Wahan** (leyendo): „Munkfors Scandinavia, Stellite 38 × 4200, paso 15 mm, fecha de fabricación 2026-04-20. Correcto."
+> **Wasyl** (leyendo): „Munkfors Scandinavia, Stellite 38 × 4200, paso 15 mm, fecha de fabricación 2026-04-20. Correcto."
 
-Rustam desenrolla la cinta nueva del lazo, comprueba el sentido de los dientes (la flecha de la cinta indica el sentido de giro, tiene que coincidir con el sentido de giro de los volantes de la sierra, izquierda para la P3). La coloca sobre el volante inferior, la pasa hacia arriba al volante superior. Tensión previa 2000 PSI (mando).
+Mykoła desenrolla la cinta nueva del lazo, comprueba el sentido de los dientes (la flecha de la cinta indica el sentido de giro, tiene que coincidir con el sentido de giro de los volantes de la sierra, izquierda para la P3). La coloca sobre el volante inferior, la pasa hacia arriba al volante superior. Tensión previa 2000 PSI (mando).
 
-> **Rustam:** „Ahora las guías. Holgura estándar 3-4 mm entre la cinta y la guía."
+> **Mykoła:** „Ahora las guías. Holgura estándar 3-4 mm entre la cinta y la guía."
 
-Rustam ajusta las tres guías (superior, inferior, lateral) con llave Allen. Comprueba la holgura con una galga de 3 mm. Encaja.
+Mykoła ajusta las tres guías (superior, inferior, lateral) con llave Allen. Comprueba la holgura con una galga de 3 mm. Encaja.
 
 Tiempo de montaje: **12 minutos**.
 
-> **Rustam:** „Ahora la regulación de tensión hasta 2400 PSI. Y la prueba."
+> **Mykoła:** „Ahora la regulación de tensión hasta 2400 PSI. Y la prueba."
 
-Rustam aprieta el mando de tensión, el manómetro marca 2400. Arranca el motor brevemente (3 segundos, marcha libre sin carga), observa los volantes. La cinta se mueve de forma uniforme, sin vibraciones laterales. Se detiene.
+Mykoła aprieta el mando de tensión, el manómetro marca 2400. Arranca el motor brevemente (3 segundos, marcha libre sin carga), observa los volantes. La cinta se mueve de forma uniforme, sin vibraciones laterales. Se detiene.
 
-> **Rustam:** „Todo en orden. Monto el protector, quito el LOTO, sierra lista."
+> **Mykoła:** „Todo en orden. Monto el protector, quito el LOTO, sierra lista."
 
 Regulación: **6 minutos**. En total: **26 minutos**, según lo previsto.
 
-> **Wahan:** „¿Listos para el roble?"
+> **Wasyl:** „¿Listos para el roble?"
 >
-> **Rustam:** „Listos. El primer rollizo de roble espera en el carro de alimentación. Lo meto, arrancamos a las 9:30 según la orden."
+> **Mykoła:** „Listos. El primer rollizo de roble espera en el carro de alimentación. Lo meto, arrancamos a las 9:30 según la orden."
 
 ### Vida útil de la cinta y regeneración
 
@@ -268,7 +268,7 @@ Cambio de cinta en la Wood-Mizer LT70 por el operador independiente con asistenc
 
 Economía: la estelita sobre roble es más cara en la compra (320 frente a 180 zł), pero **cuatro veces más barata por m³** de madera (7,50 frente a 30 zł/m³), gracias a la vida útil larga más la regeneración (4 ciclos). La aleada sobre roble no es recomendable (desgaste demasiado rápido, coste no competitivo).
 
-Hoy Rustam y Wahan han cambiado la cinta en la P3 de aleada a estelita en 26 minutos, conforme al plan. Desde las 9:30 empieza la campaña de roble (2,8 m³ durante 3 días). Rustam como operador independiente conoce sus tres escenarios de selección, distingue el paso, entiende la economía de la regeneración. En el futuro, cuando Marek (encargado) le pase la orden „mañana alerce seco de los Beskidy", Rustam elegirá por sí mismo la cinta (probablemente estelita 38/15, porque el alerce seco es parecido al roble en dureza).
+Hoy Mykoła y Wasyl han cambiado la cinta en la P3 de aleada a estelita en 26 minutos, conforme al plan. Desde las 9:30 empieza la campaña de roble (2,8 m³ durante 3 días). Mykoła como operador independiente conoce sus tres escenarios de selección, distingue el paso, entiende la economía de la regeneración. En el futuro, cuando Marek (encargado) le pase la orden „mañana alerce seco de los Beskidy", Mykoła elegirá por sí mismo la cinta (probablemente estelita 38/15, porque el alerce seco es parecido al roble en dureza).
 
 En la próxima lección (m3-w2-l7) pasamos a la **geometría del filo y el trabado de los dientes**: punta, trabado, ángulo de ataque, evaluación visual del embotamiento y de las microfisuras en la base del diente (las dos causas más frecuentes de rotura de la cinta durante el corte).
 

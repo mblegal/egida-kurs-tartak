@@ -48,11 +48,11 @@ Umbrales de clase A de pino (resumen de M2 T2 l5):
 - Torsión de fibra hasta 5%, desviación de rectitud hasta 4 mm/m lineal
 - Sin moho, sin azulado, sin oscurecimiento del duramen
 
-**Pista analítica (para el formador)**. Se activan: **clases A-D de l5 T2**, **reclasificación de l8 T3**, **principio «certificación sin prueba = falta de certificación» de l3 T4 Bloque 1**. El paquete NO es de clase A (3 tablas con nudos agrietados >12 mm rompen el umbral + 2 fisuras >50 mm/m lineal). Opciones: (a) acepto como clase B + registro en el diario + actualización TartakERP + entrada en el registro de entregas; (b) escalo al capataz en formato 4W antes de la recepción porque la diferencia de precio es de 15-25 zł/tabla × 60 tablas = 900-1500 zł de diferencia. El operador junior NO acepta por su cuenta una diferencia de clase, escala. Formato 4W: «Marek, Hai, explanada de troncos, 8:30, paquete SO-SW-A-260420-019 con defectos que exceden la clase A, solicito decisión de recepción».
+**Pista analítica (para el formador)**. Se activan: **clases A-D de l5 T2**, **reclasificación de l8 T3**, **principio «certificación sin prueba = falta de certificación» de l3 T4 Bloque 1**. El paquete NO es de clase A (3 tablas con nudos agrietados >12 mm rompen el umbral + 2 fisuras >50 mm/m lineal). Opciones: (a) acepto como clase B + registro en el diario + actualización TartakERP + entrada en el registro de entregas; (b) escalo al capataz en formato 4W antes de la recepción porque la diferencia de precio es de 15-25 zł/tabla × 60 tablas = 900-1500 zł de diferencia. El operador junior NO acepta por su cuenta una diferencia de clase, escala. Formato 4W: «Marek, Andrij, explanada de troncos, 8:30, paquete SO-SW-A-260420-019 con defectos que exceden la clase A, solicito decisión de recepción».
 
 ### Ejercicio 2: «Humedad tras el transporte»
 
-**Contexto**. Lunes 7:15, el paquete de roble SO-DĄB-FSC-260420-022 ha llegado por la noche. Has medido la humedad con xilohigrómetro de impacto (Brookhuis): 4 puntos de medición dan 24,5% / 26,1% / 23,8% / 25,2%. La orden de aserrado indica que el roble debe entrar hoy en la cámara de secado después de las 10:00. Zbigniew Majchrzak te pregunta «Hai, ¿qué humedad tiene el paquete? ¿Programamos la cámara en variante de verde o de transporte?».
+**Contexto**. Lunes 7:15, el paquete de roble SO-DĄB-FSC-260420-022 ha llegado por la noche. Has medido la humedad con xilohigrómetro de impacto (Brookhuis): 4 puntos de medición dan 24,5% / 26,1% / 23,8% / 25,2%. La orden de aserrado indica que el roble debe entrar hoy en la cámara de secado después de las 10:00. Zbigniew Majchrzak te pregunta «Andrij, ¿qué humedad tiene el paquete? ¿Programamos la cámara en variante de verde o de transporte?».
 
 **Preguntas**:
 1. ¿Cuál es la MC media y la dispersión?
@@ -127,11 +127,11 @@ Tabla de presiones de tensado Wood-Mizer LT40 (de M2 T3 l2):
 2. ¿Qué reportas y a quién?
 3. ¿Qué riesgo hay si lo ignoras?
 
-**Pista**. **TERMINA EL CORTE ACTUAL** (seguridad: no sacar la cinta del tronco, no cambiar parámetros en movimiento), luego STOP. Se activan: **STOP controlado de l2 T3**, **descripción sintomática no diagnóstica de l5 T4 Bloque 2**, **3 categorías de urgencia**. Reporte: **Piotr Czerwiński jefe de turno** (el capataz Marek está fuera del aserradero, se permite salto de nivel + SMS a Marek). Formato 4W: «Piotr, Hai, sierra de cinta 2, 11:30, nuevo chasquido metálico en cada corte desde hace 2 min, amperímetro normal, STOP tras la 15.ª viga, solicito diagnóstico del mecánico». NO escribo «rodamiento dañado» porque es un diagnóstico que requiere experiencia. Riesgos de ignorar: (a) desgaste de la rueda motriz o del rodamiento de la guía = reparación 8-15 mil zł + parada 1-2 días, (b) posible rotura de la cinta en marcha = peligro para el operador (velocidad de la cinta 28-32 m/s, la rotura saldrá disparada como un proyectil).
+**Pista**. **TERMINA EL CORTE ACTUAL** (seguridad: no sacar la cinta del tronco, no cambiar parámetros en movimiento), luego STOP. Se activan: **STOP controlado de l2 T3**, **descripción sintomática no diagnóstica de l5 T4 Bloque 2**, **3 categorías de urgencia**. Reporte: **Piotr Czerwiński jefe de turno** (el capataz Marek está fuera del aserradero, se permite salto de nivel + SMS a Marek). Formato 4W: «Piotr, Andrij, sierra de cinta 2, 11:30, nuevo chasquido metálico en cada corte desde hace 2 min, amperímetro normal, STOP tras la 15.ª viga, solicito diagnóstico del mecánico». NO escribo «rodamiento dañado» porque es un diagnóstico que requiere experiencia. Riesgos de ignorar: (a) desgaste de la rueda motriz o del rodamiento de la guía = reparación 8-15 mil zł + parada 1-2 días, (b) posible rotura de la cinta en marcha = peligro para el operador (velocidad de la cinta 28-32 m/s, la rotura saldrá disparada como un proyectil).
 
 ### Ejercicio 7: «Clasificación bajo presión de tiempo»
 
-**Contexto**. Jueves 14:30, última hora del turno. Piotr Czerwiński viene y dice «Hai, Marek ha cambiado el plan, 30 tablas de clase A deben salir al cliente el viernes por la mañana, clasifica más rápido ahora». Quedan 40 tablas por clasificar. Tu velocidad media de clasificación: 3 minutos por tabla con medición de humedad + evaluación de defectos. 40 tablas × 3 min = 120 min = 2 horas. El turno acaba en 1,5 h. Piotr: «no tienes salida, lo hacemos».
+**Contexto**. Jueves 14:30, última hora del turno. Piotr Czerwiński viene y dice «Andrij, Marek ha cambiado el plan, 30 tablas de clase A deben salir al cliente el viernes por la mañana, clasifica más rápido ahora». Quedan 40 tablas por clasificar. Tu velocidad media de clasificación: 3 minutos por tabla con medición de humedad + evaluación de defectos. 40 tablas × 3 min = 120 min = 2 horas. El turno acaba en 1,5 h. Piotr: «no tienes salida, lo hacemos».
 
 **Preguntas**:
 1. ¿Aceptas acelerar?
@@ -174,18 +174,18 @@ Campos de la orden de aserrado (resumen de M2 T4 Bloque 1 l1):
 
 ### Ejercicio 9: «Diario tras un turno complicado»
 
-**Contexto**. Viernes 13:50, 5 min para el final del turno. Rellenas el diario verde ZMI-2026-094-01. El turno ha sido agitado: (a) 3 paradas de cintas (cambio, desafilado, atasco), (b) 1 cambio de prioridad de Marek verbalmente y luego por escrito, (c) viga agrietada reportada a Piotr, (d) rotación con Oleksii durante media hora (Oleksii en la sierra de cinta, tú en la clasificación). El ciclo del lunes lo revisará Maricel.
+**Contexto**. Viernes 13:50, 5 min para el final del turno. Rellenas el diario verde ZMI-2026-094-01. El turno ha sido agitado: (a) 3 paradas de cintas (cambio, desafilado, atasco), (b) 1 cambio de prioridad de Marek verbalmente y luego por escrito, (c) viga agrietada reportada a Piotr, (d) rotación con Oleksij durante media hora (Oleksij en la sierra de cinta, tú en la clasificación). El ciclo del lunes lo revisará Sofía.
 
 **Preguntas**:
 1. ¿Qué 8 campos principales deben estar rellenos?
 2. ¿Qué información para la relevista incluyes en el campo de averías y en la tabla de cintas?
 3. ¿Qué anotaciones adicionales fuera de los 8 campos?
 
-**Pista**. **Ocho campos principales** (de l2 T4 Bloque 1): número, fecha, operador, máquina, horas motor, m³ entrada, m³ salida, indicador de rendimiento. Más **tablas**: paradas T/M/O/P con propietario, cintas con desafilados. Más **campo de averías** en formato de 3 partes qué/cuándo/qué hice (no diagnóstico). Para Maricel, información clave: (a) cinta 11 dejada en la sierra con desafilado de unos 180 cortes = a sustituir el lunes, (b) viga 4 agrietada del paquete SO-DĄB-FSC-003 reportada a Piotr 9:15, cuarentena en el campo este, (c) rotación de clasificación a sierra de cinta buena práctica, Oleksii dispuesto, se puede repetir. Anotaciones adicionales: (a) cambio de prioridad verbal a las 10:20 de B→A, confirmación escrita a lápiz por Marek a las 10:23 con iniciales «M.N.», (b) viga agrietada trasladada a cuarentena + número de reporte a Piotr. **Hábito de libreta A6**: todas las horas exactas de la libreta, no de memoria. **El diario tiene dos destinatarios**: blanco para Marek → despachador, verde para Maricel → conocimiento operativo.
+**Pista**. **Ocho campos principales** (de l2 T4 Bloque 1): número, fecha, operador, máquina, horas motor, m³ entrada, m³ salida, indicador de rendimiento. Más **tablas**: paradas T/M/O/P con propietario, cintas con desafilados. Más **campo de averías** en formato de 3 partes qué/cuándo/qué hice (no diagnóstico). Para Sofía, información clave: (a) cinta 11 dejada en la sierra con desafilado de unos 180 cortes = a sustituir el lunes, (b) viga 4 agrietada del paquete SO-DĄB-FSC-003 reportada a Piotr 9:15, cuarentena en el campo este, (c) rotación de clasificación a sierra de cinta buena práctica, Oleksij dispuesto, se puede repetir. Anotaciones adicionales: (a) cambio de prioridad verbal a las 10:20 de B→A, confirmación escrita a lápiz por Marek a las 10:23 con iniciales «M.N.», (b) viga agrietada trasladada a cuarentena + número de reporte a Piotr. **Hábito de libreta A6**: todas las horas exactas de la libreta, no de memoria. **El diario tiene dos destinatarios**: blanco para Marek → despachador, verde para Sofía → conocimiento operativo.
 
 ### Ejercicio 10: «Certificado FSC en la práctica»
 
-**Contexto**. Martes 10:15. Nueva orden de aserrado DP-2026-055 del cliente Kingfisher Polska, pedido KF-2026-003. Roble 50×200×3000 mm, clase C24, 100 uds., marcado FSC 100%. Kingfisher exige **documentación completa de la cadena de custodia**: etiqueta del paquete, registro de recepción, certificado del remitente (FSC-C012345 EGIDA), documento que acredite el campo FSC de almacenamiento. Marek pregunta: «Hai, ¿lista de cosas a vigilar para este cliente?».
+**Contexto**. Martes 10:15. Nueva orden de aserrado DP-2026-055 del cliente Kingfisher Polska, pedido KF-2026-003. Roble 50×200×3000 mm, clase C24, 100 uds., marcado FSC 100%. Kingfisher exige **documentación completa de la cadena de custodia**: etiqueta del paquete, registro de recepción, certificado del remitente (FSC-C012345 EGIDA), documento que acredite el campo FSC de almacenamiento. Marek pregunta: «Andrij, ¿lista de cosas a vigilar para este cliente?».
 
 **Preguntas**:
 1. ¿Qué es el «chain-of-custody» para este paquete?
@@ -211,18 +211,18 @@ Campos de la orden de aserrado (resumen de M2 T4 Bloque 1 l1):
 
 ### Ejercicio 12: «Un compañero da cabezadas junto a la sierra de cinta»
 
-**Contexto**. Miércoles 14:45, 7.ª hora del turno. El compañero Emeka (operador de la sierra de cinta 3) da cabezadas durante unos segundos de pie junto al puesto entre cortes. Lo ves desde la sierra de cinta 2, a 8 m de distancia. La sierra de cinta 3 justo está terminando un corte, Emeka va a iniciar el siguiente ciclo. No hay capataz, Piotr Czerwiński está en la oficina.
+**Contexto**. Miércoles 14:45, 7.ª hora del turno. El compañero Carlos (operador de la sierra de cinta 3) da cabezadas durante unos segundos de pie junto al puesto entre cortes. Lo ves desde la sierra de cinta 2, a 8 m de distancia. La sierra de cinta 3 justo está terminando un corte, Carlos va a iniciar el siguiente ciclo. No hay capataz, Piotr Czerwiński está en la oficina.
 
 **Preguntas**:
 1. ¿Es esto un problema o le pasa a cualquiera?
 2. ¿Qué haces en los próximos 30 segundos?
 3. ¿Cuál es el riesgo objetivo?
 
-**Pista**. **Le pasa a cualquiera**, pero **la 7.ª hora es la hora punta de riesgo de accidente, un 24%** (CIOP-PIB 2019-2023, l6 T4 Bloque 2). Una cabezada junto a una máquina con velocidad de cinta 28-32 m/s = riesgo inmediato. 30 segundos: (a) grito «¡Emeka! ¡Emeka!» para despertarlo antes del siguiente ciclo, (b) gesto STOP hacia él, (c) me acerco tras asegurar la sierra de cinta 2 (parada), (d) conversación breve «tío, te he visto, ¿necesitas una micropausa?», (e) si es así, parada de su sierra de cinta + llamada a Piotr en formato 4W «Piotr, Hai, sierra de cinta 3, 14:45, Emeka 3 señales de fatiga + cabezada, solicito rotación o 10 min de micropausa» + SMS a Marek. **Se activan**: **autorregulación de l6 T4 Bloque 2**, **el operador monitoriza la fatiga de los compañeros** (diferencia operador-junior pto. 5), **5 niveles de escalado**. Riesgo objetivo: mano en la zona de la cinta, amputación o muerte, estadística PIP 41 muertos al año en el sector de transformación de la madera.
+**Pista**. **Le pasa a cualquiera**, pero **la 7.ª hora es la hora punta de riesgo de accidente, un 24%** (CIOP-PIB 2019-2023, l6 T4 Bloque 2). Una cabezada junto a una máquina con velocidad de cinta 28-32 m/s = riesgo inmediato. 30 segundos: (a) grito «¡Carlos! ¡Carlos!» para despertarlo antes del siguiente ciclo, (b) gesto STOP hacia él, (c) me acerco tras asegurar la sierra de cinta 2 (parada), (d) conversación breve «tío, te he visto, ¿necesitas una micropausa?», (e) si es así, parada de su sierra de cinta + llamada a Piotr en formato 4W «Piotr, Andrij, sierra de cinta 3, 14:45, Carlos 3 señales de fatiga + cabezada, solicito rotación o 10 min de micropausa» + SMS a Marek. **Se activan**: **autorregulación de l6 T4 Bloque 2**, **el operador monitoriza la fatiga de los compañeros** (diferencia operador-junior pto. 5), **5 niveles de escalado**. Riesgo objetivo: mano en la zona de la cinta, amputación o muerte, estadística PIP 41 muertos al año en el sector de transformación de la madera.
 
 ### Ejercicio 13: «Conflicto con Krzysztof»
 
-**Contexto**. Viernes 11:00. Krzysztof Zagrodny te dice con descontento: «Hai, ¿cuántas veces tengo que esperar a que hagas el gesto LISTO? Tengo 12 paquetes hoy, no puedo esperar 2 min por cada uno». Tú necesitas 2 min porque solo pasas al siguiente paquete tras comprobar la etiqueta y registrar en el diario el anterior.
+**Contexto**. Viernes 11:00. Krzysztof Zagrodny te dice con descontento: «Andrij, ¿cuántas veces tengo que esperar a que hagas el gesto LISTO? Tengo 12 paquetes hoy, no puedo esperar 2 min por cada uno». Tú necesitas 2 min porque solo pasas al siguiente paquete tras comprobar la etiqueta y registrar en el diario el anterior.
 
 **Preguntas**:
 1. ¿Tiene razón Krzysztof?
@@ -248,7 +248,7 @@ Campos de la orden de aserrado (resumen de M2 T4 Bloque 1 l1):
 
 ### Ejercicio 15: «Cadena completa de reclasificación»
 
-**Contexto**. Viernes 8:00, abrís con Zbigniew la cámara 2 tras el ciclo de pino SO-SW-A-260420-015 (cargaste hace 10 días). Primeras mediciones: media MC 11,4%, dispersión 2,8% (por encima de la norma <2%). Abres las tablas de la posición D (la más baja, centro), ves 2 tablas con fisuras frontales de 1/3 del ancho (frontera A/B). Zbigniew dice «Hai, ¿tu valoración?». El cliente Dębowy Dom ha pedido 30 tablas A de este lote.
+**Contexto**. Viernes 8:00, abrís con Zbigniew la cámara 2 tras el ciclo de pino SO-SW-A-260420-015 (cargaste hace 10 días). Primeras mediciones: media MC 11,4%, dispersión 2,8% (por encima de la norma <2%). Abres las tablas de la posición D (la más baja, centro), ves 2 tablas con fisuras frontales de 1/3 del ancho (frontera A/B). Zbigniew dice «Andrij, ¿tu valoración?». El cliente Dębowy Dom ha pedido 30 tablas A de este lote.
 
 **Preguntas**:
 1. ¿Cuál es el diagnóstico completo del lote?
@@ -267,10 +267,10 @@ Campos de la orden de aserrado (resumen de M2 T4 Bloque 1 l1):
 
 **Debate**. Lees el contexto en voz alta (2 min), 3 min de silencio para reflexión individual, abres el debate: «¿quién tiene una idea?». Los migrantes de nivel A0-A1 de polaco necesitan estímulo, apunta por el nombre. Si alguien habla en su lengua materna al vecino, acepta 30 s → luego «en polaco para todos».
 
-**Feedback**. Después de cada ejercicio lees la pista analítica. La comparas con las respuestas del grupo: «Maricel ha dicho A, Oleksii B, la pista dice B, ¿por qué?». El objetivo es la **brecha consciente**, no un resultado binario bien/mal.
+**Feedback**. Después de cada ejercicio lees la pista analítica. La comparas con las respuestas del grupo: «Sofía ha dicho A, Oleksij B, la pista dice B, ¿por qué?». El objetivo es la **brecha consciente**, no un resultado binario bien/mal.
 
 **Diagnóstico**. Anota en una hoja privada quién tiene dificultad con qué área. Antes del test del viernes l8 haz 15 min de consulta individual con 2-3 cursillistas con las mayores lagunas.
 
 **Mezcla de áreas**. Los ejercicios integradores 14 + 15 hazlos sí o sí (después de los bloques 1-3), porque revelan si el cursillista es capaz de **conectar** las 4 áreas, no solo conocer cada una por separado. En el examen práctico del martes (5 criterios de Piotr) la integración es clave.
 
-**Culturas**. Ucranianos y bielorrusos debaten de buena gana sobre el incumplimiento de normas (tienen esa cultura), vietnamitas y filipinos raramente (cultura de respeto al superior). Hazles preguntas directas, entonces hablan. Un georgiano puede oponerse a todos en el debate, dale espacio, está verificando su identidad.
+**Culturas**. Los ucranianos (en especial de Járkov, Kiev, Leópolis) debaten de buena gana sobre el incumplimiento de normas: cargan con el trasfondo de la «zona gris» y lo tratan como tema normal. Los colombianos y otros latinos (Venezuela, Perú) pueden ser más reservados porque heredan el «usted» hacia el capataz en su cultura laboral: hazles preguntas directas, entonces hablan. Algún cursillista puede oponerse a todos en el debate; dale espacio, está verificando su identidad en el grupo.

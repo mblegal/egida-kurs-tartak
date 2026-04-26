@@ -10,7 +10,7 @@ In lesson 1 you crossed the threshold of M3: "report after the fact, not before 
 
 In M2 the *brygadzista* (foreman) Marek ran the briefing and you stood in the circle and listened. In M3 the circle stays the same, but **you stand in the middle**. The helper from the new cohort listens to you. The junior operator from M2 listens to you. Foreman Marek stands behind you and confirms that the briefing took place. Your signature in the briefing log closes the five minutes. The rest of the day runs under the signature of that signature.
 
-Today's lesson shows four things: why a **self-reliant operator** has a duty to run a workstation briefing (not only the plant-wide one), how to build a five-minute format without pathos, how to choose a topic for the specific day and the specific team, and how to write the briefing into the log so that it survives a PIP (*Państwowa Inspekcja Pracy*, State Labour Inspectorate) audit. Rustam will run his first briefing today. At 6:55, at sawbench P3, two minutes after Wahan and Murat put down their jackets. We will be with him through all five minutes.
+Today's lesson shows four things: why a **self-reliant operator** has a duty to run a workstation briefing (not only the plant-wide one), how to build a five-minute format without pathos, how to choose a topic for the specific day and the specific team, and how to write the briefing into the log so that it survives a PIP (*Państwowa Inspekcja Pracy*, State Labour Inspectorate) audit. Mykoła will run his first briefing today. At 6:55, at sawbench P3, two minutes after Wasyl and Murat put down their jackets. We will be with him through all five minutes.
 
 ## Objectives
 
@@ -56,7 +56,7 @@ The briefing has to keep rhythm. Five blocks of 60 seconds each. Not four, not s
 
 **Block 1 (0:00–1:00): opening.** You greet by name. Two pieces of context: what day it is (Monday, Tuesday...) and what you are processing today (pine batch 47, oak batch 12, whatever). No personal comments like "how was the weekend". A briefing is not gossip.
 
-> "Good morning, Wahan, good morning, Murat. Today is Monday, 21 April. P3 is running pine, batch 47, first shift after the weekend."
+> "Good morning, Wasyl, good morning, Murat. Today is Monday, 21 April. P3 is running pine, batch 47, first shift after the weekend."
 
 **Block 2 (1:00–2:00): topic of the day.** One sentence that says what is unusual today. This is the heart of the briefing. You pick the topic from five sources (see below). Without a topic the briefing does not exist.
 
@@ -64,18 +64,18 @@ The briefing has to keep rhythm. Five blocks of 60 seconds each. Not four, not s
 
 **Block 3 (2:00–3:00): workstation specifics.** One concrete thing you will do differently today. Not philosophy, just a gesture.
 
-> "Idle run today is 3 minutes instead of 1 before the first log goes in. Murat, you check the band temperature by hand every 5 minutes for the first half hour. Wahan, you keep a distance of 4 metres instead of 3 for the first hour, because we do not yet know the band kickback after the weld."
+> "Idle run today is 3 minutes instead of 1 before the first log goes in. Murat, you check the band temperature by hand every 5 minutes for the first half hour. Wasyl, you keep a distance of 4 metres instead of 3 for the first hour, because we do not yet know the band kickback after the weld."
 
 **Block 4 (3:00–4:00): control question.** One specific thing to be repeated by someone on the team. Not "is that clear". A specific question.
 
-> "Wahan, what distance do you keep today?"
+> "Wasyl, what distance do you keep today?"
 > "Four metres. First hour."
 > "Murat, what do you check by hand every 5 minutes?"
 > "Band temperature. Half an hour."
 
-**Block 5 (4:00–5:00): sign-off.** Signature in the log. A short entry: topic, those present, your signature. Wahan and Murat do not sign (they are lower in the workstation hierarchy), but you confirm their presence.
+**Block 5 (4:00–5:00): sign-off.** Signature in the log. A short entry: topic, those present, your signature. Wasyl and Murat do not sign (they are lower in the workstation hierarchy), but you confirm their presence.
 
-> (you write on the P3 tablet) *"Workstation briefing 21.04, 6:55–7:00. Topic: warming up the band after replacement. Present: R. Nazarov (leading), W. Petrosjan (helper), M. Kaya (junior operator). Signature: R. Nazarov."*
+> (you write on the P3 tablet) *"Workstation briefing 21.04, 6:55–7:00. Topic: warming up the band after replacement. Present: R. Hrycenko (leading), W. Melnyk (helper), M. Kaya (junior operator). Signature: R. Hrycenko."*
 
 ::: tip
 Why exactly 5 minutes and not 3 or 10? Five minutes has limits: it allows for specifics without wandering, but is short enough that it does not exhaust the attention of a helper for whom Polish is a second language. Shorter than 3 minutes = you will not fit the control question. Longer than 7 minutes = the team stops listening and starts thinking about the machine. Five minutes is the only rhythm that works, confirmed in practice by 15 years of EGIDA instructors and by PIP research from 2019 on the effectiveness of workstation instructions.
@@ -91,7 +91,7 @@ Without a topic the briefing is empty. With a topic it is proof that you looked 
 
 **3. Breakdown from the previous shift.** Yesterday at P3 the band was replaced after a weld that came apart after 40 minutes. Today P3 is starting after that replacement. Topic: "what we changed, why we changed it, how we check it for the first 30 minutes". Yesterday's breakdown is a mandatory topic of today's briefing, not optional.
 
-**4. New person on the team.** Helper Wahan started today. Junior operator Murat came back from leave after 2 weeks. Every change in team composition requires a briefing with the topic "who does not know what, what we are teaching them today". You do not humiliate the new person, you just name the gaps openly.
+**4. New person on the team.** Helper Wasyl started today. Junior operator Murat came back from leave after 2 weeks. Every change in team composition requires a briefing with the topic "who does not know what, what we are teaching them today". You do not humiliate the new person, you just name the gaps openly.
 
 **5. Special order.** Today's batch is for a client who requires a dimension of 47 mm instead of the standard 50 mm. Or cutting under FSC documentation. Or construction timber with a strength-documentation requirement. A special order = an extra step in the procedure that has to be reminded to the team.
 
@@ -99,48 +99,48 @@ Without a topic the briefing is empty. With a topic it is proof that you looked 
 In the practice of the first month of M3, choosing the topic is the biggest problem. Operators pick a "generality" (be careful at the machine today) instead of a specific (band after weld, 15 minutes no load). The rule: **if you could say the briefing topic the same way every day, the topic is empty**. A good topic is **different today than tomorrow**. If your topic on Monday sounds identical to your topic on Wednesday, you missed something in observing the workstation.
 :::
 
-### Scene: Rustam runs his first briefing
+### Scene: Mykoła runs his first briefing
 
-It is 6:54. Rustam is standing at sawbench P3. In his hand he holds a tablet, on the screen he has the briefing log open with an empty "topic" field. On the first day he does not trust his memory; he wrote down the topic yesterday evening when Marek told him: "tomorrow P3 is first after the band change, you run the briefing". Rustam wrote down two words: *band, warm-up*. That is his lifeline.
+It is 6:54. Mykoła is standing at sawbench P3. In his hand he holds a tablet, on the screen he has the briefing log open with an empty "topic" field. On the first day he does not trust his memory; he wrote down the topic yesterday evening when Marek told him: "tomorrow P3 is first after the band change, you run the briefing". Mykoła wrote down two words: *band, warm-up*. That is his lifeline.
 
-Wahan Petrosjan comes up first. 22 years old, Armenia, in Poland for 3 months, today his first day in a sawmill as an M1 helper. He has taken off his hard hat, stands with his jacket thrown over his arm, looks Rustam in the eye. Rustam sees in his gaze something he remembers from a year ago himself: *I do not know what I am learning*.
+Wasyl Melnyk comes up first. 22 years old, Ukraine from Ternopil, in Poland for 3 months, today his first day in a sawmill as an M1 helper. He has taken off his hard hat, stands with his jacket thrown over his arm, looks Mykoła in the eye. Mykoła sees in his gaze something he remembers from a year ago himself: *I do not know what I am learning*.
 
-Murat Kaya comes second. 26 years old, Turkey, in Poland for a year and a half, an M2 junior operator, three weeks ago back from a two-week holiday in Istanbul. Murat took the position to Rustam's right, he knows the protocol, he knows where to stand in the briefing circle.
+Murat Kaya comes second. 26 years old, Turkey, in Poland for a year and a half, an M2 junior operator, three weeks ago back from a two-week holiday in Istanbul. Murat took the position to Mykoła's right, he knows the protocol, he knows where to stand in the briefing circle.
 
-Three metres behind Rustam stands Marek. He does not interrupt, does not prompt. He watches and will confirm that the briefing took place. His role today ends with his presence.
+Three metres behind Mykoła stands Marek. He does not interrupt, does not prompt. He watches and will confirm that the briefing took place. His role today ends with his presence.
 
-6:55. Rustam takes a breath.
+6:55. Mykoła takes a breath.
 
-> **Rustam:** "Good morning, Wahan. Good morning, Murat. Today is Monday, 21 April. P3 is running pine, batch 47, first shift after the weekend."
+> **Mykoła:** "Good morning, Wasyl. Good morning, Murat. Today is Monday, 21 April. P3 is running pine, batch 47, first shift after the weekend."
 
-A two-second pause. Rustam glances at the tablet. *Band, warm-up.*
+A two-second pause. Mykoła glances at the tablet. *Band, warm-up.*
 
-> **Rustam:** "On Saturday the band was replaced. The weld is new. Today the first shift after the replacement is starting. The band is cold and we do not yet know how the weld will behave under full load. The first 15 minutes we work without rushing."
+> **Mykoła:** "On Saturday the band was replaced. The weld is new. Today the first shift after the replacement is starting. The band is cold and we do not yet know how the weld will behave under full load. The first 15 minutes we work without rushing."
 
-Pause. Wahan nods. Murat looks at P3 as if checking with his own eye.
+Pause. Wasyl nods. Murat looks at P3 as if checking with his own eye.
 
-> **Rustam:** "Specifics. Idle run today is 3 minutes instead of 1 before the first log goes in. Murat, you check the band temperature by hand in a glove every 5 minutes for the first half hour. Wahan, you keep a distance of 4 metres instead of 3 for the first hour, because the kickback after the weld may be bigger than usual."
+> **Mykoła:** "Specifics. Idle run today is 3 minutes instead of 1 before the first log goes in. Murat, you check the band temperature by hand in a glove every 5 minutes for the first half hour. Wasyl, you keep a distance of 4 metres instead of 3 for the first hour, because the kickback after the weld may be bigger than usual."
 
-Pause. Rustam looks at each of them in turn.
+Pause. Mykoła looks at each of them in turn.
 
-> **Rustam:** "Wahan, what distance do you keep today?"
+> **Mykoła:** "Wasyl, what distance do you keep today?"
 >
-> **Wahan:** "Four metres. First hour."
+> **Wasyl:** "Four metres. First hour."
 >
-> **Rustam:** "Good. Murat, what do you check every five minutes?"
+> **Mykoła:** "Good. Murat, what do you check every five minutes?"
 >
 > **Murat:** "Band temperature. Hand. Glove. Half an hour."
 >
-> **Rustam:** "Good."
+> **Mykoła:** "Good."
 
-Rustam writes on the tablet. Four lines, three surnames, one date. He hits "save". He puts the tablet back on the stand. Marek walks up, looks at the screen, nods.
+Mykoła writes on the tablet. Four lines, three surnames, one date. He hits "save". He puts the tablet back on the stand. Marek walks up, looks at the screen, nods.
 
 > **Marek:** "Briefing accepted. We move."
 
-It lasted four minutes and forty-two seconds. Rustam looked at his watch. The first time in his life he had led a workstation briefing in a Polish sawmill. His heart was pounding only for the first ten seconds; then muscle memory took over.
+It lasted four minutes and forty-two seconds. Mykoła looked at his watch. The first time in his life he had led a workstation briefing in a Polish sawmill. His heart was pounding only for the first ten seconds; then muscle memory took over.
 
 ::: tip
-Notice six things in Rustam's briefing. First, **he did not read the whole briefing off the tablet**. Two anchor words (band, warm-up) were enough. Second, the **3-metre distance** between Rustam and the team is the standard briefing distance in a sawmill (so you can hear without shouting). Third, **Marek did not interrupt**, even when Wahan said "four metres. first hour" in shorthand. Full sentences are for writing, not for the hall. Fourth, **the control question was not "is that clear"**. A specific one was asked. Fifth, **the sign-off went onto the tablet, not just into the head**. Without a signature the briefing does not exist. Sixth, **4:42 is a normal time**. He did not race to five, he stopped when the topic ended.
+Notice six things in Mykoła's briefing. First, **he did not read the whole briefing off the tablet**. Two anchor words (band, warm-up) were enough. Second, the **3-metre distance** between Mykoła and the team is the standard briefing distance in a sawmill (so you can hear without shouting). Third, **Marek did not interrupt**, even when Wasyl said "four metres. first hour" in shorthand. Full sentences are for writing, not for the hall. Fourth, **the control question was not "is that clear"**. A specific one was asked. Fifth, **the sign-off went onto the tablet, not just into the head**. Without a signature the briefing does not exist. Sixth, **4:42 is a normal time**. He did not race to five, he stopped when the topic ended.
 :::
 
 ### How to write the briefing into the log
@@ -149,7 +149,7 @@ The format of the entry is simple, but it has five mandatory elements. Missing a
 
 1. **Date and time** (DD.MM, start-end, e.g. 21.04, 6:55–7:00).
 2. **Topic in one sentence** (e.g. "warming up the band after replacement, first 15 minutes with no load").
-3. **Those present with their roles** (R. Nazarov – self-reliant operator / leading, W. Petrosjan – helper, M. Kaya – junior operator).
+3. **Those present with their roles** (R. Hrycenko – self-reliant operator / leading, W. Melnyk – helper, M. Kaya – junior operator).
 4. **Your signature** (on the tablet it is the login approval, in a paper log a handwritten signature + date).
 5. **No gap** between the briefing and the entry. You write immediately, not after lunch.
 
@@ -170,7 +170,7 @@ From the observations of EGIDA instructors over the last 5 years, five mistakes 
 5. **Paraphrasing.** The operator repeats the shift master's plant-wide topic instead of talking about their own workstation. "Today the weather is cool" is not a P3 topic. "Cold band after replacement, 15 minutes with no load" is. The rule: **the workstation briefing topic is always tied to your machine, not to the weather or the mood**.
 
 ::: warning
-Trap no. 5 (paraphrasing) is a signal that you did not look at the workstation before the briefing. The rule for the first month of M3: **every evening, before leaving the hall, you write two anchor words for tomorrow's briefing in your notebook**. Wahan-distance. Band-warm-up. Raw material-fresh. That is thirty seconds of your day. It protects you for five years of log archiving.
+Trap no. 5 (paraphrasing) is a signal that you did not look at the workstation before the briefing. The rule for the first month of M3: **every evening, before leaving the hall, you write two anchor words for tomorrow's briefing in your notebook**. Wasyl-distance. Band-warm-up. Raw material-fresh. That is thirty seconds of your day. It protects you for five years of log archiving.
 :::
 
 ### What you do when you do not know the topic of the day
@@ -194,7 +194,7 @@ You repeat one of the ten reserve topics every week or two. It is not a filler. 
 
 ### Summary of lesson two
 
-The OSH briefing in M3 moves from "listening to Marek" to "leading for Wahan and Murat". Five minutes, five one-minute blocks, one topic from five possible sources, an entry in the log immediately with your signature. The five mistakes of the first month (too long, no topic, monologue, no signature, paraphrasing) cover most of the slip-ups. If you do not have a topic of the day, you have ten reserve topics.
+The OSH briefing in M3 moves from "listening to Marek" to "leading for Wasyl and Murat". Five minutes, five one-minute blocks, one topic from five possible sources, an entry in the log immediately with your signature. The five mistakes of the first month (too long, no topic, monologue, no signature, paraphrasing) cover most of the slip-ups. If you do not have a topic of the day, you have ten reserve topics.
 
 In lesson 3 we enter *Kodeks pracy art. 210 i 220* (Polish Labour Code arts. 210 and 220). You will see the text of the act, learn the "service note" protocol for a dispute with the foreman, see a real PIP example. It will be a legal lesson, with weight.
 
@@ -239,7 +239,7 @@ In lesson 3 we enter *Kodeks pracy art. 210 i 220* (Polish Labour Code arts. 210
 
 1. Today a batch of dry oak from an 18-month dry kiln is arriving, instead of the usual fresh pine.
 2. Yesterday at P3 the band snapped, it was replaced before the end of the shift, today is the first start.
-3. Wahan starts his first day in the sawmill.
+3. Wasyl starts his first day in the sawmill.
 4. Today it is a 47 mm cut for a client instead of the standard 50 mm, requires documentation.
 5. The night was stormy, there was a power outage, the P3 controller was reset in the morning.
 6. Murat is back after 2 weeks of leave, his last cycle on P3 was three weeks ago.
@@ -250,7 +250,7 @@ In lesson 3 we enter *Kodeks pracy art. 210 i 220* (Polish Labour Code arts. 210
 2. Give the five sources of the topic of the day. Which is the easiest to miss in the first week and why?
 3. What is the difference between a plant-wide briefing and a workstation briefing? Who runs which and who signs off what?
 4. List the five mistakes of the first month of M3. Which one threatens **you personally** the most and what will you do to avoid it?
-5. Write a full log entry for a hypothetical briefing you run today (Rustam's format, five mandatory elements).
+5. Write a full log entry for a hypothetical briefing you run today (Mykoła's format, five mandatory elements).
 
 **Part C. Pair role-play.** Find one person in your course group. They play the helper, you play the self-reliant operator. Act out a full five-minute briefing on the topic: "today a batch of pine with 55% moisture instead of the usual 40%, first shift". The trainer times it. If you go over 7 minutes or finish under 3 minutes, you repeat.
 
@@ -266,10 +266,10 @@ Bring to lesson 3 a notebook with three topics, three comments from Marek and on
 
 ## Trainer notes
 
-- **120 min rhythm (proposed):** 15 min Introduction + Objectives; 15 min "Why a workstation briefing" + *Kodeks pracy art. 237³* (without going into the details of 210/220, those are in lesson 3); 20 min "Five-minute format" (role-play by the trainer with two course participants as the team); 15 min "Five sources of the topic" (brainstorm, cases from the participants' realities); 20 min Rustam-Wahan-Murat narrative (reading with pauses, discussion after each block); 15 min "Five typical mistakes" (round: each participant points to the one that threatens them most); 15 min Part C of Check yourself (pair role-plays with timing); 5 min key terms + homework.
-- **Pedagogical trap no. 1:** participants who previously worked in countries without a system of OSH briefings (Tajikistan, Uzbekistan, Ukraine before 2014) may treat the briefing as "paper for paper's sake". Counter this by showing a concrete court ruling (no citation needed, it is enough to say: "in 2019 the labour court in Łódź awarded PLN 80,000 in compensation because a briefing entry was missing at the time of an accident"). Numbers work.
+- **120 min rhythm (proposed):** 15 min Introduction + Objectives; 15 min "Why a workstation briefing" + *Kodeks pracy art. 237³* (without going into the details of 210/220, those are in lesson 3); 20 min "Five-minute format" (role-play by the trainer with two course participants as the team); 15 min "Five sources of the topic" (brainstorm, cases from the participants' realities); 20 min Mykoła-Wasyl-Murat narrative (reading with pauses, discussion after each block); 15 min "Five typical mistakes" (round: each participant points to the one that threatens them most); 15 min Part C of Check yourself (pair role-plays with timing); 5 min key terms + homework.
+- **Pedagogical trap no. 1:** participants who previously worked in countries without a formalised system of OSH briefings (Ukraine before 2014, Colombia, Venezuela) may treat the briefing as "paper for paper's sake". Counter this by showing a concrete court ruling (no citation needed, it is enough to say: "in 2019 the labour court in Łódź awarded PLN 80,000 in compensation because a briefing entry was missing at the time of an accident"). Numbers work.
 - **Pedagogical trap no. 2:** Part C (pair role-play) is stressful for some participants, especially when Polish is their second language. Do not treat the performance as an exam. Allow a repeat if someone "drops out" of the rhythm under stress. The goal is not a perfect performance but **the experience of one's own voice in the leader's role**. The first 30 seconds of stress is the norm, not an error.
 - **Pedagogical trap no. 3:** picking the topic of the day is the hardest skill. In the first round participants often pick "generalities" (be careful at the machine today). Do not shame them. Ask: "what specifically is different today than yesterday?". If they do not answer, give an example from the realities of Polish sawmills (return after the weekend, first shift after a band change, fresh raw material after rain). Then ask them to reformulate the topic.
 - **Preview of lesson 3 (*Kodeks pracy art. 210/220*):** tomorrow's lesson is legal and heavy. Today you can preview it in one sentence: "tomorrow the text of the act in your hand, you will learn two numbers that protect you from a charge of insubordination". You are building anticipation.
-- **Wahan and Murat as characters:** the helper from Armenia and the junior operator from Turkey are secondary characters throughout M3, they return in lesson 5 (post-incident procedure), lesson 8 (workstation instruction for the helper) and in T3 lesson 7 (supervising the helper). Their national backgrounds represent **the second and third waves of migration** in Polish sawmills (Armenia, Turkey post-2020, independent of the Ukrainian and Asian waves). Say this in one sentence if the group asks.
+- **Wasyl and Murat as characters:** the helper from Ukraine (Ternopil) and the junior operator from Turkey are secondary characters throughout M3, they return in lesson 5 (post-incident procedure), lesson 8 (workstation instruction for the helper) and in T3 lesson 7 (supervising the helper). Their national backgrounds represent **the two strongest streams of labour migration** into Polish sawmills after 2022 (Ukraine dominant, Turkey as a regional phenomenon). Say this in one sentence if the group asks.
 - **Time to return to this lesson:** in every T1 lesson refer back to the five-minute briefing format and the five sources of the topic. In lesson 5 (post-incident procedure) the control question is: "if the incident happened this morning, what is the topic of tomorrow's briefing?".

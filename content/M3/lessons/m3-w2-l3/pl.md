@@ -6,17 +6,17 @@ czas: 120
 
 ## Wprowadzenie
 
-Czwartek, 2026-05-07, godzina 9:10. Drugi dzień asysty klasyfikatorskiej Rustama. Wczoraj przerobił z Panią Anią 60 desek świerku według PN-EN 1611-1 (klasyfikacja wizualna, kryteria estetyczne i geometryczne: sęki, pęknięcia, oblina, krzywizna, wady biologiczne). Dziś Pani Ania ma dla niego **inną rozmowę**: klasyfikacja wytrzymałościowa. Inne kryteria, inna norma, inna akredytacja.
+Czwartek, 2026-05-07, godzina 9:10. Drugi dzień asysty klasyfikatorskiej Mykoły. Wczoraj przerobił z Panią Anią 60 desek świerku według PN-EN 1611-1 (klasyfikacja wizualna, kryteria estetyczne i geometryczne: sęki, pęknięcia, oblina, krzywizna, wady biologiczne). Dziś Pani Ania ma dla niego **inną rozmowę**: klasyfikacja wytrzymałościowa. Inne kryteria, inna norma, inna akredytacja.
 
 Boks klasyfikatora, 9:10. Na stole leży **jedna deska**, nie sześćdziesiąt. Sosna zwyczajna (*Pinus sylvestris*), przekrój 50 × 150 mm, długość 4,2 m, po wstępnym suszeniu do 18% wilgotności. Deska przeznaczona jest na belkę stropu mieszkalnego (dom jednorodzinny w Piasecznie, zlecenie budowlane dla firmy „Dom-Bud" z dostawą w przyszłym tygodniu). Klient zamówił **klasę C24** (nośność na zginanie minimum 24 N/mm²). Pani Ania ma ocenić, czy ta deska spełnia tę klasę.
 
-> **Pani Ania:** „Dzień dobry, Rustam. Wczoraj klasyfikowaliśmy wizualnie. Oceniałam, jak deska **wygląda**: sęki, pęknięcia, krzywizna. Dzisiaj ocenię, ile deska **uniesie**: wytrzymałość, sztywność, gęstość. Inna sprawa. Dla tej deski klient nie kupuje wyglądu, kupuje belkę, która uniesie 24 N/mm² w zginaniu, bez pęknięcia. Stolarz budowlany zobaczy belkę w stropie, ale belka musi przede wszystkim **unieść sufit**, podłogę piętra, meble, ludzi. To jest wytrzymałościowe zadanie."
+> **Pani Ania:** „Dzień dobry, Mykoła. Wczoraj klasyfikowaliśmy wizualnie. Oceniałam, jak deska **wygląda**: sęki, pęknięcia, krzywizna. Dzisiaj ocenię, ile deska **uniesie**: wytrzymałość, sztywność, gęstość. Inna sprawa. Dla tej deski klient nie kupuje wyglądu, kupuje belkę, która uniesie 24 N/mm² w zginaniu, bez pęknięcia. Stolarz budowlany zobaczy belkę w stropie, ale belka musi przede wszystkim **unieść sufit**, podłogę piętra, meble, ludzi. To jest wytrzymałościowe zadanie."
 >
-> **Rustam:** „Ale to wygląda tak samo, deska sosnowa 50 × 150 × 4200 mm. Co jest różnica?"
+> **Mykoła:** „Ale to wygląda tak samo, deska sosnowa 50 × 150 × 4200 mm. Co jest różnica?"
 >
 > **Pani Ania:** „Różnica: wczoraj patrzyłam normą PN-EN 1611-1, klasy G2-0 do G2-3. Dzisiaj patrzę normą PN-EN 14081-3, klasy C16, C24, C30, C35. Klasy C to jest wytrzymałość na zginanie w N/mm². C16 = minimum 16, C24 = minimum 24, C30 = minimum 30. Liczba w kodzie klasy to wartość charakterystyczna wytrzymałości na zginanie, z gwarancją 95% (czyli 95 desek z 100 w tej klasie spełni ten próg, jedna lub dwie mogą być trochę słabsze, ale średnia jest gwarantowana)."
 
-Rustam kiwa głową, otwiera nowy zeszyt. Dziś piątek, dziewiąta rano, czwarta dziesięć. Nauczy się drugiej normy, drugiego języka klasyfikacji. Za chwilę Pani Ania pokaże mu, dlaczego ma **drugi certyfikat** (akredytacja ITB z 2020 r. na ścianie boksu), i dlaczego nawet inni klasyfikatorzy wizualni w EGIDA (Pani Grażyna, Pan Mirosław) nie mogą podpisywać klas C bez tej dodatkowej akredytacji.
+Mykoła kiwa głową, otwiera nowy zeszyt. Dziś piątek, dziewiąta rano, czwarta dziesięć. Nauczy się drugiej normy, drugiego języka klasyfikacji. Za chwilę Pani Ania pokaże mu, dlaczego ma **drugi certyfikat** (akredytacja ITB z 2020 r. na ścianie boksu), i dlaczego nawet inni klasyfikatorzy wizualni w EGIDA (Pani Grażyna, Pan Mirosław) nie mogą podpisywać klas C bez tej dodatkowej akredytacji.
 
 ## Cele
 
@@ -202,46 +202,46 @@ W Polsce MSR stosują głównie **duże tartaki integrowane** (Stora Enso w Mura
 **W Polsce akredytację ITB ma około 2400 osób** (stan z 2024 r. według rejestru PCA). Dla porównania certyfikat wizualny PN-EN 1611-1 ma około 8500 osób. Stosunek 1:3,5 pokazuje, że klasyfikatorzy wytrzymałościowi są **trudniejsi do zdobycia** (wymagają głębszej wiedzy matematyczno-inżynierskiej) i rzadsi na rynku.
 
 ::: tip
-Pani Ania zdobyła akredytację ITB w 2020 r., po 6 latach pracy klasyfikatora wizualnego w EGIDA. Odświeżała w 2023 (z marginesem), planowane odświeżenie w 2026. W EGIDA akredytacje ITB mają: Pani Ania (główna), Pan Mirosław (emerytowany konsultant), i jeden dodatkowy klasyfikator z sąsiedniego Ośno Lubuskie (w ramach umowy zastępstwa). Pani Grażyna (klasyfikatorka wizualna) jest na etapie przygotowań do akredytacji ITB, planowo egzamin na wrzesień 2026 r. Gdy Rustam zdobędzie certyfikat wizualny w 2030 r., akredytację ITB może rozważyć około 2032 r. (dwa lata praktyki plus szkolenie). Droga od operatora pomocnika (M1) do pełnego klasyfikatora wytrzymałościowego to około 8-10 lat.
+Pani Ania zdobyła akredytację ITB w 2020 r., po 6 latach pracy klasyfikatora wizualnego w EGIDA. Odświeżała w 2023 (z marginesem), planowane odświeżenie w 2026. W EGIDA akredytacje ITB mają: Pani Ania (główna), Pan Mirosław (emerytowany konsultant), i jeden dodatkowy klasyfikator z sąsiedniego Ośno Lubuskie (w ramach umowy zastępstwa). Pani Grażyna (klasyfikatorka wizualna) jest na etapie przygotowań do akredytacji ITB, planowo egzamin na wrzesień 2026 r. Gdy Mykoła zdobędzie certyfikat wizualny w 2030 r., akredytację ITB może rozważyć około 2032 r. (dwa lata praktyki plus szkolenie). Droga od operatora pomocnika (M1) do pełnego klasyfikatora wytrzymałościowego to około 8-10 lat.
 :::
 
 ### Scena klasyfikacji wytrzymałościowej: sosna z Piaseczna, 9:40-10:30
 
 Pani Ania bierze deskę sosnową. Kładzie na stole. Włącza górną lampę, bierze przymiar 1 m, suwmiarkę, szpilkę do odchylenia słoja.
 
-> **Pani Ania:** „Pierwszy wskaźnik: szerokość słoja. Patrz na czoło deski, Rustam. Liczę 10 kolejnych słojów w strefie dominującej."
+> **Pani Ania:** „Pierwszy wskaźnik: szerokość słoja. Patrz na czoło deski, Mykoła. Liczę 10 kolejnych słojów w strefie dominującej."
 
-Rustam ogląda. Pani Ania mierzy przymiarem 10 słojów, mówi: „38 mm na 10 słojów = 3,8 mm/słój. Drewno gęste, zdolne do klasy C24 lub wyżej."
+Mykoła ogląda. Pani Ania mierzy przymiarem 10 słojów, mówi: „38 mm na 10 słojów = 3,8 mm/słój. Drewno gęste, zdolne do klasy C24 lub wyżej."
 
 > **Pani Ania:** „Drugi wskaźnik: odchylenie słoja. Weź tę szpilkę. Wbijemy ją wzdłuż włókna na 100 mm głębokości. Patrz, jak szpilka odchyla się od osi deski."
 
-Rustam wbija szpilkę. Po 100 mm głębokości szpilka odchyla się o 8 mm od pionu. Pani Ania oblicza: „8 mm odchylenia na 100 mm głębokości, czyli odchylenie 1:12,5. Próg dla C24 to 1:10, mieścimy się. Jeszcze dobre dla C30 (próg 1:14 nieosiągnięty)."
+Mykoła wbija szpilkę. Po 100 mm głębokości szpilka odchyla się o 8 mm od pionu. Pani Ania oblicza: „8 mm odchylenia na 100 mm głębokości, czyli odchylenie 1:12,5. Próg dla C24 to 1:10, mieścimy się. Jeszcze dobre dla C30 (próg 1:14 nieosiągnięty)."
 
 > **Pani Ania:** „Trzeci: sęki. Zmierz wszystkie powyżej 5 mm średnicy, lokalizacja w przekroju."
 
-Rustam mierzy: „Sęk 1 w strefie środkowej, 18 mm. Sęk 2 na krawędzi górnej (ściskanie), 32 mm. Sęk 3 w strefie środkowej, 12 mm. Sęk 4 na krawędzi dolnej (rozciąganie), 18 mm. Sęk 5 na krawędzi górnej, 25 mm."
+Mykoła mierzy: „Sęk 1 w strefie środkowej, 18 mm. Sęk 2 na krawędzi górnej (ściskanie), 32 mm. Sęk 3 w strefie środkowej, 12 mm. Sęk 4 na krawędzi dolnej (rozciąganie), 18 mm. Sęk 5 na krawędzi górnej, 25 mm."
 
 > **Pani Ania:** „Najważniejszy: sęk 4, w strefie rozciągania, 18 mm. Przekrój deski 50 × 150, strefa rozciągania to dolna 1/3 = 50 mm. Sęk 18 mm na 50 mm wysokości strefy = 36%. Próg dla C24 to 1/3 = 33%. Przekraczamy. **Spada do C16.**"
 
-Rustam patrzy z niezrozumieniem: „Cała deska przez jeden sęk 18 mm?"
+Mykoła patrzy z niezrozumieniem: „Cała deska przez jeden sęk 18 mm?"
 
 > **Pani Ania:** „Tak. W klasyfikacji wytrzymałościowej lokalizacja jest **krytyczna**. Sęk w strefie rozciągania koncentruje naprężenia. Gdyby ten sęk był przesunięty 20 mm do góry (w strefę neutralną), mielibyśmy C24. Ale jest w strefie rozciągania, w dolnej 1/3 przekroju. Klasa obniżona do C16."
 >
-> **Rustam:** „A jeżeli zmienimy orientację deski? Ścianka rozciągana do góry, ściskana do dołu?"
+> **Mykoła:** „A jeżeli zmienimy orientację deski? Ścianka rozciągana do góry, ściskana do dołu?"
 >
 > **Pani Ania:** „Dobre pytanie. Dla tej deski w stropie rzeczywiście można tak zrobić, bo sęk jest pojedynczy. Ale wtedy sęk 2 i 5 (25 i 32 mm) są w strefie rozciągania (odwrócone), i one też przekraczają 1/3 = 50 mm ŷ, 25 i 32 mm to 50% i 64%. Przekraczamy próg. Spada poniżej C16. W tej orientacji jeszcze gorzej."
 >
-> **Rustam:** „Więc deska musi iść jako C16, jeżeli zachowujemy oryginalną orientację."
+> **Mykoła:** „Więc deska musi iść jako C16, jeżeli zachowujemy oryginalną orientację."
 >
 > **Pani Ania:** „Tak. Zapisujemy **C16** z adnotacją o dolnej krawędzi rozciągania (oznaczenie C16↓)."
 
 Pani Ania wypełnia formularz. Klasa C16. Deska **nie spełnia** zamówienia klienta (C24). Idzie na stos desek C16 (inne zlecenia, np. więźba dachowa ekonomiczna). Dla zamówienia klienta z Piaseczna klasyfikatorka musi znaleźć inną deskę.
 
-> **Pani Ania** (do Rustama): „To jest lekcja dzisiejsza. Z wyglądu deska wygląda jak porządna C24. Po pomiarach wychodzi C16. Klasyfikacja wytrzymałościowa **nie wybacza**. Jeden sęk w złej lokalizacji, klasa spada. Dlatego klient C24 płaci więcej: nie za deskę, a za **selekcję**. My przecieramy i klasyfikujemy 100 desek, żeby znaleźć 40 C24 (plus 45 C16, 10 poniżej, 5 wybrak). Cena C24 zawiera koszt tej selekcji."
+> **Pani Ania** (do Mykoły): „To jest lekcja dzisiejsza. Z wyglądu deska wygląda jak porządna C24. Po pomiarach wychodzi C16. Klasyfikacja wytrzymałościowa **nie wybacza**. Jeden sęk w złej lokalizacji, klasa spada. Dlatego klient C24 płaci więcej: nie za deskę, a za **selekcję**. My przecieramy i klasyfikujemy 100 desek, żeby znaleźć 40 C24 (plus 45 C16, 10 poniżej, 5 wybrak). Cena C24 zawiera koszt tej selekcji."
 
-Rustam zapisuje wszystko w zeszycie. Druga lekcja asysty. Pierwsza deska dnia zakończyła się **obniżeniem klasy poniżej zamówienia**. Dla klienta z Piaseczna Pani Ania weźmie następną deskę, i następną, aż znajdzie 40 desek spełniających C24 z 60-deskowej partii.
+Mykoła zapisuje wszystko w zeszycie. Druga lekcja asysty. Pierwsza deska dnia zakończyła się **obniżeniem klasy poniżej zamówienia**. Dla klienta z Piaseczna Pani Ania weźmie następną deskę, i następną, aż znajdzie 40 desek spełniających C24 z 60-deskowej partii.
 
-### Co Rustam zapisuje w dokumentacji
+### Co Mykoła zapisuje w dokumentacji
 
 Formularz EGIDA KLS-001 (karta klasyfikacji strukturalnej) dla każdej deski C-klasy:
 
@@ -254,7 +254,7 @@ Formularz EGIDA KLS-001 (karta klasyfikacji strukturalnej) dla każdej deski C-k
 - **Klasa finalna**: C16, C24, C30, C35, lub „odrzut" (poniżej C16).
 - **Oznaczenie orientacji**: strzałka wskazująca dolną krawędź (rozciąganie) dla belek stropowych.
 - **Podpis klasyfikatora wytrzymałościowego** (obowiązkowo z numerem akredytacji ITB).
-- **Podpis asystenta**: Rustam podpisuje jako potwierdzenie udziału w pomiarach.
+- **Podpis asystenta**: Mykoła podpisuje jako potwierdzenie udziału w pomiarach.
 
 Karta KLS-001 trafia do akt partii, retencja **10 lat** (dłuższa niż klasyfikacji wizualnej, bo reklamacje konstrukcyjne występują często po 5-8 latach od wybudowania, gdy konstrukcja pracuje w zmiennych obciążeniach).
 
@@ -270,7 +270,7 @@ Akredytacja ITB dla klasyfikatorów wytrzymałościowych: 14-dniowe szkolenie, e
 
 Pani Ania w EGIDA ma obie: certyfikat PN-EN 1611-1 (wizualna, od 2014) i akredytację ITB dla PN-EN 14081 (wytrzymałościowa, od 2020, odświeżona 2023). Klasyfikuje obie strony drewna (wygląd + nośność) w ramach jednej partii.
 
-Dzisiaj Rustam nauczył się, że **jeden sęk w niewłaściwym miejscu** obniża klasę z C24 do C16. Deska, która wyglądała porządnie, z pomiarów wyszła na C16. Klient C24 płaci więcej za **selekcję**, nie za deskę samą. Selekcja wymaga klasyfikatora z akredytacją ITB, który mierzy obiektywnie.
+Dzisiaj Mykoła nauczył się, że **jeden sęk w niewłaściwym miejscu** obniża klasę z C24 do C16. Deska, która wyglądała porządnie, z pomiarów wyszła na C16. Klient C24 płaci więcej za **selekcję**, nie za deskę samą. Selekcja wymaga klasyfikatora z akredytacją ITB, który mierzy obiektywnie.
 
 W następnej lekcji (m3-w2-l4) przechodzimy od kryteriów klasyfikacji do **zastosowań klas u klienta**: co oznaczają C16, C24, C30, C35 dla stolarza, budowniczego, architekta. Dlaczego klient jednego projektu akceptuje C24, drugi wymaga C30.
 

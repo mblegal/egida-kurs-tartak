@@ -10,7 +10,7 @@ Martes, día 7 de la semana 1. Oleh ayer (lección 5) leyó el Rozp. MG 2000 (Re
 
 Andrei arranca la cepilladora, fija el grosor en 27 mm, acerca un tablón de roble. La máquina corta. Tras quince tablones nota un sabor dulzón en la boca. Tras treinta, ve que el depósito de polvo detrás de la cepilladora **no se llena tan rápido como debería**. Mete otro tablón y mira debajo de la máquina. **Las virutas caen al suelo. La aspiración no funciona.**
 
-Andrei pulsa STOP (mano izquierda, por reflejo, como Hai en la lección 3). Para la cepilladora y va a comprobar. El filtro del ciclón detrás del edificio está **obstruido hasta el tope**. Dos meses sin cambiar, presión diferencial de 2400 Pa en vez de 800 Pa (límite de cambio: 1200 Pa). La aspiración da 5 m/s en vez de 22 m/s. Las virutas caen al suelo y **el polvo fino vuela por el aire y entra en los pulmones de Andrei**.
+Andrei pulsa STOP (mano izquierda, por reflejo, como Andrij en la lección 3). Para la cepilladora y va a comprobar. El filtro del ciclón detrás del edificio está **obstruido hasta el tope**. Dos meses sin cambiar, presión diferencial de 2400 Pa en vez de 800 Pa (límite de cambio: 1200 Pa). La aspiración da 5 m/s en vez de 22 m/s. Las virutas caen al suelo y **el polvo fino vuela por el aire y entra en los pulmones de Andrei**.
 
 Esta lección va del polvo que se ve y del que no se ve. Las virutas gruesas no son peligrosas: se barren. **El polvo fino de roble y haya es cancerígeno del grupo 1 según IARC**, tan seguro como causa de cáncer como el amianto o el humo del tabaco. Y es **explosivo**: 30-50 g/m³ en el aire + chispa de rodamiento = incendio de polvo que en cinco segundos cubre toda la nave.
 

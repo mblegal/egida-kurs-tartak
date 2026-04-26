@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Środa, ósmy dzień tygodnia drugiego. Poniedziałek: Maricel zrozumiała, co znaczy liczba 38%. Wtorek: zdobyła tę liczbę poprawnie. Dzisiaj wychodzi na plac kłód, bo **zanim jakakolwiek kłoda trafi na trak, ktoś musi zdecydować, jak ją pociąć na kłody**. Ta decyzja zapada dwa razy: pierwszy raz w lesie (operator harwestera), drugi raz na placu tartaku (brygadzista). Maricel dzisiaj obserwuje drugą decyzję i uczy się, jakie informacje brygadzista trzyma w głowie w tym momencie.
+Środa, ósmy dzień tygodnia drugiego. Poniedziałek: Sofía zrozumiała, co znaczy liczba 38%. Wtorek: zdobyła tę liczbę poprawnie. Dzisiaj wychodzi na plac kłód, bo **zanim jakakolwiek kłoda trafi na trak, ktoś musi zdecydować, jak ją pociąć na kłody**. Ta decyzja zapada dwa razy: pierwszy raz w lesie (operator harwestera), drugi raz na placu tartaku (brygadzista). Sofía dzisiaj obserwuje drugą decyzję i uczy się, jakie informacje brygadzista trzyma w głowie w tym momencie.
 
-O 6:50 przyjeżdża ciężarówka z Lasów Państwowych: dwa pnie dębowe, każdy około 14 metrów długości, średnica u podstawy 55 cm, u wierzchołka 32 cm. **To są dłużyce** – całe pnie drzew, ścięte harwesterem i przewiezione na tartak w całości, bez podziału na kłody. Brygadzista Marek wyjmuje z kieszeni kredę przemysłową (biała, gruba, wodoodporna) i pokazuje Maricel gestem: „Chodź. Pokażę ci, jak to się czyta".
+O 6:50 przyjeżdża ciężarówka z Lasów Państwowych: dwa pnie dębowe, każdy około 14 metrów długości, średnica u podstawy 55 cm, u wierzchołka 32 cm. **To są dłużyce** – całe pnie drzew, ścięte harwesterem i przewiezione na tartak w całości, bez podziału na kłody. Brygadzista Marek wyjmuje z kieszeni kredę przemysłową (biała, gruba, wodoodporna) i pokazuje Sofía gestem: „Chodź. Pokażę ci, jak to się czyta".
 
 Ta lekcja jest o tym, **co widzi brygadzista, gdy patrzy na piętnastometrowy pień, i dlaczego ten sam pień pocięty inaczej może być wart 30% więcej albo mniej**. Nie nauczysz się dzisiaj ciąć. Nauczysz się rozumieć cięcie, żeby za pół roku, gdy zostaniesz operatorem juniorem z autoryzacją, wiedzieć, na co patrzysz w kresce narysowanej na korze.
 
@@ -37,7 +37,7 @@ W lesie harwester ścina drzewo, odcina gałęzie (obcinanie, *delimbing*) i **k
 - **Lepsza cena za grube odziomki**: dłużyca z odziomkiem 55 cm średnicy trafi na trak taśmowy dużej pilarki, który robi z niej pryzmy fornirowe. Pocięta w lesie na 4 m mogłaby wylądować jako „kłoda standardowa" w cenie 3× niższej.
 :::
 
-**Dostawa Maricel dzisiaj**: dwie dłużyce dębowe 14 m. Pierwsza ma odziomek 55 cm (pierwsze 4 m od ziemi, gruba, bez sęków – zapowiada klasę A na fornir meblowy). Druga jest cieńsza (42 cm u podstawy), ma na wysokości 6 m widoczny pęk dużych sęków po wyciętych gałęziach.
+**Dostawa Sofía dzisiaj**: dwie dłużyce dębowe 14 m. Pierwsza ma odziomek 55 cm (pierwsze 4 m od ziemi, gruba, bez sęków – zapowiada klasę A na fornir meblowy). Druga jest cieńsza (42 cm u podstawy), ma na wysokości 6 m widoczny pęk dużych sęków po wyciętych gałęziach.
 
 ### Trzy strefy dłużycy – dlaczego ten sam pień ma różną wartość na różnej wysokości
 
@@ -80,7 +80,7 @@ Marek chodzi wzdłuż pierwszej dłużycy, przykłada metr taśmowy co kilka met
 
 ### Twoja rola pomocnika przy dłużycy – co robisz, czego NIE robisz
 
-Na etapie M2 tygodnia 2 Maricel **nie obsługuje jeszcze cięcia poprzecznego dłużycy**. To jest zadanie dla operatora seniora z uprawnieniem do pilarki łańcuchowej (Rozp. MP 28 lipca 2023 w sprawie pił łańcuchowych przenośnych) albo dla mini-gatru poprzecznego (obsługiwanego przez operatora ze szkoleniem stanowiskowym). Maricel **asystuje**:
+Na etapie M2 tygodnia 2 Sofía **nie obsługuje jeszcze cięcia poprzecznego dłużycy**. To jest zadanie dla operatora seniora z uprawnieniem do pilarki łańcuchowej (Rozp. MP 28 lipca 2023 w sprawie pił łańcuchowych przenośnych) albo dla mini-gatru poprzecznego (obsługiwanego przez operatora ze szkoleniem stanowiskowym). Sofía **asystuje**:
 
 ::: warning
 **Co robisz jako pomocnik/junior przy dłużycy:**
@@ -145,10 +145,10 @@ Jutro (lekcja 4) poznasz **wady drewna tartacznego istotne dla przetarcia**: skr
 
 **Pułapki kursantów migranckich**:
 - „Dłużyca = duża kłoda, czemu inne słowo?" – **nie**, dłużyca to kategoria handlowa (cały pień), kłoda to fragment po cięciu poprzecznym. Pokaż zdjęcia obu. W języku hiszpańskim i ukraińskim rozróżnienie istnieje (rollizo largo vs tronco, кругляк vs колода), warto wzmocnić w słowniku.
-- Mylenie „odziomka" z „korzeniem" – odziomek to **pierwsze 3–5 m pnia nad ziemią**, korzenie są pod ziemią i nie idą na tartak. Kursanci z krajów bez tradycji leśnej (Filipiny, niektóre regiony Afryki) mogą mieć tę pułapkę.
+- Mylenie „odziomka" z „korzeniem" – odziomek to **pierwsze 3–5 m pnia nad ziemią**, korzenie są pod ziemią i nie idą na tartak. Kursanci z krajów o tradycji lasu tropikalnego (Kolumbia, Wenezuela, część regionów Hondurasu) mogą mieć tę pułapkę, bo klasyfikacja handlowa drewna wygląda tam inaczej niż w lesie umiarkowanym.
 - „Skoro odziomek najcenniejszy, tnijmy wszystko na odziomki" – **nie**, ze starego pnia ma się jeden odziomek, resztę trzeba wykorzystać. Ta zasada wraca w m2-w4-l1 planowanie cięcia.
 
-**Case Maricel – do rozbudowania**: dlaczego Marek nie daje jej cięcia już dzisiaj? Bo cięcie poprzeczne dłużycy pilarką łańcuchową wymaga uprawnień (szkolenie + badania lekarskie + wpis do książeczki stanowiskowej), które Maricel dostanie po szkoleniu z pilarki w tygodniu 4 modułu 2. Na razie Maricel **rozumie decyzję**. Rozumienie przed wykonywaniem – to jest rdzeń M2.
+**Case Sofía – do rozbudowania**: dlaczego Marek nie daje jej cięcia już dzisiaj? Bo cięcie poprzeczne dłużycy pilarką łańcuchową wymaga uprawnień (szkolenie + badania lekarskie + wpis do książeczki stanowiskowej), które Sofía dostanie po szkoleniu z pilarki w tygodniu 4 modułu 2. Na razie Sofía **rozumie decyzję**. Rozumienie przed wykonywaniem – to jest rdzeń M2.
 
 **Słownik gestowy**: „kreska brygadzisty" często w tartakach ma skróty lokalne (np. "F" dla fornir, "K" dla konstrukcja, "P" dla paletka). Gdy kursant trafia do tartaku, pierwszy dzień powinien zapytać, jakie skróty tam obowiązują. W Egidzie standardem jest A/B/C/D z klas jakości, bo tak jest w normach PN-EN.
 

@@ -6,13 +6,13 @@ czas: 120
 
 ## Introducción
 
-Lunes, 2026-04-27. Rustam llega al turno a las 6:45, cinco minutos antes que todos. En la portería ve una *kartka* (ficha) colgada en el tablón: „P3, turno de mañana, campaña: fresno americano, 120 × 50, 2200 metros lineales". Rustam se detiene. Mira la ficha una segunda vez. Una tercera vez.
+Lunes, 2026-04-27. Mykoła llega al turno a las 6:45, cinco minutos antes que todos. En la portería ve una *kartka* (ficha) colgada en el tablón: „P3, turno de mañana, campaña: fresno americano, 120 × 50, 2200 metros lineales". Mykoła se detiene. Mira la ficha una segunda vez. Una tercera vez.
 
-Fresno americano no había hecho nunca. Pino, roble, haya, abeto, aliso, abedul, alerce sí los había hecho. Fresno europeo lo había hecho una vez, en M2, bajo la supervisión de Marek. El fresno americano (nombre latino *Fraxinus americana*, en el comercio también llamado „ash" o „white ash") es una madera que se parece, pero tiene otra densidad, otros anillos de transición, otro comportamiento en el corte. Las personas que lo hicieron por primera vez le contaban a Rustam en la cantina que la cinta vibra de forma atípica y que el rollizo se parte de otra manera que su primo europeo.
+Fresno americano no había hecho nunca. Pino, roble, haya, abeto, aliso, abedul, alerce sí los había hecho. Fresno europeo lo había hecho una vez, en M2, bajo la supervisión de Marek. El fresno americano (nombre latino *Fraxinus americana*, en el comercio también llamado „ash" o „white ash") es una madera que se parece, pero tiene otra densidad, otros anillos de transición, otro comportamiento en el corte. Las personas que lo hicieron por primera vez le contaban a Mykoła en la cantina que la cinta vibra de forma atípica y que el rollizo se parte de otra manera que su primo europeo.
 
-Rustam tiene dos salidas. Primera: encender la máquina a las 7:00 y **aprender sobre la marcha**, como dicen algunos. Segunda: dedicar quince minutos, antes de tocar el pulsador rojo, a la **evaluación de riesgos**, es decir, a pensar de forma sistemática qué puede salir mal y cómo evitarlo.
+Mykoła tiene dos salidas. Primera: encender la máquina a las 7:00 y **aprender sobre la marcha**, como dicen algunos. Segunda: dedicar quince minutos, antes de tocar el pulsador rojo, a la **evaluación de riesgos**, es decir, a pensar de forma sistemática qué puede salir mal y cómo evitarlo.
 
-En el aserradero anterior de Rustam, en Dusambé, solo existía la opción primera. El viejo maestro decía: „tú haz, ya veremos qué pasa". En EGIDA, en M3, del operador independiente se espera la opción segunda. No como burocracia, sino como hábito. Quince minutos antes de una operación nueva, la mano sobre la *kartka* (ficha), tres preguntas en voz alta (o en la cabeza), anotación en la ficha de evaluación de riesgos, firma. Y solo después el pulsador rojo.
+En el aserradero anterior de Mykoła, en Poltava, solo existía la opción primera. El viejo maestro decía: „tú haz, ya veremos qué pasa". En EGIDA, en M3, del operador independiente se espera la opción segunda. No como burocracia, sino como hábito. Quince minutos antes de una operación nueva, la mano sobre la *kartka* (ficha), tres preguntas en voz alta (o en la cabeza), anotación en la ficha de evaluación de riesgos, firma. Y solo después el pulsador rojo.
 
 Hoy vas a aprender ese hábito. Tres preguntas, una ficha en formato A5, cinco minutos de trabajo como mínimo, quince minutos como máximo. Una herramienta que salva dedos, tendones y cintas, y que de fondo se corresponde con una metodología seria del sector que puedes aprender más adelante, si haces un curso de inspector de seguridad y salud laboral.
 
@@ -49,9 +49,9 @@ No haces la evaluación de riesgos antes de **cada** rollizo. Sería absurdo: el
 
 Tres desencadenantes obligatorios en EGIDA M3:
 
-**Desencadenante 1: nueva especie de madera.** Cualquier especie que no hayas cortado **ni una sola vez en esta máquina**. Rustam hoy tiene fresno americano, por primera vez. El fresno americano es más pesado que el europeo (densidad 670 kg/m³ frente a 680 kg/m³ en estado seco, pero distinta distribución de anillos), tiene mayor dureza de sección, y una humedad inicial distinta en la importación por el Báltico.
+**Desencadenante 1: nueva especie de madera.** Cualquier especie que no hayas cortado **ni una sola vez en esta máquina**. Mykoła hoy tiene fresno americano, por primera vez. El fresno americano es más pesado que el europeo (densidad 670 kg/m³ frente a 680 kg/m³ en estado seco, pero distinta distribución de anillos), tiene mayor dureza de sección, y una humedad inicial distinta en la importación por el Báltico.
 
-**Desencadenante 2: nueva medida.** *Dłużyca* (tronco entero) un 30% más larga que tu estándar, más gruesa un 30% que tu diámetro proyectado, o más corta un 30% (porque un rollizo corto se comporta de otra forma en el carro). Rustam hoy tiene 2200 metros lineales de longitud del lote, con rollizo medio de 3,0 m, eso son unos 730 rollizos, ningún problema. Pero si en el lote hay rollizos de 4,2 m (30% más largos que los típicos 3,2 m en EGIDA), esa medida es desencadenante.
+**Desencadenante 2: nueva medida.** *Dłużyca* (tronco entero) un 30% más larga que tu estándar, más gruesa un 30% que tu diámetro proyectado, o más corta un 30% (porque un rollizo corto se comporta de otra forma en el carro). Mykoła hoy tiene 2200 metros lineales de longitud del lote, con rollizo medio de 3,0 m, eso son unos 730 rollizos, ningún problema. Pero si en el lote hay rollizos de 4,2 m (30% más largos que los típicos 3,2 m en EGIDA), esa medida es desencadenante.
 
 **Desencadenante 3: sustitución en otro puesto.** Hoy estás en P3, normalmente trabajas en P3, pero el viernes te pones en P1 en lugar de Piotr (enfermo). P1 es la multicinta, otra máquina, otro pulpito, otros reflejos. La sustitución **siempre** exige evaluación de riesgos, incluso si conoces formalmente el puesto de sustitución por el curso.
 
@@ -61,7 +61,7 @@ Cuarto desencadenante informal, pero operativamente crítico: **tu intuición di
 
 ### La herramienta de tres preguntas, al completo
 
-Marek le da a Rustam una ficha a las 6:52. Formato: A5, impresión de planta, encabezado „Ficha de evaluación de riesgos de operación, EGIDA sp. z o.o., aserradero, formulario OR-OP-001". Debajo del encabezado tres campos de dirección (operador, fecha, operación/especie/medida/máquina) y tres preguntas con espacio para la respuesta de 5 a 10 líneas cada una. Al pie, el campo „Firma del operador" y „Firma del capataz (opcional en caso de escalado)".
+Marek le da a Mykoła una ficha a las 6:52. Formato: A5, impresión de planta, encabezado „Ficha de evaluación de riesgos de operación, EGIDA sp. z o.o., aserradero, formulario OR-OP-001". Debajo del encabezado tres campos de dirección (operador, fecha, operación/especie/medida/máquina) y tres preguntas con espacio para la respuesta de 5 a 10 líneas cada una. Al pie, el campo „Firma del operador" y „Firma del capataz (opcional en caso de escalado)".
 
 Las tres preguntas son literalmente así:
 
@@ -79,41 +79,41 @@ Tres riesgos no es magia, es la capacidad de tu atención operativa. La psicolog
 
 ### Pregunta 1: qué puede salir mal
 
-Rustam se sienta junto al pulpito de la P3, la ficha en la mesa, el bolígrafo prestado por Wahan. 6:55. Primera pregunta.
+Mykoła se sienta junto al pulpito de la P3, la ficha en la mesa, el bolígrafo prestado por Wasyl. 6:55. Primera pregunta.
 
-Mira el rollizo de fresno americano en la rampa de entrada. Treinta centímetros de diámetro en la testa, corteza marrón claro con manchas negras (es normal en el fresno tras el transporte marítimo, hongos superficiales, no penetran en la madera). El extremo del rollizo muestra los anillos: anchos, uniformes, signo de una parte primaveral sana, pero bajo la corteza se ve una **orla oscura de 2 a 3 cm** que Rustam no había visto en el fresno europeo. Todavía no sabe si es un defecto o una característica de la especie. Anota mentalmente: „pregunto en la cantina tras el primer rollizo".
+Mira el rollizo de fresno americano en la rampa de entrada. Treinta centímetros de diámetro en la testa, corteza marrón claro con manchas negras (es normal en el fresno tras el transporte marítimo, hongos superficiales, no penetran en la madera). El extremo del rollizo muestra los anillos: anchos, uniformes, signo de una parte primaveral sana, pero bajo la corteza se ve una **orla oscura de 2 a 3 cm** que Mykoła no había visto en el fresno europeo. Todavía no sabe si es un defecto o una característica de la especie. Anota mentalmente: „pregunto en la cantina tras el primer rollizo".
 
 **Riesgo 1: la cinta vibra de forma atípica en la nueva especie.** El fresno americano tiene una zona de transición más dura entre primavera y verano que el europeo. La cinta que en el europeo va uniforme, en el americano puede „saltar" en las transiciones, lo que produce corte ondulado (M2 l5 enseñó a reconocerlo) y aumenta el riesgo de rotura de la cinta. Anotado: „cinta vibra de forma atípica, corte ondulado, rotura de la cinta".
 
-**Riesgo 2: el rollizo se parte a lo largo del anillo bajo tensión.** El fresno americano con la humedad de la importación (digamos 35 a 40%) combinada con el calor de la nave (14°C) puede liberar tensiones internas en forma de fisura longitudinal durante el corte. Esa fisura no es peligrosa para Rustam (el rollizo está en los portarrollizos del carro), pero produce descarte del corte y puede saltar una astilla a la altura de los ojos. Anotado: „fisura longitudinal en el corte, descarte + astilla".
+**Riesgo 2: el rollizo se parte a lo largo del anillo bajo tensión.** El fresno americano con la humedad de la importación (digamos 35 a 40%) combinada con el calor de la nave (14°C) puede liberar tensiones internas en forma de fisura longitudinal durante el corte. Esa fisura no es peligrosa para Mykoła (el rollizo está en los portarrollizos del carro), pero produce descarte del corte y puede saltar una astilla a la altura de los ojos. Anotado: „fisura longitudinal en el corte, descarte + astilla".
 
 **Riesgo 3: las manchas negras en la corteza no son solo hongo.** Si el importador no hizo la fitosanitación (IPPC, ISPM 15), en la corteza podría haber rastros de **barrenador esmeralda del fresno** (*Agrilus planipennis*, especie invasora de América del Norte, prohibida en la UE). Anotado: „sospecha de plaga cuarentenaria, detención y aviso a PIORiN".
 
-Tres riesgos. Los dos primeros operativos, el tercero regulatorio. Todos están en el contexto „nueva especie" y ninguno de ellos aparece en el fresno europeo para Rustam.
+Tres riesgos. Los dos primeros operativos, el tercero regulatorio. Todos están en el contexto „nueva especie" y ninguno de ellos aparece en el fresno europeo para Mykoła.
 
 ::: example
-Fíjate en que Rustam no escribió: „la cinta se romperá porque siempre se rompe". Escribe en concreto: „la cinta vibra **de forma atípica en la nueva especie**, porque el fresno americano tiene una zona de transición más dura". El concreto es importante, porque la mitigación en P3 será distinta para „vibración en la nueva especie" (= bajar el avance, observar los cinco primeros rollizos) que para „cinta desafilada" (= cambiar la cinta). Un riesgo genérico lleva a una mitigación genérica, y esa no funciona en el caso concreto.
+Fíjate en que Mykoła no escribió: „la cinta se romperá porque siempre se rompe". Escribe en concreto: „la cinta vibra **de forma atípica en la nueva especie**, porque el fresno americano tiene una zona de transición más dura". El concreto es importante, porque la mitigación en P3 será distinta para „vibración en la nueva especie" (= bajar el avance, observar los cinco primeros rollizos) que para „cinta desafilada" (= cambiar la cinta). Un riesgo genérico lleva a una mitigación genérica, y esa no funciona en el caso concreto.
 :::
 
 ### Pregunta 2: cuán grave acabará
 
-6:59. Rustam ha pasado a la segunda pregunta. Es la más rápida de las tres, porque la respuesta suele ser de dos o tres palabras por riesgo. Pero esas dos palabras deciden si omites el riesgo o si lo vas a mitigar.
+6:59. Mykoła ha pasado a la segunda pregunta. Es la más rápida de las tres, porque la respuesta suele ser de dos o tres palabras por riesgo. Pero esas dos palabras deciden si omites el riesgo o si lo vas a mitigar.
 
-Escala de gravedad para el operador independiente (Marek se la enseñó a Rustam en la sesión informativa del lunes):
+Escala de gravedad para el operador independiente (Marek se la enseñó a Mykoła en la sesión informativa del lunes):
 
 - **Bajo:** descarte de madera aserrada (coste material), mayor desgaste de herramienta, horas extras del operador. Efecto medido en zlotys o en horas de trabajo. Mitigación razonable, pero no prioritaria.
 - **Medio:** daño a la máquina (coste de reparación, parada de línea), encargo del cliente no cerrado en plazo (penalización contractual), pérdida de un lote de material. Efecto medido en miles de zlotys o en riesgo de reclamación. Mitigación obligatoria, prioridad sobre la producción.
 - **Alto:** lesión del operador, incendio, avería de la línea que impide el turno, caso de la PIP. Efecto medido en cuerpo, hospitalización, papeleo legal. Mitigación **absoluta**, negativa a trabajar (art. 210 del Código de Trabajo polaco) si la mitigación no está disponible.
 
-Rustam evalúa sus tres riesgos:
+Mykoła evalúa sus tres riesgos:
 
-**Riesgo 1 (cinta vibra, corte ondulado, rotura):** medio. La rotura de la cinta en P3 no le llega a Rustam (las protecciones están en su sitio, eso es M2 l5), pero da una parada de 40 minutos para el cambio y descarte de material en el recorrido del corte. Coste unos 800 zł por la cinta rota + 1200 zł por el descarte + 800 zł de horas extras para recuperar. Total unos 2800 zł en un solo incidente.
+**Riesgo 1 (cinta vibra, corte ondulado, rotura):** medio. La rotura de la cinta en P3 no le llega a Mykoła (las protecciones están en su sitio, eso es M2 l5), pero da una parada de 40 minutos para el cambio y descarte de material en el recorrido del corte. Coste unos 800 zł por la cinta rota + 1200 zł por el descarte + 800 zł de horas extras para recuperar. Total unos 2800 zł en un solo incidente.
 
-**Riesgo 2 (fisura longitudinal, astilla):** bajo-medio. Materialmente descarte (unos 600 zł), la astilla a la altura de los ojos es peligrosa, pero **tenemos pantalla antiastillas** (estándar EGIDA en P3, M2 l6 hablaba de eso). Si Rustam tiene las gafas y la pantalla en su sitio, la astilla no llega a los ojos. Bajo por el lado del operador, medio por el lado del material.
+**Riesgo 2 (fisura longitudinal, astilla):** bajo-medio. Materialmente descarte (unos 600 zł), la astilla a la altura de los ojos es peligrosa, pero **tenemos pantalla antiastillas** (estándar EGIDA en P3, M2 l6 hablaba de eso). Si Mykoła tiene las gafas y la pantalla en su sitio, la astilla no llega a los ojos. Bajo por el lado del operador, medio por el lado del material.
 
-**Riesgo 3 (sospecha de plaga cuarentenaria):** alto, pero específico. Si el barrenador del fresno está de verdad en la corteza, la planta queda cerrada en cuarentena por PIORiN (Inspección Estatal de Sanidad Vegetal y Semillas) durante semanas, sanciones administrativas de 10 a 50 mil zł. Para Rustam personalmente: cero lesión, pero podrían cuestionarle si se dio cuenta y lo avisó. Probabilidad muy baja (el importador debería tener certificado ISPM 15), pero la gravedad es alta, por lo que el riesgo en conjunto es **medio**.
+**Riesgo 3 (sospecha de plaga cuarentenaria):** alto, pero específico. Si el barrenador del fresno está de verdad en la corteza, la planta queda cerrada en cuarentena por PIORiN (Inspección Estatal de Sanidad Vegetal y Semillas) durante semanas, sanciones administrativas de 10 a 50 mil zł. Para Mykoła personalmente: cero lesión, pero podrían cuestionarle si se dio cuenta y lo avisó. Probabilidad muy baja (el importador debería tener certificado ISPM 15), pero la gravedad es alta, por lo que el riesgo en conjunto es **medio**.
 
-Rustam anota: „R1 medio, R2 bajo-medio, R3 medio con baja probabilidad". Tres minutos, listo.
+Mykoła anota: „R1 medio, R2 bajo-medio, R3 medio con baja probabilidad". Tres minutos, listo.
 
 ::: info
 Para la metodología completa (si vas a un curso de inspector de seguridad y salud laboral) la gravedad se multiplica por la probabilidad en forma de matriz 3×3 o 5×5 (PN-N-18002 usa 3×3, parte de las normas europeas 5×5). Riesgo = probabilidad × gravedad. El operador omite la matriz, porque en quince minutos no va a estimar la probabilidad numéricamente, lo hace de forma intuitiva („muy baja, baja, media, alta"). La intuición del operador apoyada en experiencia y atención es suficiente para fichas A5 cortas. La matriz es para el documento de empresa (Jarosław).
@@ -121,9 +121,9 @@ Para la metodología completa (si vas a un curso de inspector de seguridad y sal
 
 ### Pregunta 3: qué haces para evitarlo
 
-7:04. Rustam en la tercera pregunta. Es el campo de la ficha con más valor, porque aquí la ficha se convierte de reflexión en acción. Sin este campo la ficha es un diario de miedos, no una herramienta del operador.
+7:04. Mykoła en la tercera pregunta. Es el campo de la ficha con más valor, porque aquí la ficha se convierte de reflexión en acción. Sin este campo la ficha es un diario de miedos, no una herramienta del operador.
 
-**Mitigación R1 (vibración, corte ondulado, rotura).** Rustam escribe tres acciones concretas:
+**Mitigación R1 (vibración, corte ondulado, rotura).** Mykoła escribe tres acciones concretas:
 
 - Bajar el avance de 15 m/min (estándar de pino) a 9 m/min para los primeros **cinco rollizos** de fresno americano. Observar la calidad del corte (espejillo, tacto con la mano). Si el corte es limpio, subir a 12 m/min; si es ondulado, quedarse en 9.
 - Comprobar la tensión de la cinta (debería ser 2300 PSI para cinta de aleación, si ha bajado por la noche, reponer).
@@ -131,30 +131,30 @@ Para la metodología completa (si vas a un curso de inspector de seguridad y sal
 
 **Mitigación R2 (fisura longitudinal, astilla).** Dos acciones:
 
-- Colocar la **pantalla antiastillas** en el pulpito P3 (estándar EGIDA, cuelga junto a la protección fija, Rustam la revisará tras la sesión informativa de la mañana). Gafas con protección lateral puestas todo el turno, no solo al cortar.
-- Ajustar el carro para que el primer rollizo sea el **rollizo más pequeño** (30 cm de diámetro, el que ve). Rollizos mayores (35 a 40 cm) los deja para después de los cinco primeros, cuando Rustam vea cómo se comporta el material.
+- Colocar la **pantalla antiastillas** en el pulpito P3 (estándar EGIDA, cuelga junto a la protección fija, Mykoła la revisará tras la sesión informativa de la mañana). Gafas con protección lateral puestas todo el turno, no solo al cortar.
+- Ajustar el carro para que el primer rollizo sea el **rollizo más pequeño** (30 cm de diámetro, el que ve). Rollizos mayores (35 a 40 cm) los deja para después de los cinco primeros, cuando Mykoła vea cómo se comporta el material.
 
 **Mitigación R3 (plaga cuarentenaria).** Una acción procedimental:
 
-- **Antes** de que Rustam toque el primer rollizo, visita a Marek con la ficha de evaluación de riesgos y pregunta: „Marek, estoy mirando el fresno americano, veo una orla oscura bajo la corteza de 2 a 3 cm, ¿es hongo superficial o debería comprobar el certificado ISPM 15 y PIORiN?". Marek responde. Si Marek tiene dudas, llama al importador por el certificado. Solo después de la respuesta Rustam vuelve a P3.
+- **Antes** de que Mykoła toque el primer rollizo, visita a Marek con la ficha de evaluación de riesgos y pregunta: „Marek, estoy mirando el fresno americano, veo una orla oscura bajo la corteza de 2 a 3 cm, ¿es hongo superficial o debería comprobar el certificado ISPM 15 y PIORiN?". Marek responde. Si Marek tiene dudas, llama al importador por el certificado. Solo después de la respuesta Mykoła vuelve a P3.
 
-Rustam anota las mitigaciones, firma la ficha. 7:08. Dieciséis minutos desde la primera pregunta hasta la firma. Ha rebasado un poco el límite de quince minutos, pero Marek decía: „la primera ficha puede irse un poco más; a partir de la tercera ficha se hace en cinco minutos".
+Mykoła anota las mitigaciones, firma la ficha. 7:08. Dieciséis minutos desde la primera pregunta hasta la firma. Ha rebasado un poco el límite de quince minutos, pero Marek decía: „la primera ficha puede irse un poco más; a partir de la tercera ficha se hace en cinco minutos".
 
 ### Escalado a Marek: cuando la ficha no basta
 
-Rustam termina la ficha y va con ella a ver a Marek a las 7:09. Marek está en su cubículo, revisa las disposiciones del día. Rustam está en la puerta.
+Mykoła termina la ficha y va con ella a ver a Marek a las 7:09. Marek está en su cubículo, revisa las disposiciones del día. Mykoła está en la puerta.
 
-> **Rustam:** „Marek, ficha de evaluación de riesgos sobre el fresno americano. Tres riesgos anotados. Uno de ellos tengo que comentarlo antes de empezar."
+> **Mykoła:** „Marek, ficha de evaluación de riesgos sobre el fresno americano. Tres riesgos anotados. Uno de ellos tengo que comentarlo antes de empezar."
 >
 > **Marek:** „Siéntate. ¿Cuál?"
 >
-> **Rustam:** „Orla oscura de 2 a 3 cm bajo la corteza. En el europeo no la había visto. No sé si es hongo superficial o rastro de plaga cuarentenaria. No quiero empezar si la planta pudiera entrar en cuarentena de PIORiN."
+> **Mykoła:** „Orla oscura de 2 a 3 cm bajo la corteza. En el europeo no la había visto. No sé si es hongo superficial o rastro de plaga cuarentenaria. No quiero empezar si la planta pudiera entrar en cuarentena de PIORiN."
 >
 > **Marek:** „Piensas bien. Llamo al importador, compruebo el certificado ISPM 15. Dame cinco minutos. Si el certificado está, arrancas el turno a las 7:15 en vez de a las 7:00. Si no, devolvemos el lote."
 
-Marek llama. El certificado está, Emiratos Árabes transbordo, línea a Gdańsk, ISPM 15 de 2026-03-11. En orden. Rustam vuelve a P3 a las 7:14, empieza a las 7:15 con avance rebajado. El primer rollizo tarda 11 minutos (el estándar serían 7 minutos), la primera tabla sale limpia, la segunda limpia. Rustam sube el avance a 12 m/min. El día empieza.
+Marek llama. El certificado está, Emiratos Árabes transbordo, línea a Gdańsk, ISPM 15 de 2026-03-11. En orden. Mykoła vuelve a P3 a las 7:14, empieza a las 7:15 con avance rebajado. El primer rollizo tarda 11 minutos (el estándar serían 7 minutos), la primera tabla sale limpia, la segunda limpia. Mykoła sube el avance a 12 m/min. El día empieza.
 
-La ficha de evaluación de riesgos va a la carpeta „OR-OP" junto al pulpito de Marek. Rustam se deja una copia en la cazadora, le echa un ojo cada pocos rollizos en la primera hora. Desde la segunda hora la ficha ya no le hace falta, los riesgos los tiene en la mano y en el oído, el reflejo es estable.
+La ficha de evaluación de riesgos va a la carpeta „OR-OP" junto al pulpito de Marek. Mykoła se deja una copia en la cazadora, le echa un ojo cada pocos rollizos en la primera hora. Desde la segunda hora la ficha ya no le hace falta, los riesgos los tiene en la mano y en el oído, el reflejo es estable.
 
 ::: warning
 Tres criterios de **escalado a Marek**, en lugar de terminar la ficha tú solo:
@@ -189,7 +189,7 @@ Con la ficha anticipas: „qué puede salir mal". Con el STOP reaccionas: „alg
 Relación numérica observada en EGIDA: por cada parada STOP suele haber tres a cinco fichas de evaluación de riesgos de operación. Una buena ficha ahorra un STOP, porque el riesgo se ha detectado a tiempo y o bien se ha mitigado o bien se ha cambiado del todo la operación.
 
 ::: example
-Ese mismo fresno que Rustam corta hoy con ficha y avance rebajado, su compañero Bartłomiej lo cortó hace tres años **sin ficha**, con avance estándar de 15 m/min. El primer rollizo pasó (el novato tuvo suerte). El segundo rollizo se partió a lo largo, una astilla golpeó en la pantalla (por suerte, Bartłomiej la tenía puesta). El tercer rollizo sacó la cinta de las guías, la rompió, descarte de material 2400 zł, parada 1,5 horas, día al traste. Marek le dijo entonces: „Bartek, la próxima vez, ficha". Bartek la vio allí por primera vez. Hoy Bartek enseña a los juniors, siempre con ficha.
+Ese mismo fresno que Mykoła corta hoy con ficha y avance rebajado, su compañero Bartłomiej lo cortó hace tres años **sin ficha**, con avance estándar de 15 m/min. El primer rollizo pasó (el novato tuvo suerte). El segundo rollizo se partió a lo largo, una astilla golpeó en la pantalla (por suerte, Bartłomiej la tenía puesta). El tercer rollizo sacó la cinta de las guías, la rompió, descarte de material 2400 zł, parada 1,5 horas, día al traste. Marek le dijo entonces: „Bartek, la próxima vez, ficha". Bartek la vio allí por primera vez. Hoy Bartek enseña a los juniors, siempre con ficha.
 :::
 
 ### Resumen de la lección sexta
@@ -311,7 +311,7 @@ Mañana en l7 entraremos en un tema que es específico del invierno polaco: -10�
 
 ## Notas para el formador
 
-- **Ritmo 120 min (propuesto):** 10 min Introducción + Objetivos; 15 min dos tipos de evaluación de riesgos (pizarra, mostrar el formulario PN-N-18002 en miniatura junto al formulario A5); 10 min tres desencadenantes (debate: qué desencadenantes tuvieron los cursillistas en sus trabajos anteriores); 20 min escena de Rustam en P3 con la ficha (lectura en voz alta, parada tras cada pregunta, debate: „¿vosotros anotaríais los mismos riesgos?"); 15 min pregunta 1 profundizada (diferencia riesgo vs. efecto, ejercicio: dame dos riesgos y dos efectos de la misma operación); 15 min pregunta 3 profundizada (concreto vs. abstracto, test „¿lo entendería un compañero?"); 10 min escalado al capataz (tres criterios, juego de rol de la conversación); 10 min los tres errores más frecuentes y ficha vs. STOP; 10 min Términos clave y resumen; 5 min anuncio de l7 (condiciones atípicas).
+- **Ritmo 120 min (propuesto):** 10 min Introducción + Objetivos; 15 min dos tipos de evaluación de riesgos (pizarra, mostrar el formulario PN-N-18002 en miniatura junto al formulario A5); 10 min tres desencadenantes (debate: qué desencadenantes tuvieron los cursillistas en sus trabajos anteriores); 20 min escena de Mykoła en P3 con la ficha (lectura en voz alta, parada tras cada pregunta, debate: „¿vosotros anotaríais los mismos riesgos?"); 15 min pregunta 1 profundizada (diferencia riesgo vs. efecto, ejercicio: dame dos riesgos y dos efectos de la misma operación); 15 min pregunta 3 profundizada (concreto vs. abstracto, test „¿lo entendería un compañero?"); 10 min escalado al capataz (tres criterios, juego de rol de la conversación); 10 min los tres errores más frecuentes y ficha vs. STOP; 10 min Términos clave y resumen; 5 min anuncio de l7 (condiciones atípicas).
 
 - **Mapa de la herramienta de tres preguntas a la hoja completa JSA/PHA (para cursillistas ambiciosos y para ti).** La hoja JSA del sector tiene ocho columnas; la ficha del operador las reduce a tres preguntas. La tabla siguiente muestra la correspondencia:
 
@@ -334,7 +334,7 @@ Comentario: la correspondencia no es perfecta (la ficha A5 recorta la probabilid
 
 - **Trampa pedagógica n.º 3: mitigaciones abstractas.** Es el error más frecuente en la primera ficha. Los cursillistas escriben „tener cuidado", „actuar con prudencia", „cumplir las normas de seguridad y salud laboral". El formador debería devolver toda ficha de ese tipo: „¿qué harás en concreto en el primer minuto tras encender la máquina?". Hasta que el cursillista no enumere **acciones** (bajar, comprobar, ponerse, llamar), la mitigación está vacía. Este ejercicio aprendido una vez se devuelve decenas de veces en la vida laboral.
 
-- **Escena de Rustam con Marek sobre la orla oscura del fresno:** aquí se puede parar más tiempo. El hecho de que Rustam **no empezara la operación** hasta recibir la respuesta de Marek es un modelado clave. No es „un quejica que marea". Es un operador independiente que entiende que quince minutos de retraso en el arranque son mejores que una semana de cuarentena de PIORiN. El grupo tiene que verlo.
+- **Escena de Mykoła con Marek sobre la orla oscura del fresno:** aquí se puede parar más tiempo. El hecho de que Mykoła **no empezara la operación** hasta recibir la respuesta de Marek es un modelado clave. No es „un quejica que marea". Es un operador independiente que entiende que quince minutos de retraso en el arranque son mejores que una semana de cuarentena de PIORiN. El grupo tiene que verlo.
 
 - **Ejercicio de campo opcional:** si es posible, pide a los participantes que traigan a la próxima clase una ficha de evaluación de riesgos **real** de su aserradero (rellenada, con firma). Analizar en grupo un documento así, anonimizado, es lo más valioso desde el punto de vista pedagógico. Los cursillistas ven que los compañeros tienen los mismos dilemas y aprenden unos de otros.
 

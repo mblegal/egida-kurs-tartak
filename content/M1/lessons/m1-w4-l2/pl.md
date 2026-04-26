@@ -102,7 +102,7 @@ W tartaku pracuje się często **od świtu**, a w zimie ciemno jest jeszcze prze
 **Szybki test**: weź do ręki narzędzie ręczne (przymiar, ołówek, klin) i spójrz na oznaczenia – cyfry, kreski, nadruki. Czy widzisz wyraźnie? Jeśli musisz mrużyć oczy albo pochylać się bliżej, oświetlenie jest **za słabe**. Zgłaszasz brygadziście.
 
 ::: example
-**Z życia**: pomocnik z Białorusi, tartak pod Olsztynem, listopad, pierwsza zmiana rozpoczynała się o 7:00, ciemno do 8:00. Lampy nad jego stanowiskiem jedne migały, drugie słabe. Pomocnik „nie chciał się narzucać" i pracował w półmroku. Po 40 minutach odciął sobie koniuszek palca ręcznym strugiem – myślał, że deska jest tam, gdzie jej nie było. Po wypadku inspekcja pracy zasądziła tartakowi karę 8000 zł za **brak zapewnienia właściwego oświetlenia**. **Pomocnik też miał część winy** – nie zgłosił. **Od tej pory w tym tartaku jest tabela na ścianie: „awaria oświetlenia = natychmiastowy stop + zgłoszenie".**
+**Z życia**: pomocnik z Ukrainy, tartak pod Olsztynem, listopad, pierwsza zmiana rozpoczynała się o 7:00, ciemno do 8:00. Lampy nad jego stanowiskiem jedne migały, drugie słabe. Pomocnik „nie chciał się narzucać" i pracował w półmroku. Po 40 minutach odciął sobie koniuszek palca ręcznym strugiem – myślał, że deska jest tam, gdzie jej nie było. Po wypadku inspekcja pracy zasądziła tartakowi karę 8000 zł za **brak zapewnienia właściwego oświetlenia**. **Pomocnik też miał część winy** – nie zgłosił. **Od tej pory w tym tartaku jest tabela na ścianie: „awaria oświetlenia = natychmiastowy stop + zgłoszenie".**
 :::
 
 **Punkt 5 – Narzędzia na stanowisku**

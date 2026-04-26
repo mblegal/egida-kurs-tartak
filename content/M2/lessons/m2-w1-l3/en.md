@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Hai's third day as an operator. He walks into the hall dressed like an operator (lesson 2 stuck in his head), approaches the band saw and places his hand on the green START button. The foreman stops him with a single word: **"STOP first."**
+Andrij's third day as an operator. He walks into the hall dressed like an operator (lesson 2 stuck in his head), approaches the band saw and places his hand on the green START button. The foreman stops him with a single word: **"STOP first."**
 
-Hai looks confused. After all, he wants to **start** the machine, not stop it. The foreman turns his hand around and points to the red mushroom on a yellow background, 30 centimetres to the left of the green START. **"Before you press START, check that STOP works and is within your reach. If you don't know where STOP is, don't touch START."**
+Andrij looks confused. After all, he wants to **start** the machine, not stop it. The foreman turns his hand around and points to the red mushroom on a yellow background, 30 centimetres to the left of the green START. **"Before you press START, check that STOP works and is within your reach. If you don't know where STOP is, don't touch START."**
 
 This lesson explains why, on every woodworking machine, the stopping circuit **has priority** over the starting circuit. Why the mushroom is red on yellow. Why a workshop with three saw stations has **six mushroom buttons**, not three. And why a daily STOP test is not the foreman's paranoia but a requirement of Rozp. MG 2000 (Polish Ministry of Economy Regulation of 14 April 2000 on OSH in woodworking machine operation).
 
@@ -159,12 +159,12 @@ D) I press the mushroom together with the lath to "train the mechanism".
 **Lesson emphases:**
 
 - The second step of the **check – start – report** ritual. After "check yourself" from lesson 2 comes **"check the machine"**, beginning with STOP. Stress: **starting up is not the first action but the third (after checking PPE and checking the E-stop).**
-- Hai, continuation of the arc: in the pilot "first time alone", in l2 "dressing like an operator", here "placing the left palm on STOP". A bodily gesture anchored in habit. In l4 he will perform the five-point checklist that closes the ritual of the week.
+- Andrij, continuation of the arc: in the pilot "first time alone", in l2 "dressing like an operator", here "placing the left palm on STOP". A bodily gesture anchored in habit. In l4 he will perform the five-point checklist that closes the ritual of the week.
 - The fail-safe principle is not "safer = more expensive". It is the **legal standard** stemming from Rozp. MG 2000 and PN-EN ISO 13850. Machines without this standard are **illegal to operate** after 2006 (Machinery Directive 2006/42/EC).
 
 **Migrant pitfalls:**
 
-- In many countries (Vietnam, Moldova, Georgia, partly Ukraine) old machines without an E-stop are still in use. The operator carries over the reflex "the only button is START, in case of trouble switch off the mains". In Poland this shortcut costs fingers (flywheel run-down 15-30 s without a brake).
+- In many countries of origin (Ukraine, Colombia, Venezuela, Peru, Bolivia) old machines without an E-stop are still in use. The operator carries over the reflex "the only button is START, in case of trouble switch off the mains". In Poland this shortcut costs fingers (flywheel run-down 15-30 s without a brake).
 - Show the difference physically: red mushroom on yellow vs. red button on a grey panel. Ask the migrants: "how many shifts of dust do you need to darken the hall so that red on grey disappears?". Answer: one (dust after 2 h of cutting oak).
 - The fourth trap (untested) is the hardest pedagogically. The operator thinks "the foreman tested it last week, that's enough". Rozp. MG 2000 requires a **daily test**. Show the log entry as evidence, not bureaucracy.
 

@@ -6,13 +6,13 @@ czas: 120
 
 ## Introduction
 
-It is Friday, 14:18. Rustam's shift ends at 15:00. On P3 he is finishing batch 57, the last one of the week, pine, for a client from Warsaw. Wahan is standing at the outfeed ramp, sorting *tarcica* (sawn timber) onto three stacks: A (120 x 50 x 3500), B (similar, but with one knot), reject. Five metres further on Murat Kaya is working on P2, the circular saw, which today is cutting oak squared beams for a construction joinery. Hai is on holiday in Vietnam until Monday.
+It is Friday, 14:18. Mykoła's shift ends at 15:00. On P3 he is finishing batch 57, the last one of the week, pine, for a client from Warsaw. Wasyl is standing at the outfeed ramp, sorting *tarcica* (sawn timber) onto three stacks: A (120 x 50 x 3500), B (similar, but with one knot), reject. Five metres further on Murat Kaya is working on P2, the circular saw, which today is cutting oak squared beams for a construction joinery. Andrij is on holiday in Lviv until Monday.
 
-At 14:19:12 Rustam hears a shout.
+At 14:19:12 Mykoła hears a shout.
 
-The shout is short, one word in Turkish, no Polish. Rustam knows what it means. He glances at his own machine: batch 57, log 19 of 20, the band is running, the guards are in place. He moves his hand to the control panel, the red button, the band slows down. In the same fraction of a second he sees P2 out of the corner of his eye: Murat is standing bent over, holding his right forearm, the sleeve of his work jacket is red along fifteen centimetres. The P2 circular saw keeps running, the blade is spinning.
+The shout is short, one word in Turkish, no Polish. Mykoła knows what it means. He glances at his own machine: batch 57, log 19 of 20, the band is running, the guards are in place. He moves his hand to the control panel, the red button, the band slows down. In the same fraction of a second he sees P2 out of the corner of his eye: Murat is standing bent over, holding his right forearm, the sleeve of his work jacket is red along fifteen centimetres. The P2 circular saw keeps running, the blade is spinning.
 
-Fourteen seconds later Rustam is next to Murat. Fifty seconds later the EGIDA line looks different than it did at 14:19. Five minutes later an ambulance is standing on the yard. An hour later Murat is in the Praski Hospital in Warsaw, mid-surgery, a flexor tendon being reattached. Four hours later the *mistrz zmiany* (shift master) Piotr closes the protocol establishing the circumstances and causes of the accident, and Rustam, already off shift, signs it as a witness in the presence of Marek and the plant OSH inspector.
+Fourteen seconds later Mykoła is next to Murat. Fifty seconds later the EGIDA line looks different than it did at 14:19. Five minutes later an ambulance is standing on the yard. An hour later Murat is in the Praski Hospital in Warsaw, mid-surgery, a flexor tendon being reattached. Four hours later the *mistrz zmiany* (shift master) Piotr closes the protocol establishing the circumstances and causes of the accident, and Mykoła, already off shift, signs it as a witness in the presence of Marek and the plant OSH inspector.
 
 Between 14:19:12 and 14:19:26 what this lesson teaches happened: the post-accident procedure, led by a self-reliant operator as **the first witness, first responder, first documenter**. Today you will see this procedure in full, from the shout to the signature on the protocol.
 
@@ -43,72 +43,72 @@ The procedure after a coworker's accident has five steps. The order is rigid, li
 
 **Step 5: securing the scene.** Until the shift master and the plant OSH inspector arrive (at EGIDA that is Jaroslaw, he comes within 10 minutes of the alarm), you **do not move anything** beyond what is necessary for first aid. The scene must reach the protocol in its real state.
 
-Five steps. Rustam completed all of them in 51 seconds until Marek arrived, another five minutes until the ambulance arrived, another twenty minutes until Jaroslaw arrived. You will see each step in his mouth and in his hands.
+Five steps. Mykoła completed all of them in 51 seconds until Marek arrived, another five minutes until the ambulance arrived, another twenty minutes until Jaroslaw arrived. You will see each step in his mouth and in his hands.
 
 ::: warning
 The most common mistake of the first witness in a sawmill: **skipping step 1**. Rushing to a coworker without looking at the running machine next to him. In the PIP statistics for 2020 to 2024 in wood-processing plants, every third accident involving a helper happens this way: the first responder injures himself when he runs to help. The self-reliant operator **has to** freeze for three seconds, assess the scene, and only then move. Three seconds is not a delay to the rescue, it is the condition for its existence.
 :::
 
-### Step 1 as Rustam did it: three seconds after the shout
+### Step 1 as Mykoła did it: three seconds after the shout
 
-14:19:12. The shout. Rustam already knows where it came from. But he does not move at once. He looks at P3: batch 57, the band is descending, 19 logs done, number 20 the last one in the ramp. The saw is running, but it is **his** saw, under his control. He presses the red button. The band starts to slow down, it takes 4 to 6 seconds.
+14:19:12. The shout. Mykoła already knows where it came from. But he does not move at once. He looks at P3: batch 57, the band is descending, 19 logs done, number 20 the last one in the ramp. The saw is running, but it is **his** saw, under his control. He presses the red button. The band starts to slow down, it takes 4 to 6 seconds.
 
 At the same time he looks at P2. He sees Murat standing, bent over, the sleeve of the work jacket on the right forearm wet and red. He sees that the circular saw **keeps running**: the blade is spinning, the edge is ringing. Murat is three metres from the blade, but he is not operating the machine. He also sees: on the P2 outfeed ramp lies a wooden squared beam, which is probably the cause of the event (a kickback, that is what they call it in the English materials; *odbicie* in the Polish ones).
 
 Three seconds. Scene assessment: P3 safe (his button worked, the band is slowing). P2 dangerous (blade running, Murat bleeding). Oil, glass, spilled electricity: none. A clear path from P3 to P2: yes, five metres direct, without obstacles.
 
-14:19:15. Rustam moves. Wahan at the P3 outfeed ramp turns, sees Rustam running towards P2, sees Murat's back, understands without Polish words. Wahan runs up to the P3 control panel, pulls the main switch down (Rustam showed him where it was on Monday, l8 from last week had such an exercise), stays at P3 so that nobody tries to start it up.
+14:19:15. Mykoła moves. Wasyl at the P3 outfeed ramp turns, sees Mykoła running towards P2, sees Murat's back, understands without Polish words. Wasyl runs up to the P3 control panel, pulls the main switch down (Mykoła showed him where it was on Monday, l8 from last week had such an exercise), stays at P3 so that nobody tries to start it up.
 
 ::: example
-Notice that Rustam did not lose two important half-seconds on "talking to Wahan". Wahan understood **on his own** from the gesture and the context. A good workstation instruction (l8) builds a team capable of acting without commands in acute situations. Rustam had earlier shown Wahan where the main switch is and what "the whole machine dead" means. Today this paid off in three seconds. Wahan is an M1 helper in his third week, and he already performed a reflex that in an old-school sawmill is expected of an operator with eighteen months of tenure.
+Notice that Mykoła did not lose two important half-seconds on "talking to Wasyl". Wasyl understood **on his own** from the gesture and the context. A good workstation instruction (l8) builds a team capable of acting without commands in acute situations. Mykoła had earlier shown Wasyl where the main switch is and what "the whole machine dead" means. Today this paid off in three seconds. Wasyl is an M1 helper in his third week, and he already performed a reflex that in an old-school sawmill is expected of an operator with eighteen months of tenure.
 :::
 
 ### Step 2: STOP on P2
 
-14:19:18. Rustam is at P2, he covered five metres in three seconds. He does not approach Murat yet. First the blade. The P2 control panel is on the left side of the machine, Rustam walks up, hits the red emergency mushroom button with his palm (not his finger, the whole palm, as he was taught in M1 l6). The blade starts to brake. On P2 the braking of a 500 mm blade from 52 m/s to zero takes about 4 seconds, with the electromagnetic brake activated by the emergency stop. During this time Rustam carries out LOTO in an express version:
+14:19:18. Mykoła is at P2, he covered five metres in three seconds. He does not approach Murat yet. First the blade. The P2 control panel is on the left side of the machine, Mykoła walks up, hits the red emergency mushroom button with his palm (not his finger, the whole palm, as he was taught in M1 l6). The blade starts to brake. On P2 the braking of a 500 mm blade from 52 m/s to zero takes about 4 seconds, with the electromagnetic brake activated by the emergency stop. During this time Mykoła carries out LOTO in an express version:
 
 - Main switch down (1 second).
-- Personal LOTO padlock (still the plant one, Rustam gets his own next Friday): next to the switch there is a second plate, Rustam takes a free padlock from the hook on the control panel, puts it on. This is a **simplified LOTO for an acute situation**: the tag will be filled in later, for now the padlock blocks the switch physically.
+- Personal LOTO padlock (still the plant one, Mykoła gets his own next Friday): next to the switch there is a second plate, Mykoła takes a free padlock from the hook on the control panel, puts it on. This is a **simplified LOTO for an acute situation**: the tag will be filled in later, for now the padlock blocks the switch physically.
 - He walks away from the control panel towards Murat.
 
 Machine P2 is **dead** (in line with the terminology from M2 l5 this means: switched off, disconnected, locked, even if the tag is not yet there). 14:19:24. Twelve seconds from the shout.
 
 ::: info
-In an acute situation **simplified LOTO** is acceptable: a padlock from the plant pool (without a name), a tag added later. The condition: somebody is physically present at the blocked machine (Rustam at P2, Wahan at P3), so that nobody tries to start it up before full tagging is in place. In an accident the victim has priority, not the paperwork. The paperwork comes back to full in step 5.
+In an acute situation **simplified LOTO** is acceptable: a padlock from the plant pool (without a name), a tag added later. The condition: somebody is physically present at the blocked machine (Mykoła at P2, Wasyl at P3), so that nobody tries to start it up before full tagging is in place. In an accident the victim has priority, not the paperwork. The paperwork comes back to full in step 5.
 :::
 
 ### Step 3: first aid (adaptation from M1 l8)
 
-14:19:24. Rustam kneels next to Murat. Murat is sitting, his back resting against the leg of the outfeed ramp, his right hand resting on his left knee, holding the forearm with his left hand. The bleeding is clear: a red stain on the jacket, droplets on the floor. Murat is conscious, he looks at Rustam, he speaks Polish slowly:
+14:19:24. Mykoła kneels next to Murat. Murat is sitting, his back resting against the leg of the outfeed ramp, his right hand resting on his left knee, holding the forearm with his left hand. The bleeding is clear: a red stain on the jacket, droplets on the floor. Murat is conscious, he looks at Mykoła, he speaks Polish slowly:
 
 > **Murat:** "Squared beam hit. I cut myself. I can't move my finger."
 
-Rustam does not diagnose the wound. He does not take off the sleeve. He does not pull up the jacket. The first rule from M1 l8: **an undisturbed wound is a wound that does not bleed any more**. Instead:
+Mykoła does not diagnose the wound. He does not take off the sleeve. He does not pull up the jacket. The first rule from M1 l8: **an undisturbed wound is a wound that does not bleed any more**. Instead:
 
 1. **Consciousness assessment.** Murat speaks in full sentences. The AVPU scale (Alert, Voice, Pain, Unresponsive) from the course: "A" (alert). He breathes normally, the skin colour of his face is pale but not grey.
 2. **Bleeding assessment.** Bleeding moderate, continuous, dark red. Probably venous, not arterial (the latter would spurt rhythmically). Does not stop on its own.
-3. **Direct pressure.** Rustam opens the pocket of his jacket, takes out a spare personal dressing (EGIDA issues every self-reliant operator a pocket first-aid kit; Rustam got his on Monday). He applies the dressing to the bleeding site, through the work jacket, and presses with his own palm. He does not take off the jacket. He presses firmly, but not too hard, so as not to cause further injury if the bone is fractured.
+3. **Direct pressure.** Mykoła opens the pocket of his jacket, takes out a spare personal dressing (EGIDA issues every self-reliant operator a pocket first-aid kit; Mykoła got his on Monday). He applies the dressing to the bleeding site, through the work jacket, and presses with his own palm. He does not take off the jacket. He presses firmly, but not too hard, so as not to cause further injury if the bone is fractured.
 4. **Elevation of the limb.** He says to Murat: "Lift your arm up high, above your heart, slowly." Murat lifts it. The bleeding slows down.
-5. **Observation.** Rustam watches Murat, repeats: "Breathe calmly. Look at me. Talk to me. What is your name?" Murat answers: "Murat Kaya." Rustam: "Where are you from?" Murat: "From Gaziantep." Rustam: "What were you doing?" Murat: "Oak squared beam, kickback from the blade, it came back, hit my arm, I cut myself on the corner."
+5. **Observation.** Mykoła watches Murat, repeats: "Breathe calmly. Look at me. Talk to me. What is your name?" Murat answers: "Murat Kaya." Mykoła: "Where are you from?" Murat: "From Gaziantep." Mykoła: "What were you doing?" Murat: "Oak squared beam, kickback from the blade, it came back, hit my arm, I cut myself on the corner."
 
 ::: tip
-Rustam's question about the name, origin, cause is not curiosity. It is **a consciousness check through conversation**. As long as Murat answers in full sentences and knows who he is, where he is from, what happened, his brain is oxygenated, there is no shock. If the answers become single words, incomplete, illogical, that is the first signal of hypovolemic shock (from blood loss), which requires an immediate anti-shock position (on the back, legs raised 30 cm). In M1 l8 you practised this on a manikin. Today it is on a real person.
+Mykoła's question about the name, origin, cause is not curiosity. It is **a consciousness check through conversation**. As long as Murat answers in full sentences and knows who he is, where he is from, what happened, his brain is oxygenated, there is no shock. If the answers become single words, incomplete, illogical, that is the first signal of hypovolemic shock (from blood loss), which requires an immediate anti-shock position (on the back, legs raised 30 cm). In M1 l8 you practised this on a manikin. Today it is on a real person.
 :::
 
 ### Step 4: calling the services (112)
 
-14:19:50. With one hand Rustam presses the dressing, with the other he pulls the company phone from his jacket pocket (EGIDA issues every self-reliant operator a simple mobile phone for company use, a basic Nokia, a battery that lasts a week). He dials the emergency number 112. It rings four times. The dispatcher picks up.
+14:19:50. With one hand Mykoła presses the dressing, with the other he pulls the company phone from his jacket pocket (EGIDA issues every self-reliant operator a simple mobile phone for company use, a basic Nokia, a battery that lasts a week). He dials the emergency number 112. It rings four times. The dispatcher picks up.
 
 > **Dispatcher:** "Emergency number 112, who am I speaking to?"
-> **Rustam:** "Rustam Nazarov, EGIDA sawmill, Lesna 15 street, Janki near Warsaw. Accident at a sawmill machine. One person injured, bleeding from the right forearm, a cut wound from timber kicked back by a blade. Person conscious, breathing, talking. I am with her, pressing the wound."
+> **Mykoła:** "Mykoła Hrycenko, EGIDA sawmill, Lesna 15 street, Janki near Warsaw. Accident at a sawmill machine. One person injured, bleeding from the right forearm, a cut wound from timber kicked back by a blade. Person conscious, breathing, talking. I am with her, pressing the wound."
 > **Dispatcher:** "Are you at the address Lesna 15?"
-> **Rustam:** "Yes, main hall, entrance from the western ramp, you will be met by the OSH inspector Jaroslaw Wierzchowski, I will call him as soon as we hang up."
+> **Mykoła:** "Yes, main hall, entrance from the western ramp, you will be met by the OSH inspector Jaroslaw Wierzchowski, I will call him as soon as we hang up."
 > **Dispatcher:** "Ambulance on its way, seven minutes, estimated time. Please stay on the line."
 
-Rustam stays on the line. He looks at Murat, Murat looks at him, the bleeding slows under the pressure. The dressing starts to soak through, but slowly.
+Mykoła stays on the line. He looks at Murat, Murat looks at him, the bleeding slows under the pressure. The dressing starts to soak through, but slowly.
 
 ::: example
-Notice the format of Rustam's alert. **Seven elements in one sentence**: (1) who is calling, by name, (2) location with the full address, (3) type of event ("accident at a sawmill machine"), (4) number of victims, (5) type of injuries with the location, (6) condition of the victim (conscious, breathing, talking), (7) what the caller is doing. The 112 dispatcher has his own script, but if the caller gives these seven elements spontaneously, the alert time drops from two minutes to thirty seconds. In a case of venous bleeding every second means about 50 to 100 ml less blood in the body.
+Notice the format of Mykoła's alert. **Seven elements in one sentence**: (1) who is calling, by name, (2) location with the full address, (3) type of event ("accident at a sawmill machine"), (4) number of victims, (5) type of injuries with the location, (6) condition of the victim (conscious, breathing, talking), (7) what the caller is doing. The 112 dispatcher has his own script, but if the caller gives these seven elements spontaneously, the alert time drops from two minutes to thirty seconds. In a case of venous bleeding every second means about 50 to 100 ml less blood in the body.
 :::
 
 ### 112 or 999?
@@ -119,25 +119,25 @@ In a sawmill **use 112**, because an event at a machine usually requires calling
 
 ### Step 5: securing the scene
 
-14:20:50. The 112 dispatcher releases the line. Rustam calls the internal number 214 (Marek). Marek answers on the first ring.
+14:20:50. The 112 dispatcher releases the line. Mykoła calls the internal number 214 (Marek). Marek answers on the first ring.
 
-> **Rustam:** "Marek, accident P2, Murat, bleeding from the arm, ambulance on its way, 7 minutes. Come."
+> **Mykoła:** "Marek, accident P2, Murat, bleeding from the arm, ambulance on its way, 7 minutes. Come."
 
-Marek hangs up without a word (Rustam hears "on my way" and a click). Forty seconds later Marek is at P2. He takes the situation in hand:
+Marek hangs up without a word (Mykoła hears "on my way" and a click). Forty seconds later Marek is at P2. He takes the situation in hand:
 
-> **Marek:** "Good. Rustam, you stay with Murat, keep the pressure on. I am going to Wahan, then to the gate, to meet the ambulance. Wahan, you stay at P3, you do not let anyone near P2 or P3. Nobody."
+> **Marek:** "Good. Mykoła, you stay with Murat, keep the pressure on. I am going to Wasyl, then to the gate, to meet the ambulance. Wasyl, you stay at P3, you do not let anyone near P2 or P3. Nobody."
 
-Marek leaves. Rustam stays. 14:22, the bleeding slowly subsides, Murat answers questions. Rustam asks quietly: "Do you have family in Poland?" Murat: "Wife, child, two of them. Warsaw Praga." Rustam: "We will call them after the ambulance, I promise."
+Marek leaves. Mykoła stays. 14:22, the bleeding slowly subsides, Murat answers questions. Mykoła asks quietly: "Do you have family in Poland?" Murat: "Wife, child, two of them. Warsaw Praga." Mykoła: "We will call them after the ambulance, I promise."
 
-At 14:25:32 the ambulance drives onto the sawmill yard. Marek leads the paramedics through the hall to P2. Two paramedics, one says to Rustam: "good job, buddy, you can step back." Rustam releases the pressure. The paramedic applies a tactical dressing, sets up an infusion, checks the pulse, puts Murat on a stretcher. At 14:33 the ambulance leaves with Murat for the Praski Hospital.
+At 14:25:32 the ambulance drives onto the sawmill yard. Marek leads the paramedics through the hall to P2. Two paramedics, one says to Mykoła: "good job, buddy, you can step back." Mykoła releases the pressure. The paramedic applies a tactical dressing, sets up an infusion, checks the pulse, puts Murat on a stretcher. At 14:33 the ambulance leaves with Murat for the Praski Hospital.
 
-Left on the yard: Marek, Rustam, Wahan, a ramp worker (Zbyszek), plus other operators from the neighbouring hall slowly gathering around. Marek reacts at once:
+Left on the yard: Marek, Mykoła, Wasyl, a ramp worker (Zbyszek), plus other operators from the neighbouring hall slowly gathering around. Marek reacts at once:
 
-> **Marek:** "Everyone back to their workstations. Rustam stays at P2, Wahan stays at P3, I am going to fetch Piotr and Jaroslaw. Do not touch **anything** at P2. The squared beam, the blood on the floor, the control panel, the saw. Not a single thing. Understood? Jaroslaw will come in a moment with a camera."
+> **Marek:** "Everyone back to their workstations. Mykoła stays at P2, Wasyl stays at P3, I am going to fetch Piotr and Jaroslaw. Do not touch **anything** at P2. The squared beam, the blood on the floor, the control panel, the saw. Not a single thing. Understood? Jaroslaw will come in a moment with a camera."
 
-They disperse. Rustam stays. He looks at P2. He sees: an oak squared beam 100 x 100 x 2400 lying on the outfeed ramp, the tip has a fresh gouge (that is where the kickback caught it), on one edge Murat's blood. On the floor in front of the saw: three droplets of blood. The LOTO padlock which Rustam put on is hanging on the main switch. The saw blade: stopped, blade on the guard, motor cold.
+They disperse. Mykoła stays. He looks at P2. He sees: an oak squared beam 100 x 100 x 2400 lying on the outfeed ramp, the tip has a fresh gouge (that is where the kickback caught it), on one edge Murat's blood. On the floor in front of the saw: three droplets of blood. The LOTO padlock which Mykoła put on is hanging on the main switch. The saw blade: stopped, blade on the guard, motor cold.
 
-**Rustam moves nothing.** He sits down on a stool next to the control panel, watches. In five minutes Jaroslaw will come with a camera. The scene in the pre-accident state (minus only Murat) is now the **material of the post-accident protocol** in line with art. 234 § 1 of the Polish Labour Code.
+**Mykoła moves nothing.** He sits down on a stool next to the control panel, watches. In five minutes Jaroslaw will come with a camera. The scene in the pre-accident state (minus only Murat) is now the **material of the post-accident protocol** in line with art. 234 § 1 of the Polish Labour Code.
 
 ::: warning
 The most dangerous reflex of the second witness in a sawmill: "to tidy up". To pick up the squared beam, wash away the blood, throw out the dressing, unlock the machine ("because tomorrow we have to work"). **None** of these things is allowed. The protocol establishing the circumstances and causes of the accident requires the real state, photographs, measurements. The employer keeps this protocol for **10 years** (art. 234 § 3 of the Polish Labour Code). If in two years the injured person or his family go to court with a compensation claim, and the protocol is based on a tidied-up scene, the plant will lose the case, even if it was formally without fault. An accident scene is evidence. Evidence is not for tidying up.
@@ -178,44 +178,44 @@ Art. 209¹ § 1 of the Polish Labour Code states that the employer is obliged to
 > "1. giving first aid,
 > 2. carrying out activities within the scope of firefighting and the evacuation of workers."
 
-At EGIDA the list of workers designated for first aid hangs in the changing room and on the board at every saw. On this list today there are **17 people**: all the *brygadzisci* (foremen), all the shift masters, the managers, 8 self-reliant operators with a first-aid course. Rustam has been on this list since Monday (17th in order, by surname), because he completed the first-aid course in M1 l8 and holds a certificate.
+At EGIDA the list of workers designated for first aid hangs in the changing room and on the board at every saw. On this list today there are **17 people**: all the *brygadzisci* (foremen), all the shift masters, the managers, 8 self-reliant operators with a first-aid course. Mykoła has been on this list since Monday (17th in order, by surname), because he completed the first-aid course in M1 l8 and holds a certificate.
 
 If in your sawmill you do not have a first-aid course, you are **not** formally a designated first-aid worker. But the moral and customary rule in a Polish sawmill is different: **you help**, if you are the closest. The law does not punish help in a life-threatening situation (art. 162 of the Polish Penal Code penalises the **lack** of help, not the giving of it). Your decision to help is not an "overstepping of authority", even if you are not on the formal list.
 
-At EGIDA, however, the rule is clear: from M3 onwards it is expected that you have the first-aid course. Those who do not are sent to the course in the second month of M3 (for Rustam's cohort: May 2026). If you have a certificate from M1, the refresher is usually once every three years.
+At EGIDA, however, the rule is clear: from M3 onwards it is expected that you have the first-aid course. Those who do not are sent to the course in the second month of M3 (for Mykoła's cohort: May 2026). If you have a certificate from M1, the refresher is usually once every three years.
 
 ### The protocol establishing the circumstances and causes of the accident
 
 14:42. Jaroslaw Wierzchowski, the plant OSH inspector, enters the hall, in a green jacket with the EGIDA logo and the initials "BHP" on the sleeve. He has with him a digital camera, a notebook, a 5-metre tape measure, a few pages of the post-accident protocol. Behind him goes Piotr, the shift master, and the union inspector at the plant (the NSZZ Solidarnosc has a delegate for establishing the circumstances of accidents, at EGIDA it is Bartek, a forklift fitter, older, calm).
 
-Jaroslaw greets Rustam, thanks him for the good securing of the scene, opens the protocol. The protocol establishing the circumstances and causes of a workplace accident (a PIP form, 4 pages) contains, among other things:
+Jaroslaw greets Mykoła, thanks him for the good securing of the scene, opens the protocol. The protocol establishing the circumstances and causes of a workplace accident (a PIP form, 4 pages) contains, among other things:
 
 1. **Identification data:** name of the injured person, date, time, location.
-2. **Witness data:** Rustam is the first witness (on the scene immediately), Wahan the second (the first 30 seconds after the shout), Marek the third (the first 3 minutes).
+2. **Witness data:** Mykoła is the first witness (on the scene immediately), Wasyl the second (the first 30 seconds after the shout), Marek the third (the first 3 minutes).
 3. **Description of the event:** what happened, how it happened, in what order.
 4. **Causes of the accident:** established by the post-accident team (Jaroslaw + the union inspector + a representative of the employer, in line with the Regulation of the Council of Ministers of 1 July 2009).
 5. **Preventive measures:** what the plant will do so that it does not happen again.
 6. **Attachments:** photographs, measurements, the P2 workstation instruction, Murat's training card.
 
-Jaroslaw takes photographs. He measures: the distance of the squared beam from the blade, the angle of the blade rotation, the position of the push stick. He writes down the details in his notebook. After 18 minutes the photographs and measurements are done. Jaroslaw walks up to Rustam:
+Jaroslaw takes photographs. He measures: the distance of the squared beam from the blade, the angle of the blade rotation, the position of the push stick. He writes down the details in his notebook. After 18 minutes the photographs and measurements are done. Jaroslaw walks up to Mykoła:
 
-> **Jaroslaw:** "Rustam, I want your testimony in writing. Fill it in in your own words: what you saw, what you did, what you heard. Short, facts, no interpretation of causes. You have twenty minutes before the documents are closed. Then you will sign."
+> **Jaroslaw:** "Mykoła, I want your testimony in writing. Fill it in in your own words: what you saw, what you did, what you heard. Short, facts, no interpretation of causes. You have twenty minutes before the documents are closed. Then you will sign."
 
-Rustam sits down at the P3 control panel (Wahan standing next to him, assisting, watching). He takes a sheet of paper, a pen, he writes:
+Mykoła sits down at the P3 control panel (Wasyl standing next to him, assisting, watching). He takes a sheet of paper, a pen, he writes:
 
-> **Witness testimony. Rustam Nazarov, operator P3. Date: 2026-04-24. Time of the event: 14:19.**
-> **At 14:19:12 I heard a shout from P2 (five metres from me). I glanced towards P2, I saw operator Murat Kaya standing, holding his right forearm with his left hand, the jacket sleeve red. Saw P2 was running. I pressed the red button on P3, the band started to slow down. I signalled to Wahan Petrosjan that I was going to P2. Wahan took over P3 (main switch down).**
+> **Witness testimony. Mykoła Hrycenko, operator P3. Date: 2026-04-24. Time of the event: 14:19.**
+> **At 14:19:12 I heard a shout from P2 (five metres from me). I glanced towards P2, I saw operator Murat Kaya standing, holding his right forearm with his left hand, the jacket sleeve red. Saw P2 was running. I pressed the red button on P3, the band started to slow down. I signalled to Wasyl Melnyk that I was going to P2. Wasyl took over P3 (main switch down).**
 > **I ran to P2. The circular saw was running. I hit the emergency mushroom button on the P2 control panel with my palm (14:19:18). I switched off the main switch (14:19:20). I put on a plant LOTO padlock (14:19:23).**
 > **I approached Murat. Assessed the condition: conscious, breathing, talking. Description of the wound: bleeding from the right forearm, the jacket sleeve wet. I applied a personal dressing through the jacket (I did not take it off), I pressed. Murat raised the limb higher. The bleeding slowed.**
 > **I called 112 (14:19:50). I reported the address, type of event, number of victims, condition. The dispatcher confirmed an ambulance in 7 minutes. I called foreman M. Kowalski (14:20:50). Marek arrived after 40 seconds.**
 > **The ambulance arrived at 14:25:32. The paramedics took over care. The ambulance left at 14:33.**
 > **I did not perform any actions that would have changed the position of tools, the saw, the squared beam or other elements of the event scene, beyond applying the LOTO padlock and the dressing.**
-> **Signature: Rustam Nazarov. Place and date of signature: Janki, 2026-04-24, 15:07.**
+> **Signature: Mykoła Hrycenko. Place and date of signature: Janki, 2026-04-24, 15:07.**
 
-Rustam reads it twice, corrects two typos, hands it to Jaroslaw. Jaroslaw reads it, nods, attaches it to the protocol as Attachment 1.
+Mykoła reads it twice, corrects two typos, hands it to Jaroslaw. Jaroslaw reads it, nods, attaches it to the protocol as Attachment 1.
 
 ::: info
-Notice Rustam's last line: "**I did not perform any actions that would have changed the position of tools, the saw, the squared beam**". This line is the **evidentiary key**. Without it somebody could later ask whether Rustam moved the squared beam, picked up the push stick, touched the blade. With it, it is clear: the state of the scene at 14:42 (when Jaroslaw was taking photographs) was the state at 14:19:12 (when Murat shouted), increased only by the dressing and the LOTO padlock. This is the testimony of the first witness who knows that his testimony secures the evidentiary integrity of the scene.
+Notice Mykoła's last line: "**I did not perform any actions that would have changed the position of tools, the saw, the squared beam**". This line is the **evidentiary key**. Without it somebody could later ask whether Mykoła moved the squared beam, picked up the push stick, touched the blade. With it, it is clear: the state of the scene at 14:42 (when Jaroslaw was taking photographs) was the state at 14:19:12 (when Murat shouted), increased only by the dressing and the LOTO padlock. This is the testimony of the first witness who knows that his testimony secures the evidentiary integrity of the scene.
 :::
 
 ### When you do not give first aid
@@ -232,23 +232,23 @@ There are situations in which the first aid of a self-reliant operator is **limi
 
 ### After the ambulance leaves: what you do until the end of the day
 
-14:33 the ambulance leaves. Rustam, Wahan, Marek, Jaroslaw, Piotr, Bartek stay in the hall. Jaroslaw finishes the photographing and measurements by 15:00. From 15:00 to 15:40 the preliminary protocol is written (Jaroslaw in the office, the others wait in the staff common room). At 15:40 Jaroslaw asks all the witnesses to the office, reads the preliminary protocol, asks for additions.
+14:33 the ambulance leaves. Mykoła, Wasyl, Marek, Jaroslaw, Piotr, Bartek stay in the hall. Jaroslaw finishes the photographing and measurements by 15:00. From 15:00 to 15:40 the preliminary protocol is written (Jaroslaw in the office, the others wait in the staff common room). At 15:40 Jaroslaw asks all the witnesses to the office, reads the preliminary protocol, asks for additions.
 
-Rustam adds two sentences (he noticed that at Murat's side there was a **push stick** lying on the floor, which may have a bearing on the analysis of causes). Marek adds one sentence about the state of machine P2 before the shift (the morning tests, the protocol available in the archive). Wahan adds nothing (he did not see the event itself, he was turned towards the outfeed ramp).
+Mykoła adds two sentences (he noticed that at Murat's side there was a **push stick** lying on the floor, which may have a bearing on the analysis of causes). Marek adds one sentence about the state of machine P2 before the shift (the morning tests, the protocol available in the archive). Wasyl adds nothing (he did not see the event itself, he was turned towards the outfeed ramp).
 
-At 16:10 the preliminary protocol is closed. Each witness signs. Rustam's signature is visible on the paper at 17:35: "Rustam Nazarov, operator P3, first witness, 2026-04-24 16:10". Jaroslaw stores the protocol in a folder.
+At 16:10 the preliminary protocol is closed. Each witness signs. Mykoła's signature is visible on the paper at 17:35: "Mykoła Hrycenko, operator P3, first witness, 2026-04-24 16:10". Jaroslaw stores the protocol in a folder.
 
-Rustam's shift formally ended at 15:00, but Rustam worked as a witness until 16:10. That time **is counted as working time** in line with art. 234 § 1 ("establishing the circumstances of an accident"), the labour costs are borne by the plant (art. 234 § 4). Rustam is paid his normal rate for those 70 minutes, without overtime (because the work of establishing the circumstances has a special character, it is not "production work"). The same for Wahan and Marek.
+Mykoła's shift formally ended at 15:00, but Mykoła worked as a witness until 16:10. That time **is counted as working time** in line with art. 234 § 1 ("establishing the circumstances of an accident"), the labour costs are borne by the plant (art. 234 § 4). Mykoła is paid his normal rate for those 70 minutes, without overtime (because the work of establishing the circumstances has a special character, it is not "production work"). The same for Wasyl and Marek.
 
 ### The following days: continuation of the procedure
 
 **Saturday, 2026-04-25.** Jaroslaw contacts Murat's treating physician at the Praski Hospital. Information: a cut wound of the forearm, depth 2.5 cm, damage to two flexor tendons, sutured, rehabilitation 6 to 8 weeks. Preliminary qualification: a "severe" accident in the meaning of the Regulation of the Council of Ministers (an injury causing a long-lasting detriment to health). Jaroslaw notifies the PIP (in line with art. 234 § 2 of the Polish Labour Code) and the prosecutor without delay. Electronic notification, confirmation arrives within an hour.
 
-**Monday, 2026-04-27.** A PIP inspector comes to inspect. He reviews the protocol, talks to Jaroslaw, Marek, Rustam (a short conversation, 15 minutes, confirmation of the testimony). The inspector checks: the P2 workstation instruction, the condition of the blade guards, Murat's training card, the oak campaign card. The state of the plant: compliant with the regulations, the instruction current, Murat's training valid (expires in June 2026). The inspector issues an inspection protocol without orders.
+**Monday, 2026-04-27.** A PIP inspector comes to inspect. He reviews the protocol, talks to Jaroslaw, Marek, Mykoła (a short conversation, 15 minutes, confirmation of the testimony). The inspector checks: the P2 workstation instruction, the condition of the blade guards, Murat's training card, the oak campaign card. The state of the plant: compliant with the regulations, the instruction current, Murat's training valid (expires in June 2026). The inspector issues an inspection protocol without orders.
 
 **Tuesday, 2026-04-28.** The post-accident team (Jaroslaw + Bartek + Piotr as the employer's representative) finishes the protocol establishing the circumstances and causes of the accident. Conclusion: the kickback of the squared beam was caused by an incorrect pushing technique (Murat was pushing with his hand instead of the push stick, because the push stick was lying on the floor). Primary cause: the ergonomics of the workstation (the push stick difficult to grip in cotton gloves, falls out of the holder). Preventive measures: replacement of push sticks with a model with a carabiner clip (cost 1,200 PLN, to be implemented within two weeks), additional workstation training with emphasis on the use of the push stick.
 
-**Thursday, 2026-04-30.** Murat returns to work at an administrative position (he cannot operate the saw for six weeks due to rehabilitation). He visits the hall, walks up to Rustam, offers his left hand (the right one in a splint). He says: "Thank you. My wife asks you for dinner, on Saturday." Rustam nods.
+**Thursday, 2026-04-30.** Murat returns to work at an administrative position (he cannot operate the saw for six weeks due to rehabilitation). He visits the hall, walks up to Mykoła, offers his left hand (the right one in a splint). He says: "Thank you. My wife asks you for dinner, on Saturday." Mykoła nods.
 
 ::: tip
 In a Polish sawmill a serious accident is usually a turning point for the whole crew. For a week everyone works more carefully, refreshes the instructions, returns to the first-aid course. This is not theatre. It is a natural reaction of a mature plant to an event that almost-but-not-quite happened to each of them. In l8 of this week (the workstation instruction for the helper) you will come back to today's accident as an example of why a good instruction saves a hand.
@@ -276,7 +276,7 @@ The 112 alert: seven elements in one sentence. Who is calling, where, what, how 
 
 Securing the scene: do not move anything until Jaroslaw arrives. The last line of the witness testimony is "I did not change the position of anything except...". The evidentiary key.
 
-Rustam today did all of this and more. From the shout to the signature on the protocol: 106 minutes. During that time, in the PIP register, he was the only first witness in the hall. That status will stay in the papers until 2036.
+Mykoła today did all of this and more. From the shout to the signature on the protocol: 106 minutes. During that time, in the PIP register, he was the only first witness in the hall. That status will stay in the papers until 2036.
 
 Tomorrow, in l6, a break from the heavy topics. We go back to the work on the log: risk assessment at a new workstation. But today's lesson will stay with you for a long time. Every time you walk into the hall and see Murat at his machine (Murat comes back full-time in June), you will think of 14:19:12. And you will know what you will do if it ever happens again.
 
@@ -373,8 +373,8 @@ On Monday, in l6, we move to the technical block: risk assessment at a new works
 
 ## Notes for the trainer
 
-- **120 min rhythm (proposed):** 10 min Introduction + Objectives; 15 min the five steps of the procedure (board, cards in order); 25 min Rustam's scene from 14:19:12 to 14:25:32 (reading, pausing after each step, discussion); 15 min art. 234 of the Polish Labour Code (reading the quotation, discussion of the 10-year retention and the PIP notification); 15 min art. 209¹ of the Polish Labour Code and the designated first-aid workers (discussion: who in your group has the course?); 15 min securing the scene and the post-accident protocol (the role of the witness, what is and what is not allowed); 10 min special situations (electricity, spine, arterial bleeding, amputation, briefly, detail in M1 l8); 10 min Key terms and summary; 5 min preview of l6 (risk assessment, return to the didactic pace).
-- **Pedagogical trap no. 1:** Rustam's scene is emotionally strong. Migrant trainees may have their own experiences of accidents at work (in Poland or in their countries of origin). After Rustam's scene take a **five-minute break** for coffee or water. Let the emotions settle. Then come back to the legal part, which is calmer.
+- **120 min rhythm (proposed):** 10 min Introduction + Objectives; 15 min the five steps of the procedure (board, cards in order); 25 min Mykoła's scene from 14:19:12 to 14:25:32 (reading, pausing after each step, discussion); 15 min art. 234 of the Polish Labour Code (reading the quotation, discussion of the 10-year retention and the PIP notification); 15 min art. 209¹ of the Polish Labour Code and the designated first-aid workers (discussion: who in your group has the course?); 15 min securing the scene and the post-accident protocol (the role of the witness, what is and what is not allowed); 10 min special situations (electricity, spine, arterial bleeding, amputation, briefly, detail in M1 l8); 10 min Key terms and summary; 5 min preview of l6 (risk assessment, return to the didactic pace).
+- **Pedagogical trap no. 1:** Mykoła's scene is emotionally strong. Migrant trainees may have their own experiences of accidents at work (in Poland or in their countries of origin). After Mykoła's scene take a **five-minute break** for coffee or water. Let the emotions settle. Then come back to the legal part, which is calmer.
 - **Pedagogical trap no. 2:** the section "What the self-reliant operator does not do" (doctor, OSH inspector, judge, therapist) may be misread as "you are not important". It is not about that. It is about **the boundaries of the role**, which protect both you and the victim. A good self-reliant operator knows where his role ends and does not replace professionals. Weaker operators try to be everyone at once and usually do not help either side well.
 - **Pedagogical trap no. 3:** the topic "secure the scene" may be read as "coldness, heartlessness towards a bleeding coworker". **It is not.** It is a respect for the truth of the protocol, which in three years may save Murat's family in a compensation case, if the plant was at fault, or protect the plant if the plant was not. An untouched accident scene is **evidence** which defends both sides fairly. A tidied-up scene opens the door to suspicion.
 - **Link to M1 l8 (first aid, amputation):** suggest to the trainees that they open the old material from M1 l8 in the evening. Today's lesson is a continuation of that one, from a different perspective (leader instead of executor). Repeating both together builds a competence map: in M1 you learned to rescue, in M3 you learn to lead the rescue.

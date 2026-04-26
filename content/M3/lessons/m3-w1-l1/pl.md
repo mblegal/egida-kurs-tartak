@@ -6,11 +6,11 @@ czas: 120
 
 ## Wprowadzenie
 
-Osiem tygodni temu wszedłeś do tartaku jako **pomocnik**. Cztery tygodnie temu zdałeś egzamin wtorkowy M2 i zostałeś **operatorem juniorem**. Dziś na drzwiach szatni wisi nowa lista zmiany. Twoje nazwisko jest na niej po raz pierwszy **bez gwiazdki**. Gwiazdka w tartaku oznaczała jedno: „pracuje pod autoryzacją brygadzisty, każde uruchomienie osobno". Dziś gwiazdki nie ma. Jesteś na liście zwykłym pismem, tak jak Marek, tak jak Tadeusz, tak jak Hai trzy miesiące temu. Jesteś **operatorem samodzielnym**.
+Osiem tygodni temu wszedłeś do tartaku jako **pomocnik**. Cztery tygodnie temu zdałeś egzamin wtorkowy M2 i zostałeś **operatorem juniorem**. Dziś na drzwiach szatni wisi nowa lista zmiany. Twoje nazwisko jest na niej po raz pierwszy **bez gwiazdki**. Gwiazdka w tartaku oznaczała jedno: „pracuje pod autoryzacją brygadzisty, każde uruchomienie osobno". Dziś gwiazdki nie ma. Jesteś na liście zwykłym pismem, tak jak Marek, tak jak Tadeusz, tak jak Andrij trzy miesiące temu. Jesteś **operatorem samodzielnym**.
 
 W M2 Marek, brygadzista, stał przy twojej maszynie. Widział twój checklist. Wypowiadał słowo „ruszasz" przed każdym cyklem. Byłeś odpowiedzialny, ale jego oko było ostatnim filtrem między twoją ręką a zielonym przyciskiem. W M3 Marek nie stoi już obok. On jest przy maszynie brygadzisty, dwa stanowiska dalej. Ty **sam** podejmujesz decyzję, sam naciskasz przycisk, sam zgłaszasz rezultat. **Raport idzie do brygadzisty po fakcie, nie przed operacją.**
 
-Ta jedna zmiana waży więcej niż wszystkie inne w M3. Za chwilę przedstawimy ci Rustama, który dziś po raz pierwszy stanął na liście bez gwiazdki. Rustam zrobił M1 i M2 razem z tobą, w tej samej kohorcie Fundacji EGIDA. Przyjechał z Tadżykistanu dwa lata temu. Jego polski brzmi miękko, ale jego ręka już mówi językiem pilarki. Dziś jest jego pierwszy dzień M3, tak jak twój. Będziemy z nim przez najbliższe cztery tygodnie.
+Ta jedna zmiana waży więcej niż wszystkie inne w M3. Za chwilę przedstawimy ci Mykoły, który dziś po raz pierwszy stanął na liście bez gwiazdki. Mykoła zrobił M1 i M2 razem z tobą, w tej samej kohorcie Fundacji EGIDA. Przyjechał z Ukrainau dwa lata temu. Jego polski brzmi miękko, ale jego ręka już mówi językiem pilarki. Dziś jest jego pierwszy dzień M3, tak jak twój. Będziemy z nim przez najbliższe cztery tygodnie.
 
 ## Cele
 
@@ -48,41 +48,41 @@ Po przekroczeniu progu M3 wchodzą trzy obszary, których w M2 formalnie nie mia
 Największa pułapka operatorów wchodzących w M3: **iluzja wolności**. Kiedy Marek nie stoi już obok, łatwo uznać, że „nikt nie patrzy". Nikt nie patrzy w danej sekundzie, ale wszyscy patrzą po fakcie. Kamera CCTV nagrywa 30 dni (standardowe ustawienie większości zakładów). Dziennik maszyny zostaje 5 lat. Karta partii z twoim podpisem, jeżeli dotyczy tarcicy konstrukcyjnej, zostaje 10 lat w archiwum klienta. Rano nikt nie widzi. Po dwóch miesiącach widzą wszyscy, bo klient reklamuje partię, która miała pęknięcie czołowe, i ktoś otwiera kartę.
 :::
 
-### Kto to jest Rustam
+### Kto to jest Mykoła
 
-Rustam Nazarov przyjechał do Polski dwa lata temu z Duszanbe. Miał 24 lata, skończył technikum mechaniczne w Tadżykistanie i uczył się rosyjskiego w szkole. Polskiego nie znał wcale. Pierwsze osiem miesięcy pracował w magazynie Lidla pod Warszawą, nosił palety, uczył się słów „wózek", „paleta", „stawka godzinowa", „umowa zlecenie". Mieszkał z trzema kolegami z Tadżykistanu w jednym pokoju na Pradze, za 900 zł od osoby. Zarabiał 3800 zł na rękę. Dzwonił do żony raz w tygodniu.
+Mykoła Hrycenko przyjechał do Polski dwa lata temu z Połtawy. Miał 24 lata, skończył technikum mechaniczne w Ukrainie i uczył się rosyjskiego w szkole. Polskiego nie znał wcale. Pierwsze osiem miesięcy pracował w magazynie Lidla pod Warszawą, nosił palety, uczył się słów „wózek", „paleta", „stawka godzinowa", „umowa zlecenie". Mieszkał z trzema kolegami z Ukrainy w jednym pokoju na Pradze, za 900 zł od osoby. Zarabiał 3800 zł na rękę. Dzwonił do żony raz w tygodniu.
 
-Na kurs Fundacji EGIDA zapisał go kolega z Dagestanu, który zobaczył plakat w meczecie przy Pułtuskiej. „Rustam, jedź do tartaku. W tartaku jest powietrze, nie magazyn. W tartaku płacą lepiej. W tartaku trzymają cię dłużej niż zlecenie." Rustam pojechał. M1 skończył z wynikiem 81%. M2 z 84%. Nie jest gwiazdą kohorty, gwiazdą jest Hai, wietnamczyk, który zdał M2 z 94%. Ale Rustam jest **solidny**. Brygadzista Marek pisze w jego karcie stanowiskowej jedno słowo polskie, które Rustam już rozumie: *konsekwentny*.
+Na kurs Fundacji EGIDA zapisał go kolega z Wołynia, który zobaczył plakat w cerkwi przy Pułtuskiej. „Mykoła, jedź do tartaku. W tartaku jest powietrze, nie magazyn. W tartaku płacą lepiej. W tartaku trzymają cię dłużej niż zlecenie." Mykoła pojechał. M1 skończył z wynikiem 81%. M2 z 84%. Nie jest gwiazdą kohorty, gwiazdą jest Andrij ze Lwowa, który zdał M2 z 94%. Ale Mykoła jest **solidny**. Brygadzista Marek pisze w jego karcie stanowiskowej jedno słowo polskie, które Mykoła już rozumie: *konsekwentny*.
 
-Dziś Rustam stoi przed pilarką taśmową P3 w hali tartaku EGIDA. Po raz pierwszy bez Marka obok. Marek jest 40 metrów dalej, przy pilarce tarczowej P1, gdzie dzisiaj rusza nowy pomocnik M1 z Armenii. Rustam wie, że Marek przyjdzie do niego dopiero po dwóch godzinach, z dziennikiem maszyny w ręce. Do tej pory Rustam sam podejmuje każdą decyzję na P3.
+Dziś Mykoła stoi przed pilarką taśmową P3 w hali tartaku EGIDA. Po raz pierwszy bez Marka obok. Marek jest 40 metrów dalej, przy pilarce tarczowej P1, gdzie dzisiaj rusza nowy pomocnik M1 z Ukrainy. Mykoła wie, że Marek przyjdzie do niego dopiero po dwóch godzinach, z dziennikiem maszyny w ręce. Do tej pory Mykoła sam podejmuje każdą decyzję na P3.
 
 ::: example
-Rustam nie jest „nowym bohaterem zamiast Haia". Hai dalej pracuje w tym samym tartaku. Jest trzy miesiące przed Rustamem, jest już operatorem samodzielnym od kwartału, obsługuje pilarkę tarczową P2. Spotkasz go w T4 tego modułu, przy lekcji o reklamacjach klienta. Hai dwa razy w życiu brał udział w wizycie reklamacyjnej, wie, jak się zachować. Rustam jeszcze nie wie. Dlatego ty, razem z Rustamem, pójdziesz do Haia po radę. Tak działa awans w polskim tartaku: każdy szczebel uczy się od szczebla o jeden wyższy.
+Mykoła nie jest „nowym bohaterem zamiast Andrija". Andrij dalej pracuje w tym samym tartaku. Jest trzy miesiące przed Mykołą, jest już operatorem samodzielnym od kwartału, obsługuje pilarkę tarczową P2. Spotkasz go w T4 tego modułu, przy lekcji o reklamacjach klienta. Andrij dwa razy w życiu brał udział w wizycie reklamacyjnej, wie, jak się zachować. Mykoła jeszcze nie wie. Dlatego ty, razem z Mykołą, pójdziesz do Andrija po radę. Tak działa awans w polskim tartaku: każdy szczebel uczy się od szczebla o jeden wyższy.
 :::
 
-### Pierwszy poniedziałek Rustama
+### Pierwszy poniedziałek Mykoły
 
-Jest 6:47 rano, 18 minut do startu zmiany. Rustam wchodzi do hali, zdejmuje kurtkę w szatni, bierze z szafki kask, okulary, ochronniki słuchu, rękawice bawełniane. Przechodzi obok tablicy z listą zmiany. Wodzi palcem po swoim nazwisku. Gwiazdki nie ma. Serce mu wali przez trzy sekundy, potem wraca do normy.
+Jest 6:47 rano, 18 minut do startu zmiany. Mykoła wchodzi do hali, zdejmuje kurtkę w szatni, bierze z szafki kask, okulary, ochronniki słuchu, rękawice bawełniane. Przechodzi obok tablicy z listą zmiany. Wodzi palcem po swoim nazwisku. Gwiazdki nie ma. Serce mu wali przez trzy sekundy, potem wraca do normy.
 
 Przy pilarce P3 pięć minut przed startem robi to, co robił w M2: pięć punktów checklistu. Osłony na miejscu. Taśma napięta (2300 PSI, w zakresie 2200–2400). Odciąg szumi. Bieg jałowy płynny, bez bicia koła. Wokół maszyny w promieniu 3 metrów nikogo. W M2 w tym momencie powiedziałby: „Sprawdzone, Marek". Dziś nie ma nikogo, komu to powie.
 
-Rustam wstrzymuje oddech na moment. Patrzy na zielony przycisk. W M2 autoryzacja była słowem brygadzisty. W M3 autoryzacja jest **stanem checklistu**. Pięć punktów przeszło. Stan jest pozytywny. Autoryzacja do uruchomienia wyszła z jego własnej głowy, nie z ust Marka. Rustam naciska przycisk. Taśma rusza. Pierwsze 10 sekund patrzy na maszynę, nie na kłodę. Dźwięk równy. Taśma nie bije. Bierze pierwszą kłodę.
+Mykoła wstrzymuje oddech na moment. Patrzy na zielony przycisk. W M2 autoryzacja była słowem brygadzisty. W M3 autoryzacja jest **stanem checklistu**. Pięć punktów przeszło. Stan jest pozytywny. Autoryzacja do uruchomienia wyszła z jego własnej głowy, nie z ust Marka. Mykoła naciska przycisk. Taśma rusza. Pierwsze 10 sekund patrzy na maszynę, nie na kłodę. Dźwięk równy. Taśma nie bije. Bierze pierwszą kłodę.
 
-Trzydzieści minut później Rustam wyciera czoło rękawem. Przerobił sześć kłód sosnowych, partia 47. Podchodzi do dziennika maszyny (tablet w etui na stojaku obok P3), otwiera go, stuka palcem:
+Trzydzieści minut później Mykoła wyciera czoło rękawem. Przerobił sześć kłód sosnowych, partia 47. Podchodzi do dziennika maszyny (tablet w etui na stojaku obok P3), otwiera go, stuka palcem:
 
 > **6 kłód sosnowych, średnica 28–34 cm, wilgotność wejściowa 42% (pomiar 2 kłody).**
 > **Przetarcie na tarcicę 50 × 150 mm, kerf 3,5 mm. Wydajność surowca szacunkowo 58%.**
 > **Taśma w porządku, temperatura w dłoni ciepła ale nie gorąca.**
 > **Partia 47 w toku, 6 z 20 kłód.**
 
-Zapisuje. Podchodzi Marek, czyta tablet, patrzy na Rustama. Mówi krótko:
+Zapisuje. Podchodzi Marek, czyta tablet, patrzy na Mykołę. Mówi krótko:
 
 > **Marek:** „Czytelnie. Dalej."
 
-I odchodzi. To jest pierwszy raport po fakcie, który Rustam napisał sam. Marek nie zapytał „jak ci idzie". Zapytał **co napisałeś**. To jest różnica między M2 a M3. Papier, a nie rozmowa.
+I odchodzi. To jest pierwszy raport po fakcie, który Mykoła napisał sam. Marek nie zapytał „jak ci idzie". Zapytał **co napisałeś**. To jest różnica między M2 a M3. Papier, a nie rozmowa.
 
 ::: tip
-Zauważ trzy rzeczy w raporcie Rustama. Po pierwsze, **liczby**: 6 kłód, 28–34 cm, 42%, 50 × 150 mm, 3,5 mm, 58%. Brygadzista nie potrzebuje opisów, potrzebuje danych. Po drugie, **granica wiedzy**: „temperatura w dłoni ciepła ale nie gorąca" zamiast „taśma przegrzana". Rustam nie diagnozuje tego, czego nie mierzy. Po trzecie, **stan partii**: „6 z 20 kłód" mówi Markowi, że za 100 minut partia będzie zamknięta i trzeba przygotować miejsce na stos. Raport jest narzędziem planowania dla brygadzisty, nie opisem emocji operatora.
+Zauważ trzy rzeczy w raporcie Mykoły. Po pierwsze, **liczby**: 6 kłód, 28–34 cm, 42%, 50 × 150 mm, 3,5 mm, 58%. Brygadzista nie potrzebuje opisów, potrzebuje danych. Po drugie, **granica wiedzy**: „temperatura w dłoni ciepła ale nie gorąca" zamiast „taśma przegrzana". Mykoła nie diagnozuje tego, czego nie mierzy. Po trzecie, **stan partii**: „6 z 20 kłód" mówi Markowi, że za 100 minut partia będzie zamknięta i trzeba przygotować miejsce na stos. Raport jest narzędziem planowania dla brygadzisty, nie opisem emocji operatora.
 :::
 
 ### Raport po fakcie nie oznacza raportu bez świadków
@@ -153,7 +153,7 @@ Szczebel 4 i trzy ścieżki dodatkowe to mapa na 2–4 lata. Nie wybierasz dziś
 
 W M3 przekroczyłeś próg samodzielności. Marek nie stoi już obok maszyny, ale patrzy po fakcie. Twoja autoryzacja do uruchomienia wychodzi z checklistu, nie z ust brygadzisty. Twoja odpowiedzialność rozszerza się o trzy nowe pola: jakość partii, zespół na linii, raport po fakcie. Pięć sytuacji zwraca decyzję wyżej: nietypowy surowiec, nieznany alarm, kontuzja kolegi, konflikt, wizyta z zewnątrz. Art. 210 i 220 KP poznasz dokładniej w l3.
 
-Jutro, w l2, stajesz przed nowym obowiązkiem: **ty prowadzisz pięciominutową odprawę BHP dla pomocnika i młodszego operatora**. Rustam prowadzi swoją pierwszą odprawę jutro o 6:55. Będziemy z nim.
+Jutro, w l2, stajesz przed nowym obowiązkiem: **ty prowadzisz pięciominutową odprawę BHP dla pomocnika i młodszego operatora**. Mykoła prowadzi swoją pierwszą odprawę jutro o 6:55. Będziemy z nim.
 
 ## Kluczowe terminy
 
@@ -213,13 +213,13 @@ Jeżeli przy więcej niż dwóch zasadach zaznaczyłeś „muszę przypomnieć",
 2. Co oznacza zasada „raport po fakcie"? Kto są trzy odbiorcy twojego raportu i dlaczego piszesz go tak, jakby czytał cię ktoś, kto nie był przy tobie?
 3. Podaj pięć sytuacji, w których decyzja wraca do brygadzisty, mistrza zmiany lub UR. Którą uważasz za najtrudniejszą do rozpoznania w pierwszym tygodniu i dlaczego?
 4. Jak brzmi różnica między autoryzacją w M2 (słowo brygadzisty) a autoryzacją w M3 (stan checklistu)? Co się zmienia w twojej głowie między jedną a drugą?
-5. Rustam napisał pierwszy raport po fakcie o partii 47. Wypisz trzy elementy tego raportu, które czynią go dobrym, i spróbuj napisać własny raport hipotetyczny z dzisiejszego dnia w tartaku (5–7 linii).
+5. Mykoła napisał pierwszy raport po fakcie o partii 47. Wypisz trzy elementy tego raportu, które czynią go dobrym, i spróbuj napisać własny raport hipotetyczny z dzisiejszego dnia w tartaku (5–7 linii).
 
 ## Link do praktyki
 
 Przez najbliższe trzy dni, w czasie twojej pracy przy P3 lub innej maszynie, wykonaj trzy obserwacje:
 
-- Po pierwszej partii zapisz w zeszycie swój raport po fakcie (5–7 linii, format z przykładu Rustama: liczby, granica wiedzy, stan partii). Pokaż brygadziście. Zapytaj: „czy czytelnie?"
+- Po pierwszej partii zapisz w zeszycie swój raport po fakcie (5–7 linii, format z przykładu Mykoły: liczby, granica wiedzy, stan partii). Pokaż brygadziście. Zapytaj: „czy czytelnie?"
 - W trakcie dnia policz, ile razy brygadzista **nie stał obok twojej maszyny** przez więcej niż 15 minut. To twoja realna samodzielność w liczbach.
 - Jeżeli pojawi się jedna z pięciu sytuacji zwrotu decyzji (nietypowy surowiec, nieznany alarm, kontuzja kolegi, konflikt, wizyta z zewnątrz), opisz ją krótko wieczorem: co się stało, co zrobiłeś, do kogo zadzwoniłeś. To pierwszy materiał dyskusyjny na jutro.
 
@@ -227,9 +227,9 @@ Przynieś zeszyt na lekcję l2. Odprawa BHP, którą poprowadzisz jutro rano, za
 
 ## Notatki dla trenera
 
-- **Rytm 120 min (proponowany):** 15 min Wprowadzenie + Cele; 20 min „Co dokładnie zmienia M3" + „Trzy nowe pola odpowiedzialności"; 15 min narracja Rustama (czytanie z przerwami, zatrzymanie przy momencie „serce wali przez trzy sekundy"); 15 min „Raport po fakcie nie oznacza bez świadków" (praca w parach: wypisz 4 odbiorców raportu); 15 min „Kiedy decyzja wraca" (burza mózgów, przykłady z własnych zakładów kursantów); 10 min zapowiedź art. 210/220 KP (na razie tylko liczby i intuicja); 20 min Mapa kariery (każdy kursant zaznacza na tablicy, który szczebel czwarty go ciąga) + Kluczowe terminy; 10 min domyślenie domowe.
-- **Pułapka pedagogiczna nr 1:** wprowadzenie Rustama jako nowego protagonisty (po 24 lekcjach Haia) może wywołać pytanie kursantów: „co z Haiem?". Odpowiedź krótka: **Hai dalej pracuje, awansował szybciej, zobaczycie go w T4**. Nie wchodź w szczegóły, bo łuk Rustama ma pierwszeństwo. Jeżeli pytanie wraca, przekieruj: „w tartaku awans nie jest wyścigiem, każdy ma własne tempo".
+- **Rytm 120 min (proponowany):** 15 min Wprowadzenie + Cele; 20 min „Co dokładnie zmienia M3" + „Trzy nowe pola odpowiedzialności"; 15 min narracja Mykoły (czytanie z przerwami, zatrzymanie przy momencie „serce wali przez trzy sekundy"); 15 min „Raport po fakcie nie oznacza bez świadków" (praca w parach: wypisz 4 odbiorców raportu); 15 min „Kiedy decyzja wraca" (burza mózgów, przykłady z własnych zakładów kursantów); 10 min zapowiedź art. 210/220 KP (na razie tylko liczby i intuicja); 20 min Mapa kariery (każdy kursant zaznacza na tablicy, który szczebel czwarty go ciąga) + Kluczowe terminy; 10 min domyślenie domowe.
+- **Pułapka pedagogiczna nr 1:** wprowadzenie Mykoły jako nowego protagonisty (po 24 lekcjach Andrija) może wywołać pytanie kursantów: „co z Andrijem?". Odpowiedź krótka: **Andrij dalej pracuje, awansował szybciej, zobaczycie go w T4**. Nie wchodź w szczegóły, bo łuk Mykoły ma pierwszeństwo. Jeżeli pytanie wraca, przekieruj: „w tartaku awans nie jest wyścigiem, każdy ma własne tempo".
 - **Pułapka pedagogiczna nr 2:** sekcja „Trzy nowe pola odpowiedzialności" zawiera realny ciężar prawny. Uwaga na kursantów, którzy mogą ze strachu podnieść kwestię: „nie chcę tej odpowiedzialności, wolę zostać w M2". Odpowiedź: **w polskim zakładzie operator junior to etap przejściowy, nie stanowisko docelowe**. Stawki, dostęp do kursów, stabilność umowy – wszystko rośnie z wejściem w M3. Jeżeli kursant ma lęk, wróć do l6 M1 (ocena ryzyka) i przypomnij, że strach jest sygnałem, a nie werdyktem.
-- **Pułapka pedagogiczna nr 3:** Rustam jako postać powinien być przedstawiony **z szacunkiem dla tła migranckiego** (Tadżykistan, Duszanbe, magazyn Lidla, pokój za 900 zł). Nie dramatyzuj, nie litowuj się. Rustam jest kompetentnym dorosłym, który podjął decyzję o kursie i robi swoje. Jeżeli w grupie są kursanci z podobnej ścieżki, ta narracja otworzy rozmowę o ich własnych pierwszych dniach w Polsce. Pozwól na to, ale nie wymuszaj.
+- **Pułapka pedagogiczna nr 3:** Mykoła jako postać powinien być przedstawiony **z szacunkiem dla tła migranckiego** (Ukraina, Połtawa, magazyn Lidla, pokój za 900 zł). Nie dramatyzuj, nie litowuj się. Mykoła jest kompetentnym dorosłym, który podjął decyzję o kursie i robi swoje. Jeżeli w grupie są kursanci z podobnej ścieżki, ta narracja otworzy rozmowę o ich własnych pierwszych dniach w Polsce. Pozwól na to, ale nie wymuszaj.
 - **Zapowiedź l3 (art. 210/220 KP):** świadomie nie wchodzisz dziś w treść artykułów. Lekcja l3 jest prawna i wymaga osobnego rytmu. Jeżeli kursant pyta o szczegóły, odpowiedz: „w środę, z tekstem przy sobie". Budujesz oczekiwanie, nie gasisz go.
 - **Czas powrotu do tej lekcji:** w każdej lekcji T1 nawiązuj do zasady „raport po fakcie" i „pięciu sytuacji zwrotu decyzji". Te dwie siatki są osią całego tygodnia pierwszego M3, a nie tylko wstępu.

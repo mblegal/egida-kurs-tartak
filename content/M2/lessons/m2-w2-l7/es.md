@@ -6,7 +6,7 @@ czas: 120
 
 ## Introducción
 
-Lunes, 6:45. Maricel Santos entró en la nave la primera de los operarios, incluso antes que el capataz Marek. El fin de semana ha terminado, pero el olor a aceite de máquina y serrín sigue flotando en el aire como si fuera viernes por la tarde. Marek aparece dos minutos después con una libreta en el bolsillo del mono y un trozo de tiza industrial blanca en la mano. «Ven, hoy hacemos la ronda de las sierras. Los cuatro tipos, todos los puestos. Verás qué se ha desgastado tras una semana cortando roble.»
+Lunes, 6:45. Sofía Ramírez entró en la nave la primera de los operarios, incluso antes que el capataz Marek. El fin de semana ha terminado, pero el olor a aceite de máquina y serrín sigue flotando en el aire como si fuera viernes por la tarde. Marek aparece dos minutos después con una libreta en el bolsillo del mono y un trozo de tiza industrial blanca en la mano. «Ven, hoy hacemos la ronda de las sierras. Los cuatro tipos, todos los puestos. Verás qué se ha desgastado tras una semana cortando roble.»
 
 Esta lección presenta los **cuatro tipos de sierras utilizadas en un aserradero típico**: de cinta, circular, de bastidor y multihoja. De cada una conocerás la **anatomía** (diente, punta, trabado, tensión) y las **cinco señales principales de desgaste** que el operario junior debe reconocer y notificar. La lección cierra la regla 80/20 de la lección anterior (clasificación de la madera aserrada): esta vez no se trata de ordenar tablas, sino de **ordenar herramientas en dos montones: aptas para trabajar y para sustituir**. La decisión de sustituir la toma el capataz o el operario senior, pero **reconocer y notificar ya es obligación del operario junior**.
 
@@ -85,7 +85,7 @@ Una cinta de sierra rota sale despedida con una velocidad periférica de **50–
 **Aspecto:** franja azul de 5–30 mm a lo largo de la cinta, normalmente entre los dientes y el volante tensor. Azul inequívoco, imposible de confundir.
 
 ::: example
-Maricel, lunes 6:55, inspección de la sierra #2. Mira la cinta con el frontal (la nave todavía está en penumbra antes de encender los reflectores). A tres dientes de la guía inferior ve: **una línea oscura fina, de 3 mm, que sale del fondo del diente hacia el lomo**. Se lo señala a Marek con el dedo. Marek acerca la cara a 10 cm, asiente: «Tienes buen ojo. Grieta por fatiga, tercer día con esta cinta cortando roble. Para la sierra, voy a por la de repuesto. Hoy a las 7:20 hacemos el cambio; te quedas, miras y asistes. Esta cinta ya no la volvemos a poner.» La rotura NO se produjo, porque Maricel vio en la ronda lo que el Reglamento del Ministerio de Economía de 2000 (Rozporządzenie MG 2000) § 13 obliga a comprobar antes de cada arranque: el estado de las protecciones y el estado de la herramienta de trabajo.
+Sofía, lunes 6:55, inspección de la sierra #2. Mira la cinta con el frontal (la nave todavía está en penumbra antes de encender los reflectores). A tres dientes de la guía inferior ve: **una línea oscura fina, de 3 mm, que sale del fondo del diente hacia el lomo**. Se lo señala a Marek con el dedo. Marek acerca la cara a 10 cm, asiente: «Tienes buen ojo. Grieta por fatiga, tercer día con esta cinta cortando roble. Para la sierra, voy a por la de repuesto. Hoy a las 7:20 hacemos el cambio; te quedas, miras y asistes. Esta cinta ya no la volvemos a poner.» La rotura NO se produjo, porque Sofía vio en la ronda lo que el Reglamento del Ministerio de Economía de 2000 (Rozporządzenie MG 2000) § 13 obliga a comprobar antes de cada arranque: el estado de las protecciones y el estado de la herramienta de trabajo.
 :::
 
 ### Vida útil orientativa de las cintas según la especie
@@ -159,12 +159,12 @@ De la lección 6 recuerdas la regla 80/20 aplicada a la clasificación de la mad
 
 **Objetivo pedagógico**: desplazar al alumno de observador del material (l1–l6) a observador de la herramienta. Primer contacto con la lógica de la máquina: no «cómo usarla», sino «qué le pasa con el tiempo». El concepto de consumible se introduce de forma implícita a través de la tabla de vida útil y el ciclo de sustitución.
 
-**Arco de la semana 2**: Maricel regresa tras su debut en el Bloque 1 T2 (l1 humedad). El arco es: observación del material → observación de la herramienta → asistencia en la máquina (l8). El alumno termina la semana 2 con el contexto completo que en la semana 3 le permitirá empezar a ejecutar tareas.
+**Arco de la semana 2**: Sofía regresa tras su debut en el Bloque 1 T2 (l1 humedad). El arco es: observación del material → observación de la herramienta → asistencia en la máquina (l8). El alumno termina la semana 2 con el contexto completo que en la semana 3 le permitirá empezar a ejecutar tareas.
 
 **Trampas al impartir la lección**:
 1. Sin ciencia de materiales del acero. El junior no necesita martensita: tiene que reconocer una mancha azul y saber que es el fin de la cinta.
 2. No saltarse la tabla de tiempos de corte. Sin ella el junior no sabe si una cinta con 4 horas de roble es «vieja» o «fresca». El rango de horas es un dato profesional igual que los 2200–2400 PSI.
-3. La regla de la frase «mire por favor» es fundamental: los alumnos de culturas jerárquicas (Vietnam, Filipinas, Asia Central) tienden a callar para no molestar al capataz. Esa frase abre la vía sin romper la jerarquía.
+3. La regla de la frase «mire por favor» es fundamental: los alumnos de culturas en las que el trabajador manual tradicionalmente no «interrumpe» al superior (gran parte de América Latina, con la relación de «usted» hacia el capataz; parte de regiones de Ucrania) tienden a callar para no molestar. Esa frase abre la vía sin romper la jerarquía.
 
 **Integración con lecciones anteriores**: l4 (defectos de la madera) → l7 (defectos de la herramienta): los mismos ojos, otro criterio. l6 regla 80/20 → l7 endurecida a «ante cualquier duda, habla» por el nivel de riesgo. l5 cadena de máquinas → l7 cuatro tipos de sierras que corresponden a los eslabones de la cadena.
 

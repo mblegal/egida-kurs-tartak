@@ -6,7 +6,7 @@ czas: 120
 
 ## Introduction
 
-In lesson 1 you heard two numbers: **two hundred and ten** and **two hundred and twenty**. We said they were two articles of the Polish *Kodeks pracy* (Labour Code) and that we would come back to them with full content today. It is Wednesday, 6:50 in the morning, Rustam is standing in front of sawbench P3, and in a moment he will face the first situation in his life in which those numbers stop being numbers from a slide and become his own words spoken to the foreman.
+In lesson 1 you heard two numbers: **two hundred and ten** and **two hundred and twenty**. We said they were two articles of the Polish *Kodeks pracy* (Labour Code) and that we would come back to them with full content today. It is Wednesday, 6:50 in the morning, Mykoła is standing in front of sawbench P3, and in a moment he will face the first situation in his life in which those numbers stop being numbers from a slide and become his own words spoken to the foreman.
 
 One editorial note first. In lesson 1 we said "art. 220 KP – the duty to perform an order". That number was a simplification. The duty to perform an order arises from **art. 100 § 1 of the Polish Labour Code**, and the basic OSH duties of the worker (including the duty to immediately notify of a threat) sit in **art. 211 KP**. Today you learn three correct articles, not two. Numbers in an operator's working memory are like emergency phone numbers: they must be exact.
 
@@ -91,41 +91,41 @@ Your refusal to carry out an order that breaches OSH **is not** hostile to Marek
 
 Good foremen understand this at once. Bad ones learn it after their first PIP visit. Marek is in the first group.
 
-### Rustam's third day: Wednesday, 8:42 in the morning
+### Mykoła's third day: Wednesday, 8:42 in the morning
 
-Rustam is in the hall at half past six. He ran the OSH briefing on Monday and Tuesday, five minutes each, Tuesday's topic: slippery feed frame after overnight rain. Today Marek ran the briefing to go over the oak campaign starting tomorrow. Rustam stood in the second row, listened, nodded. A normal day.
+Mykoła is in the hall at half past six. He ran the OSH briefing on Monday and Tuesday, five minutes each, Tuesday's topic: slippery feed frame after overnight rain. Today Marek ran the briefing to go over the oak campaign starting tomorrow. Mykoła stood in the second row, listened, nodded. A normal day.
 
-At 7:40 Rustam starts batch 51: pine, 22 logs, diameter 30–38 cm, entry moisture 44%. Kerf 3.5 mm, timber 50 × 150, a client's order for roof truss. Next to him his helper is Wahan, 19 years old, M1 helper from Armenia, third week at the sawmill. Wahan feeds logs from the ramp and takes timber off the other side. His Polish is still weak, but he knows gestures, the STOP signal, and the 3-metre zone around the saw. Rustam instructed him personally on Monday (you will see that instruction in lesson 8).
+At 7:40 Mykoła starts batch 51: pine, 22 logs, diameter 30–38 cm, entry moisture 44%. Kerf 3.5 mm, timber 50 × 150, a client's order for roof truss. Next to him his helper is Wasyl, 19 years old, M1 helper from Ukraine (Ternopil), third week at the sawmill. Wasyl feeds logs from the ramp and takes timber off the other side. His Polish is still weak, but he knows gestures, the STOP signal, and the 3-metre zone around the saw. Mykoła instructed him personally on Monday (you will see that instruction in lesson 8).
 
 At 8:42 the internal phone rings. Marek picks up, listens 40 seconds, nods, puts down the receiver and walks straight to P3.
 
-> **Marek:** "Rustam, listen. The client for batch 49, the oak one from last week, arrived early. Truck at the gate, can't wait, traffic slot in Warsaw in two hours. I have to unload. Wahan, come with me to ramp 2 to help load. Rustam, keep going alone for 30 minutes, can you manage?"
+> **Marek:** "Mykoła, listen. The client for batch 49, the oak one from last week, arrived early. Truck at the gate, can't wait, traffic slot in Warsaw in two hours. I have to unload. Wasyl, come with me to ramp 2 to help load. Mykoła, keep going alone for 30 minutes, can you manage?"
 
-Rustam looks at Marek. Looks at Wahan. Looks at the machine. First reaction: "of course I can manage". Second, three seconds later: "Wahan feeds the logs from the ramp. Without me there, the nearest person will be the P2 operator, Hai. But Hai has his own batch, he won't be watching my ramp." Third, another five seconds: **if I feed a log with nobody watching the authorised log-entry zone, there is a risk of unauthorised entry into the P3 zone**. EGIDA workstation instruction, point 7: "at the P3 band saw during the cycle there must be an assistant observing the feed ramp, or the ramp area must be closed off by a barrier".
+Mykoła looks at Marek. Looks at Wasyl. Looks at the machine. First reaction: "of course I can manage". Second, three seconds later: "Wasyl feeds the logs from the ramp. Without me there, the nearest person will be the P2 operator, Andrij. But Andrij has his own batch, he won't be watching my ramp." Third, another five seconds: **if I feed a log with nobody watching the authorised log-entry zone, there is a risk of unauthorised entry into the P3 zone**. EGIDA workstation instruction, point 7: "at the P3 band saw during the cycle there must be an assistant observing the feed ramp, or the ramp area must be closed off by a barrier".
 
-Rustam steps closer to Marek, lowers his voice so Wahan cannot hear, speaks Polish slowly but clearly:
+Mykoła steps closer to Marek, lowers his voice so Wasyl cannot hear, speaks Polish slowly but clearly:
 
-> **Rustam:** "Marek, one moment. Without Wahan at the ramp I have an open ramp and the band running. The workstation instruction says I can't. Can we do it differently?"
+> **Mykoła:** "Marek, one moment. Without Wasyl at the ramp I have an open ramp and the band running. The workstation instruction says I can't. Can we do it differently?"
 
-Marek stops. Looks at his watch. Looks at Rustam. Says nothing for four long seconds. Then:
+Marek stops. Looks at his watch. Looks at Mykoła. Says nothing for four long seconds. Then:
 
-> **Marek:** "All right. Stop the band, close the cycle on this log, Wahan closes the ramp barrier and comes with me. Five minutes of downtime is not the apocalypse. Here, write this downtime in the log: reason, time."
+> **Marek:** "All right. Stop the band, close the cycle on this log, Wasyl closes the ramp barrier and comes with me. Five minutes of downtime is not the apocalypse. Here, write this downtime in the log: reason, time."
 
-Rustam stops the cycle, waits for the band to slow, switches off the green, presses the red. Wahan closes the ramp barrier (slides it from open to closed, the click of the latch audible three metres away). Marek and Wahan head to ramp 2. Rustam opens the machine log:
+Mykoła stops the cycle, waits for the band to slow, switches off the green, presses the red. Wasyl closes the ramp barrier (slides it from open to closed, the click of the latch audible three metres away). Marek and Wasyl head to ramp 2. Mykoła opens the machine log:
 
-> **8:47. Downtime, batch 51. Reason: assistant (Wahan Petrosjan, M1) reassigned to unloading at ramp 2 by foreman M. Kowalski. Without assistant, cycle stopped in accordance with workstation instruction P3 point 7. Planned resumption upon assistant's return, approximately 9:15.**
+> **8:47. Downtime, batch 51. Reason: assistant (Wasyl Melnyk, M1) reassigned to unloading at ramp 2 by foreman M. Kowalski. Without assistant, cycle stopped in accordance with workstation instruction P3 point 7. Planned resumption upon assistant's return, approximately 9:15.**
 
 He saves. Shuts the machine down to full stop. Sits on the stool next to P3 and waits. Not nervous. Surprised that Marek changed the plan so quickly. Half an hour ago he would not have known he had the right to say "one moment".
 
 ::: example
-Notice three things in this scene. First, Rustam **did not** quote art. 210 KP to Marek. He stated a concrete operational objection: "the workstation instruction says I can't". That is the right tactic. The Labour Code stands behind you in the background, but in the first conversation with the foreman you speak about a specific plant-level norm, not a code article. Second, Rustam **proposed an alternative**: "can we do it differently?". Common courts treat the proposal of an alternative as evidence of the employee's good faith (judgment X P 1138/14, below). Third, **he logged the reason for the downtime**. The machine log is objective evidence, it does not start emotions, it records facts. All three elements together close the dispute before it opens.
+Notice three things in this scene. First, Mykoła **did not** quote art. 210 KP to Marek. He stated a concrete operational objection: "the workstation instruction says I can't". That is the right tactic. The Labour Code stands behind you in the background, but in the first conversation with the foreman you speak about a specific plant-level norm, not a code article. Second, Mykoła **proposed an alternative**: "can we do it differently?". Common courts treat the proposal of an alternative as evidence of the employee's good faith (judgment X P 1138/14, below). Third, **he logged the reason for the downtime**. The machine log is objective evidence, it does not start emotions, it records facts. All three elements together close the dispute before it opens.
 :::
 
 ### If Marek had not given way: the service memo
 
 The scene above ended well because Marek is a good foreman. Imagine the alternative. Marek is under stress (traffic slot, client, liquidated damages for delay), he says:
 
-> **Marek (hypothetically):** "Rustam, no time. Five minutes is nothing. Wahan just helps me unload, we're back. Go."
+> **Marek (hypothetically):** "Mykoła, no time. Five minutes is nothing. Wasyl just helps me unload, we're back. Go."
 
 Two options. First: start the machine without an assistant, counting on five minutes going fine. If it does not, art. 52 § 1 pt 1 KP (disciplinary termination) is the employer's friend, and the labour court will see you as someone who **knowingly took on the risk while having the right to refrain from work** (judgment VIII Pa 217/18, shortly). Path one is a defeat at the labour court, even if Marek also bears liability.
 
@@ -198,11 +198,11 @@ In practice: if your refusal under art. 210 § 1 later turns out to be mistaken 
 
 ### SP X P 1138/14: propose an alternative
 
-One more common-court judgment, **X P 1138/14 of 3 November 2015**, reinforces a technique Rustam applied in the morning: proposing an alternative.
+One more common-court judgment, **X P 1138/14 of 3 November 2015**, reinforces a technique Mykoła applied in the morning: proposing an alternative.
 
 > "If the employee (...) proposed to use an alternative, seemingly safer measure (...) and obtained oral consent to it from a superior holding the authority to grant such consent, and the employer did not provide the employee with proper training, instructions for the use of the equipment and proper supervision, then the employee's action does not constitute a grave breach of basic employee duties."
 
-In other words: proposed alternative + oral consent of the superior = legal protection, even if the alternative was unusual. Rustam proposed "closing the ramp barrier + stopping the cycle". Marek accepted orally. If something had gone wrong during the five-minute downtime, Rustam would have had evidence: proposal + oral consent + log entry. All three together.
+In other words: proposed alternative + oral consent of the superior = legal protection, even if the alternative was unusual. Mykoła proposed "closing the ramp barrier + stopping the cycle". Marek accepted orally. If something had gone wrong during the five-minute downtime, Mykoła would have had evidence: proposal + oral consent + log entry. All three together.
 
 ### SP VIII Pa 217/18: the warning on the other side
 
@@ -222,43 +222,43 @@ The last provision you must know. **Art. 283 § 1 KP**:
 
 This is a penalty on the **directing person's** side, not yours. Marek falls under it at all times. Shift master Piotr falls under it. The plant manager falls under it. PIP issues a fine up to 2,000 PLN under a fine notice (art. 96 § 1a of the Code of Procedure in Petty Offences Cases), up to 5,000 PLN for a repeat offence within two years (§ 1b). Fines up to 30,000 PLN require court proceedings.
 
-**Can it concern you?** In narrow circumstances: when you direct a helper (e.g. Wahan) and do not observe OSH towards them. Not frequent in a sawmill, but possible. If you instruct Wahan defectively and he is injured, art. 283 § 1 KP comes into play. That is why workstation instruction must be solid (lesson 8).
+**Can it concern you?** In narrow circumstances: when you direct a helper (e.g. Wasyl) and do not observe OSH towards them. Not frequent in a sawmill, but possible. If you instruct Wasyl defectively and he is injured, art. 283 § 1 KP comes into play. That is why workstation instruction must be solid (lesson 8).
 
 **Art. 283 § 2 pt 6 KP** is the second layer, important for lesson 5 (post-incident procedure): failing to notify PIP of a fatal, serious or collective accident carries the same fine (1,000 to 30,000 PLN). Back to this on Friday.
 
 ### Wednesday, 9:16: Marek comes back
 
-Rustam has been on the stool next to P3 since 8:47. He has glanced at his watch twice. Wahan comes back at 9:13, Marek behind him. Wahan opens the ramp barrier, walks to his position. Marek walks up to Rustam:
+Mykoła has been on the stool next to P3 since 8:47. He has glanced at his watch twice. Wasyl comes back at 9:13, Marek behind him. Wasyl opens the ramp barrier, walks to his position. Marek walks up to Mykoła:
 
 > **Marek:** "All right, we've got it. The client drove off, took the load, all done. Start up from log 13. Enter the resumption in the log, 9:16."
 
-Rustam nods. Writes in the log: **"9:16. Resumption of batch 51, log 13 of 22. Assistant returned."** Starts the band, first cycle goes, the rest runs normally. At 10:28 he finishes batch 51. At 10:30 he walks up to Marek at saw P1, where Marek is training a new helper.
+Mykoła nods. Writes in the log: **"9:16. Resumption of batch 51, log 13 of 22. Assistant returned."** Starts the band, first cycle goes, the rest runs normally. At 10:28 he finishes batch 51. At 10:30 he walks up to Marek at saw P1, where Marek is training a new helper.
 
-> **Rustam:** "Marek, do you have a minute?"
-> **Marek:** "One second, finishing with Karen. Karen, three-metre zone, remember? All right, leave the band, go for tea. Rustam, speak."
-> **Rustam:** "This morning. Twenty-nine minutes of downtime. I wanted to ask whether it was all right that I stopped on instruction point seven. Whether it was the right moment."
-> **Marek:** (long pause, looks across the hall) "Rustam. You're in M3 for your third day. I've been a foreman for six years. If I forget for a minute that the saw cannot run without an assistant at the ramp, and you remind me, it's a good thing. I am not infallible. The sawmill pays me for not being dumber than the instruction. You got five minutes today, not five months of court cases. Write it in the log."
+> **Mykoła:** "Marek, do you have a minute?"
+> **Marek:** "One second, finishing with Karen. Karen, three-metre zone, remember? All right, leave the band, go for tea. Mykoła, speak."
+> **Mykoła:** "This morning. Twenty-nine minutes of downtime. I wanted to ask whether it was all right that I stopped on instruction point seven. Whether it was the right moment."
+> **Marek:** (long pause, looks across the hall) "Mykoła. You're in M3 for your third day. I've been a foreman for six years. If I forget for a minute that the saw cannot run without an assistant at the ramp, and you remind me, it's a good thing. I am not infallible. The sawmill pays me for not being dumber than the instruction. You got five minutes today, not five months of court cases. Write it in the log."
 
-Rustam nods. Marek pats him on the shoulder, walks back to Karen.
+Mykoła nods. Marek pats him on the shoulder, walks back to Karen.
 
-Rustam walks back to P3. At 10:34 he writes one more line:
+Mykoła walks back to P3. At 10:34 he writes one more line:
 
 > **10:34. Conversation with foreman M. Kowalski about the downtime 8:47–9:16. The foreman confirmed the legitimacy of the downtime and its compliance with workstation instruction P3 point 7. No service memo, no dispute arose.**
 
 Signs it. Closes the tablet. Takes the next log.
 
 ::: info
-Rustam's last line ("**no service memo, no dispute arose**") is weighty. He documents not only what happened, but also what **did not** happen. A labour court or PIP inspector reading the log six months from now sees: a moment of tension, resolved orally, without escalation to a memo. This is a well-run sawmill. The line documents plant practice, protects both Rustam and Marek, and shows that the workstation instruction is applied, not merely hung in a frame.
+Mykoła's last line ("**no service memo, no dispute arose**") is weighty. He documents not only what happened, but also what **did not** happen. A labour court or PIP inspector reading the log six months from now sees: a moment of tension, resolved orally, without escalation to a memo. This is a well-run sawmill. The line documents plant practice, protects both Mykoła and Marek, and shows that the workstation instruction is applied, not merely hung in a frame.
 :::
 
 ### Five situations in which a service memo is the right response
 
-Not every safety dispute ends with a service memo. Most end the way Rustam's did this morning: conversation, change of plan, log entry. The memo is an escalation you use when conversation does not work. Five typical situations from a Polish sawmill:
+Not every safety dispute ends with a service memo. Most end the way Mykoła's did this morning: conversation, change of plan, log entry. The memo is an escalation you use when conversation does not work. Five typical situations from a Polish sawmill:
 
 1. **The foreman issues an order breaching the workstation instruction and does not withdraw it after your objection.** Example: working without hearing protectors when emission exceeds 85 dB(A).
 2. **The machine has a visible safety defect and the foreman tells you to keep working "until the end of shift".** Example: cracked blade guard, foreman says "another three hours, I'll report it to maintenance at night".
 3. **PPE is not provided at the required standard.** Example: scratched goggles, no replacement, foreman says "wear what you have". The Labour Code (art. 2376 and following) requires serviceable protective equipment.
-4. **A helper or junior operator is pulled from the workstation without your knowledge and returns with an order you do not know.** Example: Wahan returns saying "the master told me to stand in the no-go zone". You ask the master; he confirms the order against the instruction.
+4. **A helper or junior operator is pulled from the workstation without your knowledge and returns with an order you do not know.** Example: Wasyl returns saying "the master told me to stand in the no-go zone". You ask the master; he confirms the order against the instruction.
 5. **An event on your line is not recorded.** Example: a minor cut to the helper, the foreman says "let's not write it down, paperwork", and you know the Labour Code and the internal procedure require it.
 
 In all five, the memo is an **act of notification under art. 210 § 1 and art. 211 pt 6 KP**, protecting you legally and helping the superior decide in writing, not orally.
@@ -279,9 +279,9 @@ The PIP path and the labour-court path are not mutually exclusive. You may repor
 
 ### What about this Wednesday's OSH briefing
 
-Marek ran Wednesday's briefing to cover the oak campaign. After the ramp incident, resolved orally, neither Marek nor Rustam had to add anything. If Rustam had written a memo, the duty to discuss it at Thursday's briefing would have fallen on Marek or shift master Piotr. In a Polish sawmill the OSH briefing **closes the event loop**: every safety-related event comes back to the briefing as a reminder or a procedure correction.
+Marek ran Wednesday's briefing to cover the oak campaign. After the ramp incident, resolved orally, neither Marek nor Mykoła had to add anything. If Mykoła had written a memo, the duty to discuss it at Thursday's briefing would have fallen on Marek or shift master Piotr. In a Polish sawmill the OSH briefing **closes the event loop**: every safety-related event comes back to the briefing as a reminder or a procedure correction.
 
-You have seen three layers of the loop: **oral** (the 8:42 Rustam – Marek conversation), **documentary** (log entries at 8:47 and 10:34), **escalatory** (the memo, not needed today). Three layers on one event, depending on how it develops.
+You have seen three layers of the loop: **oral** (the 8:42 Mykoła – Marek conversation), **documentary** (log entries at 8:47 and 10:34), **escalatory** (the memo, not needed today). Three layers on one event, depending on how it develops.
 
 ### Summary of lesson three
 
@@ -291,7 +291,7 @@ Supreme Court case law (I PK 191/05, I PKN 619/99, II PSK 76/22) and common-cour
 
 The service memo is notification in a form that survives a dispute. Ten content points, two copies, a signature. Not needed daily, needed when conversation does not work.
 
-Rustam this morning exercised the right of refusal without citing the Code, but with a concrete plant norm and a proposed alternative. Marek responded properly. The log entries are in place. The dispute did not develop. That is what a good sawmill looks like. Tomorrow, in lesson 4, you will see what to do when a dispute does develop: the "STOP, secure, report, document" procedure. The service memo will then be closer.
+Mykoła this morning exercised the right of refusal without citing the Code, but with a concrete plant norm and a proposed alternative. Marek responded properly. The log entries are in place. The dispute did not develop. That is what a good sawmill looks like. Tomorrow, in lesson 4, you will see what to do when a dispute does develop: the "STOP, secure, report, document" procedure. The service memo will then be closer.
 
 ## Key Terms
 
@@ -363,11 +363,11 @@ f) the duration of the threat exceeds two hours.
 2. Why is notification a condition of protection, not an add-on? Cite the Supreme Court signature that confirms this.
 3. List 10 memo elements a labour court will accept as evidence. Why is minute-precise "date and time" more important than the day of the week?
 4. What does it mean that the right of refusal **does not protect you** if your assessment rests on subjective fear without an objective threat? Cite the judgment signature.
-5. Rustam wrote: "No service memo, no dispute arose." Why does this line have documentary value even though it is not legally required?
+5. Mykoła wrote: "No service memo, no dispute arose." Why does this line have documentary value even though it is not legally required?
 
 **Part D. Scene analysis:**
 
-Go back to the Rustam – Marek scene at 8:42. Identify **four of Rustam's decisions** that had legal significance (not only operational). For each, indicate which provision or judgment concerns it.
+Go back to the Mykoła – Marek scene at 8:42. Identify **four of Mykoła's decisions** that had legal significance (not only operational). For each, indicate which provision or judgment concerns it.
 
 ## Link to Practice
 
@@ -382,7 +382,7 @@ In lesson 4 you will see the "STOP – secure – report – document" procedure
 
 ## Notes for the Trainer
 
-- **120-min rhythm (proposed):** 10 min Introduction + Objectives + art. 220 → art. 211 correction; 25 min "Three articles that intersect" (read arts. 100, 210, 211 aloud in pairs, with pauses); 15 min "Art. 212 KP – Marek's burden" (discussion); 15 min "Rustam's third day" (read the scene, stop at the alternative); 15 min "Service memo – format" (each trainee writes a memo for a hypothetical situation, 10 content points); 15 min case law (five judgments, one signature per trainee); 10 min external paths (PIP, unions, labour court); 10 min homework + summary.
+- **120-min rhythm (proposed):** 10 min Introduction + Objectives + art. 220 → art. 211 correction; 25 min "Three articles that intersect" (read arts. 100, 210, 211 aloud in pairs, with pauses); 15 min "Art. 212 KP – Marek's burden" (discussion); 15 min "Mykoła's third day" (read the scene, stop at the alternative); 15 min "Service memo – format" (each trainee writes a memo for a hypothetical situation, 10 content points); 15 min case law (five judgments, one signature per trainee); 10 min external paths (PIP, unions, labour court); 10 min homework + summary.
 - **Pedagogical trap no. 1:** migrant trainees may believe "the law protects only Polish citizens" or "a migrant who goes to PIP will be dismissed". Both are false. Polish labour law **does not differentiate** workers by citizenship (art. 113 of the Labour Code, prohibition of discrimination). Access to PIP and the labour court is identical. On the real-risk question: "in a sawmill with FSC certification or an export client, the plant culture does not allow dismissal for using PIP, because that would hit certification". For a small uncertified sawmill the answer is more cautious, but still: the provisions are on the worker's side, and the memo as evidence is crucial.
 - **Pedagogical trap no. 2:** trainees may start treating art. 210 as a "get-out-of-work card". Careful. Judgment SN II PSK 76/22 shows subjective fear without objective fact is a trap. Practise "visible fact" vs. "impression". Fact: a gap in the guard, measured noise above the norm, a missing signal lamp. Impression: "it seems to be overheating", "this band sounds strange", "I don't trust this log". Impressions are a diagnostic signal, not a legal basis.
 - **Pedagogical trap no. 3:** the memo-format section may provoke "is this snitching". It is not. A memo is a **notification to the superior about a threat** required by art. 210 § 1 and art. 211 pt 6. In some trainees' cultures (former USSR, Middle East) written notification of a superior is treated as hostile. Dismantle this consciously: in Poland the memo is a standard element of working culture, foremen expect it as proof of operator diligence.

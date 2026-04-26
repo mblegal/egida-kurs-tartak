@@ -163,7 +163,7 @@ D) You repair it yourself, that is how Mr. Henryk taught you.
 
 **Question 10 (integrates T3 l8 + T3 l7, 4 pts)**
 
-You on P3 LT70 have a 10 Hz vibration (wheel runout). Adrian on P2 LT30 (your trainee that day) calls out: "Rustam, I think I have waviness on a board". You are in the middle of escalating to Mr. Krzysztof at Wood-Mizer. Who has priority? How do you act?
+You on P3 LT70 have a 10 Hz vibration (wheel runout). Adrian on P2 LT30 (your trainee that day) calls out: "Mykoła, I think I have waviness on a board". You are in the middle of escalating to Mr. Krzysztof at Wood-Mizer. Who has priority? How do you act?
 
 A) Leave Adrian alone, focus on the urgent LT70 fault.
 B) Adrian first: stop your LT70 (it is on STOP anyway because of the runout), walk over to Adrian 8 m away, visually check the waviness; if it is band dulling (operator-level), instruct Adrian to replace it under your observation, fill in an entry in his log book; then return to LT70 and finish the call to Mr. Krzysztof.
@@ -178,7 +178,7 @@ D) STOP both machines, wait until Marek arrives, then sort it out.
 
 **Question 11 (integrates T4 l2 + Polish Supreme Court ruling I NSNc 152/20, 4 pts)**
 
-The customer Jacek Wesolowski from Dom-Bud Mragowo calls: "Rustam, the pine batch ZLE-2026-06-015 has 174 mm boards instead of the ordered 175 mm, I am withdrawing from the contract, refund the money". You fill in EGIDA-RPW-001 (complaint report). How do you classify it and what response do you formulate?
+The customer Jacek Wesolowski from Dom-Bud Mragowo calls: "Mykoła, the pine batch ZLE-2026-06-015 has 174 mm boards instead of the ordered 175 mm, I am withdrawing from the contract, refund the money". You fill in EGIDA-RPW-001 (complaint report). How do you classify it and what response do you formulate?
 
 A) I accept the withdrawal, refund the money, KEP-001 update for the loss.
 B) I classify it as a **non-material defect under KC art. 556¹ § 4 + art. 560 § 4** (a 1 mm tolerance fits within the standard PN-EN 336 +/-2 mm). Polish Supreme Court ruling I NSNc 152/20 of 17 Feb 2021: a defect must be material to justify withdrawal. Refusal of withdrawal, I propose a price reduction of 3-5% (KC art. 560 § 1). Email to the customer using the EGIDA template variant 1, electronic signature, 12-month retention.
@@ -191,7 +191,7 @@ D) I refuse curtly: "this is tolerance, goodbye".
 
 **Question 12 (integrates T4 l3 + T4 l1 + T3 l1-l4, 4 pts)**
 
-NEPCon auditor Krzysztof Kowalski arrives for the FSC-C112233 audit. He asks you: "Mr. Rustam, please show me the chain of custody for order ZLE-2026-06-020 (beech MebelPro)". What do you show?
+NEPCon auditor Krzysztof Kowalski arrives for the FSC-C112233 audit. He asks you: "Mr. Mykoła, please show me the chain of custody for order ZLE-2026-06-020 (beech MebelPro)". What do you show?
 
 A) Only KDP-001 (parametric decisions).
 B) The full chain: (1) intake document for the package with the FSC label, (2) KDP-001, (3) KEP-001 filled in with Ms. Ania, (4) KS-001 for the entire shift, (5) Drew-Sus premium drying report, (6) final batch label, (7) quarterly FSC Connect register, (8) sales invoice to the customer. 15-min availability (ISO 9001).
@@ -204,7 +204,7 @@ D) I will tell the auditor: "please ask specific, not general, questions".
 
 **Question 13 (integrates T4 l5 + T4 l6 + Polish Technical Inspection Act 2000, 4 pts)**
 
-You hand over the shift to Oleksij (M3 trainee, Ukrainian) by filling in EGIDA-PZ-001. In the field "Planned absences in the coming week" you write: "15-19 Sep 2026, UDT IIWJO W-M + SEP G1-E course at ZDZ Olsztyn, requesting training leave under KP art. 103¹ § 1". Oleksij asks: "What does that get you financially?". Your response?
+You hand over the shift to Bohdan (M3 trainee, Ukrainian) by filling in EGIDA-PZ-001. In the field "Planned absences in the coming week" you write: "15-19 Sep 2026, UDT IIWJO W-M + SEP G1-E course at ZDZ Olsztyn, requesting training leave under KP art. 103¹ § 1". Bohdan asks: "What does that get you financially?". Your response?
 
 A) Nothing, only a diploma.
 B) Investment 3000 zł (UDT 2500 + SEP 500). Extra salary 500 zł/month (350 UDT + 150 SEP per the EGIDA pay regulations). ROI 5.7 months. Training leave under KP art. 103¹ = paid, you do not lose pay for the week of the course. Polish Technical Inspection Act 2000 art. 12-13 defines UDT entitlements, Polish Energy Law 1997 art. 54 defines SEP entitlements.
@@ -219,12 +219,12 @@ D) Salary minus 2500, because the course is out of my pocket.
 
 **Question 14 (integrates T4 l7 M3 + all of M1 + all of M2, 4 pts)**
 
-It is Friday 26 June 2026 and you are with Marek in the office. Marek asks: "Rustam, three images of your journey, which would you choose for a summary?". Which answer demonstrates **understanding of the meta-principle of the body -> batch -> shift arc**?
+It is Friday 26 June 2026 and you are with Marek in the office. Marek asks: "Mykoła, three images of your journey, which would you choose for a summary?". Which answer demonstrates **understanding of the meta-principle of the body -> batch -> shift arc**?
 
 A) November 2025 helper -> March 2026 operator -> June 2026 foreman.
 B) M1 = my body and my colleagues' bodies within 5 m (STOP gestures, IARC dust, S3 boots) -> M2 = a 1-3 m³ batch under my tool (band parameters, moisture, class A/B/C/D) -> M3 = an 8-hour shift with 15 people (4 communication channels, Adrian's KAO-001, customer complaint, batch margin 5-15 thousand zł per day). Responsibility grows concentrically, not linearly.
 C) M1 cheap -> M2 more expensive -> M3 most expensive course.
-D) Wahan -> Damian -> on my own, without a mentor.
+D) Wasyl -> Damian -> on my own, without a mentor.
 
 *Justify by developing meta-principle 1 from l7 M3 + give one specific example from each module.*
 
@@ -234,7 +234,7 @@ D) Wahan -> Damian -> on my own, without a mentor.
 
 Which situation from your 9-month journey **best illustrates** meta-principle 3, "from receiving instructions to issuing instructions", in action?
 
-A) Wahan saying to you "pass the log" in November 2025.
+A) Wasyl saying to you "pass the log" in November 2025.
 B) You saying to Adrian "stop the saw, replace the band, drop the feed speed to 62%" in June 2026, and you sign KAO-001. This is a formal operator instruction (oral + written) with legal liability under KP art. 120 § 1 and § 2 + KP art. 100 § 1. You moved from being given instructions to giving them.
 C) Damian showing you how to connect the guides in March 2026.
 D) Marek signing your KDP-001.
@@ -256,9 +256,9 @@ Each question is worth 4 pts, distributed as follows:
 
 ### Model answers and justifications
 
-**Q1: C**. Bearing knock + 10 Hz vibration in the handle + wavy cut = lower wheel runout > 0.5 mm (l8 T3, Rustam's case 17 June 2026). Hard external boundary: bearing replacement requires a hydraulic press + tamper-evident seal + UDT inspection of the press + Wood-Mizer service warranty. Crossing the boundary = voiding the warranty + OHS liability + KP art. 120 § 1 (damage to the machine). STOP, KKS-001, call to Marek, Marek to Mr. Krzysztof at Wood-Mizer Polska.
+**Q1: C**. Bearing knock + 10 Hz vibration in the handle + wavy cut = lower wheel runout > 0.5 mm (l8 T3, Mykoła's case 17 June 2026). Hard external boundary: bearing replacement requires a hydraulic press + tamper-evident seal + UDT inspection of the press + Wood-Mizer service warranty. Crossing the boundary = voiding the warranty + OHS liability + KP art. 120 § 1 (damage to the machine). STOP, KKS-001, call to Marek, Marek to Mr. Krzysztof at Wood-Mizer Polska.
 
-**Q2: A**. Scheme A cant sawing + stellite 7/8-A13 + 32 ft/min + 2200 PSI = standard parameters for fresh pine for a construction client (l5 T1 M3 + l1 T3 M3, Rustam's ZLE-077 case). Margin +600-900 zł against the average +/-2800 zł potential of parametric decisions (l6 T3). Scheme B (quarter sawing) is unnecessary for construction rafters (that is for furniture customers), scheme C is extremely risky (1900 PSI is too low for fresh pine), scheme D is excessively expensive.
+**Q2: A**. Scheme A cant sawing + stellite 7/8-A13 + 32 ft/min + 2200 PSI = standard parameters for fresh pine for a construction client (l5 T1 M3 + l1 T3 M3, Mykoła's ZLE-077 case). Margin +600-900 zł against the average +/-2800 zł potential of parametric decisions (l6 T3). Scheme B (quarter sawing) is unnecessary for construction rafters (that is for furniture customers), scheme C is extremely risky (1900 PSI is too low for fresh pine), scheme D is excessively expensive.
 
 **Q3: B**. KP art. 120 § 1: "an employee bears material liability within the limits of the actual loss". KP art. 120 § 2: "compensation may not exceed three months' remuneration". Cap at 3 monthly salaries (about 11000 zł). In practice 1/3 of the damage if unintentional = about 1400 zł deducted. Negative margin of 529 zł = sawmill economics, not damage attributable to the operator (l6 T3 M3). Intent under KP art. 122 § 1 = full damage, but there is no intent here (the operator misjudged parameters).
 
@@ -284,7 +284,7 @@ Each question is worth 4 pts, distributed as follows:
 
 **Q14: B**. Meta-principle 1 from l7 M3: responsibility grows concentrically (body -> batch -> shift), not linearly. M1 = own body + colleagues' bodies within 5 m (3 STOP gestures, IARC group 1 dust, S3 boots, hearing protectors at 85 dB, 30 kg manual transport for a man, log yard 37% of fatalities). M2 = a 1-3 m³ batch under the tool (band 2200-2400 PSI, final MC 12-15% for construction, class A/B/C/D weakest-element rule, 8-field log book, 4W). M3 = an 8-hour shift with 15 people (4 communication channels, KAO-001, EGIDA-PZ-001, KC complaint, margin 5-15 thousand zł per day).
 
-**Q15: B**. Meta-principle 3 from l7 M3: "from receiving instructions to issuing instructions". The oral instruction "stop, replace the band, drop to 62%" + the written KAO-001 = two-layer responsibility: (a) oral with supervisory force (Adrian obeys), (b) written with evidentiary force (KAO-001 in the personal file, 10-year retention, evidence for audit). KP art. 100 § 1: employee duties towards the superior. KP art. 120 § 1 and § 2: liability for damage in connection with an instruction. Rustam went through: M1 receiver (Wahan: "pass the log") -> M2 partner (Damian teaches, Rustam asks) -> M3 sender (Rustam: "stop" + signature).
+**Q15: B**. Meta-principle 3 from l7 M3: "from receiving instructions to issuing instructions". The oral instruction "stop, replace the band, drop to 62%" + the written KAO-001 = two-layer responsibility: (a) oral with supervisory force (Adrian obeys), (b) written with evidentiary force (KAO-001 in the personal file, 10-year retention, evidence for audit). KP art. 100 § 1: employee duties towards the superior. KP art. 120 § 1 and § 2: liability for damage in connection with an instruction. Mykoła went through: M1 receiver (Wasyl: "pass the log") -> M2 partner (Damian teaches, Mykoła asks) -> M3 sender (Mykoła: "stop" + signature).
 
 ---
 

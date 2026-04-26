@@ -6,7 +6,7 @@ czas: 120
 
 ## Introducción
 
-Hai volvió el viernes de su primer turno solo en la sierra de cinta con los ojos llenos de astillas. Nada grave: dos astillitas bajo el párpado, que el socorrista de guardia enjuagó con suero en cinco minutos. Pero bastaron para que al día siguiente Hai se quedara frente a la taquilla del EPI más tiempo que en todo el M1.
+Andrij volvió el viernes de su primer turno solo en la sierra de cinta con los ojos llenos de astillas. Nada grave: dos astillitas bajo el párpado, que el socorrista de guardia enjuagó con suero en cinco minutos. Pero bastaron para que al día siguiente Andrij se quedara frente a la taquilla del EPI más tiempo que en todo el M1.
 
 Porque en el M1 su EPI eran el **casco, el chaleco reflectante y las botas con puntera**. Hoy, como operador junior, abre la misma taquilla y ve un segundo juego: **gafas, protectores auditivos, mascarilla, calzado de operador, ropa sin elementos sueltos**. Cinco elementos que, en el aserradero, marcan la diferencia entre el trabajo y el hospital.
 
@@ -113,7 +113,7 @@ El piloto de la semana introdujo el ritual **verificar – arrancar – reportar
 Solo entonces vas a la máquina. El paso „arrancar" lo empezarás en la lección 3. El paso „reportar", en la lección 6.
 
 ::: example
-**Caso de Hai**: el primer día del M2, Hai se saltó el paso 3 (comprobación táctil). Llevaba el reloj puesto, no lo notó. Al primer arranque de la cinta, el capataz lo vio y paró la máquina con un „stop". Hai se quitó el reloj, volvió al ritual. Cero consecuencias disciplinarias: el capataz vio que el nuevo estaba aprendiendo. Pero Hai lo memorizó para toda su carrera: **la comprobación táctil no es una formalidad**.
+**Caso de Andrij**: el primer día del M2, Andrij se saltó el paso 3 (comprobación táctil). Llevaba el reloj puesto, no lo notó. Al primer arranque de la cinta, el capataz lo vio y paró la máquina con un „stop". Andrij se quitó el reloj, volvió al ritual. Cero consecuencias disciplinarias: el capataz vio que el nuevo estaba aprendiendo. Pero Andrij lo memorizó para toda su carrera: **la comprobación táctil no es una formalidad**.
 :::
 
 ::: info
@@ -169,11 +169,11 @@ D) Porque S1 se rompe más rápido que S3.
 
 - El ritual „verificar – arrancar – reportar" vuelve aquí como **estribillo del eje del M2**. „Verificar" empieza por uno mismo, ese es el núcleo. Subraya: el EPI no es „complemento", sino **primer paso del ritual**.
 - Arco básico: en el M1 el EPI protegía al ayudante a 3-5 m. En el M2 protege al operador a 0,5 m. La cercanía convierte la recomendación en requisito.
-- Hai continúa el arco del piloto. En el piloto fue „la primera vez solo". Aquí aprende a „vestirse como operador". En la l3 pondrá la mano sobre el STOP. En la l4 hará el checklist. La semana se cierra con un único protagonista.
+- Andrij continúa el arco del piloto. En el piloto fue „la primera vez solo". Aquí aprende a „vestirse como operador". En la l3 pondrá la mano sobre el STOP. En la l4 hará el checklist. La semana se cierra con un único protagonista.
 
 **Trampas migratorias que hay que mostrar físicamente:**
 
-- En Vietnam, Ucrania, Moldavia y Georgia el estándar suele ser el guante de algodón en cualquier trabajo con madera („por las astillas"). El operador polaco en la sierra **no lleva guantes** por el Rozp. MG 2000 § 5. Muestra físicamente qué hace un guante arrastrado por la cinta (experimento con trapo y rodillo giratorio).
+- En muchos países de origen (Ucrania, Colombia, Venezuela, Perú, Bolivia) el estándar suele ser el guante de algodón en cualquier trabajo con madera („por las astillas"). El operador polaco en la sierra **no lleva guantes** por el Rozp. MG 2000 § 5. Muestra físicamente qué hace un guante arrastrado por la cinta (experimento con trapo y rodillo giratorio).
 - En muchos países la FFP2 y FFP3 son recomendación, no obligación. En Polonia, con polvo de roble y haya, es obligación legal por la clasificación IARC. Muestra la etiqueta IARC y el Rozp. MRPiPS de 12 de junio de 2018 sobre NDS para polvos de madera.
 - El reloj es, para muchas culturas, un elemento de identidad (regalo de la familia). Muestra por qué quitárselo antes del turno no es **perder** el regalo, sino **proteger** la mano. Lo dejas en la taquilla, te lo pones tras el turno.
 

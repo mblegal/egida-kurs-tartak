@@ -6,23 +6,23 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, 2026-05-08, godzina 10:05. Trzeci dzień asysty klasyfikatorskiej Rustama. Wczoraj z Panią Anią klasyfikowali 60 desek sosnowych z Drawna według PN-EN 14081 (klasyfikacja wytrzymałościowa, klasy C, wskaźniki MOR, MOE, gęstość, odchylenie słoja). Znaleźli 38 desek spełniających zamówiony próg **C24** dla belek stropu domu jednorodzinnego w Piasecznie. Zamówienie idzie do wysyłki w poniedziałek. Dziś Pani Ania ma dla Rustama **inną scenę**: nie klasyfikujemy drewna, tylko rozmawiamy z klientem.
+Piątek, 2026-05-08, godzina 10:05. Trzeci dzień asysty klasyfikatorskiej Mykoły. Wczoraj z Panią Anią klasyfikowali 60 desek sosnowych z Drawna według PN-EN 14081 (klasyfikacja wytrzymałościowa, klasy C, wskaźniki MOR, MOE, gęstość, odchylenie słoja). Znaleźli 38 desek spełniających zamówiony próg **C24** dla belek stropu domu jednorodzinnego w Piasecznie. Zamówienie idzie do wysyłki w poniedziałek. Dziś Pani Ania ma dla Mykoły **inną scenę**: nie klasyfikujemy drewna, tylko rozmawiamy z klientem.
 
 Boks klasyfikatora, 10:00. Przychodzi **Jacek Wesołowski**, 45 lat, technolog budowlany z firmy Dom-Bud Piaseczno (ta sama firma, dla której EGIDA przygotowała zamówienie C24 z wczoraj). Jacek prowadzi dwa projekty równocześnie. Pierwszy kończymy w poniedziałek (dom jednorodzinny, strop z C24). Drugi, **dom dwurodzinny z piętrem**, Jacek projektuje teraz, musi zamówić materiał na lipiec. Pytanie dla Pani Ani: czy C24 wystarczy, czy lepiej zamówić C30?
 
-Rustam siedzi w kącie boksu, zeszyt w ręce, obserwuje. Pani Ania uprzedziła go rano: *„Dzisiaj nie klasyfikujemy. Dzisiaj słuchasz, jak ja tłumaczę klasy klientowi. To jest drugi język, obok języka normy. Klient nie interesuje się sękami i lokalizacją w strefie rozciągania. Klient chce wiedzieć: czy belka uniesie strop, ile kosztuje, i czy nie pęknie za pięć lat."*
+Mykoła siedzi w kącie boksu, zeszyt w ręce, obserwuje. Pani Ania uprzedziła go rano: *„Dzisiaj nie klasyfikujemy. Dzisiaj słuchasz, jak ja tłumaczę klasy klientowi. To jest drugi język, obok języka normy. Klient nie interesuje się sękami i lokalizacją w strefie rozciągania. Klient chce wiedzieć: czy belka uniesie strop, ile kosztuje, i czy nie pęknie za pięć lat."*
 
 > **Pan Jacek:** „Dzień dobry, Pani Aniu. Mam do pani pytanie. Projektuję dom dwurodzinny, dwa piętra, strop drewniany nad parterem, rozpiętość belek 4,2 m, obciążenie użytkowe 2 kN/m² (mieszkalne). Klient prosi o kosztorys. Ja bym dał C24 jak w poprzednim projekcie, ale architekt mi pisze, żeby zastanowić się nad C30. Co pani radzi?"
 >
 > **Pani Ania:** „Panie Jacku, siadajmy. Różnica C24 a C30 to nie tylko liczba w kodzie. To jest cały łańcuch decyzji: co wytrzyma, jak się ugnie, ile kosztuje, jakie ma ryzyko. Rozbierzmy na cztery pytania. Pytanie jeden: jakie obciążenie? Pytanie dwa: jaka rozpiętość? Pytanie trzy: jaki budżet? Pytanie cztery: kto eksploatuje i jak długo?"
 
-Rustam otwiera zeszyt. Dziś inna lekcja niż wczoraj. Wczoraj mierzył sęki suwmiarką. Dziś nauczy się, że **te same liczby** (MOR, MOE, gęstość) mają inne znaczenie dla klasyfikatora niż dla klienta. Klasyfikator patrzy na deskę. Klient patrzy na budynek, w którym ta deska będzie pracować przez 50 lat.
+Mykoła otwiera zeszyt. Dziś inna lekcja niż wczoraj. Wczoraj mierzył sęki suwmiarką. Dziś nauczy się, że **te same liczby** (MOR, MOE, gęstość) mają inne znaczenie dla klasyfikatora niż dla klienta. Klasyfikator patrzy na deskę. Klient patrzy na budynek, w którym ta deska będzie pracować przez 50 lat.
 
 ## Cele
 
 Po tej lekcji:
 
-1. Rozumiesz **trzy perspektywy** tych samych klas C drewna konstrukcyjnego. Perspektywa **operatora** (ty, Rustam): jaką klasę przewiduje selekcja przy cięciu i klasyfikacji przed wysyłką, jak wybór klasy wpływa na wydajność surowca (yield). Perspektywa **klasyfikatora** (Pani Ania): jakie kryteria normy PN-EN 14081 przypisują klasę konkretnej desce, jakie pomiary i akredytacje są wymagane. Perspektywa **klienta** (Pan Jacek, architekt, inwestor): jakie zastosowanie odpowiada każdej klasie, ile kosztuje różnica, jakie jest ryzyko konstrukcyjne.
+1. Rozumiesz **trzy perspektywy** tych samych klas C drewna konstrukcyjnego. Perspektywa **operatora** (ty, Mykoła): jaką klasę przewiduje selekcja przy cięciu i klasyfikacji przed wysyłką, jak wybór klasy wpływa na wydajność surowca (yield). Perspektywa **klasyfikatora** (Pani Ania): jakie kryteria normy PN-EN 14081 przypisują klasę konkretnej desce, jakie pomiary i akredytacje są wymagane. Perspektywa **klienta** (Pan Jacek, architekt, inwestor): jakie zastosowanie odpowiada każdej klasie, ile kosztuje różnica, jakie jest ryzyko konstrukcyjne.
 2. Znasz **typowe zastosowania czterech klas C** w polskim budownictwie. **C16** dla więźby dachowej ekonomicznej (domy jednorodzinne budżetowe, palety, deskowania szalunkowe), **C24** dla stropów mieszkalnych i standardowej więźby (najczęstsza klasa w Polsce, 50-55% zapotrzebowania), **C30** dla stropów obciążonych (budynki wielorodzinne, hale lekkie, przekrycia użytkowe), **C35** dla konstrukcji klejonych warstwowo (drewno GL, mosty, hale sportowe, elementy o długich rozpiętościach).
 3. Rozumiesz **Eurokod 5** (PN-EN 1995, norma projektowania konstrukcji drewnianych) jako ramę, w której projektant wybiera klasę C pod konkretny projekt. Wiesz, że klasa C nie jest wybierana przez klienta „z głowy", tylko wynika z obliczenia konstrukcyjnego w programie projektowym (np. Dlubal, Robot, Cadwork) z uwzględnieniem trzech czynników: obciążenia, rozpiętości i dopuszczalnego ugięcia belki.
 4. Znasz **ekonomikę wyboru klasy** na konkretnym przykładzie belki stropowej 4 m × 50 × 150 mm. Różnica ceny między C24 (1800 zł/m³ w EGIDA, stan na maj 2026) a C30 (2250 zł/m³) dla pojedynczej belki to około 13 zł, dla całego stropu domu jednorodzinnego (80 belek, 2,4 m³) około 1080 zł. W kontekście pełnego kosztu budowy domu (700-900 tys. zł) to 0,1-0,15%. Dla klienta często mało znaczące, dla tartaku (yield, koszt selekcji) bardzo znaczące.
@@ -35,7 +35,7 @@ Po tej lekcji:
 
 Te same cztery klasy wytrzymałościowe (C16, C24, C30, C35) mają **trzy różne znaczenia** zależnie od roli, w jakiej patrzy się na drewno:
 
-**Perspektywa operatora (Rustam, operator samodzielny P3):**
+**Perspektywa operatora (Mykoła, operator samodzielny P3):**
 
 Klasa C jest **wynikiem selekcji przy cięciu**. Kłoda wchodzi na pilarkę, przetarcie daje 100 desek. Operator decyduje, jak piłować, żeby maksymalizować liczbę desek spełniających C24 (najdroższą klasę standardową zamówioną przez klienta). Wybór orientacji cięcia, dobór szerokości taśmy, grubość rzazu, wszystko to wpływa na yield C24. Dobre przetarcie: 100 desek daje 40 C24 (40% yield w klasie docelowej) plus 45 C16 (gorsza klasa, niższa cena, ale sprzedajemy) plus 10 poniżej C16 (na opakowania, zrzyny) plus 5 odrzutów (zgnilizna, pęknięcia). Słabe przetarcie: 100 desek daje 25 C24, więcej strat. Różnica yield = różnica przychodu tartaku.
 
@@ -53,7 +53,7 @@ Trzy perspektywy produkują **tę samą klasę C24**, ale patrzą na nią z ró�
 - Klient: „czy C24 pokrywa moje zapotrzebowanie konstrukcyjne"
 
 ::: info
-W tartaku nikt nie patrzy **jednocześnie** z trzech perspektyw. Operator myśli o cięciu, klasyfikator o deskach, klient o budynku. Dlatego istnieją **tłumacze**: brygadzista, handlowiec, klasyfikator w rozmowie z klientem. Każdy tłumaczy w jednym kierunku. Pani Ania w rozmowie z Panem Jackiem tłumaczy z perspektywy klasyfikatora na perspektywę klienta. Brygadzista (Marek) tłumaczy z perspektywy klienta na perspektywę operatora (przekazuje zamówienie Rustamowi). Ty, Rustam, jako operator samodzielny w M3, powinieneś rozumieć wszystkie trzy perspektywy, nawet jeśli sam operujesz tylko z jednej.
+W tartaku nikt nie patrzy **jednocześnie** z trzech perspektyw. Operator myśli o cięciu, klasyfikator o deskach, klient o budynku. Dlatego istnieją **tłumacze**: brygadzista, handlowiec, klasyfikator w rozmowie z klientem. Każdy tłumaczy w jednym kierunku. Pani Ania w rozmowie z Panem Jackiem tłumaczy z perspektywy klasyfikatora na perspektywę klienta. Brygadzista (Marek) tłumaczy z perspektywy klienta na perspektywę operatora (przekazuje zamówienie Mykole). Ty, Mykoła, jako operator samodzielny w M3, powinieneś rozumieć wszystkie trzy perspektywy, nawet jeśli sam operujesz tylko z jednej.
 :::
 
 ### Eurokod 5 jako rama decyzji klienta
@@ -183,7 +183,7 @@ Różnica kosztu C24 vs C30 dla jednego stropu = **540 zł**. W pełnym budżeci
 
 ### Scena rozmowy: Pani Ania tłumaczy Jackowi, 10:20-10:50
 
-Pani Ania otwiera laptop, uruchamia Excel z arkuszem kalkulacji. Rustam obserwuje.
+Pani Ania otwiera laptop, uruchamia Excel z arkuszem kalkulacji. Mykoła obserwuje.
 
 > **Pani Ania:** „Panie Jacku, zajmijmy się pana projektem. Dom dwurodzinny, strop nad parterem, rozpiętość 4,2 m, rozstaw belek 60 cm, obciążenie mieszkalne 2 kN/m². Pierwsza rzecz: pana architekt pisze C30 dlaczego? Ma pan odpowiedź?"
 >
@@ -213,7 +213,7 @@ Pani Ania otwiera laptop, uruchamia Excel z arkuszem kalkulacji. Rustam obserwuj
 
 ### Drugi język klasyfikatora: tłumaczenie normy na decyzję klienta
 
-Rustam zapisał całą rozmowę. Zauważył coś ważnego: **Pani Ania nie raz nie powiedziała „MOR", „MOE", „N/mm²"**. Zamiast tego mówiła:
+Mykoła zapisał całą rozmowę. Zauważył coś ważnego: **Pani Ania nie raz nie powiedziała „MOR", „MOE", „N/mm²"**. Zamiast tego mówiła:
 
 | Język normy (wczoraj, l3) | Język klienta (dzisiaj, l4) |
 |----------------------------|--------------------------------|
@@ -226,10 +226,10 @@ Rustam zapisał całą rozmowę. Zauważył coś ważnego: **Pani Ania nie raz n
 | Eurokod 5 warunek SLS | „czy strop nie będzie się uginał tak, że tynki pękną" |
 | Obciążenie 2 kN/m² | „normalne mieszkanie, ludzie, meble, sprzęt AGD" |
 
-**Druga cecha języka klienta**: pytania o **strefy krytyczne**. Pani Ania pytała Jacka nie o belki ogólne, tylko o schody, balkon, podciąg. Trzy miejsca, gdzie zastosowanie C30 ma sens **konstrukcyjny**, a nie tylko „na wszelki wypadek". Operator samodzielny (Rustam) powinien nauczyć się tego słownictwa, bo w przyszłości sam będzie słyszał od brygadzisty (albo od klienta dzwoniącego do EGIDA): „potrzebuję C24 dla stropu i C30 dla schodów", i musi wiedzieć, co znaczy każda z tych kombinacji.
+**Druga cecha języka klienta**: pytania o **strefy krytyczne**. Pani Ania pytała Jacka nie o belki ogólne, tylko o schody, balkon, podciąg. Trzy miejsca, gdzie zastosowanie C30 ma sens **konstrukcyjny**, a nie tylko „na wszelki wypadek". Operator samodzielny (Mykoła) powinien nauczyć się tego słownictwa, bo w przyszłości sam będzie słyszał od brygadzisty (albo od klienta dzwoniącego do EGIDA): „potrzebuję C24 dla stropu i C30 dla schodów", i musi wiedzieć, co znaczy każda z tych kombinacji.
 
 ::: warning
-Operator tartakowy **nie jest projektantem**. Rustam nie może doradzać klientowi, czy wybrać C24 czy C30. Nie ma uprawnień projektowych, nie jest akredytowanym klasyfikatorem, nie zna Eurokodu 5. Jego rolą jest: **wykonać zamówienie** zgodnie z dyspozycją, na przykład „80 belek 50 × 150 × 4200 C24" z dokumentu WZ. Kiedy klient dzwoni bezpośrednio do tartaku z pytaniem o klasę, operator przekierowuje do klasyfikatora (Pani Ani) albo do handlowca (w EGIDA do brygadzisty Marka, który obsługuje klientów pod nieobecność handlowca). Rola operatora to **realizacja**, nie **doradztwo**. Przekroczenie tej granicy to ryzyko: zła klasa w projekcie = reklamacja 50-200 tys. zł plus koszt wymiany konstrukcji.
+Operator tartakowy **nie jest projektantem**. Mykoła nie może doradzać klientowi, czy wybrać C24 czy C30. Nie ma uprawnień projektowych, nie jest akredytowanym klasyfikatorem, nie zna Eurokodu 5. Jego rolą jest: **wykonać zamówienie** zgodnie z dyspozycją, na przykład „80 belek 50 × 150 × 4200 C24" z dokumentu WZ. Kiedy klient dzwoni bezpośrednio do tartaku z pytaniem o klasę, operator przekierowuje do klasyfikatora (Pani Ani) albo do handlowca (w EGIDA do brygadzisty Marka, który obsługuje klientów pod nieobecność handlowca). Rola operatora to **realizacja**, nie **doradztwo**. Przekroczenie tej granicy to ryzyko: zła klasa w projekcie = reklamacja 50-200 tys. zł plus koszt wymiany konstrukcji.
 :::
 
 ### Ekonomika z perspektywy EGIDA: dlaczego oferujemy wszystkie klasy
@@ -246,9 +246,9 @@ Typowy rozkład z przetarcia sosny zwyczajnej z Nadleśnictwa Drawno (siedlisko 
 
 EGIDA musi **sprzedać każdą klasę**, żeby yield był rentowny. Nie można wyrzucić 15% produkcji C30, bo nikt nie chce. Nie można zatrzymać 45% C24 na magazyn, bo zablokuje kapitał. Dlatego **handlowcy w EGIDA aktywnie promują różne klasy do różnych klientów**: C16 do szalunkowych firm i paleciarzy, C24 do typowych dekarzy i developerów jednorodzinnych, C30 do developerów wielorodzinnych i hal, C35 do warsztatów klejarskich (GL) i mostowników.
 
-**Dla Rustama jako operatora to oznacza:**
+**Dla Mykoły jako operatora to oznacza:**
 
-Gdy Marek mówi: „dzisiaj rano tniemy sosnę pod zamówienie C24 dla Dom-Bud Piaseczno", Rustam wie, że **oprócz C24** wyjdzie też C16, C30, C35. Musi umieć posortować deski z jednego cyklu cięcia na trzy-cztery stosy klasowe. Nie zmarnuje desek C30 (wrzucając je do stosu C24, bo C24 był zamówiony), bo C30 sprzedaje się do innego klienta za wyższą cenę. Nie wrzuci C16 do C24 „bo podobnie wygląda", bo C16 na strop dałby reklamację.
+Gdy Marek mówi: „dzisiaj rano tniemy sosnę pod zamówienie C24 dla Dom-Bud Piaseczno", Mykoła wie, że **oprócz C24** wyjdzie też C16, C30, C35. Musi umieć posortować deski z jednego cyklu cięcia na trzy-cztery stosy klasowe. Nie zmarnuje desek C30 (wrzucając je do stosu C24, bo C24 był zamówiony), bo C30 sprzedaje się do innego klienta za wyższą cenę. Nie wrzuci C16 do C24 „bo podobnie wygląda", bo C16 na strop dałby reklamację.
 
 Sortowanie przy cięciu = **pre-klasyfikacja** wizualna (operator widzi sęki, szerokość słoja, krzywiznę), a potem klasyfikator (Ania) **potwierdza obiektywnie**. Dobry operator potrafi z 90% dokładnością przewidzieć, która klasa wyjdzie z każdej deski. Oszczędza to klasyfikatorce czas: Ania potwierdza, nie wymyśla od zera.
 
@@ -264,7 +264,7 @@ Ekonomicznie różnica C24 vs C30 dla stropu domu jednorodzinnego to około 540 
 
 Drugi język klasyfikatora (w rozmowie z klientem) to **tłumaczenie liczb normy na decyzję**: MOR 24 N/mm² zostaje „belka wytrzyma 3,2 tony", MOE 11 000 zostaje „ugnie się 11 mm, tynk nie pęknie", gęstość 350 kg/m³ zostaje „belka waży 16,8 kg/m, utrzymuje się ręcznie". Pytania klasyfikatora w kierunku klienta nie dotyczą normy, tylko strefy krytycznych: schody, balkony, podciągi, rozpiętości powyżej 4,5 m, obciążenia powyżej 3 kN/m². Te strefy są **rzeczywistymi miejscami** wyboru między klasami.
 
-Operator samodzielny (Rustam) **nie doradza klientowi** w sprawie klasy. Przekierowuje do klasyfikatora albo handlowca. Ale rozumie trzy perspektywy klas, bo w jego codziennej pracy (sortowanie przy cięciu) musi umieć przewidzieć, która klasa wyjdzie z której deski. Dobry operator ma 90% dokładności pre-klasyfikacji wizualnej.
+Operator samodzielny (Mykoła) **nie doradza klientowi** w sprawie klasy. Przekierowuje do klasyfikatora albo handlowca. Ale rozumie trzy perspektywy klas, bo w jego codziennej pracy (sortowanie przy cięciu) musi umieć przewidzieć, która klasa wyjdzie z której deski. Dobry operator ma 90% dokładności pre-klasyfikacji wizualnej.
 
 W następnej lekcji (m3-w2-l5) przechodzimy do **interpretacji pomiaru wilgotności** w kontekście zamówienia klienta. Trzy progi docelowe (8-10% meble, 12-15% stolarka budowlana, 18% więźba dachowa), pięć punktów pomiaru na stosie, decyzja operatora: wydajemy partię klientowi czy dosuszamy w komorze.
 

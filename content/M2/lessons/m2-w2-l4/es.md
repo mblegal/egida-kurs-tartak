@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Jueves, séptimo día de la segunda semana. Maricel el lunes comprendió la humedad, el martes la midió, el miércoles vio cómo el capataz trazaba los cortes sobre la troza larga. Hoy una nueva persona entra a la nave de clasificación: **Emeka Okonkwo, 32 años, de la ciudad de Enugu en el sureste de Nigeria**. Antes de llegar a Polonia hace diez meses, durante seis años trabajó como ingeniero de mantenimiento en molinos de aceite. Conocía la madera tropical, iroko y sapelli, con la que se construían las mesas de trabajo de su fábrica. El roble y el haya polacos los está conociendo apenas ahora.
+Jueves, séptimo día de la segunda semana. Sofía el lunes comprendió la humedad, el martes la midió, el miércoles vio cómo el capataz trazaba los cortes sobre la troza larga. Hoy una nueva persona entra a la nave de clasificación: **Carlos Hernández, 32 años, de la ciudad de Maracaibo en el oeste de Venezuela**. Antes de llegar a Polonia hace diez meses, durante seis años trabajó como ingeniero de mantenimiento en una base petrolera. Conocía la madera tropical, caoba y sapelli, con la que se construían las mesas de trabajo de sus instalaciones. El roble y el haya polacos los está conociendo apenas ahora.
 
-A las 7:15 Emeka entra a la nave de clasificación después del primer corte. Junto a la mesa está **el maestro Jan, cincuenta y cinco años, treinta años en el aserradero**. Jan ha colocado cuatro tramos cortos de madera aserrada, cada uno de alrededor de un metro de largo, recién descargados de la sierra de cinta. «Ven, Emeka. Antes de enseñarte a clasificar por tu cuenta, tienes que **aprender a ver los defectos, antes de que destruyan la sierra o al cliente**. Estos son los cuatro defectos más importantes, por los cuales la semana pasada perdimos dos cintas y un pedido».
+A las 7:15 Carlos entra a la nave de clasificación después del primer corte. Junto a la mesa está **el maestro Jan, cincuenta y cinco años, treinta años en el aserradero**. Jan ha colocado cuatro tramos cortos de madera aserrada, cada uno de alrededor de un metro de largo, recién descargados de la sierra de cinta. «Ven, Carlos. Antes de enseñarte a clasificar por tu cuenta, tienes que **aprender a ver los defectos, antes de que destruyan la sierra o al cliente**. Estos son los cuatro defectos más importantes, por los cuales la semana pasada perdimos dos cintas y un pedido».
 
 Esta lección trata sobre **lo que ves en la corteza y en la sección transversal, antes de que la tabla llegue al cliente**. Aprenderás a reconocer cuatro defectos que lo cambian todo: **fibra revirada, duramen falso, pudrición de la base, bolsas de corteza**. Son los mismos defectos que el miércoles Marek buscaba, golpeando con el martillo la troza de roble.
 
@@ -56,7 +56,7 @@ La **fibra revirada** (*spiral grain*) es una disposición permanente de las fib
 
 ### Defecto segundo: duramen falso
 
-Segunda pieza: haya recién cortada, longitud 80 cm. En la sección transversal Emeka ve **una mancha irregular, de color rojo pardo, en el centro, con bordes dentados, como si alguien hubiera derramado té sobre un mantel blanco**. La mancha ocupa aproximadamente el 30% de la sección.
+Segunda pieza: haya recién cortada, longitud 80 cm. En la sección transversal Carlos ve **una mancha irregular, de color rojo pardo, en el centro, con bordes dentados, como si alguien hubiera derramado té sobre un mantel blanco**. La mancha ocupa aproximadamente el 30% de la sección.
 
 El **duramen falso** (*false heartwood*, en alemán *Rotkern* – «corazón rojo») aparece principalmente en haya, fresno y aliso. Es la **reacción de un árbol vivo a un daño mecánico o al envejecimiento**: la madera de albura se transforma en tejido muerto de composición alterada, más oscuro, sin una frontera geométrica.
 
@@ -94,7 +94,7 @@ La **pudrición de la base** (*butt rot*) es la descomposición de la madera por
 
 ### Defecto cuarto: bolsa de corteza
 
-Cuarta pieza: abeto (picea) de 30 cm de longitud. Jan lo gira de lado. Emeka ve **una banda vertical de material oscuro y seco, profundamente incrustada en la madera, de 8 mm de ancho, 20 cm de largo, como si alguien hubiera sellado dentro un trozo de corteza vieja**.
+Cuarta pieza: abeto (picea) de 30 cm de longitud. Jan lo gira de lado. Carlos ve **una banda vertical de material oscuro y seco, profundamente incrustada en la madera, de 8 mm de ancho, 20 cm de largo, como si alguien hubiera sellado dentro un trozo de corteza vieja**.
 
 La **bolsa de corteza** (*bark pocket*) es un trozo de corteza que ha quedado dentro del tronco tras una herida cicatrizada. La causa más frecuente: **una rama rota**, que el árbol ha envuelto con capas de crecimiento. Con menor frecuencia: un golpe de un tractor en el bosque, un roce contra otro árbol en una tormenta, un corte con herramienta durante la clara.
 
@@ -160,7 +160,7 @@ Mañana (lección 5) conocerás los **surtidos de madera aserrada**: qué sale d
 - Fibra revirada «porque el tronco gira sobre la corteza»: **no confundir**: fibra revirada (característica de la madera) vs. torcedura del tronco (característica de la forma). Un tronco torcido puede tener fibras rectas, un tronco recto puede tener fibras reviradas.
 - Bolsa «porque la corteza se conservó sobre el tronco»: **no**, la bolsa es corteza **dentro** de la madera, no fuera.
 
-**Caso Emeka – perspectiva africana**: Emeka viene del contexto de la madera tropical (iroko, sapelli, caoba africana). Aquellas especies tienen otros defectos dominantes: «gum vein» (banda de resina), «brittle heart» (corazón quebradizo tras estrés de crecimiento), «sapstreak» (decoloración bacteriana). Los defectos de las especies polacas son nuevos para Emeka. Muéstrale fotografías de defectos del contexto nativo, luego superpón la analogía polaca. El duramen falso del haya tiene un mecanismo similar al «brittle heart» del iroko: ambos son reacciones del árbol al estrés.
+**Caso Carlos – perspectiva africana**: Carlos viene del contexto de la madera tropical (iroko, sapelli, caoba africana). Aquellas especies tienen otros defectos dominantes: «gum vein» (banda de resina), «brittle heart» (corazón quebradizo tras estrés de crecimiento), «sapstreak» (decoloración bacteriana). Los defectos de las especies polacas son nuevos para Carlos. Muéstrale fotografías de defectos del contexto nativo, luego superpón la analogía polaca. El duramen falso del haya tiene un mecanismo similar al «brittle heart» del iroko: ambos son reacciones del árbol al estrés.
 
 **Por qué golpear con el martillo es un rito, no un truco**: desde el siglo XIX los clasificadores europeos golpean la madera; técnica sencilla, barata, eficaz en el 80% de las pudriciones. En la era de los ultrasonidos y la tomografía computarizada de la madera, golpear sigue siendo la primera línea de diagnóstico en el patio de trozas, porque el maestro comprueba una troza en 30 segundos. Respeta ese rito, no lo sustituirás con una aplicación de teléfono.
 

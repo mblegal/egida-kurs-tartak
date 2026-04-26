@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, 8:00, hala suszarni Fundacji EGIDA, komora 2. Minęło 10 dni od wtorku, kiedy Oleksii Bohdaniuk załadował do komory partię SO-A-260420-012 (sosna klasy A, 50 × 150 × 3000 mm, 6 m³, łącznie 12 desek). Mistrz suszarni Zbigniew Majchrzak zakończył cykl o 4:00 rano – temperatura spadła z 55°C do 23°C w ciągu 7 godzin chłodzenia gradientowego (tempo 4,6°C/h, bezpiecznie poniżej limitu 6°C/h). Teraz Oleksii staje przed drzwiami komory z Zbigniewem. „Sam ładowałeś, sam wyjmujesz, sam sprawdzasz" – mówi Zbigniew. „Ja asystuję, ale decyzje o klasie są Twoje. Pamiętaj: klasa A przed suszeniem nie znaczy klasa A po suszeniu. Materiał dojrzał, teraz zobaczymy, co się z niego stało."
+Piątek, 8:00, hala suszarni Fundacji EGIDA, komora 2. Minęło 10 dni od wtorku, kiedy Oleksij Bohdaniuk załadował do komory partię SO-A-260420-012 (sosna klasy A, 50 × 150 × 3000 mm, 6 m³, łącznie 12 desek). Mistrz suszarni Zbigniew Majchrzak zakończył cykl o 4:00 rano – temperatura spadła z 55°C do 23°C w ciągu 7 godzin chłodzenia gradientowego (tempo 4,6°C/h, bezpiecznie poniżej limitu 6°C/h). Teraz Oleksij staje przed drzwiami komory z Zbigniewem. „Sam ładowałeś, sam wyjmujesz, sam sprawdzasz" – mówi Zbigniew. „Ja asystuję, ale decyzje o klasie są Twoje. Pamiętaj: klasa A przed suszeniem nie znaczy klasa A po suszeniu. Materiał dojrzał, teraz zobaczymy, co się z niego stało."
 
-Ten piątek zamyka **łuk tygodnia 3** Oleksiiego – od poniedziałku (l6), kiedy sortował tę samą partię na placu, przez wtorek (l7), kiedy ładował ją do komory, aż do piątku (l8), kiedy ją wyjmuje i klasyfikuje ponownie. Ten sam operator, ta sama partia, ale **różne stany** tej samej tarcicy. Suszenie nie jest procesem obojętnym dla drewna – **zmienia klasę**. Deska, która miała drobne pęknięcie czołowe 1/4 szerokości przed suszeniem, może mieć 1/3 szerokości po suszeniu (bo naprężenia desorpcyjne rozerwały włókna tam, gdzie były najsłabsze). To nie jest błąd suszenia, to jest **natura drewna** – materiał organiczny reaguje na zmianę wilgotności deformacją i pękaniem, i częścią roli operatora jest **zaakceptować tę zmianę i zaktualizować dokumentację**, a nie próbować ukryć.
+Ten piątek zamyka **łuk tygodnia 3** Oleksija – od poniedziałku (l6), kiedy sortował tę samą partię na placu, przez wtorek (l7), kiedy ładował ją do komory, aż do piątku (l8), kiedy ją wyjmuje i klasyfikuje ponownie. Ten sam operator, ta sama partia, ale **różne stany** tej samej tarcicy. Suszenie nie jest procesem obojętnym dla drewna – **zmienia klasę**. Deska, która miała drobne pęknięcie czołowe 1/4 szerokości przed suszeniem, może mieć 1/3 szerokości po suszeniu (bo naprężenia desorpcyjne rozerwały włókna tam, gdzie były najsłabsze). To nie jest błąd suszenia, to jest **natura drewna** – materiał organiczny reaguje na zmianę wilgotności deformacją i pękaniem, i częścią roli operatora jest **zaakceptować tę zmianę i zaktualizować dokumentację**, a nie próbować ukryć.
 
 Mantra tygodnia 3 z lekcji 1 brzmi: „uruchamiam, regulujuę, tnę, sortuję – ale zawsze pod nadzorem brygadzisty lub seniora". W lekcji 8 dokładamy ostatnie czynności tygodnia: **mierzę, oceniam, reklasyfikuję, aktualizuję**. Nie jesteś już w roli wykonawczej – jesteś w roli **weryfikatora**, który potwierdza lub koryguje wcześniejszą decyzję klasyfikacyjną.
 
@@ -38,11 +38,11 @@ Zanim położysz rękę na klamce komory, sprawdzasz pulpit sterownika Lignocam 
 
 **Parametr 3: wilgotność drewna z czujników komorowych**. W komorze 2 cztery czujniki drewnowe (wbite w reprezentatywne deski partii przed startem cyklu – robił to Zbigniew, bez Twojego udziału) pokazują: 11,8% / 12,3% / 11,5% / 12,1%. Średnia 11,9%, rozrzut 0,8% – jednorodność cyklu bardzo dobra. Docelowa wilgotność dla partii sosna eksportowa: 12 ± 2%. Mieści się. Zbigniew mówi: „Otwieramy. Pamiętaj, pomiary czujników to orientacja – twoim zadaniem jest weryfikacja wilgotnościomierzem ręcznym w czterech pozycjach już po wyjęciu."
 
-Mechanika otwierania drzwi: dwa zatrzaski bocznie, jeden centralny, uchwyt obrotowy. Drzwi komory Nardi ważą 85 kg (izolacja 150 mm pianki poliuretanowej + blacha stalowa), otwierają się z oporem hydraulicznym zapobiegającym gwałtownemu ruchowi. Oleksii otwiera powoli – wewnątrz komory ciepłe powietrze pachnące drewnem, widoczny stos partii.
+Mechanika otwierania drzwi: dwa zatrzaski bocznie, jeden centralny, uchwyt obrotowy. Drzwi komory Nardi ważą 85 kg (izolacja 150 mm pianki poliuretanowej + blacha stalowa), otwierają się z oporem hydraulicznym zapobiegającym gwałtownemu ruchowi. Oleksij otwiera powoli – wewnątrz komory ciepłe powietrze pachnące drewnem, widoczny stos partii.
 
 ### Pomiar wilgotnościomierzem w 4 pozycjach A/B/C/D
 
-Wilgotnościomierz ręczny z lekcji 2 tygodnia 2 modułu 2 (model oporowy Brookhuis FMC, zakres 6–30% MC, dokładność ±0,5% MC, elektrody 30 mm wbijane **prostopadle do włókien** na głębokość 1/3 grubości deski). Oleksii wyjmuje narzędzie z walizki roboczej, sprawdza kalibrację (wbicie w kostkę kalibracyjną 12% MC – pokaz 12,0% ± 0,3%, OK), wchodzi w komorę razem ze Zbigniewem.
+Wilgotnościomierz ręczny z lekcji 2 tygodnia 2 modułu 2 (model oporowy Brookhuis FMC, zakres 6–30% MC, dokładność ±0,5% MC, elektrody 30 mm wbijane **prostopadle do włókien** na głębokość 1/3 grubości deski). Oleksij wyjmuje narzędzie z walizki roboczej, sprawdza kalibrację (wbicie w kostkę kalibracyjną 12% MC – pokaz 12,0% ± 0,3%, OK), wchodzi w komorę razem ze Zbigniewem.
 
 **System pomiarów A/B/C/D** to standard kontroli partii w polskich tartakach (zalecany przez PN-EN 13183-2 dla metody oporowej):
 
@@ -51,7 +51,7 @@ Wilgotnościomierz ręczny z lekcji 2 tygodnia 2 modułu 2 (model oporowy Brookh
 - **Pozycja C** – deska w środku stosu wysokościowo (dla 12-warstwowego stosu: warstwa 6 lub 7), pomiar 500 mm od końca. Środek stosu ma najsłabszą cyrkulację powietrza, więc pomiar C daje **porównanie warstw**.
 - **Pozycja D** – deska najniższa w stosie, pomiar w środku długości. Najniższa + środek = **najtrudniejsza strefa do wysuszenia**, ostatnia do osiągnięcia docelowej wilgotności.
 
-Oleksii wykonuje 4 pomiary:
+Oleksij wykonuje 4 pomiary:
 - A (deska 1, 500 mm od końca): **11,5% MC**
 - B (deska 1, środek): **12,2% MC**
 - C (deska 6, 500 mm od końca): **12,0% MC**
@@ -65,7 +65,7 @@ Oleksii wykonuje 4 pomiary:
 
 ### Kontrola pęknięć powierzchniowych i czołowych
 
-Po pomiarze wilgotności Oleksii odkłada wilgotnościomierz i wraca do oceny **wizualnej pęknięć**. Tutaj korzysta z kryteriów klasy z lekcji 6 tygodnia 2 modułu 2 (Jan Pielorz – klasyfikacja wizualna wad drewna), rozszerzonych o specyfikę po-suszarniczą.
+Po pomiarze wilgotności Oleksij odkłada wilgotnościomierz i wraca do oceny **wizualnej pęknięć**. Tutaj korzysta z kryteriów klasy z lekcji 6 tygodnia 2 modułu 2 (Jan Pielorz – klasyfikacja wizualna wad drewna), rozszerzonych o specyfikę po-suszarniczą.
 
 **Pęknięcia powierzchniowe (surface checks)** powstają, gdy zewnętrzna warstwa deski wysycha szybciej niż środek – naprężenia rozciągające w warstwie zewnętrznej przekraczają wytrzymałość drewna w poprzek włókien, włókna rozdzielają się. Wyglądają jak **długie wąskie szczeliny 0,5–2 mm szerokości, 20–200 mm długości**, równoległe do włókien (czyli wzdłuż deski). Kryteria klasy po suszeniu:
 
@@ -79,15 +79,15 @@ Po pomiarze wilgotności Oleksii odkłada wilgotnościomierz i wraca do oceny **
 - **Klasa B**: maksymalnie **1/3 szerokości**. Dla 150 mm = max 50 mm głębokości.
 - **Klasa C**: maksymalnie **1/2 szerokości**. Dla 150 mm = max 75 mm głębokości.
 
-Oleksii podchodzi do każdej z 12 desek partii SO-A-260420-012 kolejno, z ołówkiem i kartą kontroli. Karta ma 12 wierszy (jedna deska = jeden wiersz), kolumny: **nr deski**, **pęknięcia powierzchniowe** (długość łączna na mb), **pęknięcia czołowe** (głębokość jako ułamek szerokości), **klasa po suszeniu**, **komentarz**.
+Oleksij podchodzi do każdej z 12 desek partii SO-A-260420-012 kolejno, z ołówkiem i kartą kontroli. Karta ma 12 wierszy (jedna deska = jeden wiersz), kolumny: **nr deski**, **pęknięcia powierzchniowe** (długość łączna na mb), **pęknięcia czołowe** (głębokość jako ułamek szerokości), **klasa po suszeniu**, **komentarz**.
 
 ### Przypadek partii SO-A-260420-012 – reklasyfikacja 2 desek
 
-Oleksii ocenia deski 1–10 jako zgodne z klasą A (pęknięcia powierzchniowe w sumie 20–45 mm/mb, czołowe 1/5 do 1/4 szerokości – mieszczą się w klasie A). Ale **deski 11 i 12** (dwie ostatnie, najniższe w stosie, czyli pozycje najtrudniejsze dla suszenia) wyglądają inaczej:
+Oleksij ocenia deski 1–10 jako zgodne z klasą A (pęknięcia powierzchniowe w sumie 20–45 mm/mb, czołowe 1/5 do 1/4 szerokości – mieszczą się w klasie A). Ale **deski 11 i 12** (dwie ostatnie, najniższe w stosie, czyli pozycje najtrudniejsze dla suszenia) wyglądają inaczej:
 
 **Deska 11**: pęknięcie czołowe na jednym końcu, głębokość **50 mm** przy szerokości 150 mm = **1/3 szerokości**. Pomiar linijką, nie okiem – precyzja ±1 mm. Drugie czoło deski bez pęknięć. Pęknięcia powierzchniowe łączne 60 mm/mb (w granicy klasy B, próg B to 100 mm/mb). **Klasa = B** (decyduje najsłabsze kryterium, czyli pęknięcie czołowe 1/3 szerokości).
 
-**Deska 12**: pęknięcie czołowe na obu końcach, głębokość 45 mm (jedna strona) i 55 mm (druga strona). 55 mm przy szerokości 150 mm = **1/2,7 szerokości, czyli nieco powyżej 1/3**, klasyfikuje się jako C (próg C to 1/2 szerokości, więc 1/2,7 jest wewnątrz C, nie przekracza). Pęknięcia powierzchniowe 70 mm/mb (klasa B). **Najsłabsze kryterium: pęknięcie czołowe 1/2,7 szerokości = klasa C.** Hmm. Oleksii zatrzymuje się – reklasyfikacja A→C to dwustopniowy skok, rzadki. Sprawdza dwa razy linijką: 55 mm. Zbigniew podchodzi, mierzy sam: 54 mm. Decyzja: **klasa B** (z zaokrągleniem w dół, 54 mm to granica 1/3 = 50 mm, nieznacznie powyżej – przy niejednoznaczności reguła tartaku EGIDA: „decyzja konserwatywna, sklasyfikuj wyżej"). **Klasa = B**.
+**Deska 12**: pęknięcie czołowe na obu końcach, głębokość 45 mm (jedna strona) i 55 mm (druga strona). 55 mm przy szerokości 150 mm = **1/2,7 szerokości, czyli nieco powyżej 1/3**, klasyfikuje się jako C (próg C to 1/2 szerokości, więc 1/2,7 jest wewnątrz C, nie przekracza). Pęknięcia powierzchniowe 70 mm/mb (klasa B). **Najsłabsze kryterium: pęknięcie czołowe 1/2,7 szerokości = klasa C.** Hmm. Oleksij zatrzymuje się – reklasyfikacja A→C to dwustopniowy skok, rzadki. Sprawdza dwa razy linijką: 55 mm. Zbigniew podchodzi, mierzy sam: 54 mm. Decyzja: **klasa B** (z zaokrągleniem w dół, 54 mm to granica 1/3 = 50 mm, nieznacznie powyżej – przy niejednoznaczności reguła tartaku EGIDA: „decyzja konserwatywna, sklasyfikuj wyżej"). **Klasa = B**.
 
 **Wynik kontroli partii SO-A-260420-012**:
 - 10 desek → klasa A po suszeniu (zgodnie z początkową)
@@ -98,16 +98,16 @@ Oleksii ocenia deski 1–10 jako zgodne z klasą A (pęknięcia powierzchniowe w
 Wskaźnik 17% dla sosny klasy A jest na górnej granicy normy branżowej (5–15%), ale nie sygnalizuje błędu – to granica zmienności. Zbigniew notuje w swoim rejestrze: „Partia SO-A-260420-012, reklasyfikacja 17%, w normie. Dalsze analizy niepotrzebne."
 
 ::: example
-**Dlaczego deski 11 i 12 zdegradowały się, a 1–10 nie.** Pozycja w stosie: deski 11 i 12 były najniższe – strefa **najsłabszej cyrkulacji powietrza** w komorze, strefa **ostatnia do wysuszenia**. W ciągu ostatnich 24 godzin cyklu, gdy deski 1–10 już miały wilgotność 12%, deski 11–12 miały jeszcze 15–17%. W tym czasie temperatura była już pełne 55°C – ostatnie odparowanie pary z dolnych desek wywoływało większe naprężenia desorpcyjne, pęknięcia na istniejących mikroszczelinach (których Oleksii nie widział przed suszeniem, bo były zbyt drobne). Wniosek pedagogiczny: **pozycja w stosie koreluje z ryzykiem reklasyfikacji**. Następnym razem, gdy załadujesz komorę, pamiętaj, że deski najniższe mają 2× wyższe ryzyko spadku klasy – warto tam umieszczać drewno już gorszej klasy B, nie oszczędzając A na „nieprzewidywalną stratę".
+**Dlaczego deski 11 i 12 zdegradowały się, a 1–10 nie.** Pozycja w stosie: deski 11 i 12 były najniższe – strefa **najsłabszej cyrkulacji powietrza** w komorze, strefa **ostatnia do wysuszenia**. W ciągu ostatnich 24 godzin cyklu, gdy deski 1–10 już miały wilgotność 12%, deski 11–12 miały jeszcze 15–17%. W tym czasie temperatura była już pełne 55°C – ostatnie odparowanie pary z dolnych desek wywoływało większe naprężenia desorpcyjne, pęknięcia na istniejących mikroszczelinach (których Oleksij nie widział przed suszeniem, bo były zbyt drobne). Wniosek pedagogiczny: **pozycja w stosie koreluje z ryzykiem reklasyfikacji**. Następnym razem, gdy załadujesz komorę, pamiętaj, że deski najniższe mają 2× wyższe ryzyko spadku klasy – warto tam umieszczać drewno już gorszej klasy B, nie oszczędzając A na „nieprzewidywalną stratę".
 :::
 
 ### Aktualizacja dokumentacji – etykieta, rejestr, kod partii
 
-Po klasyfikacji Oleksii i Zbigniew wracają do biura suszarni (10 m² przy hali, biurko, regał z teczkami, komputer z bazą partii). Oleksii wypełnia trzy dokumenty:
+Po klasyfikacji Oleksij i Zbigniew wracają do biura suszarni (10 m² przy hali, biurko, regał z teczkami, komputer z bazą partii). Oleksij wypełnia trzy dokumenty:
 
 **Dokument 1: nowa etykieta dla desek 11 i 12**. Stara etykieta „SO-A-260420-012" zostaje odklejona z deski 11 i 12 (nie z pozostałych 10 – one zachowują klasę A). Na nowej etykiecie: „**SO-B-260420-012-r**" (litera „r" na końcu oznacza **reklasyfikację**, kod wstecznie wiąże deskę z partią macierzystą dla audytu, jednocześnie sygnalizuje odbiorcy, że klasa jest po-cykliczna, nie pierwotna).
 
-**Dokument 2: wpis w rejestrze suszarni** – dziennik fizyczny (format A4, linie, wpisy ołówkiem lub długopisem) ze stałą strukturą kolumn: data wyjęcia, kod partii, gatunek, grubość, liczba desek, wilgotność średnia, wilgotność rozrzut, reklasyfikacje, podpis mistrza, podpis ładowacza. Wpis Oleksiiego:
+**Dokument 2: wpis w rejestrze suszarni** – dziennik fizyczny (format A4, linie, wpisy ołówkiem lub długopisem) ze stałą strukturą kolumn: data wyjęcia, kod partii, gatunek, grubość, liczba desek, wilgotność średnia, wilgotność rozrzut, reklasyfikacje, podpis mistrza, podpis ładowacza. Wpis Oleksija:
 
 ```
 02.05.2026 | SO-A-260420-012 | sosna | 50 mm | 12 desek | 12,1% MC | rozrzut 1,3% |
@@ -143,11 +143,11 @@ Aktualizacja dokumentacji, którą dziś wykonałeś, jest preludium do **tygodn
 
 ## Notatki dla trenera
 
-**Czas lekcji 120 minut**. Podział: 15 min wprowadzenie + klamra tygodnia 3 (Oleksii od poniedziałku do piątku – ta sama partia), 20 min kontrola parametrów przed otwarciem (3 parametry na pulpicie), 25 min pomiar wilgotnościomierzem w 4 pozycjach (demonstracja fizyczna, jeśli wilgotnościomierz dostępny), 25 min kontrola pęknięć (powierzchniowe + czołowe × 3 klasy), 20 min reklasyfikacja na case partii SO-A-260420-012 (2 deski A→B), 10 min aktualizacja dokumentacji (etykieta + rejestr + ERP), 5 min Sprawdź siebie + omówienie.
+**Czas lekcji 120 minut**. Podział: 15 min wprowadzenie + klamra tygodnia 3 (Oleksij od poniedziałku do piątku – ta sama partia), 20 min kontrola parametrów przed otwarciem (3 parametry na pulpicie), 25 min pomiar wilgotnościomierzem w 4 pozycjach (demonstracja fizyczna, jeśli wilgotnościomierz dostępny), 25 min kontrola pęknięć (powierzchniowe + czołowe × 3 klasy), 20 min reklasyfikacja na case partii SO-A-260420-012 (2 deski A→B), 10 min aktualizacja dokumentacji (etykieta + rejestr + ERP), 5 min Sprawdź siebie + omówienie.
 
 **Pedagogiczna regułę „klasa nie jest stała w czasie"** – to kluczowy moment zamykający tydzień 3 i otwierający tydzień 4 (dokumentacja). Junior często myśli „skoro deska miała klasę A przed suszeniem, to ma klasę A po suszeniu". Trzeba to aktywnie podważyć. Metoda: pokaż fizyczną deskę sosnową **przed** i **po** cyklu suszenia, wskaż mikroszczeliny rozszerzone w makroszczeliny po 10 dniach. Jeśli nie masz dostępu do hali suszarni, fotografie detali pęknięć (przed/po) też zadziałają.
 
-**Integracja tygodnia 3**: na koniec lekcji narysuj na tablicy łuk Oleksiiego:
+**Integracja tygodnia 3**: na koniec lekcji narysuj na tablicy łuk Oleksija:
 - l1–l3: pilarka taśmowa (uruchamiam, regulujuę, tnę)
 - l4–l5: tarczowa + okrawiarka + strugarka
 - l6: sortowanie (SO-A-260420-012 powstaje)
@@ -158,4 +158,4 @@ Mantra rozszerzona tygodnia 3: „**uruchamiam, regulujuę, tnę, sortuję, ład
 
 **Ryzyko pedagogiczne – „sprzeczność z l6 T2"**: w lekcji 6 tygodnia 2 uczyłeś, że „klasa to właściwość wizualna widoczna przed suszeniem". Teraz mówisz „klasa zmienia się po suszeniu". To nie sprzeczność – to **etap procesu**. Ramuj: „W l6 T2 oceniłeś klasę **surową** przed suszeniem. W l8 T3 oceniasz klasę **po-cykliczną** po suszeniu. Obie są prawdziwe dla swojej chwili – etykieta tartaku zawiera obie dla pełnej ścieżki dokumentacyjnej."
 
-**Most do M3 T4 (reklamacje)**: w module 3 Oleksii będzie już samodzielnym operatorem, który obsługuje rozmowy z klientem składającym reklamację partii. Dzisiejsza reklasyfikacja 2 desek to pierwszy kamień fundamentu tej rozmowy – tartak, który udokumentował reklasyfikację, ma dokumentację obrony. Tartak, który ukrył, nie ma. Ta nauka wchodzi w głębi 6 miesięcy później, ale korzeń kładziemy dziś.
+**Most do M3 T4 (reklamacje)**: w module 3 Oleksij będzie już samodzielnym operatorem, który obsługuje rozmowy z klientem składającym reklamację partii. Dzisiejsza reklasyfikacja 2 desek to pierwszy kamień fundamentu tej rozmowy – tartak, który udokumentował reklasyfikację, ma dokumentację obrony. Tartak, który ukrył, nie ma. Ta nauka wchodzi w głębi 6 miesięcy później, ale korzeń kładziemy dziś.

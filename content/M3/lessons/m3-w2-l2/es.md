@@ -6,21 +6,21 @@ czas: 120
 
 ## Introducción
 
-Miércoles, 2026-05-06, 10:15. Rustam acaba de terminar el aserrado del tercer rollizo de la partida de picea común (especie *Picea abies*, entrega del Distrito Forestal de Drawno, 16 rollizos de diámetro 280-340 mm, longitud 4,2 m, pedido de tablones estructurales para una empresa constructora de Toruń). Wahan clasifica la *tarcica* (madera aserrada), Rustam apaga la cinta durante una breve pausa. Suena el teléfono del puesto. La Señora Ania:
+Miércoles, 2026-05-06, 10:15. Mykoła acaba de terminar el aserrado del tercer rollizo de la partida de picea común (especie *Picea abies*, entrega del Distrito Forestal de Drawno, 16 rollizos de diámetro 280-340 mm, longitud 4,2 m, pedido de tablones estructurales para una empresa constructora de Toruń). Wasyl clasifica la *tarcica* (madera aserrada), Mykoła apaga la cinta durante una breve pausa. Suena el teléfono del puesto. La Señora Ania:
 
-> **La Señora Ania:** „Rustam, ven al puesto del clasificador en 15 minutos. Esa partida de picea de Drawno. La voy a clasificar visualmente según PN-EN 1611-1. Necesito un asistente. Wahan puede quedarse en la P3, Marek se hará cargo de la supervisión."
+> **La Señora Ania:** „Mykoła, ven al puesto del clasificador en 15 minutos. Esa partida de picea de Drawno. La voy a clasificar visualmente según PN-EN 1611-1. Necesito un asistente. Wasyl puede quedarse en la P3, Marek se hará cargo de la supervisión."
 >
-> **Rustam:** „¿Qué tengo que traer?"
+> **Mykoła:** „¿Qué tengo que traer?"
 >
 > **La Señora Ania:** „Cinta métrica metálica de 5 m, calibre digital, cuaderno de observaciones, bolígrafo. Lo demás lo tengo yo. Vienes, examinas cada tabla de la partida, aprendes lo que yo miro."
 
-A las 10:32 Rustam entra en la cabina de clasificación. La cabina es una zona delimitada de 8×4 m en la parte oeste de la nave, con buena iluminación natural (dos tragaluces de techo y lámparas LED 6000 K para trabajar en días nublados), una mesa calibrada de 3 m de longitud con tablero de madera dura (roble), una estantería con muestras de referencia de diez especies y clases (para comparación visual), y una pared con carteles de normas (esquemas impresos de PN-EN 1611-1 para madera de conífera y PN-EN 975-1 para madera de frondosa, ambos en traducciones polacas del PKN). Sobre la mesa hay 48 tablas de picea de los tres primeros rollizos ya clasificados. La Señora Ania con bata blanca de trabajo con el logotipo de EGIDA, con una placa identificativa: „Anna Kowalczyk, clasificadora de *tarcica*, certificado PN-EN 1611-1 núm. 2014/ITD/312, acreditación ITB PN-EN 14081 núm. 2020/ITB/087".
+A las 10:32 Mykoła entra en la cabina de clasificación. La cabina es una zona delimitada de 8×4 m en la parte oeste de la nave, con buena iluminación natural (dos tragaluces de techo y lámparas LED 6000 K para trabajar en días nublados), una mesa calibrada de 3 m de longitud con tablero de madera dura (roble), una estantería con muestras de referencia de diez especies y clases (para comparación visual), y una pared con carteles de normas (esquemas impresos de PN-EN 1611-1 para madera de conífera y PN-EN 975-1 para madera de frondosa, ambos en traducciones polacas del PKN). Sobre la mesa hay 48 tablas de picea de los tres primeros rollizos ya clasificados. La Señora Ania con bata blanca de trabajo con el logotipo de EGIDA, con una placa identificativa: „Anna Kowalczyk, clasificadora de *tarcica*, certificado PN-EN 1611-1 núm. 2014/ITD/312, acreditación ITB PN-EN 14081 núm. 2020/ITB/087".
 
-La Señora Ania le sonríe a Rustam.
+La Señora Ania le sonríe a Mykoła.
 
-> **La Señora Ania:** „Buenos días, Rustam. Hoy te voy a enseñar cómo leo una tabla. No vas a clasificar solo, eso todavía no puedes, pero vas a aprender a medir, anotar y preparar mi trabajo. Es una operación de dos personas: yo miro, tú mides, juntos llegamos a la clase. Al cabo de 60 tablas, dos veces por semana durante un año, te convertirás en un muy buen asistente. Y dentro de cinco a siete años, si quieres, irás a la formación en el Instituto de Tecnología de la Madera en Poznań, conseguirás el certificado, y entonces clasificarás solo. Hoy estás en el primer día de ese camino."
+> **La Señora Ania:** „Buenos días, Mykoła. Hoy te voy a enseñar cómo leo una tabla. No vas a clasificar solo, eso todavía no puedes, pero vas a aprender a medir, anotar y preparar mi trabajo. Es una operación de dos personas: yo miro, tú mides, juntos llegamos a la clase. Al cabo de 60 tablas, dos veces por semana durante un año, te convertirás en un muy buen asistente. Y dentro de cinco a siete años, si quieres, irás a la formación en el Instituto de Tecnología de la Madera en Poznań, conseguirás el certificado, y entonces clasificarás solo. Hoy estás en el primer día de ese camino."
 
-Rustam asiente, abre el cuaderno. En la parte superior de la página escribe: „PN-EN 1611-1, asistencia de clasificadora. Miércoles 6 de mayo de 2026. Partida picea Drawno, 16 rollizos, 60 tablas." La Señora Ania toma la primera tabla, la coloca sobre la mesa, enciende la lámpara superior. Empieza la lección segunda.
+Mykoła asiente, abre el cuaderno. En la parte superior de la página escribe: „PN-EN 1611-1, asistencia de clasificadora. Miércoles 6 de mayo de 2026. Partida picea Drawno, 16 rollizos, 60 tablas." La Señora Ania toma la primera tabla, la coloca sobre la mesa, enciende la lámpara superior. Empieza la lección segunda.
 
 ## Objetivos
 
@@ -157,33 +157,33 @@ Las tres medidas se toman **después del secado** a la humedad de destino (en ca
 - **Resina** (*resin*): sustancia transparente o ambarina que rellena inclusiones o nudos. La clasificadora evalúa el tamaño de las inclusiones aisladas más el número por cada metro.
 
 ::: example
-**La Señora Ania y Rustam, tabla 17, 11:03.**
+**La Señora Ania y Mykoła, tabla 17, 11:03.**
 
-Tabla de picea, longitud 4,2 m, anchura 150 mm, espesor 25 mm. La Señora Ania coloca la tabla sobre la mesa con la cara hacia arriba, enciende la lámpara superior, la gira hacia la ventana (luz natural del tragaluz). Rustam se coloca a su derecha, con la cinta y el calibre.
+Tabla de picea, longitud 4,2 m, anchura 150 mm, espesor 25 mm. La Señora Ania coloca la tabla sobre la mesa con la cara hacia arriba, enciende la lámpara superior, la gira hacia la ventana (luz natural del tragaluz). Mykoła se coloca a su derecha, con la cinta y el calibre.
 
-> **La Señora Ania:** „Nudos, Rustam, desde el principio de la tabla."
+> **La Señora Ania:** „Nudos, Mykoła, desde el principio de la tabla."
 >
-> **Rustam** (avanza a lo largo de la tabla de izquierda a derecha, mide): „Nudo 1 a 320 mm del extremo, diámetro 18 mm, sano, anillo circundante continuo. Nudo 2 a 780 mm, diámetro 14 mm, sano. Nudo 3 a 1620 mm, 22 mm, sano. Nudo 4 a 2100 mm, 12 mm, sano. Nudo 5 a 2950 mm, 38 mm, muerto. Nudo 6 a 3680 mm, 16 mm, sano. En total 6 nudos, el mayor 38 mm muerto."
+> **Mykoła** (avanza a lo largo de la tabla de izquierda a derecha, mide): „Nudo 1 a 320 mm del extremo, diámetro 18 mm, sano, anillo circundante continuo. Nudo 2 a 780 mm, diámetro 14 mm, sano. Nudo 3 a 1620 mm, 22 mm, sano. Nudo 4 a 2100 mm, 12 mm, sano. Nudo 5 a 2950 mm, 38 mm, muerto. Nudo 6 a 3680 mm, 16 mm, sano. En total 6 nudos, el mayor 38 mm muerto."
 >
 > **La Señora Ania:** „Bien. El nudo 5 descalifica de G2-1 (admisibles muertos hasta 10 mm). Queda G2-2 o G2-3. Comprueba las fendas."
 >
-> **Rustam** (gira la tabla, mira las testas): „Testa izquierda: fenda de testa de 4 mm de anchura, 65 mm de longitud. Testa derecha: fenda de 2 mm × 40 mm. Cara visible: fenda longitudinal a la altura del nudo 5, anchura 2 mm, longitud 180 mm. Cara inferior: dos fendas menores, 1 mm de anchura cada una, 80 mm de longitud cada una."
+> **Mykoła** (gira la tabla, mira las testas): „Testa izquierda: fenda de testa de 4 mm de anchura, 65 mm de longitud. Testa derecha: fenda de 2 mm × 40 mm. Cara visible: fenda longitudinal a la altura del nudo 5, anchura 2 mm, longitud 180 mm. Cara inferior: dos fendas menores, 1 mm de anchura cada una, 80 mm de longitud cada una."
 >
 > **La Señora Ania:** „Las fendas entran en G2-2. ¿*Oblina*?"
 >
-> **Rustam** (gira la tabla de canto): „Canto izquierdo limpio. Canto derecho: *oblina* longitud 240 mm, anchura 12 mm en el punto más ancho."
+> **Mykoła** (gira la tabla de canto): „Canto izquierdo limpio. Canto derecho: *oblina* longitud 240 mm, anchura 12 mm en el punto más ancho."
 >
 > **La Señora Ania:** „G2-2 (hasta 20 mm × 300 mm). ¿Curvatura?"
 >
-> **Rustam** (coloca la tabla plana): „Sweep: 5 mm en el centro. Spring: 3 mm. Twist: un extremo 2 mm sobre la mesa."
+> **Mykoła** (coloca la tabla plana): „Sweep: 5 mm en el centro. Spring: 3 mm. Twist: un extremo 2 mm sobre la mesa."
 >
 > **La Señora Ania:** „G2-2 (sweep hasta 10 mm). ¿Defectos biológicos?"
 >
-> **Rustam:** „Azulado en la albura, alrededor del 8% de la superficie, superficial. Sin moho, sin pudrición. Resina: una inclusión de 18 mm junto al nudo 3."
+> **Mykoła:** „Azulado en la albura, alrededor del 8% de la superficie, superficial. Sin moho, sin pudrición. Resina: una inclusión de 18 mm junto al nudo 3."
 >
 > **La Señora Ania:** „Azulado 8% entra en G2-2 (hasta 100% superficial). Tabla final: **G2-2**. Anótalo."
 
-Rustam anota: „Tabla 17: G2-2. Justificación: nudo 5 muerto 38 mm, *oblina* 12×240, azulado 8% superficial". Coloca la tabla en la pila G2-2 (la segunda por la derecha).
+Mykoła anota: „Tabla 17: G2-2. Justificación: nudo 5 muerto 38 mm, *oblina* 12×240, azulado 8% superficial". Coloca la tabla en la pila G2-2 (la segunda por la derecha).
 :::
 
 ### El papel del operador como asistente: qué se puede y qué no se puede
@@ -220,19 +220,19 @@ Requisitos previos: al menos 3 años de trabajo en aserradero en contacto direct
 
 El certificado es válido **5 años**, transcurridos los cuales se exige una formación de renovación (2 días). Los clasificadores de EGIDA renuevan cada 4 años, con margen de seguridad.
 
-Rustam hoy está en su primer año de trabajo autónomo. Si decide emprender el camino de clasificador, podrá inscribirse al curso como muy pronto en 2029 (tras tres años de experiencia más seis meses de asistencia). Obtendría el certificado hacia 2029-2030.
+Mykoła hoy está en su primer año de trabajo autónomo. Si decide emprender el camino de clasificador, podrá inscribirse al curso como muy pronto en 2029 (tras tres años de experiencia más seis meses de asistencia). Obtendría el certificado hacia 2029-2030.
 
 ::: tip
-En EGIDA hay seis trabajadores con certificado de clasificación visual: la Señora Ania (principal, 12 años), la Señora Grażyna (9 años), el Señor Mirosław (jubilado, apoya como refuerzo), tres operadores de M3 tras formación de los años 2021-2024. Composición semanal: Ania cuatro días, Grażyna dos días, Mirosław en sustitución. La clasificación cubre 5 turnos por semana. Si Rustam obtiene el certificado en 2030, se convertirá en el séptimo clasificador, lo que permitirá a EGIDA añadir un turno adicional de clasificación (capacidad actual 60 m³ al día; al sumar la séptima persona, 75 m³). La decisión de invertir en la certificación de un trabajador se traduce directamente en aumento del rendimiento.
+En EGIDA hay seis trabajadores con certificado de clasificación visual: la Señora Ania (principal, 12 años), la Señora Grażyna (9 años), el Señor Mirosław (jubilado, apoya como refuerzo), tres operadores de M3 tras formación de los años 2021-2024. Composición semanal: Ania cuatro días, Grażyna dos días, Mirosław en sustitución. La clasificación cubre 5 turnos por semana. Si Mykoła obtiene el certificado en 2030, se convertirá en el séptimo clasificador, lo que permitirá a EGIDA añadir un turno adicional de clasificación (capacidad actual 60 m³ al día; al sumar la séptima persona, 75 m³). La decisión de invertir en la certificación de un trabajador se traduce directamente en aumento del rendimiento.
 :::
 
 ### Ritmo y cadencia de la asistencia: 25 tablas por hora
 
-La Señora Ania con Rustam clasifica la picea de Drawno al ritmo siguiente:
+La Señora Ania con Mykoła clasifica la picea de Drawno al ritmo siguiente:
 
-- **Primera tabla:** 5 minutos (Rustam está aprendiendo, la Señora Ania explica cada criterio, miden juntos despacio).
-- **Tablas 2-10:** 4 minutos por tabla (Rustam aún aprende, pero más rápido).
-- **Tablas 11-30:** 3 minutos por tabla (Rustam mide ya con fluidez, la Señora Ania decide rápido).
+- **Primera tabla:** 5 minutos (Mykoła está aprendiendo, la Señora Ania explica cada criterio, miden juntos despacio).
+- **Tablas 2-10:** 4 minutos por tabla (Mykoła aún aprende, pero más rápido).
+- **Tablas 11-30:** 3 minutos por tabla (Mykoła mide ya con fluidez, la Señora Ania decide rápido).
 - **Tablas 31-60:** 2,5 minutos por tabla (ritmo establecido, pocas preguntas).
 
 Media 2,5-3 minutos por tabla = 20-24 tablas por hora. La Señora Ania sin asistencia haría 15 tablas por hora (tiene que medir, anotar y apilar ella sola). Diferencia del 60% a favor de la pareja.
@@ -246,9 +246,9 @@ En el transcurso de la partida de 60 tablas (alrededor de 3 horas de trabajo):
 
 Distribución típica para un suministro del Distrito Forestal de Drawno (buenas condiciones de crecimiento de la picea, menor presión fúngica que en Pomerania).
 
-### Qué anota Rustam y qué queda en la ficha
+### Qué anota Mykoła y qué queda en la ficha
 
-Rustam anota en el cuaderno cada tabla: número, clase, 2-3 justificaciones de los defectos más importantes. Tras las 60 tablas (13:30) la Señora Ania traslada los datos del cuaderno de Rustam al formulario **EGIDA KLW-001** (ficha de clasificación visual), único para toda la partida. El formulario incluye:
+Mykoła anota en el cuaderno cada tabla: número, clase, 2-3 justificaciones de los defectos más importantes. Tras las 60 tablas (13:30) la Señora Ania traslada los datos del cuaderno de Mykoła al formulario **EGIDA KLW-001** (ficha de clasificación visual), único para toda la partida. El formulario incluye:
 
 - **Datos de la partida**: número, entrega, especie, número de tablas, dimensiones estándar.
 - **Distribución de clases**: número de tablas en cada clase y porcentaje.
@@ -259,24 +259,24 @@ Rustam anota en el cuaderno cada tabla: número, clase, 2-3 justificaciones de l
 
 La ficha KLW-001 va al expediente de la partida (más escaneo al sistema ERP), con retención de 5 años, disponible en caso de reclamación del cliente.
 
-### Segunda escena: Rustam reconoce solo la clase G2-3, 13:45
+### Segunda escena: Mykoła reconoce solo la clase G2-3, 13:45
 
-A las 13:45, hacia el final de la partida de picea, la Señora Ania toma la tabla 58. Mira brevemente, dice: „Rustam, pruébalo tú. No me digas de inmediato la clase, solo mide y describe. Te diré luego si coincido con tu evaluación."
+A las 13:45, hacia el final de la partida de picea, la Señora Ania toma la tabla 58. Mira brevemente, dice: „Mykoła, pruébalo tú. No me digas de inmediato la clase, solo mide y describe. Te diré luego si coincido con tu evaluación."
 
-Rustam toma la tabla. Ve numerosos nudos (al menos 10 en una tabla de 4,2 m), dos muertos de 25 mm cada uno, fenda longitudinal visible de 4 mm × 600 mm, *oblina* en el canto de 25 mm × 400 mm, twist de 5 mm en un extremo. Azulado extenso, 40% de la superficie, con profundidad de hasta 3 mm.
+Mykoła toma la tabla. Ve numerosos nudos (al menos 10 en una tabla de 4,2 m), dos muertos de 25 mm cada uno, fenda longitudinal visible de 4 mm × 600 mm, *oblina* en el canto de 25 mm × 400 mm, twist de 5 mm en un extremo. Azulado extenso, 40% de la superficie, con profundidad de hasta 3 mm.
 
-Rustam mide, anota, hace el balance mentalmente:
+Mykoła mide, anota, hace el balance mentalmente:
 - Nudos muertos de 25 mm = superan G2-2 (hasta 20 mm), van a G2-3.
 - Fenda longitudinal de 4 mm × 600 mm = supera G2-2 (hasta 3 mm × 800 mm; la longitud cabría, pero 4 mm es demasiado en anchura), G2-3.
 - *Oblina* 25 mm × 400 mm = supera G2-2 (20 × 300), G2-3.
 - Twist 5 mm = G2-3 (G2-2 en el límite).
 - Azulado 40% profundo = supera G2-2 (hasta 2 mm de profundidad, aquí 3 mm), G2-3.
 
-Cinco defectos indican G2-3. Rustam dice: „En mi opinión, G2-3. Cinco criterios por encima de G2-2."
+Cinco defectos indican G2-3. Mykoła dice: „En mi opinión, G2-3. Cinco criterios por encima de G2-2."
 
-La Señora Ania asiente. „De acuerdo. Tabla 58: G2-3. Bien, Rustam. Lo has aprendido en la primera partida en la que asistes. Es buena señal."
+La Señora Ania asiente. „De acuerdo. Tabla 58: G2-3. Bien, Mykoła. Lo has aprendido en la primera partida en la que asistes. Es buena señal."
 
-Rustam coloca la tabla en la pila G2-3. Anota en el cuaderno, toma nota mental con un pequeño check: „primera propuesta propia de clase, coincidente con la clasificadora".
+Mykoła coloca la tabla en la pila G2-3. Anota en el cuaderno, toma nota mental con un pequeño check: „primera propuesta propia de clase, coincidente con la clasificadora".
 
 ### Resumen de la lección segunda
 
@@ -288,7 +288,7 @@ Papel del operador como asistente: mide, anota, pregunta, aprende. **No firma**,
 
 Camino al certificado PN-EN 1611-1: curso de 5 días en el ITD de Poznań, examen, requisito previo de 3 años de experiencia más 6 meses de asistencia. Vigencia de 5 años. Coste de 3500 PLN netos, financiado por EGIDA para los trabajadores interesados.
 
-Hoy Rustam ha recorrido la primera partida de asistencia (60 tablas de picea de Drawno, 3 horas). Distribución de clases: G2-0 dos, G2-1 doce, G2-2 treinta, G2-3 catorce, desecho dos. Ficha KLW-001 firmada por la Señora Ania, Rustam, Marek. Primera propuesta propia de clase (tabla 58, G2-3) coincidente con la clasificadora.
+Hoy Mykoła ha recorrido la primera partida de asistencia (60 tablas de picea de Drawno, 3 horas). Distribución de clases: G2-0 dos, G2-1 doce, G2-2 treinta, G2-3 catorce, desecho dos. Ficha KLW-001 firmada por la Señora Ania, Mykoła, Marek. Primera propuesta propia de clase (tabla 58, G2-3) coincidente con la clasificadora.
 
 En la siguiente lección (m3-w2-l3) pasamos de la clasificación visual a la **clasificación resistente conforme a PN-EN 14081**: por qué tenemos dos normas distintas, qué es el módulo de elasticidad, por qué el clasificador resistente necesita una acreditación adicional del ITB.
 

@@ -163,7 +163,7 @@ D) Sam naprawisz, tak cię uczył pan Henryk.
 
 **Pytanie 10 (integruje T3 l8 + T3 l7, 4 pkt)**
 
-Ty na P3 LT70 masz wibrację 10 Hz (bicie koła). Adrian na P2 LT30 (twój podopieczny tego dnia) woła: „Rustam, chyba mam fale na desce". Jesteś w trakcie eskalacji do pana Krzysztofa Wood-Mizer. Kto priorytet? Jak działasz?
+Ty na P3 LT70 masz wibrację 10 Hz (bicie koła). Adrian na P2 LT30 (twój podopieczny tego dnia) woła: „Mykoła, chyba mam fale na desce". Jesteś w trakcie eskalacji do pana Krzysztofa Wood-Mizer. Kto priorytet? Jak działasz?
 
 A) Zostaw Adriana samego, skup się na pilnej usterce LT70.
 B) Adrian pierwszy – zatrzymaj swoją LT70 (i tak STOP z powodu bicia), przejdź do Adriana 8 m, sprawdź fale wzrokowo, jeśli to stępienie taśmy (operator-level), zleć Adrianowi wymianę pod twoją obserwacją, wypełnij wpis w jego dzienniku; potem wróć do LT70 i dokończ telefon do Pana Krzysztofa.
@@ -178,7 +178,7 @@ D) Obie maszyny STOP, czekaj aż Marek przyjdzie, potem ogarnij.
 
 **Pytanie 11 (integruje T4 l2 + Wyrok SN I NSNc 152/20, 4 pkt)**
 
-Klient Jacek Wesołowski Dom-Bud Mrągowo dzwoni: „Rustam, partia sosny ZLE-2026-06-015 ma deski 174 mm zamiast zamówionych 175 mm, odstępuję od umowy, zwrot pieniędzy". Ty wypełniasz EGIDA-RPW-001 (raport reklamacji). Jak klasyfikujesz i jaką odpowiedź formułujesz?
+Klient Jacek Wesołowski Dom-Bud Mrągowo dzwoni: „Mykoła, partia sosny ZLE-2026-06-015 ma deski 174 mm zamiast zamówionych 175 mm, odstępuję od umowy, zwrot pieniędzy". Ty wypełniasz EGIDA-RPW-001 (raport reklamacji). Jak klasyfikujesz i jaką odpowiedź formułujesz?
 
 A) Akceptuję odstąpienie, zwracam pieniądze, KEP-001 aktualizacja na stratę.
 B) Klasyfikuję jako **wada nieistotna wg KC art. 556¹ § 4 + art. 560 § 4** (tolerancja 1 mm mieści się w PN-EN 336 ±2 mm standardowej). Wyrok SN I NSNc 152/20 z 17.02.2021: wada musi być istotna, żeby uzasadniać odstąpienie. Odmowa odstąpienia, proponuję obniżenie ceny o 3-5% (art. 560 § 1 KC). Email do klienta wg szablonu EGIDA wariant 1, podpis elektroniczny, retencja 12 miesięcy.
@@ -191,7 +191,7 @@ D) Odmawiam szorstko „to tolerancja, do widzenia".
 
 **Pytanie 12 (integruje T4 l3 + T4 l1 + T3 l1-l4, 4 pkt)**
 
-Audytor NEPCon Krzysztof Kowalski przyjeżdża na audyt FSC-C112233. Pyta cię: „Pan Rustam, proszę pokazać chain of custody zlecenia ZLE-2026-06-020 (buk MebelPro)". Co pokazujesz?
+Audytor NEPCon Krzysztof Kowalski przyjeżdża na audyt FSC-C112233. Pyta cię: „Pan Mykoła, proszę pokazać chain of custody zlecenia ZLE-2026-06-020 (buk MebelPro)". Co pokazujesz?
 
 A) Tylko KDP-001 (decyzje parametryczne).
 B) Pełny łańcuch: (1) dokument odbioru pakietu z etykietą FSC, (2) KDP-001, (3) KEP-001 wypełniony z Panią Anią, (4) KS-001 całej zmiany, (5) raport suszenia premium Drew-Sus, (6) etykieta partii końcowej, (7) rejestr kwartalny FSC Connect, (8) faktura sprzedaży klienta. Dostępność 15 min (ISO 9001).
@@ -204,7 +204,7 @@ D) Powiem audytorowi: „proszę zadawać pytania konkretne, nie ogólne".
 
 **Pytanie 13 (integruje T4 l5 + T4 l6 + Ustawa dozorowa 2000, 4 pkt)**
 
-Przekazujesz zmianę Oleksijowi (M3 trainee Ukrainiec) wypełniając EGIDA-PZ-001. W polu „Planowane nieobecności w nadchodzącym tygodniu" wpisujesz: „15-19.09.2026 kurs UDT IIWJO W-M + SEP G1-E w ZDZ Olsztyn, wnoszę o urlop szkoleniowy z KP art. 103¹ § 1". Oleksij pyta: „Co to daje finansowo?". Twoja odpowiedź?
+Przekazujesz zmianę Bohdanowi (M3 trainee Ukrainiec) wypełniając EGIDA-PZ-001. W polu „Planowane nieobecności w nadchodzącym tygodniu" wpisujesz: „15-19.09.2026 kurs UDT IIWJO W-M + SEP G1-E w ZDZ Olsztyn, wnoszę o urlop szkoleniowy z KP art. 103¹ § 1". Bohdan pyta: „Co to daje finansowo?". Twoja odpowiedź?
 
 A) Nic, tylko dyplom.
 B) Inwestycja 3000 zł (UDT 2500 + SEP 500). Pensja extra 500 zł/mies. (350 UDT + 150 SEP zgodnie z regulaminem EGIDA). ROI 5,7 mies. Urlop szkoleniowy z KP art. 103¹ = płatny, nie traci pensji za tydzień kursu. Ustawa dozorowa 2000 art. 12-13 definiuje uprawnienia UDT, Prawo energetyczne 1997 art. 54 definiuje uprawnienia SEP.
@@ -219,12 +219,12 @@ D) Pensja minus 2500, bo kurs z mojej kieszeni.
 
 **Pytanie 14 (integruje T4 l7 M3 + M1 cały + M2 cały, 4 pkt)**
 
-Jesteś w piątek 26.06.2026 z Markiem w biurze. Marek pyta: „Rustam, trzy obrazy twojej drogi, które ty byś wybrał do podsumowania?". Która odpowiedź pokazuje **zrozumienie meta-zasady łuku ciało → partia → zmiana**?
+Jesteś w piątek 26.06.2026 z Markiem w biurze. Marek pyta: „Mykoła, trzy obrazy twojej drogi, które ty byś wybrał do podsumowania?". Która odpowiedź pokazuje **zrozumienie meta-zasady łuku ciało → partia → zmiana**?
 
 A) Listopad 2025 pomocnik → marzec 2026 operator → czerwiec 2026 brygadzista.
 B) M1 ciało moje i kolegów w zasięgu 5 m (gesty STOP, pył IARC, buty S3) → M2 partia 1-3 m³ pod moim narzędziem (parametry taśmy, wilgotność, klasa A/B/C/D) → M3 zmiana 8 godzin z 15 osobami (4 kanały komunikacji, KAO-001 Adriana, reklamacja klienta, marża partii 5-15 tys. zł dziennie). Odpowiedzialność rośnie koncentrycznie, nie liniowo.
 C) M1 tani → M2 droższy → M3 najdroższy kurs.
-D) Wahan → Damian → samodzielnie, bez opiekuna.
+D) Wasyl → Damian → samodzielnie, bez opiekuna.
 
 *Uzasadnij rozwijając meta-zasadę 1 z l7 M3 + podaj jeden konkret z każdego modułu.*
 
@@ -234,7 +234,7 @@ D) Wahan → Damian → samodzielnie, bez opiekuna.
 
 Która z sytuacji z twojej drogi 9-miesięcznej **najlepiej pokazuje** meta-zasadę 3 „od przyjmowania poleceń do wydawania poleceń" w działaniu?
 
-A) Wahan mówi do ciebie „podaj kłodę" w listopadzie 2025.
+A) Wasyl mówi do ciebie „podaj kłodę" w listopadzie 2025.
 B) Ty mówisz do Adriana „zatrzymaj pilarkę, wymień taśmę, prędkość posuwu zjedź do 62%" w czerwcu 2026, podpisujesz KAO-001. To formalne polecenie operatorskie (ustne + pisemne) z odpowiedzialnością prawną KP art. 120 § 1 i § 2 + KP art. 100 § 1. Przeszedłeś od tego że ci podawano, do tego że ty wydajesz.
 C) Damian pokazuje ci, jak podłączyć prowadnice w marcu 2026.
 D) Marek podpisuje twoją KDP-001.
@@ -256,9 +256,9 @@ Każde pytanie 4 pkt w następującym rozkładzie:
 
 ### Odpowiedzi i uzasadnienia wzorcowe
 
-**Pyt. 1: C**. Bicie łożyska + wibracja 10 Hz w rączce + falisty rzaz = bicie koła > 0,5 mm (l8 T3, case Rustama 17.06.2026). Granica zewnętrzna twarda: wymiana łożyska wymaga prasy hydraulicznej + plomby antymanipulacyjnej + UDT prasy + gwarancji serwisowej Wood-Mizer. Przekroczenie granicy = zerwanie gwarancji + odpowiedzialność BHP + KP art. 120 § 1 (uszkodzenie maszyny). STOP, KKS-001, telefon do Marka, Marek do Pana Krzysztofa Wood-Mizer Polska.
+**Pyt. 1: C**. Bicie łożyska + wibracja 10 Hz w rączce + falisty rzaz = bicie koła > 0,5 mm (l8 T3, case Mykoły 17.06.2026). Granica zewnętrzna twarda: wymiana łożyska wymaga prasy hydraulicznej + plomby antymanipulacyjnej + UDT prasy + gwarancji serwisowej Wood-Mizer. Przekroczenie granicy = zerwanie gwarancji + odpowiedzialność BHP + KP art. 120 § 1 (uszkodzenie maszyny). STOP, KKS-001, telefon do Marka, Marek do Pana Krzysztofa Wood-Mizer Polska.
 
-**Pyt. 2: A**. Schemat A cant sawing + stellite 7/8-A13 + 32 st/min + 2200 PSI = parametry standardowe sosny świeżej dla klienta budowlanego (l5 T1 M3 + l1 T3 M3 case Rustama ZLE-077). Marża +600-900 zł przy średniej ±2800 zł potencjału decyzji parametrycznych (l6 T3). Schemat B (quarter sawing) niepotrzebny dla krokwi budowlanych (to klient meblarski), schemat C skrajnie ryzykowny (1900 PSI za nisko dla sosny świeżej), schemat D nadmiernie kosztowny.
+**Pyt. 2: A**. Schemat A cant sawing + stellite 7/8-A13 + 32 st/min + 2200 PSI = parametry standardowe sosny świeżej dla klienta budowlanego (l5 T1 M3 + l1 T3 M3 case Mykoły ZLE-077). Marża +600-900 zł przy średniej ±2800 zł potencjału decyzji parametrycznych (l6 T3). Schemat B (quarter sawing) niepotrzebny dla krokwi budowlanych (to klient meblarski), schemat C skrajnie ryzykowny (1900 PSI za nisko dla sosny świeżej), schemat D nadmiernie kosztowny.
 
 **Pyt. 3: B**. KP art. 120 § 1: „pracownik ponosi odpowiedzialność materialną w granicach rzeczywistej straty". KP art. 120 § 2: „odszkodowanie nie może przekroczyć trzymiesięcznego wynagrodzenia". Ograniczenie do 3 pensji (ok. 11000 zł). W praktyce 1/3 szkody jeśli nieumyślnie = ok. 1400 zł potrącenia. Marża minus 529 zł = ekonomika tartaku, nie szkoda operatora (l6 T3 M3). Umyślność z KP art. 122 § 1 = pełna szkoda, ale tu nie ma umyślności (operator pomylił parametry).
 
@@ -284,7 +284,7 @@ Każde pytanie 4 pkt w następującym rozkładzie:
 
 **Pyt. 14: B**. Meta-zasada 1 z l7 M3: odpowiedzialność rośnie koncentrycznie (ciało → partia → zmiana), nie liniowo. M1 = własne ciało + ciała kolegów 5 m (3 gesty STOP, pył IARC 1, buty S3, ochronniki słuchu 85 dB, transport 30 kg mężczyzna, plac kłód 37% śmierci). M2 = partia 1-3 m³ pod narzędziem (taśma 2200-2400 PSI, MC końcowa 12-15% konstrukcja, klasa A/B/C/D reguła najsłabszego, dziennik 8 pól, 4W). M3 = zmiana 8 godzin z 15 osobami (4 kanały komunikacji, KAO-001, EGIDA-PZ-001, reklamacja KC, marża 5-15 tys. zł dziennie).
 
-**Pyt. 15: B**. Meta-zasada 3 z l7 M3: „od przyjmowania poleceń do wydawania poleceń". Ustne polecenie „zatrzymaj, wymień taśmę, zjedź do 62%" + pisemne KAO-001 = dwuwarstwowa odpowiedzialność: (a) ustna z mocą nadzorczą (Adrian posłuszny), (b) pisemna z mocą dowodową (KAO-001 do akt osobowych, retencja 10 lat, dowód dla audytu). KP art. 100 § 1 obowiązki pracownika wobec przełożonego. KP art. 120 § 1 i § 2 odpowiedzialność za szkodę przy poleceniu. Rustam przeszedł: M1 odbiorca (Wahan „podaj kłodę") → M2 partner (Damian uczy, Rustam pyta) → M3 nadawca (Rustam „zatrzymaj" + podpis).
+**Pyt. 15: B**. Meta-zasada 3 z l7 M3: „od przyjmowania poleceń do wydawania poleceń". Ustne polecenie „zatrzymaj, wymień taśmę, zjedź do 62%" + pisemne KAO-001 = dwuwarstwowa odpowiedzialność: (a) ustna z mocą nadzorczą (Adrian posłuszny), (b) pisemna z mocą dowodową (KAO-001 do akt osobowych, retencja 10 lat, dowód dla audytu). KP art. 100 § 1 obowiązki pracownika wobec przełożonego. KP art. 120 § 1 i § 2 odpowiedzialność za szkodę przy poleceniu. Mykoła przeszedł: M1 odbiorca (Wasyl „podaj kłodę") → M2 partner (Damian uczy, Mykoła pyta) → M3 nadawca (Mykoła „zatrzymaj" + podpis).
 
 ---
 

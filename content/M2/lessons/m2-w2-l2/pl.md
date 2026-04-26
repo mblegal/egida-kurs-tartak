@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Wtorek, siódmy dzień tygodnia drugiego. Wczoraj Maricel zrozumiała, **co znaczy liczba 38%**. Dzisiaj nauczy się, **jak tę liczbę zdobyć tak, żeby była prawdziwa**. Bo pomiar wilgotności brzmi jak „wbij coś w drewno i odczytaj". Rzeczywistość jest dużo ciekawsza: ta sama deska, zmierzona w trzech różnych miejscach, daje trzy różne wyniki, i wszystkie są jednocześnie poprawne. Pytanie, **który wynik jest twoją decyzją**.
+Wtorek, siódmy dzień tygodnia drugiego. Wczoraj Sofía zrozumiała, **co znaczy liczba 38%**. Dzisiaj nauczy się, **jak tę liczbę zdobyć tak, żeby była prawdziwa**. Bo pomiar wilgotności brzmi jak „wbij coś w drewno i odczytaj". Rzeczywistość jest dużo ciekawsza: ta sama deska, zmierzona w trzech różnych miejscach, daje trzy różne wyniki, i wszystkie są jednocześnie poprawne. Pytanie, **który wynik jest twoją decyzją**.
 
-O 7:30 brygadzista Marek kładzie na stole dwa przyrządy. Pierwszy to wilgotnościomierz oporowy **Brookhuis FMC** z dwoma wbijanymi elektrodami i cyfrowym wyświetlaczem. Drugi to wilgotnościomierz pojemnościowy **Merlin HM8-WS25**, wielkości puderniczki, bez elektrod, tylko z okrągłą płytką do przyłożenia. Marek wręcza Maricel ten pierwszy: „Zacznij od oporowego. Za dwa miesiące dam ci pojemnościowy do tarcicy eksportowej, ale najpierw musisz zrozumieć, po co są dwie elektrody i dlaczego zawsze mierzysz w dwóch miejscach".
+O 7:30 brygadzista Marek kładzie na stole dwa przyrządy. Pierwszy to wilgotnościomierz oporowy **Brookhuis FMC** z dwoma wbijanymi elektrodami i cyfrowym wyświetlaczem. Drugi to wilgotnościomierz pojemnościowy **Merlin HM8-WS25**, wielkości puderniczki, bez elektrod, tylko z okrągłą płytką do przyłożenia. Marek wręcza Sofía ten pierwszy: „Zacznij od oporowego. Za dwa miesiące dam ci pojemnościowy do tarcicy eksportowej, ale najpierw musisz zrozumieć, po co są dwie elektrody i dlaczego zawsze mierzysz w dwóch miejscach".
 
 Ta lekcja jest o tym, **jak z wilgotnościomierza wydobyć wartość, której możesz zaufać** – i jak rozpoznać sytuacje, w których nawet poprawnie wykonany pomiar mówi ci co innego, niż myślisz.
 
@@ -38,7 +38,7 @@ Wilgotnościomierz puszcza przez elektrody mały prąd testowy (mikroamper), mie
 
 ### Elektrody: jakie, jak głęboko, w którą stronę
 
-Brookhuis FMC, który Maricel trzyma, ma dwie **elektrody wbijane** (izolowane w części bliskiej rękojeści, nieizolowane w końcówce). Izolacja ma sens: bez niej prąd płynąłby przez warstwę powierzchniową (zawsze wilgotniejszą lub suchszą niż wnętrze), fałszując pomiar.
+Brookhuis FMC, który Sofía trzyma, ma dwie **elektrody wbijane** (izolowane w części bliskiej rękojeści, nieizolowane w końcówce). Izolacja ma sens: bez niej prąd płynąłby przez warstwę powierzchniową (zawsze wilgotniejszą lub suchszą niż wnętrze), fałszując pomiar.
 
 **Głębokość wbicia**: dla deski 50 mm grubości wbijasz elektrody na **12–17 mm** (1/4–1/3 grubości). Dla deski 25 mm na 6–8 mm. Dla grubej kantówki 100 mm – na 25–30 mm. Zasada: **końcówka elektrody w rdzeniu deski, nie w warstwie powierzchniowej**.
 
@@ -54,7 +54,7 @@ Brookhuis FMC, który Maricel trzyma, ma dwie **elektrody wbijane** (izolowane w
 
 ### Dlaczego z dwóch stron deski – gradient wilgotności
 
-Tu zaczyna się sztuka. Maricel bierze deskę sosnową grubości 50 mm, świeżo zjechaną z pilarki, jeszcze ciepłą. Mierzy od strony górnej: **36%**. Odwraca deskę, mierzy od strony dolnej: **41%**. Która wartość jest prawdziwa?
+Tu zaczyna się sztuka. Sofía bierze deskę sosnową grubości 50 mm, świeżo zjechaną z pilarki, jeszcze ciepłą. Mierzy od strony górnej: **36%**. Odwraca deskę, mierzy od strony dolnej: **41%**. Która wartość jest prawdziwa?
 
 **Obie są prawdziwe. Deska ma gradient wilgotności.**
 
@@ -63,7 +63,7 @@ W drewnie świeżo ściętym i jeszcze niesuszonym woda jest rozłożona nierów
 - **Biel zewnętrzna** (powierzchnia i 5–10 mm wgłąb): najniższa wilgotność, bo woda odparowuje najpierw z powierzchni.
 - **Strona leżąca na ziemi lub przekładce**: wilgotniejsza, bo woda grawitacyjnie spływa w dół i nie odparowuje tak szybko jak od góry.
 
-**Zasada**: mierzysz **z góry i z dołu**, bierzesz średnią. Jeśli różnica przekracza 5 punktów procentowych (w przykładzie Maricel: 36% vs 41%, różnica 5), zapisujesz to jako „gradient wysoki" i zgłaszasz brygadziście. To znak, że deska potrzebuje sezonowania, **nie powinna iść prosto do suszarni komorowej** (bo pęknie od różnicy naprężeń).
+**Zasada**: mierzysz **z góry i z dołu**, bierzesz średnią. Jeśli różnica przekracza 5 punktów procentowych (w przykładzie Sofía: 36% vs 41%, różnica 5), zapisujesz to jako „gradient wysoki" i zgłaszasz brygadziście. To znak, że deska potrzebuje sezonowania, **nie powinna iść prosto do suszarni komorowej** (bo pęknie od różnicy naprężeń).
 
 ### Dlaczego w dwóch miejscach wzdłuż długości – czołówki vs środek
 
@@ -99,7 +99,7 @@ Nowoczesny wilgotnościomierz (Brookhuis, Exotek, Delmhorst) ma wbudowane **30�
 
 **Poprawka temperaturowa** jest drugim wymiarem. Kalibracja jest na 20°C. Zimą w hali 0–5°C **drewno ma większy opór przy tej samej wilgotności, więc wilgotnościomierz pokazuje wartość niższą niż rzeczywista** – trzeba dodać 1–3 punkty procentowe. Latem przy 30°C opór jest mniejszy – trzeba odjąć 1–2 punkty. Lepsze przyrządy mają czujnik temperatury i robią to automatycznie; w tańszych używasz tabelki.
 
-Maricel pracuje w hali ogrzewanej do 16°C. Poprawka temperaturowa jest niewielka (–0,5 pp). Poprawka gatunkowa dla sosny: –1,5 pp. Jej odczyt surowy 38% po poprawkach: **~36%**. To nadal świeże drewno, nadal powyżej PNW, decyzja handlowa się nie zmienia – ale teraz Maricel wie, że ta liczba jest prawdziwa.
+Sofía pracuje w hali ogrzewanej do 16°C. Poprawka temperaturowa jest niewielka (–0,5 pp). Poprawka gatunkowa dla sosny: –1,5 pp. Jej odczyt surowy 38% po poprawkach: **~36%**. To nadal świeże drewno, nadal powyżej PNW, decyzja handlowa się nie zmienia – ale teraz Sofía wie, że ta liczba jest prawdziwa.
 
 ### Limit fizyczny pomiaru oporowego – kiedy sięgnąć po pojemnościowy
 
@@ -123,7 +123,7 @@ Wilgotnościomierz oporowy działa wiarygodnie w zakresie **6–30% MC**. Poza t
 Liczba w zeszycie bez kontekstu jest nic nie warta. Standardowy zapis:
 
 ::: example
-**Kłoda 14, sosna, dostawa 04.04, pomiar 11.04 07:45 – Maricel**
+**Kłoda 14, sosna, dostawa 04.04, pomiar 11.04 07:45 – Sofía**
 - Pozycja A (czołówka dolna, 20 cm od końca, góra): 32%
 - Pozycja B (środek długości, góra): 38%
 - Pozycja C (środek długości, dół): 41%
@@ -133,7 +133,7 @@ Liczba w zeszycie bez kontekstu jest nic nie warta. Standardowy zapis:
 - Podpis: M. Santos
 :::
 
-Maricel przepisuje te dane do zeszytu pomiarowego i podpisuje. Zeszyt pomiarowy to **dokument zakładowy** – wraca w m2-w4-l5 (dokumentacja stanowiska). Bez podpisu zapis jest bezwartościowy. Z podpisem – staje się elementem ścieżki jakości: jeśli deska pójdzie do klienta i wróci z reklamacją „była za mokra", zeszyt pomiarowy pokazuje, że tartak wiedział i świadomie podjął decyzję.
+Sofía przepisuje te dane do zeszytu pomiarowego i podpisuje. Zeszyt pomiarowy to **dokument zakładowy** – wraca w m2-w4-l5 (dokumentacja stanowiska). Bez podpisu zapis jest bezwartościowy. Z podpisem – staje się elementem ścieżki jakości: jeśli deska pójdzie do klienta i wróci z reklamacją „była za mokra", zeszyt pomiarowy pokazuje, że tartak wiedział i świadomie podjął decyzję.
 
 ## Kluczowe terminy
 
@@ -178,6 +178,6 @@ Jutro (lekcja 3) poznasz **manipulację dłużycą** – dlaczego cały pień dz
 - Mylenie gradientu z błędem pomiaru – różnica 3–5 pp to informacja, nie wada. Brygadzista chce ją widzieć.
 - Pisanie wyniku bez podpisu, „bo nikt nie sprawdzi" – sprawdzi, jeśli będzie reklamacja. Podpis to profesjonalizm.
 
-**Case Maricel – do rozbudowania**: dlaczego brygadzista daje jej najpierw oporowy, pojemnościowy dopiero za dwa miesiące? Bo oporowy wymusza myślenie o strukturze drewna (gradient, głębokość), pojemnościowy daje „wygodną liczbę" i kursant może się nie nauczyć, dlaczego ta liczba jest w konkretnym miejscu. Kolejność dydaktyczna, nie finansowa.
+**Case Sofía – do rozbudowania**: dlaczego brygadzista daje jej najpierw oporowy, pojemnościowy dopiero za dwa miesiące? Bo oporowy wymusza myślenie o strukturze drewna (gradient, głębokość), pojemnościowy daje „wygodną liczbę" i kursant może się nie nauczyć, dlaczego ta liczba jest w konkretnym miejscu. Kolejność dydaktyczna, nie finansowa.
 
 **Słownik głoskowy PL**: „wilgotnościomierz" to jedno z najdłuższych polskich słów branżowych. Akceptuj skracanie na „miernik", „przyrząd", „higrometr" (słownikowo: higrometr to szerszy termin, też powietrze). W materiałach do druku zostaje pełna nazwa. W hali skracanie jest normalne i nie razi.

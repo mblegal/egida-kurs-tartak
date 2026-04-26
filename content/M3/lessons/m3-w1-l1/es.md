@@ -6,11 +6,11 @@ czas: 120
 
 ## Introducción
 
-Hace ocho semanas entraste al *tartak* (aserradero) como **pomocnik** (ayudante). Hace cuatro semanas aprobaste el examen del martes de M2 y te convertiste en **operador junior**. Hoy, en la puerta del vestuario, cuelga la nueva lista del turno. Tu apellido aparece por primera vez **sin asterisco**. El asterisco en el aserradero significaba una sola cosa: „trabaja bajo autorización del *brygadzista* (capataz), cada arranque por separado". Hoy no hay asterisco. Estás en la lista con letra normal, igual que Marek, igual que Tadeusz, igual que Hai hace tres meses. Eres **operador independiente**.
+Hace ocho semanas entraste al *tartak* (aserradero) como **pomocnik** (ayudante). Hace cuatro semanas aprobaste el examen del martes de M2 y te convertiste en **operador junior**. Hoy, en la puerta del vestuario, cuelga la nueva lista del turno. Tu apellido aparece por primera vez **sin asterisco**. El asterisco en el aserradero significaba una sola cosa: „trabaja bajo autorización del *brygadzista* (capataz), cada arranque por separado". Hoy no hay asterisco. Estás en la lista con letra normal, igual que Marek, igual que Tadeusz, igual que Andrij hace tres meses. Eres **operador independiente**.
 
 En M2, Marek, el *brygadzista*, estaba junto a tu máquina. Veía tu lista de comprobación. Pronunciaba la palabra „ruszasz" („arrancas") antes de cada ciclo. Eras responsable, pero su ojo era el último filtro entre tu mano y el pulsador verde. En M3, Marek ya no está a tu lado. Está en la máquina del capataz, dos puestos más allá. Tú **solo** tomas la decisión, solo aprietas el pulsador, solo reportas el resultado. **El reporte llega al *brygadzista* después del hecho, no antes de la operación.**
 
-Este único cambio pesa más que todos los demás de M3. En un momento te presentaremos a Rustam, que hoy por primera vez apareció en la lista sin asterisco. Rustam hizo M1 y M2 contigo, en la misma cohorte de la Fundación EGIDA. Llegó de Tayikistán hace dos años. Su polaco suena suave, pero su mano ya habla el idioma de la sierra. Hoy es su primer día de M3, igual que el tuyo. Estaremos con él durante las próximas cuatro semanas.
+Este único cambio pesa más que todos los demás de M3. En un momento te presentaremos a Mykoła, que hoy por primera vez apareció en la lista sin asterisco. Mykoła hizo M1 y M2 contigo, en la misma cohorte de la Fundación EGIDA. Llegó de Ucrania hace dos años. Su polaco suena suave, pero su mano ya habla el idioma de la sierra. Hoy es su primer día de M3, igual que el tuyo. Estaremos con él durante las próximas cuatro semanas.
 
 ## Objetivos
 
@@ -48,27 +48,27 @@ Al cruzar el umbral de M3 aparecen tres áreas que en M2 formalmente no tenías.
 La mayor trampa de los operadores que entran en M3: **la ilusión de libertad**. Cuando Marek ya no está al lado, es fácil concluir que „nadie mira". Nadie mira en ese segundo concreto, pero todos miran después. La cámara CCTV graba 30 días (ajuste estándar en la mayoría de las plantas). El diario de la máquina permanece 5 años. La ficha de lote con tu firma, si se refiere a *tarcica* constructiva, permanece 10 años en el archivo del cliente. Por la mañana nadie ve. Al cabo de dos meses lo ven todos, porque el cliente reclama un lote que tenía una grieta frontal y alguien abre la ficha.
 :::
 
-### Quién es Rustam
+### Quién es Mykoła
 
-Rustam Nazarov llegó a Polonia hace dos años desde Dusambé. Tenía 24 años, había terminado un técnico mecánico en Tayikistán y aprendió ruso en la escuela. De polaco no sabía nada. Los primeros ocho meses trabajó en el almacén de Lidl cerca de Varsovia, movía palés, aprendía las palabras „wózek" (carretilla), „paleta" (palé), „stawka godzinowa" (tarifa por hora), „umowa zlecenie" (contrato por encargo). Vivía con tres compañeros de Tayikistán en una habitación en el barrio de Praga, por 900 PLN por persona. Ganaba 3800 PLN netos. Llamaba a su mujer una vez por semana.
+Mykoła Hrycenko llegó a Polonia hace dos años desde Poltava. Tenía 24 años, había terminado un técnico mecánico en Ucrania y aprendió ruso en la escuela. De polaco no sabía nada. Los primeros ocho meses trabajó en el almacén de Lidl cerca de Varsovia, movía palés, aprendía las palabras „wózek" (carretilla), „paleta" (palé), „stawka godzinowa" (tarifa por hora), „umowa zlecenie" (contrato por encargo). Vivía con tres compañeros de Ucrania en una habitación en el barrio de Praga, por 900 PLN por persona. Ganaba 3800 PLN netos. Llamaba a su mujer una vez por semana.
 
-Al curso de la Fundación EGIDA lo apuntó un amigo de Daguestán, que vio un cartel en la mezquita de la calle Pułtuska. „Rustam, vete al aserradero. En el aserradero hay aire, no almacén. En el aserradero pagan mejor. En el aserradero te mantienen más tiempo que un contrato por encargo." Rustam fue. Terminó M1 con un 81%. M2 con un 84%. No es la estrella de la cohorte, la estrella es Hai, el vietnamita, que aprobó M2 con un 94%. Pero Rustam es **sólido**. El *brygadzista* Marek escribe en su ficha del puesto una palabra polaca que Rustam ya entiende: *konsekwentny* (constante).
+Al curso de la Fundación EGIDA lo apuntó un amigo de Volinia, que vio un cartel en la iglesia ortodoxa de la calle Pułtuska. „Mykoła, vete al aserradero. En el aserradero hay aire, no almacén. En el aserradero pagan mejor. En el aserradero te mantienen más tiempo que un contrato por encargo." Mykoła fue. Terminó M1 con un 81%. M2 con un 84%. No es la estrella de la cohorte, la estrella es Andrij de Leópolis, que aprobó M2 con un 94%. Pero Mykoła es **sólido**. El *brygadzista* Marek escribe en su ficha del puesto una palabra polaca que Mykoła ya entiende: *konsekwentny* (constante).
 
-Hoy Rustam está frente a la sierra de cinta P3 en la nave del aserradero EGIDA. Por primera vez sin Marek al lado. Marek está a 40 metros, en la sierra circular P1, donde hoy arranca un nuevo ayudante M1 de Armenia. Rustam sabe que Marek vendrá a verle solo al cabo de dos horas, con el diario de la máquina en la mano. Hasta entonces Rustam toma solo cada decisión en P3.
+Hoy Mykoła está frente a la sierra de cinta P3 en la nave del aserradero EGIDA. Por primera vez sin Marek al lado. Marek está a 40 metros, en la sierra circular P1, donde hoy arranca un nuevo ayudante M1 de Ucrania. Mykoła sabe que Marek vendrá a verle solo al cabo de dos horas, con el diario de la máquina en la mano. Hasta entonces Mykoła toma solo cada decisión en P3.
 
 ::: example
-Rustam no es „un héroe nuevo que reemplaza a Hai". Hai sigue trabajando en el mismo aserradero. Va tres meses por delante de Rustam, ya es operador independiente desde hace un trimestre, maneja la sierra circular P2. Lo encontrarás en T4 de este módulo, en la lección sobre reclamaciones del cliente. Hai ha participado dos veces en su vida en una visita de reclamación, sabe cómo comportarse. Rustam todavía no lo sabe. Por eso tú, junto con Rustam, irás a pedir consejo a Hai. Así funciona el ascenso en el aserradero polaco: cada peldaño aprende del peldaño inmediatamente superior.
+Mykoła no es „un héroe nuevo que reemplaza a Andrij". Andrij sigue trabajando en el mismo aserradero. Va tres meses por delante de Mykoła, ya es operador independiente desde hace un trimestre, maneja la sierra circular P2. Lo encontrarás en T4 de este módulo, en la lección sobre reclamaciones del cliente. Andrij ha participado dos veces en su vida en una visita de reclamación, sabe cómo comportarse. Mykoła todavía no lo sabe. Por eso tú, junto con Mykoła, irás a pedir consejo a Andrij. Así funciona el ascenso en el aserradero polaco: cada peldaño aprende del peldaño inmediatamente superior.
 :::
 
-### El primer lunes de Rustam
+### El primer lunes de Mykoła
 
-Son las 6:47 de la mañana, 18 minutos antes del arranque del turno. Rustam entra en la nave, deja la chaqueta en el vestuario, coge del armario el casco, las gafas, los protectores auditivos, los guantes de algodón. Pasa junto al tablero con la lista del turno. Recorre con el dedo su apellido. No hay asterisco. El corazón le late fuerte durante tres segundos, después vuelve a la normalidad.
+Son las 6:47 de la mañana, 18 minutos antes del arranque del turno. Mykoła entra en la nave, deja la chaqueta en el vestuario, coge del armario el casco, las gafas, los protectores auditivos, los guantes de algodón. Pasa junto al tablero con la lista del turno. Recorre con el dedo su apellido. No hay asterisco. El corazón le late fuerte durante tres segundos, después vuelve a la normalidad.
 
 En la sierra P3, cinco minutos antes del arranque, hace lo que hacía en M2: los cinco puntos de la lista de comprobación. Protecciones en su sitio. Cinta tensada (2300 PSI, dentro del rango 2200–2400). El extractor zumba. Marcha en vacío fluida, sin bamboleo de la rueda. En un radio de 3 metros alrededor de la máquina no hay nadie. En M2, en ese momento, diría: „Sprawdzone, Marek". Hoy no hay nadie a quien decírselo.
 
-Rustam contiene la respiración un instante. Mira el pulsador verde. En M2 la autorización era la palabra del *brygadzista*. En M3 la autorización es el **estado de la lista de comprobación**. Los cinco puntos han pasado. El estado es positivo. La autorización para arrancar salió de su propia cabeza, no de la boca de Marek. Rustam aprieta el pulsador. La cinta arranca. Los primeros 10 segundos mira a la máquina, no a la *kłoda* (rollizo). El sonido es regular. La cinta no bambolea. Coge el primer rollizo.
+Mykoła contiene la respiración un instante. Mira el pulsador verde. En M2 la autorización era la palabra del *brygadzista*. En M3 la autorización es el **estado de la lista de comprobación**. Los cinco puntos han pasado. El estado es positivo. La autorización para arrancar salió de su propia cabeza, no de la boca de Marek. Mykoła aprieta el pulsador. La cinta arranca. Los primeros 10 segundos mira a la máquina, no a la *kłoda* (rollizo). El sonido es regular. La cinta no bambolea. Coge el primer rollizo.
 
-Treinta minutos más tarde Rustam se seca la frente con la manga. Ha procesado seis rollizos de pino, lote 47. Se acerca al diario de la máquina (tablet en funda sobre un soporte junto a P3), lo abre, toca con el dedo:
+Treinta minutos más tarde Mykoła se seca la frente con la manga. Ha procesado seis rollizos de pino, lote 47. Se acerca al diario de la máquina (tablet en funda sobre un soporte junto a P3), lo abre, toca con el dedo:
 
 > **6 kłód sosnowych, średnica 28–34 cm, wilgotność wejściowa 42% (pomiar 2 kłody).** [6 rollizos de pino, diámetro 28–34 cm, humedad de entrada 42% (medida en 2 rollizos).]
 >
@@ -78,14 +78,14 @@ Treinta minutos más tarde Rustam se seca la frente con la manga. Ha procesado s
 >
 > **Partia 47 w toku, 6 z 20 kłód.** [Lote 47 en curso, 6 de 20 rollizos.]
 
-Guarda. Marek se acerca, lee el tablet, mira a Rustam. Dice, escueto:
+Guarda. Marek se acerca, lee el tablet, mira a Mykoła. Dice, escueto:
 
 > **Marek:** „Czytelnie. Dalej." [Legible. Sigue.]
 
-Y se va. Ese es el primer reporte a posteriori que Rustam ha escrito solo. Marek no ha preguntado „cómo te va". Ha preguntado **qué has escrito**. Esa es la diferencia entre M2 y M3. El papel, no la conversación.
+Y se va. Ese es el primer reporte a posteriori que Mykoła ha escrito solo. Marek no ha preguntado „cómo te va". Ha preguntado **qué has escrito**. Esa es la diferencia entre M2 y M3. El papel, no la conversación.
 
 ::: tip
-Fíjate en tres cosas del reporte de Rustam. Primero, los **números**: 6 rollizos, 28–34 cm, 42%, 50 × 150 mm, 3,5 mm, 58%. El capataz no necesita descripciones, necesita datos. Segundo, la **frontera del conocimiento**: „temperatura al tacto tibia pero no caliente" en lugar de „cinta recalentada". Rustam no diagnostica lo que no mide. Tercero, el **estado del lote**: „6 de 20 rollizos" le dice a Marek que dentro de 100 minutos el lote estará cerrado y hay que preparar sitio para el stock. El reporte es una herramienta de planificación para el capataz, no una descripción de las emociones del operador.
+Fíjate en tres cosas del reporte de Mykoła. Primero, los **números**: 6 rollizos, 28–34 cm, 42%, 50 × 150 mm, 3,5 mm, 58%. El capataz no necesita descripciones, necesita datos. Segundo, la **frontera del conocimiento**: „temperatura al tacto tibia pero no caliente" en lugar de „cinta recalentada". Mykoła no diagnostica lo que no mide. Tercero, el **estado del lote**: „6 de 20 rollizos" le dice a Marek que dentro de 100 minutos el lote estará cerrado y hay que preparar sitio para el stock. El reporte es una herramienta de planificación para el capataz, no una descripción de las emociones del operador.
 :::
 
 ### Reporte a posteriori no significa reporte sin testigos
@@ -156,7 +156,7 @@ El peldaño 4 y las tres rutas adicionales son un mapa a 2 a 4 años. Hoy no eli
 
 En M3 has cruzado el umbral de la autonomía. Marek ya no está junto a la máquina, pero mira después del hecho. Tu autorización para arrancar sale de la lista de comprobación, no de la boca del *brygadzista*. Tu responsabilidad se amplía con tres campos nuevos: calidad del lote, equipo en la línea, reporte a posteriori. Cinco situaciones devuelven la decisión hacia arriba: materia prima atípica, alarma desconocida, lesión de un compañero, conflicto, visita externa. Los arts. 210 y 220 KP los conocerás con más detalle en l3.
 
-Mañana, en l2, te enfrentarás a una nueva obligación: **tú conduces la reunión de SSL de cinco minutos para el *pomocnik* y el operador junior**. Rustam conduce su primera reunión mañana a las 6:55. Estaremos con él.
+Mañana, en l2, te enfrentarás a una nueva obligación: **tú conduces la reunión de SSL de cinco minutos para el *pomocnik* y el operador junior**. Mykoła conduce su primera reunión mañana a las 6:55. Estaremos con él.
 
 ## Términos clave
 
@@ -216,13 +216,13 @@ Si has marcado „tengo que repasar" en más de dos reglas, vuelve al reporte de
 2. ¿Qué significa la regla del „reporte a posteriori"? ¿Quiénes son los tres destinatarios de tu reporte y por qué lo escribes como si te leyera alguien que no estaba a tu lado?
 3. Cita las cinco situaciones en las que la decisión vuelve al *brygadzista*, al *mistrz zmiany* o a UR. ¿Cuál consideras más difícil de reconocer en la primera semana y por qué?
 4. ¿Cuál es la diferencia entre la autorización en M2 (palabra del *brygadzista*) y la autorización en M3 (estado de la lista de comprobación)? ¿Qué cambia en tu cabeza entre una y otra?
-5. Rustam ha escrito el primer reporte a posteriori sobre el lote 47. Escribe tres elementos del reporte que lo hacen bueno e intenta redactar tu propio reporte hipotético del día de hoy en el aserradero (5 a 7 líneas).
+5. Mykoła ha escrito el primer reporte a posteriori sobre el lote 47. Escribe tres elementos del reporte que lo hacen bueno e intenta redactar tu propio reporte hipotético del día de hoy en el aserradero (5 a 7 líneas).
 
 ## Enlace con la práctica
 
 Durante los próximos tres días, mientras trabajes en P3 o en otra máquina, realiza tres observaciones:
 
-- Tras el primer lote, apunta en tu cuaderno tu reporte a posteriori (5 a 7 líneas, formato del ejemplo de Rustam: números, frontera del conocimiento, estado del lote). Enséñaselo al *brygadzista*. Pregúntale: „¿legible?"
+- Tras el primer lote, apunta en tu cuaderno tu reporte a posteriori (5 a 7 líneas, formato del ejemplo de Mykoła: números, frontera del conocimiento, estado del lote). Enséñaselo al *brygadzista*. Pregúntale: „¿legible?"
 - A lo largo del día, cuenta cuántas veces el *brygadzista* **no estuvo junto a tu máquina** durante más de 15 minutos. Esa es tu autonomía real en números.
 - Si se presenta una de las cinco situaciones de devolución de decisión (materia prima atípica, alarma desconocida, lesión de un compañero, conflicto, visita externa), descríbela brevemente por la noche: qué ocurrió, qué hiciste, a quién llamaste. Es el primer material de discusión para mañana.
 
@@ -230,9 +230,9 @@ Lleva el cuaderno a la lección l2. La reunión de SSL que conducirás mañana p
 
 ## Notas para el formador
 
-- **Ritmo de 120 min (propuesto):** 15 min Introducción + Objetivos; 20 min „Qué cambia exactamente M3" + „Tres nuevos campos de responsabilidad"; 15 min narración de Rustam (lectura con pausas, parada en el momento „el corazón le late fuerte durante tres segundos"); 15 min „Reporte a posteriori no significa reporte sin testigos" (trabajo en parejas: anotar los 4 destinatarios del reporte); 15 min „Cuándo vuelve la decisión" (lluvia de ideas, ejemplos de las plantas de los propios alumnos); 10 min anticipo de los arts. 210/220 KP (por ahora solo los números y la intuición); 20 min Mapa de carrera (cada alumno marca en la pizarra qué cuarto peldaño le atrae) + Términos clave; 10 min tarea para casa.
-- **Trampa pedagógica nº 1:** la presentación de Rustam como nuevo protagonista (tras 24 lecciones con Hai) puede suscitar la pregunta: „¿y qué pasa con Hai?". Respuesta corta: **Hai sigue trabajando, ha ascendido antes, lo veréis en T4**. No entres en detalle, el arco de Rustam tiene prioridad. Si la pregunta vuelve, redirige: „en el aserradero el ascenso no es una carrera, cada uno tiene su propio ritmo".
+- **Ritmo de 120 min (propuesto):** 15 min Introducción + Objetivos; 20 min „Qué cambia exactamente M3" + „Tres nuevos campos de responsabilidad"; 15 min narración de Mykoła (lectura con pausas, parada en el momento „el corazón le late fuerte durante tres segundos"); 15 min „Reporte a posteriori no significa reporte sin testigos" (trabajo en parejas: anotar los 4 destinatarios del reporte); 15 min „Cuándo vuelve la decisión" (lluvia de ideas, ejemplos de las plantas de los propios alumnos); 10 min anticipo de los arts. 210/220 KP (por ahora solo los números y la intuición); 20 min Mapa de carrera (cada alumno marca en la pizarra qué cuarto peldaño le atrae) + Términos clave; 10 min tarea para casa.
+- **Trampa pedagógica nº 1:** la presentación de Mykoła como nuevo protagonista (tras 24 lecciones con Andrij) puede suscitar la pregunta: „¿y qué pasa con Andrij?". Respuesta corta: **Andrij sigue trabajando, ha ascendido antes, lo veréis en T4**. No entres en detalle, el arco de Mykoła tiene prioridad. Si la pregunta vuelve, redirige: „en el aserradero el ascenso no es una carrera, cada uno tiene su propio ritmo".
 - **Trampa pedagógica nº 2:** la sección „Tres nuevos campos de responsabilidad" contiene un peso legal real. Atención a los alumnos que por miedo pueden plantear: „no quiero esa responsabilidad, prefiero quedarme en M2". Respuesta: **en la planta polaca el operador junior es una etapa de paso, no un puesto final**. Las tarifas, el acceso a cursos, la estabilidad del contrato: todo crece al entrar en M3. Si el alumno siente miedo, vuelve a l6 de M1 (evaluación del riesgo) y recuerda que el miedo es una señal, no un veredicto.
-- **Trampa pedagógica nº 3:** Rustam como personaje debe presentarse **con respeto por su trasfondo migrante** (Tayikistán, Dusambé, almacén de Lidl, habitación por 900 PLN). No dramatices, no te compadezcas. Rustam es un adulto competente que tomó la decisión del curso y hace lo suyo. Si en el grupo hay alumnos de una ruta parecida, esta narración abrirá una conversación sobre sus propios primeros días en Polonia. Permítelo, pero no lo fuerces.
+- **Trampa pedagógica nº 3:** Mykoła como personaje debe presentarse **con respeto por su trasfondo migrante** (Ucrania, Poltava, almacén de Lidl, habitación por 900 PLN). No dramatices, no te compadezcas. Mykoła es un adulto competente que tomó la decisión del curso y hace lo suyo. Si en el grupo hay alumnos de una ruta parecida, esta narración abrirá una conversación sobre sus propios primeros días en Polonia. Permítelo, pero no lo fuerces.
 - **Anticipo de l3 (arts. 210/220 KP):** no entras hoy conscientemente en el contenido de los artículos. La lección l3 es jurídica y requiere un ritmo aparte. Si el alumno pregunta por los detalles, responde: „el miércoles, con el texto delante". Construyes la expectativa, no la apagas.
 - **Momento para volver a esta lección:** en cada lección de T1 haz referencia a la regla del „reporte a posteriori" y a las „cinco situaciones de devolución de decisión". Esas dos redes son el eje de toda la primera semana de M3, no solo de la introducción.

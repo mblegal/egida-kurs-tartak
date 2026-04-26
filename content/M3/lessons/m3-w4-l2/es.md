@@ -6,13 +6,13 @@ czas: 120
 
 ## Introducción
 
-Viernes, 2026-06-19, 9:40 de la mañana. Rustam Nazarov comenzó el día de forma rutinaria: turno desde las 7:00, encargo **ZLE-2026-06-018 pino silvestre** a disposición para la Oficina de Proyectos Kowalski, tablas de fachada 32 × 120 × 4050. Había aserrado 2 troncos (a las 9:30 tenía 48 tablas en el lote), cuando Marek Kowalski (capataz, oficina) lo llama al móvil P3:
+Viernes, 2026-06-19, 9:40 de la mañana. Mykoła Hrycenko comenzó el día de forma rutinaria: turno desde las 7:00, encargo **ZLE-2026-06-018 pino silvestre** a disposición para la Oficina de Proyectos Kowalski, tablas de fachada 32 × 120 × 4050. Había aserrado 2 troncos (a las 9:30 tenía 48 tablas en el lote), cuando Marek Kowalski (capataz, oficina) lo llama al móvil P3:
 
-*«Rustam, detén la máquina, ven a la oficina a tomar un café. Tenemos una **visita de reclamación del cliente**. Jacek Wesołowski de Dom-Bud Mrągowo llega a las 10:00. Se trata de las vigas de pino C24 de la semana pasada, ZLE-015, entrega del 16.06 a Wesołowski. Notificó ayer por la tarde por teléfono que **3 de 52 vigas tienen dimensión 174 × 37 en lugar de 175 × 38**. Llamó desde delante de la tienda de construcción de Mrągowo, donde midió con su propio calibre. Me gustaría que estuvieras en la reunión: tú aserraste, la señora Ania clasificó. Ella también estará.»*
+*«Mykoła, detén la máquina, ven a la oficina a tomar un café. Tenemos una **visita de reclamación del cliente**. Jacek Wesołowski de Dom-Bud Mrągowo llega a las 10:00. Se trata de las vigas de pino C24 de la semana pasada, ZLE-015, entrega del 16.06 a Wesołowski. Notificó ayer por la tarde por teléfono que **3 de 52 vigas tienen dimensión 174 × 37 en lugar de 175 × 38**. Llamó desde delante de la tienda de construcción de Mrągowo, donde midió con su propio calibre. Me gustaría que estuvieras en la reunión: tú aserraste, la señora Ania clasificó. Ella también estará.»*
 
-Rustam cierra el tronco 3 (medio cortado), lo coloca contra la escuadra, pone el LOTO en P3, corta la alimentación, va a lavarse las manos. Wahan va con él, porque la visita de reclamación es **interesante para un ayudante**: Wahan quiere ver cómo se habla con un cliente que reclama.
+Mykoła cierra el tronco 3 (medio cortado), lo coloca contra la escuadra, pone el LOTO en P3, corta la alimentación, va a lavarse las manos. Wasyl va con él, porque la visita de reclamación es **interesante para un ayudante**: Wasyl quiere ver cómo se habla con un cliente que reclama.
 
-De camino a la oficina Rustam piensa: «Primera **mi** reclamación desde que soy M3. ¿Qué hacer? ¿Se enfadará el cliente? ¿Me echará la culpa Marek? Leí el contrato marco DOM-BUD una vez, hace tres meses, no recuerdo los detalles. Calma. Marek sabe lo suyo.»
+De camino a la oficina Mykoła piensa: «Primera **mi** reclamación desde que soy M3. ¿Qué hacer? ¿Se enfadará el cliente? ¿Me echará la culpa Marek? Leí el contrato marco DOM-BUD una vez, hace tres meses, no recuerdo los detalles. Calma. Marek sabe lo suyo.»
 
 ### 9:50, en la oficina de EGIDA, preparación
 
@@ -22,12 +22,12 @@ Marek abre la reunión:
 
 *«Señores, principio básico. **El cliente no es un enemigo**. Jacek Wesołowski es jefe de obra en Dom-Bud Mrągowo desde hace 8 años, nos conocemos de cinco encargos anteriores. **Quiere averiguar la verdad, no sacar dinero**. Hay que corresponder a esa confianza. La reunión de hoy debe ser **técnica**, no emocional. ¿Qué sabemos del caso?»*
 
-Rustam abre la KEP-001 de ZLE-015. Lote de pino del martes 16.06, clasificación completa de la señora Ania, WZ emitido a Marek para su firma, recogida por el conductor de Dom-Bud, el señor Sławomir, el 16.06 a las 14:20. Rustam mira los datos dimensionales de la KEP-001:
+Mykoła abre la KEP-001 de ZLE-015. Lote de pino del martes 16.06, clasificación completa de la señora Ania, WZ emitido a Marek para su firma, recogida por el conductor de Dom-Bud, el señor Sławomir, el 16.06 a las 14:20. Mykoła mira los datos dimensionales de la KEP-001:
 
 ```
 ZLE-2026-06-015 / SO-ZW-06 / vigas C24 175 × 38 × 4050 mm
 
-Medidas del operario Rustam 16.06:
+Medidas del operario Mykoła 16.06:
 Tabla 1:  175,2 × 38,1 × 4050 mm       clase preliminar C24-A
 Tabla 2:  175,0 × 37,9 × 4050 mm       clase preliminar C24-A
 ...
@@ -44,11 +44,11 @@ Grosor:   mín. 37,4 / máx. 38,4 / med. 37,98 mm (tol. objetivo ±2 según PN-E
 Longitud: 52 uds. × 4050 mm (sin desviaciones)
 
 Verificación de la clasificadora señora Ania 16.06:
-Primeras 10 tablas en pleno: 0 discrepancias con las mediciones de Rustam (concordancia 100%)
+Primeras 10 tablas en pleno: 0 discrepancias con las mediciones de Mykoła (concordancia 100%)
 Muestreo SPC cada 5 tablas: 2 mediciones de verificación (tablas 15, 25, 35, 45)
-Discrepancias: tabla 25 ancho 174,6 (Rustam) vs 174,5 (señora Ania), diferencia 0,1 mm, dentro de la tolerancia del calibre
+Discrepancias: tabla 25 ancho 174,6 (Mykoła) vs 174,5 (señora Ania), diferencia 0,1 mm, dentro de la tolerancia del calibre
 
-Firma Rustam:     2026-06-16 11:47
+Firma Mykoła:     2026-06-16 11:47
 Firma señora Ania:  2026-06-16 12:58 (sello ITB-KLAS-247/2019)
 WZ EGIDA/2026/06/102 emitido a Marek 2026-06-16 13:30
 Recogida por el conductor de Dom-Bud: 2026-06-16 14:20 (firma del señor Sławomir)
@@ -60,7 +60,7 @@ La señora Ania dice:
 
 Marek añade:
 
-*«Rustam, recuerda algo clave: **Dom-Bud Mrągowo es una empresa, sociedad de responsabilidad limitada, NIF 7421234567, registrada**. Jacek Wesołowski es jefe de obra allí, es decir, un empleado con funciones directivas. **Él no es consumidor** en el sentido del derecho civil. Eso lo cambia todo: se aplica la **garantía legal empresarial (B2B)**, no la del consumidor. Ahora te lo explico con las citas.»*
+*«Mykoła, recuerda algo clave: **Dom-Bud Mrągowo es una empresa, sociedad de responsabilidad limitada, NIF 7421234567, registrada**. Jacek Wesołowski es jefe de obra allí, es decir, un empleado con funciones directivas. **Él no es consumidor** en el sentido del derecho civil. Eso lo cambia todo: se aplica la **garantía legal empresarial (B2B)**, no la del consumidor. Ahora te lo explico con las citas.»*
 
 La señora Ania añade un tomo del **Código Civil** (tapa dura, edición de 2024 con actualización hasta diciembre de 2025) con marcapáginas en los arts. 556, 560, 561, 563 KC. Varias páginas abiertas en plano.
 
@@ -74,9 +74,9 @@ Jacek saluda:
 
 Marek presenta:
 
-*«**Rustam Nazarov**, operario M3 de nuestra P3, **aserró tus vigas el 16.06**. Wahan Petrosjan, su ayudante. Rustam, este es el señor Jacek de Dom-Bud. Cinco contratos anteriores.»*
+*«**Mykoła Hrycenko**, operario M3 de nuestra P3, **aserró tus vigas el 16.06**. Wasyl Melnyk, su ayudante. Mykoła, este es el señor Jacek de Dom-Bud. Cinco contratos anteriores.»*
 
-Jacek le da la mano a Rustam, asiente a Wahan. Se sientan a la mesa. Jacek saca el **calibre Stanley**:
+Jacek le da la mano a Mykoła, asiente a Wasyl. Se sientan a la mesa. Jacek saca el **calibre Stanley**:
 
 *«Marek, te muestro el problema. Ayer **estábamos montando el tejado** en mi obra de Mrągowo, calle Sienkiewicza 14, vivienda unifamiliar de un cliente privado. Elegimos 10 vigas del lote de EGIDA al azar para una medición de control antes del montaje, **acta de recepción** en la obra. **3 de 10 vigas** tenían un ancho de **174 mm** en lugar de los **175 mm declarados** en el WZ. Aquí tienes mi calibre, escala de 1 mm, Stanley. No hay margen de error: 174 es 174.»*
 
@@ -350,17 +350,17 @@ Jacek respira. Mira los números.
 
 Marek se levanta, le estrecha la mano:
 
-*«Cerrado, Jacek. Gracias **por tu profesionalidad**. No cualquier cliente viene **él mismo con los documentos** a una visita. La mayoría escribe directamente un correo con una reclamación de 5000 zł o amenaza con tribunal. **Tú te has comportado como socio**: mostraste los datos, te llevas las vigas, **diste la oportunidad de hablar**. **Nosotros también reaccionaremos así siempre.** Rustam, señora Ania, gracias.»*
+*«Cerrado, Jacek. Gracias **por tu profesionalidad**. No cualquier cliente viene **él mismo con los documentos** a una visita. La mayoría escribe directamente un correo con una reclamación de 5000 zł o amenaza con tribunal. **Tú te has comportado como socio**: mostraste los datos, te llevas las vigas, **diste la oportunidad de hablar**. **Nosotros también reaccionaremos así siempre.** Mykoła, señora Ania, gracias.»*
 
-Rustam añade con prudencia:
+Mykoła añade con prudencia:
 
 *«Señor Jacek, ¿puedo preguntar: **cómo medisteis en la obra**? ¿Cuántos calibres, siempre de 1 mm, o había alguna herramienta más precisa?»*
 
 Jacek:
 
-*«Rustam, es una buena pregunta. Teníamos **un solo calibre Stanley de 5 m**, con resolución 1 mm, **nunca** calibrado. Nuestros carpinteros miden 'a ojo' o 'con precisión de 1-2 mm'. No tenemos Mitutoyo. La próxima vez, si algo parece no cuadrar, **llamaré a EGIDA antes del montaje** para comprobar. **Tu calibre Mitutoyo de 0,01 mm** queda fuera de mi mundo de jefe de obra. Pero ahora lo sé.»*
+*«Mykoła, es una buena pregunta. Teníamos **un solo calibre Stanley de 5 m**, con resolución 1 mm, **nunca** calibrado. Nuestros carpinteros miden 'a ojo' o 'con precisión de 1-2 mm'. No tenemos Mitutoyo. La próxima vez, si algo parece no cuadrar, **llamaré a EGIDA antes del montaje** para comprobar. **Tu calibre Mitutoyo de 0,01 mm** queda fuera de mi mundo de jefe de obra. Pero ahora lo sé.»*
 
-Rustam asiente.
+Mykoła asiente.
 
 ### 11:40, inscripción en el registro de reclamaciones de EGIDA
 
@@ -388,24 +388,24 @@ Gesto de buena voluntad: bonificación 2% en el siguiente pedido (acuerdo verbal
 Contactos siguientes:  pedido 80 vigas julio 2026 (Dom-Bud Mrągowo)
 
 Participantes:         Marek Kowalski (capataz), Anna Kowalczyk (clasificadora ITB),
-                        Rustam Nazarov (operario M3 P3), Wahan Petrosjan (ayudante M1),
+                        Mykoła Hrycenko (operario M3 P3), Wasyl Melnyk (ayudante M1),
                         Jacek Wesołowski (cliente, jefe de obra Dom-Bud)
 
 Firma de Marek:         Marek Kowalski, 2026-06-19 11:40
 Conservación:           5 años (2031-06-19), archivo EGIDA
 ```
 
-### 12:00, conversación final con Rustam
+### 12:00, conversación final con Mykoła
 
-Jacek sale, las vigas vuelven al Kodiaq. Marek se queda con Rustam en la oficina (la señora Ania volvió a la nave a preparar la clasificación de otro lote; Wahan se quedó en la P3 hace poco).
+Jacek sale, las vigas vuelven al Kodiaq. Marek se queda con Mykoła en la oficina (la señora Ania volvió a la nave a preparar la clasificación de otro lote; Wasyl se quedó en la P3 hace poco).
 
-*«Rustam, primera reclamación de tu carrera como M3. ¿Cómo te has sentido?»*
+*«Mykoła, primera reclamación de tu carrera como M3. ¿Cómo te has sentido?»*
 
 *«Marek, **al principio miedo**. Pensaba que el cliente iba a empezar a gritar, que me echaría la culpa, que exigiría la devolución del dinero. Cuando la señora Ania me mostró PN-EN 336 y las citas del Código Civil, **me sentí más seguro**. Pero algo **avergonzado** de no conocer por mí mismo ni esa norma ni ese artículo de la ley. No sabía qué es un 'defecto insignificante'. No sabía que ±2 mm no es nuestra tolerancia interna, **sino norma de toda la UE**.»*
 
-*«Rustam, **esta es la lección para cada operario M3**. El operario M3 no tiene que saber el derecho civil de memoria, para eso tenemos a la clasificadora con ITB y al capataz. **Pero el operario M3 debe conocer las normas técnicas**, entre ellas PN-EN 336, PN-EN 14081-1, PN-EN 1611-1. **Y debe entender: la documentación de mediciones en la KEP-001 del día anterior es tu defensa**. Ayer, cuando Jacek llamó, **la señora Ania abrió tu KEP-001 del 16.06 y vio enseguida: las mediciones de Rustam dentro de la norma**. **Si la KEP-001 fuera inexacta o se hubiera rellenado a posteriori, la reclamación probablemente habría ido a los tribunales**, porque no tendríamos prueba. **Mi Rustam, la KEP-001 es tu póliza de seguro frente al cliente.**»*
+*«Mykoła, **esta es la lección para cada operario M3**. El operario M3 no tiene que saber el derecho civil de memoria, para eso tenemos a la clasificadora con ITB y al capataz. **Pero el operario M3 debe conocer las normas técnicas**, entre ellas PN-EN 336, PN-EN 14081-1, PN-EN 1611-1. **Y debe entender: la documentación de mediciones en la KEP-001 del día anterior es tu defensa**. Ayer, cuando Jacek llamó, **la señora Ania abrió tu KEP-001 del 16.06 y vio enseguida: las mediciones de Mykoła dentro de la norma**. **Si la KEP-001 fuera inexacta o se hubiera rellenado a posteriori, la reclamación probablemente habría ido a los tribunales**, porque no tendríamos prueba. **Mi Mykoła, la KEP-001 es tu póliza de seguro frente al cliente.**»*
 
-Rustam lo asume como una lección. Anota en su cuaderno de trabajo: «**KEP-001 = póliza de seguro del operario M3**. Rellenar durante el trabajo, no a posteriori. Conocer PN-EN 336 y 14081-1.»
+Mykoła lo asume como una lección. Anota en su cuaderno de trabajo: «**KEP-001 = póliza de seguro del operario M3**. Rellenar durante el trabajo, no a posteriori. Conocer PN-EN 336 y 14081-1.»
 
 *«Marek, ¿y qué hay de las seis bases habituales de reclamación de la madera? **¿Solo la dimensión, o también otras?**»*
 
@@ -490,7 +490,7 @@ Si el cliente es **agresivo, grita, amenaza con tribunal**, el operario M3 tiene
 Admisible: „He medido el lote el 16.06, los valores están en la KEP-001, se los muestro."
 Inadmisible: „No podía estar mal, yo siempre hago las cosas bien."
 
-**Pedagogía**: Rustam hoy hizo **una pregunta profesional al final** („¿cómo medisteis en la obra?"). Ese es **un signo de madurez del operario M3**: interés por el método de medición del cliente en lugar de defender el propio trabajo. Jacek lo valoró más que las tablas anteriores.
+**Pedagogía**: Mykoła hoy hizo **una pregunta profesional al final** („¿cómo medisteis en la obra?"). Ese es **un signo de madurez del operario M3**: interés por el método de medición del cliente en lugar de defender el propio trabajo. Jacek lo valoró más que las tablas anteriores.
 
 ### Relación a largo plazo vs encargo puntual
 
@@ -500,11 +500,11 @@ Inadmisible: „No podía estar mal, yo siempre hago las cosas bien."
 |---|---|---|
 | **Reacción inicial** | reunión cara a cara en 48 h | llamada telefónica + correo |
 | **Gesto de buena voluntad** | bonificación 2-5% incluso si es infundada | solo si es fundada |
-| **Prioridad operativa** | interrupción del trabajo de Rustam para la visita | Marek atiende sin implicar al operario |
+| **Prioridad operativa** | interrupción del trabajo de Mykoła para la visita | Marek atiende sin implicar al operario |
 | **Documentación** | como antes, completa, con acta de reunión | básica, correo en el registro |
 | **Escalado al director** | solo en disputa de 10 000+ zł | director informado cada vez |
 
-**Jacek era cliente habitual**: de ahí la visita cara a cara, la presencia de 4 empleados de EGIDA (Marek, señora Ania, Rustam, Wahan), el gesto de bonificación del 2%. Con un cliente puntual Marek habría resuelto solo por teléfono.
+**Jacek era cliente habitual**: de ahí la visita cara a cara, la presencia de 4 empleados de EGIDA (Marek, señora Ania, Mykoła, Wasyl), el gesto de bonificación del 2%. Con un cliente puntual Marek habría resuelto solo por teléfono.
 
 ### Pregunta que suele aparecer en el curso
 

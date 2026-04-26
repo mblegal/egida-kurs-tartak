@@ -6,11 +6,11 @@ czas: 120
 
 ## Wprowadzenie
 
-Czwartek, 2026-05-29, godzina 14:00. Rustam stoi w **hali suszarni** EGIDA, osobnym budynku 12 × 8 × 4,5 m, oddzielonym od hali pilarek 30-metrowym placem magazynowym. Wnętrze jest gorące (28-30°C, choć komora pracuje, hala dostaje ciepło przez izolację), powietrze ma charakterystyczny zapach mokrego dębu (od 12 dni w cyklu), hałas wentylatorów wyciągowych równy, 55-60 dB. Dzisiejsze zadanie, **narada planistyczna** nad kolejną wsadką komory: kiedy, co, w jakim programie, na jak długo.
+Czwartek, 2026-05-29, godzina 14:00. Mykoła stoi w **hali suszarni** EGIDA, osobnym budynku 12 × 8 × 4,5 m, oddzielonym od hali pilarek 30-metrowym placem magazynowym. Wnętrze jest gorące (28-30°C, choć komora pracuje, hala dostaje ciepło przez izolację), powietrze ma charakterystyczny zapach mokrego dębu (od 12 dni w cyklu), hałas wentylatorów wyciągowych równy, 55-60 dB. Dzisiejsze zadanie, **narada planistyczna** nad kolejną wsadką komory: kiedy, co, w jakim programie, na jak długo.
 
-W hali są trzy osoby: **Pan Henryk** (62 l., mistrz suszarni EGIDA, emeryt sezonowy, od marca do listopada pracuje w EGIDA, od grudnia do lutego zimuje w domu pod Ełkiem; 38 lat doświadczenia w suszarnictwie, w tym 22 w mazurskich tartakach), **Marek Kowalski** (brygadzista) i **Rustam Nazarov** (operator samodzielny M3, obecność w tej naradzie jest planową częścią jego szkolenia M3, ostatnia część bloku procesowego). Wahana nie ma (M1 ma dziś zmianę konserwacyjną w hali pilarek, nie zaplanowane szkolenie suszarnicze).
+W hali są trzy osoby: **Pan Henryk** (62 l., mistrz suszarni EGIDA, emeryt sezonowy, od marca do listopada pracuje w EGIDA, od grudnia do lutego zimuje w domu pod Ełkiem; 38 lat doświadczenia w suszarnictwie, w tym 22 w mazurskich tartakach), **Marek Kowalski** (brygadzista) i **Mykoła Hrycenko** (operator samodzielny M3, obecność w tej naradzie jest planową częścią jego szkolenia M3, ostatnia część bloku procesowego). Wasyla nie ma (M1 ma dziś zmianę konserwacyjną w hali pilarek, nie zaplanowane szkolenie suszarnicze).
 
-Planowanie kampanii suszarniczej nie jest kompetencją operatora M3 w sensie „decydującym". **Mistrz suszarni decyduje**. Operator M3 **uczestniczy, dostarcza informacje, dokumentuje**. To jest różnica, którą Rustam dziś uczy się przeżywać: **nie każda decyzja produkcyjna, w której uczestniczy operator samodzielny, jest decyzją operatora samodzielnego**. W niektórych obszarach (suszenie, regulacja elektryczna, zmiana programu sterownika) operator **asystuje specjaliście**, a nie prowadzi.
+Planowanie kampanii suszarniczej nie jest kompetencją operatora M3 w sensie „decydującym". **Mistrz suszarni decyduje**. Operator M3 **uczestniczy, dostarcza informacje, dokumentuje**. To jest różnica, którą Mykoła dziś uczy się przeżywać: **nie każda decyzja produkcyjna, w której uczestniczy operator samodzielny, jest decyzją operatora samodzielnego**. W niektórych obszarach (suszenie, regulacja elektryczna, zmiana programu sterownika) operator **asystuje specjaliście**, a nie prowadzi.
 
 ### 14:05, stan komory obecny
 
@@ -32,15 +32,15 @@ EMC (wilgotność równowagowa): 7,1%  (target końcowy dębu: 14%)
 Planowane zakończenie: sobota 2026-06-07, wyjście tarcicy w poniedziałek 2026-06-09.
 ```
 
-Pan Henryk komentuje na głos, pół do Marka, pół do Rustama:
+Pan Henryk komentuje na głos, pół do Marka, pół do Mykoły:
 
 *„Dąb idzie normalnie. Wilgotność spada, jak powinna. 28% dzień 11 to w planie, do 14% dojdziemy za 9 dni. Weekend nie ingeruje, komora pracuje sama, sterownik na automatyce. Sobotę-niedzielę Maciek przyjdzie odczytać i zapisać w dzienniku, jak każdy weekend."*
 
-Maciek to pomocnik suszarni, M1 w EGIDA, uczy się pod Panem Henrykiem (nie Maciek Petrosjan, inny Maciek, Maciej Wiśniewski, 19 l., druga klasa technikum drzewnego Ostróda, praktyki w EGIDA).
+Maciek to pomocnik suszarni, M1 w EGIDA, uczy się pod Panem Henrykiem (nie Maciek Melnyk, inny Maciek, Maciej Wiśniewski, 19 l., druga klasa technikum drzewnego Ostróda, praktyki w EGIDA).
 
 *„Poniedziałek 9-go wypuszczamy dąb, stos na dzielnicy chłodzenia, potem klasyfikacja. Wtorek 10-go komora **pusta**. Od wtorku nowy program."*
 
-Marek potakuje. Rustam patrzy na panel i notuje dane w kalendarzyku kieszonkowym (dla siebie, nie w KDP-001, bo nie jest dokument produkcyjny lecz planowanie).
+Marek potakuje. Mykoła patrzy na panel i notuje dane w kalendarzyku kieszonkowym (dla siebie, nie w KDP-001, bo nie jest dokument produkcyjny lecz planowanie).
 
 ### 14:15, co jest do wsadki
 
@@ -50,14 +50,14 @@ Marek wyjmuje notatnik brygadzisty, czyta listę tarcicy świeżej w magazynie t
 Stan świeżej tarcicy oczekującej w magazynie suszenia (z Kart WZ od klasyfikatorów):
 
 A. Sosna zwyczajna, deski 28 × 155 × 4050 mm, świeża 28-32%:
-   - ZLE-2026-05-077 (Rustam, ZLE wewn. ZLE-077): 0,58 m³
+   - ZLE-2026-05-077 (Mykoła, ZLE wewn. ZLE-077): 0,58 m³
    - ZLE-2026-05-079 (Damian, piątek 23.05): 0,72 m³
    - Nadwyżki magazynu (materiał cięty wiosną do klasyfikacji): 1,12 m³
    Razem sosna: 2,42 m³
 
 B. Dąb szypułkowy, deski 28 × 155 × 4050 mm, świeży 35-38%:
-   - ZLE-2026-05-081 (Rustam, poniedziałek 26.05 kampania nowa dębowa): 0,38 m³
-   - ZLE-2026-05-075 (Rustam, 12-14.05 z Part 25, tarcica w magazynie od 15.05): 1,84 m³
+   - ZLE-2026-05-081 (Mykoła, poniedziałek 26.05 kampania nowa dębowa): 0,38 m³
+   - ZLE-2026-05-075 (Mykoła, 12-14.05 z Part 25, tarcica w magazynie od 15.05): 1,84 m³
    Razem dąb: 2,22 m³
 
 C. Buk zwyczajny, deski 25 × 130 × 4000 mm, świeży 32%:
@@ -78,7 +78,7 @@ Tu zaczyna się główny problem narady. Komora suszarnicza BH-50 jest zaprojekt
 - Zużycie energii na metr sześcienny jest 3-4 razy wyższe (prądu, gazu na grzejniki, serwisu)
 - Program suszarniczy (kalibrowany dla pełnej wsadki) daje wyniki niestandardowe, ryzyko pęknięć rdzeniowych w desce rośnie
 
-Pan Henryk kontynuuje: *„Mamy trzy opcje. Słuchaj, Rustam, bo to jest dokładnie to, co kiedyś sam będziesz musiał oceniać jako przyszły mistrz, jeżeli pójdziesz tą ścieżką."*
+Pan Henryk kontynuuje: *„Mamy trzy opcje. Słuchaj, Mykoła, bo to jest dokładnie to, co kiedyś sam będziesz musiał oceniać jako przyszły mistrz, jeżeli pójdziesz tą ścieżką."*
 
 ### 14:25, trzy opcje i kompromisy
 
@@ -114,7 +114,7 @@ Pan Henryk szybko w głowie: *„Cena sprzedaży tarcicy sosna C24 deski 25 × 1
 
 *„Akceptuję,*" mówi Marek. *„Opcja B. Jutro rano dzwonię do Drew-Sus, umawiam wtorek 3 czerwca załadunek, zlecenie całej sosny z magazynu 2,42 m³. Naszą komorę zostawiamy pustą do połowy czerwca, potem startujemy pełną wsadkę dębu."*
 
-Pan Henryk potakuje, idzie do biurka w kącie hali sterowania, wypełnia **kartę KS-001** (karta suszarni, format A4, dedykowana dla każdej decyzji wsadkowej). Rustam patrzy przez ramię.
+Pan Henryk potakuje, idzie do biurka w kącie hali sterowania, wypełnia **kartę KS-001** (karta suszarni, format A4, dedykowana dla każdej decyzji wsadkowej). Mykoła patrzy przez ramię.
 
 ### 14:55, karta KS-001 wypełniana
 
@@ -148,7 +148,7 @@ Wsadka bieżąca (dąb od 17.05) idzie normalnie, plan wyjście 07.06.
 Następna kampania dębowa z Nadleśnictwa Strzałowo planowana 08-15.06.
 Pan Henryk urlop 2 tygodnie 20.06-04.07, Maciek sam z komorą,
    w razie problemu eskalacja Marek → BTM (serwis polski suszarni).
-Rustam Nazarov uczestniczy w naradzie (szkolenie M3 blok procesy, l3).
+Mykoła Hrycenko uczestniczy w naradzie (szkolenie M3 blok procesy, l3).
 ```
 
 **Podpis**: Pan Henryk, data, godzina.
@@ -432,19 +432,19 @@ EGIDA oferuje operatorom M3 **dodatkowy moduł szkoleniowy suszarnictwa** (opcjo
 4. **Dzień 4**: diagnoza usterek (wprowadzone błędy, operator próbuje rozpoznać).
 5. **Dzień 5**: egzamin (pisemny plus praktyczny, próg 80%). Zaliczenie daje uprawnienie **„operatora suszarniczego pomocniczego"** (może zastąpić mistrza na 1-2 dni, np. weekend), ale **nie jest mistrzem** (to wymaga 3-letniego stażu i kursu BTM).
 
-Rustam sygnalizuje Panu Henrykowi zainteresowanie tym kursem. Pan Henryk: *„Skończ M3, potem pogadamy. Za wcześnie, masz jeszcze 13 lekcji w bloku procesowym i organizacyjnym. Jeżeli cię zainteresuje, w październiku ruszymy szkolenie."*
+Mykoła sygnalizuje Panu Henrykowi zainteresowanie tym kursem. Pan Henryk: *„Skończ M3, potem pogadamy. Za wcześnie, masz jeszcze 13 lekcji w bloku procesowym i organizacyjnym. Jeżeli cię zainteresuje, w październiku ruszymy szkolenie."*
 
-Rustam zapisuje w kalendarzyku: „*październik 2026, moduł suszarniczy pomocniczy, 5 dni.*"
+Mykoła zapisuje w kalendarzyku: „*październik 2026, moduł suszarniczy pomocniczy, 5 dni.*"
 
 ## Scena domykająca, 15:30, wyjście z hali suszarni
 
-Rustam, Marek i Pan Henryk wychodzą z hali sterowania. Pan Henryk zostaje przy komorze (sprawdzi sondy raz jeszcze, napije się wody, wróci do domu o 17:00), Marek i Rustam idą przez plac magazynowy do hali pilarek.
+Mykoła, Marek i Pan Henryk wychodzą z hali sterowania. Pan Henryk zostaje przy komorze (sprawdzi sondy raz jeszcze, napije się wody, wróci do domu o 17:00), Marek i Mykoła idą przez plac magazynowy do hali pilarek.
 
-### 15:35, rozmowa Marek z Rustamem
+### 15:35, rozmowa Marek z Mykołą
 
-Marek, idąc: *„Rustam, co zrozumiałeś z dzisiejszej narady?"*
+Marek, idąc: *„Mykoła, co zrozumiałeś z dzisiejszej narady?"*
 
-Rustam: *„Trzy rzeczy. Po pierwsze, suszenie to **nie kwestia maszyny tylko czasu**. 22 dni dla dębu, 9 dni dla sosny, nic tego nie skróci poza przeskoczeniem na gorszą jakość. Po drugie, **wsadka jednorodna** to podstawa, mieszanie gatunków daje ryzyko. Po trzecie, **mistrz suszarni decyduje, operator M3 dokumentuje**. Nie jest tak jak na pilarce, gdzie ja decyduję sam."*
+Mykoła: *„Trzy rzeczy. Po pierwsze, suszenie to **nie kwestia maszyny tylko czasu**. 22 dni dla dębu, 9 dni dla sosny, nic tego nie skróci poza przeskoczeniem na gorszą jakość. Po drugie, **wsadka jednorodna** to podstawa, mieszanie gatunków daje ryzyko. Po trzecie, **mistrz suszarni decyduje, operator M3 dokumentuje**. Nie jest tak jak na pilarce, gdzie ja decyduję sam."*
 
 *„Dobrze. Co z czwartą rzeczą?"*
 
@@ -452,19 +452,19 @@ Rustam: *„Trzy rzeczy. Po pierwsze, suszenie to **nie kwestia maszyny tylko cz
 
 *„Zlecenie zewnętrzne jako opcja. Dla klienta ZLE-077 Drew-Sus kosztuje nas 512 zł ekstra, ale ratuje termin. **Termin jest ważniejszy niż marża**, bo klient, który dostaje towar w terminie, zamawia następne zlecenie. Klient, który dostaje 3 dni spóźnienie, szuka innego tartaku. Zyski długoterminowe mierzy się ciągłością zamówień, nie marżą pojedynczego zlecenia."*
 
-Rustam zapisuje w kalendarzyku: *„Termin > marża. Suszenie zewnętrzne jako opcja strategiczna, nie awaryjna."*
+Mykoła zapisuje w kalendarzyku: *„Termin > marża. Suszenie zewnętrzne jako opcja strategiczna, nie awaryjna."*
 
 ### 15:45, planowanie najbliższej przyszłości
 
-Marek: *„Jutro piątek, dzień planowy bez nietypowych zadań. W poniedziałek 2 czerwca załadunek Drew-Sus 8:00-10:00, ty Wahan pomagacie z brygadzistą placu, trzeba przenieść stosy z magazynu suszenia do ciężarówki. Po załadunku normalna zmiana na P3 od 10:15. Tydzień za poniedziałkiem, 9 czerwca, wyjście dębu z komory, nowa klasyfikacja (Pani Ania), ty asystujesz z Wahanem przy sortowaniu. To blok l5 twojego kursu, rozładunek komory, wyjście z l3."*
+Marek: *„Jutro piątek, dzień planowy bez nietypowych zadań. W poniedziałek 2 czerwca załadunek Drew-Sus 8:00-10:00, ty Wasyl pomagacie z brygadzistą placu, trzeba przenieść stosy z magazynu suszenia do ciężarówki. Po załadunku normalna zmiana na P3 od 10:15. Tydzień za poniedziałkiem, 9 czerwca, wyjście dębu z komory, nowa klasyfikacja (Pani Ania), ty asystujesz z Wasylem przy sortowaniu. To blok l5 twojego kursu, rozładunek komory, wyjście z l3."*
 
-Rustam potakuje. Zapisuje w kalendarzyku: *„02.06 załadunek Drew-Sus, 09.06 wyjście dębu z komory."*
+Mykoła potakuje. Zapisuje w kalendarzyku: *„02.06 załadunek Drew-Sus, 09.06 wyjście dębu z komory."*
 
 ### 15:50, powrót do hali pilarek
 
-Marek wraca do biura brygadzisty, Rustam do P3. Na P3 jeszcze świeżo zgrzana taśma z wczoraj, zlecenie ZLE-2026-05-079 (Damian z rana, teraz Rustam dokończy popołudnie), sosna deski 25 × 130 mm. Inny sortyment niż wczoraj (węższe, cieńsze), ale parametrów nie trzeba zmieniać (sosna ta sama, grubość inna tylko o 3 mm), **prędkość posuwu 34 st/min** (sosna cieńsza tnie szybciej), **napięcie 2200 PSI**, bez zmiany taśmy.
+Marek wraca do biura brygadzisty, Mykoła do P3. Na P3 jeszcze świeżo zgrzana taśma z wczoraj, zlecenie ZLE-2026-05-079 (Damian z rana, teraz Mykoła dokończy popołudnie), sosna deski 25 × 130 mm. Inny sortyment niż wczoraj (węższe, cieńsze), ale parametrów nie trzeba zmieniać (sosna ta sama, grubość inna tylko o 3 mm), **prędkość posuwu 34 st/min** (sosna cieńsza tnie szybciej), **napięcie 2200 PSI**, bez zmiany taśmy.
 
-Rustam wypełnia nowe KDP-001 dla ZLE-079 (pierwsza sekcja: surowiec, druga: taśma już na maszynie, nr znany, sekcje 3-4: parametry). 10 minut wypełniania. Startuje cięcie o 16:02. Dzień pracuje do końca zmiany 17:00. Wahan przy podajniku.
+Mykoła wypełnia nowe KDP-001 dla ZLE-079 (pierwsza sekcja: surowiec, druga: taśma już na maszynie, nr znany, sekcje 3-4: parametry). 10 minut wypełniania. Startuje cięcie o 16:02. Dzień pracuje do końca zmiany 17:00. Wasyl przy podajniku.
 
 ## Kluczowe terminy
 

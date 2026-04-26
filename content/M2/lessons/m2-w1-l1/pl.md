@@ -55,7 +55,7 @@ Ten rytuał powtórzy ci się w M2 tysiąc razy. Trzy kroki, trzy krótkie słow
 
 Dialog, który usłyszysz jutro (naucz się go na pamięć):
 
-> – **Brygadzista:** „Sprawdź, Hai."
+> – **Brygadzista:** „Sprawdź, Andrij."
 >
 > – **Ty:** [robisz checklist] „Sprawdzone, Marek."
 >
@@ -71,24 +71,24 @@ Dialog, który usłyszysz jutro (naucz się go na pamięć):
 Zauważ trzy rzeczy. Po pierwsze, brygadzista mówi **imieniem**, nie „hej". Po drugie, każde słowo jest **krótkie** (hałas 95 dB, długich zdań nie usłyszysz). Po trzecie, **zgłoszenie nie jest pytaniem**. Mówisz stwierdzenie, brygadzista kwituje. To oszczędza czas i nie każe brygadziście odgadywać.
 :::
 
-### Jak to wygląda w praktyce – Hai pierwszego dnia
+### Jak to wygląda w praktyce – Andrij pierwszego dnia
 
-Hai jest z Wietnamu. Poznałeś go w M1, kiedy uczył się wymawiać słowo „kłoda". Przez dwa pierwsze tygodnie mówił „kwoda" i brygadzista go poprawiał. Po czterech tygodniach „ł" wyszło mu z pamięci mięśniowej i Hai już nie zastanawia się nad wymową.
+Andrij jest ze Lwowa w Ukrainie. Poznałeś go w M1, kiedy uczył się wymawiać słowo „kłoda". Przez dwa pierwsze tygodnie mówił „kwoda" i brygadzista go poprawiał. Po czterech tygodniach „ł" wyszło mu z pamięci mięśniowej i Andrij już nie zastanawia się nad wymową.
 
-Dziś Hai stoi pierwszy raz sam przy pilarce taśmowej. Obok niego Marek, brygadzista, trzyma kartę stanowiska z dzisiejszą datą i pustą kratką na podpis. Hai patrzy na pięć punktów checklistu. Wszystko wygląda dobrze: osłona zamknięta, taśma napięta, odciąg szumi, bieg jałowy płynny, wokół maszyny nikogo.
+Dziś Andrij stoi pierwszy raz sam przy pilarce taśmowej. Obok niego Marek, brygadzista, trzyma kartę stanowiska z dzisiejszą datą i pustą kratką na podpis. Andrij patrzy na pięć punktów checklistu. Wszystko wygląda dobrze: osłona zamknięta, taśma napięta, odciąg szumi, bieg jałowy płynny, wokół maszyny nikogo.
 
-Przez ułamek sekundy Hai myśli: „wszystko widać, brygadzista widzi, wystarczy nacisnąć." Ręka idzie w stronę zielonego przycisku. Ale zatrzymuje się w pół drogi. Hai przypomina sobie, co mówił instruktor: **skinienie to nie autoryzacja**. Obraca głowę w stronę Marka.
+Przez ułamek sekundy Andrij myśli: „wszystko widać, brygadzista widzi, wystarczy nacisnąć." Ręka idzie w stronę zielonego przycisku. Ale zatrzymuje się w pół drogi. Andrij przypomina sobie, co mówił instruktor: **skinienie to nie autoryzacja**. Obraca głowę w stronę Marka.
 
 „Sprawdzone, Marek."
 
-Marek patrzy na Haia, nie na maszynę. „Ruszasz, Hai."
+Marek patrzy na Andrija, nie na maszynę. „Ruszasz, Andrij."
 
-Hai naciska zielony przycisk. Taśma rusza. Pierwsze 10 sekund patrzy tylko na taśmę. Dźwięk równy. Taśma nie bije. Bierze pierwszą deskę. Po 20 minutach zgłasza: „Jakość dobra, taśma ciepła." Marek kwituje: „Dobrze. Dalej."
+Andrij naciska zielony przycisk. Taśma rusza. Pierwsze 10 sekund patrzy tylko na taśmę. Dźwięk równy. Taśma nie bije. Bierze pierwszą deskę. Po 20 minutach zgłasza: „Jakość dobra, taśma ciepła." Marek kwituje: „Dobrze. Dalej."
 
-Hai czuje wtedy coś, czego nie spodziewał się przed południem. Łzy. Nie ze strachu, tylko **z ulgi**. Przez cztery tygodnie M1 patrzył, jak inni uruchamiają maszyny. Dziś uruchomił swoją. Prawidłowo. Ze słowami brygadzisty. Bez skrótu.
+Andrij czuje wtedy coś, czego nie spodziewał się przed południem. Łzy. Nie ze strachu, tylko **z ulgi**. Przez cztery tygodnie M1 patrzył, jak inni uruchamiają maszyny. Dziś uruchomił swoją. Prawidłowo. Ze słowami brygadzisty. Bez skrótu.
 
 ::: tip
-Emocja, którą Hai poczuł po pierwszym prawidłowym cyklu, ma nazwę w psychologii pracy: **domknięcie roli**. Przestajesz być „tym, który się uczy", a zaczynasz być „tym, który robi". Ten moment przyjdzie do ciebie w pierwszym tygodniu M2. Nie bój się go. To znak, że ciało zrozumiało rolę szybciej niż głowa.
+Emocja, którą Andrij poczuł po pierwszym prawidłowym cyklu, ma nazwę w psychologii pracy: **domknięcie roli**. Przestajesz być „tym, który się uczy", a zaczynasz być „tym, który robi". Ten moment przyjdzie do ciebie w pierwszym tygodniu M2. Nie bój się go. To znak, że ciało zrozumiało rolę szybciej niż głowa.
 :::
 
 ### Pięć typowych pułapek pierwszego miesiąca M2
@@ -191,8 +191,8 @@ Zabierz notatnik na popołudniową lekcję l2 („ŚOI operatora"). Dyskusja gru
 
 ## Notatki dla trenera
 
-- **Rytm 120 min (proponowany):** 15 min Wprowadzenie + Cele; 20 min „Co się zmieniło" + „Autoryzacja"; 20 min „Rytuał sprawdź–uruchom–zgłoś" (z odegraniem dialogu w parach); 20 min narracja Hai (czytanie z przerwami, pytania otwarte); 15 min pięć pułapek (burza mózgów, która grozi komu); 10 min Kluczowe terminy (wspólne wymówienie); 20 min Mapa kariery (na tablicy, każdy kursant zaznacza, gdzie chce być).
-- **Pułapka pedagogiczna nr 1:** sekcja „Hai pierwszego dnia" zawiera moment emocjonalny (łzy z ulgi). Nie omijaj go i nie komentuj ironicznie. Dla części kursantów to pierwszy raz, kiedy słyszą, że **emocja pracownika jest dopuszczalna w polskim zakładzie**. Zostaw ciszę po tym fragmencie.
+- **Rytm 120 min (proponowany):** 15 min Wprowadzenie + Cele; 20 min „Co się zmieniło" + „Autoryzacja"; 20 min „Rytuał sprawdź–uruchom–zgłoś" (z odegraniem dialogu w parach); 20 min narracja Andrij (czytanie z przerwami, pytania otwarte); 15 min pięć pułapek (burza mózgów, która grozi komu); 10 min Kluczowe terminy (wspólne wymówienie); 20 min Mapa kariery (na tablicy, każdy kursant zaznacza, gdzie chce być).
+- **Pułapka pedagogiczna nr 1:** sekcja „Andrij pierwszego dnia" zawiera moment emocjonalny (łzy z ulgi). Nie omijaj go i nie komentuj ironicznie. Dla części kursantów to pierwszy raz, kiedy słyszą, że **emocja pracownika jest dopuszczalna w polskim zakładzie**. Zostaw ciszę po tym fragmencie.
 - **Pułapka pedagogiczna nr 2:** samoocena 12 zasad może skusić kursanta do „wypełniania na odpis". Zrób ją na głos, w rundce, każdy za jedną zasadę. Jeśli ktoś ma „muszę przypomnieć" przy więcej niż trzech zasadach, zaplanuj mu indywidualną godzinę powtórki z M1 l7.
 - **Mapa kariery:** rysuj cztery szczeble na tablicy od dołu do góry. Poproś każdego kursanta, żeby **zaznaczył krzyżykiem**, na którym szczeblu chce być za rok. Nie komentuj wyborów. Mapa ma pokazać, że różne drogi są dostępne, a nie narzucić jedną.
 - **Czas powrotu do tej lekcji:** nawiązuj do rytuału „sprawdź – uruchom – zgłoś" w każdej lekcji tego tygodnia (l2 ŚOI, l3 STOP > START, l4 checklist, l5 Rozp. MG, l6 pył, l7 zakleszczenia, l8 pierwsza pomoc). Ten rytuał jest osią całego M2, a nie tylko wstępu.

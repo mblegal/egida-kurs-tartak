@@ -6,13 +6,13 @@ czas: 120
 
 ## Wprowadzenie
 
-Poniedziałek, 2026-04-27. Rustam przychodzi na zmianę o 6:45, pięć minut przed wszystkimi. W portierni widzi kartkę zawieszoną na tablicy: „P3, zmiana poranna, kampania: jesion amerykański, 120 × 50, 2200 mb". Rustam zatrzymuje się. Patrzy na kartkę drugi raz. Trzeci raz.
+Poniedziałek, 2026-04-27. Mykoła przychodzi na zmianę o 6:45, pięć minut przed wszystkimi. W portierni widzi kartkę zawieszoną na tablicy: „P3, zmiana poranna, kampania: jesion amerykański, 120 × 50, 2200 mb". Mykoła zatrzymuje się. Patrzy na kartkę drugi raz. Trzeci raz.
 
-Jesionu amerykańskiego nie robił jeszcze nigdy. Sosnę, dąb, buk, świerk, olchę, brzozę, modrzew robił. Jesion europejski robił raz, w M2, pod nadzorem Marka. Jesion amerykański (nazwa łacińska *Fraxinus americana*, w obrocie nazywany też „ash" albo „white ash") to drewno, które wygląda podobnie, ale ma inną gęstość, inne słoje przejścia, inne zachowanie przy cięciu. Ludzie, którzy robili go po raz pierwszy, opowiadali Rustamowi w kantynie, że taśma wibruje nietypowo i że kłoda pęka w inny sposób niż europejski kuzyn.
+Jesionu amerykańskiego nie robił jeszcze nigdy. Sosnę, dąb, buk, świerk, olchę, brzozę, modrzew robił. Jesion europejski robił raz, w M2, pod nadzorem Marka. Jesion amerykański (nazwa łacińska *Fraxinus americana*, w obrocie nazywany też „ash" albo „white ash") to drewno, które wygląda podobnie, ale ma inną gęstość, inne słoje przejścia, inne zachowanie przy cięciu. Ludzie, którzy robili go po raz pierwszy, opowiadali Mykole w kantynie, że taśma wibruje nietypowo i że kłoda pęka w inny sposób niż europejski kuzyn.
 
-Rustam ma dwa wyjścia. Pierwsze: włączyć maszynę o 7:00 i **nauczyć się na działaniu**, jak mówią niektórzy. Drugie: poświęcić piętnaście minut, zanim dotknie czerwonego przycisku, na **ocenę ryzyka**, czyli systematyczne przemyślenie, co może pójść źle i jak temu zapobiec.
+Mykoła ma dwa wyjścia. Pierwsze: włączyć maszynę o 7:00 i **nauczyć się na działaniu**, jak mówią niektórzy. Drugie: poświęcić piętnaście minut, zanim dotknie czerwonego przycisku, na **ocenę ryzyka**, czyli systematyczne przemyślenie, co może pójść źle i jak temu zapobiec.
 
-W poprzednim tartaku Rustama, w Duszanbe, istniała tylko opcja pierwsza. Stary mistrz mówił: „robisz, zobaczymy co się stanie". W EGIDA, w M3, od operatora samodzielnego oczekuje się opcji drugiej. Nie jako biurokracja, lecz jako nawyk. Piętnaście minut przed nową operacją, dłoń na kartce, trzy pytania na głos (albo w myślach), wpis do kartki oceny ryzyka, podpis. Dopiero potem czerwony przycisk.
+W poprzednim tartaku Mykoły, w Połtawa, istniała tylko opcja pierwsza. Stary mistrz mówił: „robisz, zobaczymy co się stanie". W EGIDA, w M3, od operatora samodzielnego oczekuje się opcji drugiej. Nie jako biurokracja, lecz jako nawyk. Piętnaście minut przed nową operacją, dłoń na kartce, trzy pytania na głos (albo w myślach), wpis do kartki oceny ryzyka, podpis. Dopiero potem czerwony przycisk.
 
 Dziś nauczysz się tego nawyku. Trzy pytania, jedna kartka formatu A5, pięć minut pracy minimum, piętnaście minut maksimum. Narzędzie, które ratuje palce, ścięgna i taśmy, a w tle mapuje się na poważną metodykę branżową, której możesz nauczyć się później, jeżeli pójdziesz na kurs inspektora BHP.
 
@@ -49,9 +49,9 @@ Nie robisz oceny ryzyka przed **każdą** kłodą. Byłoby to bezcelowe: rutynow
 
 Trzy wyzwalacze obowiązkowe w EGIDA M3:
 
-**Wyzwalacz 1: nowy gatunek drewna.** Każdy gatunek, którego nie cięłeś **ani razu na tej maszynie**. Rustam dziś ma jesion amerykański, pierwszy raz. Jesion amerykański jest cięższy od europejskiego (gęstość 670 kg/m³ vs 680 kg/m³ w stanie suchym, ale różna dystrybucja słojów), ma większą twardość przekroju, inną wilgotność początkową w imporcie przez Bałtyk.
+**Wyzwalacz 1: nowy gatunek drewna.** Każdy gatunek, którego nie cięłeś **ani razu na tej maszynie**. Mykoła dziś ma jesion amerykański, pierwszy raz. Jesion amerykański jest cięższy od europejskiego (gęstość 670 kg/m³ vs 680 kg/m³ w stanie suchym, ale różna dystrybucja słojów), ma większą twardość przekroju, inną wilgotność początkową w imporcie przez Bałtyk.
 
-**Wyzwalacz 2: nowy wymiar.** Dłużyca dłuższa o 30% od twojego standardu, grubsza o 30% od twojej średnicy projektowej, albo krótsza o 30% (bo krótka kłoda ma inne zachowanie na wózku). Rustam dziś ma 2200 mb długości partii, przy średniej kłodzie 3,0 m, to około 730 kłód, żaden problem. Ale jeżeli w partii są kłody 4,2 m (30% dłuższe niż typowe 3,2 m w EGIDA), to wymiar wyzwalający.
+**Wyzwalacz 2: nowy wymiar.** Dłużyca dłuższa o 30% od twojego standardu, grubsza o 30% od twojej średnicy projektowej, albo krótsza o 30% (bo krótka kłoda ma inne zachowanie na wózku). Mykoła dziś ma 2200 mb długości partii, przy średniej kłodzie 3,0 m, to około 730 kłód, żaden problem. Ale jeżeli w partii są kłody 4,2 m (30% dłuższe niż typowe 3,2 m w EGIDA), to wymiar wyzwalający.
 
 **Wyzwalacz 3: zastępstwo na innym stanowisku.** Dziś jesteś na P3, normalnie pracujesz na P3, ale w piątek stajesz na P1 zamiast Piotra (chory). P1 to wielotaśmówka, inna maszyna, inny pulpit, inne odruchy. Zastępstwo **zawsze** wymaga oceny ryzyka, nawet jeżeli stanowisko zastępcze formalnie znasz z kursu.
 
@@ -61,7 +61,7 @@ Czwarty wyzwalacz nieformalny, ale operacyjnie krytyczny: **twoja intuicja mówi
 
 ### Narzędzie trzech pytań, w całości
 
-Marek daje Rustamowi kartkę o 6:52. Format: A5, druk zakładowy, nagłówek „Karta oceny ryzyka operacji, EGIDA sp. z o.o., pilarnia, formularz OR-OP-001". Pod nagłówkiem trzy pola adresowe (operator, data, operacja/gatunek/wymiar/maszyna) i trzy pytania z miejscem na odpowiedź po 5–10 linijek każde. Na dole pole „Podpis operatora" i „Podpis brygadzisty (opcjonalnie przy eskalacji)".
+Marek daje Mykole kartkę o 6:52. Format: A5, druk zakładowy, nagłówek „Karta oceny ryzyka operacji, EGIDA sp. z o.o., pilarnia, formularz OR-OP-001". Pod nagłówkiem trzy pola adresowe (operator, data, operacja/gatunek/wymiar/maszyna) i trzy pytania z miejscem na odpowiedź po 5–10 linijek każde. Na dole pole „Podpis operatora" i „Podpis brygadzisty (opcjonalnie przy eskalacji)".
 
 Trzy pytania są dosłownie takie:
 
@@ -79,41 +79,41 @@ Trzy ryzyka to nie magia, to pojemność twojej uwagi operacyjnej. Psychologia p
 
 ### Pytanie 1: co może pójść źle
 
-Rustam siada przy pulpicie P3, kartka leży na blacie, długopis pożyczony od Wahana. 6:55. Pierwsze pytanie.
+Mykoła siada przy pulpicie P3, kartka leży na blacie, długopis pożyczony od Wasyla. 6:55. Pierwsze pytanie.
 
-Patrzy na kłodę jesionu amerykańskiego leżącą na rampie wjazdowej. Trzydzieści centymetrów średnicy na czole, kora jasnobrązowa z czarnymi plamkami (to normalne dla jesionu po transporcie morskim, grzybki powierzchniowe, nie wchodzą w drewno). Końcówka kłody pokazuje słoje: szerokie, równomierne, znak zdrowej wiosennej części, ale pod korą widać **ciemną obwódkę 2-3 cm**, której Rustam nie widział w jesionie europejskim. Nie wie jeszcze, czy to wada, czy cecha gatunku. Zapisuje w głowie: „zapytam w kantynie po pierwszej kłodzie".
+Patrzy na kłodę jesionu amerykańskiego leżącą na rampie wjazdowej. Trzydzieści centymetrów średnicy na czole, kora jasnobrązowa z czarnymi plamkami (to normalne dla jesionu po transporcie morskim, grzybki powierzchniowe, nie wchodzą w drewno). Końcówka kłody pokazuje słoje: szerokie, równomierne, znak zdrowej wiosennej części, ale pod korą widać **ciemną obwódkę 2-3 cm**, której Mykoła nie widział w jesionie europejskim. Nie wie jeszcze, czy to wada, czy cecha gatunku. Zapisuje w głowie: „zapytam w kantynie po pierwszej kłodzie".
 
 **Ryzyko 1: taśma wibruje nietypowo w nowym gatunku.** Jesion amerykański ma twardszą strefę przejścia między wiosną a latem niż europejski. Taśma, która w europejskim idzie równo, w amerykańskim może „podskakiwać" na przejściach, co daje falisty rzaz (M2 l5 uczyło rozpoznawać) i zwiększa ryzyko zerwania taśmy. Zapisywane: „taśma wibruje nietypowo, falisty rzaz, zerwanie taśmy".
 
-**Ryzyko 2: kłoda pęka wzdłuż słoja pod naprężeniem.** Jesion amerykański przy wilgotności importu (powiedzmy 35–40%) w połączeniu z ciepłem hali (14°C) może uwolnić naprężenia wewnętrzne w formie pęknięcia wzdłużnego w trakcie cięcia. Pęknięcie to nie jest groźne dla Rustama (kłoda jest w uchwytach wózka), ale daje wybrak cięcia i może chlapnąć drzazgą na wysokość oczu. Zapisywane: „pęknięcie wzdłużne w cięciu, wybrak + drzazga".
+**Ryzyko 2: kłoda pęka wzdłuż słoja pod naprężeniem.** Jesion amerykański przy wilgotności importu (powiedzmy 35–40%) w połączeniu z ciepłem hali (14°C) może uwolnić naprężenia wewnętrzne w formie pęknięcia wzdłużnego w trakcie cięcia. Pęknięcie to nie jest groźne dla Mykoły (kłoda jest w uchwytach wózka), ale daje wybrak cięcia i może chlapnąć drzazgą na wysokość oczu. Zapisywane: „pęknięcie wzdłużne w cięciu, wybrak + drzazga".
 
 **Ryzyko 3: czarne plamki na korze to nie tylko grzybek.** Jeżeli importer nie przeprowadził fitosanitacji (IPPC, ISPM 15), mogłyby być w korze ślady **kornika jesionowego** (*Agrilus planipennis*, gatunek inwazyjny z Ameryki Północnej, zakazany w UE). Zapisywane: „podejrzenie szkodnika kwarantannowego, wstrzymanie i zgłoszenie PIORiN".
 
-Trzy ryzyka. Pierwsze dwa operacyjne, trzecie regulacyjne. Wszystkie są w kontekście „nowy gatunek" i żadnego z nich Rustam nie ma w europejskim jesionie.
+Trzy ryzyka. Pierwsze dwa operacyjne, trzecie regulacyjne. Wszystkie są w kontekście „nowy gatunek" i żadnego z nich Mykoła nie ma w europejskim jesionie.
 
 ::: example
-Zauważ, że Rustam nie pisał: „taśma się zerwie, bo zawsze się zrywa". Pisze konkretnie: „taśma wibruje **nietypowo w nowym gatunku**, bo jesion amerykański ma twardszą strefę przejścia". Konkret jest ważny, bo mitygacja w P3 będzie inna dla „wibracji w nowym gatunku" (= zwolnić posuw, obserwować pierwsze pięć kłód) niż dla „taśma tępa" (= wymienić taśmę). Generyczne ryzyko prowadzi do generycznej mitygacji, a ta nie działa w konkretnym przypadku.
+Zauważ, że Mykoła nie pisał: „taśma się zerwie, bo zawsze się zrywa". Pisze konkretnie: „taśma wibruje **nietypowo w nowym gatunku**, bo jesion amerykański ma twardszą strefę przejścia". Konkret jest ważny, bo mitygacja w P3 będzie inna dla „wibracji w nowym gatunku" (= zwolnić posuw, obserwować pierwsze pięć kłód) niż dla „taśma tępa" (= wymienić taśmę). Generyczne ryzyko prowadzi do generycznej mitygacji, a ta nie działa w konkretnym przypadku.
 :::
 
 ### Pytanie 2: jak groźnie to się skończy
 
-6:59. Rustam przeszedł do pytania drugiego. To jest najszybsze z trzech, bo odpowiedź zwykle ma dwa, trzy słowa per ryzyko. Ale te dwa słowa decydują, czy ryzyko pominiesz, czy będziesz mitygować.
+6:59. Mykoła przeszedł do pytania drugiego. To jest najszybsze z trzech, bo odpowiedź zwykle ma dwa, trzy słowa per ryzyko. Ale te dwa słowa decydują, czy ryzyko pominiesz, czy będziesz mitygować.
 
-Skala skutku dla operatora samodzielnego (Marek pokazał Rustamowi w odprawie poniedziałkowej):
+Skala skutku dla operatora samodzielnego (Marek pokazał Mykole w odprawie poniedziałkowej):
 
 - **Niski:** wybrak tarcicy (koszt materiałowy), zwiększone zużycie narzędzia, nadgodziny operatora. Skutek mierzony w złotych lub godzinach pracy. Mitygacja sensowna, ale nie priorytetowa.
 - **Średni:** uszkodzenie maszyny (koszt naprawy, przestój linii), zadanie klienta nie zamknięte w terminie (kara umowna), utrata partii materiału. Skutek mierzony w tysiącach złotych albo w ryzyku reklamacji. Mitygacja obowiązkowa, pierwszeństwo przed produkcją.
 - **Wysoki:** uraz operatora, wybuch pożaru, awaria linii uniemożliwiająca zmianę, sprawa PIP. Skutek mierzony w ciele, hospitalizacji, papierologii prawnej. Mitygacja **bezwzględna**, odmowa pracy (art. 210 KP) jeżeli mitygacja nie jest dostępna.
 
-Rustam ocenia swoje trzy ryzyka:
+Mykoła ocenia swoje trzy ryzyka:
 
-**Ryzyko 1 (taśma wibruje, falisty rzaz, zerwanie):** średni. Zerwanie taśmy w P3 nie leci na Rustama (osłony na miejscu, to M2 l5), ale daje przestój 40 minut na wymianę, wybrak materiału na drodze cięcia. Koszt około 800 zł za zerwaną taśmę + 1200 zł za wybrak + 800 zł nadgodzin do odrobienia. Łącznie ~2800 zł w jednym zdarzeniu.
+**Ryzyko 1 (taśma wibruje, falisty rzaz, zerwanie):** średni. Zerwanie taśmy w P3 nie leci na Mykołę (osłony na miejscu, to M2 l5), ale daje przestój 40 minut na wymianę, wybrak materiału na drodze cięcia. Koszt około 800 zł za zerwaną taśmę + 1200 zł za wybrak + 800 zł nadgodzin do odrobienia. Łącznie ~2800 zł w jednym zdarzeniu.
 
-**Ryzyko 2 (pęknięcie wzdłużne, drzazga):** niski-średni. Materiałowo wybrak (~600 zł), drzazga na wysokość oczu groźna, ale **mamy osłonę przeciwodłamkową** (standard EGIDA na P3, M2 l6 o tym mówiło). Jeżeli Rustam ma gogle i osłonę na miejscu, drzazga nie dotrze do oczu. Niski ze strony operatora, średni ze strony materiału.
+**Ryzyko 2 (pęknięcie wzdłużne, drzazga):** niski-średni. Materiałowo wybrak (~600 zł), drzazga na wysokość oczu groźna, ale **mamy osłonę przeciwodłamkową** (standard EGIDA na P3, M2 l6 o tym mówiło). Jeżeli Mykoła ma gogle i osłonę na miejscu, drzazga nie dotrze do oczu. Niski ze strony operatora, średni ze strony materiału.
 
-**Ryzyko 3 (podejrzenie szkodnika kwarantannowego):** wysoki, ale specyficzny. Jeżeli kornik jesionowy faktycznie jest w korze, zakład zostaje zamknięty na kwarantannę przez PIORiN (Państwowa Inspekcja Ochrony Roślin i Nasiennictwa) na tygodnie, kary administracyjne 10–50 tys. zł. Dla Rustama osobiście: zero urazu, ale mógłby być kwestionowany o to, czy zauważył i zgłosił. Prawdopodobieństwo bardzo niskie (importer powinien mieć certyfikat ISPM 15), ale skutek wysoki, więc ryzyko w sumie **średnie**.
+**Ryzyko 3 (podejrzenie szkodnika kwarantannowego):** wysoki, ale specyficzny. Jeżeli kornik jesionowy faktycznie jest w korze, zakład zostaje zamknięty na kwarantannę przez PIORiN (Państwowa Inspekcja Ochrony Roślin i Nasiennictwa) na tygodnie, kary administracyjne 10–50 tys. zł. Dla Mykoły osobiście: zero urazu, ale mógłby być kwestionowany o to, czy zauważył i zgłosił. Prawdopodobieństwo bardzo niskie (importer powinien mieć certyfikat ISPM 15), ale skutek wysoki, więc ryzyko w sumie **średnie**.
 
-Rustam zapisuje: „R1 średni, R2 niski-średni, R3 średni z niskim prawdopodobieństwem". Trzy minuty, gotowe.
+Mykoła zapisuje: „R1 średni, R2 niski-średni, R3 średni z niskim prawdopodobieństwem". Trzy minuty, gotowe.
 
 ::: info
 Dla pełnej metodyki (jeżeli pójdziesz na kurs inspektora BHP) skutek mnoży się przez prawdopodobieństwo w formie macierzy 3×3 albo 5×5 (PN-N-18002 używa 3×3, część norm europejskich 5×5). Ryzyko = prawdopodobieństwo × skutek. Operator pomija macierz, bo w piętnaście minut nie oszacuje prawdopodobieństwa numerycznie, robi to intuicyjnie („bardzo niskie, niskie, średnie, wysokie"). Intuicja operatora oparta na doświadczeniu i uwadze jest dla krótkich kart A5 wystarczająca. Macierz jest dla dokumentu zakładowego (Jarosław).
@@ -121,9 +121,9 @@ Dla pełnej metodyki (jeżeli pójdziesz na kurs inspektora BHP) skutek mnoży s
 
 ### Pytanie 3: co robisz, żeby temu zapobiec
 
-7:04. Rustam przy pytaniu trzecim. To jest najbardziej wartościowe pole karty, bo tu karta zamienia się z refleksji w działanie. Bez tego pola karta jest dziennikiem obaw, nie narzędziem operatora.
+7:04. Mykoła przy pytaniu trzecim. To jest najbardziej wartościowe pole karty, bo tu karta zamienia się z refleksji w działanie. Bez tego pola karta jest dziennikiem obaw, nie narzędziem operatora.
 
-**Mitygacja R1 (wibracja, falisty rzaz, zerwanie).** Rustam pisze trzy działania konkretne:
+**Mitygacja R1 (wibracja, falisty rzaz, zerwanie).** Mykoła pisze trzy działania konkretne:
 
 - Zwolnić posuw z 15 m/min (standard sosny) do 9 m/min dla pierwszych **pięciu kłód** jesionu amerykańskiego. Obserwować jakość rzazu (lusterko, dotyk dłonią). Jeżeli rzaz czysty, zwiększyć do 12 m/min, jeżeli falisty, zostać na 9.
 - Sprawdzić napięcie taśmy (powinno być 2300 PSI dla taśmy stopowej, jeżeli spadło w nocy, uzupełnić).
@@ -131,30 +131,30 @@ Dla pełnej metodyki (jeżeli pójdziesz na kurs inspektora BHP) skutek mnoży s
 
 **Mitygacja R2 (pęknięcie wzdłużne, drzazga).** Dwa działania:
 
-- Założyć **osłonę przeciwodłamkową** na pulpit P3 (standard EGIDA, wisi obok osłony stałej, Rustam sprawdzi po porannej odprawie). Gogle z boków na twarz na całą zmianę, nie tylko przy cięciu.
-- Ustawić wózek tak, żeby pierwsza kłoda była **kłodą mniejszą** (30 cm średnicy, ta którą widzi). Kłody większe (35–40 cm) zostawić na po pierwszych pięciu, gdy Rustam zobaczy, jak materiał się zachowuje.
+- Założyć **osłonę przeciwodłamkową** na pulpit P3 (standard EGIDA, wisi obok osłony stałej, Mykoła sprawdzi po porannej odprawie). Gogle z boków na twarz na całą zmianę, nie tylko przy cięciu.
+- Ustawić wózek tak, żeby pierwsza kłoda była **kłodą mniejszą** (30 cm średnicy, ta którą widzi). Kłody większe (35–40 cm) zostawić na po pierwszych pięciu, gdy Mykoła zobaczy, jak materiał się zachowuje.
 
 **Mitygacja R3 (szkodnik kwarantannowy).** Jedno działanie proceduralne:
 
-- **Zanim** Rustam tknie pierwszą kłodę, odwiedza Marka z kartką oceny ryzyka i pyta: „Marek, patrzę na jesion amerykański, widzę ciemną obwódkę pod korą 2-3 cm, czy to grzybek powierzchniowy, czy powinienem sprawdzić certyfikat ISPM 15 i PIORiN". Marek odpowiada. Jeżeli Marek ma wątpliwości, dzwoni do importera po certyfikat. Dopiero po odpowiedzi Rustam wraca do P3.
+- **Zanim** Mykoła tknie pierwszą kłodę, odwiedza Marka z kartką oceny ryzyka i pyta: „Marek, patrzę na jesion amerykański, widzę ciemną obwódkę pod korą 2-3 cm, czy to grzybek powierzchniowy, czy powinienem sprawdzić certyfikat ISPM 15 i PIORiN". Marek odpowiada. Jeżeli Marek ma wątpliwości, dzwoni do importera po certyfikat. Dopiero po odpowiedzi Mykoła wraca do P3.
 
-Rustam zapisuje mitygacje, podpisuje kartę. 7:08. Szesnaście minut od pierwszego pytania do podpisu. Troszkę przekroczył piętnastominutowy limit, ale Marek mówił: „pierwsza karta może pójść dłużej, od trzeciej karty robi się w pięć minut".
+Mykoła zapisuje mitygacje, podpisuje kartę. 7:08. Szesnaście minut od pierwszego pytania do podpisu. Troszkę przekroczył piętnastominutowy limit, ale Marek mówił: „pierwsza karta może pójść dłużej, od trzeciej karty robi się w pięć minut".
 
 ### Eskalacja do Marka: kiedy karta nie wystarcza
 
-Rustam kończy kartę i idzie z nią do Marka o 7:09. Marek jest w swoim kantorku, przegląda dyspozycje dnia. Rustam stoi w drzwiach.
+Mykoła kończy kartę i idzie z nią do Marka o 7:09. Marek jest w swoim kantorku, przegląda dyspozycje dnia. Mykoła stoi w drzwiach.
 
-> **Rustam:** „Marek, karta oceny ryzyka na jesion amerykański. Trzy ryzyka zapisane. Jedno z nich muszę przedyskutować, zanim zacznę."
+> **Mykoła:** „Marek, karta oceny ryzyka na jesion amerykański. Trzy ryzyka zapisane. Jedno z nich muszę przedyskutować, zanim zacznę."
 >
 > **Marek:** „Siadaj. Które?"
 >
-> **Rustam:** „Ciemna obwódka 2-3 cm pod korą. W europejskim jej nie widziałem. Nie wiem, czy to grzybek powierzchniowy, czy ślad szkodnika kwarantannowego. Nie chcę zaczynać, jeżeli zakład mógłby trafić na kwarantannę PIORiN."
+> **Mykoła:** „Ciemna obwódka 2-3 cm pod korą. W europejskim jej nie widziałem. Nie wiem, czy to grzybek powierzchniowy, czy ślad szkodnika kwarantannowego. Nie chcę zaczynać, jeżeli zakład mógłby trafić na kwarantannę PIORiN."
 >
 > **Marek:** „Dobrze myślisz. Zadzwonię do importera, sprawdzę certyfikat ISPM 15. Daj mi pięć minut. Jeżeli certyfikat jest, puścisz zmianę o 7:15 zamiast 7:00. Jeżeli nie, cofamy partię."
 
-Marek dzwoni. Certyfikat jest, Emiraty Arabskie przeładunek, linia do Gdańska, ISPM 15 z 2026-03-11. W porządku. Rustam wraca na P3 o 7:14, zaczyna o 7:15 z obniżonym posuwem. Pierwsza kłoda idzie w 11 minut (standard byłby 7 minut), pierwsza deska wychodzi czysto, druga czysto. Rustam zwiększa posuw do 12 m/min. Dzień się zaczyna.
+Marek dzwoni. Certyfikat jest, Emiraty Arabskie przeładunek, linia do Gdańska, ISPM 15 z 2026-03-11. W porządku. Mykoła wraca na P3 o 7:14, zaczyna o 7:15 z obniżonym posuwem. Pierwsza kłoda idzie w 11 minut (standard byłby 7 minut), pierwsza deska wychodzi czysto, druga czysto. Mykoła zwiększa posuw do 12 m/min. Dzień się zaczyna.
 
-Karta oceny ryzyka trafia do teczki „OR-OP" przy pulpicie Marka. Kopię Rustam zostawia sobie w kurtce, zerka na nią co kilka kłód w pierwszej godzinie. Od drugiej godziny karta już mu niepotrzebna, ryzyka są w ręce i w uchu, odruch stabilny.
+Karta oceny ryzyka trafia do teczki „OR-OP" przy pulpicie Marka. Kopię Mykoła zostawia sobie w kurtce, zerka na nią co kilka kłód w pierwszej godzinie. Od drugiej godziny karta już mu niepotrzebna, ryzyka są w ręce i w uchu, odruch stabilny.
 
 ::: warning
 Trzy kryteria **eskalacji do Marka**, zamiast kończenia karty samemu:
@@ -189,7 +189,7 @@ Kartą uprzedzasz: „co może pójść źle". STOP-em reagujesz: „coś poszł
 Relacja liczbowa obserwowana w EGIDA: na jedno zatrzymanie STOP przypada zwykle trzy do pięciu kart oceny ryzyka operacji. Dobra karta oszczędza jedno STOP, bo ryzyko zostało zauważone zawczasu i albo zmitygowane, albo operacja została w ogóle zmieniona.
 
 ::: example
-Tego samego jesionu, którego Rustam kroi dziś z kartą i obniżonym posuwem, jego kolega Bartłomiej kroił trzy lata temu **bez karty**, na standardowym posuwie 15 m/min. Pierwsza kłoda poszła (nauczyciel miał szczęście). Druga kłoda pękła wzdłużnie, drzazga uderzyła w osłonę (na szczęście Bartłomiej miał założoną). Trzecia kłoda wytrąciła taśmę z prowadnic, zerwała, wybrak materiału 2400 zł, przestój 1,5 godziny, dzień się sypie. Marek wtedy powiedział: „Bartek, następnym razem karta". Bartek ją wtedy pierwszy raz zobaczył. Dziś Bartek uczy juniorów, zawsze z kartą.
+Tego samego jesionu, którego Mykoła kroi dziś z kartą i obniżonym posuwem, jego kolega Bartłomiej kroił trzy lata temu **bez karty**, na standardowym posuwie 15 m/min. Pierwsza kłoda poszła (nauczyciel miał szczęście). Druga kłoda pękła wzdłużnie, drzazga uderzyła w osłonę (na szczęście Bartłomiej miał założoną). Trzecia kłoda wytrąciła taśmę z prowadnic, zerwała, wybrak materiału 2400 zł, przestój 1,5 godziny, dzień się sypie. Marek wtedy powiedział: „Bartek, następnym razem karta". Bartek ją wtedy pierwszy raz zobaczył. Dziś Bartek uczy juniorów, zawsze z kartą.
 :::
 
 ### Podsumowanie lekcji szóstej
@@ -311,7 +311,7 @@ Jutro w l7 wejdziemy w temat, który jest specyfiką polskiej zimy: -10°C na ha
 
 ## Notatki dla trenera
 
-- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele; 15 min dwa rodzaje oceny ryzyka (tablica, pokazanie formularza PN-N-18002 w miniaturze obok formularza A5); 10 min trzy wyzwalacze (dyskusja: jakie wyzwalacze mieli kursanci w swoich dotychczasowych pracach); 20 min scena Rustama przy P3 z kartą (czytanie głośne, zatrzymanie po każdym pytaniu, dyskusja: „czy wy zapisalibyście te same ryzyka?"); 15 min pytanie 1 pogłębione (różnica ryzyko vs. skutek, ćwiczenie: podaj mi dwa ryzyka i dwa skutki tej samej operacji); 15 min pytanie 3 pogłębione (konkret vs. abstrakcja, test „czy kolega by zrozumiał"); 10 min eskalacja do brygadzisty (trzy kryteria, scenka rozmowy); 10 min trzy błędy najczęstsze i karta vs. STOP; 10 min Kluczowe terminy i podsumowanie; 5 min zapowiedź l7 (warunki nietypowe).
+- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele; 15 min dwa rodzaje oceny ryzyka (tablica, pokazanie formularza PN-N-18002 w miniaturze obok formularza A5); 10 min trzy wyzwalacze (dyskusja: jakie wyzwalacze mieli kursanci w swoich dotychczasowych pracach); 20 min scena Mykoły przy P3 z kartą (czytanie głośne, zatrzymanie po każdym pytaniu, dyskusja: „czy wy zapisalibyście te same ryzyka?"); 15 min pytanie 1 pogłębione (różnica ryzyko vs. skutek, ćwiczenie: podaj mi dwa ryzyka i dwa skutki tej samej operacji); 15 min pytanie 3 pogłębione (konkret vs. abstrakcja, test „czy kolega by zrozumiał"); 10 min eskalacja do brygadzisty (trzy kryteria, scenka rozmowy); 10 min trzy błędy najczęstsze i karta vs. STOP; 10 min Kluczowe terminy i podsumowanie; 5 min zapowiedź l7 (warunki nietypowe).
 
 - **Mapa narzędzia trzech pytań na pełny arkusz JSA/PHA (dla ambitnych kursantów i dla siebie).** Arkusz JSA branżowy ma osiem kolumn, karta operatora zwija je do trzech pytań. Tabela poniżej pokazuje mapowanie:
 
@@ -334,7 +334,7 @@ Komentarz: mapping nie jest doskonały (karta A5 wycina prawdopodobieństwo i ry
 
 - **Pułapka pedagogiczna nr 3: mitygacje abstrakcyjne**. To najczęstszy błąd na pierwszej karcie. Kursanci piszą „uważać", „zachować ostrożność", „przestrzegać przepisów BHP". Trener powinien z każdej takiej karty wrócić: „co konkretnie zrobisz w pierwszej minucie po włączeniu maszyny". Dopóki kursant nie wymieni **czynności** (zwolnić, sprawdzić, założyć, zawołać), mitygacja jest pusta. To ćwiczenie nauczone raz zwraca się dziesiątki razy w życiu zawodowym.
 
-- **Scena Rustama z Markiem o ciemnej obwódce jesionu:** można tu zatrzymać się dłużej. Fakt, że Rustam **nie zaczął operacji** dopóki nie dostał odpowiedzi od Marka, jest kluczowym modelowaniem. To nie jest „bałaganiarz, który marudzi". To jest operator samodzielny, który rozumie, że piętnaście minut opóźnienia startu jest lepsze niż tydzień kwarantanny PIORiN. Grupa powinna to zobaczyć.
+- **Scena Mykoły z Markiem o ciemnej obwódce jesionu:** można tu zatrzymać się dłużej. Fakt, że Mykoła **nie zaczął operacji** dopóki nie dostał odpowiedzi od Marka, jest kluczowym modelowaniem. To nie jest „bałaganiarz, który marudzi". To jest operator samodzielny, który rozumie, że piętnaście minut opóźnienia startu jest lepsze niż tydzień kwarantanny PIORiN. Grupa powinna to zobaczyć.
 
 - **Opcjonalne ćwiczenie terenowe:** jeżeli możliwe, poproś uczestników o przyniesienie na następne zajęcia **rzeczywistej** karty oceny ryzyka ze swojego tartaku (wypełnionej, z podpisem). Analiza w grupie takiego dokumentu, zanonymizowana, jest najbardziej wartościowa pedagogicznie. Kursanci widzą, że koledzy mają te same dylematy, i uczą się od siebie.
 

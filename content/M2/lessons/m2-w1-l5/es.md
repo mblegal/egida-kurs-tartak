@@ -6,7 +6,7 @@ czas: 120
 
 ## Introducción
 
-Sexto día de la semana 1. Hai cerró el viernes con el checklist de 5 puntos (lección 4). Lunes, nueva semana, nuevo protagonista: **Oleh, ucraniano de Chernihiv, 27 años**. En la empresa anterior, cerca de Varsovia, fue ayudante año y medio; ahora lleva su primer mes como operador junior de sierra circular de formato. Nuevo aserradero, nueva máquina, nuevo rango.
+Sexto día de la semana 1. Andrij cerró el viernes con el checklist de 5 puntos (lección 4). Lunes, nueva semana, nuevo protagonista: **Oleh, ucraniano de Chernihiv, 27 años**. En la empresa anterior, cerca de Varsovia, fue ayudante año y medio; ahora lleva su primer mes como operador junior de sierra circular de formato. Nuevo aserradero, nueva máquina, nuevo rango.
 
 El lunes por la mañana el capataz le deja sobre la mesa una impresión en A4 y le dice: **«Léelo, subraya lo que afecta a tu máquina, me lo devuelves mañana.»** Oleh mira el encabezado:
 

@@ -8,9 +8,9 @@ czas: 120
 
 Czwartek, dziewiąty dzień tygodnia 1. Poniedziałek: Oleh i prawo. Wtorek: Andrei i pył. Środa: Siarhei i pięć kroków awarii. Dzisiaj zamykamy tydzień lekcją, która jest najcięższa i najprostsza jednocześnie. Najcięższa, bo opisuje sytuację, o której nikt nie chce myśleć. Najprostsza, bo w tej sytuacji nie ma czasu na myślenie, jest tylko rytuał.
 
-**Bohater dzisiejszej lekcji to Hai**, Wietnamczyk z tygodnia 1 lekcji 1, ten sam, który w poniedziałek po raz pierwszy sam stanął przy pilarce taśmowej. O 10:23 Hai niesie worek trocin z hali odpylania do kontenera na placu. Mija halę 1. Pilarka taśmowa nr 4. Operator: **Paweł Nowak, 52 lata, piętnaście lat w tartaku**. Paweł jest weteranem. Paweł zna maszynę na pamięć. Paweł tego ranka spieszył się, bo dostawca czekał w biurze na jego podpis. Paweł miał zakleszczenie o 10:22. Paweł pominął krok trzeci (ZAKOTWICZ) z lekcji 7, bo „już się zatrzymało, szybko wyjmę i jadę dalej". Paweł wyciągnął deskę lewą dłonią. Resztkowy moment taśmy (40 Nm, pamiętasz?) szarpnął tarczą. **O 10:23:08 palec wskazujący lewej dłoni Pawła leży obok deski na stole. Z kikuta tryska jasnoczerwona krew pulsującym strumieniem.**
+**Bohater dzisiejszej lekcji to Andrij**, Ukrainiec z tygodnia 1 lekcji 1, ten sam, który w poniedziałek po raz pierwszy sam stanął przy pilarce taśmowej. O 10:23 Andrij niesie worek trocin z hali odpylania do kontenera na placu. Mija halę 1. Pilarka taśmowa nr 4. Operator: **Paweł Nowak, 52 lata, piętnaście lat w tartaku**. Paweł jest weteranem. Paweł zna maszynę na pamięć. Paweł tego ranka spieszył się, bo dostawca czekał w biurze na jego podpis. Paweł miał zakleszczenie o 10:22. Paweł pominął krok trzeci (ZAKOTWICZ) z lekcji 7, bo „już się zatrzymało, szybko wyjmę i jadę dalej". Paweł wyciągnął deskę lewą dłonią. Resztkowy moment taśmy (40 Nm, pamiętasz?) szarpnął tarczą. **O 10:23:08 palec wskazujący lewej dłoni Pawła leży obok deski na stole. Z kikuta tryska jasnoczerwona krew pulsującym strumieniem.**
 
-Hai wchodzi o 10:23:15. **Ma trzy minuty, żeby Paweł nie wykrwawił się.** W l7 było pięć kroków, bo maszyna może czekać. Tu są **cztery kroki, bo krew nie czeka**: **ZABEZPIECZ – ZATAMUJ – ZADZWOŃ – ZACHOWAJ**. Nauczysz się ich dzisiaj, powtórzysz jutro i pojutrze. Nie licz, że nigdy nie będziesz ich potrzebował. Licz, że kiedy przyjdzie twój moment, będą w palcach, nie w głowie.
+Andrij wchodzi o 10:23:15. **Ma trzy minuty, żeby Paweł nie wykrwawił się.** W l7 było pięć kroków, bo maszyna może czekać. Tu są **cztery kroki, bo krew nie czeka**: **ZABEZPIECZ – ZATAMUJ – ZADZWOŃ – ZACHOWAJ**. Nauczysz się ich dzisiaj, powtórzysz jutro i pojutrze. Nie licz, że nigdy nie będziesz ich potrzebował. Licz, że kiedy przyjdzie twój moment, będą w palcach, nie w głowie.
 
 ## Cele
 
@@ -33,13 +33,13 @@ Ucisk bezpośredni w pierwszej minucie zatrzymuje krwotok żylny w 90% przypadk�
 
 ### Krok 1: ZABEZPIECZ (sekundy 0-20)
 
-Hai wbiega. Widzi Pawła przy pilarce, krew tryska, Paweł blady. Pierwszy odruch niedoświadczonego świadka: biec do poszkodowanego. **Zły odruch.** Jeśli maszyna pracuje, możesz być drugim poszkodowanym.
+Andrij wbiega. Widzi Pawła przy pilarce, krew tryska, Paweł blady. Pierwszy odruch niedoświadczonego świadka: biec do poszkodowanego. **Zły odruch.** Jeśli maszyna pracuje, możesz być drugim poszkodowanym.
 
-**Co robi Hai**:
+**Co robi Andrij**:
 
-1. **Sprawdza maszynę**. Pilarka nr 4 stoi (Paweł zdążył wcisnąć STOP). Gdyby taśma biegła, Hai **najpierw** nacisnąłby grzybek.
+1. **Sprawdza maszynę**. Pilarka nr 4 stoi (Paweł zdążył wcisnąć STOP). Gdyby taśma biegła, Andrij **najpierw** nacisnąłby grzybek.
 2. **Sprawdza otoczenie**. Nie ma kałuży oleju, nie ma luźnej deski. Można podejść.
-3. **Woła głośno**. „BRYGADZISTA, POMOC, HALA 1, PILARKA 4!" Krótko, adresowo. Operator z hali 2 biegnie zawiadomić. **Hai sam nie idzie po brygadzistę** – zostaje z Pawłem.
+3. **Woła głośno**. „BRYGADZISTA, POMOC, HALA 1, PILARKA 4!" Krótko, adresowo. Operator z hali 2 biegnie zawiadomić. **Andrij sam nie idzie po brygadzistę** – zostaje z Pawłem.
 4. **Podchodzi pewnym krokiem**, nie biegiem (bieg + krew na podłodze = upadek).
 
 ::: warning
@@ -48,11 +48,11 @@ Hai wbiega. Widzi Pawła przy pilarce, krew tryska, Paweł blady. Pierwszy odruc
 
 ### Krok 2: ZATAMUJ (sekundy 20-120)
 
-Paweł siedzi na podłodze. Prawa ręka zaciśnięta na lewej, krew spływa między palcami. Hai klęka obok.
+Paweł siedzi na podłodze. Prawa ręka zaciśnięta na lewej, krew spływa między palcami. Andrij klęka obok.
 
 **2a. Ucisk bezpośredni (sekundy 20-60)**
 
-Hai bierze **rolkę ręczników papierowych z pilarki** (każda maszyna ma je do żywicy). Nie apteczka, bo jest w korytarzu, a krew jest teraz. Składa gruby tampon, przyciska **silnie i stale** bezpośrednio na kikut. Nie „delikatnie". Druga dłoń unosi przedramię Pawła powyżej poziomu serca.
+Andrij bierze **rolkę ręczników papierowych z pilarki** (każda maszyna ma je do żywicy). Nie apteczka, bo jest w korytarzu, a krew jest teraz. Składa gruby tampon, przyciska **silnie i stale** bezpośrednio na kikut. Nie „delikatnie". Druga dłoń unosi przedramię Pawła powyżej poziomu serca.
 
 ::: info
 **Dlaczego unosić rękę**: grawitacja pracuje przeciwko krwawieniu, zmniejszając wypływ o 15-25%. W połączeniu z uciskiem to zwykle wystarcza na krwotok żylny.
@@ -79,17 +79,17 @@ Apteczka typu K (norma DIN 13169, obowiązkowa wg Rozp. MZ 2019) zawiera **opask
 
 ### Krok 3: ZADZWOŃ (sekundy 120-180)
 
-Krwawienie opanowane. Hai wyjmuje telefon.
+Krwawienie opanowane. Andrij wyjmuje telefon.
 
 **112. Skrypt rozmowy**:
 
 > **Dyspozytor**: „Numer alarmowy 112, słucham."
 >
-> **Hai**: „Wypadek przy pracy. Tartak Fundacja EGIDA, ulica Dębowa 12, Dębowa Góra. Hala nr 1, pilarka taśmowa. Amputacja palca wskazującego lewej dłoni. Poszkodowany Paweł Nowak, 52 lata, przytomny. Założyłem opaskę uciskową o 10:25. Potrzebujemy karetki."
+> **Andrij**: „Wypadek przy pracy. Tartak Fundacja EGIDA, ulica Dębowa 12, Dębowa Góra. Hala nr 1, pilarka taśmowa. Amputacja palca wskazującego lewej dłoni. Poszkodowany Paweł Nowak, 52 lata, przytomny. Założyłem opaskę uciskową o 10:25. Potrzebujemy karetki."
 >
 > **Dyspozytor**: „Nie rozłączam, pomoc wysłana. Czy widać amputowany fragment?"
 >
-> **Hai**: „Tak, leży na stole pilarki."
+> **Andrij**: „Tak, leży na stole pilarki."
 >
 > **Dyspozytor**: „Powiem, jak go zabezpieczyć. Niech ktoś czeka przy bramie z otwartą bramą, karetka za 11 minut."
 
@@ -138,19 +138,19 @@ Karetka zabiera Pawła i palec o 10:34. Amputacja palca to **ciężki uszczerbek
 - **Zgłoszenie do PIP i prokuratury** niezwłocznie (art. 234 § 2 KP, telefonicznie w 2-4 godziny, pisemnie w 24 godziny).
 - **Karta wypadku** sporządzona przez **zespół powypadkowy** (pracownik BHP + społeczny inspektor pracy), termin **14 dni** od wypadku (Rozp. RM z 1 lipca 2009 r.).
 
-**Rola Hai jako świadka**: zostanie przesłuchany przez zespół powypadkowy. Opisze dokładnie, co widział i jakie kroki podjął. Ma prawo do **pomocy psychologicznej** (widok amputacji jest traumą, reakcja stresowa przez dni lub tygodnie jest normalna).
+**Rola Andrij jako świadka**: zostanie przesłuchany przez zespół powypadkowy. Opisze dokładnie, co widział i jakie kroki podjął. Ma prawo do **pomocy psychologicznej** (widok amputacji jest traumą, reakcja stresowa przez dni lub tygodnie jest normalna).
 
-### Case Hai: trzy minuty, które zostają
+### Case Andrij: trzy minuty, które zostają
 
 **Chronometraż 10:23-10:34**:
 
 - **10:23:00** – Paweł wyjmuje deskę dłonią, tarcza szarpie, amputacja.
-- **10:23:15** – Hai wchodzi, sprawdza maszynę (stoi) i otoczenie.
-- **10:23:20** – Hai woła o pomoc. Operator z hali 2 biegnie.
-- **10:23:35** – Hai klęka, chwyta rolkę ręczników, uciska.
-- **10:24:30** – Krew tryska dalej. Hai otwiera apteczkę K, wyjmuje CAT.
+- **10:23:15** – Andrij wchodzi, sprawdza maszynę (stoi) i otoczenie.
+- **10:23:20** – Andrij woła o pomoc. Operator z hali 2 biegnie.
+- **10:23:35** – Andrij klęka, chwyta rolkę ręczników, uciska.
+- **10:24:30** – Krew tryska dalej. Andrij otwiera apteczkę K, wyjmuje CAT.
 - **10:25:00** – Opaska założona, 4 obroty korbką, marker: **T = 10:25**.
-- **10:25:30** – Hai dzwoni 112.
+- **10:25:30** – Andrij dzwoni 112.
 - **10:26:00** – Brygadzista Marek w hali.
 - **10:27:00** – Marek pakuje palec: gaza, torebka, pojemnik z lodem, oznaczenie 10:28.
 - **10:34:00** – Karetka. Paweł i palec jadą razem do SOR szpitala powiatowego. Replantacja tego samego dnia, palec uratowany.
@@ -158,7 +158,7 @@ Karetka zabiera Pawła i palec o 10:34. Amputacja palca to **ciężki uszczerbek
 **Jedenaście minut od wypadku do karetki, trzy minuty od wypadku do opaski.** To jest różnica między „Paweł przeżył z amputacją" a „Paweł umarł we wstrząsie hipowolemicznym".
 
 ::: tip
-**Nauka z case**: Hai przeszedł szkolenie pierwszej pomocy w zakładzie (8 godzin, PCK) pół roku przed tym dniem. Mówił wtedy: „Szkoda czasu, nic mi się nie przytrafi". Trzy minuty rytuału, które uratowały Pawłowi rękę, to było 8 godzin treningu pół roku wcześniej. **Art. 237³ § 2 KP** wymaga szkolenia pierwszej pomocy raz na 5 lat. To nie papierek, to Paweł z palcem albo Paweł bez palca.
+**Nauka z case**: Andrij przeszedł szkolenie pierwszej pomocy w zakładzie (8 godzin, PCK) pół roku przed tym dniem. Mówił wtedy: „Szkoda czasu, nic mi się nie przytrafi". Trzy minuty rytuału, które uratowały Pawłowi rękę, to było 8 godzin treningu pół roku wcześniej. **Art. 237³ § 2 KP** wymaga szkolenia pierwszej pomocy raz na 5 lat. To nie papierek, to Paweł z palcem albo Paweł bez palca.
 :::
 
 ## Kluczowe terminy

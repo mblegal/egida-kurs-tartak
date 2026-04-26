@@ -55,7 +55,7 @@ This ritual will come back to you a thousand times in M2. Three steps, three sho
 
 The dialogue you will hear tomorrow (learn it by heart):
 
-> – **Brygadzista:** "Sprawdź, Hai." [Check, Hai.]
+> – **Brygadzista:** "Sprawdź, Andrij." [Check, Andrij.]
 >
 > – **You:** [you run the checklist] "Sprawdzone, Marek." [Checked, Marek.]
 >
@@ -71,24 +71,24 @@ The dialogue you will hear tomorrow (learn it by heart):
 Notice three things. First, the *brygadzista* calls you by **name**, not "hey". Second, every word is **short** (noise is 95 dB, you will not hear long sentences). Third, **the report is not a question**. You state a fact, the foreman acknowledges. That saves time and does not force the foreman to guess.
 :::
 
-### How it looks in practice – Hai on his first day
+### How it looks in practice – Andrij on his first day
 
-Hai is from Vietnam. You met him in M1, when he was learning to pronounce the word *kłoda* (log). For the first two weeks he said "kwoda" and the *brygadzista* kept correcting him. After four weeks the "ł" came out of his muscle memory and Hai no longer thinks about pronunciation.
+Andrij is from Lviv in Ukraine. You met him in M1, when he was learning to pronounce the word *kłoda* (log). For the first two weeks he said "kwoda" and the *brygadzista* kept correcting him. After four weeks the "ł" came out of his muscle memory and Andrij no longer thinks about pronunciation.
 
-Today Hai is standing alone at the band saw for the first time. Next to him Marek, the *brygadzista*, is holding the workstation card with today's date and an empty box for a signature. Hai looks at the five points of the checklist. Everything looks fine: guard closed, band tensioned, dust extraction humming, idle run smooth, no one around the machine.
+Today Andrij is standing alone at the band saw for the first time. Next to him Marek, the *brygadzista*, is holding the workstation card with today's date and an empty box for a signature. Andrij looks at the five points of the checklist. Everything looks fine: guard closed, band tensioned, dust extraction humming, idle run smooth, no one around the machine.
 
-For a fraction of a second Hai thinks: "everything is visible, the foreman sees it, it is enough to press the button." His hand moves toward the green button. But it stops halfway. Hai remembers what the instructor said: **a nod is not authorization**. He turns his head toward Marek.
+For a fraction of a second Andrij thinks: "everything is visible, the foreman sees it, it is enough to press the button." His hand moves toward the green button. But it stops halfway. Andrij remembers what the instructor said: **a nod is not authorization**. He turns his head toward Marek.
 
 "Sprawdzone, Marek." [Checked, Marek.]
 
-Marek looks at Hai, not at the machine. "Ruszasz, Hai." [You go, Hai.]
+Marek looks at Andrij, not at the machine. "Ruszasz, Andrij." [You go, Andrij.]
 
-Hai presses the green button. The band starts. For the first 10 seconds he watches only the band. The sound is steady. The band does not wobble. He takes the first board. After 20 minutes he reports: "Jakość dobra, taśma ciepła." Marek acknowledges: "Dobrze. Dalej."
+Andrij presses the green button. The band starts. For the first 10 seconds he watches only the band. The sound is steady. The band does not wobble. He takes the first board. After 20 minutes he reports: "Jakość dobra, taśma ciepła." Marek acknowledges: "Dobrze. Dalej."
 
-What Hai feels then is something he did not expect before noon. Tears. Not out of fear, but **out of relief**. For the four weeks of M1 he watched others start machines. Today he started his. Correctly. With the words of the foreman. Without a shortcut.
+What Andrij feels then is something he did not expect before noon. Tears. Not out of fear, but **out of relief**. For the four weeks of M1 he watched others start machines. Today he started his. Correctly. With the words of the foreman. Without a shortcut.
 
 ::: tip
-The emotion Hai felt after his first correct cycle has a name in work psychology: **role closure**. You stop being "the one who is learning" and you start being "the one who does". That moment will come to you in the first week of M2. Do not fear it. It is a sign that the body understood the role faster than the head.
+The emotion Andrij felt after his first correct cycle has a name in work psychology: **role closure**. You stop being "the one who is learning" and you start being "the one who does". That moment will come to you in the first week of M2. Do not fear it. It is a sign that the body understood the role faster than the head.
 :::
 
 ### Five typical traps of the first month of M2
@@ -191,8 +191,8 @@ Bring the notebook to the afternoon lesson l2 ("Operator's PPE"). Group discussi
 
 ## Trainer notes
 
-- **120-min rhythm (suggested):** 15 min Introduction + Objectives; 20 min "What has changed" + "Authorization"; 20 min "The *sprawdź–uruchom–zgłoś* ritual" (with a paired role-play of the dialogue); 20 min Hai narrative (reading with pauses, open questions); 15 min five traps (brainstorm on which one threatens whom); 10 min Key terms (shared pronunciation out loud); 20 min Career map (on the board, each trainee marks where they want to be).
-- **Pedagogical trap no. 1:** the section "Hai on his first day" contains an emotional moment (tears of relief). Do not skip it and do not comment ironically. For part of the group this is the first time they hear that **a worker's emotion is allowed in a Polish workplace**. Leave silence after that passage.
+- **120-min rhythm (suggested):** 15 min Introduction + Objectives; 20 min "What has changed" + "Authorization"; 20 min "The *sprawdź–uruchom–zgłoś* ritual" (with a paired role-play of the dialogue); 20 min Andrij narrative (reading with pauses, open questions); 15 min five traps (brainstorm on which one threatens whom); 10 min Key terms (shared pronunciation out loud); 20 min Career map (on the board, each trainee marks where they want to be).
+- **Pedagogical trap no. 1:** the section "Andrij on his first day" contains an emotional moment (tears of relief). Do not skip it and do not comment ironically. For part of the group this is the first time they hear that **a worker's emotion is allowed in a Polish workplace**. Leave silence after that passage.
 - **Pedagogical trap no. 2:** the self-assessment of the 12 rules may tempt the trainee to "fill it in by rote". Do it out loud, in a round, each trainee for one rule. If someone has "I need to revise" at more than three rules, plan an individual revision hour from M1 l7.
 - **Career map:** draw four rungs on the board from bottom to top. Ask each trainee to **mark with a cross** the rung they want to reach in a year. Do not comment on the choices. The map is meant to show that different paths are available, not to impose one.
 - **Time of return to this lesson:** refer back to the *sprawdź – uruchom – zgłoś* ritual in every lesson of this week (l2 PPE, l3 STOP > START, l4 checklist, l5 Rozp. MG, l6 dust, l7 jams, l8 first aid). This ritual is the axis of the whole M2, not only the introduction.

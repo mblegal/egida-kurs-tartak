@@ -6,7 +6,7 @@ czas: 120
 
 ## Introduction
 
-Monday, 6:45 a.m. Maricel Santos walked into the hall first among the operators, even before foreman Marek. The weekend is over, but the smell of machine oil and sawdust hangs in the air like a Friday evening. Marek shows up two minutes later with a notebook in the pocket of his overalls and a piece of white industrial chalk in his hand. "Come on, today we're doing the saw walk. All four types, all stations. You'll see what wore out during a week of cutting oak."
+Monday, 6:45 a.m. Sofía Ramírez walked into the hall first among the operators, even before foreman Marek. The weekend is over, but the smell of machine oil and sawdust hangs in the air like a Friday evening. Marek shows up two minutes later with a notebook in the pocket of his overalls and a piece of white industrial chalk in his hand. "Come on, today we're doing the saw walk. All four types, all stations. You'll see what wore out during a week of cutting oak."
 
 This lesson introduces **the four types of saws used in a typical sawmill**: band, circular, frame, and multi-rip. For each one you learn the **anatomy** (tooth, tip, set, tension) and the **five main signs of wear** that a junior operator must recognise and report. The lesson closes the 80/20 rule from the previous one (lumber grading): this time it is not about sorting boards, but about **sorting tools into two piles: fit for work and to be replaced**. The decision to replace is made by the foreman or senior operator, but **recognising and reporting is already the junior operator's duty**.
 
@@ -85,7 +85,7 @@ A broken band saw flies off at a circumferential speed of **50–70 m/s** (180�
 **Appearance:** a blue band 5–30 mm along the saw, most often between the teeth and the tensioner wheel. Unambiguously blue, impossible to mistake.
 
 ::: example
-Maricel, Monday 6:55, inspection of saw #2. She looks at the band with a head torch (the hall is still half-dark before the main lights come on). Three teeth away from the lower guide she sees: **a thin dark line, 3 mm, running from the gullet towards the back**. She points it out to Marek. Marek brings his face to within 10 cm, nods: "Good eye. Fatigue crack, third day on this band cutting oak. Stop the saw, I'll get a spare. At 7:20 today we're doing the change – you stay, you watch, you assist. This band we don't turn on again." The break did NOT happen – because on the walk Maricel saw exactly what § 13 of the Regulation of the Ministry of Economy of 2000 requires to be checked: the state of the guards and the state of the working tool before every start-up.
+Sofía, Monday 6:55, inspection of saw #2. She looks at the band with a head torch (the hall is still half-dark before the main lights come on). Three teeth away from the lower guide she sees: **a thin dark line, 3 mm, running from the gullet towards the back**. She points it out to Marek. Marek brings his face to within 10 cm, nods: "Good eye. Fatigue crack, third day on this band cutting oak. Stop the saw, I'll get a spare. At 7:20 today we're doing the change – you stay, you watch, you assist. This band we don't turn on again." The break did NOT happen – because on the walk Sofía saw exactly what § 13 of the Regulation of the Ministry of Economy of 2000 requires to be checked: the state of the guards and the state of the working tool before every start-up.
 :::
 
 ### Approximate band service life by species
@@ -159,12 +159,12 @@ From lesson 6 you remember the 80/20 rule in lumber grading: after 3 months of e
 
 **Pedagogical goal**: moving the learner from observer of the material (l1–l6) to observer of the tool. First contact with the logic of the machine – not "how to use it", but "what is happening to it over time". The notion of a consumable is introduced implicitly through the service-life table and the replacement cycle.
 
-**Week 2 arc**: Maricel returns after her debut in Block 1 T2 (l1 moisture). The arc = observation of the material → observation of the tool → assisting at the machine (l8). The learner ends week 2 with the full context that in week 3 will let him begin performing operations.
+**Week 2 arc**: Sofía returns after her debut in Block 1 T2 (l1 moisture). The arc = observation of the material → observation of the tool → assisting at the machine (l8). The learner ends week 2 with the full context that in week 3 will let him begin performing operations.
 
 **Teaching pitfalls**:
 1. No metallurgy of steel. The junior does not need martensite – he needs to recognise a blue patch and know that this is the end of the band.
 2. Don't skip the cutting-time table. Without it the junior does not know whether a band that has been cutting oak for 4 hours is "old" or "fresh". The range of hours is a professional number just like 2200–2400 PSI.
-3. The "please take a look" phrase is the foundation – learners from hierarchical cultures (Vietnam, the Philippines, Central Asia) tend to stay silent so as not to bother the foreman. This phrase opens a way without violating hierarchy.
+3. The "please take a look" phrase is the foundation – learners from cultures where a manual worker traditionally does not "interrupt" a superior (much of Latin America, with the "usted" relationship toward the foreman; parts of regions of Ukraine) tend to stay silent so as not to bother him. This phrase opens a way without violating hierarchy.
 
 **Integration with previous lessons**: l4 (wood defects) → l7 (tool defects) – same eyes, different criterion. l6 80/20 rule → l7 sharpened to "at any doubt, speak up" because of the risk. l5 machine chain → l7 four saw types correspond to the links of the chain.
 

@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Thursday, day seven of week two. On Monday Maricel understood moisture, on Tuesday she measured it, on Wednesday she watched the foreman chalk cuts on a sawlog. Today a new person steps into the sorting hall: **Emeka Okonkwo, 32 years old, from the city of Enugu in south-eastern Nigeria**. Before he came to Poland ten months ago, he worked for six years as a maintenance engineer at palm-oil mills. He knew tropical timber, iroko and sapele, which were used to build the workbenches at his factory. Polish oak and beech he is only starting to learn now.
+Thursday, day seven of week two. On Monday Sofía understood moisture, on Tuesday she measured it, on Wednesday she watched the foreman chalk cuts on a sawlog. Today a new person steps into the sorting hall: **Carlos Hernández, 32 years old, from the city of Maracaibo in western Venezuela**. Before he came to Poland ten months ago, he worked for six years as a maintenance engineer at an oil base. He knew tropical timber, caoba and sapele, which were used to build the workbenches at his facility. Polish oak and beech he is only starting to learn now.
 
-At 7:15 Emeka enters the sorting hall after the first cut. By the table stands **master Jan, fifty-five years old, thirty years at the sawmill**. Jan has laid out four short pieces of lumber, each about a metre long, freshly dropped off the bandsaw. "Come here, Emeka. Before I teach you how to sort on your own, you have to **learn to see defects before they destroy a saw or a customer**. These are the four most important defects – because of them we lost two blades and one order last week."
+At 7:15 Carlos enters the sorting hall after the first cut. By the table stands **master Jan, fifty-five years old, thirty years at the sawmill**. Jan has laid out four short pieces of lumber, each about a metre long, freshly dropped off the bandsaw. "Come here, Carlos. Before I teach you how to sort on your own, you have to **learn to see defects before they destroy a saw or a customer**. These are the four most important defects – because of them we lost two blades and one order last week."
 
 This lesson is about **what you see on the bark and in the cross-section before a board reaches the customer**. You will learn to recognise four defects that change everything: **spiral grain, false heartwood, butt rot, bark pocket**. These are the same defects that on Wednesday Marek was looking for when he tapped an oak sawlog with a hammer.
 
@@ -56,7 +56,7 @@ The first piece on Jan's table: a debarked pine, 1 m long, 25 cm in diameter. Th
 
 ### Defect two: false heartwood
 
-The second piece: a freshly cut beech, 80 cm long. In the cross-section Emeka sees **an irregular, reddish-brown stain in the centre, with ragged edges, as if someone had spilled tea on a white tablecloth**. The stain takes up about 30% of the cross-section.
+The second piece: a freshly cut beech, 80 cm long. In the cross-section Carlos sees **an irregular, reddish-brown stain in the centre, with ragged edges, as if someone had spilled tea on a white tablecloth**. The stain takes up about 30% of the cross-section.
 
 **False heartwood** (*false heartwood*, German *Rotkern* – "red core") occurs mainly in beech, ash and alder. It is **the reaction of the living tree to mechanical damage or old age**: sapwood transforms into dead tissue of altered composition, darker, without a geometric boundary.
 
@@ -94,7 +94,7 @@ The third piece: pedunculate oak, 45 cm in diameter. Jan takes a carpenter's ham
 
 ### Defect four: bark pocket
 
-The fourth piece: spruce, 30 cm long. Jan turns it sideways. Emeka sees **a vertical strip of dark, dried material deep inside the wood, 8 mm wide, 20 cm long, as if someone had sealed a piece of old bark inside**.
+The fourth piece: spruce, 30 cm long. Jan turns it sideways. Carlos sees **a vertical strip of dark, dried material deep inside the wood, 8 mm wide, 20 cm long, as if someone had sealed a piece of old bark inside**.
 
 **Bark pocket** (*bark pocket*) is a piece of bark left inside the trunk after a healed wound. Most common cause: **a broken branch**, which the tree has overgrown with layers of new growth. Less often: a tractor impact in the forest, rubbing against another tree in a storm, a cut from a tool during thinning.
 
@@ -160,7 +160,7 @@ Tomorrow (lesson 5) you will meet **lumber assortments**: what comes out of the 
 - Spiral grain "because the trunk twists on the bark" – **do not confuse**: spiral grain (a feature of the wood) versus crookedness of the trunk (a feature of the shape). A crooked trunk can have straight fibres, a straight trunk can have spiral ones.
 - Pocket "because the bark stayed on the trunk" – **no**, a pocket is bark **inside** the wood, not outside.
 
-**Case Emeka – African perspective**: Emeka came from a context of tropical timber (iroko, sapele, African mahogany). Those species have different dominant defects: "gum vein" (a resin strip), "brittle heart" (a brittle core after growth stress), "sapstreak" (bacterial discolouration). The defects of Polish species are new to Emeka. Show him photographs of defects from his native context, then overlay the Polish analogy. Beech false heartwood has a similar mechanism to "brittle heart" in iroko: both are reactions of the tree to stress.
+**Case Carlos – African perspective**: Carlos came from a context of tropical timber (iroko, sapele, African mahogany). Those species have different dominant defects: "gum vein" (a resin strip), "brittle heart" (a brittle core after growth stress), "sapstreak" (bacterial discolouration). The defects of Polish species are new to Carlos. Show him photographs of defects from his native context, then overlay the Polish analogy. Beech false heartwood has a similar mechanism to "brittle heart" in iroko: both are reactions of the tree to stress.
 
 **Why hammer tapping is a ritual, not a gimmick**: since the nineteenth century European classifiers have been tapping wood. The technique is simple, cheap, effective against 80% of rot cases. In the age of ultrasound and computed tomography of wood, tapping is still the first line of diagnosis on the log yard, because the master checks a sawlog in 30 seconds. Respect this ritual: you will not replace it with a phone app.
 

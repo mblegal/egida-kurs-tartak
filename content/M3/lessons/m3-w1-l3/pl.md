@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-W l1 usłyszałeś dwie liczby: **dwieście dziesięć** i **dwieście dwadzieścia**. Powiedzieliśmy wtedy, że są to dwa artykuły polskiego Kodeksu pracy i że wracamy do nich z pełną treścią dziś, w środę. Dziś jest środa, jest 6:50 rano, Rustam stoi przed pilarką P3 i za chwilę zdarzy się mu pierwsza w życiu sytuacja, w której te liczby przestaną być liczbami z prezentacji i staną się jego własnymi słowami wypowiedzianymi do brygadzisty.
+W l1 usłyszałeś dwie liczby: **dwieście dziesięć** i **dwieście dwadzieścia**. Powiedzieliśmy wtedy, że są to dwa artykuły polskiego Kodeksu pracy i że wracamy do nich z pełną treścią dziś, w środę. Dziś jest środa, jest 6:50 rano, Mykoła stoi przed pilarką P3 i za chwilę zdarzy się mu pierwsza w życiu sytuacja, w której te liczby przestaną być liczbami z prezentacji i staną się jego własnymi słowami wypowiedzianymi do brygadzisty.
 
 Zanim przejdziemy do tej sytuacji, jedna uwaga redakcyjna. W l1 powiedzieliśmy „art. 220 KP – obowiązek wykonania polecenia". Numer był uproszczeniem. W rzeczywistości obowiązek wykonania polecenia wynika z **art. 100 § 1 Kodeksu pracy**, a podstawowe obowiązki BHP pracownika (wraz z obowiązkiem niezwłocznego zawiadomienia o zagrożeniu) znajdują się w **art. 211 KP**. Dziś poznasz trzy właściwe artykuły, a nie dwa. Liczby w pamięci zawodowej operatora są jak numery telefonów awaryjnych: muszą być dokładne, nie „mniej więcej".
 
@@ -91,41 +91,41 @@ Twoja odmowa wykonania polecenia naruszającego BHP **nie jest** aktem wrogim wo
 
 Dobrzy brygadziści w tartaku rozumieją to natychmiast. Źli brygadziści uczą się tego po pierwszej wizycie PIP. Marek jest w pierwszej grupie.
 
-### Dzień trzeci Rustama: środa, 8:42 rano
+### Dzień trzeci Mykoły: środa, 8:42 rano
 
-Rustam jest dziś o wpół do siódmej w hali. Odprawę BHP poprowadził w poniedziałek i we wtorek, pięć minut, temat wtorkowy: ślisko na ramie podawania po nocnym deszczu. Dzisiaj odprawę robił Marek, bo Marek chciał omówić kampanię dębową, która rusza jutro. Rustam stał w drugim rzędzie, słuchał, kiwał głową. Normalny dzień.
+Mykoła jest dziś o wpół do siódmej w hali. Odprawę BHP poprowadził w poniedziałek i we wtorek, pięć minut, temat wtorkowy: ślisko na ramie podawania po nocnym deszczu. Dzisiaj odprawę robił Marek, bo Marek chciał omówić kampanię dębową, która rusza jutro. Mykoła stał w drugim rzędzie, słuchał, kiwał głową. Normalny dzień.
 
-O 7:40 Rustam rusza z partią 51: sosna, 22 kłody, średnica 30–38 cm, wilgotność wejściowa 44%. Kerf 3,5 mm, tarcica 50 × 150, zamówienie klienta na więźbę dachową. Obok niego przy stanowisku asystuje Wahan, 19 lat, pomocnik M1 z Armenii, trzeci tydzień w tartaku. Wahan podaje kłody z rampy i odbiera tarcicę z drugiej strony maszyny. Jego polski jest jeszcze słaby, ale gesty zna, zna sygnał STOP, zna strefę 3 metrów od pilarki. Rustam instruktował go osobiście w poniedziałek (zobaczysz ten instruktaż w l8).
+O 7:40 Mykoła rusza z partią 51: sosna, 22 kłody, średnica 30–38 cm, wilgotność wejściowa 44%. Kerf 3,5 mm, tarcica 50 × 150, zamówienie klienta na więźbę dachową. Obok niego przy stanowisku asystuje Wasyl, 19 lat, pomocnik M1 z Ukrainy (Tarnopol), trzeci tydzień w tartaku. Wasyl podaje kłody z rampy i odbiera tarcicę z drugiej strony maszyny. Jego polski jest jeszcze słaby, ale gesty zna, zna sygnał STOP, zna strefę 3 metrów od pilarki. Mykoła instruktował go osobiście w poniedziałek (zobaczysz ten instruktaż w l8).
 
 O 8:42 dzwoni na stanowiska telefon wewnętrzny. Marek odbiera, słucha 40 sekund, kiwa głową, odkłada słuchawkę i idzie prosto do P3.
 
-> **Marek:** „Rustam, słuchaj. Przyjechał wcześniej klient po partię 49, dębowa, ta z zeszłego tygodnia. Samochód stoi pod bramą, nie może czekać, mają pas ruchu w Warszawie za dwie godziny. Muszę rozładować. Wahan, chodź ze mną do rampy 2, pomożesz ładować. Rustam, jedź dalej sam przez 30 minut, dasz radę?"
+> **Marek:** „Mykoła, słuchaj. Przyjechał wcześniej klient po partię 49, dębowa, ta z zeszłego tygodnia. Samochód stoi pod bramą, nie może czekać, mają pas ruchu w Warszawie za dwie godziny. Muszę rozładować. Wasyl, chodź ze mną do rampy 2, pomożesz ładować. Mykoła, jedź dalej sam przez 30 minut, dasz radę?"
 
-Rustam patrzy na Marka. Patrzy na Wahana. Patrzy na maszynę. Pierwsza reakcja w jego głowie: „dam radę, oczywiście". Druga reakcja, trzy sekundy później: „Wahan podaje kłody z rampy. Beze mnie przy rampie zostanie operator P2, Hai. Ale Hai ma swoją partię, nie będzie patrzył na moją rampę". Trzecia reakcja, kolejne pięć sekund: **jeżeli podam kłodę i w tym czasie nie będzie nikogo, kto obserwuje rampę, czyli strefę dozwolonego wejścia dla kłody, wchodzi ryzyko nieuprawnionego wejścia w strefę P3**. W instrukcji stanowiskowej EGIDA punkt 7 mówi: „przy pilarce taśmowej P3 w czasie cyklu musi być asystent obserwujący rampę podawania albo obszar rampy musi być zamknięty bariera".
+Mykoła patrzy na Marka. Patrzy na Wasyla. Patrzy na maszynę. Pierwsza reakcja w jego głowie: „dam radę, oczywiście". Druga reakcja, trzy sekundy później: „Wasyl podaje kłody z rampy. Beze mnie przy rampie zostanie operator P2, Andrij. Ale Andrij ma swoją partię, nie będzie patrzył na moją rampę". Trzecia reakcja, kolejne pięć sekund: **jeżeli podam kłodę i w tym czasie nie będzie nikogo, kto obserwuje rampę, czyli strefę dozwolonego wejścia dla kłody, wchodzi ryzyko nieuprawnionego wejścia w strefę P3**. W instrukcji stanowiskowej EGIDA punkt 7 mówi: „przy pilarce taśmowej P3 w czasie cyklu musi być asystent obserwujący rampę podawania albo obszar rampy musi być zamknięty bariera".
 
-Rustam robi cztery kroki bliżej Marka, opuszcza głos, żeby nie słyszał Wahan, mówi po polsku wolno ale wyraźnie:
+Mykoła robi cztery kroki bliżej Marka, opuszcza głos, żeby nie słyszał Wasyl, mówi po polsku wolno ale wyraźnie:
 
-> **Rustam:** „Marek, chwila. Bez Wahana przy rampie mam otwartą rampę i taśma idzie. Instrukcja stanowiskowa mówi że nie mogę. Możemy inaczej zrobić?"
+> **Mykoła:** „Marek, chwila. Bez Wasyla przy rampie mam otwartą rampę i taśma idzie. Instrukcja stanowiskowa mówi że nie mogę. Możemy inaczej zrobić?"
 
-Marek przystaje. Patrzy na zegarek. Patrzy na Rustama. Nie mówi nic przez cztery sekundy, długo. Potem:
+Marek przystaje. Patrzy na zegarek. Patrzy na Mykołę. Nie mówi nic przez cztery sekundy, długo. Potem:
 
-> **Marek:** „Dobra. Zatrzymaj taśmę, zamknij cykl na tej kłodzie, Wahan zamyka barierę rampy i idzie ze mną. Pięć minut postoju to nie apokalipsa. Daj, spisz ten postój w dzienniku: powód, czas."
+> **Marek:** „Dobra. Zatrzymaj taśmę, zamknij cykl na tej kłodzie, Wasyl zamyka barierę rampy i idzie ze mną. Pięć minut postoju to nie apokalipsa. Daj, spisz ten postój w dzienniku: powód, czas."
 
-Rustam zatrzymuje cykl, czeka aż taśma zwolni, wyłącza zielony, wciska czerwony. Wahan zamyka barierę rampy (przesuwa ją z pozycji otwartej do pozycji zamkniętej, kliknięcie zamka słychać trzy metry dalej). Marek i Wahan idą do rampy 2. Rustam otwiera dziennik maszyny:
+Mykoła zatrzymuje cykl, czeka aż taśma zwolni, wyłącza zielony, wciska czerwony. Wasyl zamyka barierę rampy (przesuwa ją z pozycji otwartej do pozycji zamkniętej, kliknięcie zamka słychać trzy metry dalej). Marek i Wasyl idą do rampy 2. Mykoła otwiera dziennik maszyny:
 
-> **8:47. Postój partia 51. Powód: asystent (Wahan Petrosjan, M1) oddelegowany do rozładunku na rampie 2 przez brygadzistę M. Kowalskiego. Bez asystenta cykl zatrzymany zgodnie z instrukcją stanowiskową p. 7. Planowane wznowienie po powrocie asystenta, około 9:15.**
+> **8:47. Postój partia 51. Powód: asystent (Wasyl Melnyk, M1) oddelegowany do rozładunku na rampie 2 przez brygadzistę M. Kowalskiego. Bez asystenta cykl zatrzymany zgodnie z instrukcją stanowiskową p. 7. Planowane wznowienie po powrocie asystenta, około 9:15.**
 
 Zapisuje. Wyłącza maszynę do pełnego stopu. Siada na stołku obok P3 i czeka. Nie jest zdenerwowany. Jest zaskoczony, że Marek tak szybko zmienił plan. Pół godziny temu nie wiedziałby, że ma prawo powiedzieć „chwila".
 
 ::: example
-Zwróć uwagę na trzy rzeczy w tej scenie. Po pierwsze, Rustam **nie** zacytował Markowi art. 210 KP. Powiedział konkretny zarzut operacyjny: „instrukcja stanowiskowa mówi że nie mogę". To jest właściwa taktyka. Kodeks pracy stoi za tobą w tle, ale w rozmowie pierwszej z brygadzistą mówisz o konkretnej normie zakładowej, nie o artykule kodeksu. Po drugie, Rustam **zaproponował alternatywę**: „możemy inaczej zrobić?". Sądy powszechne w sprawach pracowniczych traktują propozycję alternatywy jako dowód dobrej wiary pracownika (wyrok SP X P 1138/14, zobaczysz niżej). Po trzecie, **zapisał w dzienniku powód postoju**. Dziennik maszyny jest dowodem obiektywnym, nie zaczyna emocji, a spisuje fakty. Wszystkie trzy elementy razem zamykają spór, zanim się otworzy.
+Zwróć uwagę na trzy rzeczy w tej scenie. Po pierwsze, Mykoła **nie** zacytował Markowi art. 210 KP. Powiedział konkretny zarzut operacyjny: „instrukcja stanowiskowa mówi że nie mogę". To jest właściwa taktyka. Kodeks pracy stoi za tobą w tle, ale w rozmowie pierwszej z brygadzistą mówisz o konkretnej normie zakładowej, nie o artykule kodeksu. Po drugie, Mykoła **zaproponował alternatywę**: „możemy inaczej zrobić?". Sądy powszechne w sprawach pracowniczych traktują propozycję alternatywy jako dowód dobrej wiary pracownika (wyrok SP X P 1138/14, zobaczysz niżej). Po trzecie, **zapisał w dzienniku powód postoju**. Dziennik maszyny jest dowodem obiektywnym, nie zaczyna emocji, a spisuje fakty. Wszystkie trzy elementy razem zamykają spór, zanim się otworzy.
 :::
 
 ### Gdyby Marek nie ustąpił: notatka służbowa
 
 Scena powyżej zakończyła się dobrze, bo Marek jest dobrym brygadzistą. Ale wyobraź sobie alternatywę. Marek jest w stresie (pas ruchu, klient, kara umowna za opóźnienie), mówi:
 
-> **Marek (hipotetycznie):** „Rustam, nie mam czasu. Pięć minut nic nie znaczy. Wahan tylko mi pomoże rozładować, wracamy. Jedź."
+> **Marek (hipotetycznie):** „Mykoła, nie mam czasu. Pięć minut nic nie znaczy. Wasyl tylko mi pomoże rozładować, wracamy. Jedź."
 
 Co robisz? Masz dwie opcje. Pierwsza: uruchamiasz maszynę bez asystenta, licząc że pięć minut się uda i wypadek się nie zdarzy. Jeżeli się zdarzy, art. 52 § 1 pkt 1 KP (dyscyplinarka) jest twoim przyjacielem ze strony pracodawcy, a sąd pracy spojrzy na ciebie jak na osobę, która **świadomie podjęła ryzyko mając prawo powstrzymać się od pracy** (wyrok SP VIII Pa 217/18, o którym za chwilę). Ścieżka pierwsza to przegrana w sądzie pracy, nawet jeżeli Marek też poniesie odpowiedzialność.
 
@@ -198,11 +198,11 @@ W praktyce to oznacza: jeżeli twoja odmowa z art. 210 § 1 okaże się późnie
 
 ### SP X P 1138/14: proponuj alternatywę
 
-Jeszcze jeden wyrok z sądu powszechnego, **X P 1138/14 z dnia 3 listopada 2015 r.**, wzmacnia jedną z technik, którą Rustam zastosował rano: propozycja alternatywy.
+Jeszcze jeden wyrok z sądu powszechnego, **X P 1138/14 z dnia 3 listopada 2015 r.**, wzmacnia jedną z technik, którą Mykoła zastosował rano: propozycja alternatywy.
 
 > „Jeżeli pracownik (...) zaproponował skorzystanie z alternatywnego, wydającego się bezpieczniejszym środka (...) i uzyskał na to ustną zgodę przełożonego posiadającego uprawnienia do jej udzielenia, a pracodawca nie zapewnił pracownikowi odpowiedniego przeszkolenia, instrukcji użytkowania sprzętu oraz prawidłowego nadzoru, to działanie pracownika nie stanowi ciężkiego naruszenia podstawowych obowiązków pracowniczych."
 
-Czyli: propozycja alternatywy + ustna zgoda przełożonego = ochrona prawna, nawet jeżeli alternatywa okazała się nietypowa. Rustam rano zaproponował „zamknięcie bariery rampy + zatrzymanie cyklu". Marek zaakceptował ustnie. Gdyby coś poszło nie tak w trakcie pięciu minut postoju, Rustam miałby dowód: propozycja alternatywy + zgoda ustna + wpis w dzienniku maszyny. Wszystkie trzy razem.
+Czyli: propozycja alternatywy + ustna zgoda przełożonego = ochrona prawna, nawet jeżeli alternatywa okazała się nietypowa. Mykoła rano zaproponował „zamknięcie bariery rampy + zatrzymanie cyklu". Marek zaakceptował ustnie. Gdyby coś poszło nie tak w trakcie pięciu minut postoju, Mykoła miałby dowód: propozycja alternatywy + zgoda ustna + wpis w dzienniku maszyny. Wszystkie trzy razem.
 
 ### SP VIII Pa 217/18: ostrzeżenie po drugiej stronie
 
@@ -222,43 +222,43 @@ Ostatni przepis, który musisz znać. **Art. 283 § 1 KP**:
 
 To jest kara po stronie **kierującego**, nie twojej. Marek podlega pod ten przepis zawsze. Mistrz zmiany Piotr podlega. Kierownik zakładu podlega. PIP (Państwowa Inspekcja Pracy) nakłada mandat do 2000 zł w trybie mandatowym (art. 96 § 1a Kodeksu postępowania w sprawach o wykroczenia), do 5000 zł w przypadku recydywy w ciągu dwóch lat (§ 1b). Grzywny do 30 000 zł wymagają już postępowania sądowego.
 
-**Czy może dotyczyć ciebie?** W wąskich okolicznościach: gdy kierujesz pomocnikiem (np. Wahanem) i nie przestrzegasz BHP wobec niego. To nie jest częste w tartaku, ale jest możliwe. Jeżeli instruujesz Wahana wadliwie, a Wahan dozna urazu, art. 283 § 1 KP wchodzi w grę. Dlatego instruktaż stanowiskowy musi być solidny (l8 tego tygodnia).
+**Czy może dotyczyć ciebie?** W wąskich okolicznościach: gdy kierujesz pomocnikiem (np. Wasylem) i nie przestrzegasz BHP wobec niego. To nie jest częste w tartaku, ale jest możliwe. Jeżeli instruujesz Wasyla wadliwie, a Wasyl dozna urazu, art. 283 § 1 KP wchodzi w grę. Dlatego instruktaż stanowiskowy musi być solidny (l8 tego tygodnia).
 
 **Art. 283 § 2 pkt 6 KP** to druga warstwa, ważna dla lekcji l5 tego tygodnia (postępowanie po incydencie): za niezawiadomienie PIP o wypadku śmiertelnym, ciężkim lub zbiorowym grozi ta sama grzywna (od 1000 do 30 000 zł). Do tego wrócimy w piątek.
 
 ### Środa, godzina 9:16: Marek wraca
 
-Rustam siedzi na stołku obok P3 od 8:47. Spojrzał dwa razy na zegarek. Wahan wraca o 9:13, za nim Marek. Wahan otwiera barierę rampy, podchodzi do swojej pozycji. Marek podchodzi do Rustama:
+Mykoła siedzi na stołku obok P3 od 8:47. Spojrzał dwa razy na zegarek. Wasyl wraca o 9:13, za nim Marek. Wasyl otwiera barierę rampy, podchodzi do swojej pozycji. Marek podchodzi do Mykoły:
 
 > **Marek:** „Dobra, mamy. Klient pojechał, ładunek odebrał, wszystko. Ruszaj od kłody 13. Wpisz wznowienie w dziennik, 9:16."
 
-Rustam kiwa głową. Wpisuje w dzienniku: **„9:16. Wznowienie partii 51, kłoda 13 z 22. Asystent wrócił."** Uruchamia taśmę, robi pierwszy cykl, ciąg dalszy idzie normalnie. O 10:28 kończy partię 51. O 10:30 podchodzi do Marka przy pilarce P1, gdzie Marek szkoli nowego pomocnika.
+Mykoła kiwa głową. Wpisuje w dzienniku: **„9:16. Wznowienie partii 51, kłoda 13 z 22. Asystent wrócił."** Uruchamia taśmę, robi pierwszy cykl, ciąg dalszy idzie normalnie. O 10:28 kończy partię 51. O 10:30 podchodzi do Marka przy pilarce P1, gdzie Marek szkoli nowego pomocnika.
 
-> **Rustam:** „Marek, masz minutę?"
-> **Marek:** „Zaraz, kończę z Karen. Karen, strefa trzy metry, pamiętasz? Dobra, zostaw taśmę, idź na herbatę. Rustam, mów."
-> **Rustam:** „Rano. Postój dwadzieścia dziewięć minut. Chciałem zapytać, czy to w porządku, że stanąłem na instrukcji punkt siedem. Czy to był właściwy moment."
-> **Marek:** (dłuższa pauza, patrzy na halę) „Rustam. Jesteś w M3 trzeci dzień. Ja byłem brygadzistą sześć lat. Jeżeli ja zapominam na minutę, że pilarka nie może iść bez asystenta przy rampie, a ty mi o tym przypominasz, to dobrze, że mi przypominasz. Nie jestem nieomylny. Tartak mi płaci za to, że nie jestem głupszy od instrukcji. Ty dostałeś dziś pięć minut, a nie pięć miesięcy spraw sądowych. Tak ma być. Zapisz to w dzienniku."
+> **Mykoła:** „Marek, masz minutę?"
+> **Marek:** „Zaraz, kończę z Karen. Karen, strefa trzy metry, pamiętasz? Dobra, zostaw taśmę, idź na herbatę. Mykoła, mów."
+> **Mykoła:** „Rano. Postój dwadzieścia dziewięć minut. Chciałem zapytać, czy to w porządku, że stanąłem na instrukcji punkt siedem. Czy to był właściwy moment."
+> **Marek:** (dłuższa pauza, patrzy na halę) „Mykoła. Jesteś w M3 trzeci dzień. Ja byłem brygadzistą sześć lat. Jeżeli ja zapominam na minutę, że pilarka nie może iść bez asystenta przy rampie, a ty mi o tym przypominasz, to dobrze, że mi przypominasz. Nie jestem nieomylny. Tartak mi płaci za to, że nie jestem głupszy od instrukcji. Ty dostałeś dziś pięć minut, a nie pięć miesięcy spraw sądowych. Tak ma być. Zapisz to w dzienniku."
 
-Rustam kiwa głową. Marek klepie go po ramieniu, wraca do Karen.
+Mykoła kiwa głową. Marek klepie go po ramieniu, wraca do Karen.
 
-Rustam wraca do P3. O 10:34 wpisuje w dzienniku maszyny jeszcze jedną linijkę:
+Mykoła wraca do P3. O 10:34 wpisuje w dzienniku maszyny jeszcze jedną linijkę:
 
 > **10:34. Rozmowa z brygadzistą M. Kowalskim o postoju 8:47–9:16. Brygadzista potwierdził zasadność postoju i zgodność z instrukcją stanowiskową P3 punkt 7. Bez notatki służbowej, spór nie powstał.**
 
 Podpisuje. Zamyka tablet. Bierze kolejną kłodę.
 
 ::: info
-Ostatnia linijka Rustama w dzienniku („**bez notatki służbowej, spór nie powstał**") jest doniosła. Rustam dokumentuje nie tylko to, co się stało, ale też co **się nie stało**. Sąd pracy albo inspektor PIP, który czyta dziennik za sześć miesięcy, widzi: był moment napięcia, ale został rozwiązany ustnie, bez eskalacji do notatki służbowej. To jest dobrze prowadzony tartak. Zapis tej linijki jest aktem dokumentacji praktyki w zakładzie, zabezpiecza Rustama i zabezpiecza Marka, i pokazuje że instrukcja stanowiskowa jest stosowana, nie tylko wisi w ramce.
+Ostatnia linijka Mykoły w dzienniku („**bez notatki służbowej, spór nie powstał**") jest doniosła. Mykoła dokumentuje nie tylko to, co się stało, ale też co **się nie stało**. Sąd pracy albo inspektor PIP, który czyta dziennik za sześć miesięcy, widzi: był moment napięcia, ale został rozwiązany ustnie, bez eskalacji do notatki służbowej. To jest dobrze prowadzony tartak. Zapis tej linijki jest aktem dokumentacji praktyki w zakładzie, zabezpiecza Mykołę i zabezpiecza Marka, i pokazuje że instrukcja stanowiskowa jest stosowana, nie tylko wisi w ramce.
 :::
 
 ### Pięć sytuacji, w których notatka służbowa jest właściwą odpowiedzią
 
-Nie każdy spór o bezpieczeństwo w tartaku kończy się notatką służbową. Większość kończy się jak u Rustama dziś rano: rozmową, zmianą planu, wpisem w dzienniku. Notatka służbowa jest eskalacją, której używasz, gdy rozmowa nie skutkuje. Pięć typowych sytuacji z polskiego tartaku:
+Nie każdy spór o bezpieczeństwo w tartaku kończy się notatką służbową. Większość kończy się jak u Mykoły dziś rano: rozmową, zmianą planu, wpisem w dzienniku. Notatka służbowa jest eskalacją, której używasz, gdy rozmowa nie skutkuje. Pięć typowych sytuacji z polskiego tartaku:
 
 1. **Brygadzista wydaje polecenie, które łamie instrukcję stanowiskową, i nie zmienia polecenia po twoim zastrzeżeniu.** Przykład: każe ci pracować bez ochronników słuchu, gdy emisja przekracza 85 dB(A).
 2. **Maszyna ma widoczne uszkodzenie bezpieczeństwa, a brygadzista każe pracować dalej „do końca zmiany".** Przykład: osłona tarczy pęknięta, brygadzista mówi „jeszcze trzy godziny, w nocy zgłoszę do UR".
 3. **ŚOI nie są zapewnione w wymaganym standardzie.** Przykład: okulary ochronne zarysowane, nowe nie zostały dostarczone, brygadzista mówi „noś jakie masz". Kodeks pracy wymaga (art. 2376 i n.) sprawnych środków ochrony.
-4. **Pomocnik lub młodszy operator został wyprowadzony ze stanowiska bez ciebie o tym wiedząc, i nagle wraca z poleceniem, którego nie znasz.** Przykład: Wahan wraca i mówi „mistrz kazał mi stanąć w strefie zakazu". Pytasz mistrza – potwierdza polecenie wbrew instrukcji.
+4. **Pomocnik lub młodszy operator został wyprowadzony ze stanowiska bez ciebie o tym wiedząc, i nagle wraca z poleceniem, którego nie znasz.** Przykład: Wasyl wraca i mówi „mistrz kazał mi stanąć w strefie zakazu". Pytasz mistrza – potwierdza polecenie wbrew instrukcji.
 5. **Dochodzi do zdarzenia na twojej linii, a nie zostaje zapisane.** Przykład: drobne skaleczenie pomocnika, brygadzista mówi „nie zapisujmy, papierologia", ty wiesz że Kodeks pracy i procedura wewnętrzna tego wymagają.
 
 We wszystkich pięciu sytuacjach notatka służbowa jest **aktem zawiadomienia zgodnie z art. 210 § 1 i art. 211 pkt 6 KP**, który zabezpiecza cię prawnie i pomaga przełożonemu podjąć decyzję na piśmie, nie ustnie.
@@ -279,9 +279,9 @@ Jeżeli spisałeś notatkę służbową, a spór nie zostanie rozwiązany w zak�
 
 ### Co z odprawą BHP na tę środę
 
-Odprawę BHP we środę rano prowadził Marek, bo omawiał kampanię dębową. Po zajściu z rampy, które rozwiązało się ustnie, ani Marek, ani Rustam nie musieli nic do tej odprawy dopisywać. Gdyby Rustam spisał notatkę służbową, obowiązek omówienia tej notatki na następnej odprawie BHP (we czwartek) spadłby na Marka albo mistrza zmiany Piotra. Odprawa BHP w polskim tartaku pełni funkcję **zamknięcia obiegu zdarzeniowego**: każde zdarzenie, które dotknęło bezpieczeństwa, wraca na odprawę jako przypomnienie albo poprawka procedury.
+Odprawę BHP we środę rano prowadził Marek, bo omawiał kampanię dębową. Po zajściu z rampy, które rozwiązało się ustnie, ani Marek, ani Mykoła nie musieli nic do tej odprawy dopisywać. Gdyby Mykoła spisał notatkę służbową, obowiązek omówienia tej notatki na następnej odprawie BHP (we czwartek) spadłby na Marka albo mistrza zmiany Piotra. Odprawa BHP w polskim tartaku pełni funkcję **zamknięcia obiegu zdarzeniowego**: każde zdarzenie, które dotknęło bezpieczeństwa, wraca na odprawę jako przypomnienie albo poprawka procedury.
 
-W tej lekcji zapoznałeś się z trzema warstwami obiegu: **ustną** (rozmowa Rustam – Marek o 8:42), **dokumentacyjną** (wpis w dzienniku maszyny o 8:47 i 10:34), **eskalacyjną** (notatka służbowa, której dziś nie było potrzeba). Trzy warstwy na jednym zdarzeniu, zależnie od tego, jak się rozwinęło.
+W tej lekcji zapoznałeś się z trzema warstwami obiegu: **ustną** (rozmowa Mykoła – Marek o 8:42), **dokumentacyjną** (wpis w dzienniku maszyny o 8:47 i 10:34), **eskalacyjną** (notatka służbowa, której dziś nie było potrzeba). Trzy warstwy na jednym zdarzeniu, zależnie od tego, jak się rozwinęło.
 
 ### Podsumowanie lekcji trzeciej
 
@@ -291,7 +291,7 @@ Orzecznictwo Sądu Najwyższego (I PK 191/05, I PKN 619/99, II PSK 76/22) i sąd
 
 Notatka służbowa jest aktem zawiadomienia w formie, która przeżywa spór. Dziesięć punktów treści, dwa egzemplarze, podpis. Nie jest potrzebna codziennie, jest potrzebna gdy rozmowa nie skutkuje.
 
-Rustam dziś rano użył prawa odmowy bez cytowania kodeksu, ale z konkretną normą zakładową i propozycją alternatywy. Marek zareagował poprawnie. Zapisy w dzienniku są. Spór się nie rozwinął. Tak wygląda dobry tartak. Jutro, w l4, zobaczysz co zrobić, gdy spór się rozwinie: procedura „STOP, zabezpiecz, zgłoś, udokumentuj". Notatka służbowa będzie wtedy już bliżej.
+Mykoła dziś rano użył prawa odmowy bez cytowania kodeksu, ale z konkretną normą zakładową i propozycją alternatywy. Marek zareagował poprawnie. Zapisy w dzienniku są. Spór się nie rozwinął. Tak wygląda dobry tartak. Jutro, w l4, zobaczysz co zrobić, gdy spór się rozwinie: procedura „STOP, zabezpiecz, zgłoś, udokumentuj". Notatka służbowa będzie wtedy już bliżej.
 
 ## Kluczowe terminy
 
@@ -363,11 +363,11 @@ f) czas trwania zagrożenia przekracza dwie godziny.
 2. Dlaczego zawiadomienie przełożonego jest warunkiem ochrony, a nie jej dodatkiem? Przywołaj sygnaturę wyroku Sądu Najwyższego, który to potwierdza.
 3. Wymień 10 elementów treści notatki służbowej, które sąd pracy uzna za dowód. Dlaczego „data i godzina" z dokładnością do minuty jest ważniejsza niż podanie dnia tygodnia?
 4. Co znaczy, że prawo odmowy pracy niebezpiecznej **nie chroni cię**, jeżeli twoja ocena opiera się na subiektywnej obawie bez obiektywnego zagrożenia? Przywołaj sygnaturę wyroku, który tak orzekł.
-5. Rustam zapisał w dzienniku maszyny linijkę: „Bez notatki służbowej, spór nie powstał". Dlaczego ta linijka ma wartość dokumentacyjną, chociaż nie wynikała z obowiązku prawnego?
+5. Mykoła zapisał w dzienniku maszyny linijkę: „Bez notatki służbowej, spór nie powstał". Dlaczego ta linijka ma wartość dokumentacyjną, chociaż nie wynikała z obowiązku prawnego?
 
 **Część D. Analiza sceny:**
 
-Wróć do sceny Rustam – Marek z 8:42. Zidentyfikuj **cztery decyzje Rustama**, które miały znaczenie prawne (nie tylko operacyjne). Dla każdej wskaż, który przepis albo wyrok jej dotyczy.
+Wróć do sceny Mykoła – Marek z 8:42. Zidentyfikuj **cztery decyzje Mykoły**, które miały znaczenie prawne (nie tylko operacyjne). Dla każdej wskaż, który przepis albo wyrok jej dotyczy.
 
 ## Link do praktyki
 
@@ -382,7 +382,7 @@ Pojutrze, w l4, zobaczysz procedurę „STOP – zabezpiecz – zgłoś – udok
 
 ## Notatki dla trenera
 
-- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele + sprostowanie numeru art. 220 na art. 211 (uwaga do kursantów, którzy pamiętają z l1); 25 min „Trzy artykuły, które się przecinają" (czytanie tekstu art. 100, 210, 211 głośno w parach, z przerwami); 15 min „Art. 212 KP – ciężar Marka" (dyskusja: dlaczego odmowa operatora pomaga brygadziście); 15 min „Dzień trzeci Rustama" (czytanie sceny, zatrzymanie przy decyzji Rustama o propozycji alternatywy, dyskusja); 15 min „Notatka służbowa – format" (ćwiczenie: każdy kursant pisze własną notatkę dla hipotetycznej sytuacji z własnego zakładu, 10 punktów treści); 15 min orzecznictwo (pięć wyroków, kursanci rozpisują jedną sygnaturę każdy, grupa weryfikuje); 10 min ścieżki zewnętrzne (PIP, związki, sąd pracy); 10 min domowe + podsumowanie.
+- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele + sprostowanie numeru art. 220 na art. 211 (uwaga do kursantów, którzy pamiętają z l1); 25 min „Trzy artykuły, które się przecinają" (czytanie tekstu art. 100, 210, 211 głośno w parach, z przerwami); 15 min „Art. 212 KP – ciężar Marka" (dyskusja: dlaczego odmowa operatora pomaga brygadziście); 15 min „Dzień trzeci Mykoły" (czytanie sceny, zatrzymanie przy decyzji Mykoły o propozycji alternatywy, dyskusja); 15 min „Notatka służbowa – format" (ćwiczenie: każdy kursant pisze własną notatkę dla hipotetycznej sytuacji z własnego zakładu, 10 punktów treści); 15 min orzecznictwo (pięć wyroków, kursanci rozpisują jedną sygnaturę każdy, grupa weryfikuje); 10 min ścieżki zewnętrzne (PIP, związki, sąd pracy); 10 min domowe + podsumowanie.
 - **Pułapka pedagogiczna nr 1:** kursanci migranci mogą mieć intuicję, że „prawo chroni tylko obywateli polskich" albo że „migrant, który pójdzie do PIP, zostanie zwolniony". Obie intuicje są fałszywe. Polskie prawo pracy **nie różnicuje** pracowników ze względu na obywatelstwo (art. 113 Kodeksu pracy, zakaz dyskryminacji). Dostęp do PIP i sądu pracy jest identyczny. Jeżeli pada pytanie o realne ryzyko, odpowiedź: „w tartaku z certyfikatem FSC albo z klientem eksportowym kultura zakładowa nie dopuszcza zwolnienia za skorzystanie z PIP, bo to by uderzyło w certyfikację". Jeżeli pytanie dotyczy małego tartaku bez certyfikatów, odpowiedź jest ostrożniejsza, ale nadal: przepisy są po stronie pracownika, dowód w postaci notatki służbowej jest kluczowy.
 - **Pułapka pedagogiczna nr 2:** kursanci mogą zacząć traktować art. 210 jako „karta wyjścia" z każdej niewygodnej sytuacji. Ostrożnie. Wyrok SN II PSK 76/22 pokazuje że subiektywna obawa bez faktu obiektywnego jest pułapką. Ćwicz rozróżnienie „fakt widzialny" vs. „wrażenie". Fakt: przerwa w osłonie, hałas powyżej normy z pomiaru, brak lampy sygnalizacyjnej. Wrażenie: „wydaje mi się że przegrzewa", „ta taśma dziwnie brzmi", „nie ufam tej kłodzie". Wrażenia są sygnałem diagnostycznym, nie podstawą prawną. Podstawą jest fakt, którego nie trzeba tłumaczyć inspektorowi bo sam go zobaczy.
 - **Pułapka pedagogiczna nr 3:** sekcja „Notatka służbowa – format" może wywołać pytanie: „czy to jest donos". Nie jest. Notatka służbowa to **zawiadomienie przełożonego o zagrożeniu**, które polski Kodeks pracy wymaga (art. 210 § 1 i art. 211 pkt 6). Jest to obowiązek, nie akt agresji. W kulturze niektórych krajów pochodzenia kursantów (były ZSRR, Bliski Wschód) pisemne zawiadomienie przełożonego bywa traktowane jako wrogie. Trzeba to rozmontować świadomie, mówiąc: w Polsce notatka służbowa to standardowy element kultury pracy, brygadziści jej oczekują jako dowodu staranności operatora.

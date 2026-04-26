@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Ten sam poniedziałek, 13:45, pilarka taśmowa nr 2 w hali Fundacji EGIDA. Hai kończy właśnie 42. belkę z dyspozycji DP-2026-042 (3 sztuki zostaną na wtorek zgodnie z aktualizacją podpisaną przez brygadzistę Marka). Odkłada popychacz, wyłącza główny wyłącznik, czeka 40 sekund aż taśma całkowicie się zatrzyma, zdejmuje ochraniacze słuchu i rękawice. O 13:50 podchodzi Marek z drugim formularzem A4, zielonym tym razem. „Hai, dyspozycja była wejściem zmiany. Dziennik to wyjście. Każdy pracownik fizyczny tartaku EGIDA od 2024 roku zostawia zmianie następnej pisemny ślad tego, co się działo między 6:30 a 14:00. Przed podpisaniem karty pracy masz wypełnić ten formularz. Nie „mniej więcej". Dokładnie – ile godzin pilarka pracowała, ile była wyłączona, jakie taśmy zszedłeś i z jakiego powodu, jakie usterki zgłaszałeś. To twoje słowo o tym, co się stało. Pamiętaj: twój zmiennik z drugiej zmiany czyta ten dziennik o 14:15 i od twoich wpisów zależy, czy zacznie bez niespodzianek".
+Ten sam poniedziałek, 13:45, pilarka taśmowa nr 2 w hali Fundacji EGIDA. Andrij kończy właśnie 42. belkę z dyspozycji DP-2026-042 (3 sztuki zostaną na wtorek zgodnie z aktualizacją podpisaną przez brygadzistę Marka). Odkłada popychacz, wyłącza główny wyłącznik, czeka 40 sekund aż taśma całkowicie się zatrzyma, zdejmuje ochraniacze słuchu i rękawice. O 13:50 podchodzi Marek z drugim formularzem A4, zielonym tym razem. „Andrij, dyspozycja była wejściem zmiany. Dziennik to wyjście. Każdy pracownik fizyczny tartaku EGIDA od 2024 roku zostawia zmianie następnej pisemny ślad tego, co się działo między 6:30 a 14:00. Przed podpisaniem karty pracy masz wypełnić ten formularz. Nie „mniej więcej". Dokładnie – ile godzin pilarka pracowała, ile była wyłączona, jakie taśmy zszedłeś i z jakiego powodu, jakie usterki zgłaszałeś. To twoje słowo o tym, co się stało. Pamiętaj: twój zmiennik z drugiej zmiany czyta ten dziennik o 14:15 i od twoich wpisów zależy, czy zacznie bez niespodzianek".
 
-Hai bierze formularz. Tytuł: „Dziennik zmiany operatora – pilarka taśmowa nr 2". Numer zmiany: **ZMI-2026-042-01** (ta sama dyspozycja, zmiana pierwsza = rano). Data: 20.04.2026. Operator: Hai Nguyen, kod H-02. Godziny planowane: 6:30–14:00. Dziennik ma osiem pól głównych i dwie tabele. Hai widzi go pierwszy raz, ale z opisu Marka wie już, o co chodzi: to nie jest „papierologia dla papierologii" – to zapis dwóch rodzajów informacji, które idą dwoma różnymi kanałami. Po pierwsze, **informacje do księgowości**: godziny motorogodzin pilarki, objętość surowca przetartego, zużyte taśmy (każda taśma to koszt 180–240 zł, a tartak ma średnio 120 taśm rocznie na pilarkę). Po drugie, **informacje do produkcji**: przestoje, usterki, uwagi techniczne, które muszą trafić do dyspozytora zmianowego przed rozpoczęciem zmiany drugiej o 14:15.
+Andrij bierze formularz. Tytuł: „Dziennik zmiany operatora – pilarka taśmowa nr 2". Numer zmiany: **ZMI-2026-042-01** (ta sama dyspozycja, zmiana pierwsza = rano). Data: 20.04.2026. Operator: Andrij Tkaczenko, kod H-02. Godziny planowane: 6:30–14:00. Dziennik ma osiem pól głównych i dwie tabele. Andrij widzi go pierwszy raz, ale z opisu Marka wie już, o co chodzi: to nie jest „papierologia dla papierologii" – to zapis dwóch rodzajów informacji, które idą dwoma różnymi kanałami. Po pierwsze, **informacje do księgowości**: godziny motorogodzin pilarki, objętość surowca przetartego, zużyte taśmy (każda taśma to koszt 180–240 zł, a tartak ma średnio 120 taśm rocznie na pilarkę). Po drugie, **informacje do produkcji**: przestoje, usterki, uwagi techniczne, które muszą trafić do dyspozytora zmianowego przed rozpoczęciem zmiany drugiej o 14:15.
 
 W lekcji 1 nauczyłeś się czytać dyspozycję – papier, który idzie z biura do maszyny. W lekcji 2 uczysz się wypełniać dziennik – papier, który idzie z maszyny do biura. Te dwa dokumenty **zamykają pętlę informacyjną** tartaku. Dyspozycja mówi, co masz zrobić, dziennik mówi, co zrobiłeś. Dyspozytor porównuje oba dokumenty następnego ranka i widzi, czy plan się zgadza z realizacją. Jeśli dyspozycja mówi „45 belek priorytet B", a dziennik mówi „42 belki + 3 na jutro, przyczyna: brak surowca od 10:30", dyspozytor wie, że nie jesteś winny opóźnienia, tylko logistyka. Ten właśnie dziennik będzie jego dowodem.
 
@@ -30,18 +30,18 @@ Po tej lekcji:
 
 ### Osiem pól głównych dziennika ZMI-2026-042-01
 
-| Pole | Nazwa | Wartość Haia z 20.04.2026 |
+| Pole | Nazwa | Wartość Andrija z 20.04.2026 |
 |------|-------|---------------------------|
 | A | Numer zmiany | ZMI-2026-042-01 (zmiana 1 = rano) |
 | B | Data | 20.04.2026, poniedziałek |
-| C | Operator (imię, kod) | Hai Nguyen, H-02 |
+| C | Operator (imię, kod) | Andrij Tkaczenko, H-02 |
 | D | Maszyna | Pilarka taśmowa nr 2, Wood-Mizer LT40 |
 | E | Motogodziny pilarki | 6:54–13:42 = 6,8 h |
 | F | Objętość surowca wejściowego | 4,12 m³ (38 kłód świerkowych z pakietu SW-A-190420) |
 | G | Objętość sortymentu wyjściowego | 2,56 m³ (42 belki 100 × 200 × 4000 mm) |
 | H | Wskaźnik wydajności (G/F) | 62,1% (w normie branżowej 58–65% dla świerka belkowego) |
 
-**Motogodziny** (pole E) to czas realnej pracy pilarki, mierzony przez licznik elektroniczny w pulpicie sterownika (od kontroli pracy silnika głównego). Ten licznik startuje, gdy taśma się rozpędza do prędkości roboczej, i zatrzymuje się, gdy wyłączasz główny wyłącznik. Hai zaczął zmianę o 6:30, ale pilarka ruszyła o 6:54 (po obchodzie porannym, teście STOP, biegu jałowym 30 s, pierwszym rzazie testowym). Skończył o 13:42, resztę do 14:00 zajęły sprzątanie i dziennik. Różnica między „godzinami pracy operatora" (7,5 h) a „motogodzinami pilarki" (6,8 h) wynika z przestojów i czasów nieprodukcyjnych – i ta różnica jest **nie do uniknięcia, nie jest marnotrawstwem**.
+**Motogodziny** (pole E) to czas realnej pracy pilarki, mierzony przez licznik elektroniczny w pulpicie sterownika (od kontroli pracy silnika głównego). Ten licznik startuje, gdy taśma się rozpędza do prędkości roboczej, i zatrzymuje się, gdy wyłączasz główny wyłącznik. Andrij zaczął zmianę o 6:30, ale pilarka ruszyła o 6:54 (po obchodzie porannym, teście STOP, biegu jałowym 30 s, pierwszym rzazie testowym). Skończył o 13:42, resztę do 14:00 zajęły sprzątanie i dziennik. Różnica między „godzinami pracy operatora" (7,5 h) a „motogodzinami pilarki" (6,8 h) wynika z przestojów i czasów nieprodukcyjnych – i ta różnica jest **nie do uniknięcia, nie jest marnotrawstwem**.
 
 **Wskaźnik wydajności** (pole H) to najważniejszy pojedynczy wynik zmiany dla dyspozytora. 62% oznacza, że z 4,12 m³ surowca wyszło 2,56 m³ sortymentu gotowego, a reszta (38%, czyli 1,56 m³) to trociny, odpady, kora i obrzyny. Dla świerka belkowego norma branżowa to 58–65% (dąb 45–55%, sosna 60–68%, buk 40–50%). Jeśli przez tydzień masz wskaźnik poniżej 55% dla świerka, dyspozytor zaczyna szukać przyczyny: źle ustawiony klin, tępa taśma, zły sortowanie surowca na wejściu.
 
@@ -54,7 +54,7 @@ Przestój to dowolny moment zmiany, w którym pilarka nie pracowała mimo że op
 - **Organizacyjny (O)**: oczekiwanie na decyzję brygadzisty, zmiana priorytetu, spotkanie, szkolenie. **Właściciel**: brygadzista, dyspozytor.
 - **Osobowy (P)**: przerwa obowiązkowa śniadaniowa (15 min), przerwa lunchowa (30 min), wizyta u lekarza zakładowego, potrzeba fizjologiczna. **Właściciel**: operator, czyli ty.
 
-Przykładowa tabela przestojów zmiany Haia (wartości autentyczne):
+Przykładowa tabela przestojów zmiany Andrija (wartości autentyczne):
 
 | Godzina od | Godzina do | Minuty | Typ | Opis |
 |------------|------------|--------|-----|------|
@@ -69,7 +69,7 @@ Suma 89 minut na 7,5 h zmiany = 19,8% czasu. To w normie (15–25% dla zmiany z 
 
 ### Tabela zużytych taśm
 
-Każda taśma ma numer magazynowy (3 cyfry) nadany przy przyjęciu dostawy. Rejestrujesz cztery informacje: numer, godzina założenia, godzina zdjęcia, szacunkowa liczba rzazów, powód zdjęcia. Szacunkowa liczba rzazów to twoja obserwacja, nie pomiar: liczysz z grubsza deski przepiłowane od założenia (dla pilarki taśmowej jedna deska = 1 rzaz wzdłużny + 1 rzaz poprzeczny = 2 rzazy, więc 20 desek = ok. 40 rzazów). Tabela Haia:
+Każda taśma ma numer magazynowy (3 cyfry) nadany przy przyjęciu dostawy. Rejestrujesz cztery informacje: numer, godzina założenia, godzina zdjęcia, szacunkowa liczba rzazów, powód zdjęcia. Szacunkowa liczba rzazów to twoja obserwacja, nie pomiar: liczysz z grubsza deski przepiłowane od założenia (dla pilarki taśmowej jedna deska = 1 rzaz wzdłużny + 1 rzaz poprzeczny = 2 rzazy, więc 20 desek = ok. 40 rzazów). Tabela Andrija:
 
 | Numer taśmy | Założenie | Zdjęcie | Rzazy (szac.) | Powód |
 |-------------|-----------|---------|---------------|-------|
@@ -80,11 +80,11 @@ Taśma 7 została założona wczorajszą zmianą drugą (przez kogo? Widzisz to 
 
 ### Pole wolnotekstowe: zgłoszone usterki
 
-Format trzyczęściowy: **co** / **kiedy** / **co zrobiłem**. Przykład z dziennika Haia, napisany drukowanymi literami:
+Format trzyczęściowy: **co** / **kiedy** / **co zrobiłem**. Przykład z dziennika Andrija, napisany drukowanymi literami:
 
 > „13:30 – DŹWIĘK ZGRZYTU PRZY ROZPĘDZANIU TAŚMY. WYŁĄCZYŁEM, ZGŁOSIŁEM MARKOWI, WZNOWIONE PO REGULACJI NAPIĘCIA Z 2250 NA 2350 PSI. OBSERWACJA PRZEZ MARKA: PRAWDOPODOBNIE LUZ NA GÓRNEJ ROLCE, PROSZĘ O OGLĘDZINY MECHANIKA WE WTOREK RANO."
 
-Zauważ: Hai opisuje **co widział i co zrobił**, ale **nie diagnozuje** („luz na górnej rolce") jako swojego wniosku, tylko jako obserwację Marka. To ważne, bo jeśli mechanik we wtorek odkryje inną przyczynę (np. pęknięte łożysko), nie będzie pretensji „operator twierdził, że to luz". Hai napisał tylko to, co wie na pewno: dźwięk, wyłączenie, eskalacja, cytowana opinia brygadzisty. Reszta idzie do tabeli „Usterki wymagające naprawy" w dzienniku dyspozytora, nie twojego.
+Zauważ: Andrij opisuje **co widział i co zrobił**, ale **nie diagnozuje** („luz na górnej rolce") jako swojego wniosku, tylko jako obserwację Marka. To ważne, bo jeśli mechanik we wtorek odkryje inną przyczynę (np. pęknięte łożysko), nie będzie pretensji „operator twierdził, że to luz". Andrij napisał tylko to, co wie na pewno: dźwięk, wyłączenie, eskalacja, cytowana opinia brygadzisty. Reszta idzie do tabeli „Usterki wymagające naprawy" w dzienniku dyspozytora, nie twojego.
 
 ::: warning
 **Trzy częste błędy juniora przy wypełnianiu dziennika.** Błąd pierwszy: **„mniej więcej" zamiast konkretnych godzin**. „Około 8 rano wymieniłem taśmę" to dla dyspozytora bezużyteczne – on potrzebuje „08:40". Różnica między „około 8" a „08:40" to 40 minut, na zmianie 7,5 h to 9% czasu – wystarczająco, żeby zafałszować rozliczenie motogodzin. Błąd drugi: **pomijanie przestojów „osobowych" (typ P)**. Junior myśli: „przerwa śniadaniowa to obowiązkowe, wszyscy o niej wiedzą, po co wpisywać". Wpisujesz, bo bez wpisu twoja zmiana wygląda na „7,5 h motogodzin" zamiast „6,8 h motogodzin + 0,75 h przerw obowiązkowych". Różnica robi się pretensją o „dlaczego twoja wydajność taka niska" – a była normalna. Błąd trzeci: **diagnozowanie zamiast opisywania**. Zamiast „dźwięk zgrzytu 13:30, wyłączyłem, zgłosiłem Markowi" junior pisze „uszkodzone łożysko górnej rolki". Ty tego nie wiesz. Opisujesz fakty (dźwięk, wyłączenie), obserwacje (Marek powiedział coś), nie wnioski diagnostyczne, które należą do mechanika.
@@ -95,7 +95,7 @@ Zauważ: Hai opisuje **co widział i co zrobił**, ale **nie diagnozuje** („lu
 :::
 
 ::: example
-**Case Haia – dziennik ZMI-2026-042-01 wypełniony 13:45–13:58.** Hai zasiada przy stoliku, wyciąga zielony formularz A4, wyciąga notes A6 z kieszeni. W notesie ma: „6:54 start, 8:40 taśma 7 → 11 świerk ok. 140 rzazów, 9:15–9:30 śniadanie, 10:30–10:48 brak dostawy Marek zmienił dyspozycję na 42+3, 11:50–12:20 lunch, 13:30 zgrzyt regulacja 2250→2350 Marek obserwacja, 13:42 stop". Przepisuje do dziennika: osiem pól A–H w 3 minuty, tabela przestojów w 4 minuty (6 wpisów, suma 89 min), tabela taśm w 2 minuty (2 wpisy), pole usterek 3 minuty (60 słów drukowanymi). 13:58 podpisuje pole „Operator zamykający", wpisuje godzinę 13:58. Wstaje, niesie biały oryginał do Marka (Marek parafuje w polu „Brygadzista zatwierdzający"), wstawia zieloną kopię do teczki dziennikowej przy pilarce. 14:02 Hai gotowy do zakończenia karty pracy. O 14:15 zmiennik sięga po zieloną kopię i czyta przez 5 minut, zanim dotknie pilarki – i wie, że taśma 11 zrobiła ok. 190 rzazów, została po regulacji napięcia 2350 PSI, mechanik przyjdzie we wtorek rano do górnej rolki.
+**Case Andrija – dziennik ZMI-2026-042-01 wypełniony 13:45–13:58.** Andrij zasiada przy stoliku, wyciąga zielony formularz A4, wyciąga notes A6 z kieszeni. W notesie ma: „6:54 start, 8:40 taśma 7 → 11 świerk ok. 140 rzazów, 9:15–9:30 śniadanie, 10:30–10:48 brak dostawy Marek zmienił dyspozycję na 42+3, 11:50–12:20 lunch, 13:30 zgrzyt regulacja 2250→2350 Marek obserwacja, 13:42 stop". Przepisuje do dziennika: osiem pól A–H w 3 minuty, tabela przestojów w 4 minuty (6 wpisów, suma 89 min), tabela taśm w 2 minuty (2 wpisy), pole usterek 3 minuty (60 słów drukowanymi). 13:58 podpisuje pole „Operator zamykający", wpisuje godzinę 13:58. Wstaje, niesie biały oryginał do Marka (Marek parafuje w polu „Brygadzista zatwierdzający"), wstawia zieloną kopię do teczki dziennikowej przy pilarce. 14:02 Andrij gotowy do zakończenia karty pracy. O 14:15 zmiennik sięga po zieloną kopię i czyta przez 5 minut, zanim dotknie pilarki – i wie, że taśma 11 zrobiła ok. 190 rzazów, została po regulacji napięcia 2350 PSI, mechanik przyjdzie we wtorek rano do górnej rolki.
 :::
 
 ## Kluczowe terminy

@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Wednesday, 2026-05-13, 8:45 in the morning. Rustam and Wahan are finishing moisture measurements by the drying kilns (pine from P3 for release at 9.3%, spruce from P4 for further drying at 11.9%). Now they are heading to the saw hall. The plan for the day: at 9:30 a **new oak campaign** begins on band saw **P3 Wood-Mizer LT70** (the saw on which Rustam has been working on his own since 4 May, after the supervised period ended). Over the previous three weeks on P3 he cut Scots pine (freshly felled, 50-65% moisture, standard 50 x 150 cross-sections for floor joists). On Tuesday evening they finished the last pine logs of the order for Dom-Bud Piaseczno. From Wednesday 9:30 the campaign on **pedunculate oak** (*Quercus robur*) begins, from the Strzałowo Forest District near Mrągowo. The logs have rested in the yard for 6 months after felling, partially pre-dried, 25-35% moisture. The order: oak boards 32 x 200 x 3000 mm, 2.8 m³, quality class G2-1 (top furniture class), for the client "Dąb-Meble" Piaseczno (the same client to whom we released the furniture-joinery pine this morning).
+Wednesday, 2026-05-13, 8:45 in the morning. Mykoła and Wasyl are finishing moisture measurements by the drying kilns (pine from P3 for release at 9.3%, spruce from P4 for further drying at 11.9%). Now they are heading to the saw hall. The plan for the day: at 9:30 a **new oak campaign** begins on band saw **P3 Wood-Mizer LT70** (the saw on which Mykoła has been working on his own since 4 May, after the supervised period ended). Over the previous three weeks on P3 he cut Scots pine (freshly felled, 50-65% moisture, standard 50 x 150 cross-sections for floor joists). On Tuesday evening they finished the last pine logs of the order for Dom-Bud Piaseczno. From Wednesday 9:30 the campaign on **pedunculate oak** (*Quercus robur*) begins, from the Strzałowo Forest District near Mrągowo. The logs have rested in the yard for 6 months after felling, partially pre-dried, 25-35% moisture. The order: oak boards 32 x 200 x 3000 mm, 2.8 m³, quality class G2-1 (top furniture class), for the client "Dąb-Meble" Piaseczno (the same client to whom we released the furniture-joinery pine this morning).
 
-A species change means **a band change**. Fresh pine needs a different band than pre-dried oak. Before starting the oak campaign Rustam has to remove the band currently mounted (alloy steel, 38 mm wide, 22 mm tooth pitch, typical for fresh pine) and fit a new one (stellite steel, 38 mm, 15 mm pitch, for dry oak). A band change on a Wood-Mizer LT70 takes a self-reliant operator **26 minutes** with a helper's assistance (removal 8 minutes, installation 12 minutes, tension and guide adjustment 6 minutes). For an operator doing it for the first time without assistance, 40-50 minutes. Rustam has already done it twice in M2 with foreman Marek (with the written instruction at the workstation), plus once in M3 on his own (on 3 May, with a note marking the step up to self-reliance).
+A species change means **a band change**. Fresh pine needs a different band than pre-dried oak. Before starting the oak campaign Mykoła has to remove the band currently mounted (alloy steel, 38 mm wide, 22 mm tooth pitch, typical for fresh pine) and fit a new one (stellite steel, 38 mm, 15 mm pitch, for dry oak). A band change on a Wood-Mizer LT70 takes a self-reliant operator **26 minutes** with a helper's assistance (removal 8 minutes, installation 12 minutes, tension and guide adjustment 6 minutes). For an operator doing it for the first time without assistance, 40-50 minutes. Mykoła has already done it twice in M2 with foreman Marek (with the written instruction at the workstation), plus once in M3 on his own (on 3 May, with a note marking the step up to self-reliance).
 
 On the hall wall hangs the EGIDA band catalogue board:
 
@@ -16,7 +16,7 @@ On the hall wall hangs the EGIDA band catalogue board:
 - **Stellite steel** (premium, 320 zł/m, 50-70% longer service life): dry oak, dry beech, tropical species.
 - **Bi-metal** (reinforced, 450 zł/m, rarely used): frozen wood, very hard species (hickory, wenge).
 
-Wahan looks at the board: *"Rustam, why stellite for oak and not alloy? Stellite is 140 zł/m more expensive. What is the value?"*. Rustam replies: *"Because dry oak at 25-35% moisture is harder than fresh pine at 50%. An alloy band on dry oak wears out three times faster. Stellite holds up. We count cost per cubic metre of wood, not per band. With stellite one band gets through 8-10 m³ of oak before replacement, with alloy only 2-3 m³. The economics work out better with stellite for oak."*. Wahan nods and writes it down.
+Wasyl looks at the board: *"Mykoła, why stellite for oak and not alloy? Stellite is 140 zł/m more expensive. What is the value?"*. Mykoła replies: *"Because dry oak at 25-35% moisture is harder than fresh pine at 50%. An alloy band on dry oak wears out three times faster. Stellite holds up. We count cost per cubic metre of wood, not per band. With stellite one band gets through 8-10 m³ of oak before replacement, with alloy only 2-3 m³. The economics work out better with stellite for oak."*. Wasyl nods and writes it down.
 
 ## Objectives
 
@@ -165,7 +165,7 @@ Tooth pitch is the **distance between the tips of adjacent teeth** on the band, 
 - **Service life:** 4-5 m³.
 - **Change frequency:** every 3-4 days.
 
-Beyond these three scenarios there are rarer combinations (dry beech, ash, larch, tropical wood), but for a beginner operator in M3 (like Rustam) the three main scenarios cover **85% of the work**.
+Beyond these three scenarios there are rarer combinations (dry beech, ash, larch, tropical wood), but for a beginner operator in M3 (like Mykoła) the three main scenarios cover **85% of the work**.
 
 ::: warning
 **The tooth pitch on an existing band cannot be changed**. The pitch is fixed, cut/cast at the factory. Changing the pitch = changing the band. A beginner operator's mistake: trying to cut fresh pine with a 15 mm band (because it was left over from oak). The result: a kerf jam, overheating, a band break after 20-30 minutes. **Always check the band type before starting the machine**: the label on the band (burned in or on a sticker) shows the type, width, pitch, date of last reconditioning. The check takes 20 seconds; the wrong band means a break, 30 min of downtime, potential damage to the wheels or guides.
@@ -173,43 +173,43 @@ Beyond these three scenarios there are rarer combinations (dry beech, ash, larch
 
 ### The band-change scene: P3 Wood-Mizer LT70, 8:50-9:20
 
-Rustam and Wahan stand by saw P3. The saw is STOP, power disconnected, a LOTO padlock on the main switch (the procedure from m3-w1-l4). Rustam carries the new band (stellite 38 mm, pitch 15 mm, length 4200 mm, taken from the band store).
+Mykoła and Wasyl stand by saw P3. The saw is STOP, power disconnected, a LOTO padlock on the main switch (the procedure from m3-w1-l4). Mykoła carries the new band (stellite 38 mm, pitch 15 mm, length 4200 mm, taken from the band store).
 
-> **Rustam:** "Wahan, we open the band-wheel guard. Upper guard, four M8 bolts, 13 mm wrench."
+> **Mykoła:** "Wasyl, we open the band-wheel guard. Upper guard, four M8 bolts, 13 mm wrench."
 >
-> **Wahan:** "Done, guard off. I can see the band."
+> **Wasyl:** "Done, guard off. I can see the band."
 
-We see the old band (alloy 38/22 from the pine campaign) on the wheels. Upper wheel (tensioning) and lower wheel (drive). Rustam unscrews the **tension drive** (knob on the side of the housing); the tension drops from 2400 PSI to 0.
+We see the old band (alloy 38/22 from the pine campaign) on the wheels. Upper wheel (tensioning) and lower wheel (drive). Mykoła unscrews the **tension drive** (knob on the side of the housing); the tension drops from 2400 PSI to 0.
 
-> **Rustam:** "Tension released. Now we take the band off the upper wheel. Carefully, teeth facing outward."
+> **Mykoła:** "Tension released. Now we take the band off the upper wheel. Carefully, teeth facing outward."
 
-Rustam and Wahan take the band off the upper wheel. The band hangs loosely around the lower wheel. Rustam slides the band down, removes it from the lower wheel. They coil the old band in a figure-of-eight (standard procedure, bands are stored in a double-loop shape to fit into the container) and put it in the used-band container (for reconditioning or scrap).
+Mykoła and Wasyl take the band off the upper wheel. The band hangs loosely around the lower wheel. Mykoła slides the band down, removes it from the lower wheel. They coil the old band in a figure-of-eight (standard procedure, bands are stored in a double-loop shape to fit into the container) and put it in the used-band container (for reconditioning or scrap).
 
 Time: **8 minutes** (including opening the guard).
 
-> **Rustam:** "Now the new one. Stellite 38/15, check the label."
+> **Mykoła:** "Now the new one. Stellite 38/15, check the label."
 >
-> **Wahan** (reading): "Munkfors Scandinavia, Stellite 38 x 4200, pitch 15 mm, production date 2026-04-20. Correct."
+> **Wasyl** (reading): "Munkfors Scandinavia, Stellite 38 x 4200, pitch 15 mm, production date 2026-04-20. Correct."
 
-Rustam uncoils the new band from its loop, checks tooth direction (the arrow on the band shows the direction of rotation, which has to match the saw wheels' rotation, left for P3). He places it on the lower wheel and runs it up to the upper wheel. Pre-tension 2000 PSI (knob).
+Mykoła uncoils the new band from its loop, checks tooth direction (the arrow on the band shows the direction of rotation, which has to match the saw wheels' rotation, left for P3). He places it on the lower wheel and runs it up to the upper wheel. Pre-tension 2000 PSI (knob).
 
-> **Rustam:** "Now the guides. Standard 3-4 mm clearance between the band and the guide."
+> **Mykoła:** "Now the guides. Standard 3-4 mm clearance between the band and the guide."
 
-Rustam adjusts the three guides (upper, lower, side) with an Allen key. He checks the clearance with a 3 mm feeler gauge. Correct.
+Mykoła adjusts the three guides (upper, lower, side) with an Allen key. He checks the clearance with a 3 mm feeler gauge. Correct.
 
 Installation time: **12 minutes**.
 
-> **Rustam:** "Now tension adjustment to 2400 PSI. And a test."
+> **Mykoła:** "Now tension adjustment to 2400 PSI. And a test."
 
-Rustam tightens the tension knob, the gauge shows 2400. He runs the motor briefly (3 seconds, idle, no load), watches the wheels. The band moves evenly, without lateral wobble. He stops.
+Mykoła tightens the tension knob, the gauge shows 2400. He runs the motor briefly (3 seconds, idle, no load), watches the wheels. The band moves evenly, without lateral wobble. He stops.
 
-> **Rustam:** "All good. I'm putting the guard back on, removing the LOTO, the saw is ready."
+> **Mykoła:** "All good. I'm putting the guard back on, removing the LOTO, the saw is ready."
 
 Adjustment: **6 minutes**. Total: **26 minutes**, as planned.
 
-> **Wahan:** "Ready for oak?"
+> **Wasyl:** "Ready for oak?"
 >
-> **Rustam:** "Ready. The first oak log is waiting on the infeed carriage. I roll it in, we start at 9:30 per the dispatch."
+> **Mykoła:** "Ready. The first oak log is waiting on the infeed carriage. I roll it in, we start at 9:30 per the dispatch."
 
 ### Band service life and reconditioning
 
@@ -268,7 +268,7 @@ Band change on a Wood-Mizer LT70 by a self-reliant operator with a helper's assi
 
 Economics: stellite on oak is more expensive at purchase (320 vs 180 zł), but **four times cheaper per m³** of wood (7.50 vs 30 zł/m³), thanks to long service life plus reconditioning (4 cycles). Alloy on oak is not recommended (wear too fast, cost uncompetitive).
 
-Today Rustam and Wahan changed the band on P3 from alloy to stellite in 26 minutes, as planned. From 9:30 the oak campaign begins (2.8 m³ over 3 days). As a self-reliant operator Rustam knows his three selection scenarios, distinguishes the pitch, and understands the economics of reconditioning. In future, when Marek (the foreman) gives the dispatch "tomorrow dry larch from the Beskidy", Rustam will choose the band himself (probably stellite 38/15, because dry larch is similar to oak in hardness).
+Today Mykoła and Wasyl changed the band on P3 from alloy to stellite in 26 minutes, as planned. From 9:30 the oak campaign begins (2.8 m³ over 3 days). As a self-reliant operator Mykoła knows his three selection scenarios, distinguishes the pitch, and understands the economics of reconditioning. In future, when Marek (the foreman) gives the dispatch "tomorrow dry larch from the Beskidy", Mykoła will choose the band himself (probably stellite 38/15, because dry larch is similar to oak in hardness).
 
 In the next lesson (m3-w2-l7) we move on to **tooth geometry and set**: tip, set, rake angle, visual assessment of dulling and micro-cracks at the tooth base (the two most common causes of band breaks during cutting).
 

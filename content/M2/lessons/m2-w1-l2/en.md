@@ -6,7 +6,7 @@ czas: 120
 
 ## Introduction
 
-Hai came back on Friday from his first solo shift at the bandsaw with his eyes full of splinters. Nothing serious: two tiny splinters under the eyelid, flushed out with saline by the on-duty first-aid officer in five minutes. But it was enough that the next morning Hai stood at the PPE locker longer than ever in Module 1.
+Andrij came back on Friday from his first solo shift at the bandsaw with his eyes full of splinters. Nothing serious: two tiny splinters under the eyelid, flushed out with saline by the on-duty first-aid officer in five minutes. But it was enough that the next morning Andrij stood at the PPE locker longer than ever in Module 1.
 
 Because in Module 1 his PPE was a **hard hat, high-visibility vest, and toe-capped boots**. Today, as a junior operator, he opens the same locker and sees a second set: **safety goggles, hearing protectors, a respirator mask, operator footwear, and clothing with no loose parts**. Five items that, in a sawmill, mean the difference between a normal day at work and a hospital visit.
 
@@ -113,7 +113,7 @@ The week's pilot introduced the **check – start up – report** ritual. The fi
 Only now do you walk up to the machine. "Start up" comes in lesson 3. "Report" in lesson 6.
 
 ::: example
-**Hai's case**: on his first day of Module 2 Hai skipped step 3 (the touch check). He had his watch on his wrist and did not notice. At the first start-up of the band, the foreman saw it and stopped the machine with the word "stop". Hai took off the watch and went back to the ritual. Zero disciplinary consequences, because the foreman saw a new operator learning the ritual. But Hai remembered it for the rest of his career: **the touch check is not a formality**.
+**Andrij's case**: on his first day of Module 2 Andrij skipped step 3 (the touch check). He had his watch on his wrist and did not notice. At the first start-up of the band, the foreman saw it and stopped the machine with the word "stop". Andrij took off the watch and went back to the ritual. Zero disciplinary consequences, because the foreman saw a new operator learning the ritual. But Andrij remembered it for the rest of his career: **the touch check is not a formality**.
 :::
 
 ::: info
@@ -169,11 +169,11 @@ D) Because S1 wears out faster than S3.
 
 - The "check – start up – report" ritual returns here as **the refrain of the Module 2 spine**. The "check" step begins with yourself; that is the heart of the lesson. Emphasise: PPE is not an "add-on", it is **the first step of the ritual**.
 - Core arc: in Module 1, PPE protected the helper from 3-5 m. In Module 2, PPE protects the operator from 0.5 m. Closeness turns a recommendation into a requirement.
-- Hai continues the pilot's arc. In the pilot he was "alone for the first time". Here he learns to "dress like an operator". In lesson 3 he puts his hand on the STOP. In lesson 4 he runs a checklist. The week closes around a single character.
+- Andrij continues the pilot's arc. In the pilot he was "alone for the first time". Here he learns to "dress like an operator". In lesson 3 he puts his hand on the STOP. In lesson 4 he runs a checklist. The week closes around a single character.
 
 **Migrant traps to demonstrate physically:**
 
-- In Vietnam, Ukraine, Moldova, and Georgia, a cotton glove is often standard for any work with wood ("because of splinters"). The Polish saw operator **does not wear gloves**, by virtue of Rozp. MG 2000 § 5. Physically show what a glove does when pulled into a band (a rag-and-shaft experiment).
+- In many countries of origin (Ukraine, Colombia, Venezuela, Peru, Bolivia), a cotton glove is often standard for any work with wood ("because of splinters"). The Polish saw operator **does not wear gloves**, by virtue of Rozp. MG 2000 § 5. Physically show what a glove does when pulled into a band (a rag-and-shaft experiment).
 - In many countries FFP2 and FFP3 are a recommendation, not a legal duty. In Poland, with oak and beech dust, it is a legal duty based on the IARC classification. Show the IARC label, and the Regulation of the Ministry of Family, Labour and Social Policy of 12 June 2018 on the NDS (occupational exposure limit) for wood dusts.
 - A watch is, in many cultures, part of personal identity (a gift from family). Show why taking it off before the shift is not **losing** the gift, but **protecting** the hand. The watch stays in the locker and goes back on after the shift.
 

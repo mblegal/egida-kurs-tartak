@@ -59,7 +59,7 @@ Format: the trainer reads a case aloud to the group, gives 2-3 minutes for indiv
 
 ## Case 5: „Sign me in, mate"
 
-**Situation**. Thursday, 7:45. The helper approaches the desk with the attendance log. A colleague from the crew (Belarusian, good acquaintance, they have worked together 3 months) comes up: „listen, I will be 40 minutes late today, dentist. Sign me in for 6:50, OK? Normally I would do it myself, but I want to avoid trouble with the foreman, just this once". The helper likes him, knows the colleague is in financial trouble and a late mark can mean a deduction.
+**Situation**. Thursday, 7:45. The helper approaches the desk with the attendance log. A colleague from the crew (Colombian, good acquaintance, they have worked together 3 months) comes up: „listen, I will be 40 minutes late today, dentist. Sign me in for 6:50, OK? Normally I would do it myself, but I want to avoid trouble with the foreman, just this once". The helper likes him, knows the colleague is in financial trouble and a late mark can mean a deduction.
 
 **Discussion questions**:
 1. What happens if the helper signs?

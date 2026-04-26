@@ -6,7 +6,7 @@ czas: 120
 
 ## Introduction
 
-The sixth day of week 1. Hai closed Friday with a 5-point checklist (lesson 4). Monday, new week, new protagonist: **Oleh, a Ukrainian from Chernihiv, 27 years old**. In his previous workplace near Warsaw he was an assistant for a year and a half; now he is in his first month as a junior operator of a format circular saw. New sawmill, new machine, new rank.
+The sixth day of week 1. Andrij closed Friday with a 5-point checklist (lesson 4). Monday, new week, new protagonist: **Oleh, a Ukrainian from Chernihiv, 27 years old**. In his previous workplace near Warsaw he was an assistant for a year and a half; now he is in his first month as a junior operator of a format circular saw. New sawmill, new machine, new rank.
 
 On Monday morning, the foreman places an A4 printout on his table and says: **"Read this, underline what applies to your machine, and give it back to me tomorrow."** Oleh looks at the header:
 

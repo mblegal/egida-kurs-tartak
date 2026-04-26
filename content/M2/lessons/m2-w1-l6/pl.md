@@ -10,7 +10,7 @@ Wtorek, siódmy dzień tygodnia 1. Oleh wczoraj (lekcja 5) przeczytał Rozp. MG 
 
 Andrei włącza strugarkę, ustawia grubość na 27 mm, podsuwa deskę dębową. Maszyna tnie. Po piętnastu deskach Andrei czuje smak słodkawy w ustach. Po trzydziestu zauważa, że zbiornik pyłu za strugarką **nie napełnia się tak szybko jak powinien**. Wrzuca następną deskę i patrzy pod maszynę. **Wióry spadają na podłogę. Odciąg nie działa.**
 
-Andrei naciska STOP (dłoń lewa odruchowo, tak jak Hai w lekcji 3). Zatrzymuje strugarkę i idzie sprawdzić. Filtr w cyklonie za budynkiem jest **zapchany na amen**. Dwa miesiące bez wymiany, ciśnienie różnicowe 2400 Pa zamiast 800 Pa (limit wymiany to 1200 Pa). Odciąg produkuje 5 m/s zamiast 22 m/s. Wióry lecą na podłogę, a **pył drobny lata w powietrzu i wchodzi Andreiowi w płuca**.
+Andrei naciska STOP (dłoń lewa odruchowo, tak jak Andrij w lekcji 3). Zatrzymuje strugarkę i idzie sprawdzić. Filtr w cyklonie za budynkiem jest **zapchany na amen**. Dwa miesiące bez wymiany, ciśnienie różnicowe 2400 Pa zamiast 800 Pa (limit wymiany to 1200 Pa). Odciąg produkuje 5 m/s zamiast 22 m/s. Wióry lecą na podłogę, a **pył drobny lata w powietrzu i wchodzi Andreiowi w płuca**.
 
 To jest lekcja o pyle, który widać, i o pyle, którego nie widać. Grubsze wióry są niegroźne – zamiecie się szufelką. **Drobny pył dębu i buku jest rakotwórczy grupy 1 według IARC**, tak samo pewny jako przyczyna raka jak azbest albo dym tytoniowy. I jest **wybuchowy**: 30-50 g/m³ w powietrzu + iskra z łożyska = pożar pyłowy, który w pięć sekund obejmuje całą halę.
 

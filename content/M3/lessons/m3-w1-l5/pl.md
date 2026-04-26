@@ -6,13 +6,13 @@ czas: 120
 
 ## Wprowadzenie
 
-Jest piątek, 14:18. Zmiana Rustama kończy się o 15:00. Na P3 kończy partię 57, ostatnią tego tygodnia, sosnową, na zamówienie firmy z Warszawy. Wahan stoi na rampie odbiorczej, sortuje tarcicę na trzy stosy: A (120 × 50 × 3500), B (podobne, ale z jednym sękiem), wybrak. Pięć metrów dalej Murat Kaya pracuje na P2, pilarce tarczowej, która dziś robi dębowe krawędziaki dla stolarni budowlanej. Hai jest na urlopie w Wietnamie do poniedziałku.
+Jest piątek, 14:18. Zmiana Mykoły kończy się o 15:00. Na P3 kończy partię 57, ostatnią tego tygodnia, sosnową, na zamówienie firmy z Warszawy. Wasyl stoi na rampie odbiorczej, sortuje tarcicę na trzy stosy: A (120 × 50 × 3500), B (podobne, ale z jednym sękiem), wybrak. Pięć metrów dalej Murat Kaya pracuje na P2, pilarce tarczowej, która dziś robi dębowe krawędziaki dla stolarni budowlanej. Andrij jest na urlopie we Lwowie do poniedziałku.
 
-O 14:19:12 Rustam słyszy krzyk.
+O 14:19:12 Mykoła słyszy krzyk.
 
-Krzyk jest krótki, jeden wyraz po turecku, bez polskich słów. Rustam wie, co to znaczy. Rzuca okiem na swoją maszynę: partia 57, kłoda 19 z 20, taśma idzie, osłony na miejscu. Rusza rękę do pulpitu, czerwony przycisk, taśma zwalnia. W tym samym ułamku sekundy widzi kątem oka P2: Murat stoi schylony, trzyma się za prawe przedramię, rękaw kurtki roboczej czerwony na długości piętnastu centymetrów. Pilarka P2 pracuje dalej, tarcza kręci się.
+Krzyk jest krótki, jeden wyraz po turecku, bez polskich słów. Mykoła wie, co to znaczy. Rzuca okiem na swoją maszynę: partia 57, kłoda 19 z 20, taśma idzie, osłony na miejscu. Rusza rękę do pulpitu, czerwony przycisk, taśma zwalnia. W tym samym ułamku sekundy widzi kątem oka P2: Murat stoi schylony, trzyma się za prawe przedramię, rękaw kurtki roboczej czerwony na długości piętnastu centymetrów. Pilarka P2 pracuje dalej, tarcza kręci się.
 
-Czternaście sekund później Rustam jest przy Muracie. Pięćdziesiąt sekund później linia EGIDA wygląda inaczej niż o 14:19. Pięć minut później na placu stoi karetka. Godzinę później Murat jest w Szpitalu Praskim, w trakcie operacji zespolenia ścięgna zginacza. Cztery godziny później mistrz zmiany Piotr zamyka protokół ustalenia okoliczności i przyczyn wypadku, a Rustam, już po swojej zmianie, podpisuje go jako świadek w obecności Marka i inspektora BHP zakładu.
+Czternaście sekund później Mykoła jest przy Muracie. Pięćdziesiąt sekund później linia EGIDA wygląda inaczej niż o 14:19. Pięć minut później na placu stoi karetka. Godzinę później Murat jest w Szpitalu Praskim, w trakcie operacji zespolenia ścięgna zginacza. Cztery godziny później mistrz zmiany Piotr zamyka protokół ustalenia okoliczności i przyczyn wypadku, a Mykoła, już po swojej zmianie, podpisuje go jako świadek w obecności Marka i inspektora BHP zakładu.
 
 Między 14:19:12 a 14:19:26 zdarzyło się to, czego cię uczyła ta lekcja: procedura po wypadku, prowadzona przez operatora samodzielnego jako **pierwszego świadka, pierwszego ratownika i pierwszego dokumentalisty**. Dziś zobaczysz, jak wygląda ta procedura w całości, od krzyku do podpisu na protokole.
 
@@ -43,72 +43,72 @@ Procedura po wypadku kolegi ma pięć kroków. Kolejność jest sztywna, jak w p
 
 **Krok 5: zabezpieczenie miejsca.** Do przyjazdu mistrza zmiany i inspektora BHP zakładu (w EGIDA to Jarosław, przychodzi w ciągu 10 minut od alarmu) **nie ruszasz nic** poza tym, co konieczne do pierwszej pomocy. Miejsce ma trafić do protokołu w stanie rzeczywistym.
 
-Pięć kroków. Rustam wykonał wszystkie w 51 sekund do przyjazdu Marka, kolejne pięć minut do przyjazdu karetki, kolejne dwadzieścia minut do przyjazdu Jarosława. Zobaczysz każdy krok w jego ustach i rękach.
+Pięć kroków. Mykoła wykonał wszystkie w 51 sekund do przyjazdu Marka, kolejne pięć minut do przyjazdu karetki, kolejne dwadzieścia minut do przyjazdu Jarosława. Zobaczysz każdy krok w jego ustach i rękach.
 
 ::: warning
 Najczęstszy błąd pierwszego świadka w tartaku: **pomija krok 1**. Pędzi do kolegi, nie patrząc na pracującą maszynę obok. W statystykach PIP za lata 2020–2024 w zakładach obróbki drewna co trzeci wypadek z pomocnikiem powstaje w ten sposób: pierwszy pomocnik rani się sam, gdy biegnie pomóc. Operator samodzielny **musi** zamrozić się na trzy sekundy, ocenić scenę, dopiero potem ruszać. Trzy sekundy to nie opóźnienie ratunku, to warunek jego istnienia.
 :::
 
-### Krok 1 w wykonaniu Rustama: trzy sekundy po krzyku
+### Krok 1 w wykonaniu Mykoły: trzy sekundy po krzyku
 
-14:19:12. Krzyk. Rustam już wie, skąd. Ale nie rusza się od razu. Patrzy na P3: partia 57, taśma schodzi, 19 kłód zrobione, 20 ostatnia w rampie. Pilarka pracuje, ale to **jego** pilarka, pod jego kontrolą. Wciska czerwony przycisk. Taśma zaczyna zwalniać, zajmuje 4–6 sekund.
+14:19:12. Krzyk. Mykoła już wie, skąd. Ale nie rusza się od razu. Patrzy na P3: partia 57, taśma schodzi, 19 kłód zrobione, 20 ostatnia w rampie. Pilarka pracuje, ale to **jego** pilarka, pod jego kontrolą. Wciska czerwony przycisk. Taśma zaczyna zwalniać, zajmuje 4–6 sekund.
 
 W tym samym czasie patrzy na P2. Widzi Murata stojącego, schylonego, rękaw kurtki roboczej na prawym przedramieniu mokry i czerwony. Widzi, że pilarka tarczowa **pracuje dalej**: tarcza kręci się, ostrze dźwięczy. Murat jest trzy metry od tarczy, ale nie obsługuje maszyny. Widzi też: na rampie odbiorczej P2 leży drewniana krawędziak, który prawdopodobnie jest powodem zdarzenia (odbity kickback, tak to nazywają w angielskich materiałach, „odbicie" w polskich).
 
 Trzy sekundy. Ocena sceny: P3 bezpieczna (jego przycisk zadziałał, taśma zwalnia). P2 niebezpieczna (tarcza pracuje, Murat krwawi). Olej, szkło, prąd rozlany: brak. Wolne przejście od P3 do P2: tak, pięć metrów bezpośrednio, bez przeszkód.
 
-14:19:15. Rustam rusza. Wahan na rampie odbiorczej P3 obraca się, widzi Rustama biegnącego w stronę P2, widzi plecy Murata, rozumie bez polskich słów. Wahan podbiega do pulpitu P3, wyłącza główny wyłącznik (Rustam uczył go gdzie jest w poniedziałek, l8 z zeszłego tygodnia miał takie ćwiczenie), zostaje przy P3, żeby nikt nie próbował uruchomić.
+14:19:15. Mykoła rusza. Wasyl na rampie odbiorczej P3 obraca się, widzi Mykołę biegnącego w stronę P2, widzi plecy Murata, rozumie bez polskich słów. Wasyl podbiega do pulpitu P3, wyłącza główny wyłącznik (Mykoła uczył go gdzie jest w poniedziałek, l8 z zeszłego tygodnia miał takie ćwiczenie), zostaje przy P3, żeby nikt nie próbował uruchomić.
 
 ::: example
-Zauważ, że Rustam nie stracił dwóch ważnych pół-sekund na „mówienie do Wahana". Wahan **sam** zrozumiał z gestu i kontekstu. Dobra instrukcja stanowiskowa (l8) buduje zespół zdolny działać bez komend w sytuacjach ostrych. Rustam wcześniej pokazał Wahanowi, gdzie jest wyłącznik główny i co to znaczy „cała maszyna martwa". Dziś to się zwróciło w trzech sekundach. Wahan jest pomocnikiem M1 w trzecim tygodniu, a już wykonał odruch, którego w starym tartaku oczekuje się od operatora z półtorarocznym stażem.
+Zauważ, że Mykoła nie stracił dwóch ważnych pół-sekund na „mówienie do Wasyla". Wasyl **sam** zrozumiał z gestu i kontekstu. Dobra instrukcja stanowiskowa (l8) buduje zespół zdolny działać bez komend w sytuacjach ostrych. Mykoła wcześniej pokazał Wasylowi, gdzie jest wyłącznik główny i co to znaczy „cała maszyna martwa". Dziś to się zwróciło w trzech sekundach. Wasyl jest pomocnikiem M1 w trzecim tygodniu, a już wykonał odruch, którego w starym tartaku oczekuje się od operatora z półtorarocznym stażem.
 :::
 
 ### Krok 2: STOP na P2
 
-14:19:18. Rustam jest przy P2, pięć metrów pokonał w trzy sekundy. Nie zbliża się do Murata jeszcze. Najpierw tarcza. Pulpit P2 jest po lewej stronie maszyny, Rustam podchodzi, uderza czerwony awaryjny grzyb dłonią (nie palcem, całą dłonią, jak go uczono w M1 l6). Tarcza zaczyna hamować. W P2 hamowanie tarczy 500 mm z 52 m/s do zera zajmuje około 4 sekund, z elektromagnetycznym hamulcem aktywowanym awaryjnym stopem. W tym czasie Rustam wykonuje LOTO w ekspresowej wersji:
+14:19:18. Mykoła jest przy P2, pięć metrów pokonał w trzy sekundy. Nie zbliża się do Murata jeszcze. Najpierw tarcza. Pulpit P2 jest po lewej stronie maszyny, Mykoła podchodzi, uderza czerwony awaryjny grzyb dłonią (nie palcem, całą dłonią, jak go uczono w M1 l6). Tarcza zaczyna hamować. W P2 hamowanie tarczy 500 mm z 52 m/s do zera zajmuje około 4 sekund, z elektromagnetycznym hamulcem aktywowanym awaryjnym stopem. W tym czasie Mykoła wykonuje LOTO w ekspresowej wersji:
 
 - Wyłącznik główny w dół (1 sekunda).
-- Kłódka LOTO osobista (jeszcze zakładowa, Rustam własnej dostanie w przyszły piątek): obok wyłącznika jest druga tabliczka, Rustam bierze wolną kłódkę z haczyka na pulpicie, zakłada. To jest **uproszczone LOTO dla sytuacji ostrej**: tabliczka zostanie wypełniona później, na razie kłódka blokuje fizycznie.
+- Kłódka LOTO osobista (jeszcze zakładowa, Mykoła własnej dostanie w przyszły piątek): obok wyłącznika jest druga tabliczka, Mykoła bierze wolną kłódkę z haczyka na pulpicie, zakłada. To jest **uproszczone LOTO dla sytuacji ostrej**: tabliczka zostanie wypełniona później, na razie kłódka blokuje fizycznie.
 - Odchodzi od pulpitu w stronę Murata.
 
 Maszyna P2 jest **martwa** (zgodnie z terminologią z M2 l5 to znaczy: wyłączona, odłączona, zablokowana, nawet jeżeli tabliczki jeszcze nie ma). 14:19:24. Dwanaście sekund od krzyku.
 
 ::: info
-W sytuacji ostrej dopuszczalne jest **uproszczone LOTO**: kłódka z zakładowej puli (bez imienia), tabliczka dopisana później. Warunek: ktoś jest fizycznie obecny przy zablokowanej maszynie (Rustam przy P2, Wahan przy P3), żeby nikt nie próbował uruchomić zanim pełne oznakowanie zostanie założone. Przy wypadku pierwszeństwo ma ofiara, nie papier. Papier wróci do kompletu w kroku 5.
+W sytuacji ostrej dopuszczalne jest **uproszczone LOTO**: kłódka z zakładowej puli (bez imienia), tabliczka dopisana później. Warunek: ktoś jest fizycznie obecny przy zablokowanej maszynie (Mykoła przy P2, Wasyl przy P3), żeby nikt nie próbował uruchomić zanim pełne oznakowanie zostanie założone. Przy wypadku pierwszeństwo ma ofiara, nie papier. Papier wróci do kompletu w kroku 5.
 :::
 
 ### Krok 3: pierwsza pomoc (adaptacja z M1 l8)
 
-14:19:24. Rustam klęka obok Murata. Murat siedzi, plecy oparte o nogę rampy odbiorczej, prawa ręka oparta na lewym kolanie, trzyma przedramię lewą dłonią. Krwawienie wyraźne: czerwona plama na kurtce, kropelki na podłodze. Murat jest przytomny, patrzy na Rustama, mówi po polsku wolno:
+14:19:24. Mykoła klęka obok Murata. Murat siedzi, plecy oparte o nogę rampy odbiorczej, prawa ręka oparta na lewym kolanie, trzyma przedramię lewą dłonią. Krwawienie wyraźne: czerwona plama na kurtce, kropelki na podłodze. Murat jest przytomny, patrzy na Mykołę, mówi po polsku wolno:
 
 > **Murat:** „Krawędziak uderzył. Ja się pociąłem. Nie mogę ruszyć palcem."
 
-Rustam nie diagnozuje rany. Nie zdejmuje rękawa. Nie podciąga kurtki. Pierwsza zasada z M1 l8: **rana nieruszana jest raną, która nie krwawi więcej**. Zamiast tego:
+Mykoła nie diagnozuje rany. Nie zdejmuje rękawa. Nie podciąga kurtki. Pierwsza zasada z M1 l8: **rana nieruszana jest raną, która nie krwawi więcej**. Zamiast tego:
 
 1. **Ocena przytomności.** Murat mówi pełnymi zdaniami. Skala AVPU (Alert, Voice, Pain, Unresponsive) z kursu: „A" (alert). Oddycha normalnie, kolor skóry twarzy blady ale nie szary.
 2. **Ocena krwawienia.** Krwawienie umiarkowane, ciągłe, czerwone ciemne. Prawdopodobnie żylne, nie tętnicze (to ostatnie tryskałoby rytmicznie). Nie ustaje samoistnie.
-3. **Uciskanie bezpośrednie.** Rustam otwiera kieszeń swojej kurtki, wyciąga zapasowy opatrunek osobisty (EGIDA wydaje każdemu operatorowi samodzielnemu zestaw pierwszej pomocy kieszonkowy, Rustam dostał go w poniedziałek). Przykłada opatrunek na miejsce krwawienia, przez kurtkę roboczą, dociska swoją dłonią. Nie zdejmuje kurtki. Dociska pewnie, ale nie za mocno, żeby nie spowodować dalszego urazu, jeżeli kość jest pęknięta.
+3. **Uciskanie bezpośrednie.** Mykoła otwiera kieszeń swojej kurtki, wyciąga zapasowy opatrunek osobisty (EGIDA wydaje każdemu operatorowi samodzielnemu zestaw pierwszej pomocy kieszonkowy, Mykoła dostał go w poniedziałek). Przykłada opatrunek na miejsce krwawienia, przez kurtkę roboczą, dociska swoją dłonią. Nie zdejmuje kurtki. Dociska pewnie, ale nie za mocno, żeby nie spowodować dalszego urazu, jeżeli kość jest pęknięta.
 4. **Uniesienie kończyny.** Mówi do Murata: „Podnieś rękę wysoko, ponad serce, powoli." Murat podnosi. Krwawienie zwalnia.
-5. **Obserwacja.** Rustam obserwuje Murata, powtarza: „Oddychaj spokojnie. Patrz na mnie. Mów do mnie. Jak się nazywasz?" Murat odpowiada: „Murat Kaya." Rustam: „Skąd jesteś?" Murat: „Z Gaziantep." Rustam: „Co robiłeś?" Murat: „Dębowy krawędziak, odbicie od tarczy, cofnęło się, uderzyło w rękę, pociąłem się o róg."
+5. **Obserwacja.** Mykoła obserwuje Murata, powtarza: „Oddychaj spokojnie. Patrz na mnie. Mów do mnie. Jak się nazywasz?" Murat odpowiada: „Murat Kaya." Mykoła: „Skąd jesteś?" Murat: „Z Gaziantep." Mykoła: „Co robiłeś?" Murat: „Dębowy krawędziak, odbicie od tarczy, cofnęło się, uderzyło w rękę, pociąłem się o róg."
 
 ::: tip
-Pytanie Rustama o imię, pochodzenie, przyczynę nie jest ciekawością. To jest **kontrola przytomności poprzez rozmowę**. Dopóki Murat odpowiada pełnymi zdaniami i wie kim jest, skąd pochodzi, co się stało, jego mózg jest dotleniony, nie ma wstrząsu. Jeżeli odpowiedzi staną się pojedynczymi słowami, niepełne, nielogiczne, to pierwszy sygnał wstrząsu hipowolemicznego (z utraty krwi), który wymaga natychmiastowej pozycji przeciwwstrząsowej (na plecach, nogi uniesione 30 cm). W M1 l8 przerabiałeś to na manekinie. Dziś jest na kimś prawdziwym.
+Pytanie Mykoły o imię, pochodzenie, przyczynę nie jest ciekawością. To jest **kontrola przytomności poprzez rozmowę**. Dopóki Murat odpowiada pełnymi zdaniami i wie kim jest, skąd pochodzi, co się stało, jego mózg jest dotleniony, nie ma wstrząsu. Jeżeli odpowiedzi staną się pojedynczymi słowami, niepełne, nielogiczne, to pierwszy sygnał wstrząsu hipowolemicznego (z utraty krwi), który wymaga natychmiastowej pozycji przeciwwstrząsowej (na plecach, nogi uniesione 30 cm). W M1 l8 przerabiałeś to na manekinie. Dziś jest na kimś prawdziwym.
 :::
 
 ### Krok 4: wezwanie służb (112)
 
-14:19:50. Rustam jedną ręką dociska opatrunek, drugą wyciąga telefon służbowy z kieszeni kurtki (EGIDA wydaje każdemu operatorowi samodzielnemu prosty telefon komórkowy do użytku służbowego, Nokia podstawowa, bateria na tydzień). Wciska numer alarmowy 112. Dzwoni cztery sygnały. Odbiera dyspozytor.
+14:19:50. Mykoła jedną ręką dociska opatrunek, drugą wyciąga telefon służbowy z kieszeni kurtki (EGIDA wydaje każdemu operatorowi samodzielnemu prosty telefon komórkowy do użytku służbowego, Nokia podstawowa, bateria na tydzień). Wciska numer alarmowy 112. Dzwoni cztery sygnały. Odbiera dyspozytor.
 
 > **Dyspozytor:** „Numer alarmowy 112, z kim rozmawiam?"
-> **Rustam:** „Rustam Nazarov, tartak EGIDA, ulica Leśna 15, Janki pod Warszawą. Wypadek przy maszynie tartacznej. Jedna osoba ranna, krwawienie z prawego przedramienia, rana cięta od drewna odbitego przez tarczę. Osoba przytomna, oddycha, mówi. Ja jestem przy niej, uciskam ranę."
+> **Mykoła:** „Mykoła Hrycenko, tartak EGIDA, ulica Leśna 15, Janki pod Warszawą. Wypadek przy maszynie tartacznej. Jedna osoba ranna, krwawienie z prawego przedramienia, rana cięta od drewna odbitego przez tarczę. Osoba przytomna, oddycha, mówi. Ja jestem przy niej, uciskam ranę."
 > **Dyspozytor:** „Jesteście pod adresem Leśna 15?"
-> **Rustam:** „Tak, hala główna, wejście od rampy zachodniej, odbierze was inspektor BHP Jarosław Wierzchowski, zadzwonię do niego zaraz jak rozłączymy się."
+> **Mykoła:** „Tak, hala główna, wejście od rampy zachodniej, odbierze was inspektor BHP Jarosław Wierzchowski, zadzwonię do niego zaraz jak rozłączymy się."
 > **Dyspozytor:** „Karetka w drodze, siedem minut, szacowany czas. Pozostańcie na linii, proszę."
 
-Rustam zostaje na linii. Patrzy na Murata, Murat patrzy na niego, krwawienie zwalnia pod uciskiem. Opatrunek zaczyna nasączać, ale wolno.
+Mykoła zostaje na linii. Patrzy na Murata, Murat patrzy na niego, krwawienie zwalnia pod uciskiem. Opatrunek zaczyna nasączać, ale wolno.
 
 ::: example
-Zwróć uwagę na format zgłoszenia Rustama. **Siedem elementów w jednym zdaniu**: (1) kto dzwoni z imienia, (2) lokalizacja z pełnym adresem, (3) typ zdarzenia („wypadek przy maszynie tartacznej"), (4) liczba ofiar, (5) rodzaj obrażeń z lokalizacją, (6) stan ofiary (przytomna, oddycha, mówi), (7) co robi dzwoniący. Dyspozytor 112 ma swój skrypt, ale jeżeli dzwoniący podaje te siedem elementów spontanicznie, czas zgłoszenia skraca się z dwóch minut do trzydziestu sekund. W sytuacji krwawienia żylnego każda sekunda oznacza około 50–100 ml mniej krwi w organizmie.
+Zwróć uwagę na format zgłoszenia Mykoły. **Siedem elementów w jednym zdaniu**: (1) kto dzwoni z imienia, (2) lokalizacja z pełnym adresem, (3) typ zdarzenia („wypadek przy maszynie tartacznej"), (4) liczba ofiar, (5) rodzaj obrażeń z lokalizacją, (6) stan ofiary (przytomna, oddycha, mówi), (7) co robi dzwoniący. Dyspozytor 112 ma swój skrypt, ale jeżeli dzwoniący podaje te siedem elementów spontanicznie, czas zgłoszenia skraca się z dwóch minut do trzydziestu sekund. W sytuacji krwawienia żylnego każda sekunda oznacza około 50–100 ml mniej krwi w organizmie.
 :::
 
 ### 112 czy 999?
@@ -119,25 +119,25 @@ W tartaku **używaj 112**, bo zdarzenie przy maszynie zwykle wymaga wezwania ró
 
 ### Krok 5: zabezpieczenie miejsca
 
-14:20:50. Dyspozytor 112 zwalnia linię. Rustam dzwoni na wewnętrzny 214 (Marek). Marek odbiera po pierwszym sygnale.
+14:20:50. Dyspozytor 112 zwalnia linię. Mykoła dzwoni na wewnętrzny 214 (Marek). Marek odbiera po pierwszym sygnale.
 
-> **Rustam:** „Marek, wypadek P2, Murat, krwawienie z ręki, karetka w drodze, 7 minut. Przyjdź."
+> **Mykoła:** „Marek, wypadek P2, Murat, krwawienie z ręki, karetka w drodze, 7 minut. Przyjdź."
 
-Marek rozłącza się bez słowa (Rustam słyszy „idę" i kliknięcie). Czterdzieści sekund później Marek jest przy P2. Bierze sytuację w ręce:
+Marek rozłącza się bez słowa (Mykoła słyszy „idę" i kliknięcie). Czterdzieści sekund później Marek jest przy P2. Bierze sytuację w ręce:
 
-> **Marek:** „Dobrze. Rustam, zostajesz z Muratem, uciskaj. Ja do Wahana, potem do bramy, po karetkę. Wahan, zostajesz przy P3, nikogo nie dopuszczasz do P2 ani P3. Nikogo."
+> **Marek:** „Dobrze. Mykoła, zostajesz z Muratem, uciskaj. Ja do Wasyla, potem do bramy, po karetkę. Wasyl, zostajesz przy P3, nikogo nie dopuszczasz do P2 ani P3. Nikogo."
 
-Marek odchodzi. Rustam zostaje. 14:22, krwawienie powoli zwalnia, Murat odpowiada na pytania. Rustam pyta cicho: „Masz rodzinę w Polsce?" Murat: „Żona, dziecko, dwóch. Warszawa Praga." Rustam: „Zadzwonimy po karetce, obiecuję."
+Marek odchodzi. Mykoła zostaje. 14:22, krwawienie powoli zwalnia, Murat odpowiada na pytania. Mykoła pyta cicho: „Masz rodzinę w Polsce?" Murat: „Żona, dziecko, dwóch. Warszawa Praga." Mykoła: „Zadzwonimy po karetce, obiecuję."
 
-14:25:32 karetka wjeżdża na plac tartaku. Marek prowadzi ratowników przez halę do P2. Dwaj ratownicy medyczni, jeden mówi do Rustama: „dobra robota, kolego, możesz odstąpić." Rustam odpuszcza ucisk. Ratownik zakłada opatrunek taktyczny, stawia infuzję, sprawdza tętno, zakłada nosze. 14:33 karetka odjeżdża z Muratem do Szpitala Praskiego.
+14:25:32 karetka wjeżdża na plac tartaku. Marek prowadzi ratowników przez halę do P2. Dwaj ratownicy medyczni, jeden mówi do Mykoły: „dobra robota, kolego, możesz odstąpić." Mykoła odpuszcza ucisk. Ratownik zakłada opatrunek taktyczny, stawia infuzję, sprawdza tętno, zakłada nosze. 14:33 karetka odjeżdża z Muratem do Szpitala Praskiego.
 
-Na placu zostają: Marek, Rustam, Wahan, pracownik rampy (Zbyszek), plus powoli ściągający się inni operatorzy z sąsiedniej hali. Marek reaguje natychmiast:
+Na placu zostają: Marek, Mykoła, Wasyl, pracownik rampy (Zbyszek), plus powoli ściągający się inni operatorzy z sąsiedniej hali. Marek reaguje natychmiast:
 
-> **Marek:** „Wszyscy wracają do swoich stanowisk. Rustam zostaje przy P2, Wahan zostaje przy P3, ja idę po Piotra i Jarosława. Nie dotykajcie **niczego** przy P2. Krawędziak, krew na podłodze, pulpit, pilarka. Ani jednej rzeczy. Rozumiecie? Jarosław przyjdzie za chwilę z aparatem."
+> **Marek:** „Wszyscy wracają do swoich stanowisk. Mykoła zostaje przy P2, Wasyl zostaje przy P3, ja idę po Piotra i Jarosława. Nie dotykajcie **niczego** przy P2. Krawędziak, krew na podłodze, pulpit, pilarka. Ani jednej rzeczy. Rozumiecie? Jarosław przyjdzie za chwilę z aparatem."
 
-Rozchodzą się. Rustam zostaje. Patrzy na P2. Widzi: krawędziak dębowy 100 × 100 × 2400 leży na rampie odbiorczej, końcówka ma świeżą wyrwę (tam odbicie złapało), na jednej krawędzi krew Murata. Na podłodze przed pilarką: trzy kropki krwi. Kłódka LOTO, którą Rustam założył, wisi na wyłączniku głównym. Pilarka tarcza: zatrzymana, tarcza na bezpieczniku, silnik zimny.
+Rozchodzą się. Mykoła zostaje. Patrzy na P2. Widzi: krawędziak dębowy 100 × 100 × 2400 leży na rampie odbiorczej, końcówka ma świeżą wyrwę (tam odbicie złapało), na jednej krawędzi krew Murata. Na podłodze przed pilarką: trzy kropki krwi. Kłódka LOTO, którą Mykoła założył, wisi na wyłączniku głównym. Pilarka tarcza: zatrzymana, tarcza na bezpieczniku, silnik zimny.
 
-**Rustam nic nie rusza.** Siada na stołku obok pulpitu, patrzy. Za pięć minut przyjdzie Jarosław z aparatem fotograficznym. Miejsce w stanie sprzed wypadku (pomniejszone tylko o Murata) jest teraz **materiałem protokołu powypadkowego** zgodnie z art. 234 § 1 KP.
+**Mykoła nic nie rusza.** Siada na stołku obok pulpitu, patrzy. Za pięć minut przyjdzie Jarosław z aparatem fotograficznym. Miejsce w stanie sprzed wypadku (pomniejszone tylko o Murata) jest teraz **materiałem protokołu powypadkowego** zgodnie z art. 234 § 1 KP.
 
 ::: warning
 Najgroźniejszy odruch drugiego świadka w tartaku: „posprzątać". Podnieść krawędziak, zmyć krew, wyrzucić opatrunek, odblokować maszynę („no bo jutro trzeba pracować"). **Żadnej** z tych rzeczy nie wolno robić. Protokół ustalenia okoliczności i przyczyn wypadku wymaga stanu rzeczywistego, fotografii, pomiarów. Pracodawca przechowuje ten protokół przez **10 lat** (art. 234 § 3 KP). Jeżeli za dwa lata poszkodowany albo jego rodzina idą do sądu z roszczeniem odszkodowawczym, a protokół opiera się na posprzątanym miejscu, zakład przegra sprawę, nawet jeżeli formalnie był bez winy. Miejsce wypadku to dowód. Dowód nie jest do sprzątania.
@@ -178,44 +178,44 @@ Art. 209¹ § 1 Kodeksu pracy mówi, że pracodawca jest obowiązany wyznaczyć 
 > „1. udzielania pierwszej pomocy,
 > 2. wykonywania działań w zakresie zwalczania pożarów i ewakuacji pracowników."
 
-W EGIDA lista pracowników wyznaczonych do pierwszej pomocy wisi w szatni i na tablicy przy każdej pilarce. Na tej liście dzisiaj jest **17 osób**: wszyscy brygadziści, wszyscy mistrzowie zmiany, kierownicy, 8 operatorów samodzielnych z kursem pierwszej pomocy. Rustam jest od poniedziałku na tej liście (17-ty z kolei, pod nazwiskiem), bo kurs pierwszej pomocy odbył w M1 l8 i ma certyfikat.
+W EGIDA lista pracowników wyznaczonych do pierwszej pomocy wisi w szatni i na tablicy przy każdej pilarce. Na tej liście dzisiaj jest **17 osób**: wszyscy brygadziści, wszyscy mistrzowie zmiany, kierownicy, 8 operatorów samodzielnych z kursem pierwszej pomocy. Mykoła jest od poniedziałku na tej liście (17-ty z kolei, pod nazwiskiem), bo kurs pierwszej pomocy odbył w M1 l8 i ma certyfikat.
 
 Jeżeli w Twoim tartaku nie masz kursu pierwszej pomocy, **nie jesteś** formalnie wyznaczonym pracownikiem pierwszej pomocy. Ale zasada moralna i obyczajowa w polskim tartaku jest inna: **pomagasz**, jeżeli jesteś najbliżej. Prawo nie karze za pomoc w sytuacji zagrożenia życia (art. 162 Kodeksu karnego penalizuje **brak** pomocy, nie jej udzielanie). Twoja decyzja udzielenia pomocy nie jest „przekroczeniem uprawnień", nawet jeżeli nie jesteś na formalnej liście.
 
-W EGIDA jednak zasada jest jasna: od M3 oczekuje się, że masz kurs pierwszej pomocy. Ci, którzy nie mają, są kierowani na kurs w drugim miesiącu M3 (dla kohorty Rustama: maj 2026). Jeżeli masz certyfikat z M1, odświeżenie jest zwykle raz na trzy lata.
+W EGIDA jednak zasada jest jasna: od M3 oczekuje się, że masz kurs pierwszej pomocy. Ci, którzy nie mają, są kierowani na kurs w drugim miesiącu M3 (dla kohorty Mykoły: maj 2026). Jeżeli masz certyfikat z M1, odświeżenie jest zwykle raz na trzy lata.
 
 ### Protokół ustalenia okoliczności i przyczyn wypadku
 
 14:42. Do hali wchodzi Jarosław Wierzchowski, inspektor BHP zakładu, w zielonej kurtce z logo EGIDA i inicjałami „BHP" na rękawie. Ma ze sobą aparat cyfrowy, notes, taśmę mierniczą 5 metrów, kilka kartek protokołu powypadkowego. Za nim idzie Piotr, mistrz zmiany, i inspektor związkowy zakładu (NSZZ Solidarność ma delegata do ustalania okoliczności wypadków, w EGIDA to Bartek, monter wózka widłowego, starszy, spokojny).
 
-Jarosław wita Rustama, dziękuje za dobre zabezpieczenie miejsca, otwiera protokół. Protokół ustalenia okoliczności i przyczyn wypadku przy pracy (formularz PIP, 4 strony) zawiera m.in.:
+Jarosław wita Mykoły, dziękuje za dobre zabezpieczenie miejsca, otwiera protokół. Protokół ustalenia okoliczności i przyczyn wypadku przy pracy (formularz PIP, 4 strony) zawiera m.in.:
 
 1. **Dane identyfikacyjne:** nazwisko poszkodowanego, data, godzina, miejsce.
-2. **Dane świadków:** Rustam jest świadkiem pierwszym (na miejscu natychmiast), Wahan drugim (pierwsze 30 sekund po krzyku), Marek trzecim (pierwsze 3 minuty).
+2. **Dane świadków:** Mykoła jest świadkiem pierwszym (na miejscu natychmiast), Wasyl drugim (pierwsze 30 sekund po krzyku), Marek trzecim (pierwsze 3 minuty).
 3. **Opis zdarzenia:** co się stało, jak się stało, w jakiej kolejności.
 4. **Przyczyny wypadku:** ustala zespół powypadkowy (Jarosław + inspektor związkowy + przedstawiciel pracodawcy, zgodnie z Rozporządzeniem Rady Ministrów z 1 lipca 2009 r.).
 5. **Środki zapobiegawcze:** co zakład zrobi, żeby się nie powtórzyło.
 6. **Załączniki:** fotografie, pomiary, instrukcja stanowiskowa P2, karta szkolenia Murata.
 
-Jarosław robi zdjęcia. Mierzy: odległość krawędziaka od tarczy, kąt obrotu tarczy, pozycję popychacza. Zapisuje szczegóły w notesie. Po 18 minutach fotografie i pomiary są zrobione. Jarosław podchodzi do Rustama:
+Jarosław robi zdjęcia. Mierzy: odległość krawędziaka od tarczy, kąt obrotu tarczy, pozycję popychacza. Zapisuje szczegóły w notesie. Po 18 minutach fotografie i pomiary są zrobione. Jarosław podchodzi do Mykoły:
 
-> **Jarosław:** „Rustam, chcę twoje zeznanie na piśmie. Wypełnij w swoich słowach: co widziałeś, co robiłeś, co słyszałeś. Krótko, fakty, bez interpretacji przyczyn. Masz dwadzieścia minut, zanim dokumenty zostaną zamknięte. Potem podpiszesz."
+> **Jarosław:** „Mykoła, chcę twoje zeznanie na piśmie. Wypełnij w swoich słowach: co widziałeś, co robiłeś, co słyszałeś. Krótko, fakty, bez interpretacji przyczyn. Masz dwadzieścia minut, zanim dokumenty zostaną zamknięte. Potem podpiszesz."
 
-Rustam siada za pulpitem P3 (Wahan stoi obok, asystuje, patrzy). Bierze kartkę, długopis, pisze:
+Mykoła siada za pulpitem P3 (Wasyl stoi obok, asystuje, patrzy). Bierze kartkę, długopis, pisze:
 
-> **Zeznanie świadka. Rustam Nazarov, operator P3. Data: 2026-04-24. Godzina zdarzenia: 14:19.**
-> **O 14:19:12 usłyszałem krzyk z P2 (pięć metrów ode mnie). Wciąłem oko w stronę P2, zobaczyłem operatora Murata Kayę stojącego, trzymającego prawe przedramię lewą dłonią, rękaw kurtki czerwony. Pilarka P2 pracowała. Wcisnąłem czerwony przycisk na P3, taśma zaczęła zwalniać. Zasygnalizowałem Wahanowi Petrosjanowi, że idę do P2. Wahan przejął P3 (główny wyłącznik w dół).**
+> **Zeznanie świadka. Mykoła Hrycenko, operator P3. Data: 2026-04-24. Godzina zdarzenia: 14:19.**
+> **O 14:19:12 usłyszałem krzyk z P2 (pięć metrów ode mnie). Wciąłem oko w stronę P2, zobaczyłem operatora Murata Kayę stojącego, trzymającego prawe przedramię lewą dłonią, rękaw kurtki czerwony. Pilarka P2 pracowała. Wcisnąłem czerwony przycisk na P3, taśma zaczęła zwalniać. Zasygnalizowałem Wasylowi Melnykowi, że idę do P2. Wasyl przejął P3 (główny wyłącznik w dół).**
 > **Podbiegłem do P2. Pilarka tarczowa pracowała. Wcisnąłem dłonią awaryjny grzyb na pulpicie P2 (14:19:18). Wyłączyłem główny wyłącznik (14:19:20). Założyłem kłódkę LOTO zakładową (14:19:23).**
 > **Podszedłem do Murata. Ocenił stan: przytomny, oddycha, mówi. Opis rany: krwawienie z prawego przedramienia, rękaw kurtki mokry. Założyłem opatrunek osobisty przez kurtkę (nie zdejmowałem), ucisnąłem. Murat podniósł kończynę wyżej. Krwawienie zwolniło.**
 > **Zadzwoniłem 112 (14:19:50). Zgłosiłem adres, typ zdarzenia, liczbę ofiar, stan. Dyspozytor potwierdził karetkę 7 minut. Zadzwoniłem do brygadzisty M. Kowalskiego (14:20:50). Marek przybył po 40 sekundach.**
 > **Karetka przyjechała 14:25:32. Ratownicy przejęli opiekę. Karetka odjechała 14:33.**
 > **Nie wykonywałem żadnych działań, które zmieniłyby położenie narzędzi, pilarki, krawędziaka albo innych elementów miejsca zdarzenia, poza założeniem kłódki LOTO i opatrunku.**
-> **Podpis: Rustam Nazarov. Miejsce i data podpisu: Janki, 2026-04-24, 15:07.**
+> **Podpis: Mykoła Hrycenko. Miejsce i data podpisu: Janki, 2026-04-24, 15:07.**
 
-Rustam czyta dwa razy, poprawia dwa przeciwki literowe, podaje Jarosławowi. Jarosław czyta, kiwa głową, dołącza do protokołu jako Załącznik 1.
+Mykoła czyta dwa razy, poprawia dwa przeciwki literowe, podaje Jarosławowi. Jarosław czyta, kiwa głową, dołącza do protokołu jako Załącznik 1.
 
 ::: info
-Zwróć uwagę na ostatnią linijkę Rustama: „**nie wykonywałem żadnych działań, które zmieniłyby położenie narzędzi, pilarki, krawędziaka**". Ta linijka jest **kluczem dowodowym**. Bez niej ktoś później mógłby pytać, czy Rustam przesunął krawędziak, podniósł popychacz, dotknął tarczy. Z nią jest jasne: stan miejsca o 14:42 (gdy Jarosław robił zdjęcia) był stanem o 14:19:12 (gdy Murat krzyknął), powiększonym tylko o opatrunek i kłódkę LOTO. To jest zeznanie świadka pierwszego, który wie, że jego zeznanie zabezpiecza integralność dowodową miejsca.
+Zwróć uwagę na ostatnią linijkę Mykoły: „**nie wykonywałem żadnych działań, które zmieniłyby położenie narzędzi, pilarki, krawędziaka**". Ta linijka jest **kluczem dowodowym**. Bez niej ktoś później mógłby pytać, czy Mykoła przesunął krawędziak, podniósł popychacz, dotknął tarczy. Z nią jest jasne: stan miejsca o 14:42 (gdy Jarosław robił zdjęcia) był stanem o 14:19:12 (gdy Murat krzyknął), powiększonym tylko o opatrunek i kłódkę LOTO. To jest zeznanie świadka pierwszego, który wie, że jego zeznanie zabezpiecza integralność dowodową miejsca.
 :::
 
 ### Kiedy nie wykonujesz pierwszej pomocy
@@ -232,23 +232,23 @@ Są sytuacje, w których pierwsza pomoc operatora samodzielnego jest **ograniczo
 
 ### Po odjeździe karetki: co robisz do końca dnia
 
-14:33 karetka odjeżdża. Rustam, Wahan, Marek, Jarosław, Piotr, Bartek pozostają na hali. Jarosław zamyka fotografowanie i pomiary do 15:00. Od 15:00 do 15:40 trwa pisanie protokołu wstępnego (Jarosław w biurze, reszta czeka w świetlicy pracowniczej). O 15:40 Jarosław prosi wszystkich świadków do biura, czyta wstępny protokół, prosi o uzupełnienia.
+14:33 karetka odjeżdża. Mykoła, Wasyl, Marek, Jarosław, Piotr, Bartek pozostają na hali. Jarosław zamyka fotografowanie i pomiary do 15:00. Od 15:00 do 15:40 trwa pisanie protokołu wstępnego (Jarosław w biurze, reszta czeka w świetlicy pracowniczej). O 15:40 Jarosław prosi wszystkich świadków do biura, czyta wstępny protokół, prosi o uzupełnienia.
 
-Rustam dodaje dwa zdania (zauważył, że przy Muracie był **popychacz** leżący na podłodze, co może mieć znaczenie dla analizy przyczyn). Marek dodaje jedno zdanie o stanie maszyny P2 przed zmianą (testy poranne, protokół dostępny w archiwum). Wahan nie dodaje nic (nie widział samego zdarzenia, był odwrócony do rampy odbiorczej).
+Mykoła dodaje dwa zdania (zauważył, że przy Muracie był **popychacz** leżący na podłodze, co może mieć znaczenie dla analizy przyczyn). Marek dodaje jedno zdanie o stanie maszyny P2 przed zmianą (testy poranne, protokół dostępny w archiwum). Wasyl nie dodaje nic (nie widział samego zdarzenia, był odwrócony do rampy odbiorczej).
 
-O 16:10 protokół wstępny jest zamknięty. Każdy świadek podpisuje. Podpis Rustama jest 17:35 widoczny w papierze: „Rustam Nazarov, operator P3, świadek pierwszy, 2026-04-24 16:10". Jarosław chowa protokół do teczki.
+O 16:10 protokół wstępny jest zamknięty. Każdy świadek podpisuje. Podpis Mykoły jest 17:35 widoczny w papierze: „Mykoła Hrycenko, operator P3, świadek pierwszy, 2026-04-24 16:10". Jarosław chowa protokół do teczki.
 
-Zmiana Rustama formalnie skończyła się o 15:00, ale Rustam pracował jako świadek do 16:10. Ten czas **jest liczony jako czas pracy** zgodnie z art. 234 § 1 („ustalenie okoliczności wypadku"), koszty pracy pokrywa zakład (art. 234 § 4). Rustam dostaje za te 70 minut zwykłą stawkę, bez nadgodzin (bo praca ustalania okoliczności ma charakter szczególny, nie jest „pracą produkcyjną"). Tak samo Wahan i Marek.
+Zmiana Mykoły formalnie skończyła się o 15:00, ale Mykoła pracował jako świadek do 16:10. Ten czas **jest liczony jako czas pracy** zgodnie z art. 234 § 1 („ustalenie okoliczności wypadku"), koszty pracy pokrywa zakład (art. 234 § 4). Mykoła dostaje za te 70 minut zwykłą stawkę, bez nadgodzin (bo praca ustalania okoliczności ma charakter szczególny, nie jest „pracą produkcyjną"). Tak samo Wasyl i Marek.
 
 ### Kolejne dni: kontynuacja procedury
 
 **Sobota, 2026-04-25.** Jarosław kontaktuje się z lekarzem prowadzącym Murata w Szpitalu Praskim. Informacja: rana cięta przedramienia, głębokość 2,5 cm, uszkodzenie dwóch ścięgien zginacza, zaszyto, rehabilitacja 6–8 tygodni. Kwalifikacja wstępna: wypadek „ciężki" w rozumieniu Rozporządzenia Rady Ministrów (uraz powodujący długotrwały uszczerbek na zdrowiu). Jarosław niezwłocznie zawiadamia PIP (zgodnie z art. 234 § 2 KP) i prokuratora. Zgłoszenie elektroniczne, potwierdzenie przychodzi w ciągu godziny.
 
-**Poniedziałek, 2026-04-27.** Inspektor PIP przyjeżdża na kontrolę. Przegląda protokół, rozmawia z Jarosławem, Markiem, Rustamem (krótka rozmowa, 15 minut, potwierdzenie zeznania). Inspektor sprawdza: instrukcję stanowiskową P2, stan osłon tarczy, kartę szkolenia Murata, kartę kampanii dębowej. Stan zakładu: zgodny z przepisami, instrukcja aktualna, szkolenie Murata ważne (wygasa w czerwcu 2026). Inspektor wystawia protokół kontroli bez nakazów.
+**Poniedziałek, 2026-04-27.** Inspektor PIP przyjeżdża na kontrolę. Przegląda protokół, rozmawia z Jarosławem, Markiem, Mykołą (krótka rozmowa, 15 minut, potwierdzenie zeznania). Inspektor sprawdza: instrukcję stanowiskową P2, stan osłon tarczy, kartę szkolenia Murata, kartę kampanii dębowej. Stan zakładu: zgodny z przepisami, instrukcja aktualna, szkolenie Murata ważne (wygasa w czerwcu 2026). Inspektor wystawia protokół kontroli bez nakazów.
 
 **Wtorek, 2026-04-28.** Zespół powypadkowy (Jarosław + Bartek + Piotr jako przedstawiciel pracodawcy) kończy protokół ustalenia okoliczności i przyczyn wypadku. Wniosek: odbicie krawędziaka spowodowane błędną techniką popychania (Murat popychał ręką zamiast popychaczem, bo popychacz leżał na podłodze). Przyczyna pierwotna: ergonomia stanowiska (popychacz trudny do wzięcia w rękawicach bawełnianych, spada z uchwytu). Środki zapobiegawcze: wymiana popychaczy na model z zaczepem na karabinku (koszt 1200 zł, do zrealizowania w ciągu dwóch tygodni), dodatkowe szkolenie stanowiskowe z naciskiem na użycie popychacza.
 
-**Czwartek, 2026-04-30.** Murat wraca do pracy na stanowisko administracyjne (nie może obsługiwać pilarki przez sześć tygodni z powodu rehabilitacji). Odwiedza halę, podchodzi do Rustama, podaje lewą rękę (prawa w ortezie). Mówi: „Dziękuję. Żona prosi cię na obiad, w sobotę." Rustam kiwa głową.
+**Czwartek, 2026-04-30.** Murat wraca do pracy na stanowisko administracyjne (nie może obsługiwać pilarki przez sześć tygodni z powodu rehabilitacji). Odwiedza halę, podchodzi do Mykoły, podaje lewą rękę (prawa w ortezie). Mówi: „Dziękuję. Żona prosi cię na obiad, w sobotę." Mykoła kiwa głową.
 
 ::: tip
 W polskim tartaku poważny wypadek jest zwykle punktem obrotu dla całej brygady. Przez tydzień wszyscy pracują ostrożniej, odświeżają instrukcje, wracają do kursu pierwszej pomocy. To nie jest teatr. To jest naturalna reakcja dojrzałego zakładu na zdarzenie, które się prawie-ale-nie-całkiem przydarzyło każdemu. W l8 tego tygodnia (instruktaż stanowiskowy dla pomocnika) wrócisz do dzisiejszego wypadku jako przykład, dlaczego dobry instruktaż oszczędza rękę.
@@ -276,7 +276,7 @@ Zgłoszenie 112: siedem elementów w jednym zdaniu. Kto dzwoni, gdzie, co, ile o
 
 Zabezpieczenie miejsca: nic nie rusz do przyjazdu Jarosława. Ostatnia linijka zeznania świadka to „nie zmieniałem położenia niczego poza...". Klucz dowodowy.
 
-Rustam dzisiaj zrobił wszystko to i jeszcze więcej. Od krzyku do podpisu na protokole 106 minut. W tym czasie, w rejestrze PIP, był jedynym świadkiem pierwszym w hali. Ten status zostanie w papierach do 2036 roku.
+Mykoła dzisiaj zrobił wszystko to i jeszcze więcej. Od krzyku do podpisu na protokole 106 minut. W tym czasie, w rejestrze PIP, był jedynym świadkiem pierwszym w hali. Ten status zostanie w papierach do 2036 roku.
 
 Jutro, w l6, przerwa w ciężkich tematach. Wracamy do pracy nad kłodą: ocena ryzyka na nowym stanowisku. Ale dzisiejsza lekcja pozostanie z tobą długo. Za każdym razem, gdy wejdziesz do hali i zobaczysz Murata przy swojej maszynie (Murat wróci pełnoetatowo w czerwcu), pomyślisz o godzinie 14:19:12. I będziesz wiedział, co zrobisz, gdyby to się powtórzyło.
 
@@ -373,8 +373,8 @@ W poniedziałek w l6 przechodzimy do bloku merytorycznego: ocena ryzyka na nowym
 
 ## Notatki dla trenera
 
-- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele; 15 min pięć kroków procedury (tablica, karty w kolejności); 25 min scena Rustama od 14:19:12 do 14:25:32 (czytanie, zatrzymanie po każdym kroku, dyskusja); 15 min art. 234 KP (czytanie cytatu, omówienie retencji 10 lat i zawiadomienia PIP); 15 min art. 209¹ KP i pracownicy wyznaczeni do pierwszej pomocy (dyskusja: kto w twojej grupie ma kurs?); 15 min zabezpieczenie miejsca i protokół powypadkowy (rola świadka, co wolno, czego nie wolno); 10 min sytuacje specjalne (prąd, kręgosłup, tętnicze krwawienie, amputacja – krótko, szczegół w M1 l8); 10 min Kluczowe terminy i podsumowanie; 5 min zapowiedź l6 (ocena ryzyka, powrót do tempa dydaktycznego).
-- **Pułapka pedagogiczna nr 1:** scena Rustama jest silna emocjonalnie. Kursanci migranci mogą mieć własne doświadczenia wypadków w pracy (w Polsce albo w krajach pochodzenia). Po scenie Rustama zrób **pauzę pięciominutową** na kawę albo wodę. Pozwól emocjom opaść. Potem wróć do części prawnej, która jest spokojniejsza.
+- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele; 15 min pięć kroków procedury (tablica, karty w kolejności); 25 min scena Mykoły od 14:19:12 do 14:25:32 (czytanie, zatrzymanie po każdym kroku, dyskusja); 15 min art. 234 KP (czytanie cytatu, omówienie retencji 10 lat i zawiadomienia PIP); 15 min art. 209¹ KP i pracownicy wyznaczeni do pierwszej pomocy (dyskusja: kto w twojej grupie ma kurs?); 15 min zabezpieczenie miejsca i protokół powypadkowy (rola świadka, co wolno, czego nie wolno); 10 min sytuacje specjalne (prąd, kręgosłup, tętnicze krwawienie, amputacja – krótko, szczegół w M1 l8); 10 min Kluczowe terminy i podsumowanie; 5 min zapowiedź l6 (ocena ryzyka, powrót do tempa dydaktycznego).
+- **Pułapka pedagogiczna nr 1:** scena Mykoły jest silna emocjonalnie. Kursanci migranci mogą mieć własne doświadczenia wypadków w pracy (w Polsce albo w krajach pochodzenia). Po scenie Mykoły zrób **pauzę pięciominutową** na kawę albo wodę. Pozwól emocjom opaść. Potem wróć do części prawnej, która jest spokojniejsza.
 - **Pułapka pedagogiczna nr 2:** sekcja „Czego nie robi operator samodzielny" (lekarz, inspektor BHP, sędzia, terapeuta) może być źle odczytana jako „nie jesteś ważny". Nie jest o tym. Jest o **granicach roli**, które chronią zarówno ciebie, jak i ofiarę. Dobry operator samodzielny wie, gdzie jego rola się kończy, i nie zastępuje profesjonalistów. Słabsi operatorzy próbują być wszystkimi naraz i zwykle nie pomagają dobrze żadnej ze stron.
 - **Pułapka pedagogiczna nr 3:** temat „zabezpiecz miejsce" może być odczytany jako „zimno, bezduszność wobec krwawiącego kolegi". **Nie jest.** Jest to szacunek wobec prawdy protokołu, który za trzy lata może uratować rodzinę Murata przy sprawie odszkodowawczej, jeżeli zakład był winny, albo zabezpieczyć zakład, jeżeli zakład był bez winy. Miejsce wypadku nietknięte to **dowód**, który obrania obie strony sprawiedliwie. Sprzątnięte miejsce otwiera drzwi do podejrzeń.
 - **Powiązanie z M1 l8 (pierwsza pomoc amputacja):** zaproponuj kursantom otwarcie starego materiału z M1 l8 przez wieczór. Lekcja dzisiejsza jest kontynuacją tamtej, z innej perspektywy (lider zamiast wykonawcy). Powtórka obu razem buduje mapę kompetencyjną: w M1 uczyłeś się ratować, w M3 uczysz się prowadzić ratowanie.

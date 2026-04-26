@@ -8,9 +8,9 @@ czas: 120
 
 Lunes, sexto día de la semana segunda. La semana 1 trataba sobre **cómo operar la máquina con seguridad**. La semana 2 trata sobre **qué entra entre las mordazas de esa máquina**. Porque la sierra es la misma, pero el roble verde y el roble curado se comportan de manera completamente distinta: crujen distinto, se atascan distinto, queman el motor distinto.
 
-**La protagonista de la semana 2 es Maricel Santos**, 28 años, filipina de la provincia de Pangasinan. Lleva seis meses en el Aserradero Fundación EGIDA, calle Dębowa 12, Dębowa Góra. Primera mujer operadora en esta nave. En M1 era auxiliar en el patio de troncos, ahora está haciendo el curso de operadora junior. El viernes pasado Maricel recibió una entrega: veinte metros cúbicos de pino, traídos del bosque el lunes por la mañana, hace siete días. El capataz Marek miró la pila, sacudió la cabeza y dijo: "Maricel, mide la humedad antes de que esto vaya al tren de aserrado. Si sale por encima de treinta y cinco, hablamos de otra manera".
+**La protagonista de la semana 2 es Sofía Ramírez**, 28 años, colombiana de Medellín. Lleva seis meses en el Aserradero Fundación EGIDA, calle Dębowa 12, Dębowa Góra. Primera mujer operadora en esta nave. En M1 era auxiliar en el patio de troncos, ahora está haciendo el curso de operadora junior. El viernes pasado Sofía recibió una entrega: veinte metros cúbicos de pino, traídos del bosque el lunes por la mañana, hace siete días. El capataz Marek miró la pila, sacudió la cabeza y dijo: "Sofía, mide la humedad antes de que esto vaya al tren de aserrado. Si sale por encima de treinta y cinco, hablamos de otra manera".
 
-Maricel cogió el higrómetro, clavó los electrodos en la testa del primer tronco y leyó: **38%**. Luego el segundo: 42%. El tercero: 36%. Se sentó con ese número en la cabeza y se hizo a sí misma la pregunta que hoy es tuya: **¿qué significa realmente este número y por qué reaccionó el capataz?**
+Sofía cogió el higrómetro, clavó los electrodos en la testa del primer tronco y leyó: **38%**. Luego el segundo: 42%. El tercero: 36%. Se sentó con ese número en la cabeza y se hizo a sí misma la pregunta que hoy es tuya: **¿qué significa realmente este número y por qué reaccionó el capataz?**
 
 ## Objetivos
 
@@ -27,7 +27,7 @@ Tras esta lección:
 
 ### Por qué la humedad de la madera puede estar por encima del 100%
 
-Maricel oye "38 por ciento" y piensa como si fuera café: cuanto más porcentaje, más de una cosa dentro de otra. En la madera es distinto. La **humedad absoluta** es la relación entre la masa de agua y la **masa de madera totalmente seca** (secada en estufa de laboratorio hasta el 0%, la llamada *oven-dry mass*). La fórmula es sencilla:
+Sofía oye "38 por ciento" y piensa como si fuera café: cuanto más porcentaje, más de una cosa dentro de otra. En la madera es distinto. La **humedad absoluta** es la relación entre la masa de agua y la **masa de madera totalmente seca** (secada en estufa de laboratorio hasta el 0%, la llamada *oven-dry mass*). La fórmula es sencilla:
 
 ::: formula
 **MC (%) = (masa húmeda – masa seca) / masa seca × 100%**
@@ -75,7 +75,7 @@ Estado estándar para madera aserrada de construcción en Polonia: estructura, a
 Requerida por los compradores en Alemania, Reino Unido, Escandinavia. Muebles de salón: 8–12%. Tarima con suelo radiante: 7–9%. Parqué exótico: 6–8%.
 :::
 
-Maricel, con su resultado del 38%, se encontró **por encima del PSF, es decir, en la zona "verde"**. Esto significa: la madera se puede cortar enseguida (muchos aserraderos hacen esto con el pino), pero no se puede almacenar más de 2 semanas sin protección, porque aparecerán hongos del moho y mancha azul (*blue stain*). El capataz Marek tenía motivo para preocuparse: la entrega llevaba ya siete días esperando, quedaban 7 hasta el hongo.
+Sofía, con su resultado del 38%, se encontró **por encima del PSF, es decir, en la zona "verde"**. Esto significa: la madera se puede cortar enseguida (muchos aserraderos hacen esto con el pino), pero no se puede almacenar más de 2 semanas sin protección, porque aparecerán hongos del moho y mancha azul (*blue stain*). El capataz Marek tenía motivo para preocuparse: la entrega llevaba ya siete días esperando, quedaban 7 hasta el hongo.
 
 ### Cómo la humedad cambia tu trabajo en el tren de aserrado
 
@@ -95,7 +95,7 @@ Para una operadora junior este número no es académico. Cinco cosas cambian ent
 
 ### Por qué un tronco verde tiene 10–14 días
 
-Último elemento que Maricel tuvo que entender: **por qué una entrega de hace una semana ya es un problema y no una reserva**. Un tronco verde (por encima del 30% de humedad) es el entorno ideal para:
+Último elemento que Sofía tuvo que entender: **por qué una entrega de hace una semana ya es un problema y no una reserva**. Un tronco verde (por encima del 30% de humedad) es el entorno ideal para:
 
 - **Hongos del moho** (*Aspergillus*, *Penicillium*): 3–7 días tras el corte, sobre todo con calor por encima de 15°C. Visualmente: película blanca, gris o verde en la testa.
 - **Tinción azul, mancha azul** (*blue stain*, hongos del género *Ceratocystis*): 7–21 días, coloración permanente de la estructura de la madera. **No se va al cortar, no se va al cepillar, no se va al secar.** Todo el tronco pierde la clase A y B, baja a C-D o va a leña.
@@ -105,7 +105,7 @@ Para una operadora junior este número no es académico. Cinco cosas cambian ent
 **Regla de los 14 días** (verano) **/ 21 días** (invierno): desde el corte del árbol en el bosque hasta el aserrado en el tren o la inmersión en la balsa no deberían pasar más. Para pino y abeto con olas de calor de 30°C son **10 días** de límite. Para el roble, que es más resistente: hasta 28 días. Pasado ese tiempo, la madera o bien va a la balsa de agua (el agua desplaza al aire, los hongos no crecen sin oxígeno), o bien se rocía con bórax.
 :::
 
-La entrega de Maricel llevaba ya 7 días. Al límite quedaban otros 7. Por eso el capataz dijo "hablamos de otra manera": tuvo que reorganizar el plan del turno y adelantar ese pino al lunes por la mañana, antes que el roble que originalmente estaba en el programa.
+La entrega de Sofía llevaba ya 7 días. Al límite quedaban otros 7. Por eso el capataz dijo "hablamos de otra manera": tuvo que reorganizar el plan del turno y adelantar ese pino al lunes por la mañana, antes que el roble que originalmente estaba en el programa.
 
 ## Términos clave
 
@@ -148,6 +148,6 @@ Mañana (lección 2) aprenderás la **medición con higrómetro resistivo**: có
 - Confundir humedad relativa (del aire) con absoluta (de la madera). En meteorología 80% de humedad del aire significa algo distinto que 80% de humedad de la madera. Señálalo expresamente.
 - "Como la mojada se corta peor, siempre es mejor seca": **no**, la madera secada por debajo del 8% con disco puede arder por calor de fricción. El pino verde, por la resina, se corta incluso con más facilidad que el curado. Cada rango tiene sus ventajas y sus trampas.
 
-**Caso Maricel, para desarrollar en debate**: ¿por qué el capataz dijo "hablamos de otra manera" y no "corta enseguida"? Porque también tenía en el calendario roble verde de ayer (0 días, tiempo hasta 28), que podía esperar, y pino más viejo de 7 días (tiempo hasta 7), que había que salvar. **La prioridad del corte no es el orden de entrega, es el orden de especie × edad**. Esta regla vuelve en m2-w4-l1 (planificación del corte).
+**Caso Sofía, para desarrollar en debate**: ¿por qué el capataz dijo "hablamos de otra manera" y no "corta enseguida"? Porque también tenía en el calendario roble verde de ayer (0 días, tiempo hasta 28), que podía esperar, y pino más viejo de 7 días (tiempo hasta 7), que había que salvar. **La prioridad del corte no es el orden de entrega, es el orden de especie × edad**. Esta regla vuelve en m2-w4-l1 (planificación del corte).
 
-**Diccionario fonético ES**: "punto de saturación de la fibra": pronunciación completa en la Introducción al principio de la lección, luego abreviatura PSF. El cursista filipino, ucraniano, nigeriano pronuncia "PSF" más fácilmente que el nombre completo. Igual con "MC": que se vaya acostumbrando, porque en el higrómetro solo verá MC.
+**Diccionario fonético ES**: "punto de saturación de la fibra": pronunciación completa en la Introducción al principio de la lección, luego abreviatura PSF. El cursista ucraniano, colombiano, venezolano pronuncia "PSF" más fácilmente que el nombre completo. Igual con "MC": que se vaya acostumbrando, porque en el higrómetro solo verá MC.

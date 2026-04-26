@@ -6,15 +6,15 @@ czas: 120
 
 ## Introducción
 
-Martes, 2026-06-23, 8:45. Rustam Nazarov llega a EGIDA con su Skoda Fabia (séptimo año en Polonia, doce años del coche), aparca delante de la nave. Hoy es un día **atípico, anunciado con dos semanas de antelación**: **auditoría de FSC Polska**, anual, obligatoria, planificada de **9:00 a 14:00**. Marek Kowalski (jefe de turno) publicó un aviso de turno el viernes 12 de junio: *«Martes 23.06, auditoría FSC, se renueva el certificado de cadena de custodia de EGIDA. Todos los operadores presentes el día entero, los turnos se mantienen normales, pero **cuando os llamen, apartaos de la máquina y atended al auditor**. Trabajad con normalidad, no finjáis una actividad extraordinaria, al auditor no le gusta el espectáculo.»*
+Martes, 2026-06-23, 8:45. Mykoła Hrycenko llega a EGIDA con su Skoda Fabia (séptimo año en Polonia, doce años del coche), aparca delante de la nave. Hoy es un día **atípico, anunciado con dos semanas de antelación**: **auditoría de FSC Polska**, anual, obligatoria, planificada de **9:00 a 14:00**. Marek Kowalski (jefe de turno) publicó un aviso de turno el viernes 12 de junio: *«Martes 23.06, auditoría FSC, se renueva el certificado de cadena de custodia de EGIDA. Todos los operadores presentes el día entero, los turnos se mantienen normales, pero **cuando os llamen, apartaos de la máquina y atended al auditor**. Trabajad con normalidad, no finjáis una actividad extraordinaria, al auditor no le gusta el espectáculo.»*
 
-Rustam entra en la nave, turno de 7:00 estándar. Pedido propio: **ZLE-2026-06-020**, **picea común (*Picea abies*)**, 5 trozas de 4,05 m, tablas de 38 × 120 × 4050 mm para sofitos del cliente Domy Drewniane Iława (contrato marco permanente UR/2023/045). Wahan Petrosjan de ayudante. Adrian Kowal en P2 con tablas para vallado. La señora Ania trabaja en la sala de clasificación desde las 9:00 sobre el lote de abedul de Rustam del 18.06 (segunda pasada de clasificación tras el secado 19-22.06 en la cámara BH-50, campaña del señor Henryk).
+Mykoła entra en la nave, turno de 7:00 estándar. Pedido propio: **ZLE-2026-06-020**, **picea común (*Picea abies*)**, 5 trozas de 4,05 m, tablas de 38 × 120 × 4050 mm para sofitos del cliente Domy Drewniane Iława (contrato marco permanente UR/2023/045). Wasyl Melnyk de ayudante. Adrian Kowal en P2 con tablas para vallado. La señora Ania trabaja en la sala de clasificación desde las 9:00 sobre el lote de abedul de Mykoła del 18.06 (segunda pasada de clasificación tras el secado 19-22.06 en la cámara BH-50, campaña del señor Henryk).
 
 ### Antes de la auditoría, 8:45-9:00
 
 Marek se acerca a P3:
 
-*«Rustam, un momento. Por la mañana recibí un correo de Krzysztof Kowalski, el auditor: **llegará a las 9:00 en punto**. Te recuerdo las reglas:
+*«Mykoła, un momento. Por la mañana recibí un correo de Krzysztof Kowalski, el auditor: **llegará a las 9:00 en punto**. Te recuerdo las reglas:
 
 1. **Cuando el auditor te pregunte, responde al grano**. No improvises. Si no sabes, di: "esa pregunta es para Marek" o "esa pregunta es para la señora Ania". Esto **no es debilidad del operador**, es **la jerarquía correcta de responsabilidad**.
 2. **Enseña documentos, no cuentes historias**: si pregunta por un lote, **saca la KEP-001 del archivador**. Si pregunta por el origen, **enseña la ficha de recepción de rollizo**. Los documentos son **fiables**, los relatos no.
@@ -22,21 +22,21 @@ Marek se acerca a P3:
 4. **No finjas saberlo todo**. El auditor prefiere un operador modesto que diga "no lo sé, lo comprobaré", a un experto mentiroso.
 5. **Krzysztof Kowalski es el segundo Krzysztof en nuestra historia: no lo confundas con el señor Krzysztof de Wood-Mizer**, que cambió los rodamientos el 17.06. Este Krzysztof es **auditor independiente, licenciado por FSC Polska, número CU-COC-123456**. 48 años, con algunas canas, gafas, contrato con FSC Polska desde 2019. Recuerda: **si alguien dice hoy "señor Krzysztof" en la nave, se refiere al auditor, no al mecánico**.»*
 
-Rustam se ríe:
+Mykoła se ríe:
 
 *«Marek, **tres señores Krzysztof**: el de Wood-Mizer, este auditor FSC y mi hijo de 4 años. **No los confundiré**. Listo.»*
 
-Wahan lo oye:
+Wasyl lo oye:
 
-*«Rustam, ¿y yo? ¿El ayudante responde a preguntas?»*
+*«Mykoła, ¿y yo? ¿El ayudante responde a preguntas?»*
 
-*«Wahan, **si te pregunta**, responde **solo sobre tu propio trabajo**. Qué haces, cómo limpias, cómo ayudas. No respondas sobre la especie de la madera, ni sobre FSC, ni sobre normas, esa es mi función. **La frontera: el ayudante habla de las tareas del ayudante, el operador M3 del lote, la clasificadora de la clasificación, el jefe de turno de la empresa**.»*
+*«Wasyl, **si te pregunta**, responde **solo sobre tu propio trabajo**. Qué haces, cómo limpias, cómo ayudas. No respondas sobre la especie de la madera, ni sobre FSC, ni sobre normas, esa es mi función. **La frontera: el ayudante habla de las tareas del ayudante, el operador M3 del lote, la clasificadora de la clasificación, el jefe de turno de la empresa**.»*
 
 ### 9:00, llegada del auditor
 
 Un Renault Megane SW plateado aparca delante de la oficina de EGIDA. **Krzysztof Kowalski** baja: 48 años, americana beige crema, camisa azul marino sin corbata (los auditores FSC trabajan en "business casual" para no parecer funcionarios), gafas de montura fina, maletín de cuero negro con portátil (ThinkPad T480), **credencial de auditor FSC Polska al cuello** (tarjeta plástica con foto, número CU-COC-123456, vigencia 2027, fotografía de hace tres años con un matiz de rostro más joven).
 
-Marek lo recibe delante de la puerta de la oficina y lo lleva a la sala de reuniones. **Rustam, la señora Ania** (vino expresamente a las 9:00 aunque el abedul espera), **el señor Henryk** (maestro de secadero, invitado a la sala durante los 20 minutos de apertura), **Anton Bondarenko** (jefe del patio) también están presentes. El director de EGIDA (Paweł Witkowski, 56 años, propietario del 51% de las participaciones, diariamente en la oficina de Olsztyn) **se conecta online por Teams desde Olsztyn**.
+Marek lo recibe delante de la puerta de la oficina y lo lleva a la sala de reuniones. **Mykoła, la señora Ania** (vino expresamente a las 9:00 aunque el abedul espera), **el señor Henryk** (maestro de secadero, invitado a la sala durante los 20 minutos de apertura), **Anton Bondarenko** (jefe del patio) también están presentes. El director de EGIDA (Paweł Witkowski, 56 años, propietario del 51% de las participaciones, diariamente en la oficina de Olsztyn) **se conecta online por Teams desde Olsztyn**.
 
 Krzysztof Kowalski presenta brevemente la agenda:
 
@@ -48,7 +48,7 @@ Krzysztof Kowalski presenta brevemente la agenda:
 - **11:30-12:15** revisión de la documentación de calidad: KEP-001, WZ, clasificaciones, registro de reclamaciones.
 - **12:15-12:45** revisión de la formación del personal: lista de formaciones 2025-2026, justificantes de cualificaciones.
 - **12:45-13:15** comida, pausa (EGIDA la proporciona, pedidos 4 kebabs + 1 vegetariano en Paulinka, 9 zł la unidad, cargo a EGIDA).
-- **13:15-13:45** entrevistas con operadores (Rustam 15 min P3, Damian 15 min P1), preguntas técnicas sobre FSC.
+- **13:15-13:45** entrevistas con operadores (Mykoła 15 min P3, Damian 15 min P1), preguntas técnicas sobre FSC.
 - **13:45-14:15** revisión de reclamaciones y no conformidades.
 - **14:15-14:45** resumen, lista preliminar de observaciones, información sobre la conclusión.
 
@@ -156,19 +156,19 @@ Krzysztof se pone el **casco de auditor** (blanco con el logo «Auditor FSC Pols
 
 Krzysztof fotografía las placas (primer plano y vista general). Anota: «**separación visual OK**, placas impermeables OK, mapa del patio accesible a los operadores: conforme».
 
-**Parada 2: puesto P3 Wood-Mizer LT70 (Rustam)**:
+**Parada 2: puesto P3 Wood-Mizer LT70 (Mykoła)**:
 
-Krzysztof se acerca a P3. Rustam detiene la máquina (va por la troza 3), coloca LOTO, se quita los guantes. Wahan aparta la escoba y se pone a un lado, a 3 m de la conversación.
+Krzysztof se acerca a P3. Mykoła detiene la máquina (va por la troza 3), coloca LOTO, se quita los guantes. Wasyl aparta la escoba y se pone a un lado, a 3 m de la conversación.
 
 Krzysztof saluda:
 
-*«Buenos días, soy Krzysztof Kowalski de FSC Polska. ¿Usted es Rustam Nazarov? Marek ya lo presentó. **Unas preguntas de operador**, 15-20 minutos. Tranquilo, sin examen. **¿Hoy tienen picea?**»*
+*«Buenos días, soy Krzysztof Kowalski de FSC Polska. ¿Usted es Mykoła Hrycenko? Marek ya lo presentó. **Unas preguntas de operador**, 15-20 minutos. Tranquilo, sin examen. **¿Hoy tienen picea?**»*
 
 *«Sí, señor Krzysztof, picea común, 5 trozas del Nadleśnictwo Strzałowo, ZLE-2026-06-020, para el cliente Domy Drewniane Iława.»*
 
 *«Enséñeme **dónde están las marcas FSC** en esta materia prima.»*
 
-Rustam lleva a Krzysztof a la troza 4 (a la espera junto a P3). Muestra la **tiza azul en el canto de la troza**:
+Mykoła lleva a Krzysztof a la troza 4 (a la espera junto a P3). Muestra la **tiza azul en el canto de la troza**:
 
 ```
 N-STR-06-042 / SW-PO / 2026-06-20 / FSC-C009876
@@ -180,34 +180,34 @@ Krzysztof observa el canto de la troza y fotografía.
 
 *«**¿Qué significa FSC 100%?** Explíquelo con sus palabras.»*
 
-Rustam:
+Mykoła:
 
 *«FSC 100% significa que **toda la troza procede de un bosque certificado FSC**. Es decir, **el Nadleśnictwo Strzałowo ha auditado su gestión forestal**: tala sostenible, protección de la biodiversidad, seguridad del trabajo de los leñadores, derechos de la comunidad local. Al comprarles, **sabemos que el bosque no ha sido destruido**. Se diferencia de **FSC Mix 70/30**, donde al menos el 70% es FSC y el 30% restante procede de **otras fuentes controladas** (FSC Controlled Wood), pero no plenamente certificadas. Se diferencia también de **FSC Controlled Wood** sola, donde solo se ha verificado que la madera **no procede de bosques problemáticos** (talas ilegales, áreas protegidas sin autorización, zonas en conflicto), pero sin auditoría plena. EGIDA tiene principalmente FSC 100% de Strzałowo, **5% FSC Mix de Srokowo, aliso**, 0% Controlled Wood ni no certificado.»*
 
 Krzysztof toma notas. **Satisfecho**: el operador entiende la clasificación en tres niveles.
 
-*«Rustam, **¿cómo se transfiere el certificado FSC del rollizo a la tabla?** ¿Quién lo documenta?»*
+*«Mykoła, **¿cómo se transfiere el certificado FSC del rollizo a la tabla?** ¿Quién lo documenta?»*
 
 *«El número de certificado **FSC-C009876 de Strzałowo** figura en la KOD (ficha de recepción de rollizo), se transcribe al **KEP-001** como "origen FSC"; **la señora Ania**, como clasificadora, lo transcribe al **WZ** como "origen FSC-C009876 100%"; el cliente recibe el WZ con ese número: **el cliente sabe que las viguetas son FSC 100%**. **Cadena documental ininterrumpida**. Yo, **como operador, respondo de transcribir el número de la KOD al KEP-001**. Si me equivoco y transcribo un número de un lote antiguo de la semana pasada, eso es **mezcla de lotes** = **incumplimiento de FSC CoC**. Por eso compruebo **dos veces** cada anotación en la KEP-001.»*
 
 Krzysztof sonríe:
 
-*«Rustam, **excelente comprensión de la cadena**. **Conciencia del riesgo de "mezcla de lotes" a nivel de operador: rara en mi práctica**. Le felicito.»*
+*«Mykoła, **excelente comprensión de la cadena**. **Conciencia del riesgo de "mezcla de lotes" a nivel de operador: rara en mi práctica**. Le felicito.»*
 
-Rustam asiente con modestia. Krzysztof plantea algunas preguntas más:
-- qué haría Rustam si llegara un rollizo **sin placa FSC**: «lo detendría, se lo comunicaría a Anton Bondarenko, no lo aceptaría hasta verificar la documentación con el Nadleśnictwo»
+Mykoła asiente con modestia. Krzysztof plantea algunas preguntas más:
+- qué haría Mykoła si llegara un rollizo **sin placa FSC**: «lo detendría, se lo comunicaría a Anton Bondarenko, no lo aceptaría hasta verificar la documentación con el Nadleśnictwo»
 - **qué significa "separación de lotes"** en el patio: «separación física de las pilas certificadas respecto a las no certificadas; hoy tenemos 0% no certificado, pero, de haberlo, mínimo 2 m de distancia con una línea amarilla»
 - **quién comprueba las fichas de recepción de rollizo** a la llegada: «Anton Bondarenko, el almacenero; él firma la KOD; yo, como operador, no recibo materia prima nueva sin su firma en la KOD»
 
 Krzysztof toma notas en el portátil durante 7 minutos. Concluye:
 
-*«Rustam, **entrevista de operador M3 plenamente aprobada**. Volveré tras la comida con Damian en P1 para la segunda entrevista, pero **con usted todo está claro**. Gracias, puede volver al trabajo.»*
+*«Mykoła, **entrevista de operador M3 plenamente aprobada**. Volveré tras la comida con Damian en P1 para la segunda entrevista, pero **con usted todo está claro**. Gracias, puede volver al trabajo.»*
 
-Rustam retira el LOTO, vuelve a P3, sigue con la troza 3. Wahan se acerca:
+Mykoła retira el LOTO, vuelve a P3, sigue con la troza 3. Wasyl se acerca:
 
-*«Rustam, una conversación estupenda. Lo he escuchado todo. **Algún día yo responderé así**, tengo que dominar FSC.»*
+*«Mykoła, una conversación estupenda. Lo he escuchado todo. **Algún día yo responderé así**, tengo que dominar FSC.»*
 
-*«Wahan, ya estás en ello, **lo aprenderás**. Yo, hace cuatro años, en el curso de Lublin, **tampoco sabía nada de FSC**. Hoy es **mi día a día**.»*
+*«Wasyl, ya estás en ello, **lo aprenderás**. Yo, hace cuatro años, en el curso de Lublin, **tampoco sabía nada de FSC**. Hoy es **mi día a día**.»*
 
 **Parada 3: secadero del señor Henryk**:
 
@@ -238,9 +238,9 @@ Marek presenta la hoja «**Szkolenia-personel-2026.xlsx**»:
 | Anton Bondarenko | Almacenero | FSC CoC almacén 2025 | 2025-06 | Cert. FSC/PL/AB/2025 |
 | Señor Henryk (Henryk Szymański) | Maestro de secadero | FSC CoC secadero 2024 | 2024-09 | Cert. FSC/PL/HS/2024 |
 | Damian Wójcik | Operador M3 P1 | FSC CoC operador 2025 | 2025-03 | Cert. FSC/PL/DW/2025 |
-| Rustam Nazarov | Operador M3 P3 | FSC CoC operador 2026 | 2026-01 | Cert. FSC/PL/RN/2026 |
+| Mykoła Hrycenko | Operador M3 P3 | FSC CoC operador 2026 | 2026-01 | Cert. FSC/PL/RN/2026 |
 | Adrian Kowal | Operador M2 P2 | FSC CoC fundamentos internos | 2026-04 | EGIDA/2026/AK/FSC |
-| Wahan Petrosjan | Ayudante M1 P3 | PRL + concienciación FSC | 2026-05 | EGIDA/2026/WP/OGOL |
+| Wasyl Melnyk | Ayudante M1 P3 | PRL + concienciación FSC | 2026-05 | EGIDA/2026/WP/OGOL |
 | Maciek Wiśniewski | Ayudante secadero | PRL + concienciación FSC | 2025-09 | EGIDA/2025/MW/OGOL |
 
 *«Krzysztof, 10 empleados, 8 con certificados FSC externos (PZF Polska), 2 con formaciones internas de concienciación (los ayudantes M1 no necesitan certificación externa). **Actualización 2026-05 con Adrian Kowal: no conformidad 2025 cerrada**.»*
@@ -251,11 +251,11 @@ Krzysztof asiente:
 
 ### 12:45-13:15, comida
 
-Kebab traído de Paulinka. Rustam recibe el de ternera, Krzysztof el de pollo, la señora Ania el vegetariano, Marek el de cerdo. Conversan con informalidad. Krzysztof cuenta la auditoría en un aserradero de Augustów la semana pasada (**3 no conformidades críticas**: certificado FSC perdido, la empresa tiene que trabajar 6 meses sin certificado y pasar una auditoría nueva). El relato, a modo de recordatorio: **EGIDA está un 90% por encima de la media polaca de aserraderos**.
+Kebab traído de Paulinka. Mykoła recibe el de ternera, Krzysztof el de pollo, la señora Ania el vegetariano, Marek el de cerdo. Conversan con informalidad. Krzysztof cuenta la auditoría en un aserradero de Augustów la semana pasada (**3 no conformidades críticas**: certificado FSC perdido, la empresa tiene que trabajar 6 meses sin certificado y pasar una auditoría nueva). El relato, a modo de recordatorio: **EGIDA está un 90% por encima de la media polaca de aserraderos**.
 
 ### 13:15-13:45, entrevistas con operadores, Damian en P1
 
-Krzysztof se acerca a Damian Wójcik en la P1 Serra SM40. Rustam no oye con detalle (P3 está a 30 m de P1, las máquinas en marcha). Ve que Damian enseña documentos y responde durante 15 minutos. A su regreso, Marek dice a Rustam: «**Damian también aprobó**. Krzysztof solo tiene una pregunta complementaria con la que vuelve a la sala.»
+Krzysztof se acerca a Damian Wójcik en la P1 Serra SM40. Mykoła no oye con detalle (P3 está a 30 m de P1, las máquinas en marcha). Ve que Damian enseña documentos y responde durante 15 minutos. A su regreso, Marek dice a Mykoła: «**Damian también aprobó**. Krzysztof solo tiene una pregunta complementaria con la que vuelve a la sala.»
 
 ### 13:45-14:15, reclamaciones
 
@@ -288,7 +288,7 @@ Krzysztof cierra el portátil, se acerca al rotafolio:
 
 Paweł Witkowski online: felicitaciones, **EGIDA mantiene un nivel ejemplar**.»*
 
-Marek respira. Rustam sonríe. La señora Ania aplaude.
+Marek respira. Mykoła sonríe. La señora Ania aplaude.
 
 ### 14:45, cierre
 
@@ -296,11 +296,11 @@ Krzysztof guarda el portátil. Marek le entrega la factura de la auditoría impr
 
 *«Volveré en otoño de 2027. Hasta la próxima. **Un saludo a los operadores, tenéis un buen equipo**.»*
 
-Se marcha. Marek se acerca a Rustam en P3:
+Se marcha. Marek se acerca a Mykoła en P3:
 
-*«Rustam, **el operador Damian y tú** aprobasteis las entrevistas. El director llama desde Olsztyn, está contento. **Plus de 100 zł netos al salario por auditoría bien superada**, se abona en la nómina de junio. Wahan recibirá 50 zł. **La señora Ania y Marek, 200 zł cada uno**. Así se construye un estándar.»*
+*«Mykoła, **el operador Damian y tú** aprobasteis las entrevistas. El director llama desde Olsztyn, está contento. **Plus de 100 zł netos al salario por auditoría bien superada**, se abona en la nómina de junio. Wasyl recibirá 50 zł. **La señora Ania y Marek, 200 zł cada uno**. Así se construye un estándar.»*
 
-Rustam da las gracias. Vuelve a la troza 3 de picea. El turno termina a las 15:00 según lo habitual.
+Mykoła da las gracias. Vuelve a la troza 3 de picea. El turno termina a las 15:00 según lo habitual.
 
 ## Teoría: auditoría FSC/PEFC, cadena de custodia, marcado, comportamiento del operador
 
@@ -408,7 +408,7 @@ El operador M3 **debe** saber explicar:
 
 **Regla 4: conciencia del riesgo de "mezcla de lotes".**
 
-Error más frecuente del operador M3: **transcribir un número de lote equivocado** de la KOD a la KEP-001. Si, en lugar de "N-STR-06-042" (picea FSC 100%), se anota "N-SRO-04-118" (aliso FSC Mix 70/30), **el lote queda clasificado como Mix** y se vende al cliente como FSC 100%. **Eso es un incumplimiento de CoC y, en el peor caso, una no conformidad crítica**. Por eso Rustam comprueba **dos veces** cada anotación.
+Error más frecuente del operador M3: **transcribir un número de lote equivocado** de la KOD a la KEP-001. Si, en lugar de "N-STR-06-042" (picea FSC 100%), se anota "N-SRO-04-118" (aliso FSC Mix 70/30), **el lote queda clasificado como Mix** y se vende al cliente como FSC 100%. **Eso es un incumplimiento de CoC y, en el peor caso, una no conformidad crítica**. Por eso Mykoła comprueba **dos veces** cada anotación.
 
 ### Pedagogía: la auditoría como revisión periódica de calidad
 
@@ -421,7 +421,7 @@ Error más frecuente del operador M3: **transcribir un número de lote equivocad
 2. **Perspectiva externa**: el auditor ve cosas que el personal interno ya no percibe (p. ej., una placa borrada por la lluvia).
 3. **Construcción del estándar operativo**: cada no conformidad cerrada = mejora estable del proceso.
 
-**Beneficio adicional para el operador**: "auditoría bien superada" se **anota en la cartilla de formación** del trabajador. Tras 5 auditorías bien superadas, Rustam recibe un **bonus de ascenso** dentro de la carrera profesional de EGIDA: prioridad en los concursos para puestos de jefe de turno o controlador de calidad (véase la lección l6 sobre desarrollo profesional).
+**Beneficio adicional para el operador**: "auditoría bien superada" se **anota en la cartilla de formación** del trabajador. Tras 5 auditorías bien superadas, Mykoła recibe un **bonus de ascenso** dentro de la carrera profesional de EGIDA: prioridad en los concursos para puestos de jefe de turno o controlador de calidad (véase la lección l6 sobre desarrollo profesional).
 
 ### Relación cotidiana con FSC
 
@@ -435,7 +435,7 @@ Error más frecuente del operador M3: **transcribir un número de lote equivocad
 
 Cada uno de estos puntos es **una gota de la cadena**. Si se rompe una sola gota, **la cadena de custodia FSC se quiebra**: no conformidad crítica en la siguiente auditoría, posible pérdida del certificado.
 
-Por eso Krzysztof Kowalski felicitó a Rustam por la **conciencia del riesgo de "mezcla de lotes"**: es **una señal de madurez del operador M3**.
+Por eso Krzysztof Kowalski felicitó a Mykoła por la **conciencia del riesgo de "mezcla de lotes"**: es **una señal de madurez del operador M3**.
 
 ## Términos clave
 
@@ -472,7 +472,7 @@ Por eso Krzysztof Kowalski felicitó a Rustam por la **conciencia del riesgo de 
 7. ¿Qué significa que el operador M3 es **cocreador del certificado FSC** y no solo un "controlado"?
 8. ¿Cómo se transfiere el **número de certificado FSC** del rollizo al WZ del cliente? ¿A cuántos documentos afecta esa cadena?
 9. ¿Qué significa **"mezcla de lotes"** y por qué es peligrosa? ¿Cómo previene el operador M3 ese fallo?
-10. ¿Por qué Rustam **comprueba dos veces** el número FSC al transcribirlo de la KOD a la KEP-001?
+10. ¿Por qué Mykoła **comprueba dos veces** el número FSC al transcribirlo de la KOD a la KEP-001?
 11. ¿Qué harás si llega un rollizo **sin placa FSC** en el canto? ¿Quién firma la KOD?
 12. ¿Cuáles son las **reglas de comportamiento del operador M3** durante la entrevista con el auditor? ¿Qué responder cuando no lo sabes?
 13. ¿Por qué las **placas FSC deben ser laminadas e impermeables**? ¿Cuál fue la no conformidad de EGIDA en 2025?

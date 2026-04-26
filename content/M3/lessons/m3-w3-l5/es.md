@@ -8,7 +8,7 @@ czas: 120
 
 Lunes, 2026-06-08, 6:55 h. Último día del ciclo de roble común en la cámara BH-50. Veintidós días desde el arranque del 17.05, diez días después de la alarma del termostato (30.05 de la l4), seis días después del cambio del termostato GH-67 por BTM (lun 02.06), tras la fase de acondicionamiento (01-04.06) y la fase de enfriamiento (05-07.06). La madera en la cámara tiene **temperatura de 25°C, humedad objetivo de 14%**, lista para la descarga.
 
-Rustam viene hoy a la nave del secadero **a turno completo de formación** (Marek lo planificó el viernes, dentro del bloque de procesos M3, l5 del curso). Wahan está presente como ayudante de descarga (hoy no en P3, solo en la nave del secadero). Maciek Wiśniewski ya está en la sala de control desde las 6:45, recibe el turno de noche (panel limpio, ninguna alarma sonó durante el fin de semana).
+Mykoła viene hoy a la nave del secadero **a turno completo de formación** (Marek lo planificó el viernes, dentro del bloque de procesos M3, l5 del curso). Wasyl está presente como ayudante de descarga (hoy no en P3, solo en la nave del secadero). Maciek Wiśniewski ya está en la sala de control desde las 6:45, recibe el turno de noche (panel limpio, ninguna alarma sonó durante el fin de semana).
 
 Don Henryk llega a las 7:00 con mono de trabajo y una bolsa de mano negra: **higrómetro Tanel ET-6** (el mismo modelo que en M2 l5), **sierra de muestreo manual** (pequeña sierra circular de batería de 100 mm para cortar muestras de control), **regla de aluminio de 1 m**, **escuadra de acero**, **lupa 10×**, **cuaderno de trabajo**, **lápiz graso técnico**.
 
@@ -29,9 +29,9 @@ RH del aire:                    72%  (tras acondicionamiento)
 EMC:                            14,5%  (cercano a la humedad de la madera)
 ```
 
-*„Rustam, ¿ves? EMC 14,5%, madera 14,1%. Casi equilibrio. **La madera ya no cede agua ni la absorbe**. Lista para salir."*
+*„Mykoła, ¿ves? EMC 14,5%, madera 14,1%. Casi equilibrio. **La madera ya no cede agua ni la absorbe**. Lista para salir."*
 
-Rustam lo anota.
+Mykoła lo anota.
 
 ### 7:15, apertura de las puertas de la cámara
 
@@ -49,9 +49,9 @@ Anton maniobra con la carretilla, mete las horquillas bajo la pila nº 1, la ele
 
 ### 8:00, medición de humedad en 5 puntos de la pila
 
-Don Henryk muestra a Rustam los **cinco pasos de la inspección pos-ciclo**: 1) medición de humedad final en un mínimo de 5 puntos; 2) inspección de testas y superficies; 3) diagnóstico de fisuras internas (*checker*); 4) diagnóstico de alabeo y torsión; 5) clasificación (Pani Ania a las 10:00).
+Don Henryk muestra a Mykoła los **cinco pasos de la inspección pos-ciclo**: 1) medición de humedad final en un mínimo de 5 puntos; 2) inspección de testas y superficies; 3) diagnóstico de fisuras internas (*checker*); 4) diagnóstico de alabeo y torsión; 5) clasificación (Pani Ania a las 10:00).
 
-*„Rustam, los pasos 1-4 los haces hoy bajo mi supervisión. La clasificación es competencia de Pani Ania, requisito ISO."*
+*„Mykoła, los pasos 1-4 los haces hoy bajo mi supervisión. La clasificación es competencia de Pani Ania, requisito ISO."*
 
 Higrómetro calibrado (batería OK, puesta a cero sobre muestra de control de laboratorio). Don Henryk elige 5 puntos de medición para la **pila nº 1** (49 tablas, 10 capas × 5 tablas por capa):
 
@@ -86,7 +86,7 @@ Inspección de **testas** de la pila nº 1, testa delantera (vista de 49 seccion
 
 **Buscamos**: fisuras de testa (*end checks*), fisuras medulares visibles en testa (*pith checks*), color desigual en la superficie de testa, abombamientos/hundimientos.
 
-Don Henryk revisa las primeras 20 tablas del frente, Rustam anota:
+Don Henryk revisa las primeras 20 tablas del frente, Mykoła anota:
 - 2 *end check* pequeñas (<3 cm, dentro de tolerancia C24, límite 10% de la longitud del testero)
 - 1 *pith check* de 4 cm (admisible en tablas con médula, C24 lo tolera)
 - 17 tablas limpias
@@ -103,7 +103,7 @@ Don Henryk saca tablas de la capa superior de la pila 1 y las coloca planas sobr
 
 Don Henryk huele girando la tabla bajo la nariz. *„Olor seco, ácido natural de los taninos del roble. **Sin olor a humedad rancia**, sin moho. Color uniforme."*
 
-Wahan aprende a oler. Tras la primera tabla: *„Don Henryk, ¿percibo algo de humedad rancia?"* Don Henryk huele de nuevo: *„No, es el olor natural de los taninos. **El moho es empalagoso, dulzón**, distinto. Memoriza la diferencia."* Wahan anota: *„Ácido natural OK. Dulzón empalagoso = moho."*
+Wasyl aprende a oler. Tras la primera tabla: *„Don Henryk, ¿percibo algo de humedad rancia?"* Don Henryk huele de nuevo: *„No, es el olor natural de los taninos. **El moho es empalagoso, dulzón**, distinto. Memoriza la diferencia."* Wasyl anota: *„Ácido natural OK. Dulzón empalagoso = moho."*
 
 Entre las 10 tablas revisadas: **todas limpias**, una con una pequeña veta resinosa de 10 cm (natural, C24 OK).
 
@@ -118,9 +118,9 @@ Examina con lupa 10× cada sección:
 - **Tabla 20 de la pila 2**: sin fisuras, estructura uniforme. **Sin *checker*.**
 - **Tabla 35 de la pila 3**: sin fisuras radiales, estructura uniforme. **Sin *checker*.**
 
-*„Rustam, muestras de 3 tablas representativas, todas sin *checker*. **La fase de acondicionamiento (3 días, 01-04.06) equilibró las tensiones**. Es la confirmación de que el ciclo ha salido bien."*
+*„Mykoła, muestras de 3 tablas representativas, todas sin *checker*. **La fase de acondicionamiento (3 días, 01-04.06) equilibró las tensiones**. Es la confirmación de que el ciclo ha salido bien."*
 
-Rustam anota. Don Henryk mete las muestras en la bolsa (irán al archivo del laboratorio EGIDA como muestras de control de la carga ZLE-075 roble, retención 1 año).
+Mykoła anota. Don Henryk mete las muestras en la bolsa (irán al archivo del laboratorio EGIDA como muestras de control de la carga ZLE-075 roble, retención 1 año).
 
 ### 10:00, llega Pani Ania
 
@@ -128,9 +128,9 @@ Rustam anota. Don Henryk mete las muestras en la bolsa (irán al archivo del lab
 
 Don Henryk resume brevemente: *„Ciclo bueno, promedio 14,1%, dispersión 0,9%, 3 muestras de *checker* negativas, 1 tabla con *end check* grande de 12 cm en la testa trasera de la pila 1 (nº 38). Para ti: clasificación visual y de resistencia, 145 tablas."*
 
-Pani Ania a Rustam: *„Rustam, aprende, pero **tú no clasificas**. La clasificación es mi competencia, requisito ISO. Tú asistes, marcas las tablas tras mi decisión y las anotas en la ficha del clasificador."*
+Pani Ania a Mykoła: *„Mykoła, aprende, pero **tú no clasificas**. La clasificación es mi competencia, requisito ISO. Tú asistes, marcas las tablas tras mi decisión y las anotas en la ficha del clasificador."*
 
-Rustam confirma: *„Entendido, hoy asistente."*
+Mykoła confirma: *„Entendido, hoy asistente."*
 
 Herramientas de Pani Ania: el mismo higrómetro, regla de aluminio, escuadra de acero, sellos de clase (C16, C24, C30, rechazo), lápiz graso, **ficha del clasificador** (formulario A3, 145 filas, una por tabla).
 
@@ -160,7 +160,7 @@ Pani Ania toma la tabla nº 1 de la pila 1. La coloca sobre la mesa de muestreo.
 
 **Decisión de Pani Ania**: *„Tabla 1 de la pila 1: **C24, limpia, ningún defecto fuera de norma**."*
 
-Sella „C24" en el canto de la tabla. Rustam lo anota en la ficha del clasificador.
+Sella „C24" en el canto de la tabla. Mykoła lo anota en la ficha del clasificador.
 
 ### 10:30, ritmo de clasificación
 
@@ -176,7 +176,7 @@ Pani Ania llega a la tabla nº 38 (marcada por Don Henryk por la mañana). Mide 
 
 Don Henryk (al lado): *„El cliente también tiene pedido de friso de pared. Marca 'acortar 20 cm, surtido friso de pared, C16'."*
 
-Pani Ania sella „C16" y añade con lápiz „**ACORTAR 20 CM, FRISO DE PARED**". Rustam anota en la ficha:
+Pani Ania sella „C16" y añade con lápiz „**ACORTAR 20 CM, FRISO DE PARED**". Mykoła anota en la ficha:
 
 ```
 Tabla 38 pila 1: C16 tras acortar 20 cm, surtido friso de pared
@@ -189,7 +189,7 @@ Tabla 67 de la pila 2, alabeo longitudinal **9 mm en 4 m de longitud**. Límite 
 
 Pani Ania: *„Tabla 67: alabeo 9 mm, fuera de tolerancia incluso para C16. **Rechazo**. Venta para leña a 50 zł/m³ o para astillas."*
 
-Sella „rechazo". Rustam anota: *„Tabla 67 pila 2: rechazo, alabeo 9 mm (fuera de tolerancia C24/C16). Leña/astillas."*
+Sella „rechazo". Mykoła anota: *„Tabla 67 pila 2: rechazo, alabeo 9 mm (fuera de tolerancia C24/C16). Leña/astillas."*
 
 ### 12:30, llega Marek, resumen intermedio
 
@@ -207,9 +207,9 @@ Marek: *„Ok, terminad. A las 15:00 firmaré el informe. Pani Ania, ¿la ficha 
 
 ### 13:00-14:00, pausa para comer
 
-Rustam, Wahan y Maciek van a comer (comedor EGIDA a 50 m de la nave del secadero, comida 12:30-13:30). Pani Ania y Don Henryk se quedan, Pani Ania sigue clasificando a ritmo rutinario.
+Mykoła, Wasyl y Maciek van a comer (comedor EGIDA a 50 m de la nave del secadero, comida 12:30-13:30). Pani Ania y Don Henryk se quedan, Pani Ania sigue clasificando a ritmo rutinario.
 
-Rustam anota en su agenda:
+Mykoła anota en su agenda:
 ```
 Clasificación C24/C16/rechazo – precisión de tolerancias:
   C24: alabeo <6 mm, end check <10 cm, nudos <52 mm, oblina <38 mm
@@ -258,7 +258,7 @@ Don Henryk coge la **ficha KS-001 de la carga en curso** (del escritorio del sec
   La alarma del 30.05 no afectó a la calidad (el acondicionamiento
     igualó las tensiones).
   Presentes: Don Henryk (maestro), Pani Ania (clasificadora),
-    Rustam Nazarov (formación M3), Wahan Petrosjan (ayudante M1),
+    Mykoła Hrycenko (formación M3), Wasyl Melnyk (ayudante M1),
     Maciek Wiśniewski (secadero M1), Anton Bondarenko (carretilla).
 ```
 
@@ -268,7 +268,7 @@ En la **sección 4 (Firmas finales)** Don Henryk anota su nombre y la hora (14:5
 
 Marek revisa la ficha del clasificador y la anotación en KS-001. *„Buen trabajo. La ficha WZ de la partida la preparas, Pani Ania, para el martes por la mañana. Antoni, partida C24 y C16 apta al almacén de tablón terminado, rechazo por separado a la zona de leña. Las acortadas de friso de pared al estante del Carpintero de Muebles, marca con lápiz en el extremo de la pila 'ZLE-081 friso 3 uds.'."*
 
-Marek firma KS-001 sección 4. Ficha cerrada. Don Henryk pasa a Rustam la ficha del clasificador (para copia en OneDrive el martes por la mañana, retención 3 años papel + 5 años escaneo).
+Marek firma KS-001 sección 4. Ficha cerrada. Don Henryk pasa a Mykoła la ficha del clasificador (para copia en OneDrive el martes por la mañana, retención 3 años papel + 5 años escaneo).
 
 Anton entra con la carretilla elevadora, lleva la pila C24 + C16 + acortadas al almacén de tablón terminado (edificio contiguo a 40 m). El rechazo (2 tablas) va a una zona aparte de leña en la parte trasera de la nave.
 
@@ -412,23 +412,23 @@ La **ficha WZ** es el formulario EGIDA A4 emitido **antes de la entrega de la pa
 
 A las 15:30 la partida de roble está en el almacén de tablón terminado (125 C24 + 15 C16 + 3 acortadas para friso, en total 2,512 m³ de surtido apto). El rechazo (2 tablas, 0,035 m³) en una zona aparte de leña en la parte trasera. Ficha del clasificador firmada por Pani Ania, ficha KS-001 sección 4 firmada por Don Henryk y Marek Kowalski. La ficha WZ la rellenará Pani Ania mañana por la mañana (martes 09.06) antes de la entrega al cliente.
 
-Rustam y Wahan guardan las herramientas de Don Henryk en la bolsa (higrómetro, sierra de muestreo, regla, lupa). Maciek va a la sala de control a cerrar el cuaderno del ciclo, preparar el panel para la nueva carga (martes 09.06 pino 2,2 m³ del Distrito Forestal de Strzałowa, nueva campaña).
+Mykoła y Wasyl guardan las herramientas de Don Henryk en la bolsa (higrómetro, sierra de muestreo, regla, lupa). Maciek va a la sala de control a cerrar el cuaderno del ciclo, preparar el panel para la nueva carga (martes 09.06 pino 2,2 m³ del Distrito Forestal de Strzałowa, nueva campaña).
 
-### Conversación Don Henryk – Rustam
+### Conversación Don Henryk – Mykoła
 
-Don Henryk: *„Rustam, ¿qué has entendido hoy?"*
+Don Henryk: *„Mykoła, ¿qué has entendido hoy?"*
 
-Rustam: *„Cuatro cosas. Primera, **la inspección es secuencial** de lo más barato a lo más caro (humedad, inspección, *checker*, clasificación). Segunda, **la dispersión importa más que el promedio**: nuestro promedio de 14,1% no vale nada si la dispersión fuera de 4%. Tercera, **la clasificación es una habilitación, no solo una destreza**: Pani Ania está certificada por el ITB, yo veo lo que hace, pero no toco los sellos. Cuarta, **los documentos son la verdad de la partida**: ficha del clasificador, KS-001, ficha WZ, cada una tiene su lugar y su función, ninguna se puede omitir."*
+Mykoła: *„Cuatro cosas. Primera, **la inspección es secuencial** de lo más barato a lo más caro (humedad, inspección, *checker*, clasificación). Segunda, **la dispersión importa más que el promedio**: nuestro promedio de 14,1% no vale nada si la dispersión fuera de 4%. Tercera, **la clasificación es una habilitación, no solo una destreza**: Pani Ania está certificada por el ITB, yo veo lo que hace, pero no toco los sellos. Cuarta, **los documentos son la verdad de la partida**: ficha del clasificador, KS-001, ficha WZ, cada una tiene su lugar y su función, ninguna se puede omitir."*
 
 *„Bien. ¿La quinta cosa, la que no has mencionado?"*
 
-Rustam piensa. *„El operador M3 en la cámara y en la clasificación **no decide, pero entiende**. Dentro de 6 meses, tras el curso auxiliar de secadero, podré asistir al clasificador por mi cuenta (no clasificar, pero llevar el procedimiento de 5 pasos sin supervisión de Don Henryk). Esa es la vía de desarrollo."*
+Mykoła piensa. *„El operador M3 en la cámara y en la clasificación **no decide, pero entiende**. Dentro de 6 meses, tras el curso auxiliar de secadero, podré asistir al clasificador por mi cuenta (no clasificar, pero llevar el procedimiento de 5 pasos sin supervisión de Don Henryk). Esa es la vía de desarrollo."*
 
 *„Sí. Hoy has aprendido bien. Anoto en tu expediente personal la segunda asistencia formativa (la primera fue la reunión de planificación del 29.05 de l3, la segunda la descarga de hoy). Si añades una tercera en agosto, estarás cualificado para el curso auxiliar de secadero en octubre."*
 
 ### 16:00, camino a casa
 
-Rustam vuelve al vestuario, se cambia, sale de la nave. Mañana vuelve a P3 (pino de la nueva campaña de Strzałowa, ZLE-2026-06-001, primera carga de junio). Wahan estará con él como ayudante fijo. El secadero es ya historia para Rustam hasta la siguiente asistencia formativa (agosto, según lo previsto).
+Mykoła vuelve al vestuario, se cambia, sale de la nave. Mañana vuelve a P3 (pino de la nueva campaña de Strzałowa, ZLE-2026-06-001, primera carga de junio). Wasyl estará con él como ayudante fijo. El secadero es ya historia para Mykoła hasta la siguiente asistencia formativa (agosto, según lo previsto).
 
 ## Términos clave
 

@@ -163,7 +163,7 @@ D) Lo arreglas tú, así te enseñó el Sr. Henryk.
 
 **Pregunta 10 (integra T3 l8 + T3 l7, 4 puntos)**
 
-Tú, en la P3 LT70, tienes vibración de 10 Hz (descentrado de la rueda). Adrian, en la P2 LT30 (tu pupilo ese día), grita: "Rustam, creo que tengo ondulaciones en la tabla". Estás en plena escalación al Sr. Krzysztof Wood-Mizer. ¿Quién es prioritario? ¿Cómo actúas?
+Tú, en la P3 LT70, tienes vibración de 10 Hz (descentrado de la rueda). Adrian, en la P2 LT30 (tu pupilo ese día), grita: "Mykoła, creo que tengo ondulaciones en la tabla". Estás en plena escalación al Sr. Krzysztof Wood-Mizer. ¿Quién es prioritario? ¿Cómo actúas?
 
 A) Deja a Adrian solo, concéntrate en la avería urgente de la LT70.
 B) Adrian primero: detén tu LT70 (de todas formas en STOP por descentrado), camina hasta Adrian 8 m, comprueba las ondulaciones a la vista, si es desafilado de la sierra (operator-level) encarga a Adrian la sustitución bajo tu observación, rellena la anotación en su diario; después regresa a la LT70 y termina la llamada al Sr. Krzysztof.
@@ -178,7 +178,7 @@ D) STOP en ambas máquinas, espera a que llegue Marek, después arréglalo.
 
 **Pregunta 11 (integra T4 l2 + Sentencia del Tribunal Supremo polaco I NSNc 152/20, 4 puntos)**
 
-El cliente Jacek Wesołowski Dom-Bud Mrągowo llama: "Rustam, el lote de pino ZLE-2026-06-015 tiene tablas de 174 mm en lugar de los 175 mm pedidos, desisto del contrato, devolución del dinero". Tú rellenas EGIDA-RPW-001 (informe de reclamación). ¿Cómo lo clasificas y qué respuesta formulas?
+El cliente Jacek Wesołowski Dom-Bud Mrągowo llama: "Mykoła, el lote de pino ZLE-2026-06-015 tiene tablas de 174 mm en lugar de los 175 mm pedidos, desisto del contrato, devolución del dinero". Tú rellenas EGIDA-RPW-001 (informe de reclamación). ¿Cómo lo clasificas y qué respuesta formulas?
 
 A) Acepto el desistimiento, devuelvo el dinero, KEP-001 actualización a pérdida.
 B) Lo clasifico como **defecto no esencial según KC art. 556¹ § 4 + art. 560 § 4** (la tolerancia de 1 mm cabe en la PN-EN 336 ±2 mm estándar). Sentencia del Tribunal Supremo polaco I NSNc 152/20 del 17.02.2021: el defecto debe ser esencial para justificar el desistimiento. Denegación del desistimiento, propongo una rebaja de precio del 3-5% (art. 560 § 1 KC). Email al cliente según la plantilla EGIDA variante 1, firma electrónica, retención 12 meses.
@@ -191,7 +191,7 @@ D) Rehúso de manera brusca: "es una tolerancia, hasta luego".
 
 **Pregunta 12 (integra T4 l3 + T4 l1 + T3 l1-l4, 4 puntos)**
 
-El auditor de NEPCon Krzysztof Kowalski llega para la auditoría FSC-C112233. Te pregunta: "Sr. Rustam, muéstreme la chain of custody del pedido ZLE-2026-06-020 (haya MebelPro)". ¿Qué muestras?
+El auditor de NEPCon Krzysztof Kowalski llega para la auditoría FSC-C112233. Te pregunta: "Sr. Mykoła, muéstreme la chain of custody del pedido ZLE-2026-06-020 (haya MebelPro)". ¿Qué muestras?
 
 A) Solo KDP-001 (decisiones paramétricas).
 B) La cadena completa: (1) documento de recepción del paquete con etiqueta FSC, (2) KDP-001, (3) KEP-001 rellenado con Pani Ania, (4) KS-001 de todo el turno, (5) informe de secado premium Drew-Sus, (6) etiqueta del lote final, (7) registro trimestral FSC Connect, (8) factura de venta al cliente. Disponibilidad 15 min (ISO 9001).
@@ -204,7 +204,7 @@ D) Diré al auditor: "haga preguntas concretas, no generales".
 
 **Pregunta 13 (integra T4 l5 + T4 l6 + Ley de Inspección Técnica Polaca 2000, 4 puntos)**
 
-Traspasas el turno a Oleksij (M3 trainee ucraniano) rellenando EGIDA-PZ-001. En el campo "Ausencias previstas en la próxima semana" anotas: "15-19.09.2026 curso UDT IIWJO W-M + SEP G1-E en ZDZ Olsztyn, solicito permiso de formación según KP art. 103¹ § 1". Oleksij pregunta: "¿Qué te aporta financieramente?". ¿Tu respuesta?
+Traspasas el turno a Bohdan (M3 trainee ucraniano) rellenando EGIDA-PZ-001. En el campo "Ausencias previstas en la próxima semana" anotas: "15-19.09.2026 curso UDT IIWJO W-M + SEP G1-E en ZDZ Olsztyn, solicito permiso de formación según KP art. 103¹ § 1". Bohdan pregunta: "¿Qué te aporta financieramente?". ¿Tu respuesta?
 
 A) Nada, solo el diploma.
 B) Inversión de 3000 zł (UDT 2500 + SEP 500). Salario extra de 500 zł/mes (350 UDT + 150 SEP conforme al reglamento EGIDA). ROI 5,7 meses. El permiso de formación según KP art. 103¹ = pagado, no pierdo el sueldo de la semana del curso. La Ley de Inspección Técnica Polaca 2000 art. 12-13 define las habilitaciones UDT, la Ley Energética Polaca 1997 art. 54 define las habilitaciones SEP.
@@ -219,12 +219,12 @@ D) Salario menos 2500, porque el curso sale de mi bolsillo.
 
 **Pregunta 14 (integra T4 l7 M3 + M1 entero + M2 entero, 4 puntos)**
 
-Es viernes 26.06.2026 y estás con Marek en la oficina. Marek pregunta: "Rustam, tres imágenes de tu camino, ¿cuáles elegirías para el resumen?". ¿Qué respuesta muestra **comprensión del meta-principio del arco cuerpo -> lote -> turno**?
+Es viernes 26.06.2026 y estás con Marek en la oficina. Marek pregunta: "Mykoła, tres imágenes de tu camino, ¿cuáles elegirías para el resumen?". ¿Qué respuesta muestra **comprensión del meta-principio del arco cuerpo -> lote -> turno**?
 
 A) Noviembre de 2025 ayudante -> marzo de 2026 operador -> junio de 2026 capataz.
 B) M1 mi cuerpo y el de los compañeros en un radio de 5 m (gestos de PARADA, polvo IARC, botas S3) -> M2 lote de 1-3 m³ bajo mi herramienta (parámetros de la sierra, humedad, clase A/B/C/D) -> M3 turno de 8 horas con 15 personas (4 canales de comunicación, KAO-001 de Adrian, reclamación del cliente, margen del lote 5-15 mil zł diarios). La responsabilidad crece de forma concéntrica, no lineal.
 C) M1 barato -> M2 más caro -> M3 el curso más caro.
-D) Wahan -> Damian -> en solitario, sin tutor.
+D) Wasyl -> Damian -> en solitario, sin tutor.
 
 *Justifica desarrollando el meta-principio 1 de l7 M3 + aporta un caso concreto de cada módulo.*
 
@@ -234,7 +234,7 @@ D) Wahan -> Damian -> en solitario, sin tutor.
 
 ¿Cuál de las situaciones de tu camino de 9 meses **muestra mejor** el meta-principio 3 "de recibir órdenes a dar órdenes" en acción?
 
-A) Wahan te dice "pásame el tronco" en noviembre de 2025.
+A) Wasyl te dice "pásame el tronco" en noviembre de 2025.
 B) Tú dices a Adrian "para la sierra, cambia la cinta, baja la velocidad de avance al 62%" en junio de 2026, firmas KAO-001. Es una orden operativa formal (oral + escrita) con responsabilidad legal según KP art. 120 § 1 y § 2 + KP art. 100 § 1. Has pasado de que te dieran órdenes a darlas tú.
 C) Damian te muestra cómo conectar las guías en marzo de 2026.
 D) Marek firma tu KDP-001.
@@ -256,9 +256,9 @@ Cada pregunta 4 puntos con la siguiente distribución:
 
 ### Respuestas y justificaciones modelo
 
-**Preg. 1: C**. Golpeteo del rodamiento + vibración de 10 Hz en la empuñadura + corte ondulado = descentrado de la rueda > 0,5 mm (l8 T3, caso de Rustam del 17.06.2026). Límite externo duro: la sustitución del rodamiento requiere prensa hidráulica + precinto antimanipulación + UDT de la prensa + garantía de servicio Wood-Mizer. Cruzar el límite = pérdida de la garantía + responsabilidad de PRL + KP art. 120 § 1 (daño a la máquina). PARADA, KKS-001, llamada a Marek, Marek al Sr. Krzysztof Wood-Mizer Polska.
+**Preg. 1: C**. Golpeteo del rodamiento + vibración de 10 Hz en la empuñadura + corte ondulado = descentrado de la rueda > 0,5 mm (l8 T3, caso de Mykoła del 17.06.2026). Límite externo duro: la sustitución del rodamiento requiere prensa hidráulica + precinto antimanipulación + UDT de la prensa + garantía de servicio Wood-Mizer. Cruzar el límite = pérdida de la garantía + responsabilidad de PRL + KP art. 120 § 1 (daño a la máquina). PARADA, KKS-001, llamada a Marek, Marek al Sr. Krzysztof Wood-Mizer Polska.
 
-**Preg. 2: A**. Esquema A cant sawing + stellite 7/8-A13 + 32 r/min + 2200 PSI = parámetros estándar para pino fresco con cliente de construcción (l5 T1 M3 + l1 T3 M3 caso de Rustam ZLE-077). Margen +600-900 zł frente al promedio ±2800 zł de potencial de las decisiones paramétricas (l6 T3). El esquema B (quarter sawing) es innecesario para viguetas de construcción (eso es cliente de muebles), el esquema C es extremadamente arriesgado (1900 PSI demasiado bajo para pino fresco), el esquema D es excesivamente caro.
+**Preg. 2: A**. Esquema A cant sawing + stellite 7/8-A13 + 32 r/min + 2200 PSI = parámetros estándar para pino fresco con cliente de construcción (l5 T1 M3 + l1 T3 M3 caso de Mykoła ZLE-077). Margen +600-900 zł frente al promedio ±2800 zł de potencial de las decisiones paramétricas (l6 T3). El esquema B (quarter sawing) es innecesario para viguetas de construcción (eso es cliente de muebles), el esquema C es extremadamente arriesgado (1900 PSI demasiado bajo para pino fresco), el esquema D es excesivamente caro.
 
 **Preg. 3: B**. KP art. 120 § 1: "el trabajador asume la responsabilidad material dentro de los límites de la pérdida real". KP art. 120 § 2: "la indemnización no puede exceder la remuneración de tres meses". Limitación a 3 sueldos (aprox. 11000 zł). En la práctica 1/3 del daño si fue no intencional = aprox. 1400 zł descontados. El margen negativo de 529 zł = economía del aserradero, no daño del operador (l6 T3 M3). La intencionalidad del KP art. 122 § 1 = daño íntegro, pero aquí no hay intencionalidad (el operador se equivocó de parámetros).
 
@@ -284,7 +284,7 @@ Cada pregunta 4 puntos con la siguiente distribución:
 
 **Preg. 14: B**. Meta-principio 1 de l7 M3: la responsabilidad crece de forma concéntrica (cuerpo -> lote -> turno), no lineal. M1 = cuerpo propio + cuerpos de compañeros 5 m (3 gestos de PARADA, polvo IARC 1, botas S3, protectores auditivos 85 dB, transporte 30 kg hombre, plaza de troncos 37% de muertes). M2 = lote de 1-3 m³ bajo la herramienta (sierra 2200-2400 PSI, MC final 12-15% construcción, clase A/B/C/D regla del más débil, diario de 8 campos, 4W). M3 = turno de 8 horas con 15 personas (4 canales de comunicación, KAO-001, EGIDA-PZ-001, reclamación KC, margen 5-15 mil zł diarios).
 
-**Preg. 15: B**. Meta-principio 3 de l7 M3: "de recibir órdenes a dar órdenes". Orden oral "para, cambia la cinta, baja al 62%" + KAO-001 escrita = responsabilidad de doble capa: (a) oral con fuerza supervisora (Adrian obediente), (b) escrita con fuerza probatoria (KAO-001 al expediente personal, retención 10 años, prueba para la auditoría). KP art. 100 § 1 obligaciones del trabajador frente al superior. KP art. 120 § 1 y § 2 responsabilidad por el daño al dar la orden. Rustam ha pasado: M1 receptor (Wahan "pásame el tronco") -> M2 compañero (Damian enseña, Rustam pregunta) -> M3 emisor (Rustam "para" + firma).
+**Preg. 15: B**. Meta-principio 3 de l7 M3: "de recibir órdenes a dar órdenes". Orden oral "para, cambia la cinta, baja al 62%" + KAO-001 escrita = responsabilidad de doble capa: (a) oral con fuerza supervisora (Adrian obediente), (b) escrita con fuerza probatoria (KAO-001 al expediente personal, retención 10 años, prueba para la auditoría). KP art. 100 § 1 obligaciones del trabajador frente al superior. KP art. 120 § 1 y § 2 responsabilidad por el daño al dar la orden. Mykoła ha pasado: M1 receptor (Wasyl "pásame el tronco") -> M2 compañero (Damian enseña, Mykoła pregunta) -> M3 emisor (Mykoła "para" + firma).
 
 ---
 

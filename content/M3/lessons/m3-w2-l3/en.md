@@ -6,17 +6,17 @@ czas: 120
 
 ## Introduction
 
-Thursday, 2026-05-07, 9:10. Rustam's second day of grading assistance. Yesterday he went through 60 spruce boards with Ms. Ania under PN-EN 1611-1 (visual grading, aesthetic and geometric criteria: knots, cracks, wane, bow, biological defects). Today Ms. Ania has a **different conversation** for him: strength grading. Different criteria, a different standard, a different accreditation.
+Thursday, 2026-05-07, 9:10. Mykoła's second day of grading assistance. Yesterday he went through 60 spruce boards with Ms. Ania under PN-EN 1611-1 (visual grading, aesthetic and geometric criteria: knots, cracks, wane, bow, biological defects). Today Ms. Ania has a **different conversation** for him: strength grading. Different criteria, a different standard, a different accreditation.
 
 The grader's booth, 9:10. On the table lies **one board**, not sixty. Scots pine (*Pinus sylvestris*), cross-section 50 × 150 mm, length 4.2 m, after initial drying to 18% moisture content. The board is destined for a residential floor beam (a detached house in Piaseczno, a construction order for the "Dom-Bud" firm with delivery next week). The client ordered **class C24** (bending capacity of at least 24 N/mm²). Ms. Ania is to assess whether this board meets that class.
 
-> **Ms. Ania:** "Good morning, Rustam. Yesterday we were grading visually. I assessed how the board **looks**: knots, cracks, bow. Today I will assess how much the board **will carry**: strength, stiffness, density. A different matter. For this board the client is not buying appearance, he is buying a beam that will carry 24 N/mm² in bending, without fracture. The building carpenter will see the beam in the floor, but the beam must first of all **carry the ceiling**, the upper-storey floor, the furniture, the people. This is a strength task."
+> **Ms. Ania:** "Good morning, Mykoła. Yesterday we were grading visually. I assessed how the board **looks**: knots, cracks, bow. Today I will assess how much the board **will carry**: strength, stiffness, density. A different matter. For this board the client is not buying appearance, he is buying a beam that will carry 24 N/mm² in bending, without fracture. The building carpenter will see the beam in the floor, but the beam must first of all **carry the ceiling**, the upper-storey floor, the furniture, the people. This is a strength task."
 >
-> **Rustam:** "But it looks the same, a pine board 50 × 150 × 4200 mm. What is the difference?"
+> **Mykoła:** "But it looks the same, a pine board 50 × 150 × 4200 mm. What is the difference?"
 >
 > **Ms. Ania:** "The difference: yesterday I was looking under PN-EN 1611-1, classes G2-0 to G2-3. Today I look under PN-EN 14081-3, classes C16, C24, C30, C35. C classes are bending strength in N/mm². C16 = minimum 16, C24 = minimum 24, C30 = minimum 30. The number in the class code is the characteristic bending-strength value, with a 95% guarantee (that is, 95 boards out of 100 in that class will meet the threshold, one or two may be slightly weaker, but the average is guaranteed)."
 
-Rustam nods and opens a new notebook. Today is Thursday, nine in the morning, four ten. He will learn a second standard, a second language of grading. In a moment Ms. Ania will show him why she has a **second certificate** (ITB accreditation from 2020 on the booth wall), and why even the other visual graders at EGIDA (Ms. Grażyna, Mr. Mirosław) cannot sign C-class marks without this additional accreditation.
+Mykoła nods and opens a new notebook. Today is Thursday, nine in the morning, four ten. He will learn a second standard, a second language of grading. In a moment Ms. Ania will show him why she has a **second certificate** (ITB accreditation from 2020 on the booth wall), and why even the other visual graders at EGIDA (Ms. Grażyna, Mr. Mirosław) cannot sign C-class marks without this additional accreditation.
 
 ## Objectives
 
@@ -202,46 +202,46 @@ The **Building Research Institute (ITB, Instytut Techniki Budowlanej)** in Warsa
 **In Poland about 2400 people hold ITB accreditation** (status as of 2024 according to the PCA register). For comparison, about 8500 people hold the visual PN-EN 1611-1 certificate. The 1:3.5 ratio shows that strength graders are **harder to qualify** (they require deeper mathematical-engineering knowledge) and rarer on the market.
 
 ::: tip
-Ms. Ania obtained ITB accreditation in 2020, after 6 years of working as a visual grader at EGIDA. She refreshed it in 2023 (within the margin), with the next refresher planned for 2026. At EGIDA ITB accreditation is held by: Ms. Ania (lead), Mr. Mirosław (retired consultant), and one additional grader from neighbouring Ośno Lubuskie (under a standby arrangement). Ms. Grażyna (visual grader) is at the preparation stage for ITB accreditation, with the exam scheduled for September 2026. When Rustam obtains his visual certificate in 2030, he will be able to consider ITB accreditation around 2032 (two years of practice plus training). The path from helper operator (M1) to full strength grader is about 8-10 years.
+Ms. Ania obtained ITB accreditation in 2020, after 6 years of working as a visual grader at EGIDA. She refreshed it in 2023 (within the margin), with the next refresher planned for 2026. At EGIDA ITB accreditation is held by: Ms. Ania (lead), Mr. Mirosław (retired consultant), and one additional grader from neighbouring Ośno Lubuskie (under a standby arrangement). Ms. Grażyna (visual grader) is at the preparation stage for ITB accreditation, with the exam scheduled for September 2026. When Mykoła obtains his visual certificate in 2030, he will be able to consider ITB accreditation around 2032 (two years of practice plus training). The path from helper operator (M1) to full strength grader is about 8-10 years.
 :::
 
 ### Strength-grading scene: pine from Piaseczno, 9:40-10:30
 
 Ms. Ania picks up the pine board. She puts it on the table. She switches on the overhead lamp, takes a 1 m rule, calipers, and a pin for the slope of grain.
 
-> **Ms. Ania:** "First indicator: ring width. Look at the end of the board, Rustam. I count 10 consecutive rings in the dominant zone."
+> **Ms. Ania:** "First indicator: ring width. Look at the end of the board, Mykoła. I count 10 consecutive rings in the dominant zone."
 
-Rustam looks on. Ms. Ania measures 10 rings with the rule, says: "38 mm over 10 rings = 3.8 mm/ring. Dense wood, capable of class C24 or higher."
+Mykoła looks on. Ms. Ania measures 10 rings with the rule, says: "38 mm over 10 rings = 3.8 mm/ring. Dense wood, capable of class C24 or higher."
 
 > **Ms. Ania:** "Second indicator: slope of grain. Take this pin. We will drive it along the fibre to a depth of 100 mm. Watch how the pin deviates from the board's axis."
 
-Rustam drives the pin in. After 100 mm of depth the pin deviates 8 mm from the vertical. Ms. Ania calculates: "8 mm of deviation over 100 mm of depth, that is a slope of 1:12.5. The threshold for C24 is 1:10, we fit within it. Still good for C30 (the 1:14 threshold not reached)."
+Mykoła drives the pin in. After 100 mm of depth the pin deviates 8 mm from the vertical. Ms. Ania calculates: "8 mm of deviation over 100 mm of depth, that is a slope of 1:12.5. The threshold for C24 is 1:10, we fit within it. Still good for C30 (the 1:14 threshold not reached)."
 
 > **Ms. Ania:** "Third: knots. Measure all knots over 5 mm in diameter, their location in the cross-section."
 
-Rustam measures: "Knot 1 in the central zone, 18 mm. Knot 2 on the upper edge (compression), 32 mm. Knot 3 in the central zone, 12 mm. Knot 4 on the lower edge (tension), 18 mm. Knot 5 on the upper edge, 25 mm."
+Mykoła measures: "Knot 1 in the central zone, 18 mm. Knot 2 on the upper edge (compression), 32 mm. Knot 3 in the central zone, 12 mm. Knot 4 on the lower edge (tension), 18 mm. Knot 5 on the upper edge, 25 mm."
 
 > **Ms. Ania:** "The most important one: knot 4, in the tension zone, 18 mm. Board cross-section 50 × 150, the tension zone is the lower 1/3 = 50 mm. A knot of 18 mm over 50 mm of zone height = 36%. The threshold for C24 is 1/3 = 33%. We exceed it. **It drops to C16.**"
 
-Rustam looks on, not understanding: "The whole board, because of one knot of 18 mm?"
+Mykoła looks on, not understanding: "The whole board, because of one knot of 18 mm?"
 
 > **Ms. Ania:** "Yes. In strength grading location is **critical**. A knot in the tension zone concentrates stresses. If that knot were shifted 20 mm upward (into the neutral zone), we would have C24. But it is in the tension zone, in the lower 1/3 of the cross-section. The class is lowered to C16."
 >
-> **Rustam:** "And what if we change the orientation of the board? The tensioned side up, the compressed side down?"
+> **Mykoła:** "And what if we change the orientation of the board? The tensioned side up, the compressed side down?"
 >
 > **Ms. Ania:** "Good question. For this board in the floor one can indeed do that, because the knot is a single one. But then knots 2 and 5 (25 and 32 mm) are in the tension zone (flipped), and they also exceed 1/3 = 50 mm, 25 and 32 mm being 50% and 64%. We exceed the threshold. It falls below C16. In that orientation it is even worse."
 >
-> **Rustam:** "So the board has to go as C16, if we keep the original orientation."
+> **Mykoła:** "So the board has to go as C16, if we keep the original orientation."
 >
 > **Ms. Ania:** "Yes. We record **C16** with a note about the lower tension edge (the mark C16↓)."
 
 Ms. Ania fills in the form. Class C16. The board **does not meet** the client's order (C24). It goes onto the C16 stack (other orders, e.g., economy roof trusses). For the order from the Piaseczno client the grader has to find another board.
 
-> **Ms. Ania** (to Rustam): "This is today's lesson. By appearance the board looks like a proper C24. After the measurements it comes out as C16. Strength grading **does not forgive**. One knot in the wrong place, the class drops. This is why a C24 client pays more: not for the board, but for the **selection**. We cut and grade 100 boards to find 40 C24s (plus 45 C16, 10 below, 5 rejects). The price of C24 includes the cost of that selection."
+> **Ms. Ania** (to Mykoła): "This is today's lesson. By appearance the board looks like a proper C24. After the measurements it comes out as C16. Strength grading **does not forgive**. One knot in the wrong place, the class drops. This is why a C24 client pays more: not for the board, but for the **selection**. We cut and grade 100 boards to find 40 C24s (plus 45 C16, 10 below, 5 rejects). The price of C24 includes the cost of that selection."
 
-Rustam writes everything down in his notebook. The second lesson of the assistance. The first board of the day has ended with **a class drop below the order**. For the Piaseczno client Ms. Ania will take the next board, and the next, until she finds 40 boards meeting C24 from a 60-board batch.
+Mykoła writes everything down in his notebook. The second lesson of the assistance. The first board of the day has ended with **a class drop below the order**. For the Piaseczno client Ms. Ania will take the next board, and the next, until she finds 40 boards meeting C24 from a 60-board batch.
 
-### What Rustam records in the documentation
+### What Mykoła records in the documentation
 
 EGIDA form KLS-001 (structural grading card) for each C-class board:
 
@@ -254,7 +254,7 @@ EGIDA form KLS-001 (structural grading card) for each C-class board:
 - **Final class**: C16, C24, C30, C35, or "reject" (below C16).
 - **Orientation marking**: arrow indicating the lower edge (tension) for floor beams.
 - **Strength grader's signature** (mandatory, with the ITB accreditation number).
-- **Assistant's signature**: Rustam signs to confirm participation in the measurements.
+- **Assistant's signature**: Mykoła signs to confirm participation in the measurements.
 
 The KLS-001 card goes into the batch file, with a **10-year** retention (longer than for visual grading, because structural complaints often occur 5-8 years after construction, when the structure is working under variable loads).
 
@@ -270,7 +270,7 @@ ITB accreditation for strength graders: 14-day training, a 50-board exam, 3-year
 
 Ms. Ania at EGIDA holds both: the PN-EN 1611-1 certificate (visual, since 2014) and ITB accreditation for PN-EN 14081 (strength, since 2020, refreshed 2023). She grades both sides of wood (appearance + load capacity) within one batch.
 
-Today Rustam has learned that **one knot in the wrong place** lowers the class from C24 to C16. A board that looked proper came out as C16 on the measurements. The C24 client pays more for the **selection**, not for the board itself. Selection requires a grader with ITB accreditation who measures objectively.
+Today Mykoła has learned that **one knot in the wrong place** lowers the class from C24 to C16. A board that looked proper came out as C16 on the measurements. The C24 client pays more for the **selection**, not for the board itself. Selection requires a grader with ITB accreditation who measures objectively.
 
 In the next lesson (m3-w2-l4) we move from grading criteria to **the uses of classes at the client**: what C16, C24, C30, C35 mean for the joiner, the builder, the architect. Why a client on one project accepts C24 and another requires C30.
 

@@ -197,7 +197,7 @@ W polskim jest **7 głosek**, które prawdopodobnie nie występują w twoim jęz
 Brzmi skomplikowanie? **Nie martw się**. Brygadzista wielokrotnie słyszał migrantów, którzy mówią „KLO-da" zamiast „KWO-da" albo „siekh" zamiast „śe". **Zrozumie kontekst**. Ale musisz próbować.
 
 ::: example
-**Z życia**: pomocnik z Wietnamu, tartak pod Radomiem, trzeci tydzień pracy. W języku wietnamskim nie ma głoski „ł", „ś", „ć". Wietnamczyk nauczył się 30 słów pasywnie w tydzień (bo rozumienie ze słuchu nie wymaga produkcji), ale produkcji aktywnej uczył się przez miesiąc. Na początku mówił „KLODA" zamiast „KWODA". Brygadzista rozumiał. Po 3 tygodniach słyszał, że „KLODA" to nie „KWODA", ale brzmi wystarczająco podobnie. Po 2 miesiącach wietnamski pomocnik wymawiał „KWODA" poprawnie. **Wniosek**: niedoskonała wymowa nie jest problemem, **brak próby** jest problemem. Brygadzista ocenia twoje starania, nie twoją fonetykę.
+**Z życia**: pomocnik z Kolumbii, tartak pod Radomiem, trzeci tydzień pracy. W języku hiszpańskim nie ma głoski „ł", „ś", „ć" jako odrębnych fonemów. Kolumbijczyk nauczył się 30 słów pasywnie w tydzień (bo rozumienie ze słuchu nie wymaga produkcji), ale produkcji aktywnej uczył się przez miesiąc. Na początku mówił „KLODA" zamiast „KWODA". Brygadzista rozumiał. Po 3 tygodniach słyszał, że „KLODA" to nie „KWODA", ale brzmi wystarczająco podobnie. Po 2 miesiącach kolumbijski pomocnik wymawiał „KWODA" poprawnie. **Wniosek**: niedoskonała wymowa nie jest problemem, **brak próby** jest problemem. Brygadzista ocenia twoje starania, nie twoją fonetykę.
 :::
 
 ### 5 grzeczności dziennych
@@ -214,7 +214,7 @@ Te **5 słów** musisz umieć wymówić od pierwszego dnia:
 
 **„przepraszam"** (pże-PRA-szam) – kiedy się pomylisz, kiedy musisz przerwać komuś pracę, kiedy coś przeszkadza. Nie jest to przyznanie się do winy (jak w angielskim „sorry"), tylko zwykła uprzejmość.
 
-**Te 5 słów tworzy „ludzką warstwę"** między tobą a brygadą. Bez nich jesteś „tym obcym, który pracuje". Z nimi jesteś „tym kolegą z Ukrainy / Białorusi / Gruzji / Wietnamu, który dobrze się ułożył w zespół".
+**Te 5 słów tworzy „ludzką warstwę"** między tobą a brygadą. Bez nich jesteś „tym obcym, który pracuje". Z nimi jesteś „tym kolegą z Ukrainy / Kolumbii / Wenezueli / Peru, który dobrze się ułożył w zespół".
 
 ### 5 strategii uczenia się polskiego w zakładzie
 
@@ -224,7 +224,7 @@ Te **5 słów** musisz umieć wymówić od pierwszego dnia:
 
 **Strategia 3 – 5 minut wieczorem**. Po pracy, zanim zaczniesz obiad, 5 minut powtarzasz listę głośno. Nawet jeśli jesteś zmęczony. To jest ten **1 procent wysiłku dziennie**, który po roku daje ci znajomość polskiego na poziomie A2.
 
-**Strategia 4 – kolega pomocnik**. Jeśli w brygadzie jest drugi pomocnik (Wietnamczyk, Mołdawianin, Ukrainiec), uczcie się razem. Jeden mówi słowo, drugi tłumaczy na swój język. Wzajemne tłumaczenie pomaga lepiej niż samotne kucie.
+**Strategia 4 – kolega pomocnik**. Jeśli w brygadzie jest drugi pomocnik (Kolumbijczyk, Ukrainiec, Wenezuelczyk), uczcie się razem. Jeden mówi słowo, drugi tłumaczy na swój język. Wzajemne tłumaczenie pomaga lepiej niż samotne kucie.
 
 **Strategia 5 – nie bój się błędów**. Błędy są **normalne**. Polacy wiedzą, że migrant mówi z błędami przez pierwszy rok. Lepiej powiedzieć „proszę kloda" (błąd fonetyczny – powinno być „kłoda", ale zrozumiały) niż milczeć, bo się wstydzisz. **Milczący migrant** jest w brygadzie gorzej odbierany niż **migrant, który mówi z błędami**. Mówienie = próba. Próba = szacunek dla kolegów.
 

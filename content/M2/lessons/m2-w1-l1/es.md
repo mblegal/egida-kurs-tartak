@@ -55,7 +55,7 @@ Este ritual lo repetirás en M2 mil veces. Tres pasos, tres palabras cortas.
 
 Diálogo que oirás mañana (apréndelo de memoria):
 
-> – **Brygadzista:** „Sprawdź, Hai." [Comprueba, Hai.]
+> – **Brygadzista:** „Sprawdź, Andrij." [Comprueba, Andrij.]
 >
 > – **Tú:** [haces la lista de comprobación] „Sprawdzone, Marek." [Comprobado, Marek.]
 >
@@ -71,24 +71,24 @@ Diálogo que oirás mañana (apréndelo de memoria):
 Fíjate en tres cosas. Primero, el *brygadzista* te llama **por tu nombre**, no „eh". Segundo, cada palabra es **corta** (95 dB de ruido, las frases largas no las oirás). Tercero, **el reporte no es una pregunta**. Dices una afirmación, el *brygadzista* la confirma. Eso ahorra tiempo y no obliga al capataz a adivinar.
 :::
 
-### Cómo se ve en la práctica: Hai el primer día
+### Cómo se ve en la práctica: Andrij el primer día
 
-Hai es de Vietnam. Lo conociste en M1, cuando aprendía a pronunciar la palabra „kłoda" (rollizo). Durante las dos primeras semanas decía „kwoda" y el *brygadzista* lo corregía. Tras cuatro semanas la „ł" salió de su memoria muscular y Hai ya no tiene que pensar en la pronunciación.
+Andrij es de Leópolis en Ucrania. Lo conociste en M1, cuando aprendía a pronunciar la palabra „kłoda" (rollizo). Durante las dos primeras semanas decía „kwoda" y el *brygadzista* lo corregía. Tras cuatro semanas la „ł" salió de su memoria muscular y Andrij ya no tiene que pensar en la pronunciación.
 
-Hoy Hai está por primera vez solo frente a la sierra de cinta. A su lado, Marek, el *brygadzista*, sujeta la ficha del puesto con la fecha de hoy y una casilla vacía para la firma. Hai mira los cinco puntos de la lista de comprobación. Todo se ve bien: protección cerrada, cinta tensada, extractor zumbando, marcha en vacío fluida, nadie alrededor de la máquina.
+Hoy Andrij está por primera vez solo frente a la sierra de cinta. A su lado, Marek, el *brygadzista*, sujeta la ficha del puesto con la fecha de hoy y una casilla vacía para la firma. Andrij mira los cinco puntos de la lista de comprobación. Todo se ve bien: protección cerrada, cinta tensada, extractor zumbando, marcha en vacío fluida, nadie alrededor de la máquina.
 
-Durante una fracción de segundo Hai piensa: „todo se ve, el *brygadzista* lo ve, basta con apretar." La mano se dirige al pulsador verde. Pero se detiene a mitad de camino. Hai recuerda lo que le dijo el instructor: **un gesto de cabeza no es autorización**. Gira la cabeza hacia Marek.
+Durante una fracción de segundo Andrij piensa: „todo se ve, el *brygadzista* lo ve, basta con apretar." La mano se dirige al pulsador verde. Pero se detiene a mitad de camino. Andrij recuerda lo que le dijo el instructor: **un gesto de cabeza no es autorización**. Gira la cabeza hacia Marek.
 
 „Sprawdzone, Marek."
 
-Marek mira a Hai, no a la máquina. „Ruszasz, Hai."
+Marek mira a Andrij, no a la máquina. „Ruszasz, Andrij."
 
-Hai aprieta el pulsador verde. La cinta arranca. Los primeros 10 segundos mira solo a la cinta. Sonido regular. La cinta no se desvía. Coge la primera tabla. Tras 20 minutos reporta: „Jakość dobra, taśma ciepła." Marek confirma: „Dobrze. Dalej."
+Andrij aprieta el pulsador verde. La cinta arranca. Los primeros 10 segundos mira solo a la cinta. Sonido regular. La cinta no se desvía. Coge la primera tabla. Tras 20 minutos reporta: „Jakość dobra, taśma ciepła." Marek confirma: „Dobrze. Dalej."
 
-Hai siente entonces algo que no esperaba antes del mediodía. Lágrimas. No de miedo, sino **de alivio**. Durante cuatro semanas de M1 miraba cómo otros arrancaban las máquinas. Hoy ha arrancado la suya. Correctamente. Con las palabras del *brygadzista*. Sin atajos.
+Andrij siente entonces algo que no esperaba antes del mediodía. Lágrimas. No de miedo, sino **de alivio**. Durante cuatro semanas de M1 miraba cómo otros arrancaban las máquinas. Hoy ha arrancado la suya. Correctamente. Con las palabras del *brygadzista*. Sin atajos.
 
 ::: tip
-La emoción que sintió Hai tras su primer ciclo correcto tiene un nombre en la psicología del trabajo: **cierre de rol**. Dejas de ser „el que aprende" y empiezas a ser „el que hace". Ese momento vendrá a ti en la primera semana de M2. No lo temas. Es una señal de que el cuerpo ha entendido el papel antes que la cabeza.
+La emoción que sintió Andrij tras su primer ciclo correcto tiene un nombre en la psicología del trabajo: **cierre de rol**. Dejas de ser „el que aprende" y empiezas a ser „el que hace". Ese momento vendrá a ti en la primera semana de M2. No lo temas. Es una señal de que el cuerpo ha entendido el papel antes que la cabeza.
 :::
 
 ### Cinco trampas típicas del primer mes de M2
@@ -191,8 +191,8 @@ Lleva el cuaderno a la lección de la tarde l2 („EPI del operador"). La discus
 
 ## Notas para el formador
 
-- **Ritmo de 120 min (propuesto):** 15 min Introducción + Objetivos; 20 min „Qué ha cambiado" + „Autorización"; 20 min „Ritual *sprawdź – uruchom – zgłoś*" (con escenificación del diálogo en parejas); 20 min narración de Hai (lectura con pausas, preguntas abiertas); 15 min cinco trampas (lluvia de ideas, a quién le amenaza cuál); 10 min Términos clave (pronunciación común); 20 min Mapa de la carrera (en la pizarra, cada alumno marca dónde quiere estar).
-- **Trampa pedagógica nº 1:** la sección „Hai el primer día" contiene un momento emocional (lágrimas de alivio). No la saltes y no la comentes con ironía. Para una parte de los alumnos esta es la primera vez que oyen que **la emoción del trabajador es admisible en una planta polaca**. Deja silencio tras ese fragmento.
+- **Ritmo de 120 min (propuesto):** 15 min Introducción + Objetivos; 20 min „Qué ha cambiado" + „Autorización"; 20 min „Ritual *sprawdź – uruchom – zgłoś*" (con escenificación del diálogo en parejas); 20 min narración de Andrij (lectura con pausas, preguntas abiertas); 15 min cinco trampas (lluvia de ideas, a quién le amenaza cuál); 10 min Términos clave (pronunciación común); 20 min Mapa de la carrera (en la pizarra, cada alumno marca dónde quiere estar).
+- **Trampa pedagógica nº 1:** la sección „Andrij el primer día" contiene un momento emocional (lágrimas de alivio). No la saltes y no la comentes con ironía. Para una parte de los alumnos esta es la primera vez que oyen que **la emoción del trabajador es admisible en una planta polaca**. Deja silencio tras ese fragmento.
 - **Trampa pedagógica nº 2:** la autoevaluación de las 12 reglas puede tentar al alumno a „rellenarla por salir del paso". Hazla en voz alta, en rueda, cada uno con una regla. Si alguien marca „tengo que repasar" en más de tres reglas, prográmale una hora individual de repaso con M1 l7.
 - **Mapa de carrera:** dibuja los cuatro peldaños en la pizarra, de abajo arriba. Pide a cada alumno que **marque con una cruz** en qué peldaño quiere estar dentro de un año. No comentes las elecciones. El mapa debe mostrar que hay distintos caminos disponibles, no imponer uno.
 - **Vuelta a esta lección:** haz referencia al ritual *sprawdź – uruchom – zgłoś* en cada lección de esta semana (l2 EPI, l3 STOP > START, l4 lista de comprobación, l5 Reglamento MG, l6 polvo, l7 atascos, l8 primeros auxilios). Ese ritual es el eje de todo M2, no solo de la introducción.

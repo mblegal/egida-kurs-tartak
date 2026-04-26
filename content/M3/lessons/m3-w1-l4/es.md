@@ -10,11 +10,11 @@ La lección de ayer (l3) te dio el fundamento jurídico: art. 100 § 1, art. 210
 
 El procedimiento se llama *"STOP – zabezpiecz – zgłoś – udokumentuj"* (en español, "STOP – asegurar – reportar – documentar"). Cuatro pasos, siempre en este orden, sin atajos. Cada paso dura segundos o pocos minutos. En conjunto, menos de quince minutos desde la detección hasta la entrega del puesto al superior.
 
-Hoy es jueves, 11:14. Rustam está solo en la sierra de cinta P3: Wahan fue destinado ayer a una formación sobre EPI (equipos de protección individual) y vuelve tras el almuerzo. En la P2, a cinco metros, trabaja Murat Kaya, operador junior turco de la cohorte M2, que hoy sustituye a Hai (de vacaciones). Rustam procesa el lote 54, tercer lote de roble de la semana.
+Hoy es jueves, 11:14. Mykoła está solo en la sierra de cinta P3: Wasyl fue destinado ayer a una formación sobre EPI (equipos de protección individual) y vuelve tras el almuerzo. En la P2, a cinco metros, trabaja Murat Kaya, operador junior turco de la cohorte M2, que hoy sustituye a Andrij (de vacaciones). Mykoła procesa el lote 54, tercer lote de roble de la semana.
 
-A las 11:14 algo no suena bien. El oído de un operador con siete meses en la sierra escucha la máquina como un músico escucha un acorde. Hoy suena desafinado. Rustam no sabe por qué, pero **sabe que no suena bien**. Dentro de siete minutos habrá ejecutado el procedimiento STOP completo. Dentro de veinte la P3 estará asegurada, el superior informado, y habrá entrada de tres líneas en el diario. Dentro de una hora, UR (*utrzymanie ruchu*, departamento de mantenimiento) confirmará: microfisura en la base del diente de la cinta, a dos centímetros de la soldadura, visible solo con luz lateral. Sin parada, la cinta se habría roto en las dos horas siguientes. La rotura a 32 m/s es un peligro real del que aprendiste en M2 l5.
+A las 11:14 algo no suena bien. El oído de un operador con siete meses en la sierra escucha la máquina como un músico escucha un acorde. Hoy suena desafinado. Mykoła no sabe por qué, pero **sabe que no suena bien**. Dentro de siete minutos habrá ejecutado el procedimiento STOP completo. Dentro de veinte la P3 estará asegurada, el superior informado, y habrá entrada de tres líneas en el diario. Dentro de una hora, UR (*utrzymanie ruchu*, departamento de mantenimiento) confirmará: microfisura en la base del diente de la cinta, a dos centímetros de la soldadura, visible solo con luz lateral. Sin parada, la cinta se habría roto en las dos horas siguientes. La rotura a 32 m/s es un peligro real del que aprendiste en M2 l5.
 
-¿Cómo es que Rustam supo qué hacer, aunque no vio la microfisura con sus propios ojos? En eso está la diferencia entre un operador junior y un operador independiente.
+¿Cómo es que Mykoła supo qué hacer, aunque no vio la microfisura con sus propios ojos? En eso está la diferencia entre un operador junior y un operador independiente.
 
 ## Objetivos
 
@@ -38,7 +38,7 @@ El orden es rígido, porque cambiarlo conduce al accidente. Si primero reportas 
 Los cuatro pasos son así:
 
 1. **STOP.** Para la máquina. Inmediatamente. Botón verde abajo, si el ciclo es normal. Rojo o de emergencia, si la situación es aguda. Cinco segundos, no más.
-2. **Asegurar.** LOTO: apagar la alimentación, aislarla (interruptor general abajo), bloquear el interruptor con candado o cubierta, etiquetar con una tarjeta "NO CONECTAR – trabajos de control, Rustam Nazarov, 11:14". Comprobar que la máquina realmente no puede arrancar.
+2. **Asegurar.** LOTO: apagar la alimentación, aislarla (interruptor general abajo), bloquear el interruptor con candado o cubierta, etiquetar con una tarjeta "NO CONECTAR – trabajos de control, Mykoła Hrycenko, 11:14". Comprobar que la máquina realmente no puede arrancar.
 3. **Reportar.** Llama al capataz por el teléfono interno. Di tres cosas en una frase: qué, cuándo, quién. "Marek, P3 parada, 11:14, he detectado un sonido atípico de la cinta, espero a UR."
 4. **Documentar.** Abre el diario de la máquina. Anota: fecha y hora, motivo de la parada, estado actual del lote, tu evaluación del riesgo. Tres o cuatro líneas. Firma.
 
@@ -62,7 +62,7 @@ El STOP es un acto reflejo, pero basado en un **diagnóstico sensorial**. El ope
 
 **Canal 5: imagen.** Humo, chispas, polvo arremolinado de otra manera, aceite en el suelo, fisura visible, mancha que ayer no estaba. El ojo suele ser el **último** canal, porque la vista del operador está fijada en el rollizo, no en la máquina. Por eso el buen operador hace una **ronda visual** cada dos horas: tres pasos alrededor, mirando lo que no se ve durante el ciclo.
 
-Rustam hoy ha usado el **canal 1**. El sonido de la cinta a las 11:14 tenía un microfragmento de baja frecuencia que por la mañana no estaba. Rustam no sabría nombrarlo físicamente. Pero **oyó la diferencia** respecto a la mañana. Con eso bastó.
+Mykoła hoy ha usado el **canal 1**. El sonido de la cinta a las 11:14 tenía un microfragmento de baja frecuencia que por la mañana no estaba. Mykoła no sabría nombrarlo físicamente. Pero **oyó la diferencia** respecto a la mañana. Con eso bastó.
 
 ### Paso 2: asegurar (LOTO)
 
@@ -90,9 +90,9 @@ El reporte tiene un formato exigido que el capataz reconoce en dos segundos:
 2. **Cuándo** (hora exacta, no "hace un momento").
 3. **Quién** (tu nombre, si el teléfono es interno y el capataz no ve el número).
 
-Rustam a las 11:14 llamó a Marek al pulpito P1:
+Mykoła a las 11:14 llamó a Marek al pulpito P1:
 
-> **Rustam:** "Marek, P3 parada, 11:14, sonido de la cinta fuera de lo normal, bloqueada con LOTO, Rustam."
+> **Mykoła:** "Marek, P3 parada, 11:14, sonido de la cinta fuera de lo normal, bloqueada con LOTO, Mykoła."
 
 Dieciocho palabras. Marek sabe cuanto necesita para decidir. Ahora elige si ir a la P3, llamar a UR, o las dos cosas. La decisión es suya; tu reporte no es petición de consejo, es **transmisión del suceso al superior** conforme al art. 211 pkt 6 KP ("notificar sin demora al superior el peligro advertido").
 
@@ -109,11 +109,11 @@ El formato de tres elementos ("qué – cuándo – quién") es estándar **tamb
 
 ### Paso 4: documentar
 
-Diario de la máquina. Tableta junto a la P3. Abres el modo de entrada. Hay varios campos que rellenar, pero el contenido formalmente exigido son tres o cuatro líneas. Rustam a las 11:16 anotó:
+Diario de la máquina. Tableta junto a la P3. Abres el modo de entrada. Hay varios campos que rellenar, pero el contenido formalmente exigido son tres o cuatro líneas. Mykoła a las 11:16 anotó:
 
-> **11:14. STOP P3. Motivo: sonido atípico de la cinta en el lote 54, rollizo 8 de 22. Sospecha de riesgo para la cinta y el operador. LOTO puesto, candado K-042, tarjeta R.Nazarov 11:14. Capataz M.Kowalski avisado 11:15, UR llamado 11:16. Sin lesión, sin daño a la madera. Lote 54 suspendido, rollizo 8 cerrado.**
+> **11:14. STOP P3. Motivo: sonido atípico de la cinta en el lote 54, rollizo 8 de 22. Sospecha de riesgo para la cinta y el operador. LOTO puesto, candado K-042, tarjeta R.Hrycenko 11:14. Capataz M.Kowalski avisado 11:15, UR llamado 11:16. Sin lesión, sin daño a la madera. Lote 54 suspendido, rollizo 8 cerrado.**
 
-Seis líneas, sesenta palabras. Conciso. Hechos en cifras, horas exactas, identificadores (K-042 es el número del candado LOTO). Rustam **no** diagnosticó la causa ("quizás microfisura"): eso lo deja a UR. **Anotó** la observación ("sonido atípico") y su **propia sospecha de riesgo**. La diferencia es jurídicamente importante.
+Seis líneas, sesenta palabras. Conciso. Hechos en cifras, horas exactas, identificadores (K-042 es el número del candado LOTO). Mykoła **no** diagnosticó la causa ("quizás microfisura"): eso lo deja a UR. **Anotó** la observación ("sonido atípico") y su **propia sospecha de riesgo**. La diferencia es jurídicamente importante.
 
 ::: info
 El diario de la máquina en un aserradero polaco conforme a PN-EN ISO 9001 tiene estatus de **documento de planta** con retención de 5 años. Lectores: (a) capataz en los días siguientes, (b) jefe de turno semanalmente, (c) auditor FSC anual, (d) inspector PIP cada 2–3 años, (e) abogado de planta si hay litigio. El quinto lector es el menos probable, pero el más exigente en precisión. Escribes para él, no para los otros cuatro.
@@ -121,7 +121,7 @@ El diario de la máquina en un aserradero polaco conforme a PN-EN ISO 9001 tiene
 
 ### Art. 234 KP: STOP como "accidente sin accidente"
 
-Cuando el STOP termina sin accidente (como hoy con Rustam), en el lenguaje del derecho laboral polaco es un **"incidente cercano al accidente"** o *near miss*. El art. 234 del Código de Trabajo polaco dice:
+Cuando el STOP termina sin accidente (como hoy con Mykoła), en el lenguaje del derecho laboral polaco es un **"incidente cercano al accidente"** o *near miss*. El art. 234 del Código de Trabajo polaco dice:
 
 > "En caso de accidente de trabajo el empresario está obligado a adoptar las medidas necesarias para eliminar o limitar el peligro, asegurar la primera ayuda a las personas perjudicadas y determinar, en el régimen previsto, las circunstancias y las causas del accidente, así como aplicar las medidas adecuadas para prevenir accidentes similares."
 
@@ -133,7 +133,7 @@ En la práctica: EGIDA lleva un registro electrónico de *near miss* ("Registro 
 
 El STOP en el procedimiento "STOP – asegurar – reportar – documentar" es siempre el mismo operativamente, pero jurídicamente se diferencia según la situación. Los tres más frecuentes en el aserradero:
 
-**Escenario A: máquina atípica (hoy con Rustam).**
+**Escenario A: máquina atípica (hoy con Mykoła).**
 Señal sensorial. La parada es decisión del operador. Base jurídica: art. 211 pkt 3 KP (diligencia sobre las máquinas) y pkt 6 (notificación). Tras documentar, el capataz llama a UR, UR diagnostica, decide sobre el cambio, el lote se reanuda o se cierra. Nota de servicio normalmente no hace falta; no hay disputa.
 
 **Escenario B: orden del capataz contraria a la SSL (escena hipotética de l3).**
@@ -158,11 +158,11 @@ No caigas en la trampa inversa: **omisión consciente del STOP** porque no quier
 
 ### Tiempo de reacción: el cronómetro desde el sonido hasta la entrada
 
-En un aserradero bien llevado, todo el procedimiento "STOP – asegurar – reportar – documentar" dura desde la detección hasta el cierre de la entrada **por debajo de quince minutos**. El cronograma de Rustam hoy:
+En un aserradero bien llevado, todo el procedimiento "STOP – asegurar – reportar – documentar" dura desde la detección hasta el cierre de la entrada **por debajo de quince minutos**. El cronograma de Mykoła hoy:
 
 | Hora | Paso | Qué ha ocurrido |
 |---------|------|--------------|
-| 11:14:00 | Señal | Rustam oye un sonido atípico de la cinta |
+| 11:14:00 | Señal | Mykoła oye un sonido atípico de la cinta |
 | 11:14:06 | STOP | Botón verde abajo, la cinta se para |
 | 11:14:12 | Parada total | Cinta al cero, sierra en pausa |
 | 11:14:40 | Aislar | Interruptor de servicio en OFF |
@@ -173,29 +173,29 @@ En un aserradero bien llevado, todo el procedimiento "STOP – asegurar – repo
 | 11:15:52 | Reporte cerrado | Marek anuncia el aviso a UR |
 | 11:16:10 | Apertura del diario | Tableta en mano, modo de entrada |
 | 11:17:30 | Entrada lista | Seis líneas, firma electrónica |
-| 11:18:00 | Procedimiento cerrado | Rustam espera a UR, se aparta 3 metros de la máquina |
+| 11:18:00 | Procedimiento cerrado | Mykoła espera a UR, se aparta 3 metros de la máquina |
 
 Cuatro minutos desde la señal hasta el cierre de la entrada. En situación aguda (incendio, fallo eléctrico) el procedimiento se acorta; la documentación va **después** de resolver el peligro. En situación tranquila (como hoy), cuatro minutos es la media para operador independiente tras tres meses de práctica.
 
 En el primer mes de M3 tu cronómetro marcará seis a ocho minutos. No te preocupes. La velocidad llega con las repeticiones, y repeticiones no hay muchas (en EGIDA, dos STOP por operador al mes de media). Más importante que la velocidad es la **secuencia**. Un orden equivocado convierte el procedimiento en ruleta.
 
-### Wahan vuelve, UR llega
+### Wasyl vuelve, UR llega
 
-A las 11:22 entra en la nave Mariusz de UR. Mariusz trabaja en EGIDA desde 2011, conoce cada sierra por su nombre. Saluda a Rustam, comprueba la tarjeta LOTO, lee la entrada del diario, asiente con la cabeza:
+A las 11:22 entra en la nave Mariusz de UR. Mariusz trabaja en EGIDA desde 2011, conoce cada sierra por su nombre. Saluda a Mykoła, comprueba la tarjeta LOTO, lee la entrada del diario, asiente con la cabeza:
 
 > **Mariusz:** "Bien, vamos a ver. Quito la carcasa. Tú quédate tres metros detrás, observa. Si digo algo, no te mueves en esta dirección."
 
-Mariusz quita la carcasa superior del accionamiento, saca la cinta de la rueda, la pone sobre la mesa de ajuste. Coge una lámpara LED lateral, alumbra a 15 grados sobre el borde de la cinta. Rustam mira desde tres metros. Mariusz, rápido, a los cuarenta segundos:
+Mariusz quita la carcasa superior del accionamiento, saca la cinta de la rueda, la pone sobre la mesa de ajuste. Coge una lámpara LED lateral, alumbra a 15 grados sobre el borde de la cinta. Mykoła mira desde tres metros. Mariusz, rápido, a los cuarenta segundos:
 
 > **Mariusz:** "Aquí lo tienes. Dos centímetros de la soldadura. ¿Ves la línea? Microfisura en la base del diente, unos 1,2 mm. Si hubiera aguantado una hora más, la cinta se habría roto. A una velocidad de 32 m/s son dos kilómetros de cinta en el aire en una fracción de segundo. Has hecho bien."
 
-Rustam suelta el aire. No sonríe, no comenta, asiente. Mariusz saca de la bolsa cinta nueva (EGIDA guarda reserva en la estantería de UR), la monta, la suelda, lija la soldadura, tensa (2350 PSI, rango 2200–2400), ajusta las guías (3,5 mm). El cambio dura 18 minutos. A las 11:41 la máquina está lista para rearrancar.
+Mykoła suelta el aire. No sonríe, no comenta, asiente. Mariusz saca de la bolsa cinta nueva (EGIDA guarda reserva en la estantería de UR), la monta, la suelda, lija la soldadura, tensa (2350 PSI, rango 2200–2400), ajusta las guías (3,5 mm). El cambio dura 18 minutos. A las 11:41 la máquina está lista para rearrancar.
 
 Marek llega a las 11:42, lee la entrada del diario, hace a Mariusz una pregunta ("¿podría haber pasado antes?"), Mariusz responde ("no, fisura fresca, seguramente de ayer tarde, la cinta llevaba 40 horas en esta máquina"). Marek asiente, retira el candado LOTO, anota:
 
-> **11:42. Cambio de cinta realizado por UR (M.Jankowski). Verificación POSITIVA: microfisura en la base del diente, 2 cm de la soldadura, 1,2 mm. El operador Rustam Nazarov reconoció la señal acústica y adoptó el procedimiento STOP en régimen preventivo. Decisión fundada. Lote 54 reanudado, rollizo 8 continuado.**
+> **11:42. Cambio de cinta realizado por UR (M.Jankowski). Verificación POSITIVA: microfisura en la base del diente, 2 cm de la soldadura, 1,2 mm. El operador Mykoła Hrycenko reconoció la señal acústica y adoptó el procedimiento STOP en régimen preventivo. Decisión fundada. Lote 54 reanudado, rollizo 8 continuado.**
 
-Marek firma. Rustam arranca, cinta nueva, el lote 54 sigue. Wahan vuelve a las 13:30, retoma su puesto en la rampa, no ha oído nada del STOP (Rustam se lo contará por la tarde). Hai vuelve el lunes, verá la entrada y preguntará detalles.
+Marek firma. Mykoła arranca, cinta nueva, el lote 54 sigue. Wasyl vuelve a las 13:30, retoma su puesto en la rampa, no ha oído nada del STOP (Mykoła se lo contará por la tarde). Andrij vuelve el lunes, verá la entrada y preguntará detalles.
 
 ::: example
 Fíjate en la entrada de Marek (línea de las 11:42). Usó **tres cosas** con valor en el análisis posterior. Primero, **firma del segundo trabajador** (M.Jankowski de UR): prueba de que el diagnóstico lo hizo alguien habilitado, no el operador. Segundo, **parámetros técnicos** (2 cm de la soldadura, 1,2 mm): datos mensurables para el análisis trimestral de averías de cinta. Tercero, **valoración de la decisión del operador** ("decisión fundada"): felicitación en documento, no en charla. En el aserradero polaco una felicitación en documento va al expediente personal, influye en la evaluación anual y en la prima de fin de año. Felicitar por buena decisión es tan importante como sancionar por mala. Marek lo sabe.
@@ -224,7 +224,7 @@ El procedimiento "STOP – asegurar – reportar – documentar" son cuatro paso
 
 El art. 234 KP trata los incidentes cercanos al accidente como material para la prevención; tu entrada en el diario es el primer paso del análisis.
 
-Rustam hoy reconoció la señal acústica, ejecutó el procedimiento en cuatro minutos, UR confirmó la microfisura de la cinta, Marek anotó una felicitación en la documentación. Todo el ciclo, desde el sonido hasta la vuelta a producción, ocupó 28 minutos.
+Mykoła hoy reconoció la señal acústica, ejecutó el procedimiento en cuatro minutos, UR confirmó la microfisura de la cinta, Marek anotó una felicitación en la documentación. Todo el ciclo, desde el sonido hasta la vuelta a producción, ocupó 28 minutos.
 
 Mañana, en l5, verás otro tipo de STOP: suceso externo, accidente en un puesto vecino. Allí el procedimiento se amplía con primera ayuda, aviso a servicios externos, aseguramiento de pruebas para el protocolo del accidente. El fundamento sigue siendo el mismo: STOP de tu propia máquina antes de correr a ayudar.
 
@@ -304,7 +304,7 @@ Redacta tu propia entrada en el diario de la máquina (cinco a siete líneas) pa
 
 Durante los próximos tres días en tu aserradero:
 
-- Mide el **tiempo de reacción** desde la señal hasta el cierre de la entrada del diario, si ejecutas el procedimiento STOP (cuéntalo con el reloj). Si no hay STOP, haz una visualización "de prueba": imagina una señal a las 9:00 de la mañana y anota en el cuaderno a qué hora ejecutarías cada uno de los cuatro pasos. Compara con el cronograma de Rustam (cuatro minutos).
+- Mide el **tiempo de reacción** desde la señal hasta el cierre de la entrada del diario, si ejecutas el procedimiento STOP (cuéntalo con el reloj). Si no hay STOP, haz una visualización "de prueba": imagina una señal a las 9:00 de la mañana y anota en el cuaderno a qué hora ejecutarías cada uno de los cuatro pasos. Compara con el cronograma de Mykoła (cuatro minutos).
 - Comprueba si tienes **tu propio candado LOTO** con tu nombre. Si lo tienes, cuenta los ojales de la cubierta para saber cuántos candados se pueden colocar a la vez (en EGIDA el estándar es una cubierta de seis ojales, es decir, seis personas pueden bloquear la máquina a la vez en trabajo conjunto de servicio).
 - Lee en la ficha del puesto junto a tu sierra la **lista de números de notificación** (capataz, jefe de turno, jefe de producción, UR). Anótalos en tu cuaderno. Si el teléfono interno está averiado, consulta con Marek cómo se llama desde el móvil.
 - En la próxima conversación con Marek pregúntale por la **revisión semanal de near miss**. Pídele que te enseñe el registro. Verás cuántos incidentes se reconocieron la semana pasada y qué se hizo con ellos. El registro es la cultura de la planta en vista cruda.
@@ -313,9 +313,9 @@ Mañana en l5 verás el procedimiento STOP en una situación de accidente de un 
 
 ## Notas para el formador
 
-- **Ritmo de 120 min (propuesto):** 10 min Introducción + Objetivos; 20 min los cuatro pasos del procedimiento (rol-play en seco, por parejas, con reloj); 15 min LOTO (demostración con candado, tarjeta, intento de arranque); 10 min los cinco canales sensoriales (cada cursillista recuerda una señal de su planta); 20 min escena de Rustam a las 11:14 (lectura, pausa en el cronograma con reloj, debate "si cuatro minutos es realista"); 15 min los tres escenarios (A/B/C: máquina, orden, suceso externo); 10 min falsas alarmas y art. 234 KP; 10 min Términos clave y resumen; 10 min ejercicio propio (entrada del diario para situación hipotética).
+- **Ritmo de 120 min (propuesto):** 10 min Introducción + Objetivos; 20 min los cuatro pasos del procedimiento (rol-play en seco, por parejas, con reloj); 15 min LOTO (demostración con candado, tarjeta, intento de arranque); 10 min los cinco canales sensoriales (cada cursillista recuerda una señal de su planta); 20 min escena de Mykoła a las 11:14 (lectura, pausa en el cronograma con reloj, debate "si cuatro minutos es realista"); 15 min los tres escenarios (A/B/C: máquina, orden, suceso externo); 10 min falsas alarmas y art. 234 KP; 10 min Términos clave y resumen; 10 min ejercicio propio (entrada del diario para situación hipotética).
 - **Trampa pedagógica n.º 1:** tratar LOTO como burocracia y atajar ("el candado sobra, con el interruptor abajo basta"). **No basta.** EGIDA 2022: intento de arranque por un trabajador de turno nocturno que no sabía que había conservación en curso. Interruptor en OFF, sin candado. Reset, controlador dañado, coste 18 000 zł. Cuenta la historia (sin nombres, sin lesión, solo pérdida económica). El candado no es formalismo, es el cerrojo de la puerta.
-- **Trampa pedagógica n.º 2:** en la escena aparece "la cinta se habría roto en dos horas". De dónde lo sabía Rustam: **no lo sabía**. Es opinión a posteriori de Mariusz de UR. Rustam actuó por intuición sonora. La distinción es clave: el operador **no diagnostica**, **reconoce la señal**. Diagnóstico es papel de UR o del jefe de turno.
+- **Trampa pedagógica n.º 2:** en la escena aparece "la cinta se habría roto en dos horas". De dónde lo sabía Mykoła: **no lo sabía**. Es opinión a posteriori de Mariusz de UR. Mykoła actuó por intuición sonora. La distinción es clave: el operador **no diagnostica**, **reconoce la señal**. Diagnóstico es papel de UR o del jefe de turno.
 - **Trampa pedagógica n.º 3:** la sección "falsas alarmas" puede leerse mal como "incentivo al STOP sin motivo". **No lo es.** Es incentivo al STOP por evaluación honesta, aunque resulte más prudente que la realidad. Frente al "pánico sin hecho" (Tribunal Supremo polaco II PSK 76/22, l3): STOP por pánico sin señal observable es problemático; STOP por prudencia ante señal de interpretación incierta es correcto.
 - **Tiempo de reacción (cuatro minutos):** es objetivo, no norma. En la práctica los primeros STOP en M3 pueden durar 8–12 minutos. No comentes negativamente. La paciencia del procedimiento es más importante que la velocidad. La velocidad llega con el décimo STOP, no con el primero.
 - **Diferencia respecto a M2 l5:** en M2 el operador junior ejecutaba el STOP bajo asistencia. En M3 lo hace solo. Diferencia operativa pequeña (los mismos cuatro pasos), diferencia psíquica grande (la soledad de la decisión). Dedica un momento a hablar de la sensación "solo frente a la máquina parada, escucho qué le pasa y la respuesta solo la puedo obtener de UR". Normalizar ese sentimiento es parte de la maduración del operador independiente.

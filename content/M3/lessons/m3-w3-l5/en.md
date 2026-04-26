@@ -8,7 +8,7 @@ czas: 120
 
 Monday, 2026-06-08, 6:55 a.m. The final day of the pedunculate oak cycle in chamber BH-50. Twenty-two days from the 17.05 start, ten days after the thermostat alarm (30.05 in l4), six days after the GH-67 thermostat was replaced by BTM (Mon 02.06), after the conditioning phase (01-04.06) and the cooling phase (05-07.06). The wood in the chamber is at **25°C, target moisture 14%**, ready for unloading.
 
-Rustam arrives at the kiln hall today **for a full training shift** (Marek scheduled this on Friday as part of the M3 process block, l5 of the course). Wahan is present as an unloading helper (not on P3 today, only the kiln hall). Maciek Wiśniewski has been in the control hall since 6:45, taking over from the night shift (panel clean, no alarm rang over the weekend).
+Mykoła arrives at the kiln hall today **for a full training shift** (Marek scheduled this on Friday as part of the M3 process block, l5 of the course). Wasyl is present as an unloading helper (not on P3 today, only the kiln hall). Maciek Wiśniewski has been in the control hall since 6:45, taking over from the night shift (panel clean, no alarm rang over the weekend).
 
 Pan Henryk arrives at 7:00 in his work overalls, carrying a black handbag: **Tanel ET-6 moisture meter** (the same model as in M2 l5), **handheld sampling saw** (a small 100 mm cordless circular saw for cutting control samples), **1 m aluminium ruler**, **steel square**, **10× magnifier**, **work notebook**, **technical grease pencil**.
 
@@ -29,9 +29,9 @@ Air RH:                 72% (after conditioning)
 EMC:                    14.5% (close to wood moisture)
 ```
 
-*„Rustam, see? EMC 14.5%, wood 14.1%. Near equilibrium. **The wood is no longer giving up water, nor taking it in**. Ready to come out."*
+*„Mykoła, see? EMC 14.5%, wood 14.1%. Near equilibrium. **The wood is no longer giving up water, nor taking it in**. Ready to come out."*
 
-Rustam writes it down.
+Mykoła writes it down.
 
 ### 7:15, opening the chamber door
 
@@ -49,9 +49,9 @@ Anton manoeuvres the forklift, slides the forks under stack no. 1, lifts 1.5 m, 
 
 ### 8:00, moisture measurement at 5 points of the stack
 
-Pan Henryk shows Rustam **the five inspection steps after the cycle**: 1) final moisture measurement at a minimum of 5 points; 2) front-face and surface inspection; 3) diagnosis of internal cracks (checker); 4) diagnosis of warp and twist; 5) grading (Pani Ania at 10:00).
+Pan Henryk shows Mykoła **the five inspection steps after the cycle**: 1) final moisture measurement at a minimum of 5 points; 2) front-face and surface inspection; 3) diagnosis of internal cracks (checker); 4) diagnosis of warp and twist; 5) grading (Pani Ania at 10:00).
 
-*„Rustam, you do steps 1-4 today under my supervision. Grading is Pani Ania's authority, an ISO requirement."*
+*„Mykoła, you do steps 1-4 today under my supervision. Grading is Pani Ania's authority, an ISO requirement."*
 
 Moisture meter calibrated (battery OK, zeroed on the lab control sample). Pan Henryk selects 5 measurement points for **stack no. 1** (49 boards, 10 layers × 5 boards per layer):
 
@@ -86,7 +86,7 @@ Stack no. 1 (49 boards), final moisture measurements:
 
 **We look for**: end checks, pith checks visible from the end, uneven colour on the end face, bumps/depressions.
 
-Pan Henryk reviews the first 20 boards of the front, Rustam records:
+Pan Henryk reviews the first 20 boards of the front, Mykoła records:
 - 2 minor end checks (<3 cm, within C24 tolerance, limit 10% of end length)
 - 1 pith check 4 cm (acceptable for boards with pith, tolerated by C24)
 - 17 clean boards
@@ -103,7 +103,7 @@ Pan Henryk takes boards from the top layer of stack 1, lays them flat on the ins
 
 Pan Henryk sniffs, rotating a board under his nose. *„Dry smell, naturally acidic from oak tannins. **No mustiness**, no mould. Uniform colour."*
 
-Wahan is learning to smell. After the first board: *„Pan Henryk, I sense some mustiness?"* Pan Henryk sniffs again: *„No, that's the natural scent of tannins. **Mould is faint, sweetish**, different. Remember the difference."* Wahan writes down: *„Natural acidic OK. Sweetish faint = mould."*
+Wasyl is learning to smell. After the first board: *„Pan Henryk, I sense some mustiness?"* Pan Henryk sniffs again: *„No, that's the natural scent of tannins. **Mould is faint, sweetish**, different. Remember the difference."* Wasyl writes down: *„Natural acidic OK. Sweetish faint = mould."*
 
 Of the 10 boards reviewed: **all clean**, one with a minor resin streak 10 cm (natural, C24 OK).
 
@@ -118,9 +118,9 @@ He examines each cross-section with the 10× magnifier:
 - **Board 20, stack 2**: no cracks, uniform structure. **No checker.**
 - **Board 35, stack 3**: no radial cracks, uniform structure. **No checker.**
 
-*„Rustam, samples from 3 representative boards, all without checker. **The conditioning phase (3 days, 01-04.06) equalised the stresses**. This confirms the cycle came out well."*
+*„Mykoła, samples from 3 representative boards, all without checker. **The conditioning phase (3 days, 01-04.06) equalised the stresses**. This confirms the cycle came out well."*
 
-Rustam records it. Pan Henryk puts the samples in the bag (they go to the EGIDA lab archive as control samples for load ZLE-075 oak, 1-year retention).
+Mykoła records it. Pan Henryk puts the samples in the bag (they go to the EGIDA lab archive as control samples for load ZLE-075 oak, 1-year retention).
 
 ### 10:00, Pani Ania arrives
 
@@ -128,9 +128,9 @@ Rustam records it. Pan Henryk puts the samples in the bag (they go to the EGIDA 
 
 Pan Henryk briefly: *„Good cycle, 14.1% average, 0.9% spread, 3 checker samples negative, 1 board with a large end check 12 cm on the rear face of stack 1 (no. 38). For you: visual and strength grading, 145 boards."*
 
-Pani Ania to Rustam: *„Rustam, learn, but **you do not grade**. Grading is my authority, an ISO requirement. You assist, mark boards after my decision, and enter them in the grader card."*
+Pani Ania to Mykoła: *„Mykoła, learn, but **you do not grade**. Grading is my authority, an ISO requirement. You assist, mark boards after my decision, and enter them in the grader card."*
 
-Rustam confirms: *„Understood, assistant today."*
+Mykoła confirms: *„Understood, assistant today."*
 
 Pani Ania's tools: the same moisture meter, aluminium ruler, steel square, class stamps (C16, C24, C30, reject), grease pencil, **grader card** (A3 form, 145 rows, one per board).
 
@@ -160,7 +160,7 @@ Pani Ania takes board no. 1 from stack 1. Places it on the inspection bed. **Fiv
 
 **Pani Ania's decision**: *„Board 1 of stack 1: **C24, clean, no defects outside the norm**."*
 
-She stamps „C24" on the board edge. Rustam enters it in the grader card.
+She stamps „C24" on the board edge. Mykoła enters it in the grader card.
 
 ### 10:30, grading pace
 
@@ -176,7 +176,7 @@ Pani Ania reaches board no. 38 (marked by Pan Henryk in the morning). She measur
 
 Pan Henryk (next to her): *„The client also has a panelling order. Mark 'shorten 20 cm, panelling assortment, C16'."*
 
-Pani Ania stamps „C16" and adds in pencil „**SHORTEN 20 CM, PANELLING**". Rustam enters in the card:
+Pani Ania stamps „C16" and adds in pencil „**SHORTEN 20 CM, PANELLING**". Mykoła enters in the card:
 
 ```
 Board 38 stack 1: C16 after shortening by 20 cm, panelling assortment
@@ -189,7 +189,7 @@ Board 67 of stack 2, longitudinal bow **9 mm over 4 m length**. C24 limit: 6 mm.
 
 Pani Ania: *„Board 67: bow 9 mm, outside tolerance even for C16. **Reject**. Sold as firewood 50 zł/m³ or for chips."*
 
-She stamps „reject". Rustam enters: *„Board 67 stack 2: reject, bow 9 mm (outside C24/C16 tolerance). Firewood/chips."*
+She stamps „reject". Mykoła enters: *„Board 67 stack 2: reject, bow 9 mm (outside C24/C16 tolerance). Firewood/chips."*
 
 ### 12:30, Marek arrives, mid-cycle recap
 
@@ -207,9 +207,9 @@ Marek: *„OK, wrap it up. I'll sign the report at 15:00. Pani Ania, you'll do t
 
 ### 13:00-14:00, lunch break
 
-Rustam, Wahan, Maciek go to lunch (EGIDA canteen 50 m from the kiln hall, lunch 12:30-13:30). Pani Ania and Pan Henryk stay, Pani Ania keeps grading at a routine pace.
+Mykoła, Wasyl, Maciek go to lunch (EGIDA canteen 50 m from the kiln hall, lunch 12:30-13:30). Pani Ania and Pan Henryk stay, Pani Ania keeps grading at a routine pace.
 
-Rustam notes in his pocket diary:
+Mykoła notes in his pocket diary:
 ```
 C24/C16/reject grading, tolerance precision:
   C24: bow <6 mm, end check <10 cm, knots <52 mm, wane <38 mm
@@ -256,8 +256,8 @@ Pan Henryk takes the **current-load KS-001 card** (from the kiln office desk, oa
   Grading (Pani Ania): 125 C24 + 15 C16 + 3 shortened + 2 reject.
   Ready volume: 2.462 m³ of fit assortment + 0.035 m³ reject.
   30.05 alarm did not affect quality (conditioning equalised stresses).
-  Present: Pan Henryk (master), Pani Ania (grader), Rustam Nazarov
-    (M3 training), Wahan Petrosjan (M1 helper), Maciek Wiśniewski
+  Present: Pan Henryk (master), Pani Ania (grader), Mykoła Hrycenko
+    (M3 training), Wasyl Melnyk (M1 helper), Maciek Wiśniewski
     (M1 kiln), Anton Bondarenko (forklift).
 ```
 
@@ -267,7 +267,7 @@ In **section 4 (Final signatures)** Pan Henryk enters his name and the time (14:
 
 Marek looks over the grader card and the KS-001 entry. *„Good work. The WZ card for the batch you'll prepare, Pani Ania, by Tuesday morning. Anton, the fit C24 and C16 batch to the finished sawn timber warehouse, reject separately to the firewood yard. Shortened panelling to the Furniture Joiner's shelf, mark the stack end in pencil 'ZLE-081 panelling 3 pcs'."*
 
-Marek signs KS-001 section 4. Card closed. Pan Henryk passes the grader card to Rustam (to be copied to OneDrive on Tuesday morning, retention 3 years paper + 5 years scan).
+Marek signs KS-001 section 4. Card closed. Pan Henryk passes the grader card to Mykoła (to be copied to OneDrive on Tuesday morning, retention 3 years paper + 5 years scan).
 
 Anton drives the forklift in, takes the C24 + C16 + shortened stack to the finished sawn timber warehouse (adjacent building 40 m away). Reject (2 boards) goes to a separate firewood yard at the rear of the hall.
 
@@ -411,23 +411,23 @@ The **WZ card** is an EGIDA A4 form issued **before the batch is released to the
 
 By 15:30 the oak batch is in the finished sawn-timber warehouse (125 C24 + 15 C16 + 3 panelling shortened, 2.512 m³ of fit assortment total). Reject (2 boards, 0.035 m³) on a separate firewood yard at the rear. Grader card signed by Pani Ania, KS-001 card section 4 signed by Pan Henryk and Marek Kowalski. The WZ card will be filled out by Pani Ania tomorrow morning (Tuesday 09.06) before release to the customer.
 
-Rustam and Wahan pack Pan Henryk's tools back into the bag (moisture meter, sampling saw, ruler, magnifier). Maciek goes to the control hall to close the cycle notebook, to prepare the panel for a new load (Tuesday 09.06, pine 2.2 m³ from the Strzałowo Forest District, new campaign).
+Mykoła and Wasyl pack Pan Henryk's tools back into the bag (moisture meter, sampling saw, ruler, magnifier). Maciek goes to the control hall to close the cycle notebook, to prepare the panel for a new load (Tuesday 09.06, pine 2.2 m³ from the Strzałowo Forest District, new campaign).
 
-### Pan Henryk, Rustam conversation
+### Pan Henryk, Mykoła conversation
 
-Pan Henryk: *„Rustam, what did you understand today?"*
+Pan Henryk: *„Mykoła, what did you understand today?"*
 
-Rustam: *„Four things. First, **inspection is sequential** from cheapest to most expensive (moisture, inspection, checker, grading). Second, **spread matters more than average**, our 14.1% average is nothing if the spread were 4%. Third, **grading is an authority, not just a skill**, Pani Ania is certified by ITB, I see what she does but I do not touch the stamps. Fourth, **documents are the batch truth**: grader card, KS-001, WZ card, each has its place and task, none can be skipped."*
+Mykoła: *„Four things. First, **inspection is sequential** from cheapest to most expensive (moisture, inspection, checker, grading). Second, **spread matters more than average**, our 14.1% average is nothing if the spread were 4%. Third, **grading is an authority, not just a skill**, Pani Ania is certified by ITB, I see what she does but I do not touch the stamps. Fourth, **documents are the batch truth**: grader card, KS-001, WZ card, each has its place and task, none can be skipped."*
 
 *„Good. The fifth thing you didn't mention?"*
 
-Rustam thinks. *„The M3 operator in the chamber and in grading **does not decide, but understands**. In 6 months, after auxiliary kiln training, I'll be able to assist the grader on my own (not grading, but running the 5-step procedure without Pan Henryk's supervision). That is the path of development."*
+Mykoła thinks. *„The M3 operator in the chamber and in grading **does not decide, but understands**. In 6 months, after auxiliary kiln training, I'll be able to assist the grader on my own (not grading, but running the 5-step procedure without Pan Henryk's supervision). That is the path of development."*
 
 *„Yes. You learned well today. I'll enter a second training attendance in your personnel file (the first was the planning meeting on 29.05 in l3, the second today's unloading). If you add a third in August, you'll qualify for the auxiliary kiln course in October."*
 
 ### 16:00, the way home
 
-Rustam goes back to the locker room, changes, leaves the hall. Tomorrow he's back on P3 (pine from the new Strzałowo campaign, ZLE-2026-06-001, first June load). Wahan will be with him as a stationary helper. The kiln is now history for Rustam until the next training attendance (August, scheduled).
+Mykoła goes back to the locker room, changes, leaves the hall. Tomorrow he's back on P3 (pine from the new Strzałowo campaign, ZLE-2026-06-001, first June load). Wasyl will be with him as a stationary helper. The kiln is now history for Mykoła until the next training attendance (August, scheduled).
 
 ## Key terms
 

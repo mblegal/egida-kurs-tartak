@@ -6,7 +6,7 @@ czas: 120
 
 ## Introduction
 
-Monday, 7:20. Thirty minutes after Maricel showed foreman Marek the gullet crack on band saw #2, senior operator Tadeusz (52 years old, 15 years of service, UDT certified) is standing at the machine. Marek has brought a spare Wood-Mizer Silvertip band from the warehouse (51 mm wide, 1.07 mm thick, production date 2026-02-14 – two months ago). On the table: a 4 mm Allen key, a dial gauge with a magnetic base, a headlamp, a rag. Tadeusz puts on leather gloves (he will take them off before startup – no gloves near rotating parts, the rule from L2 W1). Marek looks at Maricel: "Today you stay and watch. You don't touch, you don't hand over anything I haven't asked for. You memorize every step. In six to twelve months you will do this yourself, but before that you will watch it ten times."
+Monday, 7:20. Thirty minutes after Sofía showed foreman Marek the gullet crack on band saw #2, senior operator Tadeusz (52 years old, 15 years of service, UDT certified) is standing at the machine. Marek has brought a spare Wood-Mizer Silvertip band from the warehouse (51 mm wide, 1.07 mm thick, production date 2026-02-14 – two months ago). On the table: a 4 mm Allen key, a dial gauge with a magnetic base, a headlamp, a rag. Tadeusz puts on leather gloves (he will take them off before startup – no gloves near rotating parts, the rule from L2 W1). Marek looks at Sofía: "Today you stay and watch. You don't touch, you don't hand over anything I haven't asked for. You memorize every step. In six to twelve months you will do this yourself, but before that you will watch it ten times."
 
 This lesson is **the first machine-level interaction** for the trainee in Module 2. Until now you have looked at the material (moisture, logs, defects, assortments, grades) and at the tool from the outside (four types of saws, signs of wear). Now you **step within arm's reach of a mechanical replacement**, but in the role of **witness and helper**, not operator. The lesson mantra: **"You never change it alone."** Even after six months, even after a year, even after completing the procedure on your own, the first replacement is always under supervision, and every one after that is always in the presence of the foreman or a second operator.
 
@@ -70,7 +70,7 @@ Tadeusz uses a **dial gauge** with a magnetic base. He attaches the magnet to th
 
 Then comes the **test cut**: a pine waste board (every sawmill keeps these in a separate crate labeled "FOR TESTING"), cutting through 30–50 cm. Tadeusz checks the cut surface with his finger (this time wearing a glove, since the band is already stopped): as smooth as 120-grit sandpaper, no waviness, no dark burn marks. If OK, the machine returns to production. If not, the replacement continues (tension adjustment, rollers, another no-load run).
 
-**Register entry**: Tadeusz writes in the sawmill replacement notebook (the same one you learned about in Lesson 5 of Week 4 in Module 1): "07:22–07:54, saw #2, Wood-Mizer Silvertip band, series 2026-02-14, reason: 3 mm gullet crack (detected by: Maricel S., morning walk-around), replaced by: Tadeusz K., assisted by: Maricel S., tension: 2300 PSI, rollers: 3.2 / 3.1 / 3.4 / 3.3 mm, test cut: OK."
+**Register entry**: Tadeusz writes in the sawmill replacement notebook (the same one you learned about in Lesson 5 of Week 4 in Module 1): "07:22–07:54, saw #2, Wood-Mizer Silvertip band, series 2026-02-14, reason: 3 mm gullet crack (detected by: Sofía S., morning walk-around), replaced by: Tadeusz K., assisted by: Sofía S., tension: 2300 PSI, rollers: 3.2 / 3.1 / 3.4 / 3.3 mm, test cut: OK."
 
 ### Professional parameters – remember three numbers
 
@@ -122,16 +122,16 @@ The foreman checks your knowledge of these numbers during the internal competenc
 
 **Pedagogical goal**: the first machine-level interaction of the trainee in M2. Not performance, but assistance: witness plus handing over tools. Goal: **to make the numerical parameters familiar** (2200–2400 PSI, 3–4 mm, 30 s) and to frame **the assisting role** as a stage on the path to autonomy. The mantra "you never change it alone" is a safety compass that reaches beyond Module 2.
 
-**Week 2 bracket**: Maricel opens the week in L1 (moisture content, Monday 7:30) and closes it in L8 (band replacement, Monday 7:20 of the following week). Eight lessons, one narrative arc: observation of the material → observation of the tool → assistance at the machine. Pedagogically strong: the trainee sees the coherence of the course, not a collection of episodes.
+**Week 2 bracket**: Sofía opens the week in L1 (moisture content, Monday 7:30) and closes it in L8 (band replacement, Monday 7:20 of the following week). Eight lessons, one narrative arc: observation of the material → observation of the tool → assistance at the machine. Pedagogically strong: the trainee sees the coherence of the course, not a collection of episodes.
 
-**Three numbers of the trade**: 2200–2400 PSI, 3–4 mm, 30 s. Repeat them three times in the lesson (in the objectives, in steps 5–7, in the table). This is not didactic redundancy, it is **imprinting automatism**. Trainees from hierarchical cultures (Philippines, Vietnam, Central Asia) often do not ask if they miss something, so the key numbers must appear multiple times in the lesson, not just once.
+**Three numbers of the trade**: 2200–2400 PSI, 3–4 mm, 30 s. Repeat them three times in the lesson (in the objectives, in steps 5–7, in the table). This is not didactic redundancy, it is **imprinting automatism**. Trainees from cultures where a manual worker does not normally "re-ask" a superior (much of Latin America, with the "usted" relationship toward the foreman; parts of regions of Ukraine) often do not ask if they miss something, so the key numbers must appear multiple times in the lesson, not just once.
 
 **Pitfalls in delivery**:
 1. No tension physics (Young's modulus, fatigue theory). A junior has to know "2200–2400 PSI, tension gauge, middle of the band 2300", nothing more.
 2. Do not downplay LOTO. For trainees from countries with lower occupational-safety standards, a padlock on a disconnect sounds like bureaucracy. Show that it is a mechanical guarantee, not a formality.
 3. Do not confuse "assistance" with "performance". A trainee after L8 cannot change a band, but can see one changed, knows the parameters, and can hand over a tool.
 
-**Integration with previous lessons**: L2 W1 (no gloves near rotating parts) → Tadeusz takes off his gloves before startup. L3 W1 (STOP, emergency mushroom) → Step 1. L7 W1 (5-step failure protocol) → L8 is a different protocol, a 7-step planned procedure. L5 W4 M1 (documentation) → Step 7, register entry. L7 W2 M2 → Maricel detected the problem → Tadeusz replaces the band, closing the bracket.
+**Integration with previous lessons**: L2 W1 (no gloves near rotating parts) → Tadeusz takes off his gloves before startup. L3 W1 (STOP, emergency mushroom) → Step 1. L7 W1 (5-step failure protocol) → L8 is a different protocol, a 7-step planned procedure. L5 W4 M1 (documentation) → Step 7, register entry. L7 W2 M2 → Sofía detected the problem → Tadeusz replaces the band, closing the bracket.
 
 **Preview of M3**: in Module 3 Week 2 the trainee learns the independent replacement (the same 7 steps, now he performs them under active supervision). Plus welding of a cracked band on a Brazilon band welder.
 

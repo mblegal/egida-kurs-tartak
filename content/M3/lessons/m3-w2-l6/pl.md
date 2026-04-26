@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Środa, 2026-05-13, godzina 8:45. Rustam i Wahan kończą pomiary wilgotności przy komorach suszarniczych (sosna z P3 do wydania 9,3%, świerk z P4 do dosuszenia 11,9%). Teraz idą na halę pilarek. Plan dnia: o godzinie 9:30 zaczyna się **nowa kampania dębowa** na pilarce taśmowej **P3 Wood-Mizer LT70** (pilarka, na której Rustam pracuje samodzielnie od 4 maja, po zakończeniu okresu z nadzorem). Przez poprzednie trzy tygodnie na P3 ciął sosnę zwyczajną (świeżo ścinaną, wilgotność 50-65%, przekroje standardowe 50 × 150 na belki stropowe). Wtorek wieczorem zakończyli ostatnie kłody sosnowe zamówienia dla Dom-Bud Piaseczno. Od środy 9:30 zaczyna się **dąb szypułkowy** (*Quercus robur*) z Nadleśnictwa Strzałowo pod Mrągowem. Kłody odstały w magazynie 6 miesięcy po ścięciu, częściowo podsuszone, wilgotność 25-35%. Zamówienie: deski dębowe 32 × 200 × 3000 mm, 2,8 m³, klasa jakości G2-1 (pierwsza klasa meblarska), klient „Dąb-Meble" Piaseczno (ten sam, dla którego dziś rano przekazaliśmy sosnę stolarki meblowej).
+Środa, 2026-05-13, godzina 8:45. Mykoła i Wasyl kończą pomiary wilgotności przy komorach suszarniczych (sosna z P3 do wydania 9,3%, świerk z P4 do dosuszenia 11,9%). Teraz idą na halę pilarek. Plan dnia: o godzinie 9:30 zaczyna się **nowa kampania dębowa** na pilarce taśmowej **P3 Wood-Mizer LT70** (pilarka, na której Mykoła pracuje samodzielnie od 4 maja, po zakończeniu okresu z nadzorem). Przez poprzednie trzy tygodnie na P3 ciął sosnę zwyczajną (świeżo ścinaną, wilgotność 50-65%, przekroje standardowe 50 × 150 na belki stropowe). Wtorek wieczorem zakończyli ostatnie kłody sosnowe zamówienia dla Dom-Bud Piaseczno. Od środy 9:30 zaczyna się **dąb szypułkowy** (*Quercus robur*) z Nadleśnictwa Strzałowo pod Mrągowem. Kłody odstały w magazynie 6 miesięcy po ścięciu, częściowo podsuszone, wilgotność 25-35%. Zamówienie: deski dębowe 32 × 200 × 3000 mm, 2,8 m³, klasa jakości G2-1 (pierwsza klasa meblarska), klient „Dąb-Meble" Piaseczno (ten sam, dla którego dziś rano przekazaliśmy sosnę stolarki meblowej).
 
-Zmiana gatunku znaczy **zmianę taśmy**. Sosna świeża wymaga innej taśmy niż dąb podsuszony. Rustam przed rozpoczęciem kampanii dębowej musi zdemontować aktualną taśmę (stal stopowa, szerokość 38 mm, podziałka zębów 22 mm, typowa dla sosny świeżej) i założyć nową (stal stellitowa, 38 mm, podziałka 15 mm, dla dębu suchego). Zmiana taśmy na Wood-Mizer LT70 zajmuje operatorowi samodzielnemu **26 minut** z asystą pomocnika (demontaż 8 minut, montaż 12 minut, regulacja napięcia i prowadnic 6 minut). Dla operatora pierwszego raz, bez asysty, 40-50 minut. Rustam robił to już dwa razy w M2 z brygadzistą Markiem (instrukcja przy stanowisku), plus raz w M3 samodzielnie (3 maja, z notatką wejścia w samodzielność).
+Zmiana gatunku znaczy **zmianę taśmy**. Sosna świeża wymaga innej taśmy niż dąb podsuszony. Mykoła przed rozpoczęciem kampanii dębowej musi zdemontować aktualną taśmę (stal stopowa, szerokość 38 mm, podziałka zębów 22 mm, typowa dla sosny świeżej) i założyć nową (stal stellitowa, 38 mm, podziałka 15 mm, dla dębu suchego). Zmiana taśmy na Wood-Mizer LT70 zajmuje operatorowi samodzielnemu **26 minut** z asystą pomocnika (demontaż 8 minut, montaż 12 minut, regulacja napięcia i prowadnic 6 minut). Dla operatora pierwszego raz, bez asysty, 40-50 minut. Mykoła robił to już dwa razy w M2 z brygadzistą Markiem (instrukcja przy stanowisku), plus raz w M3 samodzielnie (3 maja, z notatką wejścia w samodzielność).
 
 Na ścianie hali wisi tablica z katalogiem taśm EGIDA:
 
@@ -16,7 +16,7 @@ Na ścianie hali wisi tablica z katalogiem taśm EGIDA:
 - **Stal stellitowa** (premium, 320 zł/m, 50-70% dłuższa żywotność): dąb suchy, buk suchy, gatunki tropikalne.
 - **Bi-metal** (wzmocniona, 450 zł/m, rzadko używana): drewno zamarznięte, gatunki bardzo twarde (hikora, wenge).
 
-Wahan patrzy na tablicę: *„Rustam, dlaczego dla dębu akurat stellite, a nie stopowa? Stellite droższy o 140 zł/m. Wartość?"*. Rustam odpowiada: *„Dlatego, że dąb suchy 25-35% wilgotność jest twardszy niż sosna świeża 50%. Taśma stopowa na dębie suchym zużywa się trzy razy szybciej. Stellite wytrzymuje. Liczymy koszt na metr sześcienny drewna, nie za taśmę. Z stellitem taśma dzieli 8-10 m³ drewna dębowego przed wymianą, ze stopową 2-3 m³. Ekonomia korzystniejsza ze stellitem dla dębu."*. Wahan kiwa głową, zapisuje.
+Wasyl patrzy na tablicę: *„Mykoła, dlaczego dla dębu akurat stellite, a nie stopowa? Stellite droższy o 140 zł/m. Wartość?"*. Mykoła odpowiada: *„Dlatego, że dąb suchy 25-35% wilgotność jest twardszy niż sosna świeża 50%. Taśma stopowa na dębie suchym zużywa się trzy razy szybciej. Stellite wytrzymuje. Liczymy koszt na metr sześcienny drewna, nie za taśmę. Z stellitem taśma dzieli 8-10 m³ drewna dębowego przed wymianą, ze stopową 2-3 m³. Ekonomia korzystniejsza ze stellitem dla dębu."*. Wasyl kiwa głową, zapisuje.
 
 ## Cele
 
@@ -165,7 +165,7 @@ Podziałka zębów to **odległość między szczytami sąsiednich zębów** na 
 - **Żywotność:** 4-5 m³.
 - **Częstość zmiany:** co 3-4 dni.
 
-Oprócz tych trzech scenariuszy są rzadsze kombinacje (buk suchy, jesion, modrzew, drewno tropikalne), ale dla operatora początkującego w M3 (jak Rustam) trzy główne scenariusze pokrywają **85% pracy**.
+Oprócz tych trzech scenariuszy są rzadsze kombinacje (buk suchy, jesion, modrzew, drewno tropikalne), ale dla operatora początkującego w M3 (jak Mykoła) trzy główne scenariusze pokrywają **85% pracy**.
 
 ::: warning
 **Nie można zmienić podziałki zębów na istniejącej taśmie**. Podziałka jest stała, wycięta/odlana w fabryce. Zmiana podziałki = zmiana taśmy. Błąd początkujących operatorów: próbują ciąć sosnę świeżą taśmą 15 mm (bo została po dębie). Efekt: zator w rzazie, przegrzanie, zerwanie taśmy po 20-30 minutach. **Zawsze sprawdź typ taśmy przed startem maszyny**: metka na taśmie (wypalona albo na naklejce) wskazuje typ, szerokość, podziałkę, datę ostatniej regeneracji. Sprawdzenie zajmuje 20 sekund, błędna taśma to zerwanie, 30 min przestoju, potencjalne uszkodzenie kół lub prowadnic.
@@ -173,43 +173,43 @@ Oprócz tych trzech scenariuszy są rzadsze kombinacje (buk suchy, jesion, modrz
 
 ### Scena zmiany taśmy: P3 Wood-Mizer LT70, 8:50-9:20
 
-Rustam i Wahan stoją przy pilarce P3. Pilarka STOP, zasilanie odcięte, kłódka LOTO na wyłączniku głównym (procedura z m3-w1-l4). Rustam niesie nową taśmę (stellite 38 mm, podziałka 15 mm, długość 4200 mm, wyjęta z magazynu taśm).
+Mykoła i Wasyl stoją przy pilarce P3. Pilarka STOP, zasilanie odcięte, kłódka LOTO na wyłączniku głównym (procedura z m3-w1-l4). Mykoła niesie nową taśmę (stellite 38 mm, podziałka 15 mm, długość 4200 mm, wyjęta z magazynu taśm).
 
-> **Rustam:** „Wahan, otwieramy osłonę kół taśmowych. Górna osłona, cztery śruby M8, kluczem 13."
+> **Mykoła:** „Wasyl, otwieramy osłonę kół taśmowych. Górna osłona, cztery śruby M8, kluczem 13."
 >
-> **Wahan:** „Zrobione, osłona zdjęta. Widzę taśmę."
+> **Wasyl:** „Zrobione, osłona zdjęta. Widzę taśmę."
 
-Widzimy starą taśmę (stopową 38/22 z sosnowej kampanii) na kołach. Koło górne (napinające) i dolne (napędowe). Rustam odkręca **napęd napinania** (pokrętło na boku obudowy), napięcie spada z 2400 PSI do 0.
+Widzimy starą taśmę (stopową 38/22 z sosnowej kampanii) na kołach. Koło górne (napinające) i dolne (napędowe). Mykoła odkręca **napęd napinania** (pokrętło na boku obudowy), napięcie spada z 2400 PSI do 0.
 
-> **Rustam:** „Napięcie zwolnione. Teraz zdejmujemy taśmę z koła górnego. Ostrożnie, zęby skierowane na zewnątrz."
+> **Mykoła:** „Napięcie zwolnione. Teraz zdejmujemy taśmę z koła górnego. Ostrożnie, zęby skierowane na zewnątrz."
 
-Rustam i Wahan zdejmują taśmę z koła górnego. Taśma oplata luźno koło dolne. Rustam przesuwa taśmę w dół, zdejmuje z koła dolnego. Starą taśmę zwijają ósemką (standardowa procedura, taśmy składowane w kształcie podwójnej pętli, żeby zmieściły się w pojemniku), odkładają do pojemnika na zużyte (do regeneracji albo na złom).
+Mykoła i Wasyl zdejmują taśmę z koła górnego. Taśma oplata luźno koło dolne. Mykoła przesuwa taśmę w dół, zdejmuje z koła dolnego. Starą taśmę zwijają ósemką (standardowa procedura, taśmy składowane w kształcie podwójnej pętli, żeby zmieściły się w pojemniku), odkładają do pojemnika na zużyte (do regeneracji albo na złom).
 
 Czas: **8 minut** (uwzględnia otwarcie osłony).
 
-> **Rustam:** „Teraz nowa. Stellite 38/15, sprawdź metkę."
+> **Mykoła:** „Teraz nowa. Stellite 38/15, sprawdź metkę."
 >
-> **Wahan** (czyta): „Munkfors Scandinavia, Stellite 38 × 4200, podziałka 15 mm, data produkcji 2026-04-20. Poprawnie."
+> **Wasyl** (czyta): „Munkfors Scandinavia, Stellite 38 × 4200, podziałka 15 mm, data produkcji 2026-04-20. Poprawnie."
 
-Rustam rozwija nową taśmę z pętli, sprawdza kierunek zębów (strzałka na taśmie wskazuje kierunek obrotu, musi pasować do kierunku obrotu kół pilarki, lewo dla P3). Nakłada na koło dolne, przeciąga w górę na koło górne. Napięcie wstępne 2000 PSI (pokrętło).
+Mykoła rozwija nową taśmę z pętli, sprawdza kierunek zębów (strzałka na taśmie wskazuje kierunek obrotu, musi pasować do kierunku obrotu kół pilarki, lewo dla P3). Nakłada na koło dolne, przeciąga w górę na koło górne. Napięcie wstępne 2000 PSI (pokrętło).
 
-> **Rustam:** „Teraz prowadnice. Luz standardowy 3-4 mm między taśmą a prowadnicą."
+> **Mykoła:** „Teraz prowadnice. Luz standardowy 3-4 mm między taśmą a prowadnicą."
 
-Rustam ustawia trzy prowadnice (górna, dolna, boczna) kluczem imbusowym. Sprawdza luz listkiem 3 mm. Pasuje.
+Mykoła ustawia trzy prowadnice (górna, dolna, boczna) kluczem imbusowym. Sprawdza luz listkiem 3 mm. Pasuje.
 
 Czas montażu: **12 minut**.
 
-> **Rustam:** „Teraz regulacja napięcia do 2400 PSI. I test."
+> **Mykoła:** „Teraz regulacja napięcia do 2400 PSI. I test."
 
-Rustam dokręca pokrętło napięcia, manometr pokazuje 2400. Uruchamia krótko silnik (3 sekundy, sam bieg bez obciążenia), obserwuje koła. Taśma porusza się jednostajnie, bez drgań bocznych. Zatrzymuje.
+Mykoła dokręca pokrętło napięcia, manometr pokazuje 2400. Uruchamia krótko silnik (3 sekundy, sam bieg bez obciążenia), obserwuje koła. Taśma porusza się jednostajnie, bez drgań bocznych. Zatrzymuje.
 
-> **Rustam:** „Wszystko w porządku. Zakładam osłonę, zdejmuję LOTO, pilarka gotowa."
+> **Mykoła:** „Wszystko w porządku. Zakładam osłonę, zdejmuję LOTO, pilarka gotowa."
 
 Regulacja: **6 minut**. Razem: **26 minut**, jak w planie.
 
-> **Wahan:** „Gotowi na dąb?"
+> **Wasyl:** „Gotowi na dąb?"
 >
-> **Rustam:** „Gotowi. Pierwszy kłoda dębu czeka na wózku podawczym. Wtaczam, startujemy o 9:30 jak w dyspozycji."
+> **Mykoła:** „Gotowi. Pierwszy kłoda dębu czeka na wózku podawczym. Wtaczam, startujemy o 9:30 jak w dyspozycji."
 
 ### Żywotność taśmy i regeneracja
 
@@ -268,7 +268,7 @@ Zmiana taśmy na Wood-Mizer LT70 przez operatora samodzielnego z asystą pomocni
 
 Ekonomika: stellite na dębie jest droższy w zakupie (320 vs 180 zł), ale **czterokrotnie tańszy na m³** drewna (7,50 vs 30 zł/m³), dzięki długiej żywotności plus regeneracji (4 cykle). Stopowa na dębie niezalecana (zużycie zbyt szybkie, koszt niekonkurencyjny).
 
-Dzisiaj Rustam z Wahanem wymienili taśmę na P3 z stopowej na stellite w 26 minut, zgodnie z planem. Od 9:30 rozpoczyna się kampania dębowa (2,8 m³ przez 3 dni). Rustam jako operator samodzielny zna swoje trzy scenariusze doboru, rozróżnia podziałkę, rozumie ekonomikę regeneracji. W przyszłości, gdy Marek (brygadzista) przekaże dyspozycję „jutro modrzew suchy z Beskidów", Rustam sam wybierze taśmę (prawdopodobnie stellite 38/15, bo modrzew suchy podobny do dębu pod kątem twardości).
+Dzisiaj Mykoła z Wasylem wymienili taśmę na P3 z stopowej na stellite w 26 minut, zgodnie z planem. Od 9:30 rozpoczyna się kampania dębowa (2,8 m³ przez 3 dni). Mykoła jako operator samodzielny zna swoje trzy scenariusze doboru, rozróżnia podziałkę, rozumie ekonomikę regeneracji. W przyszłości, gdy Marek (brygadzista) przekaże dyspozycję „jutro modrzew suchy z Beskidów", Mykoła sam wybierze taśmę (prawdopodobnie stellite 38/15, bo modrzew suchy podobny do dębu pod kątem twardości).
 
 W następnej lekcji (m3-w2-l7) przechodzimy do **geometrii ostrza i rozwarcia zębów**: szpic, rozwarcie, kąt natarcia, ocena wzrokowa stępienia i mikropęknięć u podstawy zęba (dwie najczęstsze przyczyny zerwania taśmy w trakcie cięcia).
 

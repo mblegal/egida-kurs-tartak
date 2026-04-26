@@ -6,15 +6,15 @@ czas: 120
 
 ## Introducción
 
-Miércoles, 28-05-2026, 9:45 de la mañana. Rustam está en el **taller de cintas de los aserraderos** (pol. *warsztat taśm*, sala separada de la nave, 6 × 4 m, con una puerta rotulada „CINTAS, acceso operadores M3, clasificador, encargado"). Ayer martes terminó el pedido ZLE-2026-05-077 (últimos cortes de pino con cepillado para tablas de suelo, continuación de la l1). Hoy, desde la mañana, el turno en la P3 va tranquilo; la primera media hora Rustam y Wahan la dedicaron al mantenimiento diario, y a las 9:30 llegó de Wood-Mizer Polska el **paquete de cintas** (tres devueltas del afilado más una nueva de producción), **y el almacén de cintas de reserva ha adelgazado** hasta dos unidades. El encargado Marek Kowalski ha ordenado a Rustam soldar **dos cintas nuevas a partir del rollo en bruto** (*rolka surowa*, rollo de cinta en bruto) en el taller, para que la reserva vuelva a un estado saludable (4 unidades).
+Miércoles, 28-05-2026, 9:45 de la mañana. Mykoła está en el **taller de cintas de los aserraderos** (pol. *warsztat taśm*, sala separada de la nave, 6 × 4 m, con una puerta rotulada „CINTAS, acceso operadores M3, clasificador, encargado"). Ayer martes terminó el pedido ZLE-2026-05-077 (últimos cortes de pino con cepillado para tablas de suelo, continuación de la l1). Hoy, desde la mañana, el turno en la P3 va tranquilo; la primera media hora Mykoła y Wasyl la dedicaron al mantenimiento diario, y a las 9:30 llegó de Wood-Mizer Polska el **paquete de cintas** (tres devueltas del afilado más una nueva de producción), **y el almacén de cintas de reserva ha adelgazado** hasta dos unidades. El encargado Marek Kowalski ha ordenado a Mykoła soldar **dos cintas nuevas a partir del rollo en bruto** (*rolka surowa*, rollo de cinta en bruto) en el taller, para que la reserva vuelva a un estado saludable (4 unidades).
 
 El taller de cintas (*warsztat taśm*, taller de cintas) no es un sitio al que el operador M1 o M2 tenga acceso por su cuenta. Es **competencia del operador M3**, inscrita en la ficha de cualificación de EGIDA en marzo de 2026 tras la auditoría de competencias (el auditor concluyó que entregar el 100% de las cintas a Wood-Mizer Polska para soldar era un riesgo de continuidad de la producción y que los operadores autónomos debían saber soldar una cinta en local en situaciones de emergencia). La **soldadura de cintas** no es cosa de todos los días: se hace 1-2 veces por trimestre, pero el operador tiene que saber hacerlo bien bajo presión de tiempo (p. ej. cinta rota un viernes por la tarde, sábado con Wood-Mizer cerrado, lunes recogida del cliente, hay que soldar uno mismo).
 
-Wahan hoy no entra al taller (M1 no tiene habilitación), pero observa tras la puerta acristalada. Rustam trabaja solo y va comentando en voz alta el orden de las operaciones, para que Wahan aprenda de forma estructurada (más adelante, en M2, entrará de cerca; en M3 lo hará por su cuenta).
+Wasyl hoy no entra al taller (M1 no tiene habilitación), pero observa tras la puerta acristalada. Mykoła trabaja solo y va comentando en voz alta el orden de las operaciones, para que Wasyl aprenda de forma estructurada (más adelante, en M2, entrará de cerca; en M3 lo hará por su cuenta).
 
 ### 9:47, equipamiento del taller
 
-Rustam hace un rápido inventario del equipamiento (estándar EGIDA, comprobado en cada entrada antes del trabajo):
+Mykoła hace un rápido inventario del equipamiento (estándar EGIDA, comprobado en cada entrada antes del trabajo):
 
 1. **Soldadora de cintas Wood-Mizer BMS-250**, modelo 2018, sobre un banco de trabajo, alimentación 400 V trifásica, potencia del transformador 15 kVA, anchura máxima de cinta 50 mm (la LT70 usa 38, entra sobrada). Contador de soldaduras en el panel: **2847** (desde la compra en 2018, una media de 570 soldaduras al año). Nº de catálogo del fabricante W-BMS250-2018.
 2. **Piedra de afilar de dos etapas** (*brusek dwustopniowy*, piedra de afilar de dos etapas) para el repaso de soldaduras: placa superior de desbaste (grano P80), placa inferior de acabado (P240), nº de catálogo W-GR-80/240.
@@ -31,16 +31,16 @@ Rustam hace un rápido inventario del equipamiento (estándar EGIDA, comprobado 
 10. **Etiquetas adhesivas** A6 para identificar las cintas terminadas (pegatina: tipo, fecha de soldadura, operador, contador de pasos por la afiladora a registrar).
 11. **Manual de soldadura de la LT70** original de Wood-Mizer (en polaco, edición de 2020, vigente, 14 páginas, en una funda de plástico junto a la soldadora).
 
-Rustam comprueba la alimentación: panel en la pared, LED naranja „ready", LED verde „cool" (el equipo aún no está caliente, llegar a la temperatura de soldadura tarda 15 minutos). Gira el interruptor a „ON", el naranja parpadea; en 15 minutos quedará fijo.
+Mykoła comprueba la alimentación: panel en la pared, LED naranja „ready", LED verde „cool" (el equipo aún no está caliente, llegar a la temperatura de soldadura tarda 15 minutos). Gira el interruptor a „ON", el naranja parpadea; en 15 minutos quedará fijo.
 
 ### 10:02, medición y corte de la primera cinta
 
 La longitud de cinta para la LT70 viene dada por el **perímetro de las dos poleas tensoras**. Para la LT70 (poleas Ø 483 mm cada una, ejes separados 1610 mm) el perímetro de la cinta es aproximadamente de **5 m 380 mm** (para la tensión de trabajo de 2200 PSI). Norma Wood-Mizer: **5,40 m ±10 mm** (un centímetro arriba o abajo admisible). Una cinta más corta no enganchará en las poleas con la tensión completa; una más larga no dará los 2200 PSI (el carro tensor tiene un recorrido limitado).
 
-Rustam coge del rollo la **aleada 38/7-8 ángulo 10°** (la primera; hoy vamos con las cintas típicas de pino). Mide sobre la mesa:
+Mykoła coge del rollo la **aleada 38/7-8 ángulo 10°** (la primera; hoy vamos con las cintas típicas de pino). Mide sobre la mesa:
 
 1. Engancha el principio de la cinta en el soporte izquierdo de la mesa (sujeción magnética, la cinta de acero se adhiere).
-2. Despliega el rollo hacia la derecha, a mano. La cinta está enrollada bajo tensión en el rollo y salta bruscamente; Rustam la sujeta con guantes gruesos de cuero (SST: la cinta tiene dientes, corta el dedo al menor descuido).
+2. Despliega el rollo hacia la derecha, a mano. La cinta está enrollada bajo tensión en el rollo y salta bruscamente; Mykoła la sujeta con guantes gruesos de cuero (SST: la cinta tiene dientes, corta el dedo al menor descuido).
 3. Mide con un flexómetro de acero de 5 metros (dos unidades, solapadas) y marca con rotulador blanco el punto de corte a los **5,40 m**.
 4. Añade un tramo de control **+20 mm** para el corte (la sierra circular se come 2-3 mm, más margen para la limpieza del extremo).
 5. Corte con la sierra circular HSS: cinta apoyada en la mesa, sierra en la mano, corte perpendicular en ángulo de 90° (importante para que los extremos queden paralelos entre sí tras soldar).
@@ -55,7 +55,7 @@ Los extremos de la cinta vienen afilados de fábrica (dientes y canto), pero no 
 2. **Acetona en un algodón**, frotado en esa misma franja de ~3 cm. Elimina la grasa que el cepillo no ha arrastrado. La acetona se evapora en 20-30 segundos, sin residuos. **Aviso de SST**: acetona en recipiente abierto solo un instante, guantes de nitrilo (no de látex, la acetona disuelve el látex), la nave dispone de ventilación y está clasificada como zona ATEX 22, así que una llama abierta (p. ej. un cigarrillo) en el mismo turno quedaría prohibida antes de cerrar el frasco.
 3. **Secado al aire de 30 segundos** para que los restos de acetona se evaporen antes de llevar la cinta a la soldadora.
 
-Rustam lo hace con un cuidado metódico. Lleva años aprendiendo que **la calidad de la soldadura empieza en el cepillo de acero**. En el aserradero de Rumanía donde trabajó antes de Polonia la norma era „cepilla hasta que veas la cara metálica rugosa desnuda sin ningún film mate", y esa norma vino con Rustam.
+Mykoła lo hace con un cuidado metódico. Lleva años aprendiendo que **la calidad de la soldadura empieza en el cepillo de acero**. En el aserradero de Rumanía donde trabajó antes de Polonia la norma era „cepilla hasta que veas la cara metálica rugosa desnuda sin ningún film mate", y esa norma vino con Mykoła.
 
 ### 10:11, colocación en las mordazas de la soldadora
 
@@ -70,7 +70,7 @@ La soldadora Wood-Mizer BMS-250 tiene un panel superior con:
 - **LED verde** (ready, preparada para soldar)
 - **LED roja** (error, ciclo interrumpido, sobrecalentamiento del transformador)
 
-Rustam ajusta:
+Mykoła ajusta:
 - **Corriente: 9 kA** (centro del rango 8-10 para cintas 38 × 1,07 aleadas)
 - **Tiempo: 1,8 s** (estándar Wood-Mizer para este espesor)
 - **Presión: 70 kg** (regulada con la palanca mecánica, verificada con la báscula de resorte EGIDA, que marca 68-72 kg, aceptable)
@@ -82,11 +82,11 @@ Colocación de los extremos de la cinta en las mordazas:
 4. Comprobación del contacto de extremos: debe ser **metal contra metal sin holgura y sin solape**. Si hay una holgura de 0,1 mm, en la soldadura quedará un hueco (se romperá con la primera tensión). Si solapa, el derecho sobre el izquierdo, la soldadura quedará más gruesa en ese punto (habrá que repasarla más a fondo). Óptimo: extremos que se tocan plano contra plano, visiblemente perpendiculares.
 5. Palanca de la mordaza derecha hacia abajo.
 
-Rustam lo comprueba a simple vista. Contacto bien perpendicular, holgura imperceptible. **OK**.
+Mykoła lo comprueba a simple vista. Contacto bien perpendicular, holgura imperceptible. **OK**.
 
 ### 10:15, ciclo de soldadura
 
-Rustam se aparta del brazo de la soldadora (SST: la soldadura es muy brillante y exige gafas de protección DIN 5 o DIN 6; Rustam lleva unas DIN 5 subidas a la frente, listas para bajar en el momento del arranque).
+Mykoła se aparta del brazo de la soldadora (SST: la soldadura es muy brillante y exige gafas de protección DIN 5 o DIN 6; Mykoła lleva unas DIN 5 subidas a la frente, listas para bajar en el momento del arranque).
 
 - **Gafas bajadas** (cristales verdes, filtro de luminosidad).
 - **Mano sobre el botón de arranque.**
@@ -100,7 +100,7 @@ Ciclo automático:
 - **2,1-4,0 s**: enfriamiento bajo presión durante 2 segundos (importante: bajo presión solidifica de forma uniforme, sin poros).
 - **4,0 s**: presión liberada, ciclo terminado, LED verde parpadea.
 
-Rustam ve a través de las gafas un fuerte destello blanco (corto, 1-2 s); el punto soldado pasa a rojo, después rojo oscuro y finalmente negro metálico. La soldadora emite el zumbido grave típico de 50 Hz de la corriente de soldadura. Wahan, al otro lado de la puerta, ve el destello a través del acristalado y entorna levemente los ojos (también se puso gafas de protección; en el taller SST no exige gafas al observador tras la puerta acristalada, pero EGIDA las requiere para habituar al aprendiz al procedimiento).
+Mykoła ve a través de las gafas un fuerte destello blanco (corto, 1-2 s); el punto soldado pasa a rojo, después rojo oscuro y finalmente negro metálico. La soldadora emite el zumbido grave típico de 50 Hz de la corriente de soldadura. Wasyl, al otro lado de la puerta, ve el destello a través del acristalado y entorna levemente los ojos (también se puso gafas de protección; en el taller SST no exige gafas al observador tras la puerta acristalada, pero EGIDA las requiere para habituar al aprendiz al procedimiento).
 
 ### 10:16, enfriamiento natural
 
@@ -108,15 +108,15 @@ Tras la soldadura, con la cinta aún en las mordazas, **no se puede retirar de i
 
 Procedimiento EGIDA: **espera 60-90 segundos con la cinta en las mordazas** para que la temperatura se equilibre con el entorno. Después afloja las mordazas con cuidado y saca la cinta a la siguiente etapa.
 
-Rustam espera. Se queda junto a la soldadora, mira el termómetro de la pared (22 °C en la nave) y piensa en el pedido de mañana. Wahan asoma por la puerta; Rustam le hace un gesto con el dedo: „espera". Wahan asiente, **buen trabajo con el procedimiento**.
+Mykoła espera. Se queda junto a la soldadora, mira el termómetro de la pared (22 °C en la nave) y piensa en el pedido de mañana. Wasyl asoma por la puerta; Mykoła le hace un gesto con el dedo: „espera". Wasyl asiente, **buen trabajo con el procedimiento**.
 
-10:17, 75 segundos después de la soldadura. Rustam abre las mordazas y saca la cinta. Toca con el dedo enguantado la soldadura: tibia, **pero no caliente** (40-45 °C). Pasa al repaso.
+10:17, 75 segundos después de la soldadura. Mykoła abre las mordazas y saca la cinta. Toca con el dedo enguantado la soldadura: tibia, **pero no caliente** (40-45 °C). Pasa al repaso.
 
 ### 10:18, repaso de la soldadura
 
 Después de la soldadora, la soldadura no queda lisa. En la línea de contacto de los extremos aparece un **„cordón"** (material ligeramente abultado, típicamente 0,5-1,0 mm por encima del espesor de la cinta) por ambas caras planas. Si montáramos una cinta con ese cordón en la sierra, **el cordón rozaría contra los tacos guía** (tacos BG-UHMW-70 de l8 M3 T2), los desgastaría deprisa y él mismo se mellaría.
 
-Rustam coge la **piedra de afilar de dos etapas**:
+Mykoła coge la **piedra de afilar de dos etapas**:
 
 **Etapa 1, piedra gruesa P80** (abrasivo de grano 80, manual, placa de ~10 cm, 2-3 cm de grosor, sujeta en la palma):
 1. Apoyar la cinta en la mesa, con el lomo hacia arriba y la soldadura bajo la piedra.
@@ -131,15 +131,15 @@ Rustam coge la **piedra de afilar de dos etapas**:
 4. Tiempo: 1-2 minutos por cara.
 
 **Etapa 3, medida con micrómetro**:
-Rustam mide la soldadura (centro del ancho de la cinta, con el micrómetro en perpendicular). Medida 1: **1,08 mm**. Medida 2 a 2 mm de la primera: **1,07 mm**. Medida 3: **1,06 mm**. Media **1,07 mm**, que es el espesor de fábrica de la cinta. **OK**, soldadura repasada de forma uniforme.
+Mykoła mide la soldadura (centro del ancho de la cinta, con el micrómetro en perpendicular). Medida 1: **1,08 mm**. Medida 2 a 2 mm de la primera: **1,07 mm**. Medida 3: **1,06 mm**. Media **1,07 mm**, que es el espesor de fábrica de la cinta. **OK**, soldadura repasada de forma uniforme.
 
-Wahan pregunta desde la puerta: *„¿Por qué mides tres veces?"* Rustam: *„Porque en los 5 cm de ancho de la soldadura el espesor puede variar. Si un lado de la soldadura es de 1,10 mm (demasiado grueso) y el otro de 1,05 mm (demasiado fino), la media de 1,07 parece OK, pero en realidad tengo una soldadura desigual que se descentra en el corte. Tengo que ver los tres puntos juntos, no solo la media."*
+Wasyl pregunta desde la puerta: *„¿Por qué mides tres veces?"* Mykoła: *„Porque en los 5 cm de ancho de la soldadura el espesor puede variar. Si un lado de la soldadura es de 1,10 mm (demasiado grueso) y el otro de 1,05 mm (demasiado fino), la media de 1,07 parece OK, pero en realidad tengo una soldadura desigual que se descentra en el corte. Tengo que ver los tres puntos juntos, no solo la media."*
 
 Tolerancia EGIDA para la soldadura: **1,07 ±0,03 mm** en cada uno de los tres puntos (*tolerancja grubości zgrzewu*, tolerancia de espesor de soldadura). Para la soldadura de hoy los tres están dentro (1,06 a 1,08), **OK**.
 
 ### 10:26, inspección visual y geométrica
 
-Tras el repaso Rustam:
+Tras el repaso Mykoła:
 
 1. **Coloca la cinta plana sobre la mesa** y mira desde un ángulo lateral. La soldadura debe ser **invisible desde la perspectiva plana** (no hay „giba" ni „valle" en el plano de la cinta).
 2. **Mira desde arriba** la soldadura buscando microgrietas (lo más frecuente, en el centro del ancho, son líneas oscuras finas tipo pelo). En una buena soldadura: gris metálico mate uniforme, con finas estrías del lijado P240. En una mala: grietas radiales o axiales visibles. Soldadura de hoy: **uniforme, OK**.
@@ -150,12 +150,12 @@ Si cualquiera de las pruebas no es OK, la soldadura va a la papelera (corte y nu
 
 ### 10:28, etiquetado y almacén
 
-Rustam coge una etiqueta adhesiva A6 y escribe:
+Mykoła coge una etiqueta adhesiva A6 y escribe:
 
 ```
 Tipo: aleada 38×1,07, paso 7/8, ángulo 10°
 Nº: EGIDA-ST-77-2026-05-28
-Soldadura: 2026-05-28, 10:15, Rustam Nazarov
+Soldadura: 2026-05-28, 10:15, Mykoła Hrycenko
 Contador tras afilado: 0 (soldada, aún no afilada)
 Almacén: taller de cintas, estante 2
 ```
@@ -166,11 +166,11 @@ Contador de la soldadora: **2848** (2847 antes, +1 con esta).
 
 ### 10:35, segunda cinta, repetición
 
-Rustam repite el ciclo completo para la **segunda cinta**, también aleada 38/7-8 ángulo 10° (el almacén está escaso de este tipo). Medir, cortar, cepillar, acetona, colocar en las mordazas, ciclo de soldadura (9 kA / 1,8 s / 70 kg), enfriar 75 s, repasar P80/P240, medir con micrómetro (1,07/1,07/1,08), prueba de flexión, etiqueta, almacén.
+Mykoła repite el ciclo completo para la **segunda cinta**, también aleada 38/7-8 ángulo 10° (el almacén está escaso de este tipo). Medir, cortar, cepillar, acetona, colocar en las mordazas, ciclo de soldadura (9 kA / 1,8 s / 70 kg), enfriar 75 s, repasar P80/P240, medir con micrómetro (1,07/1,07/1,08), prueba de flexión, etiqueta, almacén.
 
-Tiempo: **17 minutos** (sin contar la puesta en marcha ni la espera a que la soldadora estuviera lista). La segunda cinta va más rápida que la primera, porque los movimientos de Rustam ya están asentados.
+Tiempo: **17 minutos** (sin contar la puesta en marcha ni la espera a que la soldadora estuviera lista). La segunda cinta va más rápida que la primera, porque los movimientos de Mykoła ya están asentados.
 
-10:52, taller de cintas terminado, **dos cintas nuevas en el almacén**, reserva de vuelta a un saludable 4 unidades. Rustam apaga la soldadora (LED naranja se apaga, LED verde „cool" momentáneo), recoge la mesa y vuelve a la nave a la P3.
+10:52, taller de cintas terminado, **dos cintas nuevas en el almacén**, reserva de vuelta a un saludable 4 unidades. Mykoła apaga la soldadora (LED naranja se apaga, LED verde „cool" momentáneo), recoge la mesa y vuelve a la nave a la P3.
 
 ## Objetivos
 
@@ -241,7 +241,7 @@ Una soldadura mala (mal ejecutada) acorta la vida de la cinta. Estadísticas EGI
   - 1 se rompió a los 80 cortes (soldadura al límite, difícil atribuir la causa, el diagnóstico de Wood-Mizer no la detectó)
   - 1 se rompió a los 130 cortes (aceptable, cerca de la vida esperada, no es „mala soldadura")
 
-Umbral de aceptación EGIDA: **máx. 10% de rechazo en primera línea** (el operador mismo descarta una soldadura mal hecha en la fase de pruebas). Si un operador tiene una estadística del 15%+ de rechazo en un trimestre, el encargado invita a Rustam (o a Damian) a Wood-Mizer Polska a un día de formación (procedimiento EGIDA de 2024).
+Umbral de aceptación EGIDA: **máx. 10% de rechazo en primera línea** (el operador mismo descarta una soldadura mal hecha en la fase de pruebas). Si un operador tiene una estadística del 15%+ de rechazo en un trimestre, el encargado invita a Mykoła (o a Damian) a Wood-Mizer Polska a un día de formación (procedimiento EGIDA de 2024).
 
 Para comparar, las soldaduras **de Wood-Mizer Polska** tienen una estadística **>95% de ciclo completo** (~5% de roturas). EGIDA con su 91,5% queda por debajo pero dentro de lo aceptable; la diferencia procede de la experiencia y del parque de máquinas de la planta (BMS-250 de EGIDA frente a las máquinas de planta de WM Polska).
 
@@ -357,11 +357,11 @@ Infringir cualquiera de estos requisitos corresponde al **art. 211 pto. 2 del C�
 
 ## Escena de cierre, 11:00, prueba de cintas en la P3
 
-Rustam vuelve del taller a la nave de aserraderos. En la mano, **una de las dos cintas recién soldadas**; la otra queda en el almacén como reserva. La primera va **a la P3 para una prueba práctica** (nada sustituye la comprobación en condiciones reales de corte; las pruebas de laboratorio son un control, pero la prueba final es cortar).
+Mykoła vuelve del taller a la nave de aserraderos. En la mano, **una de las dos cintas recién soldadas**; la otra queda en el almacén como reserva. La primera va **a la P3 para una prueba práctica** (nada sustituye la comprobación en condiciones reales de corte; las pruebas de laboratorio son un control, pero la prueba final es cortar).
 
 ### 11:05, cambio de cinta en la P3
 
-La P3 ha trabajado desde la mañana con la cinta de ayer (aleada 38/7-8, 130 cortes en el contador, cerca del final del ciclo, buen momento para cambiar). Rustam procede según l6/l7:
+La P3 ha trabajado desde la mañana con la cinta de ayer (aleada 38/7-8, 130 cortes en el contador, cerca del final del ciclo, buen momento para cambiar). Mykoła procede según l6/l7:
 
 - LOTO (interruptor OFF, candado, tarjeta).
 - Suelta de tensión (palanca a SUELTO, manómetro a 0).
@@ -378,48 +378,48 @@ Tiempo total: **22 minutos**.
 
 ### 11:27, corte de prueba
 
-Sobre el carro de la P3 hay un trozo pequeño de pino (sección de tronco de ~60 cm de longitud, 25 cm de diámetro, sobrante del ZLE-077 de ayer; Rustam lo guardó aposta para probar cintas nuevas). No es un corte „de pedido", es una **prueba de calidad de la soldadura en corte real**.
+Sobre el carro de la P3 hay un trozo pequeño de pino (sección de tronco de ~60 cm de longitud, 25 cm de diámetro, sobrante del ZLE-077 de ayer; Mykoła lo guardó aposta para probar cintas nuevas). No es un corte „de pedido", es una **prueba de calidad de la soldadura en corte real**.
 
-Velocidad de avance: **30 pies/min** (prudente, para poder observar la cinta). Rustam inicia el corte. La cinta avanza por la madera, corte recto, sonido del motor uniforme, sin „ondulación". 60 cm de corte, en 4 segundos el cabezal vuelve. Tabla nº 1 en la mano, espesor uniforme de 28 × 155 mm (medida en 3 puntos: 27,8 / 28,0 / 28,2 mm), **dentro de tolerancia**.
+Velocidad de avance: **30 pies/min** (prudente, para poder observar la cinta). Mykoła inicia el corte. La cinta avanza por la madera, corte recto, sonido del motor uniforme, sin „ondulación". 60 cm de corte, en 4 segundos el cabezal vuelve. Tabla nº 1 en la mano, espesor uniforme de 28 × 155 mm (medida en 3 puntos: 27,8 / 28,0 / 28,2 mm), **dentro de tolerancia**.
 
 Segundo corte, misma velocidad. Tabla nº 2 en la mano, medidas **28,0 / 28,1 / 28,0**. **OK**.
 
 Tercer corte: nudo en el centro del tronco (visible desde delante); la cinta lo atraviesa **sin resistencia** visible (no se engancha, el sonido del motor no se altera), corte en la zona del nudo **recto**. Tabla nº 3: **28,0 / 27,9 / 28,1**.
 
-**Prueba de 3 cortes OK.** La cinta es apta para trabajo productivo. Rustam detiene la máquina, va a la mesa y cumplimenta la KDP-001 para el siguiente pedido (mañana jueves, plan del pedido ZLE-2026-05-079 del encargado Marek).
+**Prueba de 3 cortes OK.** La cinta es apta para trabajo productivo. Mykoła detiene la máquina, va a la mesa y cumplimenta la KDP-001 para el siguiente pedido (mañana jueves, plan del pedido ZLE-2026-05-079 del encargado Marek).
 
 ### 11:40, entrada en el diario del taller
 
-El taller de cintas tiene su **propio diario** (*dziennik warsztatu*, diario del taller), registro de todas las soldaduras (separado de la KKS-001 y de la KDP-001, documento dedicado del taller). Rustam vuelve un minuto, escribe dos filas:
+El taller de cintas tiene su **propio diario** (*dziennik warsztatu*, diario del taller), registro de todas las soldaduras (separado de la KKS-001 y de la KDP-001, documento dedicado del taller). Mykoła vuelve un minuto, escribe dos filas:
 
 ```
-2026-05-28 10:15  EGIDA-ST-77  aleada 38/7-8/10°  R.Nazarov  9kA/1,8s/70kg  1,07-1,07-1,08  prueba-3-cortes OK
-2026-05-28 10:52  EGIDA-ST-78  aleada 38/7-8/10°  R.Nazarov  9kA/1,8s/70kg  1,07-1,07-1,07  en almacén, prueba tras montaje
+2026-05-28 10:15  EGIDA-ST-77  aleada 38/7-8/10°  R.Hrycenko  9kA/1,8s/70kg  1,07-1,07-1,08  prueba-3-cortes OK
+2026-05-28 10:52  EGIDA-ST-78  aleada 38/7-8/10°  R.Hrycenko  9kA/1,8s/70kg  1,07-1,07-1,07  en almacén, prueba tras montaje
 ```
 
 Retención del diario: 5 años en papel más escaneo en OneDrive.
 
-### 11:45, reflexión de Rustam con Wahan
+### 11:45, reflexión de Mykoła con Wasyl
 
-Wahan ha esperado todo el tiempo un nuevo pedido, mirando por la puerta del taller y apuntando en su agenda. Toca momento de conversación con café (11:45, pausa breve de 15 minutos).
+Wasyl ha esperado todo el tiempo un nuevo pedido, mirando por la puerta del taller y apuntando en su agenda. Toca momento de conversación con café (11:45, pausa breve de 15 minutos).
 
-Rustam: *„Wahan, ¿qué has apuntado de lo que has visto?"*
+Mykoła: *„Wasyl, ¿qué has apuntado de lo que has visto?"*
 
-Wahan lee la agenda: *„1. Cepillo + acetona + esperar 30 s secado. 2. Colocar en mordazas, comprobar perpendicularidad y dientes. 3. Corriente 9, tiempo 1,8, presión 70. 4. Arranque, destello, esperar 80 segundos. 5. Repaso P80, repaso P240, medir 3 puntos, prueba de flexión. 6. Etiqueta, almacén."*
+Wasyl lee la agenda: *„1. Cepillo + acetona + esperar 30 s secado. 2. Colocar en mordazas, comprobar perpendicularidad y dientes. 3. Corriente 9, tiempo 1,8, presión 70. 4. Arranque, destello, esperar 80 segundos. 5. Repaso P80, repaso P240, medir 3 puntos, prueba de flexión. 6. Etiqueta, almacén."*
 
 *„Bien. Falta una cosa, la más importante, de la que no te has dado cuenta."*
 
-Wahan piensa. *„¿La SST de la acetona?"*
+Wasyl piensa. *„¿La SST de la acetona?"*
 
 *„No, ni siquiera eso. **Lo hago todo despacio.** No me apresuro. Cada paso tiene su tiempo. ¿Has visto cómo me paré 5 segundos entre el cepillo y la acetona? Comprobaba si el cepillo había retirado todo de verdad, no solo pasado por encima. ¿Has visto cómo miré el contacto de los extremos en las mordazas durante 10 segundos? Miraba si estaban perpendiculares y los dientes paralelos. Ninguno de esos 5-10 segundos se nota, pero **están en la estadística de la soldadura: 91,5% buenas frente al 80% si me apresuro**. Soldar es paciencia."*
 
-Wahan apunta: *„Paciencia. 5-10 segundos de lentitud = +10 puntos porcentuales de calidad."*
+Wasyl apunta: *„Paciencia. 5-10 segundos de lentitud = +10 puntos porcentuales de calidad."*
 
 *„Y recuerda, no tienes que saber soldar en M1 ni en M2. Yo también aprendí solo en marzo de 2026, tras la auditoría de competencias. **La competencia crece con el tiempo y la disciplina, no con la prisa.**"*
 
 ### 12:00, el turno continúa
 
-El resto del turno en la P3 pasa sin incidente. Rustam continúa con cortes pequeños (restos de pino de los últimos troncos del ZLE-077), Wahan en el alimentador. La cinta recién soldada trabaja con fluidez, cortes rectos, sin titubeos. A las 15:00 fin de turno, Rustam recoge el puesto, la KDP-001 queda cumplimentada (secciones 1-5), sobre para la mesa del encargado. Día cerrado.
+El resto del turno en la P3 pasa sin incidente. Mykoła continúa con cortes pequeños (restos de pino de los últimos troncos del ZLE-077), Wasyl en el alimentador. La cinta recién soldada trabaja con fluidez, cortes rectos, sin titubeos. A las 15:00 fin de turno, Mykoła recoge el puesto, la KDP-001 queda cumplimentada (secciones 1-5), sobre para la mesa del encargado. Día cerrado.
 
 ## Términos clave
 

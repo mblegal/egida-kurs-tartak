@@ -6,15 +6,15 @@ czas: 120
 
 ## Wprowadzenie
 
-Poniedziałek, 2026-05-18, godzina 7:15. Rustam przychodzi na halę pilarek 15 minut przed oficjalnym startem zmiany (7:30). W planie dnia druga kampania dębowa: **3,2 m³ dębu szypułkowego** (*Quercus robur*) z Nadleśnictwa Strzałowo, deski 40 × 180 × 2500 mm, klasa jakości G2-1, klient „Dąb-Meble" Piaseczno. Pilarka taśmowa **P3 Wood-Mizer LT70**, ta sama co w l6. Taśma zamontowana tam trzy dni temu (stellite 38 mm, podziałka 15 mm, nr serii 24052, producent Munkfors Scandinavia, w magazynie od kwietnia 2026) przecięła podczas pierwszej kampanii dębowej (środa 13 maja do piątek 15 maja) **8,4 m³** dębu z Nadleśnictwa Strzałowo. Weekend. Dziś drugi raz dąb na tej samej taśmie.
+Poniedziałek, 2026-05-18, godzina 7:15. Mykoła przychodzi na halę pilarek 15 minut przed oficjalnym startem zmiany (7:30). W planie dnia druga kampania dębowa: **3,2 m³ dębu szypułkowego** (*Quercus robur*) z Nadleśnictwa Strzałowo, deski 40 × 180 × 2500 mm, klasa jakości G2-1, klient „Dąb-Meble" Piaseczno. Pilarka taśmowa **P3 Wood-Mizer LT70**, ta sama co w l6. Taśma zamontowana tam trzy dni temu (stellite 38 mm, podziałka 15 mm, nr serii 24052, producent Munkfors Scandinavia, w magazynie od kwietnia 2026) przecięła podczas pierwszej kampanii dębowej (środa 13 maja do piątek 15 maja) **8,4 m³** dębu z Nadleśnictwa Strzałowo. Weekend. Dziś drugi raz dąb na tej samej taśmie.
 
-Przed startem Rustam ma decyzję do podjęcia: czy zostawić tę taśmę na kolejne 3,2 m³ (łącznie 11,6 m³ jej życia aktywnego), czy wymienić teraz na nową. Regeneracja zewnętrzna była dwa razy w historii tej taśmy (przed sosną w kwietniu i po sośnie w maju), więc to już trzeci cykl życia. Stellite 38 mm wytrzymuje typowo 3-4 cykle regeneracji zanim pas staje się za wąski albo zęby tracą formę.
+Przed startem Mykoła ma decyzję do podjęcia: czy zostawić tę taśmę na kolejne 3,2 m³ (łącznie 11,6 m³ jej życia aktywnego), czy wymienić teraz na nową. Regeneracja zewnętrzna była dwa razy w historii tej taśmy (przed sosną w kwietniu i po sośnie w maju), więc to już trzeci cykl życia. Stellite 38 mm wytrzymuje typowo 3-4 cykle regeneracji zanim pas staje się za wąski albo zęby tracą formę.
 
-Wahan jest tu równocześnie (od 4 maja stale z Rustamem, po instruktażu z m3-w1-l8). Pomaga przy zdejmowaniu osłony.
+Wasyl jest tu równocześnie (od 4 maja stale z Mykołą, po instruktażu z m3-w1-l8). Pomaga przy zdejmowaniu osłony.
 
-O 7:20 na halę wchodzi niespodziewanie **Pani Ania** (Anna Kowalczyk, klasyfikator EGIDA, certyfikat PN-EN 1611-1 ITD Poznań 2014/ITD/312). Przyszła na wyrywkową inspekcję stanowiska, które odbywa się co 2-3 tygodnie po drodze jej pracy klasyfikatorskiej. Wczoraj skończyła inspekcję P1 i P2 (pilarki Serra SM40), dziś P3 Wood-Mizer LT70 jest w kolejności. Dobrze trafiła: Rustam akurat ma taśmę do oceny.
+O 7:20 na halę wchodzi niespodziewanie **Pani Ania** (Anna Kowalczyk, klasyfikator EGIDA, certyfikat PN-EN 1611-1 ITD Poznań 2014/ITD/312). Przyszła na wyrywkową inspekcję stanowiska, które odbywa się co 2-3 tygodnie po drodze jej pracy klasyfikatorskiej. Wczoraj skończyła inspekcję P1 i P2 (pilarki Serra SM40), dziś P3 Wood-Mizer LT70 jest w kolejności. Dobrze trafiła: Mykoła akurat ma taśmę do oceny.
 
-Ania: *„Rustam, świetne moment. Zanim odpalisz maszynę, wspólnie obejrzymy tę taśmę lupą. 8,4 m³ dębu to już poważny przebieg, stellite na twardym gatunku ma żywotność teoretyczną 8-10 m³, czyli jesteśmy w strefie decyzji."*. Wahan patrzy z ciekawością, nigdy nie widział formalnej inspekcji taśmy pod lupą.
+Ania: *„Mykoła, świetne moment. Zanim odpalisz maszynę, wspólnie obejrzymy tę taśmę lupą. 8,4 m³ dębu to już poważny przebieg, stellite na twardym gatunku ma żywotność teoretyczną 8-10 m³, czyli jesteśmy w strefie decyzji."*. Wasyl patrzy z ciekawością, nigdy nie widział formalnej inspekcji taśmy pod lupą.
 
 Ania wyciąga z torby małą czarną lupę z zielonym oznaczeniem **10×** (numer fabryczny ITD-5P, standardowy przyrząd klasyfikatora akredytowanego). Wyciąga też lampkę LED z cienkim paskiem światła (do oświetlania ukośnego) i **szczelinomierz rozwarciowy** (*set gauge*, metalowa płytka z ząbkiem wzorcowym).
 
@@ -257,29 +257,29 @@ Czas inspekcji dla taśmy stellite 38/15 dębowej (280 zębów): 45-60 minut (r�
 - **4+ mikropęknięć, albo jedno >0,5 mm**: **wymiana, regeneracja zbyt ryzykowna**. Warsztaty zewnętrzne odpowiedzialne (Ostrzex, Zmechanizowane Drewno) nie przyjmują taśm z takim uszkodzeniem.
 - **Szczelina >1 mm**: **bezzwłoczna wymiana**, taśma pęknie w ciągu 1-2 m³. Nie uruchamiaj pilarki.
 
-### Scena inspekcji (Rustam, Wahan, Pani Ania)
+### Scena inspekcji (Mykoła, Wasyl, Pani Ania)
 
 Poniedziałek 18 maja, 7:25. Pani Ania rozkłada na stole warsztatowym (obok P3) lupę 10×, lampkę LED z akumulatorem i kartę inspekcji taśmy (formularz EGIDA-TAS-005, dwie kartki A4, pola na 280 zębów).
 
-Ania: *„Rustam, Wahan, ustawmy się tak. Ty, Rustam, trzymaj taśmę rozłożoną na stole, przesuwaj ją co 100 zębów. Wahan, ustawiaj lampkę pod kątem 30-45° od dołu. Ja oceniam lupą i zapisuję. Pracujemy zęby 1-100, potem zmiana Rustam bada 101-200 sam pod moim okiem, żeby się nauczył, a ja zapisuję to co zobaczy. Wahan w tym czasie 201-280."*.
+Ania: *„Mykoła, Wasyl, ustawmy się tak. Ty, Mykoła, trzymaj taśmę rozłożoną na stole, przesuwaj ją co 100 zębów. Wasyl, ustawiaj lampkę pod kątem 30-45° od dołu. Ja oceniam lupą i zapisuję. Pracujemy zęby 1-100, potem zmiana Mykoła bada 101-200 sam pod moim okiem, żeby się nauczył, a ja zapisuję to co zobaczy. Wasyl w tym czasie 201-280."*.
 
-Rustam zdejmuje taśmę stellite 38/15 z koła górnego P3. Pan Pani Ania oczyścił kołem zewnętrznym (stellite delikatny, nie chcemy zarysowań). Rozkłada taśmę na stole, wyrównuje.
+Mykoła zdejmuje taśmę stellite 38/15 z koła górnego P3. Pan Pani Ania oczyścił kołem zewnętrznym (stellite delikatny, nie chcemy zarysowań). Rozkłada taśmę na stole, wyrównuje.
 
 Ania zaczyna od zęba 1 (punkt bezpośrednio po zgrzewie fabrycznym, dobrze oznakowany czerwoną kropką na paśle). Lupa na szpic:
 
 *„Zęby 1, 2, 3, 4, 5... promień zaokrąglenia około 0,1-0,15 mm, w normie dla taśmy po 8 m³. Widzicie? Jeszcze jest wyraźna końcówka, ale lekko zaokrąglona."*
 
-Rustam patrzy przez lupę. Widzi szpic zęba jako łuk zamiast ostrego wierzchołka. Ania pokazuje na karcie punkt „szpic" z oceną 2/4 (lekkie stępienie, jeszcze sprawna).
+Mykoła patrzy przez lupę. Widzi szpic zęba jako łuk zamiast ostrego wierzchołka. Ania pokazuje na karcie punkt „szpic" z oceną 2/4 (lekkie stępienie, jeszcze sprawna).
 
 Ania przechodzi do gardła: *„Zęby 1-2 gardło... czyste. Zęby 2-3 gardło... czyste. Zęby 3-4... hmm."* Przesuwa lupę, zmienia kąt lampki. *„Widzicie cieniutką linię? W gardle między zębem 3 a 4, około 0,15 mm długości, prostopadle do pasa."*
 
-Wahan patrzy przez lupę. Widzi bardzo cienką ciemną kreskę, łatwiej widoczną gdy Ania przesuwa lampkę. Zapisuje w karcie: „zęby 3-4, mikropęknięcie 0,15 mm, prostopadłe".
+Wasyl patrzy przez lupę. Widzi bardzo cienką ciemną kreskę, łatwiej widoczną gdy Ania przesuwa lampkę. Zapisuje w karcie: „zęby 3-4, mikropęknięcie 0,15 mm, prostopadłe".
 
 Ania kontynuuje przez zęby 5 do 100. W tym zakresie znajdują **drugie mikropęknięcie** (zęby 87-88, 0,20 mm, prostopadłe). Zapisane.
 
-7:55. Zmiana ról. Rustam bada zęby 101-200 sam, pod okiem Pani Ani. Powoli, w każdym gardle lupa + zmiana kąta światła. Znajduje **trzecie mikropęknięcie** (zęby 145-146, 0,10 mm), podnosi głowę z uśmiechem: *„Widzę, Pani Aniu. Ciemna kreska."* Ania potwierdza: *„Tak. Dobre oko. Zapisz."*. W tym samym zakresie Rustam zauważa też **silniejsze zaokrąglenie szpica** zęba 145 (sąsiadujący z pęknięciem), promień około 0,25 mm (wyraźnie większy niż średnia 0,15). Notują.
+7:55. Zmiana ról. Mykoła bada zęby 101-200 sam, pod okiem Pani Ani. Powoli, w każdym gardle lupa + zmiana kąta światła. Znajduje **trzecie mikropęknięcie** (zęby 145-146, 0,10 mm), podnosi głowę z uśmiechem: *„Widzę, Pani Aniu. Ciemna kreska."* Ania potwierdza: *„Tak. Dobre oko. Zapisz."*. W tym samym zakresie Mykoła zauważa też **silniejsze zaokrąglenie szpica** zęba 145 (sąsiadujący z pęknięciem), promień około 0,25 mm (wyraźnie większy niż średnia 0,15). Notują.
 
-8:25. Wahan bada zęby 201-280. Zero dodatkowych pęknięć. Szpice w normie (0,1-0,15 mm).
+8:25. Wasyl bada zęby 201-280. Zero dodatkowych pęknięć. Szpice w normie (0,1-0,15 mm).
 
 8:45. Pomiar rozwarcia. Pani Ania wyjmuje szczelinomierz rozwarciowy. Pomiar w trzech miejscach:
 
@@ -302,22 +302,22 @@ Ania kontynuuje przez zęby 5 do 100. W tym zakresie znajdują **drugie mikropę
 
 **Decyzja**:
 
-Ania patrzy na kartę, na Rustama, na Wahana: *„Rustam, decyzja należy do ciebie. Jesteś operatorem samodzielnym, to jest twoja taśma, twoja kampania dębowa. Ja doradzam, ty decydujesz. Co zrobisz?"*.
+Ania patrzy na kartę, na Mykołę, na Wasyla: *„Mykoła, decyzja należy do ciebie. Jesteś operatorem samodzielnym, to jest twoja taśma, twoja kampania dębowa. Ja doradzam, ty decydujesz. Co zrobisz?"*.
 
-Rustam myśli. Trzy mikropęknięcia to jedno ponad normę. Rozwarcie graniczne. Szpic w normie ale ze wskazaniem. Historia taśmy: to trzeci cykl życia (po dwóch regeneracjach), kolejna regeneracja była by czwarta, pas jest już 37,6 mm szerokości (po 0,2-0,4 mm szlifowaniach w regeneracjach), bliski granicy minimum 37 mm.
+Mykoła myśli. Trzy mikropęknięcia to jedno ponad normę. Rozwarcie graniczne. Szpic w normie ale ze wskazaniem. Historia taśmy: to trzeci cykl życia (po dwóch regeneracjach), kolejna regeneracja była by czwarta, pas jest już 37,6 mm szerokości (po 0,2-0,4 mm szlifowaniach w regeneracjach), bliski granicy minimum 37 mm.
 
-Rustam: *„Pani Aniu, wymiana. Trzy mikropęknięcia już są poza normą, a rozwarcie graniczne. Jeszcze jedna regeneracja i pas by był za wąski. Plus stellite warto wykorzystać do pełnej trzy-regeneracji tylko wtedy gdy pęknięć jest 0-1. Tutaj mamy trzy. Wymiana. Stara na złom, nowa z magazynu."*.
+Mykoła: *„Pani Aniu, wymiana. Trzy mikropęknięcia już są poza normą, a rozwarcie graniczne. Jeszcze jedna regeneracja i pas by był za wąski. Plus stellite warto wykorzystać do pełnej trzy-regeneracji tylko wtedy gdy pęknięć jest 0-1. Tutaj mamy trzy. Wymiana. Stara na złom, nowa z magazynu."*.
 
-Ania kiwa głową z aprobatą: *„Dokładnie. Operator samodzielny, który rozumie historię swojej taśmy, koszt na m³, granice bezpieczeństwa. Stara na złom, nie na regenerację, bo warsztat by odmówił, a ty ponosił by koszt transportu tam i z powrotem. Wahan, zauważ: koszt utraconej regeneracji to 70 zł, ale koszt zerwania taśmy w trakcie cięcia to może być uraz + tygodnie przestoju + śledztwo PIP. Niewspółmierne."*.
+Ania kiwa głową z aprobatą: *„Dokładnie. Operator samodzielny, który rozumie historię swojej taśmy, koszt na m³, granice bezpieczeństwa. Stara na złom, nie na regenerację, bo warsztat by odmówił, a ty ponosił by koszt transportu tam i z powrotem. Wasyl, zauważ: koszt utraconej regeneracji to 70 zł, ale koszt zerwania taśmy w trakcie cięcia to może być uraz + tygodnie przestoju + śledztwo PIP. Niewspółmierne."*.
 
-Wahan zapisuje w notatniku (zawsze ma ze sobą od l8 instruktażu): *„Rustam myśli o koszcie na m³ i bezpieczeństwie, nie o pojedynczej taśmie"*.
+Wasyl zapisuje w notatniku (zawsze ma ze sobą od l8 instruktażu): *„Mykoła myśli o koszcie na m³ i bezpieczeństwie, nie o pojedynczej taśmie"*.
 
-Montaż nowej stellite 38/15 (nr serii 24057, dostawa z 11 maja, magazyn taśm EGIDA) zajmuje 26 minut według procedury z l6. O 9:15 P3 jest gotowa do drugiej kampanii dębowej. Rustam odpala i wchodzi w pierwszą kłodę. Cięcie czyste, szpic nowej taśmy ostry, rzaz gładki, posuw 2 m/min bez oporu. Taśma stara idzie do pojemnika „złom stalowy" przy wyjściu z hali (kontener na metale do recyklingu, za 1,50 zł/kg, ważona na końcu miesiąca razem z innym złomem).
+Montaż nowej stellite 38/15 (nr serii 24057, dostawa z 11 maja, magazyn taśm EGIDA) zajmuje 26 minut według procedury z l6. O 9:15 P3 jest gotowa do drugiej kampanii dębowej. Mykoła odpala i wchodzi w pierwszą kłodę. Cięcie czyste, szpic nowej taśmy ostry, rzaz gładki, posuw 2 m/min bez oporu. Taśma stara idzie do pojemnika „złom stalowy" przy wyjściu z hali (kontener na metale do recyklingu, za 1,50 zł/kg, ważona na końcu miesiąca razem z innym złomem).
 
-Ania wpisuje do raportu inspekcji (formularz EGIDA-IR-003, miesięczny): *„P3 Wood-Mizer LT70 - stan OK. Taśma stellite 38/15 nr 24052 wymieniona po 8,4 m³ dębu (3 mikropęknięcia, rozwarcie graniczne). Decyzja operatora Rustam Nazarov uzasadniona. Nowa taśma nr 24057 zamontowana. Następna inspekcja wyrywkowa za 3 tygodnie, termin około 8 czerwca 2026."*.
+Ania wpisuje do raportu inspekcji (formularz EGIDA-IR-003, miesięczny): *„P3 Wood-Mizer LT70 - stan OK. Taśma stellite 38/15 nr 24052 wymieniona po 8,4 m³ dębu (3 mikropęknięcia, rozwarcie graniczne). Decyzja operatora Mykoła Hrycenko uzasadniona. Nowa taśma nr 24057 zamontowana. Następna inspekcja wyrywkowa za 3 tygodnie, termin około 8 czerwca 2026."*.
 
 ::: tip
-**Co Rustam się nauczył z tej inspekcji:**
+**Co Mykoła się nauczył z tej inspekcji:**
 
 - **Trzy narzędzia inspekcji** (lupa 10×, lampka LED z bocznym światłem, szczelinomierz rozwarciowy). Każde daje inną informację, razem tworzą pełny obraz.
 - **Sześć punktów kontrolnych** (szpic, gardło, rozwarcie, ciągłość pasa, korozja, napięcie). Brak któregokolwiek punktu = niekompletna inspekcja.

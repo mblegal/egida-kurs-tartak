@@ -10,11 +10,11 @@ Yesterday's lesson (l3) gave you the legal foundation: art. 100 § 1, art. 210 �
 
 The procedure is called *"STOP – zabezpiecz – zgłoś – udokumentuj"* – in English: **"STOP – secure – report – document"**. Four steps, always in this order, never cut short. Each step takes seconds or single minutes. The whole procedure takes under fifteen minutes from detecting the hazard to handing the workstation to the superior.
 
-Today is Thursday, 11:14 in the morning. Rustam is at band saw P3 alone, because Wahan was seconded yesterday afternoon to PPE training (*ŚOI* – *środki ochrony indywidualnej*, personal protective equipment) and will be back after lunch. On P2, five metres further, works Murat Kaya, a Turkish junior operator from the M2 cohort, standing in today for Hai, who is on leave. Rustam is running batch 54, the third oak batch this week.
+Today is Thursday, 11:14 in the morning. Mykoła is at band saw P3 alone, because Wasyl was seconded yesterday afternoon to PPE training (*ŚOI* – *środki ochrony indywidualnej*, personal protective equipment) and will be back after lunch. On P2, five metres further, works Murat Kaya, a Turkish junior operator from the M2 cohort, standing in today for Andrij, who is on leave. Mykoła is running batch 54, the third oak batch this week.
 
-At 11:14 something in Rustam's ear is off. An operator's hearing, after seven months at the band saw, reads the sound of the machine the way a musician hears a chord. Today's chord is slightly out of tune. Rustam does not yet know why, but he **knows it does not fit**. In seven minutes he will carry out the full STOP procedure. In twenty minutes P3 will be secured, the foreman informed, a three-line entry in the machine log. In an hour a worker from UR (*utrzymanie ruchu* – maintenance department) will confirm: a micro-crack at the base of a band tooth, two centimetres from the weld, visible only under side lighting. Had Rustam not stopped, the band would have snapped within two hours. A band break at 32 m/s is a real hazard, the one you learned about in M2 l5.
+At 11:14 something in Mykoła's ear is off. An operator's hearing, after seven months at the band saw, reads the sound of the machine the way a musician hears a chord. Today's chord is slightly out of tune. Mykoła does not yet know why, but he **knows it does not fit**. In seven minutes he will carry out the full STOP procedure. In twenty minutes P3 will be secured, the foreman informed, a three-line entry in the machine log. In an hour a worker from UR (*utrzymanie ruchu* – maintenance department) will confirm: a micro-crack at the base of a band tooth, two centimetres from the weld, visible only under side lighting. Had Mykoła not stopped, the band would have snapped within two hours. A band break at 32 m/s is a real hazard, the one you learned about in M2 l5.
 
-How did Rustam know what to do, when he had not seen the micro-crack with his own eyes? That is the difference between a junior operator and a self-reliant one.
+How did Mykoła know what to do, when he had not seen the micro-crack with his own eyes? That is the difference between a junior operator and a self-reliant one.
 
 ## Objectives
 
@@ -38,7 +38,7 @@ The order is rigid because swapping it leads to accidents. Report first and stop
 The four steps look like this:
 
 1. **STOP.** Stop the machine. Immediately. Green button down for a normal cycle, red or emergency for an acute situation. Five seconds, no more.
-2. **Secure.** LOTO (Lockout-Tagout): switch off the power, disconnect (main switch down), lock the switch with a padlock or hasp, label with a tag *"NIE WŁĄCZAĆ – prace kontrolne, Rustam Nazarov, 11:14"* ("DO NOT OPERATE – inspection works, Rustam Nazarov, 11:14"). Verify that the machine really cannot start.
+2. **Secure.** LOTO (Lockout-Tagout): switch off the power, disconnect (main switch down), lock the switch with a padlock or hasp, label with a tag *"NIE WŁĄCZAĆ – prace kontrolne, Mykoła Hrycenko, 11:14"* ("DO NOT OPERATE – inspection works, Mykoła Hrycenko, 11:14"). Verify that the machine really cannot start.
 3. **Report.** Call the foreman on the internal phone. Three things in one sentence: what, when, who. "Marek, P3 stopped, 11:14, atypical band sound, waiting for UR."
 4. **Document.** Open the machine log. Write: date and time, reason for stopping, state of the batch, your risk assessment. Three or four lines. Signature.
 
@@ -62,7 +62,7 @@ STOP is a reflex act grounded in a **sensory diagnosis**. The self-reliant opera
 
 **Channel 5: sight.** Smoke, sparks, dust swirling differently, oil on the floor, a visible crack in a structural part, a stain absent yesterday. The eye is usually **the last** channel, because the operator's gaze is set on the log, not the machine. A good operator does a **visual round** every two hours: three steps around the machine, looking at what is usually invisible during the cycle.
 
-Today Rustam used **channel 1**. The band's sound at 11:14 had a micro-fragment of low frequency absent in the morning. Rustam could not have named it in physical terms. But **he heard a difference** against the morning. Enough.
+Today Mykoła used **channel 1**. The band's sound at 11:14 had a micro-fragment of low frequency absent in the morning. Mykoła could not have named it in physical terms. But **he heard a difference** against the morning. Enough.
 
 ### Step 2: secure (LOTO)
 
@@ -90,9 +90,9 @@ The report has a required format that the foreman recognizes in two seconds:
 2. **When** (exact time, not "a moment ago").
 3. **Who** (your name, because on the internal phone the foreman does not see the number).
 
-Rustam at 11:14 called Marek at the P1 console:
+Mykoła at 11:14 called Marek at the P1 console:
 
-> **Rustam:** "Marek, P3 stopped, 11:14, band sound deviating from the norm, locked out with LOTO, Rustam."
+> **Mykoła:** "Marek, P3 stopped, 11:14, band sound deviating from the norm, locked out with LOTO, Mykoła."
 
 Eighteen words. Marek knows everything he needs to decide. He decides at this moment whether to walk over to P3 himself, whether to call UR, or both. The decision belongs to him; your report is not a request for advice, it is the **handover of an event to a superior** in line with art. 211 pkt 6 of the Polish Labour Code ("immediately notify the superior about any hazard observed").
 
@@ -109,11 +109,11 @@ The three-element format ("what – when – who") is the standard **also** on a
 
 ### Step 4: document
 
-The machine log. The tablet by P3. You open entry mode. Several fields, but the formally required content is three to four lines. At 11:16 Rustam wrote:
+The machine log. The tablet by P3. You open entry mode. Several fields, but the formally required content is three to four lines. At 11:16 Mykoła wrote:
 
-> **11:14. STOP P3. Reason: atypical band sound on batch 54, log 8 of 22. Suspected risk to band and operator. LOTO in place, padlock K-042, tag R.Nazarov 11:14. Foreman M.Kowalski notified 11:15, UR called 11:16. No injury, no damage to sawn timber. Batch 54 on hold, log 8 closed.**
+> **11:14. STOP P3. Reason: atypical band sound on batch 54, log 8 of 22. Suspected risk to band and operator. LOTO in place, padlock K-042, tag R.Hrycenko 11:14. Foreman M.Kowalski notified 11:15, UR called 11:16. No injury, no damage to sawn timber. Batch 54 on hold, log 8 closed.**
 
-Six lines, sixty words. Facts in figures, exact times, equipment markings (K-042 is the LOTO padlock number). Rustam did **not** diagnose the cause ("probably a micro-crack") – he left that to UR. He **recorded** the observation ("atypical sound") and **his own suspicion of risk**. The distinction matters legally.
+Six lines, sixty words. Facts in figures, exact times, equipment markings (K-042 is the LOTO padlock number). Mykoła did **not** diagnose the cause ("probably a micro-crack") – he left that to UR. He **recorded** the observation ("atypical sound") and **his own suspicion of risk**. The distinction matters legally.
 
 ::: info
 The machine log in a Polish sawmill compliant with PN-EN ISO 9001 has the status of a **plant document** with a 5-year retention. Your entry is read by: (a) the foreman in the following days, (b) the shift master weekly, (c) the FSC auditor once a year, (d) the PIP inspector (usually once every 2–3 years), (e) the plant's lawyer if a dispute arises. The fifth reader is least probable but most demanding on precision. You write for him, not for the other four.
@@ -121,7 +121,7 @@ The machine log in a Polish sawmill compliant with PN-EN ISO 9001 has the status
 
 ### Art. 234 of the Polish Labour Code: STOP as a "near miss"
 
-When a STOP ends without an accident (as with Rustam today), in the language of Polish labour law this is a **"near-miss event"** (*zdarzenie bliskie wypadkowi*). Art. 234 of the Labour Code says:
+When a STOP ends without an accident (as with Mykoła today), in the language of Polish labour law this is a **"near-miss event"** (*zdarzenie bliskie wypadkowi*). Art. 234 of the Labour Code says:
 
 > "In the event of an accident at work, the employer is obliged to take the necessary measures eliminating or limiting the hazard, ensure first aid to the injured persons, establish in the prescribed manner the circumstances and causes of the accident, and apply appropriate measures preventing similar accidents."
 
@@ -133,11 +133,11 @@ In practice: EGIDA keeps a near-miss register. The shift master reviews all near
 
 STOP is always the same operationally, but legally differs by situation. Three most frequent in a sawmill:
 
-**Scenario A: an atypical machine (today, with Rustam).**
+**Scenario A: an atypical machine (today, with Mykoła).**
 Sensory signal. Stopping is the operator's decision. Legal basis: art. 211 pkt 3 (duty of care for the machines) and pkt 6 (notification of hazard). After documentation the foreman calls UR, UR diagnoses, decides on replacing the element, batch is resumed or closed. A service note is usually not needed.
 
 **Scenario B: a foreman's order in breach of OHS (the hypothetical scene from l3).**
-Signal: an order that breaks the workstation instruction or breaches OHS. Stopping is an act under art. 210 § 1 KP. Legal basis: art. 210 § 1 (right of refusal) + art. 211 pkt 6 (notification). After stopping, the operator talks to the foreman (as Rustam did on Wednesday at 8:42); if the conversation fails, he writes a service note (l3). The conflict escalates to the shift master.
+Signal: an order that breaks the workstation instruction or breaches OHS. Stopping is an act under art. 210 § 1 KP. Legal basis: art. 210 § 1 (right of refusal) + art. 211 pkt 6 (notification). After stopping, the operator talks to the foreman (as Mykoła did on Wednesday at 8:42); if the conversation fails, he writes a service note (l3). The conflict escalates to the shift master.
 
 **Scenario C: an external event (coming up in l5).**
 Signal: a colleague's accident at the neighbouring workstation, a fire, an unauthorized person in the danger zone, a hall-wide power failure. STOP on your own machine is the first reflex, before you run to help. Legal basis: art. 209 § 1 (action without prior agreement with the superior in a direct threat) + art. 211 pkt 6. The procedure after STOP shifts into incident mode, covered in Friday's lesson.
@@ -158,11 +158,11 @@ Do not fall into the reverse trap: **deliberately refraining from STOP** because
 
 ### Reaction time: the clock from the sound to the entry
 
-In a well-run sawmill, the whole procedure "STOP – secure – report – document" lasts from detection to the end of the entry **under fifteen minutes**. Rustam's schedule today:
+In a well-run sawmill, the whole procedure "STOP – secure – report – document" lasts from detection to the end of the entry **under fifteen minutes**. Mykoła's schedule today:
 
 | Time | Step | What happened |
 |------|------|---------------|
-| 11:14:00 | Signal | Rustam hears an atypical band sound |
+| 11:14:00 | Signal | Mykoła hears an atypical band sound |
 | 11:14:06 | STOP | Green button down, the band starts to slow |
 | 11:14:12 | Full stop | Band at zero, saw in paused state |
 | 11:14:40 | Disconnect | Service disconnect in OFF position |
@@ -173,29 +173,29 @@ In a well-run sawmill, the whole procedure "STOP – secure – report – docum
 | 11:15:52 | Report done | Marek announces that UR will be called |
 | 11:16:10 | Log opened | Tablet in hand, entry mode |
 | 11:17:30 | Entry ready | Six lines, electronic signature |
-| 11:18:00 | Procedure closed | Rustam waits for UR, steps 3 metres from the machine |
+| 11:18:00 | Procedure closed | Mykoła waits for UR, steps 3 metres from the machine |
 
 Four minutes from signal to entry completion. In an acute situation (fire, electrical failure) the procedure shortens, documentation moves to **after** the hazard is resolved. In a calm situation (like today) four minutes is the average for a self-reliant operator after three months of practice.
 
 In your first month of M3 your clock will probably read six to eight minutes. Do not worry. Speed comes with repetitions, and repetitions are few (EGIDA average: two STOPs per operator per month). More important than speed is the **sequence**. One swapped step turns the procedure into a roulette.
 
-### Wahan comes back, UR arrives
+### Wasyl comes back, UR arrives
 
-At 11:22 Mariusz from UR walks into the hall. Mariusz has worked at EGIDA since 2011, he knows every saw by name. He greets Rustam, checks the LOTO tag, reads the log entry, nods:
+At 11:22 Mariusz from UR walks into the hall. Mariusz has worked at EGIDA since 2011, he knows every saw by name. He greets Mykoła, checks the LOTO tag, reads the log entry, nods:
 
 > **Mariusz:** "Right, let's look. I'll take the guard off. You stay three metres behind me, watch. If I say anything, do not move in that direction."
 
-Mariusz takes off the upper drive guard, pulls the band off the wheel, lays it on the adjustment table. Side LED lamp, 15-degree angle on the edge of the band. Rustam watches from three metres. After forty seconds Mariusz says:
+Mariusz takes off the upper drive guard, pulls the band off the wheel, lays it on the adjustment table. Side LED lamp, 15-degree angle on the edge of the band. Mykoła watches from three metres. After forty seconds Mariusz says:
 
 > **Mariusz:** "There. Here, two centimetres from the weld. See the line? A micro-crack at the base of a tooth, about 1.2 mm. Another hour and the band would have snapped. At 32 m/s, that is two kilometres of band in the air in a fraction of a second. You did well."
 
-Rustam lets out his breath. He does not smile, does not comment, nods. Mariusz pulls a new band out of his bag (EGIDA keeps a stock on the rack next to UR), mounts it, welds, grinds the weld, tensions it (2350 PSI, range 2200–2400), sets the guides (3.5 mm). The full replacement takes 18 minutes. At 11:41 the machine is ready to start up again.
+Mykoła lets out his breath. He does not smile, does not comment, nods. Mariusz pulls a new band out of his bag (EGIDA keeps a stock on the rack next to UR), mounts it, welds, grinds the weld, tensions it (2350 PSI, range 2200–2400), sets the guides (3.5 mm). The full replacement takes 18 minutes. At 11:41 the machine is ready to start up again.
 
 Marek comes at 11:42, reads the log entry, asks Mariusz one question ("could it have happened earlier?"), Mariusz answers ("no, crack is fresh, probably yesterday evening; the band had 40 operating hours on this machine"). Marek nods, removes the LOTO padlock, writes in the log:
 
-> **11:42. Band replacement performed by UR (M.Jankowski). Verification POSITIVE: micro-crack at the base of a tooth, 2 cm from the weld, 1.2 mm. Operator Rustam Nazarov recognized the acoustic signal and initiated the STOP procedure in preventive mode. Decision well founded. Batch 54 resumed, log 8 continued.**
+> **11:42. Band replacement performed by UR (M.Jankowski). Verification POSITIVE: micro-crack at the base of a tooth, 2 cm from the weld, 1.2 mm. Operator Mykoła Hrycenko recognized the acoustic signal and initiated the STOP procedure in preventive mode. Decision well founded. Batch 54 resumed, log 8 continued.**
 
-Marek signs. Rustam starts the machine, new band, batch 54 goes on. Wahan comes back from training at 13:30, takes his spot on the ramp, has not heard about the STOP (Rustam will tell him in the evening). Hai returns from leave on Monday, sees the log entry, asks Rustam for details.
+Marek signs. Mykoła starts the machine, new band, batch 54 goes on. Wasyl comes back from training at 13:30, takes his spot on the ramp, has not heard about the STOP (Mykoła will tell him in the evening). Andrij returns from leave on Monday, sees the log entry, asks Mykoła for details.
 
 ::: example
 Notice Marek's entry (the 11:42 line). Marek used **three things** with value in later analysis. First, **the signature of a second worker** (M.Jankowski from UR) – proof that the diagnosis was made by someone qualified, not by the operator. Second, **technical parameters** (2 cm from the weld, 1.2 mm) – measurable data for the quarterly band-failure analysis. Third, **evaluation of the operator's decision** ("decision well founded") – a commendation in a document, not in a conversation. In a Polish sawmill a commendation in a document goes into the personal file, influences the yearly employee review and the year-end bonus. Praising for a good decision is as important as disciplining for a bad one. Marek knows this.
@@ -224,7 +224,7 @@ The procedure "STOP – secure – report – document" means four steps in a ri
 
 Art. 234 of the Polish Labour Code treats near-miss events as material for prevention; your log entry is the first step of the analysis.
 
-Today Rustam recognized the acoustic signal, ran the procedure in four minutes, UR confirmed the micro-crack, Marek wrote a commendation. The whole cycle from sound to return to production took 28 minutes.
+Today Mykoła recognized the acoustic signal, ran the procedure in four minutes, UR confirmed the micro-crack, Marek wrote a commendation. The whole cycle from sound to return to production took 28 minutes.
 
 Tomorrow, in l5, you will see a different kind of STOP: an external event, an accident at the neighbouring workstation. There the procedure expands to include first aid, calling external services, securing evidence for the post-accident report. The foundation stays the same: STOP your own machine before you run to help.
 
@@ -304,7 +304,7 @@ Write your own machine log entry (five to seven lines) for a hypothetical situat
 
 Over the next three days at your sawmill:
 
-- Measure the **reaction time** from signal to end of log entry if you perform a STOP (time it with a watch). If no STOP occurs, run a "dry" visualization: imagine a signal at 9:00 and write down at what time you would perform each of the four steps. Compare with Rustam's schedule (four minutes).
+- Measure the **reaction time** from signal to end of log entry if you perform a STOP (time it with a watch). If no STOP occurs, run a "dry" visualization: imagine a signal at 9:00 and write down at what time you would perform each of the four steps. Compare with Mykoła's schedule (four minutes).
 - Check whether you have **your own LOTO padlock** with your name. If yes, count the eyes on the hasp (EGIDA standard: six-eye hasp, i.e. six people locking out during joint service work).
 - Read on the workstation card **the list of reporting numbers** (foreman, shift master, production manager, UR). Copy them into your notebook. If the internal phone is broken, check with Marek how to call from a mobile phone.
 - In your next conversation with Marek ask about **the weekly near-miss review**. Ask him to show you the register. You will see how many events from last week were recognized and what was done with them. The register is the plant's culture in raw view.
@@ -313,9 +313,9 @@ Tomorrow in l5 you will see the STOP procedure in the situation of a colleague's
 
 ## Notes for the Trainer
 
-- **120-min rhythm (suggested):** 10 min Introduction + Objectives; 20 min the four steps (dry role-play in pairs, with a stopwatch); 15 min LOTO (demo with padlock, tag, verification attempt); 10 min five sensory channels (each trainee recalls one signal from their plant); 20 min Rustam's 11:14 scene (reading, stops at the stopwatch schedule, discussion "is four minutes realistic"); 15 min three scenarios (A/B/C); 10 min false alarms and art. 234 KP; 10 min Key terms and summary; 10 min individual exercise (log entry for a hypothetical situation).
+- **120-min rhythm (suggested):** 10 min Introduction + Objectives; 20 min the four steps (dry role-play in pairs, with a stopwatch); 15 min LOTO (demo with padlock, tag, verification attempt); 10 min five sensory channels (each trainee recalls one signal from their plant); 20 min Mykoła's 11:14 scene (reading, stops at the stopwatch schedule, discussion "is four minutes realistic"); 15 min three scenarios (A/B/C); 10 min false alarms and art. 234 KP; 10 min Key terms and summary; 10 min individual exercise (log entry for a hypothetical situation).
 - **Pedagogical trap no. 1:** trainees may treat LOTO as bureaucracy and shorten the procedure ("the padlock is unnecessary, switch down is enough"). **It is not.** At EGIDA in 2022 a night-shift worker tried to start a machine without knowing that maintenance was in progress. Switch was OFF, but without a padlock. The worker tried a reset, damaged the controller, cost PLN 18,000. Tell this story (no names, no personal injury, only a financial loss). The padlock is a lock on the door, not a formalism.
-- **Pedagogical trap no. 2:** in Rustam's scene the line falls: "the band would have snapped within two hours". Some trainees ask how Rustam knew. **He did not.** That is Mariusz's opinion from UR, expressed ex post from experience. Rustam acted on auditory intuition, not on knowledge about time to break. The operator **does not diagnose**, the operator **recognizes a signal**. Diagnosis is UR's or the shift master's role.
+- **Pedagogical trap no. 2:** in Mykoła's scene the line falls: "the band would have snapped within two hours". Some trainees ask how Mykoła knew. **He did not.** That is Mariusz's opinion from UR, expressed ex post from experience. Mykoła acted on auditory intuition, not on knowledge about time to break. The operator **does not diagnose**, the operator **recognizes a signal**. Diagnosis is UR's or the shift master's role.
 - **Pedagogical trap no. 3:** the "false alarms" section can be misread as "an invitation to STOP without reason". **It is not.** It is an invitation to STOP on sincere assessment, even if the assessment proves more cautious than reality. Distinction from "panic without a fact" (Supreme Court ruling II PSK 76/22 from l3): panic STOP without any observable signal is problematic, cautious STOP at a signal of uncertain interpretation is correct.
 - **Reaction time (four minutes):** target, not norm. In practice the first STOPs in M3 can take 8–12 minutes. Do not comment negatively. Patience beats speed. Speed comes from the tenth STOP, not the first.
 - **Difference from M2 l5:** in M2 the junior operator performed a STOP under assistance. In M3 he does it alone. Operational difference small (same four steps), psychological difference big (solitude of the decision). Spend a moment on the feeling "alone at a stopped machine, listening to what is wrong with it; the answer comes only from UR". Normalizing this feeling is part of the ripening of a self-reliant operator.

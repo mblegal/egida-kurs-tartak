@@ -6,15 +6,15 @@ czas: 120
 
 ## Wprowadzenie
 
-Wtorek, 2026-06-23, godzina 8:45. Rustam Nazarov dojeżdża do EGIDA swoim samochodem Skoda Fabia (7 rok w Polsce, 12 lat auta), parkuje przed halą. Dziś jest dzień **nietypowy, z dwutygodniowym wyprzedzeniem zapowiedziany**: **audyt FSC Polska**, coroczny, obowiązkowy, planowany na **9:00-14:00**. Marek Kowalski (brygadzista) dał ogłoszenie zmianowe w piątek 12.06: *„Wtorek 23.06 – audyt FSC, EGIDA certyfikat łańcucha dostaw odnawiany. Wszyscy operatorzy obecni cały dzień, zmiany normalne, ale **na wezwanie odejdźcie od maszyny do audytora**. Pracujcie normalnie, nie udajcie nadzwyczajnej aktywności – audytor nie lubi pokazu."*
+Wtorek, 2026-06-23, godzina 8:45. Mykoła Hrycenko dojeżdża do EGIDA swoim samochodem Skoda Fabia (7 rok w Polsce, 12 lat auta), parkuje przed halą. Dziś jest dzień **nietypowy, z dwutygodniowym wyprzedzeniem zapowiedziany**: **audyt FSC Polska**, coroczny, obowiązkowy, planowany na **9:00-14:00**. Marek Kowalski (brygadzista) dał ogłoszenie zmianowe w piątek 12.06: *„Wtorek 23.06 – audyt FSC, EGIDA certyfikat łańcucha dostaw odnawiany. Wszyscy operatorzy obecni cały dzień, zmiany normalne, ale **na wezwanie odejdźcie od maszyny do audytora**. Pracujcie normalnie, nie udajcie nadzwyczajnej aktywności – audytor nie lubi pokazu."*
 
-Rustam przychodzi na halę, zmiana 7:00 standardowa. Zlecenie własne: **ZLE-2026-06-020**, **świerk pospolity (*Picea abies*)**, 5 pni 4,05 m, deski 38 × 120 × 4050 mm na podbitki poddasza klienta Domy Drewniane Iława (stała umowa ramowa UR/2023/045). Wahan Petrosjan pomocnik. Adrian Kowal na P2 z deskami ogrodzeniowymi. Pani Ania w sali klasyfikacji od 9:00 pracuje nad partią brzozy Rustama z 18.06 (drugi odsłona klasyfikacji po suszeniu 19-22.06 w komorze BH-50, Pana Henryka kampania).
+Mykoła przychodzi na halę, zmiana 7:00 standardowa. Zlecenie własne: **ZLE-2026-06-020**, **świerk pospolity (*Picea abies*)**, 5 pni 4,05 m, deski 38 × 120 × 4050 mm na podbitki poddasza klienta Domy Drewniane Iława (stała umowa ramowa UR/2023/045). Wasyl Melnyk pomocnik. Adrian Kowal na P2 z deskami ogrodzeniowymi. Pani Ania w sali klasyfikacji od 9:00 pracuje nad partią brzozy Mykoły z 18.06 (drugi odsłona klasyfikacji po suszeniu 19-22.06 w komorze BH-50, Pana Henryka kampania).
 
 ### Przed audytem, 8:45-9:00
 
 Marek przychodzi na P3:
 
-*„Rustam, chwila. Rano dostałem email od Krzysztofa Kowalskiego – audytora – że **przyjedzie 9:00 punktualnie**. Przypominam zasady:
+*„Mykoła, chwila. Rano dostałem email od Krzysztofa Kowalskiego – audytora – że **przyjedzie 9:00 punktualnie**. Przypominam zasady:
 
 1. **Gdy audytor zapyta, odpowiadaj merytorycznie**. Nie improwizuj. Jeśli nie wiesz – mów: 'to pytanie dla Marka' albo 'to pytanie dla Pani Ani'. To **nie jest słabość operatora**, to **prawidłowa hierarchia odpowiedzialności**.
 2. **Pokazuj dokumenty, nie opowiadaj** – jeśli pyta o partię, **wyjmij KEP-001 z segregatora**. Jeśli pyta o pochodzenie – **pokazuj kartę odbioru dłużycy**. Dokumenty są **wiarygodne**, opowieści – nie.
@@ -22,21 +22,21 @@ Marek przychodzi na P3:
 4. **Nie udaj, że znasz wszystko**. Audytor woli operatora skromnego, który mówi 'nie wiem, sprawdzę', niż kłamiącego eksperta.
 5. **Krzysztof Kowalski to drugi Krzysztof w naszej historii – nie mylenie z Panem Krzysztofem z Wood-Mizer**, który wymienił łożyska 17.06. Ten Krzysztof to **audytor niezależny, licencjonowany przez FSC Polska, numer CU-COC-123456**. 48 lat, siwawy, okulary, kontrakt z FSC Polska od 2019. Pamiętaj – **jeśli ktoś dziś mówi 'Panie Krzysztofie' na hali, chodzi o audytora, nie hydraulika**."*
 
-Rustam śmieje się:
+Mykoła śmieje się:
 
 *„Marek, **trzech Panów Krzysztofów** – ten Wood-Mizer, ten audytor FSC, i mój syn 4-letni. **Nie pomylę**. Gotowy."*
 
-Wahan dosłuchał:
+Wasyl dosłuchał:
 
-*„Rustam, a ja? Pomocnik odpowiada na pytania?"*
+*„Mykoła, a ja? Pomocnik odpowiada na pytania?"*
 
-*„Wahan, **jeśli Cię zapyta** – odpowiadasz **tylko o swojej pracy**. Co robisz, jak sprzątasz, jak pomagasz. Nie odpowiadaj o gatunku drewna, nie o FSC, nie o normach – to moja rola. **Granica: pomocnik mówi o zadaniach pomocnika, operator M3 o partii, klasyfikator o klasyfikacji, brygadzista o firmie**."*
+*„Wasyl, **jeśli Cię zapyta** – odpowiadasz **tylko o swojej pracy**. Co robisz, jak sprzątasz, jak pomagasz. Nie odpowiadaj o gatunku drewna, nie o FSC, nie o normach – to moja rola. **Granica: pomocnik mówi o zadaniach pomocnika, operator M3 o partii, klasyfikator o klasyfikacji, brygadzista o firmie**."*
 
 ### 9:00, przybycie audytora
 
 Srebrny Renault Megane SW parkuje przed biurem EGIDA. **Krzysztof Kowalski** wysiada: 48 lat, w kremowym beżowym marynarce, granatowa koszula bez krawata (audytorzy FSC pracują „business casual" żeby nie wyglądać urzędowo), okulary w cienkiej oprawce, teczka skórzana czarna z notebookiem (laptop ThinkPad T480), **legitymacja audytora FSC Polska na szyi** (plastikowa karta ze zdjęciem, numer CU-COC-123456, ważność 2027, fotografia starsza o 3 lata z akcentem młodszej twarzy).
 
-Marek wita przed drzwiami biura, prowadzi do sali konferencyjnej. **Rustam, Pani Ania** (przyszła specjalnie 9:00 mimo że brzoza czeka), **Pan Henryk** (mistrz suszarni, zaproszony do sali na 20 minut otwarcia audytu), **Anton Bondarenko** (brygadzista placowy) też są obecni. Dyrektor EGIDA (Paweł Witkowski, 56 l., właściciel 51% udziałów, na co dzień w biurze w Olsztynie) **dołącza online przez Teams z Olsztyna**.
+Marek wita przed drzwiami biura, prowadzi do sali konferencyjnej. **Mykoła, Pani Ania** (przyszła specjalnie 9:00 mimo że brzoza czeka), **Pan Henryk** (mistrz suszarni, zaproszony do sali na 20 minut otwarcia audytu), **Anton Bondarenko** (brygadzista placowy) też są obecni. Dyrektor EGIDA (Paweł Witkowski, 56 l., właściciel 51% udziałów, na co dzień w biurze w Olsztynie) **dołącza online przez Teams z Olsztyna**.
 
 Krzysztof Kowalski krótko przedstawia agendę:
 
@@ -48,7 +48,7 @@ Krzysztof Kowalski krótko przedstawia agendę:
 - **11:30-12:15** przegląd dokumentacji jakości: KEP-001, WZ, klasyfikacje, rejestr reklamacji.
 - **12:15-12:45** przegląd szkoleń personelu: lista szkoleń 2025-2026, potwierdzenia uprawnień.
 - **12:45-13:15** obiad, przerwa (EGIDA zapewnia, zamówione 4 kebab + 1 wegetariański z Paulinki, 9 zł/szt., budżet EGIDA).
-- **13:15-13:45** wywiady z operatorami (Rustam 15 min P3, Damian 15 min P1) – pytania merytoryczne FSC.
+- **13:15-13:45** wywiady z operatorami (Mykoła 15 min P3, Damian 15 min P1) – pytania merytoryczne FSC.
 - **13:45-14:15** przegląd reklamacji i niezgodności.
 - **14:15-14:45** podsumowanie, wstępna lista uwag, poinformowanie o wniosku.
 
@@ -155,19 +155,19 @@ Krzysztof wkłada **kask audytorski** (biały z logiem „FSC Polska audytor"), 
 
 Krzysztof fotografuje tabliczki (zbliżenie + widok ogólny). Notuje: „**separacja wizualna OK**, tabliczki wodoodporne OK, mapa placu dostępna operatorom – zgodne".
 
-**Przystanek 2: stanowisko P3 Wood-Mizer LT70 (Rustam)**:
+**Przystanek 2: stanowisko P3 Wood-Mizer LT70 (Mykoła)**:
 
-Krzysztof podchodzi do P3. Rustam zatrzymuje maszynę (w trakcie pnia 3), zakłada LOTO, zdejmuje rękawice. Wahan odstawia miotłę i staje z boku, 3 m od rozmowy.
+Krzysztof podchodzi do P3. Mykoła zatrzymuje maszynę (w trakcie pnia 3), zakłada LOTO, zdejmuje rękawice. Wasyl odstawia miotłę i staje z boku, 3 m od rozmowy.
 
 Krzysztof wita:
 
-*„Dzień dobry, jestem Krzysztof Kowalski z FSC Polska. Pan jest Rustam Nazarov? Marek Pana przedstawił. **Kilka pytań operatorskich**, 15-20 minut. Spokojnie, bez testu. **Macie dziś świerk?**"*
+*„Dzień dobry, jestem Krzysztof Kowalski z FSC Polska. Pan jest Mykoła Hrycenko? Marek Pana przedstawił. **Kilka pytań operatorskich**, 15-20 minut. Spokojnie, bez testu. **Macie dziś świerk?**"*
 
 *„Tak, panie Krzysztofie, świerk pospolity, 5 pni z Nadleśnictwa Strzałowo, ZLE-2026-06-020, dla klienta Domy Drewniane Iława."*
 
 *„Pokaż mi, **gdzie są oznaczenia FSC** na tym surowcu."*
 
-Rustam prowadzi Krzysztofa do pnia 4 (czekającego obok P3). Pokazuje **niebieską kredkę na czole pnia**:
+Mykoła prowadzi Krzysztofa do pnia 4 (czekającego obok P3). Pokazuje **niebieską kredkę na czole pnia**:
 
 ```
 N-STR-06-042 / ŚW-PO / 2026-06-20 / FSC-C009876
@@ -179,34 +179,34 @@ Krzysztof patrzy na czoło pnia, fotografuje.
 
 *„**Co znaczy FSC 100%?** Proszę wyjaśnić własnymi słowami."*
 
-Rustam:
+Mykoła:
 
 *„FSC 100% oznacza, że **cały pień pochodzi z lasu certyfikowanego FSC**. To znaczy **Nadleśnictwo Strzałowo ma audyt swojej gospodarki leśnej** – zrównoważona wycinka, ochrona bioróżnorodności, bezpieczeństwo pracy drwali, prawa lokalnej społeczności. Kupując od nich, **wiemy, że las nie został zniszczony**. Różni się od **FSC Mix 70/30**, gdzie co najmniej 70% jest FSC, a pozostałe 30% z **innych kontrolowanych źródeł** (FSC Controlled Wood), ale nie w pełni certyfikowanych. Różni się od **FSC Controlled Wood** samo, gdzie sprawdzone jest tylko, że drewno **nie pochodzi z lasów problematycznych** (nielegalnych wycinek, chronionych obszarów bez zgody, konfliktowych terenów), ale bez pełnego audytu. EGIDA ma głównie FSC 100% od Strzałowa, **5% FSC Mix z Srokowo olcha**, 0% Controlled Wood ani niecertyfikowanego."*
 
 Krzysztof notuje. **Zadowolony** – operator rozumie trójpodział.
 
-*„Rustam, **jak przenosi się certyfikat FSC z dłużycy do tarcicy**? Kto to dokumentuje?"*
+*„Mykoła, **jak przenosi się certyfikat FSC z dłużycy do tarcicy**? Kto to dokumentuje?"*
 
 *„Numer certyfikatu **FSC-C009876 od Strzałowa** widnieje na KOD (karcie odbioru dłużycy) → przepisuje się do **KEP-001** jako 'pochodzenie FSC' → **Pani Ania** jako klasyfikator przepisuje do **WZ** jako 'pochodzenie FSC-C009876 100%' → klient dostaje WZ z tym numerem → **klient wie, że krokwie są FSC 100%**. **Łańcuch dokumentacyjny nieprzerwany**. Ja **jako operator odpowiadam za przepisanie numeru z KOD do KEP-001**. Jeśli ja się pomylę i przepiszę z zeszłego tygodnia numer starej partii, to **mieszanie partii** = **naruszenie FSC CoC**. Dlatego sprawdzam **dwukrotnie** przy każdym wpisie KEP-001."*
 
 Krzysztof uśmiecha się:
 
-*„Rustam, **doskonałe zrozumienie łańcucha**. **Świadomość ryzyka 'mieszania partii' na poziomie operatora – rzadka w mojej praktyce**. Gratuluję."*
+*„Mykoła, **doskonałe zrozumienie łańcucha**. **Świadomość ryzyka 'mieszania partii' na poziomie operatora – rzadka w mojej praktyce**. Gratuluję."*
 
-Rustam potakuje skromnie. Krzysztof zadaje jeszcze kilka pytań:
-- co by Rustam zrobił, gdyby przyjechała dłużyca **bez tabliczki FSC**? – „zatrzymałem, zgłosiłem do Antona Bondarenko, nie przyjmowałem aż do weryfikacji dokumentów z Nadleśnictwa"
+Mykoła potakuje skromnie. Krzysztof zadaje jeszcze kilka pytań:
+- co by Mykoła zrobił, gdyby przyjechała dłużyca **bez tabliczki FSC**? – „zatrzymałem, zgłosiłem do Antona Bondarenko, nie przyjmowałem aż do weryfikacji dokumentów z Nadleśnictwa"
 - **co znaczy „separacja partii"** na placu? – „fizyczne oddzielenie stosów certyfikowanych od niecertyfikowanych, dziś u nas 0% niecertyfikowanego, ale gdyby było, minimum 2 m odstępu z linią żółtą"
 - **kto sprawdza karty odbioru dłużycy** przy dostawie? – „Anton Bondarenko magazynier, on podpisuje KOD, ja jako operator nie biorę nowego surowca bez jego podpisu na KOD"
 
 Krzysztof notuje na laptopie 7 minut. Kończy:
 
-*„Rustam, **pełne zaliczenie wywiadu operatora M3**. Wrócę po obiedzie do Damiana na P1 dla drugiego wywiadu, ale **u Pana wszystko zrozumiałe**. Dziękuję, może Pan wrócić do pracy."*
+*„Mykoła, **pełne zaliczenie wywiadu operatora M3**. Wrócę po obiedzie do Damiana na P1 dla drugiego wywiadu, ale **u Pana wszystko zrozumiałe**. Dziękuję, może Pan wrócić do pracy."*
 
-Rustam zdejmuje LOTO, wraca do P3, pień 3 dalej. Wahan podchodzi:
+Mykoła zdejmuje LOTO, wraca do P3, pień 3 dalej. Wasyl podchodzi:
 
-*„Rustam, cudowna rozmowa. Wszystkiego słuchałem. **Kiedyś tak będę odpowiadał** – muszę ogarnąć FSC."*
+*„Mykoła, cudowna rozmowa. Wszystkiego słuchałem. **Kiedyś tak będę odpowiadał** – muszę ogarnąć FSC."*
 
-*„Wahan, to już za Tobą chodzi – **nauczysz się**. Ja cztery lata temu w kursie w Lublinie też **nie wiedziałem nic o FSC**. Dziś jest **moja codzienność**."*
+*„Wasyl, to już za Tobą chodzi – **nauczysz się**. Ja cztery lata temu w kursie w Lublinie też **nie wiedziałem nic o FSC**. Dziś jest **moja codzienność**."*
 
 **Przystanek 3: suszarnia Pana Henryka**:
 
@@ -237,9 +237,9 @@ Marek prezentuje arkusz „**Szkolenia-personel-2026.xlsx**":
 | Anton Bondarenko | Magazynier | FSC CoC magazyn 2025 | 2025-06 | Cert. FSC/PL/AB/2025 |
 | Pan Henryk (Henryk Szymański) | Mistrz suszarni | FSC CoC suszarnia 2024 | 2024-09 | Cert. FSC/PL/HS/2024 |
 | Damian Wójcik | Operator M3 P1 | FSC CoC operator 2025 | 2025-03 | Cert. FSC/PL/DW/2025 |
-| Rustam Nazarov | Operator M3 P3 | FSC CoC operator 2026 | 2026-01 | Cert. FSC/PL/RN/2026 |
+| Mykoła Hrycenko | Operator M3 P3 | FSC CoC operator 2026 | 2026-01 | Cert. FSC/PL/RN/2026 |
 | Adrian Kowal | Operator M2 P2 | FSC CoC podstawy wewnętrzne | 2026-04 | EGIDA/2026/AK/FSC |
-| Wahan Petrosjan | Pomocnik M1 P3 | BHP + FSC świadomość | 2026-05 | EGIDA/2026/WP/OGOL |
+| Wasyl Melnyk | Pomocnik M1 P3 | BHP + FSC świadomość | 2026-05 | EGIDA/2026/WP/OGOL |
 | Maciek Wiśniewski | Pomocnik suszarnia | BHP + FSC świadomość | 2025-09 | EGIDA/2025/MW/OGOL |
 
 *„Krzysztofie, 10 pracowników, 8 z certyfikatami FSC zewnętrznymi (PZF Polska), 2 z wewnętrznymi szkoleniami świadomości (pomocnicy M1 nie muszą mieć zewnętrznych). **Aktualizacja 2026-05 po Adrianie – nowa niezgodność 2025 zamknięta**."*
@@ -250,11 +250,11 @@ Krzysztof potakuje:
 
 ### 12:45-13:15, obiad
 
-Kebab przywieziony z Paulinki. Rustam dostaje wołowy, Krzysztof drobiowy, Pani Ania wegetariański, Marek wieprzowy. Rozmawiają nieformalnie. Krzysztof opowiada o audycie w tartaku w Augustowie tydzień temu (**3 niezgodności krytyczne** – certyfikat FSC utracony, firma musi pracować 6 miesięcy bez certyfikatu i robić audyt na nowo). Opowieść jako przypomnienie: **EGIDA na poziomie 90% wyższym niż średnia polska tartaków**.
+Kebab przywieziony z Paulinki. Mykoła dostaje wołowy, Krzysztof drobiowy, Pani Ania wegetariański, Marek wieprzowy. Rozmawiają nieformalnie. Krzysztof opowiada o audycie w tartaku w Augustowie tydzień temu (**3 niezgodności krytyczne** – certyfikat FSC utracony, firma musi pracować 6 miesięcy bez certyfikatu i robić audyt na nowo). Opowieść jako przypomnienie: **EGIDA na poziomie 90% wyższym niż średnia polska tartaków**.
 
 ### 13:15-13:45, wywiady z operatorami – Damian na P1
 
-Krzysztof idzie do Damiana Wójcika na P1 Serra SM40. Rustam nie słyszy dokładnie (P3 30 m od P1, maszyny pracują). Widzi, że Damian pokazuje dokumenty i odpowiada 15 minut. Po powrocie Marek mówi Rustamowi: „**Damian też zaliczył**. Krzysztof ma tylko jedno pytanie uzupełniające, z którym wraca do sali."
+Krzysztof idzie do Damiana Wójcika na P1 Serra SM40. Mykoła nie słyszy dokładnie (P3 30 m od P1, maszyny pracują). Widzi, że Damian pokazuje dokumenty i odpowiada 15 minut. Po powrocie Marek mówi Mykole: „**Damian też zaliczył**. Krzysztof ma tylko jedno pytanie uzupełniające, z którym wraca do sali."
 
 ### 13:45-14:15, reklamacje
 
@@ -287,7 +287,7 @@ Krzysztof zamyka laptop, podchodzi do flipcharta:
 
 Pawle Witkowski online: gratulacje, **EGIDA utrzymuje poziom wzorcowy**."*
 
-Marek oddycha. Rustam uśmiecha się. Pani Ania bije brawa.
+Marek oddycha. Mykoła uśmiecha się. Pani Ania bije brawa.
 
 ### 14:45, zakończenie
 
@@ -295,11 +295,11 @@ Krzysztof pakuje laptop. Marek podaje mu wydrukowaną fakturę audytu (koszt 280
 
 *„Przyjadę w 2027 jesienią. Do zobaczenia. **Pozdrawiam operatorów – macie dobrą załogę**."*
 
-Wychodzi. Marek podchodzi do Rustama na P3:
+Wychodzi. Marek podchodzi do Mykoły na P3:
 
-*„Rustam, **operator Damian + Ty** zaliczyliście wywiady. Dyrektor dzwoni z Olsztyna – cieszy się. **Dodatek 100 zł netto do pensji za dobrze zdany audyt** – wpływa na pensję czerwcową. Wahan dostanie 50 zł. **Pani Ania i Marek po 200 zł**. Tak się buduje standard."*
+*„Mykoła, **operator Damian + Ty** zaliczyliście wywiady. Dyrektor dzwoni z Olsztyna – cieszy się. **Dodatek 100 zł netto do pensji za dobrze zdany audyt** – wpływa na pensję czerwcową. Wasyl dostanie 50 zł. **Pani Ania i Marek po 200 zł**. Tak się buduje standard."*
 
-Rustam dziękuje. Wraca do pnia 3 świerka. Zmiana kończy się 15:00 standardowo.
+Mykoła dziękuje. Wraca do pnia 3 świerka. Zmiana kończy się 15:00 standardowo.
 
 ## Teoria: audyt FSC/PEFC, łańcuch dostaw, oznaczenia, zachowanie operatora
 
@@ -407,7 +407,7 @@ Operator M3 **musi** umieć wyjaśnić:
 
 **Zasada 4: świadomość ryzyka „mieszania partii".**
 
-Najczęstszy błąd operatora M3: **przepisanie błędnego numeru partii** z KOD do KEP-001. Jeśli zamiast „N-STR-06-042" (świerk FSC 100%) wpisze się „N-SRO-04-118" (olcha FSC Mix 70/30) – **partia zostaje sklasyfikowana jako Mix** i sprzedana klientowi jako FSC 100%. **To jest naruszenie CoC = niezgodność krytyczna w najgorszym przypadku**. Dlatego Rustam sprawdza **dwukrotnie** przy każdym wpisie.
+Najczęstszy błąd operatora M3: **przepisanie błędnego numeru partii** z KOD do KEP-001. Jeśli zamiast „N-STR-06-042" (świerk FSC 100%) wpisze się „N-SRO-04-118" (olcha FSC Mix 70/30) – **partia zostaje sklasyfikowana jako Mix** i sprzedana klientowi jako FSC 100%. **To jest naruszenie CoC = niezgodność krytyczna w najgorszym przypadku**. Dlatego Mykoła sprawdza **dwukrotnie** przy każdym wpisie.
 
 ### Pedagogika: audyt jako okresowy przegląd jakości
 
@@ -420,7 +420,7 @@ Najczęstszy błąd operatora M3: **przepisanie błędnego numeru partii** z KOD
 2. **Zewnętrzny punkt widzenia** – audytor widzi rzeczy, których pracownicy wewnętrzni już nie zauważają (np. tabliczka zatarta przez deszcz).
 3. **Budowa standardu operacyjnego** – każda niezgodność zamknięta = stała poprawa procesu.
 
-**Dodatkowa korzyść dla operatora**: „dobrze zdany audyt" jest **wpisywany do karty szkoleniowej** pracownika. Po 5 dobrze zdanych audytach Rustam dostaje **bonus awansowy** na ścieżce kariery EGIDA – pierwszeństwo przy konkursach na stanowiska brygadzisty lub kontrolera jakości (zobacz lekcja l6 rozwój zawodowy).
+**Dodatkowa korzyść dla operatora**: „dobrze zdany audyt" jest **wpisywany do karty szkoleniowej** pracownika. Po 5 dobrze zdanych audytach Mykoła dostaje **bonus awansowy** na ścieżce kariery EGIDA – pierwszeństwo przy konkursach na stanowiska brygadzisty lub kontrolera jakości (zobacz lekcja l6 rozwój zawodowy).
 
 ### Relacja codzienna z FSC
 
@@ -434,7 +434,7 @@ Najczęstszy błąd operatora M3: **przepisanie błędnego numeru partii** z KOD
 
 Każdy z tych punktów to **kropla w łańcuchu**. Jeżeli choć jedna kropla zostanie zerwana, **FSC Chain of Custody pęka**, niezgodność krytyczna w następnym audycie, potencjalna utrata certyfikatu.
 
-Dlatego Krzysztof Kowalski pochwalił Rustama za **świadomość ryzyka „mieszania partii"** – to jest **sygnał dojrzałości operatora M3**.
+Dlatego Krzysztof Kowalski pochwalił Mykołę za **świadomość ryzyka „mieszania partii"** – to jest **sygnał dojrzałości operatora M3**.
 
 ## Kluczowe terminy
 
@@ -471,7 +471,7 @@ Dlatego Krzysztof Kowalski pochwalił Rustama za **świadomość ryzyka „miesz
 7. Co to znaczy, że operator M3 jest **współtwórcą certyfikatu FSC**, a nie tylko „kontrolowanym"?
 8. Jak przenosi się **numer certyfikatu FSC** z dłużycy do WZ klienta? Ilu dokumentów dotyczy ten łańcuch?
 9. Co to znaczy **„mieszanie partii"** i dlaczego jest niebezpieczne? Jak operator M3 zapobiega temu błędowi?
-10. Dlaczego Rustam **dwukrotnie sprawdza** numer FSC przy przepisaniu z KOD do KEP-001?
+10. Dlaczego Mykoła **dwukrotnie sprawdza** numer FSC przy przepisaniu z KOD do KEP-001?
 11. Co zrobisz, jeśli przyjedzie dłużyca **bez tabliczki FSC** na czole? Kto podpisuje KOD?
 12. Jakie są **zasady zachowania operatora M3** podczas wywiadu z audytorem? Co odpowiadać, gdy nie wiesz?
 13. Dlaczego **tabliczki FSC muszą być laminowane i wodoodporne**? Jaka była niezgodność EGIDA 2025?

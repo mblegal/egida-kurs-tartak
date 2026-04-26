@@ -6,21 +6,21 @@ czas: 120
 
 ## Wprowadzenie
 
-Wtorek, 2026-05-05, godzina 8:32. Drugi dzień ze stałym pomocnikiem na P3. Wahan Petrosjan stoi w strefie żółtej przy rampie odbiorczej, sortuje tarcicę z pierwszej porannej kłody (świerk pospolity, 320 mm średnica, 24 deski, klasa budowlana). Rustam Nazarov kroi drugą kłodę dnia: dąb szypułkowy z ostatniej dostawy z puszczy knyszyńskiej, średnica 380 mm, długość 4,2 m, kora zdrowa, czoło bez widocznych pęknięć, zapach świeży (bez ostrych nut octu ani stęchlizny). Kłoda wyglądała dobrze wczoraj przy przyjęciu, wygląda dobrze dziś na wózku. Rustam dobrał parametry: prędkość posuwu 7 m/min, taśma 38 mm × 1,05 mm stellitowa, rzaz 27 mm (pod parkietową deskę gotową do 22 mm po dosuszeniu i struganiu). Zlecenie: 14 desek klasy A (bez sęków obejmujących, bez pęknięć widocznych), przeznaczenie parkiet dębowy naturalny dla firmy meblarskiej z Poznania, termin wysyłki 20 maja.
+Wtorek, 2026-05-05, godzina 8:32. Drugi dzień ze stałym pomocnikiem na P3. Wasyl Melnyk stoi w strefie żółtej przy rampie odbiorczej, sortuje tarcicę z pierwszej porannej kłody (świerk pospolity, 320 mm średnica, 24 deski, klasa budowlana). Mykoła Hrycenko kroi drugą kłodę dnia: dąb szypułkowy z ostatniej dostawy z puszczy knyszyńskiej, średnica 380 mm, długość 4,2 m, kora zdrowa, czoło bez widocznych pęknięć, zapach świeży (bez ostrych nut octu ani stęchlizny). Kłoda wyglądała dobrze wczoraj przy przyjęciu, wygląda dobrze dziś na wózku. Mykoła dobrał parametry: prędkość posuwu 7 m/min, taśma 38 mm × 1,05 mm stellitowa, rzaz 27 mm (pod parkietową deskę gotową do 22 mm po dosuszeniu i struganiu). Zlecenie: 14 desek klasy A (bez sęków obejmujących, bez pęknięć widocznych), przeznaczenie parkiet dębowy naturalny dla firmy meblarskiej z Poznania, termin wysyłki 20 maja.
 
-Pierwsza deska schodzi z rampy, Rustam ją ogląda: słój regularny, barwa miodowa, zdrowe. Klasa A. Odkłada na stos po prawej. Druga deska: podobna, klasa A. Odkłada. Trzecia deska: Rustam obraca ją, patrzy na czoło, i **zatrzymuje ruch**. Przez środkową strefę deski, od rdzenia ku obwodowi, biegnie **pęknięcie**. Szeroko na 3 mm, długości około 180 mm, od rdzenia do połowy promienia. Nie było widoczne na dłużycy (czoło kłody było jednolite, bez zarysów). Ujawniło się dopiero po zdjęciu trzech desek, gdy rdzeń został wyeksponowany.
+Pierwsza deska schodzi z rampy, Mykoła ją ogląda: słój regularny, barwa miodowa, zdrowe. Klasa A. Odkłada na stos po prawej. Druga deska: podobna, klasa A. Odkłada. Trzecia deska: Mykoła obraca ją, patrzy na czoło, i **zatrzymuje ruch**. Przez środkową strefę deski, od rdzenia ku obwodowi, biegnie **pęknięcie**. Szeroko na 3 mm, długości około 180 mm, od rdzenia do połowy promienia. Nie było widoczne na dłużycy (czoło kłody było jednolite, bez zarysów). Ujawniło się dopiero po zdjęciu trzech desek, gdy rdzeń został wyeksponowany.
 
-Rustam wyłącza posuw, zatrzymuje taśmę (wybieg 12 sekund), podchodzi do telefonu stanowiskowego. Wybiera numer biura klasyfikatorów: wewnętrzny 42. Po dwóch sygnałach odbiera Anna Kowalczyk, **Pani Ania**, klasyfikatorka tarcicy EGIDA od dwunastu lat (certyfikat PN-EN 1611-1 z Instytutu Technologii Drewna w Poznaniu, akredytacja ITB dla PN-EN 14081 od 2020 r.), koleżanka Marka z czasów tartaku w Węglińcu.
+Mykoła wyłącza posuw, zatrzymuje taśmę (wybieg 12 sekund), podchodzi do telefonu stanowiskowego. Wybiera numer biura klasyfikatorów: wewnętrzny 42. Po dwóch sygnałach odbiera Anna Kowalczyk, **Pani Ania**, klasyfikatorka tarcicy EGIDA od dwunastu lat (certyfikat PN-EN 1611-1 z Instytutu Technologii Drewna w Poznaniu, akredytacja ITB dla PN-EN 14081 od 2020 r.), koleżanka Marka z czasów tartaku w Węglińcu.
 
-> **Rustam:** „Pani Aniu, Rustam z P3. Mam dąb szypułkowy, 380, z puszczy knyszyńskiej, na parkiet klasy A. Trzecia deska ma pęknięcie rdzeniowe, 3 mm szerokość, 180 mm długość, od rdzenia. Nie było widać na dłużycy. Chcę podjąć decyzję: dociąć inaczej, zdeklasować całą partię do B, czy odrzucić tę jedną deskę i prowadzić dalej klasę A. Możesz przyjść spojrzeć?"
+> **Mykoła:** „Pani Aniu, Mykoła z P3. Mam dąb szypułkowy, 380, z puszczy knyszyńskiej, na parkiet klasy A. Trzecia deska ma pęknięcie rdzeniowe, 3 mm szerokość, 180 mm długość, od rdzenia. Nie było widać na dłużycy. Chcę podjąć decyzję: dociąć inaczej, zdeklasować całą partię do B, czy odrzucić tę jedną deskę i prowadzić dalej klasę A. Możesz przyjść spojrzeć?"
 >
-> **Pani Ania:** „Za pięć minut jestem. Nie tnij dalej, Rustam. Poczekaj. Jak pęknięcie idzie: promieniście od rdzenia czy skośnie?"
+> **Pani Ania:** „Za pięć minut jestem. Nie tnij dalej, Mykoła. Poczekaj. Jak pęknięcie idzie: promieniście od rdzenia czy skośnie?"
 >
-> **Rustam:** „Promieniście. Wzdłuż słoja."
+> **Mykoła:** „Promieniście. Wzdłuż słoja."
 >
 > **Pani Ania:** „Dobrze, to pęknięcie rdzeniowe. Najpierw ustal, czy jest w całej kłodzie, czy tylko w tej desce. Zrobimy razem. Dziękuję, że nie tniesz dalej."
 
-Rustam odkłada telefon. Wahan podchodzi z rampy, Rustam wyjaśnia w dwóch zdaniach: „pęknięcie rdzeniowe, muszę poczekać z klasyfikatorką, zanim potnę dalej". Wahan wraca do sortowania świerku, Rustam czeka. W głowie układa sobie pięć typów wad wewnętrznych, które mogą ujawnić się po przetarciu, choć nie były widoczne na dłużycy. Dziś nauczysz się tych pięciu razem z nim.
+Mykoła odkłada telefon. Wasyl podchodzi z rampy, Mykoła wyjaśnia w dwóch zdaniach: „pęknięcie rdzeniowe, muszę poczekać z klasyfikatorką, zanim potnę dalej". Wasyl wraca do sortowania świerku, Mykoła czeka. W głowie układa sobie pięć typów wad wewnętrznych, które mogą ujawnić się po przetarciu, choć nie były widoczne na dłużycy. Dziś nauczysz się tych pięciu razem z nim.
 
 ## Cele
 
@@ -102,7 +102,7 @@ W drewnie świeżo ściętym zachodzi normalnie proces fermentacji cukrów i skr
 
 **Wygląd:**
 
-Drewno zaparzone ma barwę **jednolicie przyciemnioną**, w strefie rdzeniowej (najgorsza wentylacja) typowo ciemnobrunatną albo czarnawą. Zapach **wyraźnie nieprzyjemny**: ocet, stęchlizna, czasem zapach zbliżony do zgniłych jabłek. To kluczowa sygnatura dla operatora: jeżeli po pierwszym rzazie kłoda wydziela ostry kwaśny zapach, masz **silne podejrzenie zaparzenia**. Rustam uczy Wahana: „pierwsza deska, trzymasz nos nad czołem, wąchasz. Świeży zapach drewna = OK. Ocet = eskalacja."
+Drewno zaparzone ma barwę **jednolicie przyciemnioną**, w strefie rdzeniowej (najgorsza wentylacja) typowo ciemnobrunatną albo czarnawą. Zapach **wyraźnie nieprzyjemny**: ocet, stęchlizna, czasem zapach zbliżony do zgniłych jabłek. To kluczowa sygnatura dla operatora: jeżeli po pierwszym rzazie kłoda wydziela ostry kwaśny zapach, masz **silne podejrzenie zaparzenia**. Mykoła uczy Wasyla: „pierwsza deska, trzymasz nos nad czołem, wąchasz. Świeży zapach drewna = OK. Ocet = eskalacja."
 
 Po wysuszeniu drewno zaparzone jest wizualnie nadal ciemne (barwa nie wraca do normy), strukturalnie może być całkowicie w porządku (jeżeli zaparzenie było krótkotrwałe, 1-2 tygodnie) albo osłabione (3-4 tygodnie, zmniejszona wytrzymałość na zginanie o 15-30%).
 
@@ -194,17 +194,17 @@ Kłoda w całości wyłączona z bieżącego zlecenia. Idzie do: opału (trociny
 Wymaga **akceptacji klasyfikatora** plus **zgłoszenia dostawcy leśnego** (w EGIDA Marek robi notatkę do dostawcy z numerem kłody, zdjęciem wady, datą dostawy; jeżeli dostawa była z LP Nadleśnictwo Knyszyn, notatka idzie mailowo, faktura może być skorygowana).
 
 ::: example
-**Rustam i Pani Ania, 8:37, kłoda dębu z puszczy knyszyńskiej.**
+**Mykoła i Pani Ania, 8:37, kłoda dębu z puszczy knyszyńskiej.**
 
-Pani Ania przyszła. Stoi z Rustamem nad trzecią deską. Ogląda pęknięcie, mierzy suwmiarką (3,2 mm szerokości w najszerszym miejscu, 176 mm długości). Patrzy na czoło pozostałej kłody na wózku.
+Pani Ania przyszła. Stoi z Mykołą nad trzecią deską. Ogląda pęknięcie, mierzy suwmiarką (3,2 mm szerokości w najszerszym miejscu, 176 mm długości). Patrzy na czoło pozostałej kłody na wózku.
 
 > **Pani Ania:** „Pęknięcie idzie od rdzenia tylko do połowy promienia. W pozostałych deskach, które nie przechodzą przez rdzeń, nie powinno być. Zobaczmy, jak wygląda reszta kłody. Dokończ cięcie, obserwuj deski 4 do 8 (rdzeniowe strefę), jeżeli nie ma pęknięcia w kolejnej desce, znaczy że pęknięcie jest tylko w trzeciej. Wtedy wariant pierwszy: trzecia deska do klasy C, pozostałe A. Jeżeli kolejna deska też ma pęknięcie, znaczy że rdzeń spękał na całej długości, i wariant drugi: cała partia do B, minus deski z pęknięciem do C."
 
-Rustam kontynuuje cięcie. Deski 4, 5, 6: zdrowe, słój regularny, brak pęknięcia. Deski 7, 8: strefa rdzeniowa, sprawdza uważnie. Deska 7 ma lekki ślad pęknięcia przy rdzeniu, ale krótszy (60 mm, 1,5 mm szerokości). Deska 8 jest czysta.
+Mykoła kontynuuje cięcie. Deski 4, 5, 6: zdrowe, słój regularny, brak pęknięcia. Deski 7, 8: strefa rdzeniowa, sprawdza uważnie. Deska 7 ma lekki ślad pęknięcia przy rdzeniu, ale krótszy (60 mm, 1,5 mm szerokości). Deska 8 jest czysta.
 
 > **Pani Ania (po obejrzeniu desek 7 i 8):** „Rdzeń spękał tylko w jednym odcinku, środek długości kłody. Trzecia deska (od początku cięcia) i siódma (od końca cięcia) to te same miejsce, po obu stronach rdzenia. Wariant pierwszy: te dwie deski do klasy C (parkiet z pęknięciem sklejonym żywicą, klient budowlany), pozostałe dwanaście desek do klasy A (zlecenie parkietowe dla Poznania). Wydajność partii 85%, akceptowalna."
 
-Rustam oddycha z ulgą. Zapisuje na karcie KLA-002: „pęknięcie rdzeniowe, deska 3 i 7, długość 176 mm i 60 mm, szerokość 3,2 mm i 1,5 mm, wariant decyzji: dociąć inaczej (deski 3 i 7 do klasy C, pozostałe klasa A)". Pani Ania czyta, podpisuje. Rustam podpisuje. Dokument trafia do teczki partii.
+Mykoła oddycha z ulgą. Zapisuje na karcie KLA-002: „pęknięcie rdzeniowe, deska 3 i 7, długość 176 mm i 60 mm, szerokość 3,2 mm i 1,5 mm, wariant decyzji: dociąć inaczej (deski 3 i 7 do klasy C, pozostałe klasa A)". Pani Ania czyta, podpisuje. Mykoła podpisuje. Dokument trafia do teczki partii.
 :::
 
 ### Zapis decyzji: karta KLA-002
@@ -223,9 +223,9 @@ Bez karty KLA-002 wada wewnętrzna, która ujawnia się u klienta po dosuszeniu 
 
 ### Druga scena: pleśń niebieska w sośnie, 11:15
 
-Pani Ania wróciła do biura. Rustam kończy drugą partię dnia: sosna pospolita z dostawy z Nadleśnictwa Drawno, 300 mm średnica, 4,8 m długość, przeznaczenie: deska tarasowa klasy B. Przeciera czwartą kłodę z szarży. Po zdjęciu trzech desek zauważa w czwartej **niebieskoszare smugi** w strefie bielu, rozciągnięte wzdłuż słoja, długość 400 mm, szerokość 80 mm (czyli prawie przez całą szerokość deski).
+Pani Ania wróciła do biura. Mykoła kończy drugą partię dnia: sosna pospolita z dostawy z Nadleśnictwa Drawno, 300 mm średnica, 4,8 m długość, przeznaczenie: deska tarasowa klasy B. Przeciera czwartą kłodę z szarży. Po zdjęciu trzech desek zauważa w czwartej **niebieskoszare smugi** w strefie bielu, rozciągnięte wzdłuż słoja, długość 400 mm, szerokość 80 mm (czyli prawie przez całą szerokość deski).
 
-Rustam **tym razem nie dzwoni** do Pani Ani od razu. Najpierw diagnozuje sam. Pyta siebie w głowie:
+Mykoła **tym razem nie dzwoni** do Pani Ani od razu. Najpierw diagnozuje sam. Pyta siebie w głowie:
 
 - **Co to?** Niebieskoszare smugi wzdłuż słoja w sośnie = *blue stain*, pleśń sosnowa.
 - **Zakres:** przez całą szerokość jednej deski, na długości 400 mm. W kolejnych deskach (zaraz sprawdzam) prawdopodobnie podobnie.
@@ -233,18 +233,18 @@ Rustam **tym razem nie dzwoni** do Pani Ani od razu. Najpierw diagnozuje sam. Py
 - **Wytrzymałość:** zachowana (blue stain w sośnie, strata poniżej 5% wg ITB).
 - **Decyzja operacyjna:** prawdopodobnie wariant 1 (dociąć inaczej: obrzynać tak, żeby największe smugi wpadły w odpad). Alternatywnie wariant 2 (zdeklasować całą szarżę z B do C, jeżeli smugi są we wszystkich deskach na długich odcinkach).
 
-Rustam kroi deski 5, 6, 7 dla weryfikacji. Potwierdza: niebieskie smugi w większości desek, ale na krótszych odcinkach (100-200 mm). Obrzynanie pozwoli wyciąć największe strefy do odpadu. Wariant 1.
+Mykoła kroi deski 5, 6, 7 dla weryfikacji. Potwierdza: niebieskie smugi w większości desek, ale na krótszych odcinkach (100-200 mm). Obrzynanie pozwoli wyciąć największe strefy do odpadu. Wariant 1.
 
 Dzwoni do Pani Ani:
 
-> **Rustam:** „Pani Aniu, sosna z Drawna, kłoda 4, niebieskie smugi w bielu, długość do 400 mm w najgorszej desce, w pozostałych 100-200 mm. Klasa docelowa B, tarasowa. Moja propozycja: obrzynać tak, żeby główne smugi wpadły w odpad, deska dostaje klasę B zgodnie z zleceniem. Możesz podpisać po skończeniu kłody?"
+> **Mykoła:** „Pani Aniu, sosna z Drawna, kłoda 4, niebieskie smugi w bielu, długość do 400 mm w najgorszej desce, w pozostałych 100-200 mm. Klasa docelowa B, tarasowa. Moja propozycja: obrzynać tak, żeby główne smugi wpadły w odpad, deska dostaje klasę B zgodnie z zleceniem. Możesz podpisać po skończeniu kłody?"
 >
-> **Pani Ania:** „Dobrze, Rustam. Zakończ, zrób zdjęcia największej deski przed obrzynaniem i po, przyjdę o 12:00 podpisać KLA-002. Ty już wiesz co robisz."
+> **Pani Ania:** „Dobrze, Mykoła. Zakończ, zrób zdjęcia największej deski przed obrzynaniem i po, przyjdę o 12:00 podpisać KLA-002. Ty już wiesz co robisz."
 
-Rustam kończy cięcie. Wahan sortuje. Przed obrzynarką Rustam robi dwa zdjęcia największej deski (przed i po), dołączy do karty. O 11:55 Pani Ania wchodzi na halę, ogląda stos, sprawdza jedną deskę losowo, kiwa głową, podpisuje KLA-002. Wydajność klasy B: 11 z 14 desek (78%), 3 deski do klasy C (smugi zbyt duże nawet po obrzynaniu). Akceptowalnie.
+Mykoła kończy cięcie. Wasyl sortuje. Przed obrzynarką Mykoła robi dwa zdjęcia największej deski (przed i po), dołączy do karty. O 11:55 Pani Ania wchodzi na halę, ogląda stos, sprawdza jedną deskę losowo, kiwa głową, podpisuje KLA-002. Wydajność klasy B: 11 z 14 desek (78%), 3 deski do klasy C (smugi zbyt duże nawet po obrzynaniu). Akceptowalnie.
 
 ::: tip
-Ta druga scena pokazuje różnicę między **pierwszym rokiem pracy samodzielnej** (Rustam dziś) a **piątym rokiem** (Rustam za 4 lata). W pierwszym roku operator eskaluje do klasyfikatora **przed decyzją** („przyjdź, zobacz, powiedz co robić"). W piątym roku eskaluje **po decyzji** („zrobiłem X, przyjdź podpisać"). Kierunek zaufania przesuwa się od pionowego (klasyfikator decyduje) do poziomego (operator proponuje, klasyfikator weryfikuje). Rustam jest w trakcie tej drogi, dziś jeszcze bliżej pierwszego roku, ale już zaczyna przeszacowywać samodzielność w prostszych przypadkach (sosna z blue stain to sytuacja prostsza niż dąb z pęknięciem rdzeniowym).
+Ta druga scena pokazuje różnicę między **pierwszym rokiem pracy samodzielnej** (Mykoła dziś) a **piątym rokiem** (Mykoła za 4 lata). W pierwszym roku operator eskaluje do klasyfikatora **przed decyzją** („przyjdź, zobacz, powiedz co robić"). W piątym roku eskaluje **po decyzji** („zrobiłem X, przyjdź podpisać"). Kierunek zaufania przesuwa się od pionowego (klasyfikator decyduje) do poziomego (operator proponuje, klasyfikator weryfikuje). Mykoła jest w trakcie tej drogi, dziś jeszcze bliżej pierwszego roku, ale już zaczyna przeszacowywać samodzielność w prostszych przypadkach (sosna z blue stain to sytuacja prostsza niż dąb z pęknięciem rdzeniowym).
 :::
 
 ### Podsumowanie lekcji pierwszej
@@ -259,7 +259,7 @@ Rola klasyfikatorki (Pani Ania w EGIDA): podpisuje decyzję, weryfikuje wybór w
 
 Karta KLA-002 jako zapis decyzji: dane partii, opis wady, wariant decyzji, podpisy, fotografie. Retencja 5 lat. Bez karty = brak obrony przed reklamacją.
 
-Dwa scenariusze dziś: dąb z pęknięciem rdzeniowym (wariant 1, 2 deski do klasy C), sosna z blue stain (wariant 1, obrzynanie, klasa B). Rustam przeszedł obydwa: pierwszy z asystą klasyfikatora przed decyzją, drugi z własną diagnozą i podpisem klasyfikatora po decyzji.
+Dwa scenariusze dziś: dąb z pęknięciem rdzeniowym (wariant 1, 2 deski do klasy C), sosna z blue stain (wariant 1, obrzynanie, klasa B). Mykoła przeszedł obydwa: pierwszy z asystą klasyfikatora przed decyzją, drugi z własną diagnozą i podpisem klasyfikatora po decyzji.
 
 W następnej lekcji (m3-w2-l2) przechodzimy od wad wewnętrznych do **klasyfikacji wizualnej zgodnej z PN-EN 1611-1**: jak Pani Ania patrzy na sęki, oblinę, krzywiznę, i dlaczego ty asystujesz jej, ale nie klasyfikujesz samodzielnie bez certyfikatu.
 

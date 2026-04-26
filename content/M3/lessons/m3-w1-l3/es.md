@@ -6,7 +6,7 @@ czas: 120
 
 ## Introducción
 
-En la l1 escuchaste dos números: **doscientos diez** y **doscientos veinte**. Dijimos que son dos artículos del Código de Trabajo polaco (*Kodeks pracy*, KP) y que volveríamos a ellos hoy, el miércoles. Son las 6:50 de la mañana, Rustam está ante la sierra P3 y dentro de un momento vivirá la primera situación en la que estos números dejarán de ser números de una presentación y se convertirán en sus palabras al capataz.
+En la l1 escuchaste dos números: **doscientos diez** y **doscientos veinte**. Dijimos que son dos artículos del Código de Trabajo polaco (*Kodeks pracy*, KP) y que volveríamos a ellos hoy, el miércoles. Son las 6:50 de la mañana, Mykoła está ante la sierra P3 y dentro de un momento vivirá la primera situación en la que estos números dejarán de ser números de una presentación y se convertirán en sus palabras al capataz.
 
 Antes, una aclaración. En la l1 dijimos "art. 220 KP: obligación de cumplir la orden". Era una simplificación. La obligación resulta del **art. 100 § 1 KP**, y las obligaciones básicas de SSL del trabajador (incluida la de notificar un peligro) están en el **art. 211 KP**. Hoy conocerás los tres artículos correctos, no dos. Los números en la memoria profesional del operador son como teléfonos de emergencia: exactos, no 'más o menos'.
 
@@ -91,41 +91,41 @@ Tu negativa a cumplir una orden que vulnera SSL **no es** acto hostil hacia Mare
 
 Los buenos capataces lo entienden enseguida. Los malos lo aprenden tras la primera visita de PIP. Marek está en el primer grupo.
 
-### Tercer día de Rustam: miércoles, 8:42 de la mañana
+### Tercer día de Mykoła: miércoles, 8:42 de la mañana
 
-Rustam está hoy en la nave a las seis y media. El lunes y el martes dirigió la charla de SSL él mismo; tema del martes: piso resbaladizo en la rampa después de la lluvia nocturna. Hoy la dio Marek, porque quería tratar la campaña de roble, que empieza mañana. Rustam escuchaba en la segunda fila. Día normal.
+Mykoła está hoy en la nave a las seis y media. El lunes y el martes dirigió la charla de SSL él mismo; tema del martes: piso resbaladizo en la rampa después de la lluvia nocturna. Hoy la dio Marek, porque quería tratar la campaña de roble, que empieza mañana. Mykoła escuchaba en la segunda fila. Día normal.
 
-A las 7:40 Rustam arranca con el lote 51: pino, 22 rollizos, diámetro 30 a 38 cm, humedad de entrada 44%. Kerf 3,5 mm, madera aserrada 50 × 150, pedido para estructura de cubierta. Le asiste Wahan, 19 años, ayudante M1 de Armenia, tercera semana en el aserradero. Wahan pasa los rollizos desde la rampa y recoge la madera al otro lado. Su polaco es débil, pero conoce los gestos, la señal STOP y la zona de 3 metros. Rustam le dio el instructivo el lunes (verás ese instructivo en la l8).
+A las 7:40 Mykoła arranca con el lote 51: pino, 22 rollizos, diámetro 30 a 38 cm, humedad de entrada 44%. Kerf 3,5 mm, madera aserrada 50 × 150, pedido para estructura de cubierta. Le asiste Wasyl, 19 años, ayudante M1 de Ucrania (Ternópil), tercera semana en el aserradero. Wasyl pasa los rollizos desde la rampa y recoge la madera al otro lado. Su polaco es débil, pero conoce los gestos, la señal STOP y la zona de 3 metros. Mykoła le dio el instructivo el lunes (verás ese instructivo en la l8).
 
 A las 8:42 suena el teléfono interno. Marek contesta, escucha 40 segundos, cuelga y va directo a la P3.
 
-> **Marek:** "Rustam, escucha. Ha llegado antes el cliente del lote 49, el de roble. El camión está en la puerta, no puede esperar, tiene permiso de circulación en Varsovia dentro de dos horas. Tengo que descargar. Wahan, ven conmigo a la rampa 2. Rustam, sigue tú solo 30 minutos, ¿te las apañas?"
+> **Marek:** "Mykoła, escucha. Ha llegado antes el cliente del lote 49, el de roble. El camión está en la puerta, no puede esperar, tiene permiso de circulación en Varsovia dentro de dos horas. Tengo que descargar. Wasyl, ven conmigo a la rampa 2. Mykoła, sigue tú solo 30 minutos, ¿te las apañas?"
 
-Rustam mira a Marek, a Wahan, a la máquina. Primera reacción: "me las apaño, claro". Segunda, tres segundos después: "Wahan pasa los rollizos desde la rampa. Sin mí queda el operador de la P2, Hai, pero Hai tiene su propio lote, no mirará mi rampa". Tercera, cinco segundos más: **si paso un rollizo sin nadie observando la rampa, entra el riesgo de entrada no autorizada en la zona de la P3**. El instructivo del puesto EGIDA, punto 7, dice: "en la P3, durante el ciclo, tiene que haber un asistente que observe la rampa de alimentación, o la zona de la rampa tiene que estar cerrada por una barrera".
+Mykoła mira a Marek, a Wasyl, a la máquina. Primera reacción: "me las apaño, claro". Segunda, tres segundos después: "Wasyl pasa los rollizos desde la rampa. Sin mí queda el operador de la P2, Andrij, pero Andrij tiene su propio lote, no mirará mi rampa". Tercera, cinco segundos más: **si paso un rollizo sin nadie observando la rampa, entra el riesgo de entrada no autorizada en la zona de la P3**. El instructivo del puesto EGIDA, punto 7, dice: "en la P3, durante el ciclo, tiene que haber un asistente que observe la rampa de alimentación, o la zona de la rampa tiene que estar cerrada por una barrera".
 
-Rustam se acerca a Marek, baja la voz para que no oiga Wahan, habla en polaco despacio:
+Mykoła se acerca a Marek, baja la voz para que no oiga Wasyl, habla en polaco despacio:
 
-> **Rustam:** "Marek, un momento. Sin Wahan en la rampa tengo la rampa abierta y la cinta va. El instructivo del puesto dice que no puedo. ¿Podemos hacerlo de otra manera?"
+> **Mykoła:** "Marek, un momento. Sin Wasyl en la rampa tengo la rampa abierta y la cinta va. El instructivo del puesto dice que no puedo. ¿Podemos hacerlo de otra manera?"
 
-Marek se detiene. Mira el reloj. Mira a Rustam. No dice nada durante cuatro segundos, mucho. Luego:
+Marek se detiene. Mira el reloj. Mira a Mykoła. No dice nada durante cuatro segundos, mucho. Luego:
 
-> **Marek:** "Vale. Para la cinta, cierra el ciclo con este rollizo, Wahan cierra la barrera y viene conmigo. Cinco minutos de parada no son el apocalipsis. Anota la parada en el diario: motivo, hora."
+> **Marek:** "Vale. Para la cinta, cierra el ciclo con este rollizo, Wasyl cierra la barrera y viene conmigo. Cinco minutos de parada no son el apocalipsis. Anota la parada en el diario: motivo, hora."
 
-Rustam detiene el ciclo, apaga el verde, aprieta el rojo. Wahan cierra la barrera de la rampa. Marek y Wahan se van a la rampa 2. Rustam abre el diario de la máquina:
+Mykoła detiene el ciclo, apaga el verde, aprieta el rojo. Wasyl cierra la barrera de la rampa. Marek y Wasyl se van a la rampa 2. Mykoła abre el diario de la máquina:
 
-> **8:47. Parada lote 51. Motivo: asistente (Wahan Petrosjan, M1) destinado a descarga en rampa 2 por el capataz M. Kowalski. Sin asistente, ciclo detenido conforme al instructivo del puesto, pt. 7. Reanudación prevista hacia las 9:15.**
+> **8:47. Parada lote 51. Motivo: asistente (Wasyl Melnyk, M1) destinado a descarga en rampa 2 por el capataz M. Kowalski. Sin asistente, ciclo detenido conforme al instructivo del puesto, pt. 7. Reanudación prevista hacia las 9:15.**
 
 Guarda. Apaga la máquina a parada total. Se sienta y espera. No está nervioso. Hace media hora no habría sabido que tenía derecho a decir "un momento".
 
 ::: example
-Fíjate en tres cosas. Primero, Rustam **no** citó el art. 210 KP. Dijo una objeción operativa: "el instructivo del puesto dice que no puedo". Esa es la táctica adecuada: en la primera conversación con el capataz hablas de una norma concreta del centro, no de un artículo del código. Segundo, Rustam **propuso una alternativa**: "¿podemos hacerlo de otra manera?". Los tribunales ordinarios tratan la propuesta de alternativa como prueba de buena fe del trabajador (sentencia X P 1138/14, más abajo). Tercero, **anotó en el diario el motivo de la parada**. El diario es prueba objetiva, no genera emociones. Los tres elementos juntos cierran la disputa antes de que se abra.
+Fíjate en tres cosas. Primero, Mykoła **no** citó el art. 210 KP. Dijo una objeción operativa: "el instructivo del puesto dice que no puedo". Esa es la táctica adecuada: en la primera conversación con el capataz hablas de una norma concreta del centro, no de un artículo del código. Segundo, Mykoła **propuso una alternativa**: "¿podemos hacerlo de otra manera?". Los tribunales ordinarios tratan la propuesta de alternativa como prueba de buena fe del trabajador (sentencia X P 1138/14, más abajo). Tercero, **anotó en el diario el motivo de la parada**. El diario es prueba objetiva, no genera emociones. Los tres elementos juntos cierran la disputa antes de que se abra.
 :::
 
 ### Si Marek no hubiera cedido: la nota de servicio
 
 La escena terminó bien porque Marek es un buen capataz. Imagina la alternativa. Marek, bajo estrés (permiso de circulación, cliente, penalización por retraso), dice:
 
-> **Marek (hipotéticamente):** "Rustam, no tengo tiempo. Cinco minutos no son nada. Wahan solo me ayuda a descargar, volvemos. Sigue."
+> **Marek (hipotéticamente):** "Mykoła, no tengo tiempo. Cinco minutos no son nada. Wasyl solo me ayuda a descargar, volvemos. Sigue."
 
 Dos opciones. Primera: arrancas la máquina sin asistente, contando con que saldrá bien. Si se produce accidente, el art. 52 § 1 pt 1 KP (*dyscyplinarka*, despido disciplinario) juega del lado del empresario, y el tribunal laboral te mirará como a alguien que **conscientemente asumió el riesgo teniendo derecho a abstenerse del trabajo** (sentencia VIII Pa 217/18, enseguida). El primer camino es derrota en el tribunal, aunque Marek también responda.
 
@@ -198,11 +198,11 @@ Si tu negativa basada en el art. 210 § 1 resulta después errónea en la evalua
 
 ### Tribunal ordinario X P 1138/14: propón una alternativa
 
-Otra sentencia ordinaria, **X P 1138/14, de 3 de noviembre de 2015**, refuerza la técnica que Rustam aplicó por la mañana: la propuesta de alternativa.
+Otra sentencia ordinaria, **X P 1138/14, de 3 de noviembre de 2015**, refuerza la técnica que Mykoła aplicó por la mañana: la propuesta de alternativa.
 
 > "Si el trabajador (...) propuso el uso de un medio alternativo, aparentemente más seguro (...), y obtuvo el consentimiento oral del superior con competencias para otorgarlo, y el empresario no aseguró al trabajador la formación adecuada, las instrucciones de uso del equipo y la debida supervisión, entonces la actuación del trabajador no constituye una infracción grave de las obligaciones básicas del trabajador."
 
-Es decir: propuesta de alternativa + consentimiento oral = protección jurídica, aunque la alternativa resulte atípica. Rustam propuso "cierre de la barrera + detención del ciclo"; Marek lo aceptó oralmente. Si algo hubiera salido mal, Rustam tendría prueba: propuesta + consentimiento oral + apunte en el diario.
+Es decir: propuesta de alternativa + consentimiento oral = protección jurídica, aunque la alternativa resulte atípica. Mykoła propuso "cierre de la barrera + detención del ciclo"; Marek lo aceptó oralmente. Si algo hubiera salido mal, Mykoła tendría prueba: propuesta + consentimiento oral + apunte en el diario.
 
 ### Tribunal ordinario VIII Pa 217/18: advertencia por el otro lado
 
@@ -222,43 +222,43 @@ VIII Pa 217/18 es el reverso gemelo de VIII Pa 138/14. Juntas: el art. 210 te pr
 
 Sanción del lado de **quien dirige**, no del tuyo. Marek, el jefe de turno Piotr y el jefe del centro están sujetos siempre. PIP impone multa de hasta 2000 PLN en régimen sancionador directo (art. 96 § 1a del Código de procedimiento sobre contravenciones polaco), hasta 5000 PLN en reincidencia dentro de dos años (§ 1b). Hasta 30 000 PLN exige procedimiento judicial.
 
-**¿Puede afectarte a ti?** En circunstancias estrechas: cuando diriges a un ayudante (p. ej., Wahan) y no cumples las normas de SSL respecto a él. Si lo instruyes de forma defectuosa y sufre lesión, el art. 283 § 1 KP entra en juego. Por eso el instructivo del puesto debe ser sólido (l8 de esta semana).
+**¿Puede afectarte a ti?** En circunstancias estrechas: cuando diriges a un ayudante (p. ej., Wasyl) y no cumples las normas de SSL respecto a él. Si lo instruyes de forma defectuosa y sufre lesión, el art. 283 § 1 KP entra en juego. Por eso el instructivo del puesto debe ser sólido (l8 de esta semana).
 
 El **art. 283 § 2 pt 6 KP** es la segunda capa, importante para la l5 (actuación tras incidente): por no notificar a PIP un accidente mortal, grave o colectivo corresponde la misma multa.
 
 ### Miércoles, 9:16: Marek regresa
 
-Rustam está sentado desde las 8:47. Wahan vuelve a las 9:13, detrás de él Marek. Wahan abre la barrera. Marek se acerca:
+Mykoła está sentado desde las 8:47. Wasyl vuelve a las 9:13, detrás de él Marek. Wasyl abre la barrera. Marek se acerca:
 
 > **Marek:** "Listo. El cliente se ha ido, ha recogido la carga. Arranca desde el rollizo 13. Anota la reanudación en el diario, 9:16."
 
-Rustam asiente. Anota: **"9:16. Reanudación del lote 51, rollizo 13 de 22. Asistente regresado."** Arranca la cinta, el resto va con normalidad. A las 10:28 termina el lote 51. A las 10:30 se acerca a Marek, que está en la P1 formando a un nuevo ayudante.
+Mykoła asiente. Anota: **"9:16. Reanudación del lote 51, rollizo 13 de 22. Asistente regresado."** Arranca la cinta, el resto va con normalidad. A las 10:28 termina el lote 51. A las 10:30 se acerca a Marek, que está en la P1 formando a un nuevo ayudante.
 
-> **Rustam:** "Marek, ¿tienes un minuto?"
-> **Marek:** "Espera, termino con Karen. Karen, zona de tres metros, ¿te acuerdas? Vale, deja la cinta, vete a por té. Rustam, dime."
-> **Rustam:** "Lo de esta mañana. Parada de veintinueve minutos. Quería preguntar si está bien que haya parado por el punto siete del instructivo."
-> **Marek:** (pausa, mira la nave) "Rustam. Llevas tres días en el M3. Yo fui capataz seis años. Si yo olvido un minuto que la sierra no puede ir sin asistente en la rampa, y tú me lo recuerdas, está bien. No soy infalible. El aserradero me paga por no ser más tonto que el instructivo. Hoy te has ganado cinco minutos y no cinco meses de asuntos judiciales. Así tiene que ser. Anótalo en el diario."
+> **Mykoła:** "Marek, ¿tienes un minuto?"
+> **Marek:** "Espera, termino con Karen. Karen, zona de tres metros, ¿te acuerdas? Vale, deja la cinta, vete a por té. Mykoła, dime."
+> **Mykoła:** "Lo de esta mañana. Parada de veintinueve minutos. Quería preguntar si está bien que haya parado por el punto siete del instructivo."
+> **Marek:** (pausa, mira la nave) "Mykoła. Llevas tres días en el M3. Yo fui capataz seis años. Si yo olvido un minuto que la sierra no puede ir sin asistente en la rampa, y tú me lo recuerdas, está bien. No soy infalible. El aserradero me paga por no ser más tonto que el instructivo. Hoy te has ganado cinco minutos y no cinco meses de asuntos judiciales. Así tiene que ser. Anótalo en el diario."
 
-Rustam asiente. Marek le da un golpecito en el hombro, vuelve con Karen.
+Mykoła asiente. Marek le da un golpecito en el hombro, vuelve con Karen.
 
-Rustam vuelve a la P3. A las 10:34 anota en el diario una línea más:
+Mykoła vuelve a la P3. A las 10:34 anota en el diario una línea más:
 
 > **10:34. Conversación con el capataz M. Kowalski sobre la parada 8:47 a 9:16. El capataz ha confirmado la procedencia de la parada y la conformidad con el instructivo del puesto P3, punto 7. Sin nota de servicio, la disputa no se produjo.**
 
 Firma. Cierra la tableta. Coge el siguiente rollizo.
 
 ::: info
-La última línea ("**sin nota de servicio, la disputa no se produjo**") es significativa. Rustam documenta no solo lo que pasó, sino lo que **no pasó**. El tribunal laboral o el inspector de PIP que lea el diario dentro de seis meses verá: hubo tensión, pero se resolvió oralmente, sin escalada. Esto es un aserradero bien llevado. La anotación protege a Rustam y a Marek, y muestra que el instructivo se aplica, no solo cuelga enmarcado.
+La última línea ("**sin nota de servicio, la disputa no se produjo**") es significativa. Mykoła documenta no solo lo que pasó, sino lo que **no pasó**. El tribunal laboral o el inspector de PIP que lea el diario dentro de seis meses verá: hubo tensión, pero se resolvió oralmente, sin escalada. Esto es un aserradero bien llevado. La anotación protege a Mykoła y a Marek, y muestra que el instructivo se aplica, no solo cuelga enmarcado.
 :::
 
 ### Cinco situaciones en las que la nota de servicio es la respuesta adecuada
 
-No toda disputa termina en nota de servicio. La mayoría termina como la de Rustam esta mañana: conversación, cambio de plan, apunte en el diario. La nota es escalada, para cuando la conversación no surte efecto. Cinco situaciones típicas:
+No toda disputa termina en nota de servicio. La mayoría termina como la de Mykoła esta mañana: conversación, cambio de plan, apunte en el diario. La nota es escalada, para cuando la conversación no surte efecto. Cinco situaciones típicas:
 
 1. **El capataz da una orden que rompe el instructivo y no la cambia tras tu reparo.** Ejemplo: trabajar sin protectores auditivos con emisión superior a 85 dB(A).
 2. **La máquina tiene un daño visible en la seguridad y el capataz manda seguir "hasta fin de turno".** Ejemplo: protección del disco agrietada, "tres horas más, por la noche lo notifico a mantenimiento".
 3. **Los EPI no están en el estándar exigido.** Ejemplo: gafas rayadas sin reposición, "usa las que tengas". El KP exige (art. 2376 y siguientes) medios de protección operativos.
-4. **El ayudante o el operador junior es retirado del puesto sin tu conocimiento y vuelve con una orden que no conoces.** Ejemplo: Wahan vuelve y dice "el jefe me ha mandado ponerme en la zona prohibida"; el jefe confirma en contra del instructivo.
+4. **El ayudante o el operador junior es retirado del puesto sin tu conocimiento y vuelve con una orden que no conoces.** Ejemplo: Wasyl vuelve y dice "el jefe me ha mandado ponerme en la zona prohibida"; el jefe confirma en contra del instructivo.
 5. **Un incidente en tu línea no queda anotado.** Ejemplo: corte leve del ayudante, "no lo apuntemos, papeleo"; el KP y el procedimiento interno lo exigen.
 
 En las cinco, la nota de servicio es **acto de notificación conforme al art. 210 § 1 y al art. 211 pt 6 KP**, que te protege jurídicamente y obliga al superior a decidir por escrito.
@@ -279,7 +279,7 @@ Las vías PIP y tribunal laboral no son excluyentes. Puedes denunciar a PIP **e*
 
 ### Qué pasa con la charla de SSL de este miércoles
 
-La charla de SSL del miércoles la dirigió Marek. Tras el incidente de la rampa, resuelto oralmente, ni Marek ni Rustam añadieron nada a esa charla. Si Rustam hubiera redactado nota de servicio, tratar esa nota en la charla del jueves habría recaído sobre Marek o sobre Piotr. La charla de SSL cumple la función de **cierre del circuito de los incidentes**: cada incidente que afectó a la seguridad vuelve como recordatorio o corrección de procedimiento.
+La charla de SSL del miércoles la dirigió Marek. Tras el incidente de la rampa, resuelto oralmente, ni Marek ni Mykoła añadieron nada a esa charla. Si Mykoła hubiera redactado nota de servicio, tratar esa nota en la charla del jueves habría recaído sobre Marek o sobre Piotr. La charla de SSL cumple la función de **cierre del circuito de los incidentes**: cada incidente que afectó a la seguridad vuelve como recordatorio o corrección de procedimiento.
 
 Te has familiarizado con tres capas del circuito: **oral** (conversación a las 8:42), **documental** (apuntes a las 8:47 y 10:34), **de escalada** (nota de servicio, hoy no necesaria). Tres capas sobre un mismo incidente, según cómo se desarrolle.
 
@@ -291,7 +291,7 @@ La jurisprudencia del Tribunal Supremo (I PK 191/05, I PKN 619/99, II PSK 76/22)
 
 La nota de servicio es un acto de notificación en una forma que sobrevive al conflicto. Diez puntos de contenido, dos ejemplares, firma. No es necesaria a diario, es necesaria cuando la conversación no surte efecto.
 
-Rustam esta mañana ha ejercido el derecho a la negativa sin citar el código, pero con una norma concreta del centro y una propuesta de alternativa. Marek ha reaccionado correctamente. Los apuntes en el diario están. La disputa no se ha desarrollado. Así es un buen aserradero. Mañana, en la l4, verás qué hacer cuando la disputa sí se desarrolla: procedimiento "STOP, asegura, notifica, documenta". La nota de servicio estará entonces ya más cerca.
+Mykoła esta mañana ha ejercido el derecho a la negativa sin citar el código, pero con una norma concreta del centro y una propuesta de alternativa. Marek ha reaccionado correctamente. Los apuntes en el diario están. La disputa no se ha desarrollado. Así es un buen aserradero. Mañana, en la l4, verás qué hacer cuando la disputa sí se desarrolla: procedimiento "STOP, asegura, notifica, documenta". La nota de servicio estará entonces ya más cerca.
 
 ## Términos clave
 
@@ -363,11 +363,11 @@ f) la duración del peligro supera las dos horas.
 2. ¿Por qué la notificación al superior es requisito de la protección y no añadido a ella? Cita la signatura de la sentencia del Tribunal Supremo que lo confirma.
 3. Enumera los 10 elementos del contenido de la nota de servicio que un tribunal laboral aceptará como prueba. ¿Por qué "fecha y hora" con precisión al minuto es más importante que indicar el día de la semana?
 4. ¿Qué significa que el derecho a negarse a un trabajo peligroso **no te protege** si tu evaluación se basa en miedo subjetivo sin amenaza objetiva? Cita la signatura de la sentencia que así lo sentenció.
-5. Rustam anotó en el diario de la máquina la línea: "Sin nota de servicio, la disputa no se produjo". ¿Por qué esta línea tiene valor documental, aunque no resultara de una obligación jurídica?
+5. Mykoła anotó en el diario de la máquina la línea: "Sin nota de servicio, la disputa no se produjo". ¿Por qué esta línea tiene valor documental, aunque no resultara de una obligación jurídica?
 
 **Parte D. Análisis de la escena:**
 
-Vuelve a la escena Rustam-Marek de las 8:42. Identifica **cuatro decisiones de Rustam** que tuvieron significado jurídico (no solo operativo). Para cada una, indica qué precepto o qué sentencia le corresponde.
+Vuelve a la escena Mykoła-Marek de las 8:42. Identifica **cuatro decisiones de Mykoła** que tuvieron significado jurídico (no solo operativo). Para cada una, indica qué precepto o qué sentencia le corresponde.
 
 ## Enlace con la práctica
 
@@ -382,7 +382,7 @@ Pasado mañana, en la l4, verás el procedimiento "STOP, asegura, notifica, docu
 
 ## Notas para el formador
 
-- **Ritmo de 120 min (propuesto):** 10 min Introducción + Objetivos + aclaración art. 220 → art. 211; 25 min "Tres artículos que se cruzan" (lectura en voz alta por parejas del art. 100, 210, 211); 15 min "Art. 212 KP: la carga de Marek" (debate: por qué la negativa del operador ayuda al capataz); 15 min "Tercer día de Rustam" (lectura, parada en la propuesta de alternativa); 15 min "Nota de servicio: formato" (cada cursillista redacta una nota para una situación hipotética propia); 15 min jurisprudencia (cinco sentencias, reparto de signaturas); 10 min vías externas (PIP, sindicatos, tribunal laboral); 10 min tarea + resumen.
+- **Ritmo de 120 min (propuesto):** 10 min Introducción + Objetivos + aclaración art. 220 → art. 211; 25 min "Tres artículos que se cruzan" (lectura en voz alta por parejas del art. 100, 210, 211); 15 min "Art. 212 KP: la carga de Marek" (debate: por qué la negativa del operador ayuda al capataz); 15 min "Tercer día de Mykoła" (lectura, parada en la propuesta de alternativa); 15 min "Nota de servicio: formato" (cada cursillista redacta una nota para una situación hipotética propia); 15 min jurisprudencia (cinco sentencias, reparto de signaturas); 10 min vías externas (PIP, sindicatos, tribunal laboral); 10 min tarea + resumen.
 - **Trampa pedagógica n.º 1:** los cursillistas migrantes pueden creer que "el derecho solo protege a los ciudadanos polacos" o que "el migrante que vaya a PIP será despedido". Ambas intuiciones son falsas. El derecho laboral polaco **no diferencia** por ciudadanía (art. 113 KP, prohibición de discriminación). El acceso a PIP y al tribunal laboral es idéntico. Respuesta ante el miedo al riesgo real: "en un aserradero con certificado FSC o con cliente de exportación, la cultura del centro no admite el despido por recurrir a PIP, porque golpearía a la certificación". En aserraderos pequeños sin certificados la respuesta es más prudente, pero los preceptos siguen del lado del trabajador; la prueba en forma de nota es clave.
 - **Trampa pedagógica n.º 2:** los cursillistas pueden tratar el art. 210 como "carta de salida" de cualquier situación incómoda. La sentencia II PSK 76/22 muestra que el miedo subjetivo sin hecho objetivo es una trampa. Practica la distinción "hecho visible" vs. "impresión". Hecho: hueco en la protección, ruido por encima de la norma medida, falta de lámpara de señalización. Impresión: "me parece que se recalienta", "esa cinta suena raro". Las impresiones son señal diagnóstica, no fundamento jurídico.
 - **Trampa pedagógica n.º 3:** la sección "Nota de servicio" puede suscitar la pregunta "¿es delatar?". No lo es. Es una **notificación al superior sobre un peligro** exigida por el KP (art. 210 § 1 y art. 211 pt 6). En la cultura de algunos países de origen (antigua URSS, Oriente Próximo) la notificación escrita al superior a veces se trata como hostil. Desmóntalo conscientemente: en Polonia es un elemento estándar de la cultura del trabajo; los capataces la esperan como prueba de la diligencia del operador.

@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Czwartek, siódmy dzień tygodnia drugiego. Maricel w poniedziałek zrozumiała wilgotność, we wtorek ją zmierzyła, w środę zobaczyła, jak brygadzista kreślił cięcia na dłużycy. Dzisiaj nowa osoba wchodzi do hali sortowania: **Emeka Okonkwo, 32 lata, z miasta Enugu w południowo-wschodniej Nigerii**. Zanim przyjechał do Polski dziesięć miesięcy temu, przez sześć lat pracował jako inżynier utrzymania ruchu przy młynach olejarskich. Znał drewno tropikalne, iroko i sapele, z których budowano stoły robocze w jego fabryce. Polski dąb i buk poznaje dopiero teraz.
+Czwartek, siódmy dzień tygodnia drugiego. Sofía w poniedziałek zrozumiała wilgotność, we wtorek ją zmierzyła, w środę zobaczyła, jak brygadzista kreślił cięcia na dłużycy. Dzisiaj nowa osoba wchodzi do hali sortowania: **Carlos Hernández, 32 lata, z miasta Maracaibo w zachodniej Wenezueli**. Zanim przyjechał do Polski dziesięć miesięcy temu, przez sześć lat pracował jako inżynier utrzymania ruchu przy bazie naftowej. Znał drewno tropikalne, caobę i sapele, z których budowano stoły robocze na jego obiekcie. Polski dąb i buk poznaje dopiero teraz.
 
-O 7:15 Emeka wchodzi do hali sortowania po pierwszym cięciu. Przy stole stoi **mistrz Jan, pięćdziesiąt pięć lat, trzydzieści lat w tartaku**. Jan położył cztery krótkie odcinki tarcicy, każdy około metra długości, świeżo zrzucone z pilarki taśmowej. „Chodź, Emeka. Zanim nauczę cię sortować samodzielnie, musisz **nauczyć się widzieć wady, zanim zniszczą piłę albo klienta**. To cztery najważniejsze wady, przez które w zeszłym tygodniu straciliśmy dwie taśmy i jedno zamówienie."
+O 7:15 Carlos wchodzi do hali sortowania po pierwszym cięciu. Przy stole stoi **mistrz Jan, pięćdziesiąt pięć lat, trzydzieści lat w tartaku**. Jan położył cztery krótkie odcinki tarcicy, każdy około metra długości, świeżo zrzucone z pilarki taśmowej. „Chodź, Carlos. Zanim nauczę cię sortować samodzielnie, musisz **nauczyć się widzieć wady, zanim zniszczą piłę albo klienta**. To cztery najważniejsze wady, przez które w zeszłym tygodniu straciliśmy dwie taśmy i jedno zamówienie."
 
 Ta lekcja jest o tym, **co widzisz na korze i w przekroju, zanim deska trafi do klienta**. Nauczysz się rozpoznawać cztery wady, które zmieniają wszystko: **skrętność włókien, fałszywą twardziel, zgniliznę korzeniową, zabitki kory**. To są te same wady, których w środę Marek szukał, stukając młotkiem w dębową dłużycę.
 
@@ -56,7 +56,7 @@ Pierwszy kawałek na stole Jana: odkorowana sosna, długość 1 m, średnica 25 
 
 ### Wada druga: fałszywa twardziel
 
-Drugi kawałek: świeżo przecięty buk, długość 80 cm. Na przekroju Emeka widzi **nieregularną, czerwono-brązową plamę w środku, z poszarpanymi krawędziami, jakby ktoś rozlał herbatę na białym obrusie**. Plama zajmuje około 30% przekroju.
+Drugi kawałek: świeżo przecięty buk, długość 80 cm. Na przekroju Carlos widzi **nieregularną, czerwono-brązową plamę w środku, z poszarpanymi krawędziami, jakby ktoś rozlał herbatę na białym obrusie**. Plama zajmuje około 30% przekroju.
 
 **Fałszywa twardziel** (*false heartwood*, niem. *Rotkern* – „czerwony rdzeń") występuje głównie w buku, jesionie i olszy. To **reakcja żywego drzewa na uszkodzenie mechaniczne lub starość**: drewno bieli przekształca się w tkankę martwą o zmienionym składzie, ciemniejszą, bez geometrycznej granicy.
 
@@ -94,7 +94,7 @@ Trzeci kawałek: dąb szypułkowy, średnica 45 cm. Jan bierze młotek stolarski
 
 ### Wada czwarta: zabitki kory
 
-Czwarty kawałek: świerk 30 cm długości. Jan obraca go bokiem. Emeka widzi **pionowy pas ciemnego, wyschniętego materiału głęboko w drewnie, szerokości 8 mm, długości 20 cm, jakby ktoś zapieczętował w środku kawałek starej kory**.
+Czwarty kawałek: świerk 30 cm długości. Jan obraca go bokiem. Carlos widzi **pionowy pas ciemnego, wyschniętego materiału głęboko w drewnie, szerokości 8 mm, długości 20 cm, jakby ktoś zapieczętował w środku kawałek starej kory**.
 
 **Zabitka kory** (*bark pocket*) to kawałek kory pozostały wewnątrz pnia po zrośniętej ranie. Najczęstsza przyczyna: **złamana gałąź**, którą drzewo obrosło warstwami przyrostu. Rzadziej: uderzenie traktora w lesie, obtarcie przez inne drzewo w burzy, cięcie narzędziem podczas trzebieży.
 
@@ -160,7 +160,7 @@ Jutro (lekcja 5) poznasz **sortymenty tarcicy**: co wychodzi z pilarki taśmowej
 - Skrętność „bo pień kręci się na korze" – **nie mylić**: skrętność włókien (cecha drewna) vs koślawość pnia (cecha kształtu). Pień krzywy może mieć włókna proste, pień prosty skrętne.
 - Zabitka „bo kora zachowała się na pniu" – **nie**, zabitka to kora **wewnątrz** drewna, nie zewnątrz.
 
-**Case Emeka – perspektywa afrykańska**: Emeka przyszedł z kontekstu drewna tropikalnego (iroko, sapele, mahoń). Tamte gatunki mają inne wady dominujące: „gum vein" (pas żywicy), „brittle heart" (łamliwy rdzeń po stresie wzrostu), „sapstreak" (przebarwienie bakteryjne). Wady polskich gatunków są dla Emeka nowe. Pokaż mu zdjęcia wad z rodzimego kontekstu, potem nałóż analogię polską. Fałszywa twardziel bukowa ma podobny mechanizm do „brittle heart" w iroko – oba to reakcje drzewa na stres.
+**Case Carlos – perspektywa afrykańska**: Carlos przyszedł z kontekstu drewna tropikalnego (iroko, sapele, mahoń). Tamte gatunki mają inne wady dominujące: „gum vein" (pas żywicy), „brittle heart" (łamliwy rdzeń po stresie wzrostu), „sapstreak" (przebarwienie bakteryjne). Wady polskich gatunków są dla Carlos nowe. Pokaż mu zdjęcia wad z rodzimego kontekstu, potem nałóż analogię polską. Fałszywa twardziel bukowa ma podobny mechanizm do „brittle heart" w iroko – oba to reakcje drzewa na stres.
 
 **Dlaczego stukanie młotkiem to ryt, nie gimmick**: od XIX wieku europejscy klasyfikatorzy stukają drewno – technika prosta, tania, skuteczna na 80% zgnilizn. W dobie ultradźwięków i tomografii komputerowej drewna stukanie jest nadal pierwszą linią diagnostyki na placu kłód, bo mistrz sprawdza dłużycę w 30 sekund. Szanuj ten ryt, nie zastąpisz go aplikacją na telefon.
 

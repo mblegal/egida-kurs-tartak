@@ -1,0 +1,82 @@
+Skanowanie lekcji...
+Skanowanie artefaktów...
+Skanowanie materiałów pomocniczych...
+Skanowanie dist/...
+==============================================================================
+RAPORT WALIDACJI FAZY 7 — KURS TARTAKOWY
+==============================================================================
+
+STAN SKANU:
+  Lekcje sklanowane: 384 / 384 oczekiwanych
+  Artefakty: 30
+  Materiały pomocnicze: 10
+  Brakujące lekcje (folder): 0
+  Brakujące pliki językowe: 0
+
+AGREGATY PER KATEGORIA:
+  kategoria                            plików    em  en_typo  zl_asc   PLN  uk_apo  heroes  no_dia  fm_miss
+  artifact-M1-cwiczenia-teoretyczne         4     0       50       0     0       0       0       0        0
+  artifact-M1-quiz-uzupelniajacy            4     0       32       0     0       0       0       0        0
+  artifact-M1-scenariusze-praktyczne        1     0       29       0     0       0       0       0        0
+  artifact-M1-wytyczne-trenera              1     0       43       0     0       0       0       0        0
+  artifact-M2-cwiczenia-teoretyczne         4     0        7       0     0       0       0       0        0
+  artifact-M2-quiz-uzupelniajacy            4     0        4       0     0       0       0       0        0
+  artifact-M2-scenariusze-praktyczne        1     0        0       0     0       0       0       0        0
+  artifact-M2-wytyczne-trenera              1     0        0       0     0       0       0       0        0
+  artifact-M3-cwiczenia-teoretyczne         4     0       27       0     0       0       0       0        0
+  artifact-M3-quiz-uzupelniajacy            4     0       15       0     0       0       0       0        0
+  artifact-M3-scenariusze-praktyczne        1     0       17       0     0       0       0       0        0
+  artifact-M3-wytyczne-trenera              1     0        7       0     0       0       0       0        0
+  lesson-M1                               128  3995     1829       0     0       0       0       0        0
+  lesson-M2                               128     0     2921       0     0       0       0       0        0
+  lesson-M3                               128     0     2643       0     0       0       0       0        0
+  pomocnicze-program-ogolny                 1     0        0       0     0       0       0       0        0
+  pomocnicze-program-szczegolowy            4     0        0       0     0       0       0       0        0
+  pomocnicze-prospekt-rekrutacyjny          4     0        0       0     0       0       0       0        0
+  pomocnicze-wytyczne-koordynatora          1     0        0       0     0       0       0       0        0
+
+DIST/ SANITY:
+  kurs_M1.html                   3230 KB  placeholders= 0  brak= 0  em=7524  en_typo=1733  [OK]
+  kurs_M2.html                   3381 KB  placeholders= 0  brak= 0  em= 54  en_typo=3017  [OK]
+  kurs_M3.html                   6388 KB  placeholders= 0  brak= 0  em= 54  en_typo=2364  [OK]
+  prezentacja_M1.html            2758 KB  placeholders= 0  brak= 0  em=6753  en_typo=1707  [OK]
+  prezentacja_M2.html            2663 KB  placeholders= 0  brak= 0  em= 38  en_typo=2605  [OK]
+  prezentacja_M3.html            4298 KB  placeholders= 0  brak= 0  em= 38  en_typo=1114  [OK]
+
+TOP 30 ZNALEZISK (z 284 łącznie):
+   140x em-dash                      content\M1\lessons\m1-w3-l3\uk.md
+   125x en-dash-typo                 content\M3\lessons\m3-w4-l5\uk.md  [иколи тривають далі – Марек експерименту]
+   122x em-dash                      content\M1\lessons\m1-w3-l3\es.md
+   121x em-dash                      content\M1\lessons\m1-w3-l1\uk.md
+   121x em-dash                      content\M1\lessons\m1-w3-l4\uk.md
+   120x em-dash                      content\M1\lessons\m1-w3-l5\uk.md
+   120x em-dash                      content\M1\lessons\m1-w3-l7\uk.md
+   116x em-dash                      content\M1\lessons\m1-w3-l2\uk.md
+   113x en-dash-typo                 content\M1\lessons\m1-w4-l2\pl.md  [otowanym stanowisku – ZUS i inspekcja pr]
+   112x en-dash-typo                 content\M3\lessons\m3-w4-l4\uk.md  [завтра середа 24.06 – **я в Ольштині ціл]
+   110x em-dash                      content\M1\lessons\m1-w3-l1\es.md
+   110x em-dash                      content\M1\lessons\m1-w3-l4\es.md
+   110x en-dash-typo                 content\M3\lessons\m3-w4-l5\pl.md  [Mykoły trwają dalej – Marek eksperymentu]
+   110x en-dash-typo                 content\M3\lessons\m3-w4-l5\en.md  [ion duties continue – Marek is experimen]
+   109x en-dash-typo                 content\M3\lessons\m3-w4-l5\es.md  [añana jueves, 25.06 – **primer turno de ]
+   108x em-dash                      content\M1\lessons\m1-w3-l8\uk.md
+   107x em-dash                      content\M1\lessons\m1-w3-l5\es.md
+   106x en-dash-typo                 content\M3\lessons\m3-w4-l1\pl.md  [ie koła do serwisu) – pełny zapis w karc]
+   105x em-dash                      content\M1\lessons\m1-w3-l2\es.md
+   105x em-dash                      content\M1\lessons\m1-w3-l7\es.md
+   105x en-dash-typo                 content\M3\lessons\m3-w4-l1\uk.md  [я колеса на сервіс) – повний запис у кар]
+   103x en-dash-typo                 content\M1\lessons\m1-w4-l3\pl.md  [o cięcia wzdłużnego – **100–110 dB**. St]
+   102x em-dash                      content\M1\lessons\m1-w2-l4\uk.md
+   102x em-dash                      content\M1\lessons\m1-w3-l6\uk.md
+   102x en-dash-typo                 content\M3\lessons\m3-w4-l6\uk.md  [arkiętMaster Kraków – вдалося, кур'єр DH]
+   101x em-dash                      content\M1\lessons\m1-w3-l8\es.md
+    99x en-dash-typo                 content\M3\lessons\m3-w4-l4\en.md  [row Wednesday 24.06 – **I'm in Olsztyn a]
+    98x en-dash-typo                 content\M3\lessons\m3-w4-l4\pl.md  [, jutro środa 24.06 – **jestem w Olsztyn]
+    93x em-dash                      content\M1\lessons\m1-w3-l6\es.md
+    93x en-dash-typo                 content\M3\lessons\m3-w4-l6\pl.md  [arkiętMaster Kraków – udało się, kurier ]
+
+------------------------------------------------------------------------------
+BLOKUJĄCE  (em + zl_ascii + PLN + uk_apo + heroes): 3995
+OSTRZEŻENIA (en_typo + no_diacr + fm_missing):       7624
+
+WERDYKT: 3995 BLOKUJĄCYCH — wymaga naprawy przed zamknięciem Fazy 7.

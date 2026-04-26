@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Viernes, 8:00, nave del secadero de la Fundación EGIDA, cámara 2. Han pasado 10 días desde el martes, cuando Oleksii Bohdaniuk cargó en la cámara el lote SO-A-260420-012 (pino clase A, 50 × 150 × 3000 mm, 6 m³, un total de 12 tablas). El maestro del secadero Zbigniew Majchrzak cerró el ciclo a las 4:00 de la madrugada: la temperatura bajó de 55°C a 23°C durante 7 horas de enfriamiento gradiente (ritmo 4,6°C/h, con holgura por debajo del límite de 6°C/h). Ahora Oleksii se planta frente a la puerta de la cámara junto a Zbigniew. «Tú solo cargaste, tú solo descargas, tú solo compruebas», dice Zbigniew. «Yo asisto, pero las decisiones sobre la clase son tuyas. Recuerda: clase A antes del secado no significa clase A después del secado. El material ha madurado, ahora veremos en qué se ha convertido.»
+Viernes, 8:00, nave del secadero de la Fundación EGIDA, cámara 2. Han pasado 10 días desde el martes, cuando Oleksij Bohdaniuk cargó en la cámara el lote SO-A-260420-012 (pino clase A, 50 × 150 × 3000 mm, 6 m³, un total de 12 tablas). El maestro del secadero Zbigniew Majchrzak cerró el ciclo a las 4:00 de la madrugada: la temperatura bajó de 55°C a 23°C durante 7 horas de enfriamiento gradiente (ritmo 4,6°C/h, con holgura por debajo del límite de 6°C/h). Ahora Oleksij se planta frente a la puerta de la cámara junto a Zbigniew. «Tú solo cargaste, tú solo descargas, tú solo compruebas», dice Zbigniew. «Yo asisto, pero las decisiones sobre la clase son tuyas. Recuerda: clase A antes del secado no significa clase A después del secado. El material ha madurado, ahora veremos en qué se ha convertido.»
 
-Este viernes cierra el **arco de la semana 3** de Oleksii: desde el lunes (l6), cuando clasificó ese mismo lote en la campa, pasando por el martes (l7), cuando lo cargó en la cámara, hasta el viernes (l8), cuando lo descarga y reclasifica. El mismo operario, el mismo lote, pero **estados distintos** de la misma madera aserrada. El secado no es un proceso neutro para la madera: **cambia la clase**. Una tabla que tenía una fenda en el testero leve de 1/4 del ancho antes del secado puede tener 1/3 del ancho después (porque las tensiones de desorción rompieron las fibras donde estaban más débiles). Esto no es un error de secado, es la **naturaleza de la madera**: un material orgánico que reacciona al cambio de humedad mediante deformación y fendas, y parte del papel del operario es **aceptar ese cambio y actualizar la documentación**, no intentar ocultarlo.
+Este viernes cierra el **arco de la semana 3** de Oleksij: desde el lunes (l6), cuando clasificó ese mismo lote en la campa, pasando por el martes (l7), cuando lo cargó en la cámara, hasta el viernes (l8), cuando lo descarga y reclasifica. El mismo operario, el mismo lote, pero **estados distintos** de la misma madera aserrada. El secado no es un proceso neutro para la madera: **cambia la clase**. Una tabla que tenía una fenda en el testero leve de 1/4 del ancho antes del secado puede tener 1/3 del ancho después (porque las tensiones de desorción rompieron las fibras donde estaban más débiles). Esto no es un error de secado, es la **naturaleza de la madera**: un material orgánico que reacciona al cambio de humedad mediante deformación y fendas, y parte del papel del operario es **aceptar ese cambio y actualizar la documentación**, no intentar ocultarlo.
 
 El mantra de la semana 3 de la lección 1 dice: «arranco, ajusto, corto, clasifico, pero siempre bajo la supervisión del capataz o del senior». En la lección 8 añadimos las últimas acciones de la semana: **mido, evalúo, reclasifico, actualizo**. Ya no estás en un rol ejecutivo, estás en el rol de **verificador** que confirma o corrige una decisión de clasificación anterior.
 
@@ -38,11 +38,11 @@ Antes de poner la mano en el tirador de la cámara, compruebas el panel del cont
 
 **Parámetro 3: humedad de la madera según los sensores internos.** En la cámara 2 hay cuatro sensores de madera (clavados en tablas representativas del lote antes del inicio del ciclo: lo hizo Zbigniew, sin tu participación) que muestran: 11,8% / 12,3% / 11,5% / 12,1%. Media 11,9%, dispersión 0,8%: homogeneidad del ciclo muy buena. Humedad objetivo para el lote de pino de exportación: 12 ± 2%. Dentro del rango. Zbigniew dice: «Abrimos. Recuerda, las lecturas de los sensores son orientativas, tu trabajo es verificar con el medidor de humedad manual en cuatro posiciones, ya con el lote fuera.»
 
-Mecánica de apertura de la puerta: dos cierres laterales, uno central, maneta giratoria. La puerta de la cámara Nardi pesa 85 kg (aislamiento de 150 mm de espuma de poliuretano + chapa de acero), se abre con resistencia hidráulica que evita el movimiento brusco. Oleksii abre despacio: dentro de la cámara, aire cálido con olor a madera, el apilado del lote a la vista.
+Mecánica de apertura de la puerta: dos cierres laterales, uno central, maneta giratoria. La puerta de la cámara Nardi pesa 85 kg (aislamiento de 150 mm de espuma de poliuretano + chapa de acero), se abre con resistencia hidráulica que evita el movimiento brusco. Oleksij abre despacio: dentro de la cámara, aire cálido con olor a madera, el apilado del lote a la vista.
 
 ### Medición con medidor de humedad en 4 posiciones A/B/C/D
 
-Medidor de humedad manual de la lección 2 de la semana 2 del módulo 2 (modelo resistivo Brookhuis FMC, rango 6–30% MC, precisión ±0,5% MC, electrodos de 30 mm clavados **perpendiculares a las fibras** hasta 1/3 del grosor de la tabla). Oleksii saca la herramienta de la maleta de trabajo, comprueba la calibración (clavado en el taco de calibración de 12% MC: lectura 12,0% ± 0,3%, OK), entra en la cámara con Zbigniew.
+Medidor de humedad manual de la lección 2 de la semana 2 del módulo 2 (modelo resistivo Brookhuis FMC, rango 6–30% MC, precisión ±0,5% MC, electrodos de 30 mm clavados **perpendiculares a las fibras** hasta 1/3 del grosor de la tabla). Oleksij saca la herramienta de la maleta de trabajo, comprueba la calibración (clavado en el taco de calibración de 12% MC: lectura 12,0% ± 0,3%, OK), entra en la cámara con Zbigniew.
 
 El **patrón de mediciones A/B/C/D** es el estándar de control de lotes en los aserraderos polacos (recomendado por la norma PN-EN 13183-2 para el método resistivo):
 
@@ -51,7 +51,7 @@ El **patrón de mediciones A/B/C/D** es el estándar de control de lotes en los 
 - **Posición C**: tabla central del apilado en altura (para un apilado de 12 capas: capa 6 o 7), medición a 500 mm del extremo. El centro del apilado tiene la circulación de aire más débil, así que la medición C permite **comparar capas**.
 - **Posición D**: tabla más baja del apilado, medición en el centro de la longitud. Más baja + centro = **la zona más difícil de secar**, la última en alcanzar la humedad objetivo.
 
-Oleksii realiza 4 mediciones:
+Oleksij realiza 4 mediciones:
 - A (tabla 1, a 500 mm del extremo): **11,5% MC**
 - B (tabla 1, centro): **12,2% MC**
 - C (tabla 6, a 500 mm del extremo): **12,0% MC**
@@ -65,7 +65,7 @@ Media: 12,1% MC. Dispersión A-D: 1,3% (máx. 12,8, mín. 11,5). **Dispersión p
 
 ### Inspección de fendas superficiales y en los testeros
 
-Tras la medición de humedad, Oleksii guarda el medidor y vuelve a la evaluación **visual de fendas**. Aquí se apoya en los criterios de clase de la lección 6 de la semana 2 del módulo 2 (Jan Pielorz: clasificación visual de defectos de la madera), ampliados con la especificidad post-secado.
+Tras la medición de humedad, Oleksij guarda el medidor y vuelve a la evaluación **visual de fendas**. Aquí se apoya en los criterios de clase de la lección 6 de la semana 2 del módulo 2 (Jan Pielorz: clasificación visual de defectos de la madera), ampliados con la especificidad post-secado.
 
 Las **fendas superficiales (surface checks)** aparecen cuando la capa exterior de la tabla se seca más rápido que el núcleo: las tensiones de tracción de la capa exterior superan la resistencia de la madera en sentido transversal a las fibras, y las fibras se separan. Tienen forma de **grietas largas y estrechas de 0,5–2 mm de ancho y 20–200 mm de largo**, paralelas a las fibras (es decir, a lo largo de la tabla). Criterios de clase tras el secado:
 
@@ -79,15 +79,15 @@ Las **fendas en los testeros (end checks)** aparecen en los extremos de las tabl
 - **Clase B**: como máximo **1/3 del ancho**. Para 150 mm = máx. 50 mm de profundidad.
 - **Clase C**: como máximo **1/2 del ancho**. Para 150 mm = máx. 75 mm de profundidad.
 
-Oleksii se acerca una por una a las 12 tablas del lote SO-A-260420-012, con lápiz y ficha de control. La ficha tiene 12 filas (una tabla = una fila) y columnas: **n.º de tabla**, **fendas superficiales** (longitud total por ml), **fendas en los testeros** (profundidad como fracción del ancho), **clase tras el secado**, **comentario**.
+Oleksij se acerca una por una a las 12 tablas del lote SO-A-260420-012, con lápiz y ficha de control. La ficha tiene 12 filas (una tabla = una fila) y columnas: **n.º de tabla**, **fendas superficiales** (longitud total por ml), **fendas en los testeros** (profundidad como fracción del ancho), **clase tras el secado**, **comentario**.
 
 ### Caso del lote SO-A-260420-012 – reclasificación de 2 tablas
 
-Oleksii evalúa las tablas 1–10 como conformes con la clase A (fendas superficiales en total de 20–45 mm/ml, fendas en los testeros de 1/5 a 1/4 del ancho: dentro de la clase A). Pero las **tablas 11 y 12** (las dos últimas, las más bajas del apilado, es decir, las posiciones más difíciles para el secado) tienen otro aspecto:
+Oleksij evalúa las tablas 1–10 como conformes con la clase A (fendas superficiales en total de 20–45 mm/ml, fendas en los testeros de 1/5 a 1/4 del ancho: dentro de la clase A). Pero las **tablas 11 y 12** (las dos últimas, las más bajas del apilado, es decir, las posiciones más difíciles para el secado) tienen otro aspecto:
 
 **Tabla 11**: fenda en el testero de un extremo, profundidad **50 mm** sobre un ancho de 150 mm = **1/3 del ancho**. Medición con regla, no a ojo: precisión ±1 mm. El segundo testero de la tabla sin fendas. Fendas superficiales totales de 60 mm/ml (dentro del umbral de la clase B, cuyo umbral son 100 mm/ml). **Clase = B** (decide el criterio más débil, es decir, la fenda en el testero de 1/3 del ancho).
 
-**Tabla 12**: fenda en el testero en ambos extremos, profundidad de 45 mm (un lado) y 55 mm (el otro). 55 mm sobre un ancho de 150 mm = **1/2,7 del ancho, es decir, algo por encima de 1/3**, se clasificaría como C (el umbral de C es 1/2 del ancho, así que 1/2,7 queda dentro de C, no lo supera). Fendas superficiales de 70 mm/ml (clase B). **Criterio más débil: fenda en el testero de 1/2,7 del ancho = clase C.** Hmm. Oleksii se detiene: una reclasificación A→C es un salto de dos escalones, raro. Comprueba dos veces con la regla: 55 mm. Zbigniew se acerca y mide él mismo: 54 mm. Decisión: **clase B** (redondeando a la baja, 54 mm roza la frontera de 1/3 = 50 mm, la supera solo ligeramente; ante la ambigüedad, la regla del aserradero EGIDA es «decisión conservadora, clasifica en la clase más alta»). **Clase = B**.
+**Tabla 12**: fenda en el testero en ambos extremos, profundidad de 45 mm (un lado) y 55 mm (el otro). 55 mm sobre un ancho de 150 mm = **1/2,7 del ancho, es decir, algo por encima de 1/3**, se clasificaría como C (el umbral de C es 1/2 del ancho, así que 1/2,7 queda dentro de C, no lo supera). Fendas superficiales de 70 mm/ml (clase B). **Criterio más débil: fenda en el testero de 1/2,7 del ancho = clase C.** Hmm. Oleksij se detiene: una reclasificación A→C es un salto de dos escalones, raro. Comprueba dos veces con la regla: 55 mm. Zbigniew se acerca y mide él mismo: 54 mm. Decisión: **clase B** (redondeando a la baja, 54 mm roza la frontera de 1/3 = 50 mm, la supera solo ligeramente; ante la ambigüedad, la regla del aserradero EGIDA es «decisión conservadora, clasifica en la clase más alta»). **Clase = B**.
 
 **Resultado del control del lote SO-A-260420-012**:
 - 10 tablas → clase A tras el secado (conforme con la inicial)
@@ -98,16 +98,16 @@ Oleksii evalúa las tablas 1–10 como conformes con la clase A (fendas superfic
 Una tasa del 17% para pino de clase A está en el límite superior de la norma sectorial (5–15%), pero no señala un error: es la frontera de la variabilidad. Zbigniew anota en su registro: «Lote SO-A-260420-012, reclasificación 17%, dentro de la norma. No hacen falta análisis adicionales.»
 
 ::: example
-**Por qué las tablas 11 y 12 se degradaron y las 1–10 no.** Posición en el apilado: las tablas 11 y 12 eran las más bajas, la zona de **circulación de aire más débil** de la cámara, la zona **más tardía en secarse**. Durante las últimas 24 horas del ciclo, cuando las tablas 1–10 ya tenían una humedad del 12%, las tablas 11–12 aún tenían un 15–17%. En ese momento la temperatura ya estaba en los 55°C plenos: la última evaporación del vapor de las tablas inferiores generaba mayores tensiones de desorción, con fendas sobre microfisuras ya existentes (que Oleksii no vio antes del secado porque eran demasiado finas). Conclusión pedagógica: **la posición en el apilado correlaciona con el riesgo de reclasificación**. La próxima vez que cargues la cámara, recuerda que las tablas más bajas tienen el doble de riesgo de bajar de clase, y conviene colocar allí madera de clase B ya peor, sin ahorrar clase A para una «pérdida imprevisible».
+**Por qué las tablas 11 y 12 se degradaron y las 1–10 no.** Posición en el apilado: las tablas 11 y 12 eran las más bajas, la zona de **circulación de aire más débil** de la cámara, la zona **más tardía en secarse**. Durante las últimas 24 horas del ciclo, cuando las tablas 1–10 ya tenían una humedad del 12%, las tablas 11–12 aún tenían un 15–17%. En ese momento la temperatura ya estaba en los 55°C plenos: la última evaporación del vapor de las tablas inferiores generaba mayores tensiones de desorción, con fendas sobre microfisuras ya existentes (que Oleksij no vio antes del secado porque eran demasiado finas). Conclusión pedagógica: **la posición en el apilado correlaciona con el riesgo de reclasificación**. La próxima vez que cargues la cámara, recuerda que las tablas más bajas tienen el doble de riesgo de bajar de clase, y conviene colocar allí madera de clase B ya peor, sin ahorrar clase A para una «pérdida imprevisible».
 :::
 
 ### Actualización de la documentación – etiqueta, registro, código del lote
 
-Tras la clasificación, Oleksii y Zbigniew vuelven a la oficina del secadero (10 m² junto a la nave, mesa, estantería con carpetas, ordenador con la base de datos de lotes). Oleksii rellena tres documentos:
+Tras la clasificación, Oleksij y Zbigniew vuelven a la oficina del secadero (10 m² junto a la nave, mesa, estantería con carpetas, ordenador con la base de datos de lotes). Oleksij rellena tres documentos:
 
 **Documento 1: nueva etiqueta para las tablas 11 y 12.** La etiqueta antigua «SO-A-260420-012» se despega de las tablas 11 y 12 (no de las otras 10, que conservan la clase A). En la nueva etiqueta: «**SO-B-260420-012-r**» (la letra «r» al final significa **reclasificación**, el código vincula retrospectivamente la tabla con el lote madre para la auditoría y a la vez señala al cliente que la clase es post-cíclica, no la original).
 
-**Documento 2: asiento en el registro del secadero**, un diario físico (formato A4, con líneas, asientos a lápiz o bolígrafo) con una estructura fija de columnas: fecha de descarga, código del lote, especie, grosor, número de tablas, humedad media, dispersión de humedad, reclasificaciones, firma del maestro, firma del cargador. Asiento de Oleksii:
+**Documento 2: asiento en el registro del secadero**, un diario físico (formato A4, con líneas, asientos a lápiz o bolígrafo) con una estructura fija de columnas: fecha de descarga, código del lote, especie, grosor, número de tablas, humedad media, dispersión de humedad, reclasificaciones, firma del maestro, firma del cargador. Asiento de Oleksij:
 
 ```
 02.05.2026 | SO-A-260420-012 | pino | 50 mm | 12 tablas | 12,1% MC | dispersión 1,3% |
@@ -143,11 +143,11 @@ La actualización de la documentación que hoy has realizado es el preludio de l
 
 ## Notas para el formador
 
-**Duración de la lección: 120 minutos.** Distribución: 15 min de introducción + arco de la semana 3 (Oleksii de lunes a viernes, el mismo lote), 20 min de control de parámetros antes de la apertura (3 parámetros en el panel), 25 min de medición con medidor de humedad en 4 posiciones (demostración física si el medidor está disponible), 25 min de inspección de fendas (superficiales + en los testeros × 3 clases), 20 min de reclasificación sobre el caso del lote SO-A-260420-012 (2 tablas A→B), 10 min de actualización de la documentación (etiqueta + registro + ERP), 5 min de Autoevaluación y puesta en común.
+**Duración de la lección: 120 minutos.** Distribución: 15 min de introducción + arco de la semana 3 (Oleksij de lunes a viernes, el mismo lote), 20 min de control de parámetros antes de la apertura (3 parámetros en el panel), 25 min de medición con medidor de humedad en 4 posiciones (demostración física si el medidor está disponible), 25 min de inspección de fendas (superficiales + en los testeros × 3 clases), 20 min de reclasificación sobre el caso del lote SO-A-260420-012 (2 tablas A→B), 10 min de actualización de la documentación (etiqueta + registro + ERP), 5 min de Autoevaluación y puesta en común.
 
 **La regla pedagógica «la clase no es estable en el tiempo»** es el momento clave que cierra la semana 3 y abre la semana 4 (documentación). El junior suele pensar «si la tabla tenía clase A antes del secado, tiene clase A después del secado». Hay que cuestionarlo de forma activa. Método: muestra una tabla física de pino **antes** y **después** del ciclo de secado, señala las microfisuras convertidas en fisuras macro tras 10 días. Si no tienes acceso a la nave del secadero, las fotografías de los detalles de las fendas (antes/después) también funcionan.
 
-**Integración de la semana 3**: al final de la lección dibuja en la pizarra el arco de Oleksii:
+**Integración de la semana 3**: al final de la lección dibuja en la pizarra el arco de Oleksij:
 - l1–l3: sierra de cinta (arranco, ajusto, corto)
 - l4–l5: circular + canteadora + cepilladora
 - l6: clasificación (nace el SO-A-260420-012)
@@ -158,4 +158,4 @@ Mantra ampliado de la semana 3: «**arranco, ajusto, corto, clasifico, cargo, mi
 
 **Riesgo pedagógico: «contradicción con la l6 de S2».** En la lección 6 de la semana 2 enseñaste que «la clase es una propiedad visual observable antes del secado». Ahora dices «la clase cambia tras el secado». No es una contradicción, es una **etapa del proceso**. Enmárcalo: «En la l6 de S2 evaluaste la clase **en bruto** antes del secado. En la l8 de S3 evalúas la clase **post-cíclica** después del secado. Las dos son verdaderas en su momento: la etiqueta del aserradero contiene ambas para completar la trazabilidad documental.»
 
-**Puente al M3 S4 (reclamaciones)**: en el módulo 3, Oleksii ya será un operario autónomo que gestiona conversaciones con el cliente que reclama un lote. La reclasificación de 2 tablas de hoy es la primera piedra del cimiento de esa conversación: un aserradero que documentó la reclasificación tiene documentación de defensa; uno que la ocultó, no la tiene. Este aprendizaje entra en profundidad 6 meses después, pero la raíz la plantamos hoy.
+**Puente al M3 S4 (reclamaciones)**: en el módulo 3, Oleksij ya será un operario autónomo que gestiona conversaciones con el cliente que reclama un lote. La reclasificación de 2 tablas de hoy es la primera piedra del cimiento de esa conversación: un aserradero que documentó la reclasificación tiene documentación de defensa; uno que la ocultó, no la tiene. Este aprendizaje entra en profundidad 6 meses después, pero la raíz la plantamos hoy.

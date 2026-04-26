@@ -8,9 +8,9 @@ czas: 120
 
 Thursday, the ninth day of week 1. Monday: Oleh and the law. Tuesday: Andrei and dust. Wednesday: Siarhei and the five steps of a fault. Today we close the week with a lesson that is the hardest and the simplest at the same time. The hardest, because it describes a situation no one wants to think about. The simplest, because in this situation there is no time to think, there is only ritual.
 
-**The hero of today's lesson is Hai**, the Vietnamese worker from week 1 lesson 1, the same one who on Monday stood alone at the band saw for the first time. At 10:23 Hai is carrying a bag of sawdust from the dust extraction hall to the container in the yard. He passes hall 1. Band saw no. 4. Operator: **Paweł Nowak, 52 years old, fifteen years in the sawmill**. Paweł is a veteran. Paweł knows the machine by heart. Paweł was in a hurry that morning because a supplier was waiting in the office for his signature. Paweł had a jam at 10:22. Paweł skipped step three (ANCHOR) from lesson 7, because "it already stopped, I will pull it out quickly and get back to work." Paweł pulled the board with his left hand. The residual torque of the blade (40 Nm, remember?) jerked the disc. **At 10:23:08 the index finger of Paweł's left hand lies on the table next to the board. Bright red blood spurts from the stump in a pulsating stream.**
+**The hero of today's lesson is Andrij**, the Ukrainian worker from week 1 lesson 1, the same one who on Monday stood alone at the band saw for the first time. At 10:23 Andrij is carrying a bag of sawdust from the dust extraction hall to the container in the yard. He passes hall 1. Band saw no. 4. Operator: **Paweł Nowak, 52 years old, fifteen years in the sawmill**. Paweł is a veteran. Paweł knows the machine by heart. Paweł was in a hurry that morning because a supplier was waiting in the office for his signature. Paweł had a jam at 10:22. Paweł skipped step three (ANCHOR) from lesson 7, because "it already stopped, I will pull it out quickly and get back to work." Paweł pulled the board with his left hand. The residual torque of the blade (40 Nm, remember?) jerked the disc. **At 10:23:08 the index finger of Paweł's left hand lies on the table next to the board. Bright red blood spurts from the stump in a pulsating stream.**
 
-Hai enters at 10:23:15. **He has three minutes to keep Paweł from bleeding out.** In l7 there were five steps, because the machine can wait. Here there are **four steps, because blood does not wait**: **SECURE – STAUNCH – CALL – SAVE**. You will learn them today, you will repeat them tomorrow and the day after. Do not count on never needing them. Count on the fact that when your moment comes, they will be in your fingers, not in your head.
+Andrij enters at 10:23:15. **He has three minutes to keep Paweł from bleeding out.** In l7 there were five steps, because the machine can wait. Here there are **four steps, because blood does not wait**: **SECURE – STAUNCH – CALL – SAVE**. You will learn them today, you will repeat them tomorrow and the day after. Do not count on never needing them. Count on the fact that when your moment comes, they will be in your fingers, not in your head.
 
 ## Objectives
 
@@ -33,13 +33,13 @@ Direct pressure in the first minute stops venous hemorrhage in 90% of cases (dat
 
 ### Step 1: SECURE (seconds 0–20)
 
-Hai runs in. He sees Paweł at the saw, blood spurting, Paweł pale. The first reflex of an inexperienced witness: run to the injured person. **Bad reflex.** If the machine is running, you may become the second victim.
+Andrij runs in. He sees Paweł at the saw, blood spurting, Paweł pale. The first reflex of an inexperienced witness: run to the injured person. **Bad reflex.** If the machine is running, you may become the second victim.
 
-**What Hai does**:
+**What Andrij does**:
 
-1. **Checks the machine**. Saw no. 4 is stopped (Paweł managed to hit STOP). If the blade were running, Hai would **first** press the mushroom button.
+1. **Checks the machine**. Saw no. 4 is stopped (Paweł managed to hit STOP). If the blade were running, Andrij would **first** press the mushroom button.
 2. **Checks the surroundings**. No pool of oil, no loose board. It is safe to approach.
-3. **Calls out loudly**. "FOREMAN, HELP, HALL 1, SAW 4!" Short, addressed. The operator from hall 2 runs to notify. **Hai does not go for the foreman himself**: he stays with Paweł.
+3. **Calls out loudly**. "FOREMAN, HELP, HALL 1, SAW 4!" Short, addressed. The operator from hall 2 runs to notify. **Andrij does not go for the foreman himself**: he stays with Paweł.
 4. **Approaches with a firm step**, not running (running + blood on the floor = a fall).
 
 ::: warning
@@ -48,11 +48,11 @@ Hai runs in. He sees Paweł at the saw, blood spurting, Paweł pale. The first r
 
 ### Step 2: STAUNCH (seconds 20–120)
 
-Paweł sits on the floor. His right hand grips his left, blood drips between the fingers. Hai kneels beside him.
+Paweł sits on the floor. His right hand grips his left, blood drips between the fingers. Andrij kneels beside him.
 
 **2a. Direct pressure (seconds 20–60)**
 
-Hai grabs the **roll of paper towels from the saw** (every machine keeps them for resin). Not the first aid kit, because it is down the corridor, and the blood is here now. He folds a thick pad, presses it **firmly and steadily** directly onto the stump. Not "gently." His other hand lifts Paweł's forearm above heart level.
+Andrij grabs the **roll of paper towels from the saw** (every machine keeps them for resin). Not the first aid kit, because it is down the corridor, and the blood is here now. He folds a thick pad, presses it **firmly and steadily** directly onto the stump. Not "gently." His other hand lifts Paweł's forearm above heart level.
 
 ::: info
 **Why raise the arm**: gravity works against the bleeding, reducing the outflow by 15–25%. Combined with pressure, this is usually enough for a venous hemorrhage.
@@ -79,17 +79,17 @@ A type K first aid kit (standard DIN 13169, mandatory under the Polish Ministry 
 
 ### Step 3: CALL (seconds 120–180)
 
-Bleeding under control. Hai takes out his phone.
+Bleeding under control. Andrij takes out his phone.
 
 **112. Call script**:
 
 > **Dispatcher**: "Emergency number 112, I am listening."
 >
-> **Hai**: "Workplace accident. Fundacja EGIDA sawmill, ul. Dębowa 12, Dębowa Góra. Hall no. 1, band saw. Amputation of the index finger of the left hand. Injured: Paweł Nowak, 52 years old, conscious. I applied a tourniquet at 10:25. We need an ambulance."
+> **Andrij**: "Workplace accident. Fundacja EGIDA sawmill, ul. Dębowa 12, Dębowa Góra. Hall no. 1, band saw. Amputation of the index finger of the left hand. Injured: Paweł Nowak, 52 years old, conscious. I applied a tourniquet at 10:25. We need an ambulance."
 >
 > **Dispatcher**: "I am not hanging up, help is on the way. Is the amputated fragment visible?"
 >
-> **Hai**: "Yes, it is on the saw table."
+> **Andrij**: "Yes, it is on the saw table."
 >
 > **Dispatcher**: "I will tell you how to secure it. Someone should wait at the gate with the gate open, ambulance in 11 minutes."
 
@@ -138,19 +138,19 @@ The ambulance takes Paweł and his finger at 10:34. Amputation of a finger is **
 - **Report to PIP and the prosecutor** without delay (art. 234 § 2 of the Polish Labor Code, by phone within 2–4 hours, in writing within 24 hours).
 - **Accident report card** prepared by the **accident investigation team** (the OSH officer + the social labor inspector), deadline **14 days** from the accident (Polish Cabinet Regulation of 1 July 2009).
 
-**Hai's role as a witness**: he will be questioned by the investigation team. He will describe exactly what he saw and what steps he took. He has the right to **psychological support** (seeing an amputation is a trauma, a stress reaction lasting days or weeks is normal).
+**Andrij's role as a witness**: he will be questioned by the investigation team. He will describe exactly what he saw and what steps he took. He has the right to **psychological support** (seeing an amputation is a trauma, a stress reaction lasting days or weeks is normal).
 
-### Case Hai: three minutes that stay with you
+### Case Andrij: three minutes that stay with you
 
 **Chronology 10:23–10:34**:
 
 - **10:23:00** : Paweł pulls out the board with his hand, the disc jerks, amputation.
-- **10:23:15** : Hai enters, checks the machine (stopped) and the surroundings.
-- **10:23:20** : Hai calls for help. Operator from hall 2 runs.
-- **10:23:35** : Hai kneels, grabs the roll of paper towels, applies pressure.
-- **10:24:30** : Blood is still spurting. Hai opens the type K first aid kit, takes out the CAT.
+- **10:23:15** : Andrij enters, checks the machine (stopped) and the surroundings.
+- **10:23:20** : Andrij calls for help. Operator from hall 2 runs.
+- **10:23:35** : Andrij kneels, grabs the roll of paper towels, applies pressure.
+- **10:24:30** : Blood is still spurting. Andrij opens the type K first aid kit, takes out the CAT.
 - **10:25:00** : Tourniquet applied, 4 windlass turns, marker: **T = 10:25**.
-- **10:25:30** : Hai calls 112.
+- **10:25:30** : Andrij calls 112.
 - **10:26:00** : Foreman Marek in the hall.
 - **10:27:00** : Marek packs the finger: gauze, bag, container with ice, label 10:28.
 - **10:34:00** : Ambulance. Paweł and the finger travel together to the emergency room of the county hospital. Replantation the same day, finger saved.
@@ -158,7 +158,7 @@ The ambulance takes Paweł and his finger at 10:34. Amputation of a finger is **
 **Eleven minutes from accident to ambulance, three minutes from accident to tourniquet.** That is the difference between "Paweł survived with an amputation" and "Paweł died in hypovolemic shock."
 
 ::: tip
-**Lesson from the case**: Hai went through first aid training at the plant (8 hours, Polish Red Cross, PCK) half a year before that day. He said back then: "Waste of time, nothing will happen to me." The three minutes of ritual that saved Paweł's hand were 8 hours of training half a year earlier. **Art. 237³ § 2 of the Polish Labor Code** requires first aid training once every 5 years. It is not paperwork, it is Paweł with a finger or Paweł without a finger.
+**Lesson from the case**: Andrij went through first aid training at the plant (8 hours, Polish Red Cross, PCK) half a year before that day. He said back then: "Waste of time, nothing will happen to me." The three minutes of ritual that saved Paweł's hand were 8 hours of training half a year earlier. **Art. 237³ § 2 of the Polish Labor Code** requires first aid training once every 5 years. It is not paperwork, it is Paweł with a finger or Paweł without a finger.
 :::
 
 ## Key terms

@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Piąty dzień Haia jako operatora. Przychodzi do pilarki taśmowej, ubrany jak operator (lekcja 2), z lewą dłonią już odruchowo szukającą grzybka E-stop (lekcja 3). Brygadzista podchodzi, podaje mu kartkę A5 z pięcioma polami do odhaczenia i mówi: **„Od dziś, zanim naciśniesz START, odhaczasz pięć punktów. Pięć z pięciu albo zero."**
+Piąty dzień Andrija jako operatora. Przychodzi do pilarki taśmowej, ubrany jak operator (lekcja 2), z lewą dłonią już odruchowo szukającą grzybka E-stop (lekcja 3). Brygadzista podchodzi, podaje mu kartkę A5 z pięcioma polami do odhaczenia i mówi: **„Od dziś, zanim naciśniesz START, odhaczasz pięć punktów. Pięć z pięciu albo zero."**
 
-Hai patrzy na kartkę:
+Andrij patrzy na kartkę:
 
 - [ ] Osłony
 - [ ] Zgrzew / ostrze
@@ -18,7 +18,7 @@ Hai patrzy na kartkę:
 
 Pięć słów, dwie minuty pracy, jedna reguła: **nie ma ważnych i mniej ważnych punktów**. Jeśli któregoś nie odhaczysz, nie uruchamiasz maszyny i idziesz po brygadzistę.
 
-Ta lekcja tłumaczy, dlaczego checklist nie jest biurokracją, tylko **piątą kończyną operatora**. Dlaczego **kolejność** punktów jest sztywna (od najbardziej fizycznego do najbardziej przestrzennego). Dlaczego zasada „5 z 5 albo zero" jest surowsza niż „4 z 5 wystarczy, piąte sprawdzę w trakcie". I dlaczego Hai, po miesiącu takich kartek, zacznie wypełniać checklist **w głowie**, bez papieru, w 90 sekund.
+Ta lekcja tłumaczy, dlaczego checklist nie jest biurokracją, tylko **piątą kończyną operatora**. Dlaczego **kolejność** punktów jest sztywna (od najbardziej fizycznego do najbardziej przestrzennego). Dlaczego zasada „5 z 5 albo zero" jest surowsza niż „4 z 5 wystarczy, piąte sprawdzę w trakcie". I dlaczego Andrij, po miesiącu takich kartek, zacznie wypełniać checklist **w głowie**, bez papieru, w 90 sekund.
 
 To ostatnia lekcja tygodnia 1 M2. Rytuał **sprawdź – uruchom – zgłoś** domyka się tutaj: pięć punktów to jest „sprawdź" w pełnym rozwinięciu. Po nich przychodzi START. Po starcie, w lekcji 6, wrócimy do „zgłoś".
 
@@ -88,7 +88,7 @@ Pierwsze cztery kategorie są w twoim checkliście. Razem **91%**. Checklist nie
 - **Typowy błąd**: „widzę kolegę kątem oka, chyba wie, że uruchamiam". Kątem oka to nie jest kontakt wzrokowy. Kontakt wzrokowy to ten, o którym uczyłeś się w M1 tygodniu 1 lekcji 3.
 
 ::: example
-**Przypadek Haia (piąty dzień M2)**: Hai odhaczył cztery punkty, zbliża się do piątego. Słyszy, że brygadzista za jego plecami rozmawia z dostawcą. Hai obraca się: dostawca stoi **w korytarzu odrzutu, 4 metry za maszyną**. Hai nie naciska START-u. Woła brygadzistę słowem „brygadzista, strefa!". Brygadzista przepraszająco wyprowadza dostawcę poza strefę, wraca, kiwa głową. Teraz Hai odhacza piąty punkt. **5 z 5**. Naciska START.
+**Przypadek Andrija (piąty dzień M2)**: Andrij odhaczył cztery punkty, zbliża się do piątego. Słyszy, że brygadzista za jego plecami rozmawia z dostawcą. Andrij obraca się: dostawca stoi **w korytarzu odrzutu, 4 metry za maszyną**. Andrij nie naciska START-u. Woła brygadzistę słowem „brygadzista, strefa!". Brygadzista przepraszająco wyprowadza dostawcę poza strefę, wraca, kiwa głową. Teraz Andrij odhacza piąty punkt. **5 z 5**. Naciska START.
 :::
 
 ### Zasada „5 z 5 albo zero"
@@ -154,19 +154,19 @@ D) Każda kolejność jest OK, ważne, żeby odhaczyć pięć.
 
 1. **Weź kartkę** (brygadzista ma zapas) albo wydrukuj szablon z pięcioma polami. Trzymaj ją w kieszeni kombinezonu. Przy każdym uruchomieniu (minimum 3-5 razy w trakcie zmiany przy pilarce) odhaczaj pięć punktów. Zapisz na odwrocie: ile razy dzisiaj naprawdę sprawdziłeś wszystkie pięć.
 2. **Zapytaj brygadzistę**, czy istnieje w zakładzie **pisemna instrukcja stanowiskowa** dla twojej pilarki (punkt przed uruchomieniem). Jeśli tak, porównaj pięć uniwersalnych punktów z listą firmową. Firma może mieć dodatkowe (np. test smarowania łożyska) albo bardziej szczegółowe wymagania.
-3. **Spotkaj Haia** u siebie w głowie: czwartego dnia zamiast piątego, trzeciego zamiast dziesiątego. Wypróbuj rytuał **z kartką na rzecz 20-30 dni**. Dopiero potem przenieś checklist „do głowy". Pominięcie etapu papieru (od pierwszego dnia bez kartki) = gwarantowane skróty w trzecim tygodniu.
+3. **Spotkaj Andrija** u siebie w głowie: czwartego dnia zamiast piątego, trzeciego zamiast dziesiątego. Wypróbuj rytuał **z kartką na rzecz 20-30 dni**. Dopiero potem przenieś checklist „do głowy". Pominięcie etapu papieru (od pierwszego dnia bez kartki) = gwarantowane skróty w trzecim tygodniu.
 
 ## Notatki dla trenera
 
 **Akcenty lekcji:**
 
 - Trzeci krok rytuału **sprawdź – uruchom – zgłoś**. Razem z lekcjami 2 i 3 domyka „sprawdź" w trzech warstwach (siebie, STOP, maszynę). Podkreśl: checklist to nie dodatek do rytuału, tylko **jego najgrubsze piętro**.
-- Hai domyka łuk tygodnia. W pilocie był „pierwszy raz sam". W l2 ubrał się jak operator. W l3 położył dłoń na STOP-ie. W l4 trzyma kartkę i zatrzymuje maszynę przed 5 punktem, bo dostawca wszedł w strefę. **To jest pełny operator junior M2 po tygodniu.**
+- Andrij domyka łuk tygodnia. W pilocie był „pierwszy raz sam". W l2 ubrał się jak operator. W l3 położył dłoń na STOP-ie. W l4 trzyma kartkę i zatrzymuje maszynę przed 5 punktem, bo dostawca wszedł w strefę. **To jest pełny operator junior M2 po tygodniu.**
 - Kolejność 5 punktów nie jest negocjowalna. Pedagogicznie sprzedajesz ją jako **„od fizycznego do przestrzennego"**: najpierw to, co trzymasz w ręku (osłona), na końcu to, co widzisz w hali (otoczenie). Ta kolejność ma uzasadnienie w badaniach ergonomii: ręka bliżej głowy, oko dalej. Człowiek łatwiej skupia uwagę najpierw na obiektach bliskich.
 
 **Pułapki migranckie:**
 
-- W wielu krajach (Wietnam, Mołdawia, Gruzja) checklist przed uruchomieniem jest rzadkością w tartakach rzemieślniczych. Operator uczy się „na oko". Przenoszony do polskiego zakładu (zgodnego z 2006/42/WE) traktuje checklist jako biurokrację. Pokaż mu statystykę PIP: 91% wypadków to pominięcie jednego z 5 punktów. Nie „nieszczęście", pominięcie.
+- W wielu krajach pochodzenia (Ukraina, Kolumbia, Wenezuela, Peru) checklist przed uruchomieniem jest rzadkością w tartakach rzemieślniczych. Operator uczy się „na oko". Przenoszony do polskiego zakładu (zgodnego z 2006/42/WE) traktuje checklist jako biurokrację. Pokaż mu statystykę PIP: 91% wypadków to pominięcie jednego z 5 punktów. Nie „nieszczęście", pominięcie.
 - Zasada „5 z 5 albo zero" brzmi jak ultimatum. Wyjaśnij, że to nie groźba, tylko **matematyka**. 4 z 5 = 20% ryzyka niezaadresowane. Przy 5 uruchomieniach dziennie × 5 dni w tygodniu × 50 tygodni = 1250 uruchomień rocznie × 20% = **250 razy rocznie gramy w ruletkę z jednym niesprawdzonym elementem**. Prędzej czy później element trafia.
 
 **Link do M1 i M2:**

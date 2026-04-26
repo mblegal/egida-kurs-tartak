@@ -12,7 +12,7 @@ Metaprzewodnik metodyczny dla trenerów Fundacji EGIDA prowadzących Moduł 2 ku
 
 ## 1. Cel dokumentu i odbiorca
 
-Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M2. Nie zastępuje „Notatek dla trenera" z każdej lekcji (które są szczegółowe per-lekcja w 32 plikach PL), tylko **spinaja je w ramę organizacyjną M2**: paradygmat „operator pod nadzorem", 4 obszary kompetencji, 5 kryteriów Piotra, integrację z egzaminem praktycznym wtorkowym.
+Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M2. Nie zastępuje szczegółowych „Notatek dla trenera" z każdej lekcji (32 pliki PL), tylko **spina je w ramę organizacyjną M2**: paradygmat „operator pod nadzorem", cztery obszary kompetencji, pięć kryteriów Piotra, integrację z egzaminem praktycznym wtorkowym.
 
 **Kto go czyta**. Ten sam trener, który prowadził M1 (polski specjalista BHP lub instruktor branżowy 5+ lat w tartaku), po ukończonym M1 kursu. Dodatkowo: nowy trener, który dołącza do M2 (czyta najpierw wytyczne M1 żeby zrozumieć profil kursanta, potem to).
 
@@ -28,7 +28,7 @@ Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M2.
 
 **Co NIE wie jeszcze**. Fizyka materiału drewna, klasy wytrzymałościowe, parametry maszyn, procedury dokumentacyjne operatorskie, autoregulacja zmęczenia, łańcuch certyfikacji FSC. Wszystko to wchodzi w M2.
 
-**Polski przy starcie M2**: A1-A2 (30-50% rozumienia), podniesiony z A0-A1 M1 dzięki 4 tygodniom narażenia. Niektórzy (szczególnie Ukraińcy) wchodzą już na B1 przez podobieństwo do ukraińskiego. Wietnamczycy i Filipinczycy wolniej.
+**Polski przy starcie M2**: A1-A2 (30-50% rozumienia), podniesiony z A0-A1 dzięki czterem tygodniom intensywnego kontaktu w M1. Niektórzy (zwłaszcza Ukraińcy) wchodzą już na B1 dzięki bliskości językowej. Kursanci z Ameryki Łacińskiej radzą sobie różnie: dla części język polski pozostaje wyzwaniem, dla innych nieoczekiwanie szybko zaczyna „wskakiwać".
 
 **Motywacja**. Wyższa niż w M1 bo widzą światło na końcu tunelu (zatrudnienie w tartakach za 6-8 tygodni od startu M1). Stawka operatora juniora po M2: 40-55 zł brutto/h (M1 pomocnik: 28-35 zł). Po 3 miesiącach w tartaku + UDT kat. II WJO: 55-65 zł. Po roku: 65-80 zł. **Kurs M2 to podwojenie stawki** wobec wchodzenia „z ulicy" w tartak.
 
@@ -92,10 +92,10 @@ Trener M2 musi wychować w kursancie **postawę odpowiedzialności** za konkret 
 | Wt 8:00 | l4 | Stępienie taśmy diagnostyka |
 | Wt 10:15 | l5 | Sortowanie granica A/B |
 | Wt 13:45 | l6 | Blok 3 T3 część A |
-| Śr 8:00 | l7 | Blok 3 T3 część B (Oleksii + SO-A-260420-012) |
+| Śr 8:00 | l7 | Blok 3 T3 część B (Oleksij + SO-A-260420-012) |
 | Śr 10:15 | l8 | Reklasyfikacja po suszeniu (klamra tygodnia 3) |
 
-**Specyfika**. Tydzień 3 to tydzień Oleksiiego, klamry narracyjnej od sortowania do wyjmowania tej samej partii SO-A-260420-012. Trener powinien rysować tę klamrę na tablicy, żeby kursanci rozumieli, że **klasa nie jest stała w czasie**. Praktyki w tartaku: czwartek + piątek, pierwsze samodzielne cięcia pod bezpośrednim okiem operatora.
+**Specyfika**. Tydzień 3 to tydzień Oleksija, klamry narracyjnej od sortowania do wyjmowania tej samej partii SO-A-260420-012. Trener powinien rysować tę klamrę na tablicy, żeby kursanci rozumieli, że **klasa nie jest stała w czasie**. Praktyki w tartaku: czwartek + piątek, pierwsze samodzielne cięcia pod bezpośrednim okiem operatora.
 
 ### Tydzień 4: Dokumentacja + relacje + test (T4)
 
@@ -103,7 +103,7 @@ Trener M2 musi wychować w kursancie **postawę odpowiedzialności** za konkret 
 
 | Dzień | Lekcja | Temat |
 |---|---|---|
-| Pon 8:00 | l1 | Dyspozycja przetarcia (Blok 1, Hai powraca z M1) |
+| Pon 8:00 | l1 | Dyspozycja przetarcia (Blok 1, Andrij powraca z M1) |
 | Pon 10:15 | l2 | Dziennik operatora (Blok 1) |
 | Pon 13:45 | l3 | Normy PN-EN i certyfikaty FSC/PEFC (Blok 1) |
 | Wt 8:00 | l4 | Wózek widłowy i Krzysztof (Blok 2) |
@@ -116,7 +116,7 @@ Trener M2 musi wychować w kursancie **postawę odpowiedzialności** za konkret 
 - **Pon 26.04** 8:00-10:30, test teoretyczny l8 (25 pytań × 40 pkt, próg 28)
 - **Wt 27.04** 7:00-10:00, egzamin praktyczny wtorkowy (Piotr Czerwiński oceniający, 5 kryteriów)
 
-**Specyfika**. Tydzień 4 jest najbardziej gęsty narracyjnie (Hai + Oleksii + Maricel + Emeka + 6 polskich seniorów), bo zamyka łuki wszystkich bohaterów. Trener powinien rysować na tablicy **mapę relacji 4 obszarów × 6 seniorów × 4 bohaterów migrantów**, żeby kursanci widzieli spójność całości.
+**Specyfika**. Tydzień 4 jest najbardziej gęsty narracyjnie (Andrij + Oleksij + Sofía + Carlos + 6 polskich seniorów), bo zamyka łuki wszystkich bohaterów. Trener powinien rysować na tablicy **mapę relacji 4 obszarów × 6 seniorów × 4 bohaterów migrantów**, żeby kursanci widzieli spójność całości.
 
 ## 4. Paradygmat M2: „operator pod nadzorem"
 
@@ -132,7 +132,7 @@ M1 nauczył kursanta, że jest pomocnikiem („pomagam nie obsługuję"). M2 ucz
 
 4. **Junior nie podpisuje dokumentów → Operator kwituje dyspozycję i dziennik**. Podpis operatora w dzienniku ma moc prawną (dowód dla PIP, klienta, ubezpieczyciela w razie incydentu).
 
-5. **Junior obserwuje swoje ciało → Operator monitoruje zmęczenie kolegów w brygadzie**. Operator widzi Emekę drzemiącego przy pilarce 3 i interweniuje (scenariusz 12 ćwiczeń), nie tylko zarządza własną mikro-pauzą.
+5. **Junior obserwuje swoje ciało → Operator monitoruje zmęczenie kolegów w brygadzie**. Operator widzi Carlosa drzemiącego przy pilarce 3 i interweniuje (scenariusz 12 ćwiczeń), nie tylko zarządza własną mikro-pauzą.
 
 ### Jak uczyć tej zmiany postawy
 
@@ -150,7 +150,7 @@ M2 uczy 4 obszarów. Test l8 i quiz uzupełniający rozkładają pytania 20/30/2
 
 **Co kursant musi wiedzieć**: gatunki, wilgotność, klasy A-D + C14-D70, wady (sęki, pęknięcia), normy IARC pyłu. Zakres wymagań niski (junior operator nie klasyfikuje wytrzymałościowo, tylko rozpoznaje klasę wizualną w dużym skrócie).
 
-**Pułapki pedagogiczne**. Kursanci z krajów bez lasu liściastego (Wietnam, Filipiny, Gruzja) mogą nie mieć intuicji co do dębu i buku. Pokaż próbki fizyczne. Kursanci z Ukrainy mogą znać pojęcia po ukraińsku (дуб, бук, сосна) i mylić kody EGIDA (SO-DĄB-FSC) z czysto ukraińskimi.
+**Pułapki pedagogiczne**. Kursanci kolumbijscy i z innych krajów Ameryki Łacińskiej (gdzie w lokalnej obróbce dominują gatunki tropikalne) mogą nie mieć intuicji co do dębu, buku czy sosny europejskiej. Pokazuj próbki fizyczne, porównuj z gatunkami znanymi z ich kraju (np. cedr, mahoń). Kursanci z Ukrainy mogą znać pojęcia po ukraińsku (дуб, бук, сосна) i mylić kody EGIDA (SO-DĄB-FSC) z odpowiednikami ukraińskimi.
 
 **Tempo**. Tydzień 1 M2 = 8 lekcji × 120 min = 16h teorii. To dużo w porównaniu z M1 T1 (BHP 8h teorii). Stosuj pauzy 10 min co 60 min, a nie co 120 min.
 
@@ -166,23 +166,23 @@ M2 uczy 4 obszarów. Test l8 i quiz uzupełniający rozkładają pytania 20/30/2
 
 **Co kursant musi wiedzieć**: 10 pól dyspozycji, procedura kwitowania 5-krokowa, 8 pól dziennika, T/M/O/P przestojów z właścicielem, notes A6, FSC vs PEFC, PN-EN 1611-1 wizualne vs 14081-1 wytrzymałościowe.
 
-**Pułapki**. Kursanci A1-A2 polskim mają trudności z wypełnianiem dziennika (pisanie po polsku). Stosuj **dzienniki szkolne pomocnicze** (bilingualne z tłumaczeniem pól na EN/ES/UK), ale końcowe zadanie wypełnienia MUSI być po polsku (to praktyka rzeczywistej pracy).
+**Pułapki**. Kursanci na poziomie A1-A2 polskiego mają trudność z wypełnianiem dziennika po polsku. Stosuj **pomocnicze dzienniki szkolne** (dwujęzyczne, z tłumaczeniem pól na EN/ES/UK), ale ostateczne wypełnienie **musi** być po polsku (to praktyka rzeczywistej pracy).
 
-**Tempo**. Lekcje l1-l3 T4 Blok 1 (Hai wraca z M1 T1) są narracyjnie bogate, ale kursanci muszą też ćwiczyć fizycznie wypełnianie formularzy. Stosuj 10 min teorii + 10 min wypełnianie formularza + 10 min dyskusja + 15 min konsultacje.
+**Tempo**. Lekcje l1-l3 T4 Blok 1 (Andrij wraca z M1 T1) są narracyjnie bogate, ale kursanci muszą też ćwiczyć fizycznie wypełnianie formularzy. Stosuj 10 min teorii + 10 min wypełnianie formularza + 10 min dyskusja + 15 min konsultacje.
 
 ### Obszar 4: Relacje i autoregulacja (T4 Blok 2), 30% kursu
 
 **Co kursant musi wiedzieć**: 3 gesty wózkowego, strefa 3 m, format 4W, 3 kategorie pilności, 5 szczebli eskalacji, 6 sygnałów zmęczenia, zasada 1-2-3, krzywa CIOP-PIB 24% w 7. godz., 5 ćwiczeń mikro-ergonomicznych, zgłoszenie „nie daję rady".
 
-**Pułapki**. Kursanci z kultur hierarchicznych (Wietnam, Filipiny, Gruzja, kraje muzułmańskie) mogą mieć opory przed cytowaniem art. 210 KP wobec Krzysztofa lub Marka. Kursanci z kultur konfliktowych (Ukraina, Kazachstan) mogą iść w drugą stronę: agresywna odmowa zamiast asertywnej. Trening w ćwiczeniach teoretycznych 11-13 + scenariuszach praktycznych 1 + 4 jest kluczowy.
+**Pułapki**. Kursanci z kultur o silnej hierarchii (część Ameryki Łacińskiej w relacji „patron-pracownik", a także sporadyczni uczestnicy z innych regionów) mogą mieć opory przed powołaniem się na art. 210 KP wobec Krzysztofa albo Marka. Kursanci o temperamencie konfrontacyjnym (część Ukraińców, czasem osoby z trudnym doświadczeniem migracyjnym) mogą iść w drugą stronę: agresywna odmowa zamiast asertywnej. Trening w ćwiczeniach teoretycznych 11-13 oraz scenariuszach praktycznych 1 i 4 jest tu kluczowy.
 
-**Tempo**. Relacje to obszar, gdzie rola-play w parach sprawdza się najlepiej. Tygdzień 4 powinien mieć **3 sesje rola-play × 1 h** (wtorek popołudnie, środa popołudnie, czwartek popołudnie) z obracanymi parami.
+**Tempo**. Relacje to obszar, w którym scenki w parach sprawdzają się najlepiej. Tydzień 4 powinien mieć **trzy sesje scenek po godzinie** (wtorek po południu, środa po południu, czwartek po południu) z rotacją par.
 
 ## 6. Bohaterowie i ich łuki narracyjne
 
 M2 ma **4 głównych bohaterów migrantów** + **6 polskich seniorów**. Trener MUSI rysować na tablicy mapę relacji w każdej lekcji, żeby kursanci widzieli kontekst.
 
-### Hai Nguyen (Wietnam), 24 lekcje, najdłuższy łuk kursu
+### Andrij Tkaczenko (Ukraina, Lwów), 24 lekcje, najdłuższy łuk kursu
 
 **M1 T1** (l1-l8 BHP): pomocnik pilarza u Tadeusza Kowalskiego
 **M2 T2** (l1-l8 materiał): junior samodzielnie uczy się gatunków
@@ -191,30 +191,30 @@ M2 ma **4 głównych bohaterów migrantów** + **6 polskich seniorów**. Trener 
 **M2 T4 Blok 2** (l4-l6 relacje): operator w brygadzie, Krzysztof + Piotr + autoregulacja
 **M2 T4 Blok 3** (l7-l8 recap + test): kandydat egzaminu
 
-Hai to **postać identyfikacyjna dla kursanta wietnamskiego lub azjatyckiego**. Ostrożny, metodyczny, zadaje pytania w schemacie „widzę X, rozumiem Y". Trener może używać Haia jako „domyślnego protagonisty" przy omawianiu przykładów.
+Andrij to **postać identyfikacyjna dla kursanta ukraińskiego o profilu metodycznym** (najliczniejsza grupa w bieżących kohortach EGIDA). Ostrożny, namyślający się, zadaje pytania w schemacie „widzę X, rozumiem Y". Trener może używać Andrija jako „domyślnego protagonisty" przy omawianiu przykładów; jego cechy (ostrożność, namysł) rezonują u wielu kursantów niezależnie od pochodzenia.
 
-### Oleksii (Ukraina), 8 lekcji, klamra suszarni
+### Oleksij Bondarenko (Ukraina, Charków), 8 lekcji, klamra suszarni
 
 **M2 T3 Blok 3** (l6-l8): sortuje SO-A-260420-012, ładuje do komory, wyjmuje + reklasyfikuje
 
-Oleksii to **postać dla kursanta słowiańskiego**. Bezpośredni, praktyczny, nie boi się zgłaszać. Trener może używać Oleksiiego jako przykładu „dobrej praktyki eskalacji".
+Oleksij to **druga postać ukraińska** o odmiennym profilu niż Andrij. Bezpośredni, praktyczny, nie boi się zgłaszać. Trener może używać Oleksija jako przykładu „dobrej praktyki eskalacji".
 
-### Maricel (Filipiny), 2-3 lekcje, poprawka
+### Sofía Ramírez (Kolumbia, Medellín), 2-3 lekcje, poprawka
 
 **M2 T2 Blok 1+3** i kilka epizodów w T3 + T4
 
-Maricel to **postać dla kursanta filipińskiego lub katolickiego**. Pracowita, skrupulatna, czasami za szybko się zgadza z seniorem (bariera kulturowa). Trener może używać Maricel jako kontekst „problemu asertywności" dla kultury katolicko-filipińskiej.
+Sofía to **postać dla kursantki kolumbijskiej** (kobieta w grupie, profil rosnący w bieżących kohortach EGIDA). Pracowita, skrupulatna, czasem za szybko zgadza się z seniorem. Trener używa Sofíi jako kontekstu do rozmowy o asertywności w sytuacjach, w których odmowa wobec starszego mężczyzny bywa odbierana jako brak szacunku.
 
-### Emeka (Nigeria), 2 lekcje, epizody
+### Carlos Morales (Kolumbia, Cali), 2 lekcje, epizody
 
 **M2 T2 Blok 2** i l6 scenariusz drzemki
 
-Emeka to **postać dla kursanta afrykańskiego lub anglojęzycznego**. Energetyczny, czasami impulsywny. Używany jako przykład „problemu energii" (tygodnia 7. godzina ryzyko).
+Carlos to **postać dla kursanta o wysokiej energii i ekspresyjnym temperamencie** (rezonuje u części kursantów kolumbijskich, wenezuelskich i innych latynoskich). Energetyczny, czasem impulsywny. Używany jako przykład „problemu energii" (siódma godzina zmiany, ryzyko).
 
 ### 6 polskich seniorów
 
 - **Marek Nowak**, brygadzista, szczebel 1, dostępny większość dnia, kontynuuje z M1 T1 + M2 T2+T3+T4
-- **Tadeusz Kowalski**, senior operator pilarki, mentor Haia od M1 T1
+- **Tadeusz Kowalski**, senior operator pilarki, mentor Andrija od M1 T1
 - **Zbigniew Majchrzak**, mistrz suszarni, pojawia się T3 l7-l8
 - **Krzysztof Zagrodny**, wózkowy UDT kat. I WJO, T4 Blok 2 l4
 - **Piotr Czerwiński**, mistrz zmiany, szczebel 2, T4 Blok 2 l5, egzaminator praktyczny wtorkowy
@@ -267,25 +267,25 @@ Kursant **niezdający obu** = tryb poprawkowy 2-3 tyg., ponowny test + quiz uzup
 
 ### Specyfika M2 wobec M1
 
-M2 wymaga **więcej polskiego języka pisanego** (dziennik, kwitowanie dyspozycji, wpisy w rejestrach). Kursanci A1-A2 polskim są w stresie. Stosuj:
-- **Dzienniki szkolne bilingualne** (pola w 2 językach)
-- **Szablony zdań** (25 gotowych zdań do skopiowania w dzienniku) dla kursantów A1
-- **Partnerskie sprawdzanie** (kursant A1 pisze, partner B1 sprawdza, trener koryguje)
+M2 wymaga **więcej języka polskiego pisanego** (dziennik, kwitowanie dyspozycji, wpisy w rejestrach). Kursanci na poziomie A1-A2 są w stresie. Stosuj:
+- **Dzienniki szkolne dwujęzyczne** (pola w dwóch językach);
+- **Szablony zdań** (25 gotowych zdań do skopiowania w dzienniku) dla kursantów A1;
+- **Sprawdzanie koleżeńskie** (kursant A1 pisze, partner B1 sprawdza, trener koryguje).
 
-M2 wymaga **więcej mówienia po polsku** (format 4W telefonicznie, rozmowy z wózkowym, eskalacja do Anny Kwiatkowskiej). Stosuj:
-- **Codzienne ćwiczenia 4W** (trener pyta „zgłaszaj mi 4W o każdym co mi powiesz", 5 min każdemu kursantowi)
-- **Symulacje telefoniczne** (para kursantów z kartkami, jeden dzwoni, drugi odbiera)
-- **Rola-play z trenerem jako Krzysztofem** (trener gra wózkowego irytującego się)
+M2 wymaga **więcej mówienia po polsku** (format 4W przez telefon, rozmowy z wózkowym, eskalacja do Anny Kwiatkowskiej). Stosuj:
+- **Codzienne ćwiczenia 4W** (trener wymaga: „przy każdej rzeczy, którą mi mówisz, używaj 4W", 5 minut na kursanta);
+- **Symulacje telefoniczne** (para kursantów z kartkami, jeden dzwoni, drugi odbiera);
+- **Scenki z trenerem w roli Krzysztofa** (trener gra zirytowanego wózkowego).
 
 ### Różnice kulturowe specyficzne dla M2
 
-**Wietnam + Filipiny**: silna hierarchia, trudno odmówić Krzysztofowi lub Markowi. Trener wzmacnia: „odmowa zgodna z prawem NIE jest brakiem szacunku. Art. 210 KP jest polskim prawem, nie twoją opinią". Scenariusz 4 praktyczny jest kluczowy dla tych kursantów.
+**Kursanci z hierarchicznym wzorcem relacji w pracy** (część osób z Ameryki Łacińskiej, gdzie utrwalony jest model „patron-pracownik"; sporadycznie także osoby z innych regionów): trudność z odmową Krzysztofowi czy Markowi. Trener wzmacnia: „odmowa zgodna z prawem **nie jest** brakiem szacunku. Art. 210 KP to polskie prawo, nie twoja opinia". Scenariusz praktyczny 4 jest dla tych kursantów kluczowy.
 
-**Ukraina + Białoruś + Gruzja**: skłonność do konfrontacji. Trener wzmacnia: „ton asertywny ≠ ton agresywny. Cytuj prawo spokojnie, nie krzycz". Ćwicz w parach „ten sam tekst, 3 wersje: przymilna / asertywna / agresywna".
+**Ukraińcy**: skłonność do konfrontacji u osób doświadczonych wojną (mechanizm obronny: agresja zamiast asertywności). Trener wzmacnia: „ton asertywny to nie ton agresywny. Cytuj prawo spokojnie, nie krzycz". Ćwicz w parach „ten sam tekst w trzech wersjach: przymilnej, asertywnej, agresywnej".
 
-**Kraje hiszpańskojęzyczne**: znajomość biurokracji z ojczyzny może być atutem (dokumentacja). Ale też podejrzliwość wobec polskich papierów. Trener pokazuje rzeczywiste dyspozycje i dzienniki z EGIDA jako potwierdzenie rzeczywistości procesów.
+**Kraje hiszpańskojęzyczne** (Kolumbijczycy, Wenezuelczycy, Peruwiańczycy itp.): znajomość biurokracji z kraju pochodzenia bywa atutem (papier ma znaczenie), ale pojawia się też podejrzliwość wobec polskich formularzy. Trener pokazuje rzeczywiste dyspozycje i dzienniki z fundacji jako dowód, że są to działania normalne, a nie pułapka.
 
-**Wszystkie kultury**: **pisanie w języku obcym pod presją czasu**. Stosuj zasadę „zapisz w notesie A6 po swojemu, przepisz do dziennika po polsku spokojnie" (nawyk z l2 T4 Blok 1). Oszczędza stres i eliminuje 90% błędów.
+**Wszystkie kultury**: **pisanie w języku obcym pod presją czasu**. Stosuj zasadę „zapisz w notesie A6 po swojemu, dopiero potem spokojnie przepisz do dziennika po polsku" (nawyk z l2 T4 Blok 1). Oszczędza stres i eliminuje większość błędów.
 
 ## 9. Trudne sytuacje specyficzne dla M2
 
@@ -300,15 +300,15 @@ Objawy: brak snu niedziela-poniedziałek, drżenie rąk przed etapem A, niemożn
 4. Techniki oddechowe: 4-7-8 (wdech 4 s, zatrzymanie 7 s, wydech 8 s, powtórzyć 3 razy). Można zrobić przed etapem A.
 5. Jeśli kursant nie śpi w poniedziałek: tabletka ziołowa melisowa (za zgodą, nie przepisujemy), **nie silniejsze**. Pilot meldunku: „wtorek 6:00 dzwonię do ciebie, potwierdzisz że jesteś w drodze".
 
-### „Kursant nie umie nic odmówić Krzysztofowi (kultura)"
+### „Kursant nie potrafi odmówić Krzysztofowi (bariera kulturowa)"
 
-Objawy: scenariusz 4 praktyczny = 0/4 pkt, bierze pakiet bez etykiety pod presją. Silne u Wietnamczyków, Filipinczyków.
+Objawy: scenariusz praktyczny 4 kończy się wynikiem 0/4; kursant bierze pakiet bez etykiety pod presją. Szczególnie często u osób z silnym hierarchicznym wzorcem relacji pracowniczych (np. u części kursantów latynoskich, u których utrwalił się model „patron-pracownik").
 
 **Reakcja**:
-1. Rozmowa 20 min z pokazaniem art. 210 KP w jego języku ojczystym (przygotowane druki bilingualne z tłumaczeniem).
-2. Ćwiczenie w parach z trenerem grającym Krzysztofa **przez 30 min** aż kursant nauczy się konkretnej frazy („Krzyśku, muszę to zapisać, 2 min").
-3. Wzmacnianie: „nie odmawiasz Krzysztofowi jako osobie. Odmawiasz naruszeniu procedury. Krzysztof cię szanuje kiedy jesteś profesjonalny, nie kiedy jesteś miły".
-4. Jeśli kursant po 30 min nadal nie umie, powtórka scenariusza 4 za 3-5 dni.
+1. Rozmowa 20 min z pokazaniem art. 210 KP w języku ojczystym kursanta (przygotowane dwujęzyczne druki z tłumaczeniem).
+2. Ćwiczenie w parach z trenerem w roli Krzysztofa **przez 30 min**, aż kursant opanuje konkretną frazę („Krzyśku, muszę to zapisać, daj 2 minuty").
+3. Wzmacnianie: „nie odmawiasz Krzysztofowi jako osobie; odmawiasz naruszenia procedury. Krzysztof szanuje cię, gdy jesteś profesjonalny, a nie gdy jesteś miły".
+4. Jeśli po 30 min kursant nadal nie potrafi, powtórz scenariusz 4 za 3-5 dni.
 
 ### „Kursant za szybko zgadza się zmiany priorytetu ustnej"
 
@@ -367,7 +367,7 @@ Objawy: test l8 = miesza PN-EN 1611 (wizualne A-S0) z PN-EN 14081 (wytrzymałoś
 **Środa tygodnia 4** (po l8 T4). Trener robi **30 min briefingu M3**. Informacje:
 - M3 = „samodzielność operatora" (operator bez nadzoru, ale wciąż podlegający brygadziście)
 - Zakres M3: samodzielna wymiana taśmy (nie już pod okiem), diagnostyka maszyn, konserwacja codzienna, reklamacje klienta, planowanie kampanii suszenia
-- Nowi bohaterowie możliwi (Hai ewoluuje na starszego operatora; nowe postaci migrantów + seniorzy M3)
+- Nowi bohaterowie możliwi (Andrij ewoluuje na starszego operatora; nowe postaci migrantów + seniorzy M3)
 - Rytm M3: podobny do M2, 4 tygodnie × 8 lekcji
 
 **Cel briefingu**. Kursant wie, że M2 nie jest końcem, ale szczeblem. Motywacja ciągła. Rekrutacja tych, którzy chcą iść dalej (nie wszyscy; niektórzy zatrudniają się po M2 i wracają do M3 po 6-12 miesiącach pracy).

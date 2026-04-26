@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-Poniedziałek, 7:00, plac sortowniczy tartaku Fundacji EGIDA – otwarta strefa pod zadaszeniem o powierzchni 400 m², 15 m od hali pilarek, z 12 oznakowanymi stanowiskami stosów. Na każdym stanowisku tabliczka z kodem: „A-25-150-3000" (klasa A, grubość 25 mm, szerokość 150 mm, długość 3000 mm), „B-30-180-2500", „C-45-95-2500". Oleksii po raz pierwszy jest tutaj jako wykonawca – przez poprzednie trzy tygodnie przyglądał się sortowaniu z boku, wykonywanemu przez Tadeusza Kowalskiego i Maricel. Dzisiaj Marek mówi: „Masz dziś 30 desek ze strugarki piątkowej – sosna, wymieszane grubości od 25 do 45 mm, długości 2500 i 3000 mm, klasy A, B, C. Posortuj na właściwe stosy. Tadeusz pomaga z transportem, ale ty decydujesz gdzie co idzie."
+Poniedziałek, 7:00, plac sortowniczy tartaku Fundacji EGIDA – otwarta strefa pod zadaszeniem o powierzchni 400 m², 15 m od hali pilarek, z 12 oznakowanymi stanowiskami stosów. Na każdym stanowisku tabliczka z kodem: „A-25-150-3000" (klasa A, grubość 25 mm, szerokość 150 mm, długość 3000 mm), „B-30-180-2500", „C-45-95-2500". Oleksij po raz pierwszy jest tutaj jako wykonawca – przez poprzednie trzy tygodnie przyglądał się sortowaniu z boku, wykonywanemu przez Tadeusza Kowalskiego i Sofía. Dzisiaj Marek mówi: „Masz dziś 30 desek ze strugarki piątkowej – sosna, wymieszane grubości od 25 do 45 mm, długości 2500 i 3000 mm, klasy A, B, C. Posortuj na właściwe stosy. Tadeusz pomaga z transportem, ale ty decydujesz gdzie co idzie."
 
 Sortowanie jest **ostatnim etapem procesu** przed wysyłką do odbiorcy. Pilarka taśmowa dzieli kłodę na pryzmę i tarcicę nieobrzynaną (lekcja 5 tygodnia 2), pilarka tarczowa obrzynia krawędzie (lekcja 4 tego tygodnia), strugarka wykańcza powierzchnię (lekcja 5 tego tygodnia). Między tymi etapami deska ma tożsamość „deska w produkcji". Po sortowaniu deska ma tożsamość **„deska w partii"** – z kodem, datą, klasą, gatunkiem i wymiarami, gotowa do wysyłki lub magazynowania.
 
@@ -50,7 +50,7 @@ Gatunek:    sosna (Pinus sylvestris)
 Klasa:      A (PN-EN 1611-1)
 Wymiary:    30 × 150 × 3000 mm
 Masa:       0,95 m³ (70 desek)
-Operator:   O.B. (Oleksii Bohdaniuk)
+Operator:   O.B. (Oleksij Bohdaniuk)
 Brygadzista: M.K.
 ```
 
@@ -64,20 +64,20 @@ Duplikat etykiety wisi na **tabliczce stanowiska** (plastikowa tabliczka 200 × 
 
 **Zasada 2: Odstęp między stosami 1 m.** Minimum przejścia dla wózka transportowego ręcznego i bezpiecznego ruchu drugiego operatora. Jeśli dwa stosy są bliżej niż 1 m – ładowarka przy podnoszeniu jednego stosu uderza widłami w drugi, cały plac sortowniczy się destabilizuje. W dużych tartakach (powyżej 20 zatrudnionych) odstępy wynoszą 1,5–2 m ze względu na ruch ładowarek widłowych o szerokości 1,2 m. W Fundacji EGIDA (8 zatrudnionych, wózek ręczny) odstęp 1 m wystarczy.
 
-**Zasada 3: Podajesz dwuetapowo, nigdy rzutem.** Deska kładziona na stos **nigdy rzutem z wysokości** – zawsze **dwuetapowo**: (1) pochylenie deski nad stosem z dłońmi nisko przy krawędzi, (2) ostrożne opuszczenie do styku. Rzut z wysokości = uderzenie o warstwę wierzchnią z siłą 200–500 N = destabilizacja stosu, możliwy upadek deski z drugiej strony, ryzyko uderzenia kolegi po drugiej stronie stosu. Oleksii pierwszych 5 desek kładzie zbyt szybko (naturalny odruch „pośpiechu"), Marek zatrzymuje: „Wolniej. Dwa etapy. Pochyl, opuść. Zawsze."
+**Zasada 3: Podajesz dwuetapowo, nigdy rzutem.** Deska kładziona na stos **nigdy rzutem z wysokości** – zawsze **dwuetapowo**: (1) pochylenie deski nad stosem z dłońmi nisko przy krawędzi, (2) ostrożne opuszczenie do styku. Rzut z wysokości = uderzenie o warstwę wierzchnią z siłą 200–500 N = destabilizacja stosu, możliwy upadek deski z drugiej strony, ryzyko uderzenia kolegi po drugiej stronie stosu. Oleksij pierwszych 5 desek kładzie zbyt szybko (naturalny odruch „pośpiechu"), Marek zatrzymuje: „Wolniej. Dwa etapy. Pochyl, opuść. Zawsze."
 
-### Case Oleksii – 30 desek na 4 stosy
+### Case Oleksij – 30 desek na 4 stosy
 
-30 desek sosnowych ze strugarki piątkowej czeka na palecie. Mieszany zestaw: grubości 25, 30, 45 mm, długości 2500 i 3000 mm, klasy A, B, C (Oleksii ocenia każdą deskę osobno – patrzy na sęki, pęknięcia czołowe, krzywizny). Tadeusz przewozi po 5 desek na wózku ręcznym do strefy oceny.
+30 desek sosnowych ze strugarki piątkowej czeka na palecie. Mieszany zestaw: grubości 25, 30, 45 mm, długości 2500 i 3000 mm, klasy A, B, C (Oleksij ocenia każdą deskę osobno – patrzy na sęki, pęknięcia czołowe, krzywizny). Tadeusz przewozi po 5 desek na wózku ręcznym do strefy oceny.
 
-Oleksii sortuje 25 minut. Z 30 desek wychodzą **4 stosy**:
+Oleksij sortuje 25 minut. Z 30 desek wychodzą **4 stosy**:
 
 - **SO-A-260420-012**: sosna klasy A, 30 × 150 × 3000 mm, 12 desek, 0,16 m³
 - **SO-A-260420-013**: sosna klasy A, 25 × 150 × 2500 mm, 8 desek, 0,075 m³
 - **SO-B-260420-004**: sosna klasy B, 45 × 150 × 3000 mm, 6 desek, 0,12 m³
 - **SO-C-260420-002**: sosna klasy C, 30 × 150 × 2500 mm, 4 deski, 0,045 m³
 
-**Jedna pomyłka**: deska 29 ma sęk luźny 35 mm – Oleksii umieszcza ją w stos A (przeoczył, bo sęk jest na boku, nie na licu). Marek przy kontroli wyciąga deskę, pokazuje sęk: „Luźny, 35 mm. Klasa B – próg 30 mm przekroczony. Przenosimy." Oleksii przenosi deskę do stosu B, aktualizuje etykietę stosu A (12 → 11 desek) i stosu B (6 → 7). Etykieta ma datę aktualizacji dopisaną ołówkiem.
+**Jedna pomyłka**: deska 29 ma sęk luźny 35 mm – Oleksij umieszcza ją w stos A (przeoczył, bo sęk jest na boku, nie na licu). Marek przy kontroli wyciąga deskę, pokazuje sęk: „Luźny, 35 mm. Klasa B – próg 30 mm przekroczony. Przenosimy." Oleksij przenosi deskę do stosu B, aktualizuje etykietę stosu A (12 → 11 desek) i stosu B (6 → 7). Etykieta ma datę aktualizacji dopisaną ołówkiem.
 
 **Nauka dnia**: sortowanie wymaga **oglądania deski ze wszystkich stron**, nie tylko z góry. Sęki luźne często są na boku (widoczne tylko gdy deska leży bokiem). Reguła 80/20 Fundacji EGIDA (z lekcji 6 tyg. 2): po 3 miesiącach operator sortuje 80% poprawnie samodzielnie, 20% kontroluje mistrz. Po 6 miesiącach 90/10. Po roku 95/5.
 
@@ -138,4 +138,4 @@ Po tej lekcji na placu sortowniczym:
 
 **Najczęstsze błędy kursantów w tej lekcji**: (1) ocenianie deski **tylko z góry**, nie z 4 stron – sęki luźne i pęknięcia czołowe są często na boku. Ucz „rotacji deski" – każda deska obracana 4 razy, jeden rzut oka na każdą stronę. (2) **Średniowanie klas** zamiast reguły najsłabszego kryterium. Kursant widzi deskę „w 80% klasy A, w 20% klasy B" i chce dać „A minus" lub „B plus". Ucz: klasa jest jedna, to najniższa z kryteriów. (3) **Rzut deski na stos** – naturalny odruch przyspieszania pracy. Wymaga stanowczego przypomnienia przy pierwszych 10 deskach nowego kursanta.
 
-**Pomost do bloku 3 tygodnia 3**: lekcje 7–8 (suszenie komorowe) wprowadzą ostatni element łańcucha przetwarzania przed wysyłką – suszarnię komorową. Oleksii kontynuuje przez cały tydzień 3 (8 lekcji, wzorzec narracyjny Maricel w Blokach 1+3 T2). Lekcja 7 – rola ładowacza suszarni (parametry gatunkowe 35–70 °C sosna, 30–60 °C dąb/buk, chłodzenie ≤6 °C/h). Lekcja 8 – protokół wyjmowania partii po suszeniu i kontrola pęknięć. Rola sortownika z dzisiejszej lekcji łączy się z rolą ładowacza suszarni: te same kody partii, ta sama tożsamość deski, zmienia się tylko stan materiału (wilgotność 30% → 15%).
+**Pomost do bloku 3 tygodnia 3**: lekcje 7–8 (suszenie komorowe) wprowadzą ostatni element łańcucha przetwarzania przed wysyłką – suszarnię komorową. Oleksij kontynuuje przez cały tydzień 3 (8 lekcji, wzorzec narracyjny Sofía w Blokach 1+3 T2). Lekcja 7 – rola ładowacza suszarni (parametry gatunkowe 35–70 °C sosna, 30–60 °C dąb/buk, chłodzenie ≤6 °C/h). Lekcja 8 – protokół wyjmowania partii po suszeniu i kontrola pęknięć. Rola sortownika z dzisiejszej lekcji łączy się z rolą ładowacza suszarni: te same kody partii, ta sama tożsamość deski, zmienia się tylko stan materiału (wilgotność 30% → 15%).

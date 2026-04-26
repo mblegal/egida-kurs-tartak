@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Hai's fifth day as an operator. He walks up to the band saw, dressed like an operator (lesson 2), with his left hand already reaching instinctively for the E-stop mushroom button (lesson 3). The foreman comes over, hands him an A5 sheet with five checkboxes, and says: **"From today, before you press START, you tick off five points. Five out of five or zero."**
+Andrij's fifth day as an operator. He walks up to the band saw, dressed like an operator (lesson 2), with his left hand already reaching instinctively for the E-stop mushroom button (lesson 3). The foreman comes over, hands him an A5 sheet with five checkboxes, and says: **"From today, before you press START, you tick off five points. Five out of five or zero."**
 
-Hai looks at the sheet:
+Andrij looks at the sheet:
 
 - [ ] Guards
 - [ ] Weld / blade
@@ -18,7 +18,7 @@ Hai looks at the sheet:
 
 Five words, two minutes of work, one rule: **there are no important and less important points**. If you cannot tick any one of them, you do not start the machine and you go fetch the foreman.
 
-This lesson explains why a checklist is not bureaucracy but the **operator's fifth limb**. Why the **order** of points is rigid (from the most physical to the most spatial). Why the "5 out of 5 or zero" rule is stricter than "4 out of 5 is enough, I'll check the fifth while running". And why Hai, after a month of such sheets, will start completing the checklist **in his head**, without paper, in 90 seconds.
+This lesson explains why a checklist is not bureaucracy but the **operator's fifth limb**. Why the **order** of points is rigid (from the most physical to the most spatial). Why the "5 out of 5 or zero" rule is stricter than "4 out of 5 is enough, I'll check the fifth while running". And why Andrij, after a month of such sheets, will start completing the checklist **in his head**, without paper, in 90 seconds.
 
 This is the last lesson of Week 1 of M2. The **check – start – report** ritual closes here: five points is "check" in full expansion. After them comes START. After start, in lesson 6, we return to "report".
 
@@ -88,7 +88,7 @@ The first four categories are in your checklist. Together **91%**. The checklist
 - **Common mistake**: "I see my colleague out of the corner of my eye, he probably knows I'm starting". Out of the corner of your eye is not eye contact. Eye contact is the one you learned about in M1 Week 1 lesson 3.
 
 ::: example
-**Hai's case (fifth day of M2)**: Hai has ticked four points and is moving to the fifth. He hears the foreman behind him talking to a supplier. Hai turns around: the supplier is standing **in the kickback corridor, 4 metres behind the machine**. Hai does not press START. He calls the foreman with the word "foreman, the zone!". The foreman apologetically walks the supplier out of the zone, returns, nods. Now Hai ticks the fifth point. **5 out of 5**. He presses START.
+**Andrij's case (fifth day of M2)**: Andrij has ticked four points and is moving to the fifth. He hears the foreman behind him talking to a supplier. Andrij turns around: the supplier is standing **in the kickback corridor, 4 metres behind the machine**. Andrij does not press START. He calls the foreman with the word "foreman, the zone!". The foreman apologetically walks the supplier out of the zone, returns, nods. Now Andrij ticks the fifth point. **5 out of 5**. He presses START.
 :::
 
 ### The "5 out of 5 or zero" rule
@@ -154,19 +154,19 @@ D) Any order is OK, what matters is that you tick off five.
 
 1. **Take a sheet** (the foreman has a stock) or print a template with five boxes. Keep it in the pocket of your overalls. At every start-up (at least 3-5 times during a shift at the saw) tick off the five points. Write on the back: how many times today you really checked all five.
 2. **Ask the foreman** whether there exists in the workplace a **written workstation instruction** for your saw (the pre-start section). If so, compare the five universal points with the company list. The company may have additional ones (e.g. a bearing lubrication test) or more detailed requirements.
-3. **Meet Hai** inside your own head: on the fourth day instead of the fifth, on the third instead of the tenth. Try out the ritual **with the sheet for 20-30 days**. Only then move the checklist "into your head". Skipping the paper stage (from day one without a sheet) = guaranteed shortcuts by the third week.
+3. **Meet Andrij** inside your own head: on the fourth day instead of the fifth, on the third instead of the tenth. Try out the ritual **with the sheet for 20-30 days**. Only then move the checklist "into your head". Skipping the paper stage (from day one without a sheet) = guaranteed shortcuts by the third week.
 
 ## Trainer notes
 
 **Lesson accents:**
 
 - The third step of the **check – start – report** ritual. Together with lessons 2 and 3, it closes "check" in three layers (yourself, STOP, machine). Emphasise: the checklist is not an addition to the ritual, but **its thickest floor**.
-- Hai closes the arc of the week. In the pilot he was "first time alone". In l2 he dressed like an operator. In l3 he placed his hand on STOP. In l4 he holds the sheet and stops the machine before the 5th point because the supplier entered the zone. **This is a complete junior M2 operator after a week.**
+- Andrij closes the arc of the week. In the pilot he was "first time alone". In l2 he dressed like an operator. In l3 he placed his hand on STOP. In l4 he holds the sheet and stops the machine before the 5th point because the supplier entered the zone. **This is a complete junior M2 operator after a week.**
 - The order of the 5 points is not negotiable. Pedagogically, you sell it as **"from physical to spatial"**: first what you hold in your hand (guard), at the end what you see in the hall (surroundings). This order has its basis in ergonomics research: hand closer to the head, eye further. A person more easily focuses attention first on close objects.
 
 **Migrant traps:**
 
-- In many countries (Vietnam, Moldova, Georgia) a pre-start checklist is rare in craft sawmills. The operator learns "by eye". Transferred to a Polish plant (compliant with 2006/42/EC) he treats the checklist as bureaucracy. Show him the PIP statistic: 91% of accidents are the skipping of one of the 5 points. Not "bad luck" – skipping.
+- In many countries of origin (Ukraine, Colombia, Venezuela, Peru) a pre-start checklist is rare in craft sawmills. The operator learns "by eye". Transferred to a Polish plant (compliant with 2006/42/EC) he treats the checklist as bureaucracy. Show him the PIP statistic: 91% of accidents are the skipping of one of the 5 points. Not "bad luck" – skipping.
 - The "5 out of 5 or zero" rule sounds like an ultimatum. Explain that it is not a threat, but **mathematics**. 4 out of 5 = 20% of risk unaddressed. With 5 start-ups a day × 5 days a week × 50 weeks = 1250 start-ups a year × 20% = **250 times a year we play roulette with one unchecked element**. Sooner or later the element comes up.
 
 **Link to M1 and M2:**

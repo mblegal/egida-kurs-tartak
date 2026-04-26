@@ -197,7 +197,7 @@ El polaco tiene **7 sonidos** que probablemente no existen en tu idioma (o exist
 ¿Suena complicado? **Tranquilo**. El capataz ha oído a muchos migrantes decir „KLO-da" en vez de „KUO-da" o „seekh" en vez de „she". **Entenderá el contexto**. Pero tienes que intentarlo.
 
 ::: example
-**De la vida real**: un ayudante de Vietnam, aserradero cerca de Radom, tercera semana de trabajo. En vietnamita no existen los sonidos „ł", „ś", „ć". El vietnamita aprendió las 30 palabras pasivamente en una semana (porque la comprensión no requiere producción), pero la producción activa le llevó un mes. Al principio decía „KLODA" en vez de „KUODA". El capataz entendía. Tras 3 semanas oyó que „KLODA" no era „KUODA", pero sonaba parecido. A los 2 meses el ayudante vietnamita pronunciaba „KUODA" correctamente. **Conclusión**: la pronunciación imperfecta no es problema, **no intentarlo** sí lo es. El capataz valora tu esfuerzo, no tu fonética.
+**De la vida real**: un ayudante de Colombia, aserradero cerca de Radom, tercera semana de trabajo. En español no existen los sonidos „ł", „ś", „ć" como fonemas propios. El colombiano aprendió las 30 palabras pasivamente en una semana (porque la comprensión no requiere producción), pero la producción activa le llevó un mes. Al principio decía „KLODA" en vez de „KUODA". El capataz entendía. Tras 3 semanas oyó que „KLODA" no era „KUODA", pero sonaba parecido. A los 2 meses el ayudante colombiano pronunciaba „KUODA" correctamente. **Conclusión**: la pronunciación imperfecta no es problema, **no intentarlo** sí lo es. El capataz valora tu esfuerzo, no tu fonética.
 :::
 
 ### 5 cortesías diarias
@@ -214,7 +214,7 @@ Estas **5 palabras** debes saber decirlas desde el primer día:
 
 **„przepraszam"** (pshe-PRA-sham) – cuando te equivocas, cuando tienes que interrumpir el trabajo de alguien, cuando algo estorba. No es admisión de culpa (como el „sorry" inglés), es simple cortesía.
 
-**Estas 5 palabras crean una „capa humana"** entre tú y la cuadrilla. Sin ellas eres „ese extranjero que trabaja aquí". Con ellas eres „ese compañero de Ucrania / Bielorrusia / Georgia / Vietnam que se integra bien".
+**Estas 5 palabras crean una „capa humana"** entre tú y la cuadrilla. Sin ellas eres „ese extranjero que trabaja aquí". Con ellas eres „ese compañero de Ucrania / Colombia / Venezuela / Perú que se integra bien".
 
 ### 5 estrategias para aprender polaco en el taller
 
@@ -224,7 +224,7 @@ Estas **5 palabras** debes saber decirlas desde el primer día:
 
 **Estrategia 3 – 5 minutos por la tarde**. Después del trabajo, antes de empezar la cena, 5 minutos repasando la lista en voz alta. Aunque estés cansado. Es ese **1% de esfuerzo diario** que al cabo de un año te da polaco a nivel A2.
 
-**Estrategia 4 – compañero ayudante**. Si en la cuadrilla hay otro ayudante (vietnamita, moldavo, ucraniano), aprended juntos. Uno dice la palabra, el otro la traduce a su idioma. La traducción mutua ayuda más que el machaque en solitario.
+**Estrategia 4 – compañero ayudante**. Si en la cuadrilla hay otro ayudante (colombiano, ucraniano, venezolano), aprended juntos. Uno dice la palabra, el otro la traduce a su idioma. La traducción mutua ayuda más que el machaque en solitario.
 
 **Estrategia 5 – no tener miedo a equivocarse**. Equivocarse es **normal**. Los polacos saben que un migrante habla con fallos durante el primer año. Mejor decir „proszę kloda" (error fonético: debería ser „kłoda", pero se entiende) que callar por vergüenza. Un **migrante silencioso** cae peor en la cuadrilla polaca que un **migrante que habla con fallos**. Hablar = intentar. Intentar = respeto por los compañeros.
 

@@ -6,11 +6,11 @@ czas: 120
 
 ## Introduction
 
-Friday, the eighth day of the second week. Yesterday Emeka learned to **see** four wood defects. Today he is learning to **name what he sees on the stacks after cutting**. At 7:30 master Jan leads him along the eastern wall of the hall, where five different stacks of lumber lie, each marked with a number plate from 1 to 5.
+Friday, the eighth day of the second week. Yesterday Carlos learned to **see** four wood defects. Today he is learning to **name what he sees on the stacks after cutting**. At 7:30 master Jan leads him along the eastern wall of the hall, where five different stacks of lumber lie, each marked with a number plate from 1 to 5.
 
-"Look, Emeka. All of this came out of one oak log from yesterday. **Five different stacks, five different prices, five different customers.** Before I teach you to sort into these stacks, you must know what to call the things lying there. Otherwise you write 'board' in the order book and nobody knows what you mean."
+"Look, Carlos. All of this came out of one oak log from yesterday. **Five different stacks, five different prices, five different customers.** Before I teach you to sort into these stacks, you must know what to call the things lying there. Otherwise you write 'board' in the order book and nobody knows what you mean."
 
-This lesson is about **lumber assortments**: trade names for what comes out of the sawmill after a log is broken down. Words that look like synonyms are, in the timber trade, different categories with different prices and different customers: **edged and unedged** is not the same as **board and beam**, and the difference of a single edging pass can triple the price per cubic meter. A *cant* (Polish: *pryzma*) is neither a log nor a board, but a semi-finished product in between, and confusing it with a beam is one of the most common mistakes a new helper makes. A *slab* (Polish: *oblina*) is a scrap valuable as firewood or a packaging board, but never structural, and treating it as garbage costs the sawmill real money. Today Emeka will learn to distinguish five basic assortments, know which machine each one comes out of, and understand why the same log can produce products whose prices differ by a factor of ten.
+This lesson is about **lumber assortments**: trade names for what comes out of the sawmill after a log is broken down. Words that look like synonyms are, in the timber trade, different categories with different prices and different customers: **edged and unedged** is not the same as **board and beam**, and the difference of a single edging pass can triple the price per cubic meter. A *cant* (Polish: *pryzma*) is neither a log nor a board, but a semi-finished product in between, and confusing it with a beam is one of the most common mistakes a new helper makes. A *slab* (Polish: *oblina*) is a scrap valuable as firewood or a packaging board, but never structural, and treating it as garbage costs the sawmill real money. Today Carlos will learn to distinguish five basic assortments, know which machine each one comes out of, and understand why the same log can produce products whose prices differ by a factor of ten.
 
 ## Objectives
 
@@ -43,7 +43,7 @@ Before a board reaches the customer, the log passes through 5 machine stages. Ea
 
 ### Assortment one: slab
 
-Emeka stands before stack no. 1. He sees boards with a strange profile: **one side flat (from the cut), the other rounded with bark** (from the natural edge of the trunk). Thickness is uneven: 30 mm in the middle, 5–10 mm at the sides.
+Carlos stands before stack no. 1. He sees boards with a strange profile: **one side flat (from the cut), the other rounded with bark** (from the natural edge of the trunk). Thickness is uneven: 30 mm in the middle, 5–10 mm at the sides.
 
 A **slab** (Polish: *oblina*, English: *slab*, German: *Schwarte*) is the first and last piece of a log after lengthwise cutting on a band saw. It has **only one flat side**, the one the saw passed through. The other side retains the natural arc of the trunk and the bark (if the log was not debarked). Its length equals the length of the log (2.5–6 m), its width varies from 0 at the ends to maximum in the middle.
 
@@ -61,7 +61,7 @@ A **slab** (Polish: *oblina*, English: *slab*, German: *Schwarte*) is the first 
 
 ### Assortment two: half-sawn log
 
-Emeka walks up to stack no. 2. He sees thick pieces of wood **with a half-round cross-section**: one side flat (a cut through the middle of the log), the other rounded with bark (what is left of the trunk on the other side). Thickness in the middle 20–25 cm, width 30–50 cm, length 4 m.
+Carlos walks up to stack no. 2. He sees thick pieces of wood **with a half-round cross-section**: one side flat (a cut through the middle of the log), the other rounded with bark (what is left of the trunk on the other side). Thickness in the middle 20–25 cm, width 30–50 cm, length 4 m.
 
 A **half-sawn log** (Polish: *opół*, English: *half-sawn log*, German: *Halbholz*) is a log cut **through the middle into two equal halves**. It arises when the band saw makes only a single kerf through the log's axis, with no further cutting. The half-sawn log has one flat side (the kerf) and one natural side (with bark or after debarking).
 
@@ -95,7 +95,7 @@ A **cant** (Polish: *pryzma*, English: *cant*, German: *Scherblock*) is a **log 
 
 ### Assortments four and five: unedged and edged lumber
 
-Emeka looks at stacks 4 and 5 next to each other. Stack 4: **boards with flat top and bottom, but natural sides**: wide in the middle, tapering at the ends, with bark traces on the sides. Stack 5: **the same boards, but with four straight edges**: each has a perfect rectangular cross-section.
+Carlos looks at stacks 4 and 5 next to each other. Stack 4: **boards with flat top and bottom, but natural sides**: wide in the middle, tapering at the ends, with bark traces on the sides. Stack 5: **the same boards, but with four straight edges**: each has a perfect rectangular cross-section.
 
 **Unedged lumber** (*unedged lumber*) = a board after the band saw that **has not been through the edger**. Top and bottom are flat (from the saw), the sides are natural (the trunk profile). The width varies along the board: 35 cm at one end, 25 cm in the middle, 35 cm at the other end again.
 
@@ -122,7 +122,7 @@ For a log bought in the forest at 300 zł/m³ (volume 0.38 m³ with bark = 114 z
 
 ### How you know which assortment comes from which machine
 
-Emeka sorts it out in his head:
+Carlos sorts it out in his head:
 - **Band saw (main headrig)**: log → **unedged boards + 2 slabs + optionally a cant**.
 - **Edger** (*edger*): unedged boards → **edged boards + waste strips**.
 - **Frame saw / multi-rip saw**: cant → **a package of edged boards of identical thickness** in one pass through 6–12 saws.
@@ -163,18 +163,18 @@ On Monday (lesson 6, new week) you will learn about **lumber quality grades A/B/
 
 **Why exactly five assortments**: pragmatic selection. The full trade classification of lumber distinguishes 15+ assortments (batten, squared timber, strip, panelling, calibrated element, frieze, joist, rafter stock, and so on), but all of them are **variants of edged lumber of specific dimensions**. The fundamental assortments are **slab / half-sawn log / cant / edged / unedged**, because they define the **geometry of the cross-section and the degree of processing**. Dimensions are the second axis of classification (size), grade is the third (quality). These three together (assortment + dimension + grade) give the full price line.
 
-**Guiding analogy**: an assortment is like a "cut of meat in a slaughterhouse". The same bull gives tenderloin (the most expensive, requires precise cutting), ribeye, loin, shoulder, brisket, and scrap for sausage. A sawmill assortment is analogous: an oak butt log for veneer (the tenderloin analogue), a structural cant (ribeye), grade B edged lumber (loin), unedged lumber (shoulder), slab (brisket), sawdust (scrap for sausage/pellet). Trainees from countries with a developed butchery tradition (most of Africa, the Philippines, Ukraine, Georgia) grasp this analogy instantly.
+**Guiding analogy**: an assortment is like a "cut of meat in a slaughterhouse". The same bull gives tenderloin (the most expensive, requires precise cutting), ribeye, loin, shoulder, brisket, and scrap for sausage. A sawmill assortment is analogous: an oak butt log for veneer (the tenderloin analogue), a structural cant (ribeye), grade B edged lumber (loin), unedged lumber (shoulder), slab (brisket), sawdust (scrap for sausage/pellet). Trainees from countries with a developed butchery tradition (Ukraine, Colombia, Venezuela, most of Latin America) grasp this analogy instantly.
 
 **Where this lesson returns**: m2-w2-l6 grades A/B/C/D (quality, the third axis), m2-w2-l7 saws (which saw for which assortment), m2-w2-l8 band changing (band wear depends on the assortment: cutting an oak cant dulls the saw 3× faster than cutting a pine slab), m2-w3-l2 band saw in motion, m2-w3-l5 edger, m2-w4-l2 sorting and stacking finished lumber.
 
 **Pitfalls for migrant trainees**:
-- "Lumber = board": **not necessarily**. Lumber is a collective term for everything after lengthwise cutting (boards + beams + strips + slabs). A board is a specific assortment with the proportions thickness < width < length. Trainees from the Philippines and Africa often use a single word corresponding to "cut wood" and do not distinguish.
+- "Lumber = board": **not necessarily**. Lumber is a collective term for everything after lengthwise cutting (boards + beams + strips + slabs). A board is a specific assortment with the proportions thickness < width < length. Trainees from countries where the sawmill vocabulary has not historically developed (parts of Latin America) often use a single word corresponding to "cut wood" and do not distinguish.
 - Slab "as waste to throw away": **no**, a slab is an 80–350 zł/m³ product. In countries without developed wood-waste management this is a hard mental change.
 - Cant "confused with a beam": a cant is a semi-finished product (it goes to further cutting), a beam is a final product (for a rafter). Same geometry (40×40×400 cm), but different purpose. A cant has fresh colour and is not dried; a beam is dried to <20% and carries a CE C24/C30 marking.
 - Edged lumber vs. floorboard: edged lumber is raw lumber with 4 straight edges, a floorboard is edged lumber after planing, jointing, and possibly with a tongue-and-groove profile.
 
 **Assortment economics**: the sawmill earns mainly on edged lumber grade A/B (60–70% of revenue), little on slabs and chips (5–10%), but without them it would go bankrupt (it would have to pay for disposal). Every assortment has its role in the plant's microeconomy.
 
-**Emeka case continued**: on Thursday he learned defects, on Friday assortments. On Monday (l6) he will learn about grades A/B/C/D. In the third week of M2 he will see the saws in motion, closing the understanding that he began this week on static pieces.
+**Carlos case continued**: on Thursday he learned defects, on Friday assortments. On Monday (l6) he will learn about grades A/B/C/D. In the third week of M2 he will see the saws in motion, closing the understanding that he began this week on static pieces.
 
 **For the advanced trainer**: after this lesson it is worth taking a walk through the sawmill with the trainee, showing the machines and stacks physically. A sawmill is a visual world, a verbal description is not enough. A 45-minute walk through the hall after this lesson is the most valuable part of the course.

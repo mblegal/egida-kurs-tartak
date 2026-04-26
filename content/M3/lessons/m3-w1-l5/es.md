@@ -6,13 +6,13 @@ czas: 120
 
 ## Introducción
 
-Es viernes, 14:18. El turno de Rustam termina a las 15:00. En la P3 está cerrando el lote 57, el último de la semana, de pino, para un pedido de una empresa de Varsovia. Wahan está en la rampa de salida y clasifica la *tarcica* (madera aserrada) en tres pilas: A (120 × 50 × 3500), B (parecida, pero con un nudo), descarte. Cinco metros más allá, Murat Kaya trabaja en la P2, la sierra circular, que hoy produce escuadrías de roble para una carpintería de construcción. Hai está de vacaciones en Vietnam hasta el lunes.
+Es viernes, 14:18. El turno de Mykoła termina a las 15:00. En la P3 está cerrando el lote 57, el último de la semana, de pino, para un pedido de una empresa de Varsovia. Wasyl está en la rampa de salida y clasifica la *tarcica* (madera aserrada) en tres pilas: A (120 × 50 × 3500), B (parecida, pero con un nudo), descarte. Cinco metros más allá, Murat Kaya trabaja en la P2, la sierra circular, que hoy produce escuadrías de roble para una carpintería de construcción. Andrij está de vacaciones en Leópolis hasta el lunes.
 
-A las 14:19:12 Rustam oye un grito.
+A las 14:19:12 Mykoła oye un grito.
 
-El grito es corto, una sola palabra en turco, sin polaco. Rustam sabe lo que significa. Mira su máquina: lote 57, rollizo 19 de 20, cinta en marcha, protecciones en su sitio. Mueve la mano al pulpito, pulsador rojo, la cinta empieza a frenar. En la misma fracción de segundo ve por el rabillo del ojo la P2: Murat de pie, inclinado, se sujeta el antebrazo derecho, la manga de la cazadora roja a lo largo de quince centímetros. La sierra P2 sigue funcionando, el disco gira.
+El grito es corto, una sola palabra en turco, sin polaco. Mykoła sabe lo que significa. Mira su máquina: lote 57, rollizo 19 de 20, cinta en marcha, protecciones en su sitio. Mueve la mano al pulpito, pulsador rojo, la cinta empieza a frenar. En la misma fracción de segundo ve por el rabillo del ojo la P2: Murat de pie, inclinado, se sujeta el antebrazo derecho, la manga de la cazadora roja a lo largo de quince centímetros. La sierra P2 sigue funcionando, el disco gira.
 
-Catorce segundos después Rustam está junto a Murat. Cincuenta segundos después la línea EGIDA tiene otro aspecto. Cinco minutos después hay una ambulancia en el patio. Una hora después Murat está en el Hospital Praski, en plena operación de sutura del tendón flexor. Cuatro horas después el jefe de turno Piotr cierra el acta de determinación de circunstancias y causas del accidente, y Rustam, ya fuera de turno, la firma como testigo en presencia de Marek y del inspector de SSL de la planta.
+Catorce segundos después Mykoła está junto a Murat. Cincuenta segundos después la línea EGIDA tiene otro aspecto. Cinco minutos después hay una ambulancia en el patio. Una hora después Murat está en el Hospital Praski, en plena operación de sutura del tendón flexor. Cuatro horas después el jefe de turno Piotr cierra el acta de determinación de circunstancias y causas del accidente, y Mykoła, ya fuera de turno, la firma como testigo en presencia de Marek y del inspector de SSL de la planta.
 
 Entre las 14:19:12 y las 14:19:26 ocurrió lo que esta lección te va a enseñar: el procedimiento tras un accidente, conducido por un operador independiente como **primer testigo, primer socorrista y primer documentador**. Hoy vas a ver ese procedimiento de principio a fin, del grito a la firma del acta.
 
@@ -43,7 +43,7 @@ El orden es rígido, como en el procedimiento STOP de la l4, pero aquí en cada 
 
 **Paso 5: aseguramiento del lugar.** Hasta la llegada del jefe de turno y del inspector de SSL de la planta (en EGIDA es Jarosław, llega en 10 minutos desde la alarma) **no mueves nada** más allá de lo imprescindible para los primeros auxilios. El lugar debe llegar al acta en su estado real.
 
-Rustam ejecutó los cinco pasos en 51 segundos hasta la llegada de Marek, cinco minutos más hasta la ambulancia, veinte minutos más hasta Jarosław. Vas a ver cada paso en su boca y sus manos.
+Mykoła ejecutó los cinco pasos en 51 segundos hasta la llegada de Marek, cinco minutos más hasta la ambulancia, veinte minutos más hasta Jarosław. Vas a ver cada paso en su boca y sus manos.
 
 ::: warning
 El error más frecuente del primer testigo: **se salta el paso 1**. Corre hacia el compañero sin mirar la máquina que funciona al lado. En las estadísticas de la PIP para 2020 a 2024 en plantas de transformación de la madera, uno de cada tres accidentes con segundo implicado se produce así: el primer socorrista se hiere a sí mismo cuando corre a ayudar. El operador independiente **tiene que** congelarse tres segundos, evaluar la escena, y solo después moverse. Tres segundos no son un retraso del rescate, son la condición de su existencia.
@@ -51,21 +51,21 @@ El error más frecuente del primer testigo: **se salta el paso 1**. Corre hacia 
 
 ### Paso 1: tres segundos tras el grito
 
-14:19:12. Rustam ya sabe de dónde viene el grito. Pero no se mueve enseguida. Mira la P3: lote 57, la cinta baja, 19 rollizos hechos, el 20 es el último. La sierra funciona, pero es **su** sierra, bajo su control. Aprieta el pulsador rojo. La cinta empieza a frenar, 4 a 6 segundos.
+14:19:12. Mykoła ya sabe de dónde viene el grito. Pero no se mueve enseguida. Mira la P3: lote 57, la cinta baja, 19 rollizos hechos, el 20 es el último. La sierra funciona, pero es **su** sierra, bajo su control. Aprieta el pulsador rojo. La cinta empieza a frenar, 4 a 6 segundos.
 
 A la vez mira la P2. Ve a Murat de pie, inclinado, la manga de la cazadora en el antebrazo derecho húmeda y roja. La sierra circular **sigue funcionando**. Murat está a tres metros del disco, pero no maneja la máquina. En la rampa de salida hay una escuadría de madera, probable origen del incidente (rebote, *kickback* en inglés, „odbicie" en polaco).
 
 Tres segundos. Evaluación: P3 segura (su pulsador funcionó). P2 peligrosa (disco en marcha, Murat sangra). Sin aceite, sin cristales, sin corriente derramada. Paso libre de P3 a P2: cinco metros directos.
 
-14:19:15. Rustam se mueve. Wahan, en la rampa de salida de la P3, se gira, ve a Rustam corriendo, ve la espalda de Murat, entiende sin palabras polacas. Se acerca al pulpito de la P3, baja el interruptor general (Rustam le enseñó dónde estaba el lunes, l8 de la semana pasada), se queda junto a la P3 para que nadie intente arrancarla.
+14:19:15. Mykoła se mueve. Wasyl, en la rampa de salida de la P3, se gira, ve a Mykoła corriendo, ve la espalda de Murat, entiende sin palabras polacas. Se acerca al pulpito de la P3, baja el interruptor general (Mykoła le enseñó dónde estaba el lunes, l8 de la semana pasada), se queda junto a la P3 para que nadie intente arrancarla.
 
 ::: example
-Rustam no perdió dos medios segundos „hablándole a Wahan". Wahan **solo** entendió por el gesto y el contexto. Un buen instructivo de puesto (l8) construye un equipo capaz de actuar sin órdenes en situaciones agudas. Rustam le había mostrado antes dónde está el interruptor general y qué significa „toda la máquina muerta". Hoy eso se devolvió en tres segundos. Wahan es ayudante M1 en su tercera semana, y ya ejecutó un reflejo que en el aserradero de antes se le pedía a un operador con año y medio de experiencia.
+Mykoła no perdió dos medios segundos „hablándole a Wasyl". Wasyl **solo** entendió por el gesto y el contexto. Un buen instructivo de puesto (l8) construye un equipo capaz de actuar sin órdenes en situaciones agudas. Mykoła le había mostrado antes dónde está el interruptor general y qué significa „toda la máquina muerta". Hoy eso se devolvió en tres segundos. Wasyl es ayudante M1 en su tercera semana, y ya ejecutó un reflejo que en el aserradero de antes se le pedía a un operador con año y medio de experiencia.
 :::
 
 ### Paso 2: STOP en la P2
 
-14:19:18. Rustam está junto a la P2. Todavía no se acerca a Murat. Primero el disco. El pulpito está a la izquierda, golpea la seta roja de emergencia con la palma (no con el dedo, con toda la mano, como le enseñaron en M1 l6). En la P2 la frenada del disco de 500 mm desde 52 m/s hasta cero lleva unos 4 segundos, con freno electromagnético activado por el paro de emergencia. En ese tiempo ejecuta un LOTO exprés:
+14:19:18. Mykoła está junto a la P2. Todavía no se acerca a Murat. Primero el disco. El pulpito está a la izquierda, golpea la seta roja de emergencia con la palma (no con el dedo, con toda la mano, como le enseñaron en M1 l6). En la P2 la frenada del disco de 500 mm desde 52 m/s hasta cero lleva unos 4 segundos, con freno electromagnético activado por el paro de emergencia. En ese tiempo ejecuta un LOTO exprés:
 
 - Interruptor general abajo (1 segundo).
 - Candado LOTO personal (todavía de la planta, el suyo propio llega el próximo viernes): coge un candado libre del gancho del pulpito, lo coloca. Es un **LOTO simplificado para situación aguda**: la placa se rellenará después, el candado ya bloquea físicamente.
@@ -74,41 +74,41 @@ Rustam no perdió dos medios segundos „hablándole a Wahan". Wahan **solo** en
 La máquina está **muerta** (terminología de M2 l5: apagada, desconectada, bloqueada, aunque todavía no haya placa). 14:19:24. Doce segundos desde el grito.
 
 ::: info
-En situación aguda se admite el **LOTO simplificado**: candado del parque de la planta (sin nombre), placa añadida después. Condición: alguien presente físicamente junto a la máquina bloqueada (Rustam junto a la P2, Wahan junto a la P3), para que nadie intente arrancarla antes del etiquetado completo. En un accidente tiene prioridad la víctima, no el papel. El papel vuelve al completo en el paso 5.
+En situación aguda se admite el **LOTO simplificado**: candado del parque de la planta (sin nombre), placa añadida después. Condición: alguien presente físicamente junto a la máquina bloqueada (Mykoła junto a la P2, Wasyl junto a la P3), para que nadie intente arrancarla antes del etiquetado completo. En un accidente tiene prioridad la víctima, no el papel. El papel vuelve al completo en el paso 5.
 :::
 
 ### Paso 3: primeros auxilios (adaptación de M1 l8)
 
-14:19:24. Rustam se arrodilla junto a Murat. Murat está sentado, con la espalda apoyada en la pata de la rampa, el brazo derecho sobre la rodilla izquierda, se sujeta el antebrazo con la mano izquierda. Hemorragia evidente: mancha roja en la cazadora, gotitas en el suelo. Consciente, habla en polaco despacio:
+14:19:24. Mykoła se arrodilla junto a Murat. Murat está sentado, con la espalda apoyada en la pata de la rampa, el brazo derecho sobre la rodilla izquierda, se sujeta el antebrazo con la mano izquierda. Hemorragia evidente: mancha roja en la cazadora, gotitas en el suelo. Consciente, habla en polaco despacio:
 
 > **Murat:** „Escuadría golpear. Yo cortar. No puedo mover dedo."
 
-Rustam no diagnostica. No le quita la manga. No le sube la cazadora. Primera regla de M1 l8: **una herida que no se toca es una herida que no sangra más**. En su lugar:
+Mykoła no diagnostica. No le quita la manga. No le sube la cazadora. Primera regla de M1 l8: **una herida que no se toca es una herida que no sangra más**. En su lugar:
 
 1. **Evaluación de la consciencia.** Murat habla con frases completas. Escala AVPU (Alert, Voice, Pain, Unresponsive): „A" (alert). Respira con normalidad, cara pálida pero no gris.
 2. **Evaluación de la hemorragia.** Moderada, continua, rojo oscuro. Probablemente venosa, no arterial (esta saldría a chorros rítmicos). No cede sola.
-3. **Compresión directa.** Rustam saca el apósito personal de reserva del bolsillo (EGIDA entrega un botiquín personal a cada operador independiente; lo recibió el lunes). Lo aplica sobre el punto de la hemorragia, por encima de la cazadora, presiona con la palma. No retira la cazadora. Con firmeza, pero no demasiado fuerte, por si hay fractura ósea.
+3. **Compresión directa.** Mykoła saca el apósito personal de reserva del bolsillo (EGIDA entrega un botiquín personal a cada operador independiente; lo recibió el lunes). Lo aplica sobre el punto de la hemorragia, por encima de la cazadora, presiona con la palma. No retira la cazadora. Con firmeza, pero no demasiado fuerte, por si hay fractura ósea.
 4. **Elevación de la extremidad.** „Levanta la mano alto, por encima del corazón, despacio." Murat la levanta. La hemorragia se ralentiza.
-5. **Observación.** Rustam repite: „Respira tranquilo. Mírame. Háblame. ¿Cómo te llamas?" „Murat Kaya." „¿De dónde eres?" „De Gaziantep." „¿Qué estabas haciendo?" „Escuadría de roble, rebote del disco, se ha venido atrás, me ha golpeado la mano, me he cortado con la arista."
+5. **Observación.** Mykoła repite: „Respira tranquilo. Mírame. Háblame. ¿Cómo te llamas?" „Murat Kaya." „¿De dónde eres?" „De Gaziantep." „¿Qué estabas haciendo?" „Escuadría de roble, rebote del disco, se ha venido atrás, me ha golpeado la mano, me he cortado con la arista."
 
 ::: tip
-La pregunta de Rustam sobre el nombre, el origen, la causa no es curiosidad. Es **control de consciencia por medio de la conversación**. Mientras Murat responda con frases completas y sepa quién es, de dónde viene y qué ocurrió, su cerebro está oxigenado y no hay shock. Si las respuestas pasan a ser palabras sueltas, incompletas, ilógicas, es la primera señal de shock hipovolémico (por pérdida de sangre), que exige posición antishock (tumbado de espaldas, piernas elevadas 30 cm). En M1 l8 lo practicaste sobre un maniquí. Hoy es sobre una persona real.
+La pregunta de Mykoła sobre el nombre, el origen, la causa no es curiosidad. Es **control de consciencia por medio de la conversación**. Mientras Murat responda con frases completas y sepa quién es, de dónde viene y qué ocurrió, su cerebro está oxigenado y no hay shock. Si las respuestas pasan a ser palabras sueltas, incompletas, ilógicas, es la primera señal de shock hipovolémico (por pérdida de sangre), que exige posición antishock (tumbado de espaldas, piernas elevadas 30 cm). En M1 l8 lo practicaste sobre un maniquí. Hoy es sobre una persona real.
 :::
 
 ### Paso 4: aviso a los servicios (112)
 
-14:19:50. Rustam con una mano presiona el apósito, con la otra saca el teléfono de servicio (EGIDA entrega un Nokia básico, batería para una semana). Marca el 112. Cuatro sonidos. Descuelga la operadora.
+14:19:50. Mykoła con una mano presiona el apósito, con la otra saca el teléfono de servicio (EGIDA entrega un Nokia básico, batería para una semana). Marca el 112. Cuatro sonidos. Descuelga la operadora.
 
 > **Operadora:** „Número de emergencias 112, ¿con quién hablo?"
-> **Rustam:** „Rustam Nazarov, aserradero EGIDA, calle Leśna 15, Janki junto a Varsovia. Accidente con una máquina de aserradero. Una persona herida, hemorragia en el antebrazo derecho, herida cortante por madera rebotada por el disco. Consciente, respira, habla. Yo estoy junto a ella, comprimo la herida."
+> **Mykoła:** „Mykoła Hrycenko, aserradero EGIDA, calle Leśna 15, Janki junto a Varsovia. Accidente con una máquina de aserradero. Una persona herida, hemorragia en el antebrazo derecho, herida cortante por madera rebotada por el disco. Consciente, respira, habla. Yo estoy junto a ella, comprimo la herida."
 > **Operadora:** „¿Están ustedes en la calle Leśna 15?"
-> **Rustam:** „Sí, nave principal, entrada por la rampa oeste, los recibirá el inspector de SSL Jarosław Wierzchowski, lo llamaré en cuanto colguemos."
+> **Mykoła:** „Sí, nave principal, entrada por la rampa oeste, los recibirá el inspector de SSL Jarosław Wierzchowski, lo llamaré en cuanto colguemos."
 > **Operadora:** „Ambulancia en camino, siete minutos, tiempo estimado. Permanezca en la línea, por favor."
 
-Rustam permanece en la línea. El apósito empieza a empaparse, pero despacio.
+Mykoła permanece en la línea. El apósito empieza a empaparse, pero despacio.
 
 ::: example
-El formato del aviso de Rustam: **siete elementos en una frase**: (1) quién llama, con nombre, (2) ubicación, con dirección completa, (3) tipo de suceso („accidente con una máquina de aserradero"), (4) número de víctimas, (5) tipo de lesiones con ubicación, (6) estado de la víctima (consciente, respira, habla), (7) qué hace quien llama. El operador del 112 tiene su guion, pero si quien llama aporta esos siete elementos de forma espontánea, el tiempo del aviso se reduce de dos minutos a treinta segundos. En una hemorragia venosa cada segundo significa unos 50 a 100 ml menos de sangre.
+El formato del aviso de Mykoła: **siete elementos en una frase**: (1) quién llama, con nombre, (2) ubicación, con dirección completa, (3) tipo de suceso („accidente con una máquina de aserradero"), (4) número de víctimas, (5) tipo de lesiones con ubicación, (6) estado de la víctima (consciente, respira, habla), (7) qué hace quien llama. El operador del 112 tiene su guion, pero si quien llama aporta esos siete elementos de forma espontánea, el tiempo del aviso se reduce de dos minutos a treinta segundos. En una hemorragia venosa cada segundo significa unos 50 a 100 ml menos de sangre.
 :::
 
 ### ¿112 o 999?
@@ -119,25 +119,25 @@ En un aserradero **usa el 112**: un suceso con máquina suele exigir avisar a la
 
 ### Paso 5: aseguramiento del lugar
 
-14:20:50. La operadora del 112 libera la línea. Rustam llama a la extensión 214 (Marek).
+14:20:50. La operadora del 112 libera la línea. Mykoła llama a la extensión 214 (Marek).
 
-> **Rustam:** „Marek, accidente en la P2, Murat, hemorragia en la mano, ambulancia en camino, 7 minutos. Ven."
+> **Mykoła:** „Marek, accidente en la P2, Murat, hemorragia en la mano, ambulancia en camino, 7 minutos. Ven."
 
-Marek cuelga sin palabras (Rustam oye „voy" y un clic). Cuarenta segundos después está junto a la P2.
+Marek cuelga sin palabras (Mykoła oye „voy" y un clic). Cuarenta segundos después está junto a la P2.
 
-> **Marek:** „Bien. Rustam, te quedas con Murat, comprime. Yo voy a por Wahan, después a la entrada, a recibir la ambulancia. Wahan, te quedas junto a la P3, no dejas acercarse a nadie ni a la P2 ni a la P3. A nadie."
+> **Marek:** „Bien. Mykoła, te quedas con Murat, comprime. Yo voy a por Wasyl, después a la entrada, a recibir la ambulancia. Wasyl, te quedas junto a la P3, no dejas acercarse a nadie ni a la P2 ni a la P3. A nadie."
 
-Marek se va. Rustam se queda. 14:22, la hemorragia se ralentiza, Murat responde. Rustam pregunta en voz baja: „¿Tienes familia en Polonia?" Murat: „Mujer, hijo, dos. Varsovia Praga." Rustam: „Llamaremos desde la ambulancia, te lo prometo."
+Marek se va. Mykoła se queda. 14:22, la hemorragia se ralentiza, Murat responde. Mykoła pregunta en voz baja: „¿Tienes familia en Polonia?" Murat: „Mujer, hijo, dos. Varsovia Praga." Mykoła: „Llamaremos desde la ambulancia, te lo prometo."
 
-14:25:32 la ambulancia entra en el patio. Marek guía a los sanitarios por la nave. Uno le dice a Rustam: „buen trabajo, colega, puedes soltar." Rustam suelta la compresión. El sanitario coloca un apósito táctico, pone una vía, comprueba el pulso, coloca las camillas. 14:33 la ambulancia se va con Murat al Hospital Praski.
+14:25:32 la ambulancia entra en el patio. Marek guía a los sanitarios por la nave. Uno le dice a Mykoła: „buen trabajo, colega, puedes soltar." Mykoła suelta la compresión. El sanitario coloca un apósito táctico, pone una vía, comprueba el pulso, coloca las camillas. 14:33 la ambulancia se va con Murat al Hospital Praski.
 
-En el patio se quedan Marek, Rustam, Wahan, el trabajador de la rampa (Zbyszek) y otros operadores que llegan poco a poco. Marek reacciona de inmediato:
+En el patio se quedan Marek, Mykoła, Wasyl, el trabajador de la rampa (Zbyszek) y otros operadores que llegan poco a poco. Marek reacciona de inmediato:
 
-> **Marek:** „Todos vuelven a sus puestos. Rustam se queda junto a la P2, Wahan junto a la P3, yo voy a por Piotr y Jarosław. No toquéis **nada** en la P2. Ni la escuadría, ni la sangre del suelo, ni el pulpito, ni la sierra. Ni una sola cosa. ¿Entendido? Jarosław vendrá enseguida con la cámara."
+> **Marek:** „Todos vuelven a sus puestos. Mykoła se queda junto a la P2, Wasyl junto a la P3, yo voy a por Piotr y Jarosław. No toquéis **nada** en la P2. Ni la escuadría, ni la sangre del suelo, ni el pulpito, ni la sierra. Ni una sola cosa. ¿Entendido? Jarosław vendrá enseguida con la cámara."
 
-Rustam mira la P2. Una escuadría de roble 100 × 100 × 2400 está en la rampa, un extremo con marca fresca (ahí cogió el rebote), en una arista, sangre de Murat. En el suelo tres gotas. El candado LOTO cuelga del interruptor general. Sierra detenida, disco en el tope, motor frío.
+Mykoła mira la P2. Una escuadría de roble 100 × 100 × 2400 está en la rampa, un extremo con marca fresca (ahí cogió el rebote), en una arista, sangre de Murat. En el suelo tres gotas. El candado LOTO cuelga del interruptor general. Sierra detenida, disco en el tope, motor frío.
 
-**Rustam no toca nada.** Se sienta en un taburete, mira. El lugar en el estado previo al accidente (reducido solo por la ausencia de Murat) es ahora **material del acta** conforme al art. 234 § 1 del Código de Trabajo polaco.
+**Mykoła no toca nada.** Se sienta en un taburete, mira. El lugar en el estado previo al accidente (reducido solo por la ausencia de Murat) es ahora **material del acta** conforme al art. 234 § 1 del Código de Trabajo polaco.
 
 ::: warning
 El reflejo más peligroso del segundo testigo: „ordenar". Levantar la escuadría, limpiar la sangre, tirar el apósito, desbloquear la máquina („que mañana hay que trabajar"). **Ninguna** de esas cosas está permitida. El acta exige estado real, fotografías, mediciones. El empleador conserva el acta durante **10 años** (art. 234 § 3 del Código de Trabajo polaco). Si dentro de dos años la víctima o su familia acuden a un tribunal con una reclamación, y el acta se apoya en un lugar „ordenado", la planta perderá el caso aunque formalmente no tuviera culpa. El lugar del accidente es prueba. La prueba no se limpia.
@@ -178,11 +178,11 @@ El art. 209¹ § 1 dice que el empleador está obligado a designar trabajadores 
 > „1. la prestación de primeros auxilios,
 > 2. la ejecución de acciones en el ámbito de la lucha contra incendios y la evacuación de los trabajadores."
 
-En EGIDA, la lista cuelga en el vestuario y en el panel junto a cada sierra. Hoy son **17 personas**: todos los capataces, todos los jefes de turno, los jefes, 8 operadores independientes con curso. Rustam figura desde el lunes (el 17º), porque hizo el curso en M1 l8.
+En EGIDA, la lista cuelga en el vestuario y en el panel junto a cada sierra. Hoy son **17 personas**: todos los capataces, todos los jefes de turno, los jefes, 8 operadores independientes con curso. Mykoła figura desde el lunes (el 17º), porque hizo el curso en M1 l8.
 
 Si en tu aserradero no tienes curso, **no eres** formalmente trabajador designado para primeros auxilios. Pero la regla moral en el aserradero polaco es otra: **ayudas** si eres el que está más cerca. La ley no castiga por ayudar en situación de riesgo para la vida (el art. 162 del Código penal polaco penaliza la **falta** de ayuda, no el acto de prestarla). Tu decisión de prestar ayuda no es „extralimitación de funciones", aunque no estés en la lista formal.
 
-En EGIDA, desde M3 se espera que tengas curso de primeros auxilios. Quienes no lo tienen se derivan al curso en el segundo mes de M3 (para la cohorte de Rustam: mayo de 2026). Con certificado de M1, la actualización suele ser cada tres años.
+En EGIDA, desde M3 se espera que tengas curso de primeros auxilios. Quienes no lo tienen se derivan al curso en el segundo mes de M3 (para la cohorte de Mykoła: mayo de 2026). Con certificado de M1, la actualización suele ser cada tres años.
 
 ### Acta de determinación de circunstancias y causas del accidente
 
@@ -191,31 +191,31 @@ En EGIDA, desde M3 se espera que tengas curso de primeros auxilios. Quienes no l
 El acta contiene, entre otras cosas:
 
 1. **Datos identificativos:** apellido de la víctima, fecha, hora, lugar.
-2. **Datos de los testigos:** Rustam primero, Wahan segundo, Marek tercero.
+2. **Datos de los testigos:** Mykoła primero, Wasyl segundo, Marek tercero.
 3. **Descripción del suceso:** qué ocurrió, cómo ocurrió, en qué orden.
 4. **Causas:** las determina el equipo de investigación (Jarosław + delegado sindical + representante del empleador, conforme al Reglamento del Consejo de Ministros de 1 de julio de 2009).
 5. **Medidas preventivas.**
 6. **Anexos:** fotografías, mediciones, instructivo del puesto P2, ficha de formación de Murat.
 
-Jarosław hace fotografías. Mide: distancia de la escuadría al disco, ángulo de giro, posición del empujador. Tras 18 minutos se acerca a Rustam:
+Jarosław hace fotografías. Mide: distancia de la escuadría al disco, ángulo de giro, posición del empujador. Tras 18 minutos se acerca a Mykoła:
 
-> **Jarosław:** „Rustam, quiero tu declaración por escrito. Rellénala con tus palabras: qué viste, qué hiciste, qué oíste. Breve, hechos, sin interpretaciones de causas. Tienes veinte minutos."
+> **Jarosław:** „Mykoła, quiero tu declaración por escrito. Rellénala con tus palabras: qué viste, qué hiciste, qué oíste. Breve, hechos, sin interpretaciones de causas. Tienes veinte minutos."
 
-Rustam se sienta en el pulpito de la P3 (Wahan al lado, asiste). Escribe:
+Mykoła se sienta en el pulpito de la P3 (Wasyl al lado, asiste). Escribe:
 
-> **Declaración de testigo. Rustam Nazarov, operador de la P3. Fecha: 2026-04-24. Hora del suceso: 14:19.**
-> **A las 14:19:12 oí un grito desde la P2 (a cinco metros de mí). Miré hacia la P2, vi al operador Murat Kaya de pie, sujetando el antebrazo derecho con la mano izquierda, la manga de la cazadora roja. La sierra P2 funcionaba. Apreté el pulsador rojo de la P3, la cinta empezó a frenar. Señalé a Wahan Petrosjan que iba a la P2. Wahan tomó la P3 (interruptor general abajo).**
+> **Declaración de testigo. Mykoła Hrycenko, operador de la P3. Fecha: 2026-04-24. Hora del suceso: 14:19.**
+> **A las 14:19:12 oí un grito desde la P2 (a cinco metros de mí). Miré hacia la P2, vi al operador Murat Kaya de pie, sujetando el antebrazo derecho con la mano izquierda, la manga de la cazadora roja. La sierra P2 funcionaba. Apreté el pulsador rojo de la P3, la cinta empezó a frenar. Señalé a Wasyl Melnyk que iba a la P2. Wasyl tomó la P3 (interruptor general abajo).**
 > **Corrí hacia la P2. La sierra circular funcionaba. Apreté con la palma la seta de emergencia del pulpito de la P2 (14:19:18). Bajé el interruptor general (14:19:20). Coloqué el candado LOTO de la planta (14:19:23).**
 > **Me acerqué a Murat. Evaluación: consciente, respira, habla. Hemorragia en el antebrazo derecho, manga húmeda. Apliqué apósito personal por encima de la cazadora (no la retiré), comprimí. Murat levantó la extremidad. La hemorragia se ralentizó.**
 > **Llamé al 112 (14:19:50). Informé de la dirección, tipo de suceso, número de víctimas, estado. La operadora confirmó ambulancia en 7 minutos. Llamé al capataz M. Kowalski (14:20:50). Marek llegó en 40 segundos.**
 > **La ambulancia llegó a las 14:25:32. Los sanitarios se hicieron cargo. La ambulancia se marchó a las 14:33.**
 > **No realicé ninguna acción que modificase la posición de las herramientas, de la sierra, de la escuadría o de otros elementos del lugar del suceso, salvo la colocación del candado LOTO y del apósito.**
-> **Firma: Rustam Nazarov. Lugar y fecha: Janki, 2026-04-24, 15:07.**
+> **Firma: Mykoła Hrycenko. Lugar y fecha: Janki, 2026-04-24, 15:07.**
 
-Rustam lo lee dos veces, corrige dos erratas, se lo entrega. Jarosław lo añade al acta como Anexo 1.
+Mykoła lo lee dos veces, corrige dos erratas, se lo entrega. Jarosław lo añade al acta como Anexo 1.
 
 ::: info
-Fíjate en la última línea: „**no realicé ninguna acción que modificase la posición de las herramientas, de la sierra, de la escuadría**". Es la **clave probatoria**. Sin ella, alguien podría preguntar más tarde si Rustam desplazó la escuadría, levantó el empujador, tocó el disco. Con ella queda claro: el estado del lugar a las 14:42 (cuando Jarosław fotografiaba) era el estado a las 14:19:12 (cuando Murat gritó), solo aumentado en el apósito y el candado LOTO. Es la declaración del primer testigo que sabe que asegura la integridad probatoria del lugar.
+Fíjate en la última línea: „**no realicé ninguna acción que modificase la posición de las herramientas, de la sierra, de la escuadría**". Es la **clave probatoria**. Sin ella, alguien podría preguntar más tarde si Mykoła desplazó la escuadría, levantó el empujador, tocó el disco. Con ella queda claro: el estado del lugar a las 14:42 (cuando Jarosław fotografiaba) era el estado a las 14:19:12 (cuando Murat gritó), solo aumentado en el apósito y el candado LOTO. Es la declaración del primer testigo que sabe que asegura la integridad probatoria del lugar.
 :::
 
 ### Cuándo no prestas primeros auxilios
@@ -232,23 +232,23 @@ Hay situaciones en las que tus primeros auxilios están **limitados** o son **in
 
 ### Tras la salida de la ambulancia
 
-14:33 la ambulancia se va. Rustam, Wahan, Marek, Jarosław, Piotr y Bartek se quedan en la nave. Jarosław termina la fotografía y las mediciones a las 15:00. De 15:00 a 15:40 se redacta el acta preliminar. A las 15:40 convoca a todos los testigos, lee el acta, pide complementos.
+14:33 la ambulancia se va. Mykoła, Wasyl, Marek, Jarosław, Piotr y Bartek se quedan en la nave. Jarosław termina la fotografía y las mediciones a las 15:00. De 15:00 a 15:40 se redacta el acta preliminar. A las 15:40 convoca a todos los testigos, lee el acta, pide complementos.
 
-Rustam añade dos frases (había visto un **empujador** tirado en el suelo, puede tener importancia para el análisis de causas). Marek añade una frase sobre el estado de la P2 antes del turno (pruebas de la mañana, acta en archivo). Wahan no añade nada (no vio el suceso, estaba girado hacia la rampa).
+Mykoła añade dos frases (había visto un **empujador** tirado en el suelo, puede tener importancia para el análisis de causas). Marek añade una frase sobre el estado de la P2 antes del turno (pruebas de la mañana, acta en archivo). Wasyl no añade nada (no vio el suceso, estaba girado hacia la rampa).
 
-A las 16:10 el acta preliminar queda cerrada. Cada testigo firma. La firma de Rustam: „Rustam Nazarov, operador de la P3, primer testigo, 2026-04-24, 16:10".
+A las 16:10 el acta preliminar queda cerrada. Cada testigo firma. La firma de Mykoła: „Mykoła Hrycenko, operador de la P3, primer testigo, 2026-04-24, 16:10".
 
-El turno de Rustam acabó formalmente a las 15:00, pero trabajó como testigo hasta las 16:10. Ese tiempo **se cuenta como tiempo de trabajo** conforme al art. 234 § 1 („determinación de las circunstancias"); los costes los asume la planta (art. 234 § 4). Cobra por esos 70 minutos la tarifa normal, sin horas extras (la determinación de circunstancias tiene carácter especial, no es „trabajo productivo"). Lo mismo Wahan y Marek.
+El turno de Mykoła acabó formalmente a las 15:00, pero trabajó como testigo hasta las 16:10. Ese tiempo **se cuenta como tiempo de trabajo** conforme al art. 234 § 1 („determinación de las circunstancias"); los costes los asume la planta (art. 234 § 4). Cobra por esos 70 minutos la tarifa normal, sin horas extras (la determinación de circunstancias tiene carácter especial, no es „trabajo productivo"). Lo mismo Wasyl y Marek.
 
 ### Los días siguientes
 
 **Sábado, 2026-04-25.** Jarosław contacta con el médico responsable en el Hospital Praski. Información: herida cortante en el antebrazo, profundidad 2,5 cm, daño en dos tendones flexores, suturados, rehabilitación de 6 a 8 semanas. Calificación preliminar: accidente „grave" según el Reglamento del Consejo de Ministros. Jarosław avisa sin demora a la PIP (art. 234 § 2 del Código de Trabajo polaco) y al fiscal. Notificación electrónica, confirmación en una hora.
 
-**Lunes, 2026-04-27.** Un inspector de la PIP viene de inspección. Revisa el acta, habla con Jarosław, Marek, Rustam (15 minutos, confirmación de la declaración). Comprueba el instructivo del puesto P2, estado de las protecciones del disco, ficha de formación de Murat, ficha de la campaña de roble. Planta conforme, instructivo actualizado, formación vigente (vence en junio de 2026). Acta de inspección sin mandatos.
+**Lunes, 2026-04-27.** Un inspector de la PIP viene de inspección. Revisa el acta, habla con Jarosław, Marek, Mykoła (15 minutos, confirmación de la declaración). Comprueba el instructivo del puesto P2, estado de las protecciones del disco, ficha de formación de Murat, ficha de la campaña de roble. Planta conforme, instructivo actualizado, formación vigente (vence en junio de 2026). Acta de inspección sin mandatos.
 
 **Martes, 2026-04-28.** El equipo de investigación cierra el acta. Conclusión: rebote provocado por técnica errónea de empuje (Murat empujaba con la mano porque el empujador estaba en el suelo). Causa raíz: ergonomía del puesto (empujador difícil de coger con guantes de algodón, se cae del soporte). Medidas: sustitución por modelo con enganche de mosquetón (coste 1200 PLN, dos semanas), formación adicional con énfasis en el uso del empujador.
 
-**Jueves, 2026-04-30.** Murat vuelve al trabajo, a un puesto administrativo (no puede manejar la sierra durante seis semanas). Visita la nave, se acerca a Rustam, le da la mano izquierda (la derecha en una férula). „Gracias. Mi mujer te invita a comer, el sábado." Rustam asiente.
+**Jueves, 2026-04-30.** Murat vuelve al trabajo, a un puesto administrativo (no puede manejar la sierra durante seis semanas). Visita la nave, se acerca a Mykoła, le da la mano izquierda (la derecha en una férula). „Gracias. Mi mujer te invita a comer, el sábado." Mykoła asiente.
 
 ::: tip
 En un aserradero polaco, un accidente grave suele ser un punto de giro para toda la brigada. Durante una semana todos trabajan con más cuidado, actualizan los instructivos, vuelven al curso de primeros auxilios. No es teatro. Es la reacción natural de una planta madura ante un suceso que casi-pero-no-del-todo les ocurrió a cada uno. En la l8 de esta semana volverás al accidente de hoy como ejemplo de por qué un buen instructivo ahorra una mano.
@@ -276,7 +276,7 @@ Aviso al 112: siete elementos en una frase. Los segundos cuentan.
 
 Aseguramiento del lugar: no muevas nada hasta Jarosław. La última línea de la declaración: „no modifiqué la posición de nada salvo...". Clave probatoria.
 
-Rustam hizo hoy todo eso. Del grito a la firma del acta, 106 minutos. En el registro de la PIP era el único primer testigo. Ese estatus quedará hasta 2036.
+Mykoła hizo hoy todo eso. Del grito a la firma del acta, 106 minutos. En el registro de la PIP era el único primer testigo. Ese estatus quedará hasta 2036.
 
 Mañana, en l6, pausa en los temas pesados. Volvemos al rollizo: evaluación de riesgos en un nuevo puesto. Pero la lección de hoy se quedará contigo. Cada vez que entres en la nave y veas a Murat junto a su máquina (vuelve a tiempo completo en junio), pensarás en las 14:19:12. Y sabrás qué harías si se repitiese.
 
@@ -373,8 +373,8 @@ El lunes, en l6, pasamos al bloque técnico: evaluación de riesgos en un nuevo 
 
 ## Notas para el formador
 
-- **Ritmo 120 min (propuesto):** 10 min Introducción + Objetivos; 15 min cinco pasos (pizarra, tarjetas en orden); 25 min escena de Rustam de 14:19:12 a 14:25:32 (lectura, parada por paso, debate); 15 min art. 234 del Código de Trabajo polaco (cita, comentario sobre conservación de 10 años y aviso a la PIP); 15 min art. 209¹ y trabajadores designados (debate: ¿quién en tu grupo tiene el curso?); 15 min aseguramiento del lugar y acta (papel del testigo, qué se puede y qué no); 10 min situaciones especiales (corriente, columna, hemorragia arterial, amputación, breve, detalle en M1 l8); 10 min términos y resumen; 5 min anuncio de l6.
-- **Trampa pedagógica n.º 1:** la escena de Rustam es emocionalmente intensa. Los cursillistas migrantes pueden tener experiencias propias de accidentes (en Polonia o en sus países de origen). Tras la escena, haz una **pausa de cinco minutos** de café o agua. Deja que la emoción baje. Después vuelve a la parte jurídica, más tranquila.
+- **Ritmo 120 min (propuesto):** 10 min Introducción + Objetivos; 15 min cinco pasos (pizarra, tarjetas en orden); 25 min escena de Mykoła de 14:19:12 a 14:25:32 (lectura, parada por paso, debate); 15 min art. 234 del Código de Trabajo polaco (cita, comentario sobre conservación de 10 años y aviso a la PIP); 15 min art. 209¹ y trabajadores designados (debate: ¿quién en tu grupo tiene el curso?); 15 min aseguramiento del lugar y acta (papel del testigo, qué se puede y qué no); 10 min situaciones especiales (corriente, columna, hemorragia arterial, amputación, breve, detalle en M1 l8); 10 min términos y resumen; 5 min anuncio de l6.
+- **Trampa pedagógica n.º 1:** la escena de Mykoła es emocionalmente intensa. Los cursillistas migrantes pueden tener experiencias propias de accidentes (en Polonia o en sus países de origen). Tras la escena, haz una **pausa de cinco minutos** de café o agua. Deja que la emoción baje. Después vuelve a la parte jurídica, más tranquila.
 - **Trampa pedagógica n.º 2:** la sección „Lo que no hace el operador independiente" puede leerse mal como „no eres importante". No va de eso. Va de **fronteras del papel**, que te protegen a ti y a la víctima. El buen operador sabe dónde termina su papel y no sustituye a los profesionales. Los menos preparados intentan ser todo a la vez y no ayudan bien a ninguna parte.
 - **Trampa pedagógica n.º 3:** „asegurar el lugar" puede leerse como „frialdad con el compañero que sangra". **No es.** Es respeto por la verdad del acta, que dentro de tres años puede salvar a la familia de Murat en un caso de indemnización, si la planta tuvo culpa, o proteger a la planta si estaba sin culpa. Un lugar intacto es **prueba** que defiende a ambas partes. Un lugar limpio abre la puerta a sospechas.
 - **Vínculo con M1 l8 (primeros auxilios, amputación):** propón abrir el material antiguo de M1 l8 por la tarde. La lección de hoy es continuación, desde otra perspectiva (líder en vez de ejecutor). En M1 aprendiste a rescatar, en M3 aprendes a dirigir el rescate.

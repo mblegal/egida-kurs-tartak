@@ -48,11 +48,11 @@ Progi klasy A sosny (skrót z M2 T2 l5):
 - Skręt włókien do 5%, odchyłka od prostoliniowości do 4 mm/mb
 - Bez pleśni, bez sinicy, bez ciemnienia rdzenia
 
-**Wskazówka analityczna (dla trenera)**. Aktywują się: **klasy A-D z l5 T2**, **reklasyfikacja z l8 T3**, **zasada „certyfikacja bez dowodu = brak certyfikacji" z l3 T4 Blok 1**. Pakiet NIE jest klasą A (3 deski z sękami pękniętymi >12 mm łamią próg + 2 pęknięcia >50 mm/mb). Opcje: (a) odbieram jako klasę B + zapis w dzienniku + update TartakERP + wpis w rejestrze dostaw; (b) eskaluję do brygadzisty w formacie 4W przed odbiorem bo różnica cenowa 15-25 zł/deska × 60 desek = 900-1500 zł różnicy. Operator junior NIE odbiera samodzielnie różnicy klasowej, eskaluje. Format 4W: „Marek, Hai, plac kłód, 8:30, pakiet SO-SW-A-260420-019 wady przekroczone klasy A, proszę o decyzję odbioru".
+**Wskazówka analityczna (dla trenera)**. Aktywują się: **klasy A-D z l5 T2**, **reklasyfikacja z l8 T3**, **zasada „certyfikacja bez dowodu = brak certyfikacji" z l3 T4 Blok 1**. Pakiet NIE jest klasą A (3 deski z sękami pękniętymi >12 mm łamią próg + 2 pęknięcia >50 mm/mb). Opcje: (a) odbieram jako klasę B + zapis w dzienniku + update TartakERP + wpis w rejestrze dostaw; (b) eskaluję do brygadzisty w formacie 4W przed odbiorem bo różnica cenowa 15-25 zł/deska × 60 desek = 900-1500 zł różnicy. Operator junior NIE odbiera samodzielnie różnicy klasowej, eskaluje. Format 4W: „Marek, Andrij, plac kłód, 8:30, pakiet SO-SW-A-260420-019 wady przekroczone klasy A, proszę o decyzję odbioru".
 
 ### Ćwiczenie 2: „Wilgotność po transporcie"
 
-**Kontekst**. Poniedziałek 7:15, pakiet dębu SO-DĄB-FSC-260420-022 przyjechał w nocy. Zmierzył wilgotność przez miernik udarowy (Brookhuis): 4 punkty pomiaru dają 24,5% / 26,1% / 23,8% / 25,2%. Dyspozycja mówi, że dąb ma trafić do komory suszarni dziś po 10:00. Zbigniew Majchrzak pyta cię „Hai, jak wilgotność pakietu? Ustawiamy komorę na wariant świeżego czy transportowego?".
+**Kontekst**. Poniedziałek 7:15, pakiet dębu SO-DĄB-FSC-260420-022 przyjechał w nocy. Zmierzył wilgotność przez miernik udarowy (Brookhuis): 4 punkty pomiaru dają 24,5% / 26,1% / 23,8% / 25,2%. Dyspozycja mówi, że dąb ma trafić do komory suszarni dziś po 10:00. Zbigniew Majchrzak pyta cię „Andrij, jak wilgotność pakietu? Ustawiamy komorę na wariant świeżego czy transportowego?".
 
 **Pytania**:
 1. Jakie jest średnie MC i rozrzut?
@@ -127,11 +127,11 @@ Tabela ciśnień napinania Wood-Mizer LT40 (z M2 T3 l2):
 2. Co raportujesz i komu?
 3. Jakie jest ryzyko, jeśli zignorujesz?
 
-**Wskazówka**. **KOŃCZ AKTUALNY RZAZ** (bezpieczeństwo: nie wyciągać taśmy z kłody, nie zmieniać parametrów w ruchu), potem STOP. Aktywują się: **STOP kontrolowany z l2 T3**, **opis objawowy nie diagnostyczny z l5 T4 Blok 2**, **3 kategorie pilności**. Raport: **Piotr Czerwiński mistrz zmiany** (brygadzista Marek poza tartakiem, przeskok szczebla dopuszczony + SMS do Marka). Format 4W: „Piotr, Hai, pilarka 2, 11:30, nowy metaliczny brzdęk przy każdym rzazie od 2 min, amperomierz normalny, STOP po 15. belce, proszę o diagnozę mechanika". NIE piszę „uszkodzone łożysko" bo to diagnoza wymagająca doświadczenia. Ryzyka ignorowania: (a) stępnie koła napędowego lub łożyska prowadnicy = naprawa 8-15 tys. zł + przestój 1-2 dni, (b) potencjalne zerwanie taśmy w ruchu = zagrożenie operatora (prędkość taśmy 28-32 m/s, zerwanie poleci jak pocisk).
+**Wskazówka**. **KOŃCZ AKTUALNY RZAZ** (bezpieczeństwo: nie wyciągać taśmy z kłody, nie zmieniać parametrów w ruchu), potem STOP. Aktywują się: **STOP kontrolowany z l2 T3**, **opis objawowy nie diagnostyczny z l5 T4 Blok 2**, **3 kategorie pilności**. Raport: **Piotr Czerwiński mistrz zmiany** (brygadzista Marek poza tartakiem, przeskok szczebla dopuszczony + SMS do Marka). Format 4W: „Piotr, Andrij, pilarka 2, 11:30, nowy metaliczny brzdęk przy każdym rzazie od 2 min, amperomierz normalny, STOP po 15. belce, proszę o diagnozę mechanika". NIE piszę „uszkodzone łożysko" bo to diagnoza wymagająca doświadczenia. Ryzyka ignorowania: (a) stępnie koła napędowego lub łożyska prowadnicy = naprawa 8-15 tys. zł + przestój 1-2 dni, (b) potencjalne zerwanie taśmy w ruchu = zagrożenie operatora (prędkość taśmy 28-32 m/s, zerwanie poleci jak pocisk).
 
 ### Ćwiczenie 7: „Sortowanie pod presją czasu"
 
-**Kontekst**. Czwartek 14:30, ostatnia godzina zmiany. Piotr Czerwiński przychodzi i mówi „Hai, Marek zmienił plan, 30 desek klasy A ma iść do klienta w piątek rano, sortuj teraz szybciej". Zostało 40 desek do posortowania. Twoja średnia szybkość sortowania: 3 minuty na deskę z pomiarem wilgotności + oceną wad. 40 desek × 3 min = 120 min = 2 godziny. Zmiana kończy się za 1,5 h. Piotr: „nie masz wyjścia, robimy".
+**Kontekst**. Czwartek 14:30, ostatnia godzina zmiany. Piotr Czerwiński przychodzi i mówi „Andrij, Marek zmienił plan, 30 desek klasy A ma iść do klienta w piątek rano, sortuj teraz szybciej". Zostało 40 desek do posortowania. Twoja średnia szybkość sortowania: 3 minuty na deskę z pomiarem wilgotności + oceną wad. 40 desek × 3 min = 120 min = 2 godziny. Zmiana kończy się za 1,5 h. Piotr: „nie masz wyjścia, robimy".
 
 **Pytania**:
 1. Czy zgadzasz się na przyspieszenie?
@@ -174,18 +174,18 @@ Pola dyspozycji (skrót z M2 T4 Blok 1 l1):
 
 ### Ćwiczenie 9: „Dziennik po skomplikowanej zmianie"
 
-**Kontekst**. Piątek 13:50, 5 min do końca zmiany. Wypełniasz zielony dziennik ZMI-2026-094-01. Zmiana była burzliwa: (a) 3 przestoje taśm (wymiana, stępienie, zacięcie), (b) 1 zmiana priorytetu przez Marka ustnie potem pisemnie, (c) pęknięta belka zgłoszona Piotrowi, (d) rotacja z Oleksiim na pół godziny (Oleksii na pilarce, Ty na sortowaniu). Cykl poniedziałkowy sprawdzi Maricel.
+**Kontekst**. Piątek 13:50, 5 min do końca zmiany. Wypełniasz zielony dziennik ZMI-2026-094-01. Zmiana była burzliwa: (a) 3 przestoje taśm (wymiana, stępienie, zacięcie), (b) 1 zmiana priorytetu przez Marka ustnie potem pisemnie, (c) pęknięta belka zgłoszona Piotrowi, (d) rotacja z Oleksijem na pół godziny (Oleksij na pilarce, Ty na sortowaniu). Cykl poniedziałkowy sprawdzi Sofía.
 
 **Pytania**:
 1. Jakie 8 pól głównych musi być wypełnione?
 2. Jakie informacje dla zmiennika zawierasz w polu usterek i tabeli taśm?
 3. Jakie wpisy dodatkowe poza 8 polami?
 
-**Wskazówka**. **Osiem pól głównych** (z l2 T4 Blok 1): numer, data, operator, maszyna, motogodziny, m³ wejście, m³ wyjście, wskaźnik wydajności. Plus **tabele**: przestoje T/M/O/P z właścicielem, taśmy ze stępnieniami. Plus **pole usterek** format 3-częściowy co/kiedy/co zrobiłem (nie diagnoza). Dla Maricel informacje kluczowe: (a) taśma 11 pozostawiona na pilarce ze stępnieniem ok. 180 rzazów = do wymiany w poniedziałek, (b) pęknięta belka 4 z pakietu SO-DĄB-FSC-003 zgłoszona Piotrowi 9:15, kwarantanna pola wschodniego, (c) rotacja ze sortowania na pilarkę dobra praktyka, Oleksii chętny, można powtarzać. Wpisy dodatkowe: (a) zmiana priorytetu ustnie o 10:20 z B→A, potwierdzenie pisemne ołówkiem przez Marka o 10:23 z parafką „M.N.", (b) pęknięta belka przekazana do kwarantanny + numer zgłoszenia do Piotra. **Nawyk notesu A6**: wszystkie czasy dokładne z notesu, nie z pamięci. **Dziennik ma dwie publiki**: biały do Marka → dyspozytor, zielony do Maricel → wiedza operacyjna.
+**Wskazówka**. **Osiem pól głównych** (z l2 T4 Blok 1): numer, data, operator, maszyna, motogodziny, m³ wejście, m³ wyjście, wskaźnik wydajności. Plus **tabele**: przestoje T/M/O/P z właścicielem, taśmy ze stępnieniami. Plus **pole usterek** format 3-częściowy co/kiedy/co zrobiłem (nie diagnoza). Dla Sofía informacje kluczowe: (a) taśma 11 pozostawiona na pilarce ze stępnieniem ok. 180 rzazów = do wymiany w poniedziałek, (b) pęknięta belka 4 z pakietu SO-DĄB-FSC-003 zgłoszona Piotrowi 9:15, kwarantanna pola wschodniego, (c) rotacja ze sortowania na pilarkę dobra praktyka, Oleksij chętny, można powtarzać. Wpisy dodatkowe: (a) zmiana priorytetu ustnie o 10:20 z B→A, potwierdzenie pisemne ołówkiem przez Marka o 10:23 z parafką „M.N.", (b) pęknięta belka przekazana do kwarantanny + numer zgłoszenia do Piotra. **Nawyk notesu A6**: wszystkie czasy dokładne z notesu, nie z pamięci. **Dziennik ma dwie publiki**: biały do Marka → dyspozytor, zielony do Sofía → wiedza operacyjna.
 
 ### Ćwiczenie 10: „Certyfikat FSC w praktyce"
 
-**Kontekst**. Wtorek 10:15. Nowa dyspozycja DP-2026-055 od klienta Kingfisher Polska, zamówienie KF-2026-003. Dąb 50×200×3000 mm, klasa C24, 100 szt., oznakowanie FSC 100%. Kingfisher wymaga **pełnej dokumentacji łańcucha dostaw**: etykieta pakietu, rejestr odbioru, certyfikat nadawcy (FSC-C012345 EGIDA), dokument potwierdzający pole FSC przechowywania. Marek pyta: „Hai, lista rzeczy do dopilnowania dla tego klienta?".
+**Kontekst**. Wtorek 10:15. Nowa dyspozycja DP-2026-055 od klienta Kingfisher Polska, zamówienie KF-2026-003. Dąb 50×200×3000 mm, klasa C24, 100 szt., oznakowanie FSC 100%. Kingfisher wymaga **pełnej dokumentacji łańcucha dostaw**: etykieta pakietu, rejestr odbioru, certyfikat nadawcy (FSC-C012345 EGIDA), dokument potwierdzający pole FSC przechowywania. Marek pyta: „Andrij, lista rzeczy do dopilnowania dla tego klienta?".
 
 **Pytania**:
 1. Co jest „chain-of-custody" dla tego pakietu?
@@ -211,18 +211,18 @@ Pola dyspozycji (skrót z M2 T4 Blok 1 l1):
 
 ### Ćwiczenie 12: „Kolega drzemie przy pilarce"
 
-**Kontekst**. Środa 14:45, 7. godzina zmiany. Kolega Emeka (operator na pilarce 3) drzemie przez kilka sekund stojąc przy stanowisku między rzazami. Widzisz to z pilarki 2, 8 m odległości. Pilarka 3 właśnie kończy rzaz, Emeka zaraz włączy kolejny cykl. Brygadzisty brak, Piotr Czerwiński w biurze.
+**Kontekst**. Środa 14:45, 7. godzina zmiany. Kolega Carlos (operator na pilarce 3) drzemie przez kilka sekund stojąc przy stanowisku między rzazami. Widzisz to z pilarki 2, 8 m odległości. Pilarka 3 właśnie kończy rzaz, Carlos zaraz włączy kolejny cykl. Brygadzisty brak, Piotr Czerwiński w biurze.
 
 **Pytania**:
 1. Czy to jest problem, czy każdemu się zdarza?
 2. Co robisz w najbliższych 30 sekundach?
 3. Jakie jest ryzyko obiektywne?
 
-**Wskazówka**. **Każdemu się zdarza** ale **7. godzina to godzina szczytu ryzyka wypadku 24%** (CIOP-PIB 2019-2023, l6 T4 Blok 2). Drzemka przy maszynie wirującej z prędkością taśmy 28-32 m/s = natychmiastowe ryzyko. 30 sekund: (a) krzyk „Emeka! Emeka!" żeby go obudzić przed kolejnym cyklem, (b) gest STOP w jego stronę, (c) podejście po zabezpieczeniu pilarki 2 (zatrzymanie), (d) rozmowa krótka „stary, widziałem cię, potrzebujesz mikropauzy?", (e) jeśli tak, zatrzymanie jego pilarki + telefon do Piotra format 4W „Piotr, Hai, pilarka 3, 14:45, Emeka 3 sygnały zmęczenia + drzemka, proszę o rotację lub 10 min mikropauzy" + SMS do Marka. **Aktywują się**: **autoregulacja z l6 T4 Blok 2**, **operator monitoruje zmęczenie kolegów** (różnica operator-junior pkt 5), **5 szczebli eskalacji**. Obiektywne ryzyko: ręka w rejonie taśmy, amputacja lub śmierć, statystyka PIP 41 śmiertelnych rocznie w sektorze przerobu drewna.
+**Wskazówka**. **Każdemu się zdarza** ale **7. godzina to godzina szczytu ryzyka wypadku 24%** (CIOP-PIB 2019-2023, l6 T4 Blok 2). Drzemka przy maszynie wirującej z prędkością taśmy 28-32 m/s = natychmiastowe ryzyko. 30 sekund: (a) krzyk „Carlos! Carlos!" żeby go obudzić przed kolejnym cyklem, (b) gest STOP w jego stronę, (c) podejście po zabezpieczeniu pilarki 2 (zatrzymanie), (d) rozmowa krótka „stary, widziałem cię, potrzebujesz mikropauzy?", (e) jeśli tak, zatrzymanie jego pilarki + telefon do Piotra format 4W „Piotr, Andrij, pilarka 3, 14:45, Carlos 3 sygnały zmęczenia + drzemka, proszę o rotację lub 10 min mikropauzy" + SMS do Marka. **Aktywują się**: **autoregulacja z l6 T4 Blok 2**, **operator monitoruje zmęczenie kolegów** (różnica operator-junior pkt 5), **5 szczebli eskalacji**. Obiektywne ryzyko: ręka w rejonie taśmy, amputacja lub śmierć, statystyka PIP 41 śmiertelnych rocznie w sektorze przerobu drewna.
 
 ### Ćwiczenie 13: „Konflikt z Krzysztofem"
 
-**Kontekst**. Piątek 11:00. Krzysztof Zagrodny mówi ci z niezadowoleniem: „Hai, ile razy będę czekał, aż zrobisz gest GOTOWE? Ja mam 12 pakietów dziś, nie mogę czekać 2 min na każdy". Ty potrzebujesz 2 min bo odchodzisz do nowego pakietu dopiero po sprawdzeniu etykiety i wpisie w dzienniku poprzedniego.
+**Kontekst**. Piątek 11:00. Krzysztof Zagrodny mówi ci z niezadowoleniem: „Andrij, ile razy będę czekał, aż zrobisz gest GOTOWE? Ja mam 12 pakietów dziś, nie mogę czekać 2 min na każdy". Ty potrzebujesz 2 min bo odchodzisz do nowego pakietu dopiero po sprawdzeniu etykiety i wpisie w dzienniku poprzedniego.
 
 **Pytania**:
 1. Czy Krzysztof ma rację?
@@ -248,7 +248,7 @@ Pola dyspozycji (skrót z M2 T4 Blok 1 l1):
 
 ### Ćwiczenie 15: „Pełny łańcuch reklasyfikacji"
 
-**Kontekst**. Piątek 8:00, otwieracie z Zbigniewem komorę 2 po cyklu sosnowym SO-SW-A-260420-015 (ładowałeś 10 dni temu). Pierwsze pomiary: średnia MC 11,4%, rozrzut 2,8% (powyżej normy <2%). Otwierasz deski z pozycji D (najniższa środek), widzisz 2 deski z pęknięciami czołowymi 1/3 szerokości (granica A/B). Zbigniew mówi „Hai, twoja ocena?". Klient Dębowy Dom zamówił 30 desek A z tej partii.
+**Kontekst**. Piątek 8:00, otwieracie z Zbigniewem komorę 2 po cyklu sosnowym SO-SW-A-260420-015 (ładowałeś 10 dni temu). Pierwsze pomiary: średnia MC 11,4%, rozrzut 2,8% (powyżej normy <2%). Otwierasz deski z pozycji D (najniższa środek), widzisz 2 deski z pęknięciami czołowymi 1/3 szerokości (granica A/B). Zbigniew mówi „Andrij, twoja ocena?". Klient Dębowy Dom zamówił 30 desek A z tej partii.
 
 **Pytania**:
 1. Jaka jest kompleksowa diagnoza partii?
@@ -267,10 +267,10 @@ Pola dyspozycji (skrót z M2 T4 Blok 1 l1):
 
 **Dyskusja**. Czytasz kontekst głośno (2 min), 3 min ciszy na samodzielne przemyślenie, otwierasz dyskusję: „kto ma pomysł?". Migranci z A0-A1 polskiego potrzebują zachęty, wskazuj po imieniu. Jeśli ktoś mówi w języku ojczystym do sąsiada, zaakceptuj 30 s → potem „po polsku dla wszystkich".
 
-**Feedback**. Po każdym ćwiczeniu czytasz wskazówkę analityczną. Porównujesz z odpowiedziami grupy: „Maricel powiedziała A, Oleksii B, wskazówka mówi B, dlaczego?". Celem jest **świadoma luka**, nie wynik binarny dobrze/źle.
+**Feedback**. Po każdym ćwiczeniu czytasz wskazówkę analityczną. Porównujesz z odpowiedziami grupy: „Sofía powiedziała A, Oleksij B, wskazówka mówi B, dlaczego?". Celem jest **świadoma luka**, nie wynik binarny dobrze/źle.
 
 **Diagnostyka**. Notuj w prywatnym arkuszu, kto ma trudność z którym obszarem. Przed piątkowym testem l8 zrób 15 min konsultacji indywidualnej z 2-3 kursantami z największymi lukami.
 
 **Mieszanie obszarów**. Ćwiczenia integracyjne 14 + 15 rób koniecznie (po blokach 1-3), bo one ujawniają, czy kursant potrafi **łączyć** 4 obszary, nie tylko znać każdy osobno. Na teście praktycznym wtorkowym (5 kryteriów Piotra) integracja jest kluczowa.
 
-**Kultury**. Ukraińcy i Białorusini chętnie dyskutują o łamaniu zasad (mają tę kulturę), Wietnamczycy i Filipiny rzadko (kultura szacunku do przełożonego). Zadawaj im pytania bezpośrednie, wtedy mówią. Gruzin może sprzeciwić się wszystkim w dyskusji, daj przestrzeń, on weryfikuje swoją tożsamość.
+**Kultury**. Ukraińcy (zwłaszcza z Charkowa, Kijowa, Lwowa) chętnie dyskutują o łamaniu zasad – mają w tle doświadczenie „szarej strefy" i traktują to jako normalny temat. Kolumbijczycy i inni Latynosi (Wenezuela, Peru) bywają bardziej powściągliwi, bo „usted" wobec brygadzisty dziedziczą w swojej kulturze pracy – zadawaj im pytania bezpośrednie, wtedy mówią. Zdarzy się kursant, który w dyskusji sprzeciwi się wszystkim – daj mu przestrzeń, on weryfikuje swoją tożsamość w grupie.

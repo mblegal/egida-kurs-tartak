@@ -6,21 +6,21 @@ czas: 120
 
 ## Introduction
 
-Tuesday, 2026-05-05, 8:32 in the morning. The second day with a permanent helper at P3. Wahan Petrosjan is standing in the yellow zone at the outfeed ramp, sorting sawn timber from the first morning log (Norway spruce, 320 mm diameter, 24 boards, construction class). Rustam Nazarov is cutting the second log of the day: English oak (*dąb szypułkowy*, pedunculate oak) from the latest delivery from the Knyszyn Forest, 380 mm diameter, 4.2 m long, healthy bark, the end face with no visible cracks, a fresh smell (no sharp notes of vinegar or mustiness). The log looked good yesterday at intake, it looks good today on the carriage. Rustam has selected the parameters: feed speed 7 m/min, a 38 mm x 1.05 mm stellite band, a 27 mm kerf (for a parquet board finished at 22 mm after further drying and planing). The order: 14 boards of class A (no through knots, no visible cracks), destined for natural oak parquet for a furniture company in Poznań, dispatch date 20 May.
+Tuesday, 2026-05-05, 8:32 in the morning. The second day with a permanent helper at P3. Wasyl Melnyk is standing in the yellow zone at the outfeed ramp, sorting sawn timber from the first morning log (Norway spruce, 320 mm diameter, 24 boards, construction class). Mykoła Hrycenko is cutting the second log of the day: English oak (*dąb szypułkowy*, pedunculate oak) from the latest delivery from the Knyszyn Forest, 380 mm diameter, 4.2 m long, healthy bark, the end face with no visible cracks, a fresh smell (no sharp notes of vinegar or mustiness). The log looked good yesterday at intake, it looks good today on the carriage. Mykoła has selected the parameters: feed speed 7 m/min, a 38 mm x 1.05 mm stellite band, a 27 mm kerf (for a parquet board finished at 22 mm after further drying and planing). The order: 14 boards of class A (no through knots, no visible cracks), destined for natural oak parquet for a furniture company in Poznań, dispatch date 20 May.
 
-The first board comes off the ramp, Rustam looks it over: regular grain, honey colour, sound. Class A. He sets it aside on the stack to the right. The second board: similar, class A. Sets it aside. The third board: Rustam turns it, looks at the end face, and **stops the motion**. Through the middle zone of the board, from the pith towards the perimeter, runs a **crack**. Some 3 mm wide, around 180 mm long, from the pith to halfway along the radius. It was not visible on the *dłużyca* (whole trunk): the log end face was uniform, with no marks. It only showed up after three boards had been taken off, once the pith zone had been exposed.
+The first board comes off the ramp, Mykoła looks it over: regular grain, honey colour, sound. Class A. He sets it aside on the stack to the right. The second board: similar, class A. Sets it aside. The third board: Mykoła turns it, looks at the end face, and **stops the motion**. Through the middle zone of the board, from the pith towards the perimeter, runs a **crack**. Some 3 mm wide, around 180 mm long, from the pith to halfway along the radius. It was not visible on the *dłużyca* (whole trunk): the log end face was uniform, with no marks. It only showed up after three boards had been taken off, once the pith zone had been exposed.
 
-Rustam turns off the feed, stops the band (12 seconds of run-down), walks to the workstation phone. He dials the number of the graders' office: extension 42. After two rings Anna Kowalczyk picks up, **Ms. Ania**, a grader of sawn timber at EGIDA for twelve years (certified to PN-EN 1611-1 by the Wood Technology Institute in Poznań, with ITB accreditation for PN-EN 14081 since 2020), a colleague of Marek's from their days at the sawmill in Węgliniec.
+Mykoła turns off the feed, stops the band (12 seconds of run-down), walks to the workstation phone. He dials the number of the graders' office: extension 42. After two rings Anna Kowalczyk picks up, **Ms. Ania**, a grader of sawn timber at EGIDA for twelve years (certified to PN-EN 1611-1 by the Wood Technology Institute in Poznań, with ITB accreditation for PN-EN 14081 since 2020), a colleague of Marek's from their days at the sawmill in Węgliniec.
 
-> **Rustam:** "Ms. Ania, Rustam from P3. I have English oak, 380, from the Knyszyn Forest, for class A parquet. The third board has a pith shake, 3 mm wide, 180 mm long, running from the pith. It was not visible on the *dłużyca*. I want to take a decision: recut differently, downgrade the whole batch to B, or reject this one board and carry on in class A. Can you come and look?"
+> **Mykoła:** "Ms. Ania, Mykoła from P3. I have English oak, 380, from the Knyszyn Forest, for class A parquet. The third board has a pith shake, 3 mm wide, 180 mm long, running from the pith. It was not visible on the *dłużyca*. I want to take a decision: recut differently, downgrade the whole batch to B, or reject this one board and carry on in class A. Can you come and look?"
 >
-> **Ms. Ania:** "I'll be there in five minutes. Don't cut any further, Rustam. Wait. Which way is the crack running: radially from the pith or on a slant?"
+> **Ms. Ania:** "I'll be there in five minutes. Don't cut any further, Mykoła. Wait. Which way is the crack running: radially from the pith or on a slant?"
 >
-> **Rustam:** "Radially. Along the grain."
+> **Mykoła:** "Radially. Along the grain."
 >
 > **Ms. Ania:** "Good, that is a pith shake. First, work out whether it is in the whole log or only in this one board. We'll do it together. Thank you for not cutting on."
 
-Rustam puts the phone down. Wahan walks over from the ramp, Rustam explains in two sentences: "pith shake, I have to wait for the grader before I cut on." Wahan returns to sorting the spruce, Rustam waits. In his head he is laying out the five types of internal defects that can show up after breakdown cutting, even though they were not visible on the *dłużyca*. Today you will learn these five together with him.
+Mykoła puts the phone down. Wasyl walks over from the ramp, Mykoła explains in two sentences: "pith shake, I have to wait for the grader before I cut on." Wasyl returns to sorting the spruce, Mykoła waits. In his head he is laying out the five types of internal defects that can show up after breakdown cutting, even though they were not visible on the *dłużyca*. Today you will learn these five together with him.
 
 ## Objectives
 
@@ -102,7 +102,7 @@ In freshly felled wood a normal process of fermentation of sugars and starches t
 
 **Appearance:**
 
-Heat-damaged wood has a **uniformly darkened** colour, in the pith zone (the worst ventilation) typically dark brown or blackish. The smell is **clearly unpleasant**: vinegar, mustiness, sometimes a smell close to rotten apples. This is the key signature for the operator: if, after the first kerf, the log gives off a sharp acid smell, you have a **strong suspicion of zaparzenie**. Rustam teaches Wahan: "first board, you hold your nose over the end face, you smell. Fresh wood smell equals OK. Vinegar equals escalation."
+Heat-damaged wood has a **uniformly darkened** colour, in the pith zone (the worst ventilation) typically dark brown or blackish. The smell is **clearly unpleasant**: vinegar, mustiness, sometimes a smell close to rotten apples. This is the key signature for the operator: if, after the first kerf, the log gives off a sharp acid smell, you have a **strong suspicion of zaparzenie**. Mykoła teaches Wasyl: "first board, you hold your nose over the end face, you smell. Fresh wood smell equals OK. Vinegar equals escalation."
 
 After drying, the heat-damaged wood is still visually dark (the colour does not return to normal), but structurally it may be entirely in order (if *zaparzenie* was brief, 1 to 2 weeks) or weakened (3 to 4 weeks, bending strength reduced by 15 to 30%).
 
@@ -194,17 +194,17 @@ The log is excluded as a whole from the current order. It goes to: fuel (sawdust
 Requires **the grader's acceptance** plus **notification of the forestry supplier** (at EGIDA Marek makes a note to the supplier with the log number, a photograph of the defect, the delivery date; if the delivery came from the State Forests, the Knyszyn Forest District, the note goes by e-mail, the invoice can be corrected).
 
 ::: example
-**Rustam and Ms. Ania, 8:37, the oak log from the Knyszyn Forest.**
+**Mykoła and Ms. Ania, 8:37, the oak log from the Knyszyn Forest.**
 
-Ms. Ania has arrived. She is standing with Rustam over the third board. She looks at the crack, measures with callipers (3.2 mm wide at the widest point, 176 mm long). She looks at the end face of the remaining log on the carriage.
+Ms. Ania has arrived. She is standing with Mykoła over the third board. She looks at the crack, measures with callipers (3.2 mm wide at the widest point, 176 mm long). She looks at the end face of the remaining log on the carriage.
 
 > **Ms. Ania:** "The crack goes from the pith only to the middle of the radius. In the remaining boards, which do not pass through the pith, it should not be there. Let's see how the rest of the log looks. Finish the cutting, watch boards 4 to 8 (the pith-zone range); if there is no crack in the next board, it means the crack is only in the third. Then variant one: the third board to class C, the rest A. If the next board also has a crack, it means the pith has cracked along the whole length, and it is variant two: the whole batch to B, minus the cracked boards to C."
 
-Rustam continues cutting. Boards 4, 5, 6: sound, regular grain, no crack. Boards 7, 8: the pith zone, he checks carefully. Board 7 has a slight crack mark near the pith, but shorter (60 mm, 1.5 mm wide). Board 8 is clean.
+Mykoła continues cutting. Boards 4, 5, 6: sound, regular grain, no crack. Boards 7, 8: the pith zone, he checks carefully. Board 7 has a slight crack mark near the pith, but shorter (60 mm, 1.5 mm wide). Board 8 is clean.
 
 > **Ms. Ania (after looking at boards 7 and 8):** "The pith cracked only in one stretch, the middle of the log's length. The third board (from the start of cutting) and the seventh (from the end of cutting) are the same spot, on both sides of the pith. Variant one: those two boards go to class C (parquet with the crack glued with resin, a construction customer), the remaining twelve boards to class A (the parquet order for Poznań). Batch yield 85%, acceptable."
 
-Rustam breathes out with relief. He writes on the KLA-002 card: "pith shake, board 3 and 7, length 176 mm and 60 mm, width 3.2 mm and 1.5 mm, decision variant: recut differently (boards 3 and 7 to class C, the rest class A)". Ms. Ania reads it, signs. Rustam signs. The document goes into the batch folder.
+Mykoła breathes out with relief. He writes on the KLA-002 card: "pith shake, board 3 and 7, length 176 mm and 60 mm, width 3.2 mm and 1.5 mm, decision variant: recut differently (boards 3 and 7 to class C, the rest class A)". Ms. Ania reads it, signs. Mykoła signs. The document goes into the batch folder.
 :::
 
 ### Record of the decision: the KLA-002 card
@@ -223,9 +223,9 @@ Without a KLA-002 card an internal defect that shows up at the customer's after 
 
 ### Second scene: blue stain in pine, 11:15
 
-Ms. Ania has gone back to the office. Rustam is finishing the second batch of the day: Scots pine from a delivery from the Drawno Forest District, 300 mm diameter, 4.8 m long, destined for a class B decking board. He is breaking down the fourth log of the shipment. After taking off three boards, he notices in the fourth **blue-grey streaks** in the sapwood zone, stretched along the grain, 400 mm long, 80 mm wide (so almost the full width of the board).
+Ms. Ania has gone back to the office. Mykoła is finishing the second batch of the day: Scots pine from a delivery from the Drawno Forest District, 300 mm diameter, 4.8 m long, destined for a class B decking board. He is breaking down the fourth log of the shipment. After taking off three boards, he notices in the fourth **blue-grey streaks** in the sapwood zone, stretched along the grain, 400 mm long, 80 mm wide (so almost the full width of the board).
 
-This time Rustam **does not phone** Ms. Ania at once. First he diagnoses on his own. He asks himself in his head:
+This time Mykoła **does not phone** Ms. Ania at once. First he diagnoses on his own. He asks himself in his head:
 
 - **What is it?** Blue-grey streaks along the grain in pine equal *blue stain*, pine mould.
 - **Extent:** across the full width of one board, over 400 mm. In the following boards (he will check in a moment), probably similar.
@@ -233,18 +233,18 @@ This time Rustam **does not phone** Ms. Ania at once. First he diagnoses on his 
 - **Strength:** preserved (blue stain in pine, loss below 5% per ITB).
 - **Operational decision:** probably variant 1 (recut differently: edge so that the largest streaks fall into waste). Alternatively variant 2 (downgrade the whole shipment from B to C, if the streaks are in every board on long stretches).
 
-Rustam cuts boards 5, 6, 7 for verification. He confirms: blue streaks in most boards, but on shorter stretches (100 to 200 mm). Edging will allow the largest zones to be cut off into waste. Variant 1.
+Mykoła cuts boards 5, 6, 7 for verification. He confirms: blue streaks in most boards, but on shorter stretches (100 to 200 mm). Edging will allow the largest zones to be cut off into waste. Variant 1.
 
 He phones Ms. Ania:
 
-> **Rustam:** "Ms. Ania, pine from Drawno, log 4, blue streaks in the sapwood, up to 400 mm long in the worst board, 100 to 200 mm in the others. Target class B, decking. My proposal: edge so that the main streaks fall into waste, the board gets class B in line with the order. Can you sign after I finish the log?"
+> **Mykoła:** "Ms. Ania, pine from Drawno, log 4, blue streaks in the sapwood, up to 400 mm long in the worst board, 100 to 200 mm in the others. Target class B, decking. My proposal: edge so that the main streaks fall into waste, the board gets class B in line with the order. Can you sign after I finish the log?"
 >
-> **Ms. Ania:** "Good, Rustam. Finish up, take photos of the worst board before and after edging, I'll come at 12:00 to sign the KLA-002. You already know what you're doing."
+> **Ms. Ania:** "Good, Mykoła. Finish up, take photos of the worst board before and after edging, I'll come at 12:00 to sign the KLA-002. You already know what you're doing."
 
-Rustam finishes the cut. Wahan sorts. Before the edger Rustam takes two photos of the worst board (before and after), he will attach them to the card. At 11:55 Ms. Ania walks into the hall, looks at the stack, checks one board at random, nods, signs the KLA-002. Class B yield: 11 out of 14 boards (78%), 3 boards to class C (streaks too large even after edging). Acceptable.
+Mykoła finishes the cut. Wasyl sorts. Before the edger Mykoła takes two photos of the worst board (before and after), he will attach them to the card. At 11:55 Ms. Ania walks into the hall, looks at the stack, checks one board at random, nods, signs the KLA-002. Class B yield: 11 out of 14 boards (78%), 3 boards to class C (streaks too large even after edging). Acceptable.
 
 ::: tip
-This second scene shows the difference between **the first year of self-reliant work** (Rustam today) and **the fifth year** (Rustam four years from now). In the first year the operator escalates to the grader **before the decision** ("come, look, tell me what to do"). In the fifth year he escalates **after the decision** ("I did X, come and sign"). The direction of trust shifts from vertical (the grader decides) to horizontal (the operator proposes, the grader verifies). Rustam is on this road, today still closer to the first year, but he is already beginning to extend his self-reliance in the simpler cases (pine with blue stain is a simpler situation than oak with a pith shake).
+This second scene shows the difference between **the first year of self-reliant work** (Mykoła today) and **the fifth year** (Mykoła four years from now). In the first year the operator escalates to the grader **before the decision** ("come, look, tell me what to do"). In the fifth year he escalates **after the decision** ("I did X, come and sign"). The direction of trust shifts from vertical (the grader decides) to horizontal (the operator proposes, the grader verifies). Mykoła is on this road, today still closer to the first year, but he is already beginning to extend his self-reliance in the simpler cases (pine with blue stain is a simpler situation than oak with a pith shake).
 :::
 
 ### Summary of lesson one
@@ -259,7 +259,7 @@ Role of the grader (Ms. Ania at EGIDA): signs the decision, verifies the choice 
 
 The KLA-002 card as the record of the decision: batch data, description of the defect, decision variant, signatures, photographs. Retention 5 years. No card means no defence against a claim.
 
-Two scenarios today: oak with a pith shake (variant 1, 2 boards to class C), pine with blue stain (variant 1, edging, class B). Rustam went through both: the first with the grader's assistance before the decision, the second with his own diagnosis and the grader's signature after the decision.
+Two scenarios today: oak with a pith shake (variant 1, 2 boards to class C), pine with blue stain (variant 1, edging, class B). Mykoła went through both: the first with the grader's assistance before the decision, the second with his own diagnosis and the grader's signature after the decision.
 
 In the next lesson (m3-w2-l2) we move from internal defects to **visual classification to PN-EN 1611-1**: how Ms. Ania looks at knots, *oblina* (wane), crook, and why you assist her but do not classify on your own without a certificate.
 

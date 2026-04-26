@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Poniedziałek, 2026-05-26, godzina 6:58. Rustam wchodzi do hali pilarek. Za nim Wahan. Po weekendzie, po domkniętej w czwartek kampanii dębowej, po serwisie Pana Krzysztofa w czwartek rano (l8, cylinder podnoszenia głowicy LT70 wymieniony, olej Shell TTF-SB dolany, test szczelności 30 minut zaliczony), P3 od czwartku po południu pracuje bez wycieku. W piątek pracował na niej Damian (drugi operator samodzielny EGIDA, kończył resztki sosny). W poniedziałek rano maszyna stoi ciepła od weekendowego wstępnego rozgrzania z soboty rana (z m3-w1-l7), gotowa na nowe zlecenie.
+Poniedziałek, 2026-05-26, godzina 6:58. Mykoła wchodzi do hali pilarek. Za nim Wasyl. Po weekendzie, po domkniętej w czwartek kampanii dębowej, po serwisie Pana Krzysztofa w czwartek rano (l8, cylinder podnoszenia głowicy LT70 wymieniony, olej Shell TTF-SB dolany, test szczelności 30 minut zaliczony), P3 od czwartku po południu pracuje bez wycieku. W piątek pracował na niej Damian (drugi operator samodzielny EGIDA, kończył resztki sosny). W poniedziałek rano maszyna stoi ciepła od weekendowego wstępnego rozgrzania z soboty rana (z m3-w1-l7), gotowa na nowe zlecenie.
 
-W kieszeni kombinezonu Rustama leży **dyspozycja produkcyjna** w papierze, format A5, wydrukowana w piątek 16:00 przez Marka Kowalskiego. Zlecenie **ZLE-2026-05-077**, odebrane w biurze EGIDA przy wejściu o 6:55. Marek pokazał krótko, pytając „*Rustam, weźmiesz to na P3 dziś?*", na co Rustam potwierdził ruchem głowy, sprawdził surowiec na magazynie, wrócił do hali. Dyspozycja wygląda tak:
+W kieszeni kombinezonu Mykoły leży **dyspozycja produkcyjna** w papierze, format A5, wydrukowana w piątek 16:00 przez Marka Kowalskiego. Zlecenie **ZLE-2026-05-077**, odebrane w biurze EGIDA przy wejściu o 6:55. Marek pokazał krótko, pytając „*Mykoła, weźmiesz to na P3 dziś?*", na co Mykoła potwierdził ruchem głowy, sprawdził surowiec na magazynie, wrócił do hali. Dyspozycja wygląda tak:
 
 ```
 EGIDA TARTAK STRZAŁOWO
@@ -29,8 +29,8 @@ Sortyment docelowy: deski podłogowe surowe
 Ilość docelowa: około 0,55 m³ tarcicy surowej (odpowiada ~0,48 m³ po suszeniu i obróbce)
 
 Maszyna: P3 Wood-Mizer LT70 (priorytet) lub P1 Serra SM40 (zastępcza)
-Operator: R. Nazarov
-Pomocnik: W. Petrosjan (M1 stacjonarny P3)
+Operator: R. Hrycenko
+Pomocnik: W. Melnyk (M1 stacjonarny P3)
 
 Dobór parametrów cięcia: decyzja operatora samodzielnego (M3)
   - Wpisać wybrane parametry w kartę KDP-001 przed pierwszym cięciem
@@ -39,13 +39,13 @@ Dobór parametrów cięcia: decyzja operatora samodzielnego (M3)
 Podpis wystawiającego: M. Kowalski, brygadzista EGIDA, 2026-05-22
 ```
 
-Trzy linie w dyspozycji są kluczowe: **surowiec**, **sortyment docelowy**, **dobór parametrów decyzja operatora**. Do marca 2026 (M2, pod nadzorem) parametry dobierał brygadzista i wpisywał w dyspozycji. Od kwietnia, odkąd Rustam zdał egzamin M3 i przeszedł na „samodzielnego", to **operator** wybiera: jaką taśmę zakłada, jakie napięcie ustawia, z jaką prędkością posuwu rusza, jaki schemat cięcia stosuje i w jakiej kolejności tnie pień. Brygadzista widzi wybór po fakcie (karta KDP-001 w kopercie kurierskiej do biura, koniec zmiany).
+Trzy linie w dyspozycji są kluczowe: **surowiec**, **sortyment docelowy**, **dobór parametrów decyzja operatora**. Do marca 2026 (M2, pod nadzorem) parametry dobierał brygadzista i wpisywał w dyspozycji. Od kwietnia, odkąd Mykoła zdał egzamin M3 i przeszedł na „samodzielnego", to **operator** wybiera: jaką taśmę zakłada, jakie napięcie ustawia, z jaką prędkością posuwu rusza, jaki schemat cięcia stosuje i w jakiej kolejności tnie pień. Brygadzista widzi wybór po fakcie (karta KDP-001 w kopercie kurierskiej do biura, koniec zmiany).
 
-Rustam kładzie dyspozycję na panelu P3, bierze z biurka w kącie hali świeżą **kartę KDP-001** (karta doboru parametrów, format A4, wprowadzona w EGIDA w marcu 2026 po sugestii audytora zewnętrznego jako narzędzie dowodowe: kto co i kiedy ustawił). Wahan patrzy zza ramienia, kalendarzyk otwarty. „*Wahan, dziś uczymy się, jak się decyduje parametry. Patrz, jak myślę, bo będziesz kiedyś myślał tak sam.*"
+Mykoła kładzie dyspozycję na panelu P3, bierze z biurka w kącie hali świeżą **kartę KDP-001** (karta doboru parametrów, format A4, wprowadzona w EGIDA w marcu 2026 po sugestii audytora zewnętrznego jako narzędzie dowodowe: kto co i kiedy ustawił). Wasyl patrzy zza ramienia, kalendarzyk otwarty. „*Wasyl, dziś uczymy się, jak się decyduje parametry. Patrz, jak myślę, bo będziesz kiedyś myślał tak sam.*"
 
 ### 7:02, analiza surowca i sortymentu
 
-Rustam idzie do magazynu SO-SOS-12, półka 4, gdzie leżą cztery pnie przygotowane w piątek. Metr stalowy, wilgotnościomierz Tanel ET-6 (ten sam z lekcji M2 o wilgotności), latarka LED. Każdy pień sprawdza:
+Mykoła idzie do magazynu SO-SOS-12, półka 4, gdzie leżą cztery pnie przygotowane w piątek. Metr stalowy, wilgotnościomierz Tanel ET-6 (ten sam z lekcji M2 o wilgotności), latarka LED. Każdy pień sprawdza:
 
 - **Pień 1** (SO-SOS-12-P1): dł. 4,12 m, śr. czołowa 34 cm, śr. odziomkowa 36 cm, zbieżystość 0,5 cm/m (dobra). Wilgotność w cieńszym końcu, 5 cm od czoła, 8 mm głębokości: **33,2%**. Drugi pomiar 1 m od czoła: 31,8%. Trzeci 2 m od czoła: 32,5%. **Średnia 32,5%** (świeża, klasyczna sosna po 7 dniach od zrębu). Wady widoczne: sęk żywiczny w cieńszym końcu na 80 cm długości, średnica sęka 3 cm (dopuszczalny dla C24 wg PN-EN 1611-1, zobacz l2 M3 T2). Bez pęknięć rdzeniowych widocznych czołowo.
 - **Pień 2** (SO-SOS-12-P2): dł. 4,09 m, śr. 31 cm, wilg. 31,9%, bez wad widocznych czołowo. Najlepszy z czwórki.
@@ -54,11 +54,11 @@ Rustam idzie do magazynu SO-SOS-12, półka 4, gdzie leżą cztery pnie przygoto
 
 Sumaryczna objętość netto (kalkulacja uproszczona, średnia cylindra): **~1,32 m³ dłużycy**. Spodziewany uzysk dla sosny zwyczajnej na deski podłogowe 28 mm: **55-60%** (to znaczy z 1,32 m³ dłużycy wyjdzie 0,73-0,79 m³ tarcicy surowej). Zlecenie wymaga 0,55 m³, czyli jest **bufor 25-30%** na odrzuty, wady wewnętrzne wykryte po cięciu, niezgodność klasy wytrzymałościowej. Bufor komfortowy, ale nie nadmiarowy.
 
-Rustam notuje te dane w karcie KDP-001 w sekcji „Surowiec wejściowy". Wahan przepisuje do kalendarzyka, Rustam go nie poprawia, niech się uczy notowania.
+Mykoła notuje te dane w karcie KDP-001 w sekcji „Surowiec wejściowy". Wasyl przepisuje do kalendarzyka, Mykoła go nie poprawia, niech się uczy notowania.
 
 ### 7:15, decyzja o taśmie
 
-Rustam wraca do hali, staje przed szafą z taśmami (regał metalowy przy P3, 8 półek, każda z taśmą zapasową na rolce w papierze ochronnym). Pamięta z l6 i l7: **pilarka taśmowa LT70 EGIDA używa taśm 38 × 1,07 mm**. Typ stali, kąt natarcia (hook angle), podziałka zębów (tooth pitch) i rodzaj ostrzenia (stellite, stop, hartowanie) są zmienne.
+Mykoła wraca do hali, staje przed szafą z taśmami (regał metalowy przy P3, 8 półek, każda z taśmą zapasową na rolce w papierze ochronnym). Pamięta z l6 i l7: **pilarka taśmowa LT70 EGIDA używa taśm 38 × 1,07 mm**. Typ stali, kąt natarcia (hook angle), podziałka zębów (tooth pitch) i rodzaj ostrzenia (stellite, stop, hartowanie) są zmienne.
 
 Możliwe taśmy w szafie:
 
@@ -69,7 +69,7 @@ Możliwe taśmy w szafie:
 5. **Stellite 38/10** (stal stellitowa, podziałka 10 TPI, kąt 9°), nr ST-38-10-S12. Dębina grubszych desek. Cena 405 zł netto.
 6. **Zużyte do kilkukrotnego ostrzenia** (odłożone w osobnym miejscu, do końca życia)
 
-Rustam myśli głośno po polsku, Wahan słucha:
+Mykoła myśli głośno po polsku, Wasyl słucha:
 
 *„Zlecenie to sosna świeża, 32% wilgotności, grubość docelowa 28 mm mokre. Do sosny świeżej wybieramy stal **stopową**, nie stellite. Stellite kosztuje 2,5 raza więcej i trzyma ostrość dłużej, ale na sośnie świeżej żywica szybko zalepia stellit, tępienie jest szybsze niż na dębie. W sosnie lepiej taśma tańsza stopowa, ostrzona częściej."*
 
@@ -89,7 +89,7 @@ Uzasadnienie: sosna świeża 32%, deski 28 mm, optymalna stopowa 7/8 TPI
 
 ### 7:22, napięcie i prowadniki
 
-Rustam otwiera osłonę boczną P3, podnosi dźwignię naprężacza do pozycji LUZ, zdejmuje poprzednią taśmę (ta od Damiana z piątku, stopowa 38/7/8 z nalepką zużycia 140 cięć, wraca do rotacji do ostrzenia), zakłada świeżą. Prowadzenie taśmy między kołami: napięcie, regulacja prowadników, alignment (wyrównanie w pionie).
+Mykoła otwiera osłonę boczną P3, podnosi dźwignię naprężacza do pozycji LUZ, zdejmuje poprzednią taśmę (ta od Damiana z piątku, stopowa 38/7/8 z nalepką zużycia 140 cięć, wraca do rotacji do ostrzenia), zakłada świeżą. Prowadzenie taśmy między kołami: napięcie, regulacja prowadników, alignment (wyrównanie w pionie).
 
 **Napięcie taśmy** jest parametrem **operatora-zależnym** (z l6 M3 T2). Manometr Wood-Mizer LT70 pokazuje wartość w PSI (funty na cal kwadratowy). Zakres bezpieczny dla taśm 38 mm: **2200-2400 PSI**. Wybór wewnątrz zakresu:
 
@@ -97,11 +97,11 @@ Rustam otwiera osłonę boczną P3, podnosi dźwignię naprężacza do pozycji L
 - Miękkie drewno (sosna, świerk), taśma stopowa: **2200 PSI** (dolna granica zakresu). Taśma „oddycha", mniej ryzyko zerwania, mniejsze obciążenie kół. Rzaz minimalnie bardziej wrażliwy na sęki ale akceptowalnie.
 - Drewno mrożone albo bardzo twarde (dąb mrożony, egzotyczne): **2400 PSI** plus ostrożna obserwacja manometru pierwszych 5 minut cięcia.
 
-Dzisiaj sosna świeża, stopowa 7/8. Rustam ustawia **2200 PSI** (obraca pokrętło naprężacza pięć i pół obrotu w prawo, obserwuje manometr rosnący). Manometr zatrzymuje się na 2200, lekko drga, ale nie spada. Temperatura hali 18°C, bez dryfu napięcia. **OK**.
+Dzisiaj sosna świeża, stopowa 7/8. Mykoła ustawia **2200 PSI** (obraca pokrętło naprężacza pięć i pół obrotu w prawo, obserwuje manometr rosnący). Manometr zatrzymuje się na 2200, lekko drga, ale nie spada. Temperatura hali 18°C, bez dryfu napięcia. **OK**.
 
 **Prowadniki taśmy** (rolki z obu stron taśmy, dolna i górna, regulują boczne położenie taśmy i zapobiegają „pływaniu" taśmy w cięciu). Każdy prowadnik ma regulację **odległości od taśmy**. Zakres: **3-4 mm** (z l6). Za ciasno (poniżej 3 mm): prowadnik dotyka taśmy, grzeje się, szybko się zużywa, generuje drgania. Za luźno (powyżej 4 mm): taśma „pływa", rzaz falisty.
 
-Rustam regulacja szczelinomierzem 3,5 mm (standard EGIDA, środek zakresu). Cztery punkty regulacji (dolne i górne, lewy i prawy). Każdy po kolei: szczelinomierz wsuwa się luźno, ale nie z luzem. Jeżeli wsuwa się za luźno, pokrętło regulacji obraca w prawo o 1/8 obrotu. Jeżeli w ogóle nie wchodzi, obraca w lewo o 1/4 obrotu. **Kalibracja 3 minuty, cztery punkty OK**.
+Mykoła regulacja szczelinomierzem 3,5 mm (standard EGIDA, środek zakresu). Cztery punkty regulacji (dolne i górne, lewy i prawy). Każdy po kolei: szczelinomierz wsuwa się luźno, ale nie z luzem. Jeżeli wsuwa się za luźno, pokrętło regulacji obraca w prawo o 1/8 obrotu. Jeżeli w ogóle nie wchodzi, obraca w lewo o 1/4 obrotu. **Kalibracja 3 minuty, cztery punkty OK**.
 
 W KDP-001, sekcja „Ustawienia maszyny":
 ```
@@ -112,7 +112,7 @@ Temperatura hali start: 18°C
 
 ### 7:30, prędkość posuwu i schemat cięcia
 
-**Prędkość posuwu** (feed rate) to prędkość, z jaką głowica pilarki przesuwa się po szynie podczas cięcia. Mierzona w stopach na minutę (imperial Wood-Mizer) albo metrach na minutę. Panel LT70 EGIDA pokazuje w stopach/min, Rustam w głowie przelicza na m/min (1 stopa = 0,305 m, czyli 30 stóp/min ≈ 9 m/min).
+**Prędkość posuwu** (feed rate) to prędkość, z jaką głowica pilarki przesuwa się po szynie podczas cięcia. Mierzona w stopach na minutę (imperial Wood-Mizer) albo metrach na minutę. Panel LT70 EGIDA pokazuje w stopach/min, Mykoła w głowie przelicza na m/min (1 stopa = 0,305 m, czyli 30 stóp/min ≈ 9 m/min).
 
 Zakres dla LT70: **0-80 stóp/min** (0-24 m/min). Wybór zależny od czterech czynników:
 
@@ -121,7 +121,7 @@ Zakres dla LT70: **0-80 stóp/min** (0-24 m/min). Wybór zależny od czterech cz
 3. **Grubość rzazu**. Grube deski (50+ mm) → wolniej (dłużej w drewnie, więcej wiórów). Cienkie (poniżej 25 mm) → szybciej (mniej materiału usuwanego).
 4. **Średnica pnia**. Duży pień → wolniej w pierwszym przetarciu (cięcie przez sam rdzeń najtrudniejsze). Mały pień → szybciej.
 
-Dzisiejsze warunki: sosna świeża, 28 mm grubość, średnica 32 cm. Rekomendacja Wood-Mizer w DTR LT70, tabela 3.5: **30-35 stóp/min** (9-10,5 m/min). Rustam wybiera **32 stopy/min** jako start (środek zakresu). Możliwa korekta po pierwszym cięciu (obserwacja rzazu, prostość deski, dźwięk silnika).
+Dzisiejsze warunki: sosna świeża, 28 mm grubość, średnica 32 cm. Rekomendacja Wood-Mizer w DTR LT70, tabela 3.5: **30-35 stóp/min** (9-10,5 m/min). Mykoła wybiera **32 stopy/min** jako start (środek zakresu). Możliwa korekta po pierwszym cięciu (obserwacja rzazu, prostość deski, dźwięk silnika).
 
 **Schemat cięcia** (sawing pattern) to kolejność cięć i sposób obracania pnia. Dwa podstawowe schematy dla desek podłogowych z sosny:
 
@@ -129,7 +129,7 @@ Dzisiejsze warunki: sosna świeża, 28 mm grubość, średnica 32 cm. Rekomendac
 
 **Schemat B: czwartowanie z obrotem (quarter sawing).** Pień cięty pionowo przez rdzeń na dwie połowy. Każda połowa obrócona o 90°, cięta pionowo przez oś rdzenia na ćwiartki. Ćwiartki cięte równolegle na deski. **Zalety**: słoje roczne w desce prostopadłe do powierzchni (wytrzymałość mechaniczna wyższa, stabilność wymiarowa lepsza, klasa C24 + pewniejsza, czasem C30). **Wady**: więcej operacji, wolniej, mniejszy uzysk dla wąskich pni (poniżej 30 cm strata duża), wymaga obracania pnia.
 
-Rustam myśli: *„Zlecenie wymaga C24. Klasa pewna, nie C30 ani nie C16. Schemat A jest szybszy i daje C24 dla sosny zwyczajnej 32% wilgotności bez problemu. Schemat B byłby lepszy dla C30 ale zlecenie tego nie wymaga, wkład pracy operatora byłby dwa razy większy, uzysk o 5% gorszy. **Wybieram A**, standardowy cant sawing."*
+Mykoła myśli: *„Zlecenie wymaga C24. Klasa pewna, nie C30 ani nie C16. Schemat A jest szybszy i daje C24 dla sosny zwyczajnej 32% wilgotności bez problemu. Schemat B byłby lepszy dla C30 ale zlecenie tego nie wymaga, wkład pracy operatora byłby dwa razy większy, uzysk o 5% gorszy. **Wybieram A**, standardowy cant sawing."*
 
 W KDP-001, sekcja „Parametry cięcia":
 ```
@@ -143,11 +143,11 @@ Strategia pasów: 4 oblin + 8-10 desek z blatu (planowane 8 desek z P1 i P2, po 
 
 ### 7:38, ostatnie sprawdzenie, start
 
-Karta KDP-001 wypełniona, Rustam składa po formacie A4 (jedno złożenie), wkłada do papierowej koperty z adnotacją „**ZLE-2026-05-077 P3 26.05 Rustam**", kładzie na biurku brygadzisty w kącie hali. Marek odbierze po zmianie.
+Karta KDP-001 wypełniona, Mykoła składa po formacie A4 (jedno złożenie), wkłada do papierowej koperty z adnotacją „**ZLE-2026-05-077 P3 26.05 Mykoła**", kładzie na biurku brygadzisty w kącie hali. Marek odbierze po zmianie.
 
-Na panelu P3: ustawienie prędkości posuwu **32 stopy/min** (potencjometr na panelu, skala 0-80, obrót do pozycji środkowej między 30 a 35). Wysokość głowicy ustawiona: pierwsze cięcie zdejmie oblinę o grubości 3-5 cm (zależy od zbieżystości pnia, ocena wzrokowa Rustama).
+Na panelu P3: ustawienie prędkości posuwu **32 stopy/min** (potencjometr na panelu, skala 0-80, obrót do pozycji środkowej między 30 a 35). Wysokość głowicy ustawiona: pierwsze cięcie zdejmie oblinę o grubości 3-5 cm (zależy od zbieżystości pnia, ocena wzrokowa Mykoły).
 
-Wahan stoi przy podajniku pomocniczym, ma za zadanie odbierać oblinę i deski z platformy odbiorczej (operator LT70 jest sam na platformie głównej). Między nimi komunikacja wzrokowa i krótkie gesty (z M1 l1: „STOP" = płasko dłoń w pionie, „dalej" = okrągły ruch, „wolniej" = dłoń w dół).
+Wasyl stoi przy podajniku pomocniczym, ma za zadanie odbierać oblinę i deski z platformy odbiorczej (operator LT70 jest sam na platformie głównej). Między nimi komunikacja wzrokowa i krótkie gesty (z M1 l1: „STOP" = płasko dłoń w pionie, „dalej" = okrągły ruch, „wolniej" = dłoń w dół).
 
 **7:40 silnik włączony**, 37 kW elektryczny, zielona LED, pomarańczowa LED w trybie ready, taśma rozruch obrotów. 10 sekund rozbiegu do pełnej prędkości. 7:41 pierwsze cięcie, pień 1, zdjęcie pierwszej obliny. Deski idą.
 
@@ -215,7 +215,7 @@ Z l6 M3 T2 wiemy: taśma pilarki taśmowej ma cztery zmienne:
 | Mrożone (grudzień-luty) | każde | Stopowa | 22 | 13° | ST-38-22-A12 |
 | Duża średnica (45+ cm) | Deski grube 40+ mm | Stopowa | 22 | 13° | ST-38-22-A12 |
 
-Dla dzisiejszego zlecenia (sosna świeża 32%, deski 28 mm) pierwszy wiersz: **stopowa 7/8, kąt 10°**. Rustam wybrał ST-38-7/8-A12 z magazynu. Prawidłowo.
+Dla dzisiejszego zlecenia (sosna świeża 32%, deski 28 mm) pierwszy wiersz: **stopowa 7/8, kąt 10°**. Mykoła wybrał ST-38-7/8-A12 z magazynu. Prawidłowo.
 
 ### 3. Napięcie taśmy, głębokie wpłynięcie na cięcie
 
@@ -235,7 +235,7 @@ Napięcie taśmy w pilarce taśmowej to siła, z jaką koła pilarki ciągną ta
 - Zużycie spoiny taśmy rośnie (średnia żywotność taśmy 140-180 cięć przy 2200 PSI, 110-140 cięć przy 2400 PSI)
 - Obciążenie łożysk kół rośnie (ale niewielkie, poniżej 1% skrócenia żywotności na każde 100 PSI)
 
-Dla dzisiejszego zlecenia (sosna świeża, stopowa, komfortowo w pracy) **2200 PSI** jest wyborem standardowym. Rustam tak ustawił. Dla sosny suchej lub mieszanki sosny z modrzewiem (który jest twardszy) rozważałby 2300.
+Dla dzisiejszego zlecenia (sosna świeża, stopowa, komfortowo w pracy) **2200 PSI** jest wyborem standardowym. Mykoła tak ustawił. Dla sosny suchej lub mieszanki sosny z modrzewiem (który jest twardszy) rozważałby 2300.
 
 **Pułapka częsta początkujących**: „wystarczy napiąć bardziej, rzaz będzie lepszy". Nie zawsze, bo czasem lepszy rzaz daje korekta prędkości posuwu (wolniej), a nie napięcie. I napięcie powyżej 2400 PSI kosztuje taśmą częściej niż daje jakością rzazu.
 
@@ -268,9 +268,9 @@ Brak kalibracji prowadników to jeden z trzech najczęstszych powodów falistego
 
 Prędkość posuwu jest jedynym parametrem, który **zmienia się w trakcie zmiany**. Taśma jest taka sama, napięcie jest takie samo, prowadniki są takie same. Ale prędkość **korygujesz** na podstawie obserwacji cięcia.
 
-**Start**: rekomendacja Wood-Mizer z DTR (tabela 3.5 LT70) albo doświadczenie EGIDA. Dla sosny świeżej 28 mm deska, jak Rustam dzisiaj: **32 stopy/min** (środek zakresu 30-35 rekomendowanego).
+**Start**: rekomendacja Wood-Mizer z DTR (tabela 3.5 LT70) albo doświadczenie EGIDA. Dla sosny świeżej 28 mm deska, jak Mykoła dzisiaj: **32 stopy/min** (środek zakresu 30-35 rekomendowanego).
 
-**Korekta po pierwszym cięciu** (pierwsza oblina zdjęta, Rustam patrzy na powierzchnię cięcia):
+**Korekta po pierwszym cięciu** (pierwsza oblina zdjęta, Mykoła patrzy na powierzchnię cięcia):
 
 - Powierzchnia **gładka i prosta** (rzaz jak kartka papieru, bez fali) → prędkość OK, zostaw 32.
 - Powierzchnia **z delikatnym „łuskowaniem"** w kierunku cięcia (małe piki co 5-10 cm na długości) → prędkość **za szybka**, zmniejsz do 28-30 stóp/min.
@@ -279,7 +279,7 @@ Prędkość posuwu jest jedynym parametrem, który **zmienia się w trakcie zmia
 - Dźwięk silnika **nie równy**, „falujący" → prędkość **za szybka**, silnik dochodzi do przeciążenia, zwolnij o 3-5 stóp/min.
 - Dźwięk silnika **bardzo wysoki, świszczący** → prędkość **za wolna** (silnik pracuje „luźno", taśma nie gryzie w drewno, marnowana energia), zwiększ o 3-5 stóp/min.
 
-Rustam uczy tej korekty Wahana poprzez **nazwane przykłady**. Każdy kolejny pień ma okazję do zmiany prędkości i Wahan uczy się słuchać silnika.
+Mykoła uczy tej korekty Wasyla poprzez **nazwane przykłady**. Każdy kolejny pień ma okazję do zmiany prędkości i Wasyl uczy się słuchać silnika.
 
 **Zapis w KDP-001** końcowy (po zmianie, wieczór), w polu „Parametry rzeczywiste zastosowane":
 ```
@@ -296,15 +296,15 @@ To jest dokument mocy brygadzisty: widzi, że operator nie tylko ustawił parame
 
 Schemat A, cant sawing (cięcie do kwadratu, potem równolegle):
 
-**Etap 1**. Pień leży poziomo na łóżku, przekrój czołowy okrągły widoczny z przodu maszyny. Rustam uruchamia posuw, głowica idzie po szynie, taśma zdejmuje **pierwszą oblinę** (zaokrąglona wypukłość z górnej strony pnia, zwykle 3-5 cm grubości w środku, węższa na końcach). Grubość obliny szacuje wzrokowo przed startem ustawieniem wysokości głowicy. Efekt: pień z płaską górą.
+**Etap 1**. Pień leży poziomo na łóżku, przekrój czołowy okrągły widoczny z przodu maszyny. Mykoła uruchamia posuw, głowica idzie po szynie, taśma zdejmuje **pierwszą oblinę** (zaokrąglona wypukłość z górnej strony pnia, zwykle 3-5 cm grubości w środku, węższa na końcach). Grubość obliny szacuje wzrokowo przed startem ustawieniem wysokości głowicy. Efekt: pień z płaską górą.
 
-**Etap 2**. Obrót pnia 180° (z pomocą obracarki hydraulicznej, log turner). Poprzednia góra jest teraz dołem, poprzedni dół góra. Rustam zdejmuje **drugą oblinę**. Efekt: pień z dwiema płaskimi bokami przeciwległymi, dwie obliny oryginalne po stronach lewo i prawo.
+**Etap 2**. Obrót pnia 180° (z pomocą obracarki hydraulicznej, log turner). Poprzednia góra jest teraz dołem, poprzedni dół góra. Mykoła zdejmuje **drugą oblinę**. Efekt: pień z dwiema płaskimi bokami przeciwległymi, dwie obliny oryginalne po stronach lewo i prawo.
 
-**Etap 3**. Obrót pnia 90° (ta sama obracarka). Jedna z dwóch bocznych oblin jest teraz na górze. Rustam zdejmuje **trzecią oblinę**. Efekt: pień z trzema płaskimi stronami.
+**Etap 3**. Obrót pnia 90° (ta sama obracarka). Jedna z dwóch bocznych oblin jest teraz na górze. Mykoła zdejmuje **trzecią oblinę**. Efekt: pień z trzema płaskimi stronami.
 
 **Etap 4**. Obrót pnia 180°. Ostatnia oblina (czwarta) na górze. Zdjęcie. Efekt: **kwadratowy blat (cant)**, wymiary zbliżone do kwadratu. Dla sosny Ø 32 cm średnica, kwadrat wychodzi około 23 × 23 cm (boki z poślizgiem, straty 20-25% w 4 oblinach).
 
-**Etap 5 i dalsze**. Z cantu Rustam tnie równolegle deski o grubości 28 mm. Licząc: 23 cm / 28 mm = 8,2, czyli **8 desek** czystych plus 9. jest „pół-deska" (resztka 15-20 mm), która idzie na opał lub do obróbki jako listwa. Ośmiu desek o wymiarach 28 × 155 mm (szerokość ograniczona przekrojem cantu) i długości 4050 mm.
+**Etap 5 i dalsze**. Z cantu Mykoła tnie równolegle deski o grubości 28 mm. Licząc: 23 cm / 28 mm = 8,2, czyli **8 desek** czystych plus 9. jest „pół-deska" (resztka 15-20 mm), która idzie na opał lub do obróbki jako listwa. Ośmiu desek o wymiarach 28 × 155 mm (szerokość ograniczona przekrojem cantu) i długości 4050 mm.
 
 **Czas całego schematu A dla jednego pnia 32 cm i 4 m**: 4 obliny po ~35 sekund = 2 min 20 s, plus 8 desek po ~30 sekund (deska jest krótsza niż pień, tak samo dług) = 4 min, plus 4 obroty po ~15 s = 1 min. Łącznie **~7-8 minut** od pierwszego cięcia do ostatniej deski.
 
@@ -314,7 +314,7 @@ Schemat A, cant sawing (cięcie do kwadratu, potem równolegle):
 
 Schemat B, quarter sawing (czwartowanie):
 
-**Etap 1**. Pień leży poziomo, Rustam ustawia pierwsze cięcie tak, że taśma idzie przez środek pnia, przez rdzeń. Cięcie trwa całą długość pnia. Efekt: **pień na dwie półkole** (bogate w kształt litery D).
+**Etap 1**. Pień leży poziomo, Mykoła ustawia pierwsze cięcie tak, że taśma idzie przez środek pnia, przez rdzeń. Cięcie trwa całą długość pnia. Efekt: **pień na dwie półkole** (bogate w kształt litery D).
 
 **Etap 2**. Jedna półkola odkłada się (wózek pomocnika), druga obrócona o 90° względem pierwotnego ułożenia (płaski bok teraz na dole, zaokrąglenie do góry). Cięcie przez środek tej półkoli, prostopadle do pierwotnego cięcia. Efekt: **ćwiartka pnia** (kształt litery Y nieregularny).
 
@@ -338,7 +338,7 @@ Schemat B, quarter sawing (czwartowanie):
 - Taśmy mało pozostało życia (schemat B zużywa taśmę szybciej, 15-20% skrócenie żywotności na pień)
 - Presja czasowa (zlecenie na jutro, nie ma 2 razy więcej czasu)
 
-Rustam dziś wybrał A. Wahan zapisał w kalendarzyku pytanie: „*Kiedy B?*" na rozmowę po zmianie.
+Mykoła dziś wybrał A. Wasyl zapisał w kalendarzyku pytanie: „*Kiedy B?*" na rozmowę po zmianie.
 
 ### 8. Dokumentacja decyzji, karta KDP-001
 
@@ -420,11 +420,11 @@ Nie każde zlecenie jest w polu komfortu operatora M3. Są sytuacje, gdy operato
 
 ### 11. Dzień pierwszy na P3 po serwisie, obserwacje pokażywcze
 
-Zwróć uwagę, że dziś jest **pierwszy dzień P3 po serwisie Pana Krzysztofa z czwartku**. Cylinder podnoszenia głowicy wymieniona uszczelka, dolane 400 ml oleju hydraulicznego, wszystko przetestowane pod nadzorem. Rustam ma dwa powody dodatkowej czujności:
+Zwróć uwagę, że dziś jest **pierwszy dzień P3 po serwisie Pana Krzysztofa z czwartku**. Cylinder podnoszenia głowicy wymieniona uszczelka, dolane 400 ml oleju hydraulicznego, wszystko przetestowane pod nadzorem. Mykoła ma dwa powody dodatkowej czujności:
 
-**Powód 1. Manometr**. Manometr napięcia taśmy jest związany z cylindrem naprężacza, nie podnoszenia. Ale oba cylindry w tym samym systemie hydraulicznym (wspólny zbiornik oleju Shell TTF-SB, wspólna pompa). Jeżeli system hydrauliczny po serwisie ma minimalne inne ciśnienie robocze niż przed, manometr naprężacza może pokazywać trochę inne wartości. Rustam **sprawdza kalibrację manometru** przez obracanie pokrętłem naprężacza od LUZ do pełnego zakresu, obserwując narastanie od 0 do 2200 PSI płynnie, bez skoków. **OK**, manometr płynny, kalibracja pozornie trzymana.
+**Powód 1. Manometr**. Manometr napięcia taśmy jest związany z cylindrem naprężacza, nie podnoszenia. Ale oba cylindry w tym samym systemie hydraulicznym (wspólny zbiornik oleju Shell TTF-SB, wspólna pompa). Jeżeli system hydrauliczny po serwisie ma minimalne inne ciśnienie robocze niż przed, manometr naprężacza może pokazywać trochę inne wartości. Mykoła **sprawdza kalibrację manometru** przez obracanie pokrętłem naprężacza od LUZ do pełnego zakresu, obserwując narastanie od 0 do 2200 PSI płynnie, bez skoków. **OK**, manometr płynny, kalibracja pozornie trzymana.
 
-**Powód 2. Wyciek**. Wczoraj (piątek) Damian pracował na P3 po serwisie, bez incydentu. W sobotę maszyna była zimna, kondensat mógł się pojawić (zmiana temperatury dnia i nocy). Rustam **przed startem sprawdza podłogę pod cylindrem podnoszenia**: żadnej plamki, żadnej wilgotności, sucho. **OK**, serwis trzyma.
+**Powód 2. Wyciek**. Wczoraj (piątek) Damian pracował na P3 po serwisie, bez incydentu. W sobotę maszyna była zimna, kondensat mógł się pojawić (zmiana temperatury dnia i nocy). Mykoła **przed startem sprawdza podłogę pod cylindrem podnoszenia**: żadnej plamki, żadnej wilgotności, sucho. **OK**, serwis trzyma.
 
 Wpis w KDP-001, sekcja „Ustawienia maszyny", adnotacja:
 ```
@@ -434,19 +434,19 @@ Pod cylindrem podnoszenia sucho, bez wycieku od soboty.
 Start zlecenia ZLE-077, 7:40.
 ```
 
-To nie wymóg formalny, to **dobry nawyk operatora samodzielnego**. W razie wykrycia usterki w ciągu zmiany Rustam będzie miał ślad „po starcie było OK" jako punkt odniesienia.
+To nie wymóg formalny, to **dobry nawyk operatora samodzielnego**. W razie wykrycia usterki w ciągu zmiany Mykoła będzie miał ślad „po starcie było OK" jako punkt odniesienia.
 
 ## Scena domykająca, 14:30, pierwsze trzy pnie zakończone
 
-Poniedziałek 2026-05-26, godzina 14:30. Rustam i Wahan mają za sobą **trzy pnie z czterech**: P1, P2, P3. Pień P4 w kolejce do cięcia, rozpoczęcie 14:35, szacowany koniec 15:10, czyli 10 minut po formalnej godzinie końca zmiany (15:00). Brygadzista (Marek) widzi to i nie ma problemu, zapłaci 10 minut nadgodziny wg stawki standard.
+Poniedziałek 2026-05-26, godzina 14:30. Mykoła i Wasyl mają za sobą **trzy pnie z czterech**: P1, P2, P3. Pień P4 w kolejce do cięcia, rozpoczęcie 14:35, szacowany koniec 15:10, czyli 10 minut po formalnej godzinie końca zmiany (15:00). Brygadzista (Marek) widzi to i nie ma problemu, zapłaci 10 minut nadgodziny wg stawki standard.
 
 ### Bilans trzech pni
 
-**Pień 1**: zdjęto 4 obliny (3 min 40 s), zdjęto 8 desek 28 × 155 mm (4 min 30 s), plus 1 listwa resztkowa 18 × 155 mm (do opału). Total 8 desek, **0,1412 m³** tarcicy surowej. Pierwsza i ostatnia deska z cantu zawierały część obliny (sęk żywiczny na 80 cm, Rustam oznaczył dla klasyfikatora). Uzysk pnia P1: **57%**.
+**Pień 1**: zdjęto 4 obliny (3 min 40 s), zdjęto 8 desek 28 × 155 mm (4 min 30 s), plus 1 listwa resztkowa 18 × 155 mm (do opału). Total 8 desek, **0,1412 m³** tarcicy surowej. Pierwsza i ostatnia deska z cantu zawierały część obliny (sęk żywiczny na 80 cm, Mykoła oznaczył dla klasyfikatora). Uzysk pnia P1: **57%**.
 
 **Pień 2**: Pień najlepszy (bez wad). Obliny 3 min 50 s, 9 desek 28 × 155 mm (5 min), resztka 12 × 155 mm (do opału). **9 desek, 0,158 m³**. Uzysk: **64%**. Najlepszy.
 
-**Pień 3**: Pień z pęknięciem promieniowym 8 cm na odziomku. Rustam orientował pęknięcie **w dół** w pierwszym ustawieniu (nie do góry, bo wtedy byłoby w oblinie, marnotrawstwo). Po zdjęciu czwartej obliny pęknięcie ujawniło się w cancie jako 8 cm długi ślad w górnym rogu. Rustam tnie 8 desek, z których **7** jest czystych, 8. zawiera pęknięcie (zostaje zaklasyfikowana jako C16 zamiast C24, spadek jakości, ale akceptowalne dla sortymentu podłogowego). Total 8 desek, **0,141 m³**. Uzysk: **56%**.
+**Pień 3**: Pień z pęknięciem promieniowym 8 cm na odziomku. Mykoła orientował pęknięcie **w dół** w pierwszym ustawieniu (nie do góry, bo wtedy byłoby w oblinie, marnotrawstwo). Po zdjęciu czwartej obliny pęknięcie ujawniło się w cancie jako 8 cm długi ślad w górnym rogu. Mykoła tnie 8 desek, z których **7** jest czystych, 8. zawiera pęknięcie (zostaje zaklasyfikowana jako C16 zamiast C24, spadek jakości, ale akceptowalne dla sortymentu podłogowego). Total 8 desek, **0,141 m³**. Uzysk: **56%**.
 
 **Suma po trzech pniach**: 25 desek **dobrej jakości** (sortyment docelowy), 0,441 m³ tarcicy surowej. Plus 1 deska C16 z pęknięciem z P3 (może idzie do listwy boazeryjnej zamiast podłogi).
 
@@ -454,21 +454,21 @@ Poniedziałek 2026-05-26, godzina 14:30. Rustam i Wahan mają za sobą **trzy pn
 
 Prędkość posuwu:
 - Pień 1, start 32 st/min, bez korekty, OK (rzaz prosty).
-- Pień 2, start 32, po pierwszych 2 m głowicy delikatne łuskowanie na powierzchni, Rustam zmniejsza na 30 st/min, reszta cięć OK. Decyzja na bazie obserwacji powierzchni.
+- Pień 2, start 32, po pierwszych 2 m głowicy delikatne łuskowanie na powierzchni, Mykoła zmniejsza na 30 st/min, reszta cięć OK. Decyzja na bazie obserwacji powierzchni.
 - Pień 3, start 30 (pamięć z P2, sosna świeża zachowuje się podobnie), całość 30, OK. Lekka obniżka klasy P3 deski 8. to wada surowca, nie parametru.
 
 Napięcie taśmy:
 - 2200 PSI przez całe trzy pnie, bez korekty. Manometr drgał w zakresie 2180-2220 (dopuszczalne odchylenie), nie było konieczności dolewania.
 
 Prowadniki:
-- Skalibrowane rano 3,5 mm, na koniec P2 Rustam sprawdził szybki test szczelinomierzem, szczelina trzyma (3,5-3,6 mm, dryf minimalny).
+- Skalibrowane rano 3,5 mm, na koniec P2 Mykoła sprawdził szybki test szczelinomierzem, szczelina trzyma (3,5-3,6 mm, dryf minimalny).
 
 Taśma:
 - Stopowa 38/7/8 ST-38-7/8-A12, licznik po 3 pniach = **~90 cięć** (obliny + deski + obroty pojedynczego pnia ~30 cięć, 3 pnie = 90). Taśma jeszcze świeża, na dzisiejszą zmianę wystarczy, wymiana najwcześniej po 140-180 cięciach, czyli za 2 pnie więcej niż dziś (jutro wtorek pień 4 plus kolejne 4 jeśli będzie zlecenie kontynuowane).
 
 ### Wpis w KDP-001, sekcja 5 (parametry rzeczywiste)
 
-Rustam dopisuje w sekcji 5 karty:
+Mykoła dopisuje w sekcji 5 karty:
 
 ```
 Parametry rzeczywiste zastosowane:
@@ -482,21 +482,21 @@ Strategia kolejności pni: P2 (najlepszy) na drugi,
         żeby parametry ustabilizować przed P3 (z pęknięciem).
 ```
 
-### Refleksja Rustama
+### Refleksja Mykoły
 
-Rustam rozmawia z Wahanem przy kawie w przerwie 14:35 przed rozpoczęciem P4:
+Mykoła rozmawia z Wasylem przy kawie w przerwie 14:35 przed rozpoczęciem P4:
 
-*„Wahan, zauważyłeś, że na P2 zmieniłem prędkość po 2 metrach? Pierwsze 2 metry szły dobrze, potem zacząłem widzieć małe piki na powierzchni cięcia, co 10 cm. Znasz to? To znaczy prędkość za duża, taśma nie nadąża gryźć. Zwolniłem, małe piki zniknęły. Szybsza korekta, tańsza niż zepsuta deska."*
+*„Wasyl, zauważyłeś, że na P2 zmieniłem prędkość po 2 metrach? Pierwsze 2 metry szły dobrze, potem zacząłem widzieć małe piki na powierzchni cięcia, co 10 cm. Znasz to? To znaczy prędkość za duża, taśma nie nadąża gryźć. Zwolniłem, małe piki zniknęły. Szybsza korekta, tańsza niż zepsuta deska."*
 
-Wahan potakuje. W kalendarzyku ma notatkę: „*32 start sosna → jeśli piki, zwolnić do 30. Tylko jak same piki, nie fala, bo fala to taśma albo napięcie.*"
+Wasyl potakuje. W kalendarzyku ma notatkę: „*32 start sosna → jeśli piki, zwolnić do 30. Tylko jak same piki, nie fala, bo fala to taśma albo napięcie.*"
 
 *„Jak myślisz, dlaczego zacząłem od P1, nie od P2?"*
 
-Wahan myśli chwilę: *„Bo... P1 był pierwszy w magazynie?"*
+Wasyl myśli chwilę: *„Bo... P1 był pierwszy w magazynie?"*
 
 *„Nie. Bo P1 ma sęk żywiczny, a ja chciałem pierwsze cięcie ze sękiem, żeby sprawdzić jak parametry działają na trudniejszym wariancie. Jak działają na trudnym, będą działać na łatwym. Odwrotnie nie. **Od trudnego do łatwego w pierwszym cięciu zmiany**, potem do łatwego na koniec. To się zapamiętuje."*
 
-Wahan zapisuje: „*Pierwszy pień = najtrudniejszy albo typowy. Nie ten najłatwiejszy, bo parametry złudzą.*"
+Wasyl zapisuje: „*Pierwszy pień = najtrudniejszy albo typowy. Nie ten najłatwiejszy, bo parametry złudzą.*"
 
 *„I jeszcze jedno. W KDP-001 zobaczysz, że w sekcji 5 wpisałem, dlaczego zmieniłem prędkość na P2. Nie tylko 'zmieniłem', ale 'zmieniłem bo łuskowanie'. Jak ktoś przyjdzie za rok albo dwa i popatrzy, zobaczy nie tylko co, ale i dlaczego. **Parametr bez uzasadnienia to magia. Parametr z uzasadnieniem to wiedza.**"*
 
@@ -506,9 +506,9 @@ Pień 4 (najsmuklejszy, bez wad): 4 obliny 3 min 30 s, 8 desek 28 × 155 mm, res
 
 **Suma czterech pni**: 33 deski sortyment docelowy (32 C24 + 1 C16 pęknięta), **0,582 m³** tarcicy surowej. Zlecenie wymagało 0,55 m³, więc **nadwyżka 5%**, dobra dla buforu suszenia (z tego 0,58 m³ po suszeniu i obróbce zostanie ~0,49 m³, zamówienie klienta 0,48 m³, nadwyżka 2%). **Zlecenie zrealizowane zgodnie z oczekiwaniami**.
 
-Rustam zdejmuje taśmę (będzie na jutro, w magazynie pod folią), sprząta stanowisko z Wahanem (10 minut), wypełnia KDP-001 końcowo (sekcja 5 plus podpis plus godzina 15:18), składa kartę w kopercie, kładzie na biurku brygadzisty.
+Mykoła zdejmuje taśmę (będzie na jutro, w magazynie pod folią), sprząta stanowisko z Wasylem (10 minut), wypełnia KDP-001 końcowo (sekcja 5 plus podpis plus godzina 15:18), składa kartę w kopercie, kładzie na biurku brygadzisty.
 
-Marek przyjdzie wieczorem, przeczyta, wpisze swoje uwagi do akt osobowych Rustama (jeżeli są), KDP pójdzie do skanowania jutro rano do OneDrive.
+Marek przyjdzie wieczorem, przeczyta, wpisze swoje uwagi do akt osobowych Mykoły (jeżeli są), KDP pójdzie do skanowania jutro rano do OneDrive.
 
 ## Kluczowe terminy
 

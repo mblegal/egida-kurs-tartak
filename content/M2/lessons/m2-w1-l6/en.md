@@ -10,7 +10,7 @@ Tuesday, the seventh day of week 1. Yesterday (lesson 5) Oleh read Rozp. MG 2000
 
 Andrei starts the planer, sets the thickness to 27 mm, feeds in an oak board. The machine cuts. After fifteen boards Andrei tastes something sweet in his mouth. After thirty he notices that the dust bin behind the planer **is not filling up as fast as it should**. He pushes the next board through and looks under the machine. **Chips are falling on the floor. The extraction is not working.**
 
-Andrei hits STOP (left hand by reflex, the way Hai did in lesson 3). He stops the planer and goes to check. The filter in the cyclone behind the building is **completely clogged**. Two months without a change, differential pressure 2400 Pa instead of 800 Pa (replacement limit is 1200 Pa). The extraction produces 5 m/s instead of 22 m/s. Chips fall on the floor, and **fine dust hangs in the air and enters Andrei's lungs**.
+Andrei hits STOP (left hand by reflex, the way Andrij did in lesson 3). He stops the planer and goes to check. The filter in the cyclone behind the building is **completely clogged**. Two months without a change, differential pressure 2400 Pa instead of 800 Pa (replacement limit is 1200 Pa). The extraction produces 5 m/s instead of 22 m/s. Chips fall on the floor, and **fine dust hangs in the air and enters Andrei's lungs**.
 
 This is a lesson about the dust you can see, and the dust you cannot. Coarser chips are not dangerous: you sweep them up with a shovel. **Fine dust from oak and beech is a Group 1 carcinogen according to IARC**, as certain a cause of cancer as asbestos or tobacco smoke. And it is **explosive**: 30-50 g/m³ in the air plus a spark from a bearing equals a dust fire that engulfs the whole hall in five seconds.
 

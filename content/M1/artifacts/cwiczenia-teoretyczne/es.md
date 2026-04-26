@@ -59,7 +59,7 @@ Formato: el formador lee el caso en voz alta al grupo, da 2-3 minutos de reflexi
 
 ## Caso 5: „Fírmame la hoja, colega"
 
-**Situación**. Jueves, 7:45. El ayudante se acerca al escritorio con el registro de asistencia. Un compañero del equipo (bielorruso, buen conocido, llevan 3 meses juntos) se le acerca: „mira, voy a llegar 40 minutos tarde, dentista. Fírmame la hora 6:50, ¿vale? Normalmente lo haría yo, pero quiero evitar líos con el capataz, solo por esta vez". El ayudante le aprecia, sabe que el compañero anda mal de dinero y un retraso puede significar descuento.
+**Situación**. Jueves, 7:45. El ayudante se acerca al escritorio con el registro de asistencia. Un compañero del equipo (colombiano, buen conocido, llevan 3 meses juntos) se le acerca: „mira, voy a llegar 40 minutos tarde, dentista. Fírmame la hora 6:50, ¿vale? Normalmente lo haría yo, pero quiero evitar líos con el capataz, solo por esta vez". El ayudante le aprecia, sabe que el compañero anda mal de dinero y un retraso puede significar descuento.
 
 **Preguntas de debate**:
 1. ¿Qué pasa si el ayudante firma?

@@ -28,13 +28,13 @@ Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M3.
 
 **Co NIE wie jeszcze**. Systemowa dokumentacja wieloformularzowa (KDP-001, KS-001, KKS-001, KAO-001), ekonomika pojedynczego zlecenia, reklamacje klienta przez pryzmat Kodeksu cywilnego, nadzór pedagogiczny nad M2, planowanie kariery liczbowej, audyty FSC od strony operatora, granica kompetencji wewnętrzna (operator vs UR) vs zewnętrzna (operator vs serwis producenta).
 
-**Doświadczenie praktyczne**. W przeciwieństwie do M2 (gdzie kursant przychodzi świeżo po M1), kursant M3 ma za sobą **2-3 miesiące pracy na hali** jako operator junior. Wie, jak wygląda zmiana w realu, nie tylko w symulacji. Zna swojego brygadzistę, wózkowego, mistrza suszarni. Ma pierwsze incydenty (zerwanie taśmy, awaria hydrauliczna, drobna reklamacja). To **zmienia dynamikę sali**: kursanci mówią o konkretach ze swojego tartaku, nie o teorii. Trener powinien używać tej wiedzy, zapraszać do dzielenia się: „Rustam, u ciebie w EGIDA Kętrzyn jak to wygląda?".
+**Doświadczenie praktyczne**. W przeciwieństwie do M2 (gdzie kursant przychodzi świeżo po M1), kursant M3 ma za sobą **2-3 miesiące pracy na hali** jako operator junior. Wie, jak wygląda zmiana w realu, nie tylko w symulacji. Zna swojego brygadzistę, wózkowego, mistrza suszarni. Ma pierwsze incydenty (zerwanie taśmy, awaria hydrauliczna, drobna reklamacja). To **zmienia dynamikę sali**: kursanci mówią o konkretach ze swojego tartaku, nie o teorii. Trener powinien używać tej wiedzy, zapraszać do dzielenia się: „Mykoła, u ciebie w EGIDA Kętrzyn jak to wygląda?".
 
-**Polski przy starcie M3**: B1 (60-75% rozumienia) u większości po 6 miesiącach narażenia. Ukraińcy i Białorusini często już B2 przez słowiańską bliskość. Filipinczycy i Wietnamczycy wolniej, B1- z wąską specjalizacją terminologiczną (umieją 200+ słów tartacznych, ale gubią się w rozmowie o polityce czy rodzinie). Kursanci hiszpańskojęzyczni (Peru, Kolumbia) zwykle A2-B1, potrzebują więcej czasu na przetłumaczenie prawniczego języka (KC art. 556-563).
+**Polski przy starcie M3**: B1 (60-75% rozumienia) u większości po 6 miesiącach intensywnego kontaktu. Ukraińcy często już B2 dzięki bliskości słowiańskiej. Kursanci hiszpańskojęzyczni (Kolumbijczycy, Wenezuelczycy, Peruwiańczycy, Boliwijczycy) zwykle A2-B1, potrzebują dłużej na przyswojenie języka prawniczego (art. 556-563 KC); rozumieją terminologię techniczną tartaku (200+ słów branżowych), ale gubią się w bardziej abstrakcyjnych rozmowach.
 
 **Motywacja**. Wysoka. Ścieżka widoczna: po M3 stawka operatora samodzielnego 55-70 zł brutto/h (M2 junior: 40-55 zł, M1 pomocnik: 28-35 zł). Po UDT IIWJO W-M + SEP G1-E (kurs 2500+500 zł, ROI 5,7 miesiąca): 65-85 zł. Po 2-3 latach stażu możliwość awansu na brygadzistę (85-100 zł) lub mistrza suszarni BTM (8500 zł brutto mies.). **Kurs M3 to kluczowy przeskok** z pracy „z ulicy" do wykwalifikowanej specjalizacji polskiego tartaku z perspektywą osiedlenia.
 
-**Bariery nowe w M3**. (1) **Odpowiedzialność prawna** – kursanci z krajów bez rozwiniętego systemu roszczeń cywilnych boją się podpisów pod KAO-001 i dokumentacją partii; (2) **ekonomia** – pierwsze widzenie marży minus w raporcie zmianowym EGIDA-RZ-001 jest szokiem dla kursanta, który czuje się winny mimo braku błędu; (3) **nadzór nad kolegą** – kursant musi nauczyć się korygować Adriana (M2 pod sobą), nie bojąc się zepsuć relacji; (4) **samotność decyzji parametrycznej** – KDP-001 wypełniana 5 minut przed startem bez konsultacji, to pierwszy raz gdy nikt nie podpowiada.
+**Bariery nowe w M3**: (1) **odpowiedzialność prawna**: kursanci z krajów o słabszej tradycji roszczeń cywilnych (część kursantów latynoskich, sporadycznie inni) boją się podpisów pod KAO-001 i dokumentacją partii; (2) **ekonomia**: pierwsze zobaczenie marży minus w raporcie zmianowym EGIDA-RZ-001 jest szokiem dla kursanta, który czuje się winny, choć nie popełnił błędu; (3) **nadzór nad kolegą**: kursant musi nauczyć się korygować Adriana (M2 pod swoim nadzorem) bez psucia relacji; (4) **samotność decyzji parametrycznej**: KDP-001 wypełniana pięć minut przed startem bez konsultacji to pierwszy raz, gdy nikt nie podpowiada.
 
 ### Zmiana postawy
 
@@ -58,19 +58,19 @@ W M1 postawa była „obserwuję, nie dotykam". W M2 postawa: „obsługuję, al
 
 **8 lekcji**. Rytm: od „dokumentacja partii z klasyfikatorem" (l1 KEP-001) przez „raport zmianowy z marżą" (l6 EGIDA-RZ-001) do bloku syntetyzującego.
 
-**Specyfika**. Najtrudniejszy blok dla kursantów bez doświadczenia biznesowego. Pierwsza konfrontacja z marżą minus (case ZLE-2026-05-077 Rustama: minus 529 zł) wymaga pedagogicznej interwencji. Trener musi jasno rozróżnić: **decyzja parametryczna operatora ≠ wynik finansowy zlecenia**. Straty mogą wynikać z małych pni, premii terminowej klienta, sezonu, nie z błędu M3. Stosuj **tabele kosztów tartaku EGIDA** (surowiec 34% + praca 19% + obróbka 17,5% + amortyzacja 16% + suszenie 7,5% + materiały 3% + pozostałe 3%) na slajdzie stałym przez cały tydzień.
+**Specyfika**. Najtrudniejszy blok dla kursantów bez doświadczenia biznesowego. Pierwsza konfrontacja z marżą minus (case ZLE-2026-05-077 Mykoły: minus 529 zł) wymaga pedagogicznej interwencji. Trener musi jasno rozróżnić: **decyzja parametryczna operatora ≠ wynik finansowy zlecenia**. Straty mogą wynikać z małych pni, premii terminowej klienta, sezonu, nie z błędu M3. Stosuj **tabele kosztów tartaku EGIDA** (surowiec 34% + praca 19% + obróbka 17,5% + amortyzacja 16% + suszenie 7,5% + materiały 3% + pozostałe 3%) na slajdzie stałym przez cały tydzień.
 
 ### Tydzień 3: Procesy zaawansowane i nadzór nad M2 (T3)
 
 **8 lekcji**. Rytm: od „suszenie zaawansowane z panem Henrykiem" (l1-l4) przez „nadzór nad M2 z kartą KAO-001" (l7) do „diagnoza usterki przez 3 zmysły" (l8).
 
-**Specyfika**. Tydzień 3 wprowadza **rolę nadzorczą**, która jest nowością dla kursanta. Większość migrantów nigdy nie była w roli nadzoru nad kolegą w życiu zawodowym (ani w ojczyźnie, ani w Polsce jako M1/M2). Trener musi rozbudować **pedagogikę korekty**: „koryguję gdy błędne, nie gdy inne niż moje" (regulamin EGIDA § 8 ust. 3). Role-play w parach: jeden gra Rustama (M3), drugi Adriana (M2), trener daje scenariusz z 3 korektami merytorycznymi i 1 różnicą stylu.
+**Specyfika**. Tydzień 3 wprowadza **rolę nadzorczą**, która jest nowością dla kursanta. Większość migrantów nigdy nie była w roli nadzoru nad kolegą w życiu zawodowym (ani w ojczyźnie, ani w Polsce jako M1/M2). Trener musi rozbudować **pedagogikę korekty**: „koryguję gdy błędne, nie gdy inne niż moje" (regulamin EGIDA § 8 ust. 3). Role-play w parach: jeden gra Mykoły (M3), drugi Adriana (M2), trener daje scenariusz z 3 korektami merytorycznymi i 1 różnicą stylu.
 
 ### Tydzień 4: Organizacja zmiany, reklamacje, kariera, test (T4)
 
 **8 lekcji**. Rytm: od „dokumentacja partii rozszerzona" (l1) przez „reklamacja klienta z KC" (l2), „audyt FSC" (l3), „koordynacja 4 kanałów" (l4), „przekazanie zmiennikowi" (l5), „planowanie kariery" (l6) do bloku syntetyzującego recap (l7) i testu końcowego + przygotowania do egzaminu praktycznego (l8).
 
-**Specyfika**. Najgęstszy tydzień narracyjnie. Cztery nowe tematy prawne (KC 556-563, KP 100-151, Ustawa dozorowa 2000, Prawo energetyczne 1997), każdy wymaga czasu na przyswojenie. Kursanci hiszpańskojęzyczni i azjatyccy potrzebują **druków bilingualnych artykułów KC** w ich języku ojczystym (art. 556 po hiszpańsku, wietnamsku, ukraińsku).
+**Specyfika**. Najgęstszy tydzień narracyjnie. Cztery nowe tematy prawne (art. 556-563 KC, art. 100-151 KP, ustawa dozorowa z 2000 r., Prawo energetyczne z 1997 r.); każdy wymaga czasu na przyswojenie. Kursanci hiszpańskojęzyczni i ukraińscy potrzebują **dwujęzycznych druków artykułów KC** w ich języku ojczystym (art. 556 po hiszpańsku i ukraińsku, w razie potrzeby także w innych językach grupy).
 
 **Plus Blok 3 T4**:
 - **Poniedziałek 29.06** 7:00-9:00, test końcowy l8 (30 pytań × 2 pkt + 3 scenariusze × 10 pkt + 6 zadań × 3 pkt = 108 pkt, próg 76)
@@ -98,9 +98,9 @@ M2 nauczył kursanta obsługiwać pilarkę pod nadzorem. M3 uczy go pięciu nowy
 
 **Ćwiczenia decyzji parametrycznej**. Tydzień 1 codziennie 20 min: trener daje kartę zlecenia (klient, gatunek, wymiar, priorytet), kursanci wypełniają pustą KDP-001 samodzielnie, potem porównują w parach i dyskutują różnice. Trener pokazuje wzór wypełnienia dopiero na końcu.
 
-**Rola-play nadzoru**. Tydzień 3 codziennie 30 min: jeden kursant gra Adriana (M2 robi 3 błędy zaplanowane: prędkość posuwu 85% zamiast 62%, prowadnice 4,2 mm zamiast 3, dziennik ołówkiem zamiast długopisem), drugi kursant gra Rustama (M3 koryguje). Trener obserwuje: czy M3 koryguje wszystko, czy tylko najbardziej widoczne; czy ton korekty jest pedagogiczny, czy krytyczny; czy podopieczny nie czuje się upokorzony.
+**Rola-play nadzoru**. Tydzień 3 codziennie 30 min: jeden kursant gra Adriana (M2 robi 3 błędy zaplanowane: prędkość posuwu 85% zamiast 62%, prowadnice 4,2 mm zamiast 3, dziennik ołówkiem zamiast długopisem), drugi kursant gra Mykoły (M3 koryguje). Trener obserwuje: czy M3 koryguje wszystko, czy tylko najbardziej widoczne; czy ton korekty jest pedagogiczny, czy krytyczny; czy podopieczny nie czuje się upokorzony.
 
-**Błąd typowy**. Kursant M3 po M2 ma nawyk „czekam na potwierdzenie Marka". W M3 to nie wystarcza, bo Marek jest 2 stanowiska dalej i nie może potwierdzać każdej decyzji. Trener aktywnie przełamuje nawyk: „Rustam, widzę, że patrzysz w stronę Marka co 30 sekund. Dziś próbuj nie patrzyć. Zaufaj swojej KDP-001 z dzisiaj rana".
+**Błąd typowy**. Kursant M3 po M2 ma nawyk „czekam na potwierdzenie Marka". W M3 to nie wystarcza, bo Marek jest 2 stanowiska dalej i nie może potwierdzać każdej decyzji. Trener aktywnie przełamuje nawyk: „Mykoła, widzę, że patrzysz w stronę Marka co 30 sekund. Dziś próbuj nie patrzyć. Zaufaj swojej KDP-001 z dzisiaj rana".
 
 ## 5. Cztery bloki tematyczne i ich kalibracja
 
@@ -110,7 +110,7 @@ Test końcowy M3 (108 pkt) rozkłada pytania po modułach w proporcji **20% M1 /
 
 **Co kursant musi wiedzieć**: 5 parametrów KDP-001 (schemat + taśma + napięcie + prędkość + prowadniki), granica zewnętrzna vs wewnętrzna (7 typów usterek z l8 T3), KP art. 120 § 1 (odpowiedzialność pracownika), maksyma EGIDA „decyzja zawsze przed cięciem, nie w trakcie".
 
-**Pułapki**. Kursanci z krajów bez rozwiniętych kontraktów cywilnoprawnych (Uzbekistan, Tadżykistan, Wietnam) mogą mieć trudność z pojęciem „odpowiedzialność prawna pracownika za szkodę". Trener pokazuje **art. 120 § 1 KP** bilingualnie + **case EGIDA** anonimizowany (operator uszkodzony amperomierz przez podniesienie napięcia ponad 2800 PSI, szkoda 4200 zł, KP art. 120 § 1 → pracownik odpowiada do 3 miesięcznych wynagrodzeń = ok. 11000 zł limit, w praktyce 1/3 szkody = 1400 zł potrącenia z pensji).
+**Pułapki**. Kursanci, dla których odpowiedzialność cywilna pracownika jest pojęciem nowym (część kursantów z Ameryki Łacińskiej, gdzie systemy te działają inaczej), mogą mieć trudność z pojęciem „odpowiedzialność majątkowa pracownika za szkodę". Trener pokazuje **art. 120 § 1 KP** dwujęzycznie oraz anonimizowany **przykład z Fundacji EGIDA** (operator uszkodził amperomierz przez podniesienie napięcia ponad 2800 PSI, szkoda 4200 zł; zgodnie z art. 120 § 1 KP pracownik odpowiada do trzymiesięcznego wynagrodzenia, czyli ok. 11 000 zł, w praktyce ok. 1/3 szkody, czyli 1400 zł potrącenia z pensji).
 
 ### Blok T2: Systemy (tydzień 2), 12,5% M3
 
@@ -132,26 +132,26 @@ Test końcowy M3 (108 pkt) rozkłada pytania po modułach w proporcji **20% M1 /
 
 ## 6. Bohaterowie M3 i ich łuki narracyjne
 
-M3 ma **głównego bohatera Rustama Karimova** kontynuującego łuk z M1 (listopad 2025) i M2 (marzec 2026) + **rozszerzony zespół 6 postaci**.
+M3 ma **głównego bohatera Mykołę Hrycenkę** kontynuującego łuk z M1 (listopad 2025) i M2 (marzec 2026) + **rozszerzony zespół 6 postaci**.
 
-### Rustam Karimov (Uzbekistan, Samarkanda, 29 l.)
+### Mykoła Hrycenko (Ukraina, Połtawa, 29 l.)
 
-**M1 T1-T4 listopad 2025**: pomocnik stacjonarny przy Wahanie Petrosjanie (P2 LT30, 3 tygodnie podawania kłód).
+**M1 T1-T4 listopad 2025**: pomocnik stacjonarny przy Wasylu Melnyku (P2 LT30, 3 tygodnie podawania kłód).
 **M2 T1-T4 marzec 2026**: operator junior pod nadzorem Damiana Lisowskiego (P2 LT30, pierwsze samodzielne uruchomienia).
 **Międzykurs kwiecień-maj 2026**: operator M2 na hali, 34 zmiany, 287 m³, 2 drobne incydenty, 0 reklamacji.
 **M3 T1-T4 maj-czerwiec 2026**: operator samodzielny na P3 LT70 (pierwsza własna pilarka większa), pierwszy podopieczny Adrian, pierwsza reklamacja klienta, pierwszy audyt FSC, pierwsza marża minus.
 
-Rustam jest **postacią identyfikacyjną dla kursanta postsowieckiego** (Uzbek, Tadżyk, Kazach, Kirgiz). Spokojny, metodyczny, uczy się przez obserwację. Trener może używać Rustama jako „domyślnego protagonisty". Uwaga: **każda kohorta M3 ma swojego kursanta, którego trener nazywa na sali „drugi Rustam"**, żeby wzmocnić identyfikację (ale tylko jeśli kursant wyrazi zgodę, nie etykietować bez pytania).
+Mykoła jest **postacią identyfikacyjną dla kursanta ukraińskiego o spokojnym, metodycznym profilu**, uczącego się przez obserwację (najliczniejszy profil w bieżących kohortach EGIDA, gdzie Ukraińcy stanowią 45-55%). Jego cechy (rozwaga, namysł przed decyzją, szacunek dla starszych) rezonują również u kursantów kolumbijskich i innych z Ameryki Łacińskiej. Trener może mówić w sali o „drugim Mykole", wskazując kursanta o podobnej postawie, ale **tylko za jego zgodą**; nie etykietuj bez pytania.
 
 ### Adrian Kowal (Polak, 22 l., absolwent technikum drzewnego Biała Podlaska)
 
-**M3 T3 l7 czerwiec 2026**: pierwszy podopieczny Rustama, ocena 21/25 = pełna autoryzacja 30 dni.
+**M3 T3 l7 czerwiec 2026**: pierwszy podopieczny Mykoły, ocena 21/25 = pełna autoryzacja 30 dni.
 
-Adrian to **postać pedagogicznego odwrócenia**: Polak nadzorowany przez migranta. To scenariusz w dzisiejszym tartaku polskim normalny (EGIDA Kętrzyn ma 40% operatorów migrantów), ale psychologicznie trudny dla obu stron. Trener używa Adriana jako przykładu: „jak Rustam rozmawia z Adrianem = wzorzec nadzoru wzajemnie szanującego".
+Adrian to **postać pedagogicznego odwrócenia**: Polak nadzorowany przez migranta. W dzisiejszym polskim tartaku to scenariusz normalny (w wielu zakładach partnerskich znaczący odsetek operatorów to migranci), ale psychologicznie trudny dla obu stron. Trener używa Adriana jako przykładu: „rozmowa Mykoły z Adrianem to wzorzec nadzoru wzajemnie szanującego się".
 
 ### Pan Henryk Domański (Polak, Mikołajki, 62 l., mistrz suszarni BTM 38 lat)
 
-**M3 T3 l1-l4**: mentor suszarnictwa, pokazuje Rustamowi parametry premium Drew-Sus, harmonogramy, monitoring wilgotności końcowej.
+**M3 T3 l1-l4**: mentor suszarnictwa, pokazuje Mykole parametry premium Drew-Sus, harmonogramy, monitoring wilgotności końcowej.
 
 Pan Henryk to **głos doświadczenia i pokory**. Kursanci widzą, że polski senior z 38-letnim doświadczeniem uczy migranta, a migrant uczy się bez poczucia gorszości. Używaj jako przeciwwagi dla kursantów nadmiernie pewnych siebie (sekcja 9.5).
 
@@ -159,23 +159,23 @@ Pan Henryk to **głos doświadczenia i pokory**. Kursanci widzą, że polski sen
 
 **M3 T2 l1-l2 + T4 l1**: partner zawodowy w decyzjach jakościowych, certyfikat PN-EN 1611-1 i PN-EN 14081-1.
 
-Pani Ania reprezentuje **równoległą kompetencję**: nie przełożona Rustama, nie podopieczna, ale równorzędny specjalista. Klasa wizualna deski to jej decyzja, parametry cięcia to Rustama. Kursanci uczą się tej **horyzontalnej relacji zawodowej**, której nie było w M1 (wszyscy seniorzy) ani M2 (brygadzista hierarchicznie).
+Pani Ania reprezentuje **równoległą kompetencję**: nie jest przełożoną Mykoły ani jego podopieczną, lecz równorzędną specjalistką. Klasa wizualna deski to jej decyzja, parametry cięcia to decyzja Mykoły. Kursanci uczą się tej **horyzontalnej relacji zawodowej**, której w M1 nie było (wszyscy byli seniorami) i której w M2 prawie nie było (brygadzista jako hierarchiczny zwierzchnik).
 
 ### Marek Nowak (Polak, 42 l., brygadzista)
 
-Kontynuacja z M1 i M2. W M3 gra rolę **decydenta strategicznego**: akceptuje KDP-001, czyta EGIDA-RZ-001, autoryzuje plan kariery UDT+SEP Rustama, rozmawia z klientem Dom-Bud przy reklamacji.
+Kontynuacja z M1 i M2. W M3 gra rolę **decydenta strategicznego**: akceptuje KDP-001, czyta EGIDA-RZ-001, autoryzuje plan kariery UDT+SEP Mykoły, rozmawia z klientem Dom-Bud przy reklamacji.
 
-### Oleksij Tarasenko (Ukraina, Lwów, 34 l., M3 trainee)
+### Bohdan Szewczenko (Ukraina, Czerniowce, 34 l., M3 trainee)
 
-**M3 T4 l5 czerwiec 2026**: zmiennik Rustama, odbiera EGIDA-PZ-001.
+**M3 T4 l5 czerwiec 2026**: zmiennik Mykoły, odbiera EGIDA-PZ-001.
 
-Oleksij to **postać dla kursanta ukraińsko-białoruskiego** oraz kontekst przekazania między operatorami M3 równorzędnymi. Pokazuje, że M3 nie jest samotną wyspą – współpracuje z innymi M3 w systemie rotacji.
+Bohdan to **druga postać dla kursanta ukraińskiego** o profilu doświadczonego operatora oraz kontekst przekazania zmiany między równorzędnymi operatorami M3. Pokazuje, że M3 nie jest samotną wyspą; współpracuje z innymi operatorami M3 w systemie rotacji.
 
-### Wahan Petrosjan (Armenia, Gyumri, 41 l., M1 stacjonarny)
+### Wasyl Melnyk (Ukraina, Tarnopol, 41 l., M1 stacjonarny)
 
-Kontynuacja z M1 listopad 2025. W M3 pojawia się w retrospektywie l7 (9-miesięczny łuk Rustama) i sporadycznie jako asystent przy wózku. Pokazuje, że **niektóre osoby zostają M1 stacjonarne na stałe** – to też ścieżka kariery, nie porażka.
+Kontynuacja z M1 (listopad 2025). W M3 pojawia się w retrospektywie l7 (9-miesięczny łuk Mykoły) oraz sporadycznie jako asystent przy wózku. Pokazuje, że **część osób pozostaje pomocnikami stacjonarnymi (M1) na stałe**; to też ścieżka kariery, nie porażka. Wasyl to starszy Ukrainiec, który po przyjeździe do Polski w wieku 41 lat świadomie wybrał stabilne, mniej obciążające stanowisko bez aspiracji do awansu.
 
-**Dodatkowe postaci epizodyczne**: Pan Krzysztof (Wood-Mizer Polska, serwisant zewnętrzny, eskalacja usterki bicia koła), Krzysztof Kowalski (audytor FSC NEPCon), Natalia (klientka Stolarz Meblowy Szczytno), Bekzod (Uzbek z Bukhary, M2 rozszerzony w tej samej kohorcie co Rustam).
+**Postaci epizodyczne**: pan Krzysztof (Wood-Mizer Polska, serwisant zewnętrzny, eskalacja usterki bicia koła), Krzysztof Kowalski (audytor FSC NEPCon), Natalia (klientka, Stolarz Meblowy Szczytno), Diego Vargas (Kolumbia, Bucaramanga, kolega Mykoły z tej samej kohorty, w roli M2 rozszerzonego).
 
 ## 7. Ocenianie M3
 
@@ -222,42 +222,40 @@ Kursant **niezdający obu** = tryb poprawkowy 4-6 tygodni, ponowny test + ponown
 
 ### Specyfika M3 wobec M2
 
-M3 wymaga **więcej polskiego pisanego formalnego** (reklamacja z KC, email do klienta, wypełnianie EGIDA-RPW-001, zapisy w KEP-001 razem z klasyfikatorem). Kursanci B1-B2 polskim radzą sobie, ale potrzebują wsparcia:
-- **Szablony emaili reklamacyjnych** (3 warianty: wada nieistotna, wada istotna akceptowalna, odmowa uznania)
-- **Druki bilingualne art. KC** w języku ojczystym kursanta (EGIDA ma przygotowane tłumaczenia art. 556-563 na EN/ES/UK/wietnamski/uzbecki/arabski)
-- **Partnerskie dyktando** (tydzień 4): kursant PL-biegły (Ukrainiec B2) dyktuje wolno, kursant z A2-B1 pisze, trener koryguje
+M3 wymaga **więcej formalnego polskiego pisanego** (reklamacja z KC, e-mail do klienta, wypełnianie EGIDA-RPW-001, zapisy w KEP-001 razem z klasyfikatorem). Kursanci na poziomie B1-B2 dają sobie radę, ale potrzebują wsparcia:
+- **Szablony e-maili reklamacyjnych** (trzy warianty: wada nieistotna, wada istotna akceptowalna, odmowa uznania);
+- **Dwujęzyczne druki artykułów KC** w języku ojczystym kursanta (Fundacja EGIDA przygotowała tłumaczenia art. 556-563 na EN, ES i UK; w razie potrzeby zamawia tłumaczenia na inne języki);
+- **Dyktando koleżeńskie** (tydzień 4): kursant biegły w polskim (np. Ukrainiec na poziomie B2) dyktuje wolno, kursant na poziomie A2-B1 pisze, trener koryguje.
 
-M3 wymaga **rozmów biznesowych po polsku** (rozmowa z klientem po reklamacji, rozmowa z serwisantem Wood-Mizer przy usterce, rozmowa z audytorem FSC):
-- **Codzienne ćwiczenia telefoniczne** (trener gra klienta zdenerwowanego, kursant odpowiada z formatu 4W + cytat KC, 5 min każdemu, tydzień 4)
-- **Symulacje audytu FSC** (trener gra audytora NEPCon zadającego trudne pytania o chain of custody)
-- **Rola-play z trenerem jako Panem Krzysztofem** (serwisant Wood-Mizer Polska, gruby ton, wymaga precyzyjnego opisu usterki)
+M3 wymaga **rozmów biznesowych po polsku** (z klientem po reklamacji, z serwisantem Wood-Mizer przy usterce, z audytorem FSC):
+- **Codzienne ćwiczenia telefoniczne** (trener gra zdenerwowanego klienta, kursant odpowiada w formacie 4W i cytuje KC; 5 minut na kursanta, tydzień 4);
+- **Symulacje audytu FSC** (trener w roli audytora NEPCon zadaje trudne pytania o chain of custody);
+- **Scenki z trenerem w roli pana Krzysztofa** (serwisant Wood-Mizer Polska, twardy ton, wymaga precyzyjnego opisu usterki).
 
 ### Różnice kulturowe specyficzne dla M3
 
-**Azja Środkowa + Wschodnia (Uzbekistan, Tadżykistan, Wietnam, Filipiny)**: silna hierarchia, trudność z nadzorem nad Polakiem Adrianem. Trener wzmacnia: „nadzór zawodowy to nie hierarchia społeczna. Ty masz M3, Adrian ma M2. KAO-001 to twoja formalna kompetencja, nie twoja wyższość". Ćwiczenia rola-play tygodnia 3 są kluczowe.
+**Kursanci z silnym hierarchicznym wzorcem relacji** (część osób z Ameryki Łacińskiej w modelu „patron-pracownik", sporadycznie inni): trudność z nadzorem nad polskim podopiecznym (Adrianem). Trener wzmacnia: „nadzór zawodowy to nie hierarchia społeczna. Ty masz M3, Adrian ma M2. KAO-001 to twoja formalna kompetencja, a nie wyższość". Scenki z tygodnia 3 są kluczowe.
 
-**Europa Wschodnia (Ukraina, Białoruś, Gruzja)**: niekiedy nadmierna asertywność wobec klienta w reklamacji. Trener wzmacnia: „KC art. 556 nie jest bronią, jest ramą. Ton spokojny, argument merytoryczny. Klient ma prawo do emocji, ty do faktów". Ćwicz w parach „reklamacja w 3 tonach: przymilny / asertywny / agresywny", analizuj który jest zgodny z protokołem EGIDA.
+**Ukraińcy**: niekiedy nadmierna asertywność wobec klienta w reklamacji (mechanizm obronny, zwłaszcza u osób doświadczonych wojną). Trener wzmacnia: „art. 556 KC nie jest bronią, jest ramą. Ton spokojny, argument merytoryczny. Klient ma prawo do emocji, ty masz mieć fakty". Ćwicz w parach „reklamacja w trzech tonach: przymilna, asertywna, agresywna", analizuj, który ton jest zgodny z protokołem fundacji.
 
-**Ameryka Łacińska (Peru, Kolumbia, Wenezuela)**: silna kultura relacyjna, może być trudność z formalnym językiem prawniczym w reklamacji. Trener pokazuje: „reklamacja w KC to relacja formalna, nawet jeśli znasz klienta osobiście. Paragraf 556 ≠ brak szacunku, przeciwnie: szacunek przez jasność". Wzmacniaj **szablony zdań** jako narzędzie, nie sztywną formę.
+**Kursanci z Ameryki Łacińskiej (Kolumbijczycy, Wenezuelczycy, Peruwiańczycy, Boliwijczycy, Hondurańczycy, Dominikańczycy)**: silna kultura relacyjna, czasem trudność z formalnym językiem prawniczym w reklamacji oraz z uznaniem, że formalna procedura nie jest brakiem zaufania. Trener pokazuje: „reklamacja w KC to relacja formalna, nawet jeśli znasz klienta osobiście. Powołanie się na art. 556 nie oznacza braku szacunku, wręcz przeciwnie: szacunek przez jasność". Wzmacniaj **szablony zdań** jako narzędzie, a nie sztywny formularz. Pamiętaj też, że temperament ekspresyjny niektórych kursantów (zwłaszcza Kolumbijczyków, Wenezuelczyków) świetnie sprawdza się w scenkach: kursant w roli zdenerwowanego klienta gra wiarygodnie, sala zapamiętuje, ale w dokumentacji pisemnej trzeba przejść na zwięzły, rzeczowy ton.
 
-**Afryka (Nigeria, Senegal, Ghana)**: energia wysoka, mocne narracje. Trener wykorzystuje to jako atut w rola-play (Nigeryjczyk gra brygadzistę Marka = sala się śmieje i zapamiętuje). Uwaga: w dokumentacji pisemnej energia musi być zrekalibrowana na zwięzłość („widzę X, rozumiem Y, czy dobrze?" zamiast dłuższej narracji).
-
-**Wszystkie kultury**: **papier ma wagę prawną**. Kursanci z krajów, gdzie umowa ustna ma siłę równą pisemnej, muszą zinternalizować że w Polsce w tartaku **każdy papier z podpisem ma moc dowodową** dla PIP, ubezpieczyciela, klienta, sądu. Stosuj mantrę „podpis = odpowiedzialność 3 miesięcznych wynagrodzeń limit KP art. 120 § 1, w praktyce 1/3 szkody potrącenia".
+**Wszystkie kultury**: **papier ma wagę prawną**. Kursanci z krajów, gdzie umowa ustna ma siłę równą pisemnej, muszą zinternalizować, że w polskim tartaku **każdy podpisany papier ma moc dowodową** wobec PIP, ubezpieczyciela, klienta, sądu. Powtarzaj zasadę: „podpis to odpowiedzialność majątkowa do trzymiesięcznego wynagrodzenia (art. 120 § 1 KP), w praktyce zwykle ok. 1/3 szkody jako potrącenie z pensji".
 
 ## 9. Trudne sytuacje specyficzne dla M3
 
 ### 9.1 „Konflikt nadzorczy M3-M2" (sekcja kluczowa)
 
-Objawy: kursant M3 (Rustam) nie koryguje Adriana (M2) przez 2 dni, bo „nie chce obrazić kolegi Polaka". Karta KAO-001 wypełniana dopiero na koniec, oceny zawyżone (24/25 bez uzasadnienia), korekty merytoryczne niezapisane.
+Objawy: kursant M3 (Mykoła) nie koryguje Adriana (M2) przez 2 dni, bo „nie chce obrazić kolegi Polaka". Karta KAO-001 wypełniana dopiero na koniec, oceny zawyżone (24/25 bez uzasadnienia), korekty merytoryczne niezapisane.
 
-**Częste u**: kursantów z Azji Środkowej, Wietnamu, Filipin (kultura szacunku do gospodarza) i kursantów z silnym poczuciem zadłużenia wobec Polski (wdzięczność za pobyt).
+**Częste u**: kursantów z silnym poczuciem zobowiązania wobec Polski (wdzięczność za przyjęcie, zwłaszcza u osób z trudną sytuacją w kraju pochodzenia, np. części kursantów wenezuelskich) oraz u osób z silnie hierarchicznym wzorcem szacunku do gospodarza.
 
 **Reakcja trenera**:
 1. Rozmowa 30 min po zakończeniu lekcji T3 l7. Nie publicznie, jeden-na-jeden.
 2. Pokaż **regulamin EGIDA § 8 ust. 3**: „koryguję gdy błędne, nie gdy inne niż moje". Tłumaczenie bilingualne na język ojczysty.
 3. Pokaż **statystykę wypadkowości M2 nienadzorowanego** (EGIDA 2023: 2 M2 bez regularnego nadzoru M3 = 4 incydenty w roku, w tym 1 poważny; 8 M2 pod aktywnym nadzorem M3 = 1 incydent drobny).
 4. Rola-play: trener gra Adriana z **3 błędami merytorycznymi** (prędkość posuwu 85%, prowadnice 4,2 mm, dziennik ołówkiem) + 1 **różnicą stylu** (kolejność cięć lewo-prawo). Kursant musi wychwycić 3 błędy i zostawić różnicę stylu bez korekty.
-5. Jeśli kursant po ćwiczeniu nadal nie koryguje: rozmowa z koordynatorem EGIDA o potencjalnej potrzebie **rotacji nadzorczej** (Rustam nadzoruje Bekzoda zamiast Adriana, jeśli Uzbek-Uzbek relacja łatwiejsza).
+5. Jeśli kursant po ćwiczeniu nadal nie koryguje, porozmawiaj z koordynatorem EGIDA o potencjalnej potrzebie **rotacji nadzorczej** (np. M3 nadzoruje innego M2 z tej samej kohorty kulturowej, jeśli relacja w obrębie tej samej grupy językowej okaże się łatwiejsza na początek).
 
 ### 9.2 „Reklamacja klienta w trakcie lekcji"
 
@@ -268,32 +266,32 @@ Objawy: w środku lekcji T4 l2 przychodzi rzeczywisty telefon od klienta Dom-Bud
 2. Jeśli klient odmawia lub sytuacja wymaga natychmiastowej interwencji, przerwa 15 min, trener ogarnia sprawę, wraca z **anonimizowanym opisem** (ok. 5-7 zdań). Kursanci analizują case pisemnie 15 min, dyskusja 15 min, potem powrót do planowanej treści l2.
 3. Nigdy nie **udawaj rzeczywistej reklamacji** podczas lekcji. Scenariusze symulowane są w artefaktach (scenariusz 6 praktyczny), rzeczywiste reklamacje wymagają autentycznej reakcji.
 
-### 9.3 „Kursant z obawą odpowiedzialności karnej"
+### 9.3 „Kursant z obawą o odpowiedzialność karną"
 
-Objawy: kursant po lekcji T4 l2 (reklamacje KC) pyta z drżeniem w głosie: „czy mogę pójść do więzienia za podpis?". Częste u kursantów z krajów autokratycznych (Białoruś, Rosja, Iran, niektóre kraje afrykańskie), gdzie „podpis" ma konotację więzienno-polityczną.
+Objawy: kursant po lekcji T4 l2 (reklamacje KC) pyta z drżeniem w głosie: „czy mogę pójść do więzienia za podpis?". Częste u kursantów z krajów o niestabilnej praworządności (Wenezuela w ostatnich latach, sporadycznie inni), gdzie „podpis" ma konotację więzienno-polityczną.
 
 **Reakcja trenera**:
 1. Rozmowa natychmiast, bez odkładania. 20-30 min. W razie potrzeby w języku ojczystym (jeśli w sali jest inny kursant bieglejszy, tłumaczy).
 2. **Rozróżnij prawnie**: (a) KC (Kodeks cywilny) = roszczenia finansowe, brak więzienia, maksymalna konsekwencja = odszkodowanie; (b) KP (Kodeks pracy) art. 120 § 1 = odpowiedzialność pracownika do 3 miesięcznych wynagrodzeń, brak więzienia; (c) KK (Kodeks karny) = więzienie, ale dotyczy **przestępstw umyślnych** (nadużycie zaufania, spowodowanie ciężkiego uszczerbku, celowe wprowadzenie w błąd) – **nie decyzji operatorskich w dobrej wierze**.
 3. Pokaż **art. 266 § 1 KP**: „pracownik ponosi odpowiedzialność materialną do 3-miesięcznego wynagrodzenia, chyba że szkoda wyrządzona umyślnie". Umyślność = świadome działanie na szkodę, nie pomyłka. Case EGIDA 2023 operator z amperomierzem: 1400 zł potrącenia z pensji, brak skutków karnych, brak rejestru karnego.
 4. **Dokumentacja chroni**. KDP-001 + KS-001 + KAO-001 = dowód, że operator działał zgodnie z procedurą. Brak dokumentacji = operator na swoim ryzyku. Paradoksalnie: kursant, który boi się podpisu, powinien podpisywać **więcej** formularzy, nie mniej.
-5. Jeśli obawa trwa po rozmowie: konsultacja z **pracownikiem socjalnym Fundacji EGIDA** lub w razie potrzeby z prawnikiem partnerskim (EGIDA ma umowę z kancelarią Kowalski-Mazurek w Olsztynie, 1 h konsultacji bezpłatnie).
+5. Jeśli obawa utrzymuje się po rozmowie, skieruj kursanta na konsultację z **pracownikiem socjalnym Fundacji EGIDA**, a w razie potrzeby z prawnikiem partnerskim (fundacja ma umowy o współpracy z kancelariami; godzina konsultacji jest dla kursanta bezpłatna).
 
-### 9.4 „Różnica doświadczenia EU vs nie-EU"
+### 9.4 „Różnica doświadczenia w grupie"
 
-Objawy: na sali 3 kursantów ukraińskich z 10+ lat doświadczenia w tartakach lwowskich / iwano-frankiwskich + 2 kursantów uzbeckich bez doświadczenia tartacznego + 1 Filipinczyk po 2 latach w drzewnictwie filipińskim. Ukraińcy nudzą się na T1 (znają wszystko), Uzbek i Filipinczyk zagubieni.
+Objawy: w sali jest np. 3 kursantów ukraińskich z 10+ lat doświadczenia w tartakach (lwowskich, iwanofrankiwskich) plus 3 kursantów kolumbijskich i wenezuelskich bez doświadczenia w drzewnictwie. Ukraińcy nudzą się w T1 (znają wszystko), latynosi są zagubieni.
 
 **Reakcja trenera**:
-1. **Różnicowanie tempa**. Ukraińcom daj **role mentorskie** w rola-play: grają brygadzistę Marka, mistrza pana Henryka, audytora Krzysztofa Kowalskiego. Uzbekowi i Filipinczykowi daj **role podopieczne**: gra Adriana, gra pomocnika, obserwują i uczą się.
-2. **Dodatkowe konsultacje** 30 min dziennie dla kursantów bez doświadczenia (tydzień 1-2). Ukraińcy mogą wychodzić na praktyki tartaku partnera wcześniej, poniedziałek tygodnia 2 zamiast środy.
-3. **Kalibracja testu końcowego indywidualnie**. Ukrainiec z 10 lat doświadczenia powinien celować 90+% (bo teoria jest dla niego łatwa), Uzbek bez doświadczenia może zaliczyć z 76-80% i to jest OK.
-4. **Uwaga na kulturę**. Ukraińcy mogą traktować Uzbeka z góry, szczególnie jeśli Uzbek mało mówi po polsku. Trener aktywnie monitoruje dynamikę grupy: „Mykoła, pokaż Bekzodowi jak rozpoznać wadę, po rosyjsku albo po ukraińsku, dla Uzbeka zrozumiałe lepiej niż polski teraz".
+1. **Różnicowanie tempa**. Doświadczonym daj **role mentorskie** w scenkach: grają brygadzistę Marka, mistrza pana Henryka, audytora Krzysztofa Kowalskiego. Mniej doświadczonym daj **role podopieczne**: grają Adriana, pomocnika; obserwują i uczą się.
+2. **Dodatkowe konsultacje** po 30 minut dziennie dla kursantów bez doświadczenia (tygodnie 1-2). Doświadczeni mogą wychodzić na praktyki w tartaku partnera wcześniej, np. w poniedziałek tygodnia 2 zamiast w środę.
+3. **Kalibracja testu końcowego indywidualnie**. Kursant z 10 lat doświadczenia powinien celować w 90% i więcej (teoria jest dla niego łatwa), kursant bez doświadczenia może zaliczyć z wynikiem 76-80% i to też jest dobry rezultat.
+4. **Uwaga na dynamikę kulturową**. Doświadczeni potrafią traktować początkujących z góry, zwłaszcza gdy ci słabiej mówią po polsku. Trener aktywnie reguluje grupę: „Mykoła, pokaż Carlosowi po rosyjsku albo po hiszpańsku, jak rozpoznać tę wadę; po polsku będzie mu teraz trudniej".
 
 ### 9.5 „Kursant nadmiernie pewny siebie"
 
 Objawy: kursant po M2 zaliczonym z 95%+ i 3-4 miesiącami bezbłędnej pracy na hali wchodzi do M3 z postawą „wszystko wiem". Kwestionuje trenera, nie słucha pana Henryka, ocenia Adriana z góry w rola-play, uznaje reklamację klienta za „przesadę".
 
-**Częste u**: kursantów z krajów meritokratycznych + mocnej inteligencji + młodych (22-28 lat).
+**Częste u**: młodych kursantów (22-28 lat) z dużą inteligencją operacyjną i wcześniejszymi sukcesami zawodowymi.
 
 **Reakcja trenera**:
 1. **Nie konfrontuj publicznie**. Pozwól grupie zobaczyć jego błąd naturalnie. Rozdaj case decyzji parametrycznej KDP-001 z pułapką (schemat A wybrany gdzie B byłby lepszy z powodu Ø 28 cm pni); kursant pewny siebie wybierze A, grupa ocena, dyskusja pokaże.
@@ -361,7 +359,7 @@ Objawy: kursant po M2 zaliczonym z 95%+ i 3-4 miesiącami bezbłędnej pracy na 
 ### W trakcie pierwszego M3
 
 1. Po każdym tygodniu **raport tygodniowy** (1 strona) dla koordynatora EGIDA: stan grupy, trudne sytuacje, kursanci wymagający interwencji (zwłaszcza sekcje 9.1, 9.3, 9.5).
-2. W tygodniu 3 przed sesjami nadzorczymi: **konsultacja z Markiem Nowakiem** (brygadzista) o doborze par Rustam-Adrian / Bekzod-inny M2. Unikaj par „dwa silne ego", „dwa kursanta A1 polskiego w parze", „kursanci z konfliktem kulturowym historycznym".
+2. W tygodniu 3 przed sesjami nadzorczymi: **konsultacja z Markiem Nowakiem** (brygadzista) o doborze par Mykoła-Adrian / Diego-inny M2. Unikaj par „dwa silne ego", „dwa kursanta A1 polskiego w parze", „kursanci z konfliktem kulturowym historycznym".
 3. W tygodniu 4 przed testem i egzaminem: **kalibracja 2-3 kursantów granicznych** z Anną Kwiatkowską (potencjalne 74-78 pkt test), wspólne ustalenie czy dopuszczamy do egzaminu +14 dni czy rekomendujemy powtórkę testu za 3 tygodnie.
 4. Po egzaminach praktycznych: **debriefing 3 h** z komisją (Anną + audytorem + brygadzistą): co zaobserwowali, gdzie trener mógłby lepiej przygotować.
 
@@ -419,5 +417,5 @@ Dla kursu M3 trener przygotowuje:
 - **Cenniki tarcicy 2026** (sosna / dąb / buk C24, ceny hurtowe EGIDA) – 1 plakat A3 na sali
 - **Plakat A3 „7 typów usterek z granicą operator/UR/serwis"** obok stanowiska ćwiczeniowego tygodnia 3
 - **Plakat A3 „8 zasad operatora M3"** w sali, widoczny przez cały kurs
-- **Bilingualne druki art. 556-563 KC** w 6 językach (PL + EN + ES + UK + wietnamski + uzbecki/arabski)
-- **Szablony zdań reklamacyjnych** (3 warianty: wada nieistotna, wada istotna akceptowalna, odmowa) w 4 językach kursu (PL/EN/ES/UK)
+- **Dwujęzyczne druki art. 556-563 KC** w językach kursu (PL, EN, ES, UK; w razie potrzeby uzupełniane o tłumaczenia na inne języki rzadziej reprezentowanych kursantów).
+- **Szablony zdań reklamacyjnych** (trzy warianty: wada nieistotna, wada istotna akceptowalna, odmowa uznania) w czterech językach kursu (PL, EN, ES, UK).

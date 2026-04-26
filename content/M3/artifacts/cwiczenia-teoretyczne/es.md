@@ -41,7 +41,7 @@ Martes 18.06.2026, 9:45. Estas en P3 LT70 (roble C30 5 m³ para Stolarz Meblowy 
 
 A las 9:45 **dos cosas a la vez**:
 1. En **tu** cabezal LT70, despues de 40 segundos de corte, sientes vibración de 8-10 Hz en la empuñadura y oyes un golpeo ritmico cada 0,5 s. La superficie del corte ligeramente ondulada. Es la vibración de la rueda inferior (tabla de 7 averias EGIDA, posición 4).
-2. **Adrian** desde 8 m de distancia grita: "Rustam, tengo ondas en la tercera tabla, el amperimetro sube". Tu ves su sierra, la superficie del corte claramente ondulada.
+2. **Adrian** desde 8 m de distancia grita: "Mykoła, tengo ondas en la tercera tabla, el amperimetro sube". Tu ves su sierra, la superficie del corte claramente ondulada.
 
 Marek (capataz) en reunión con Anna Kwiatkowska hasta las 10:30, telefono silenciado.
 
@@ -58,7 +58,7 @@ Se activan **3 reglas M3**: **Z1 frontera** (tu LT70 = frontera externa dura, se
 
 **Prioridad: Adrian**, no tu LT70. Tu LT70 ya requiere PARADA (vibración de rueda > 0,5 mm no permite continuar sin riesgo de daño a la maquina y a la garantia), por lo tanto PARADA natural. Adrian espera una decisión durante el corte, situación activa.
 
-**Orden 10 min**: (1) PARADA LT70 primero, detener cabezal y pulsador de emergencia, anotación en KKS-001 "9:45, vibración de rueda ~10 Hz, PARADA, esperando a Marek y servicio"; (2) acercate a Adrian a 8 m, evalua visualmente las ondas: si son finas y aparecieron en la tercera tabla (antes no estaban), probablemente desafilado de la cinta o caida de tensión; (3) ordena a Adrian bajo observación: PARADA, comprueba el amperimetro (amarillo/rojo?), comprueba la tensión, en caso necesario cambia la cinta (nivel operador, Adrian tiene la competencia M2 autonoma para el cambio); (4) anotación en su KS-001 "9:50, ondas en la 3.ª tabla, cambio de cinta 10 en lugar de cinta 7, autorización Rustam supervisión"; (5) vuelve al LT70 y llama a Marek formato 4W + SMS ("Marek, Rustam, P3, 9:45, vibración de rueda, PARADA, aviso al servicio Wood-Mizer, espero autorización").
+**Orden 10 min**: (1) PARADA LT70 primero, detener cabezal y pulsador de emergencia, anotación en KKS-001 "9:45, vibración de rueda ~10 Hz, PARADA, esperando a Marek y servicio"; (2) acercate a Adrian a 8 m, evalua visualmente las ondas: si son finas y aparecieron en la tercera tabla (antes no estaban), probablemente desafilado de la cinta o caida de tensión; (3) ordena a Adrian bajo observación: PARADA, comprueba el amperimetro (amarillo/rojo?), comprueba la tensión, en caso necesario cambia la cinta (nivel operador, Adrian tiene la competencia M2 autonoma para el cambio); (4) anotación en su KS-001 "9:50, ondas en la 3.ª tabla, cambio de cinta 10 en lugar de cinta 7, autorización Mykoła supervisión"; (5) vuelve al LT70 y llama a Marek formato 4W + SMS ("Marek, Mykoła, P3, 9:45, vibración de rueda, PARADA, aviso al servicio Wood-Mizer, espero autorización").
 
 **Formularios**: tu KKS-001 (averia + hora + descripción con tres sentidos) + KS-001 de Adrian (anotación de supervisión con tu rubrica) + eventualmente KS-001 propia (parada por causa de averia).
 
@@ -72,7 +72,7 @@ Se activan **3 reglas M3**: **Z1 frontera** (tu LT70 = frontera externa dura, se
 
 Viernes 19.06.2026, 14:15. Terminas en P3 LT70 los ultimos cortes del pedido ZLE-2026-06-023 (roble FSC C30 8 m³ para Natalia Stolarz Meblowy Szczytno, plazo sabado 10:00). El parte de turno EGIDA-RZ-001 se ve estupendo: margen +2180 zł, yield 58%, 0 reclamaciones de la clasificadora Pani Ania.
 
-**Llama Jacek Wesołowski, Dom-Bud Mrągowo** (cliente del pedido anterior ZLE-2026-06-015, pino C24, lote entregado 12.06.2026, hace una semana): "Rustam, tenemos un problema. Las tablas de su lote tienen una tolerancia de 174 mm en lugar de 175. Tengo que rescindir el contrato y devolver 3200 zł". La llamada dura 4 minutos. Cliente emocional, pero no agresivo. Rustam, capataz Marek de vacaciones hasta el lunes (viernes 14:00 ya se ha ido).
+**Llama Jacek Wesołowski, Dom-Bud Mrągowo** (cliente del pedido anterior ZLE-2026-06-015, pino C24, lote entregado 12.06.2026, hace una semana): "Mykoła, tenemos un problema. Las tablas de su lote tienen una tolerancia de 174 mm en lugar de 175. Tengo que rescindir el contrato y devolver 3200 zł". La llamada dura 4 minutos. Cliente emocional, pero no agresivo. Mykoła, capataz Marek de vacaciones hasta el lunes (viernes 14:00 ya se ha ido).
 
 Lote 5 m³ x 640 zł/m³ de pino C24 = 3200 zł de valor. En el parte de turno ZLE-2026-06-015: margen menos 529 zł (lote problematico conocido, de troncos pequeños).
 
@@ -102,15 +102,15 @@ Se activan **3 reglas M3**: **Z5 reclamación** (Código Civil polaco (KC) art. 
 
 ---
 
-## Ejercicio 3: "Auditoria FSC del señor Krzysztof Kowalski + Adrian habla mal de Rustam"
+## Ejercicio 3: "Auditoria FSC del señor Krzysztof Kowalski + Adrian habla mal de Mykoła"
 
 ### Contexto
 
-Jueves 18.06.2026, 7:30. Llega el **auditor de NEPCon Krzysztof Kowalski** (auditoria anual FSC-C112233, procedimiento estandar). Se sienta en la sala de reuniones de EGIDA con Marek, Anna Kwiatkowska y **Adrian Kowal** (tu supervisado M2). Tu en la nave P3 LT70, empiezas el pedido ZLE-2026-06-024 (haya 4 m³ FSC para MebelPro Warszawa). Marek envia un SMS: "Rustam, en 40 min el auditor quiere hablar contigo sobre chain of custody y sobre la formación de Adrian". A las 8:10 entran Adrian y el auditor.
+Jueves 18.06.2026, 7:30. Llega el **auditor de NEPCon Krzysztof Kowalski** (auditoria anual FSC-C112233, procedimiento estandar). Se sienta en la sala de reuniones de EGIDA con Marek, Anna Kwiatkowska y **Adrian Kowal** (tu supervisado M2). Tu en la nave P3 LT70, empiezas el pedido ZLE-2026-06-024 (haya 4 m³ FSC para MebelPro Warszawa). Marek envia un SMS: "Mykoła, en 40 min el auditor quiere hablar contigo sobre chain of custody y sobre la formación de Adrian". A las 8:10 entran Adrian y el auditor.
 
-**Antes de entrar a la nave**, Adrian en la sala le dijo a Kowalski (sin querer, pensaba que era en privado): "El señor Rustam es un buen operador, pero a veces me corrige demasiado fuerte, una vez me dijo que las guias de 4,2 mm en lugar de 3 era un error, y yo solo estaba cansado". El auditor Kowalski lo oyo. Ahora entran a la nave.
+**Antes de entrar a la nave**, Adrian en la sala le dijo a Kowalski (sin querer, pensaba que era en privado): "El señor Mykoła es un buen operador, pero a veces me corrige demasiado fuerte, una vez me dijo que las guias de 4,2 mm en lugar de 3 era un error, y yo solo estaba cansado". El auditor Kowalski lo oyo. Ahora entran a la nave.
 
-El auditor te pregunta junto a la maquina: "Señor Rustam, por favor muestre el chain of custody de este pedido. Y de paso: el señor Adrian dijo algo sobre sus metodos de supervisión, me gustaria entender la estructura de su autoridad".
+El auditor te pregunta junto a la maquina: "Señor Mykoła, por favor muestre el chain of custody de este pedido. Y de paso: el señor Adrian dijo algo sobre sus metodos de supervisión, me gustaria entender la estructura de su autoridad".
 
 ### Preguntas
 
@@ -144,7 +144,7 @@ Disponibilidad 15 min (ISO 9001). Todo en la carpeta ZLE-024 + en TartakERP + co
 
 **Reglamento par. 8 ap. 3**: "corrijo cuando es erroneo, no cuando es distinto del mio". Clave porque protege tanto al supervisado (frente al control arbitrario) como al supervisor (frente a la responsabilidad por errores no señalados).
 
-**Por que el auditor pregunta esto**. FSC-C112233 contiene la exigencia de formación de operadores (clausula 7.3 FSC STD-40-004). El auditor comprueba si el sistema formativo de EGIDA funciona. La conversación Rustam-Adrian-Krzysztof es un **test** de procedimientos, no un ataque a Rustam. Una respuesta tranquila y factual lo satisface.
+**Por que el auditor pregunta esto**. FSC-C112233 contiene la exigencia de formación de operadores (clausula 7.3 FSC STD-40-004). El auditor comprueba si el sistema formativo de EGIDA funciona. La conversación Mykoła-Adrian-Krzysztof es un **test** de procedimientos, no un ataque a Mykoła. Una respuesta tranquila y factual lo satisface.
 
 **Error frecuente del junior M3**: reacciona emocionalmente ("Adrian miente, no he sido demasiado fuerte, todo esta anotado"). Consecuencia: el auditor ve nervios, sospecha otros problemas, profundiza la auditoria, encuentra otras lagunas. Regla: **en una auditoria estas tranquilo y factual, las emociones para despues**.
 
@@ -157,8 +157,8 @@ Disponibilidad 15 min (ISO 9001). Todo en la carpeta ZLE-024 + en TartakERP + co
 Lunes 22.06.2026, 6:45. Entras a la nave, 15 minutos hasta el inicio del turno a las 7:00. Tres asuntos esperan:
 
 1. **Dispositiva DP-2026-06-026** de Marek encima de tu mesa. Roble FSC 6 m³ para Bouwhout van Doorn (cliente de exportación, Holanda, primera vez para ti en solitario), prioridad A, plazo jueves 14:00, tolerancia exigida +/-1 mm (no la estandar +/-2). Tienes que rellenar la KDP-001 antes del arranque.
-2. **Pani Ania la clasificadora** te espera en la sala de reuniones con el informe del sabado: "Rustam, 4 tablas del lote del viernes ZLE-023 (haya) estan en el limite C24/C16. Necesito tu decisión antes de cerrar la KEP-001". Deja la ficha en tu mesa con la marca "URGENTE antes del arranque".
-3. **Adrian** envia SMS a las 6:40: "Rustam, llego con retraso hasta las 7:15, problema con el bus. Que hago con mi LT30 (ZLE-025 pino)? Empiezo sin ti o espero?".
+2. **Pani Ania la clasificadora** te espera en la sala de reuniones con el informe del sabado: "Mykoła, 4 tablas del lote del viernes ZLE-023 (haya) estan en el limite C24/C16. Necesito tu decisión antes de cerrar la KEP-001". Deja la ficha en tu mesa con la marca "URGENTE antes del arranque".
+3. **Adrian** envia SMS a las 6:40: "Mykoła, llego con retraso hasta las 7:15, problema con el bus. Que hago con mi LT30 (ZLE-025 pino)? Empiezo sin ti o espero?".
 
 Marek en la reunión de dirección de los lunes 6:30-7:30.
 
@@ -181,11 +181,11 @@ Se activan **4 reglas M3**: **Z2 KDP-001 antes del arranque** (la dispositiva de
 **Arranque del LT70 a las 7:00 o despues?** Si la KDP-001 esta lista y el asunto de Pani Ania resuelto a las 7:00 = arranque puntual. Si la KDP-001 esta incompleta o Pani Ania exige una consulta mas larga = **arranque a las 7:10-7:20, anotación en KS-001 "7:10 arranque, retraso por causa de KDP-001 completa para cliente de exportación"**. Bouwhout = cliente de exportación, +/-1 mm = al cliente le da igual si empiezas a las 7:00 o a las 7:15, lo que importa es que los parametros de la KDP sean correctos. Regla Z2: **la decisión parametrica siempre antes del corte, no durante**.
 
 **Riesgos de las opciones**:
-- Opción A (ignorar a Adrian, empezar el LT70 a las 7:00): Adrian puede empezar el LT30 solo sin supervisión, riesgo de accidente + violación de la autorización M2 autonoma (Adrian tiene autorización plena de 30 dias, pero sin supervisión en los dias señalados como "bajo Rustam").
+- Opción A (ignorar a Adrian, empezar el LT70 a las 7:00): Adrian puede empezar el LT30 solo sin supervisión, riesgo de accidente + violación de la autorización M2 autonoma (Adrian tiene autorización plena de 30 dias, pero sin supervisión en los dias señalados como "bajo Mykoła").
 - Opción B (ignorar a Pani Ania): KEP-001 cerrada sin clasificación del limite, riesgo de reclamación del cliente Natalia Stolarz Meblowy (clase C24 vs C16 = diferencia de precio 200-400 zł por m³).
 - Opción C (ignorar la dispositiva de Bouwhout, empezar el LT70 con parametros "a ojo"): riesgo de tolerancia +/-2 mm en lugar de +/-1 mm = reclamación del cliente de exportación por defecto sustancial + perdida de 3 años de cooperación con Bouwhout (facturación 800 mil zł al año).
 
-**Información a Marek**: SMS a las 7:05 formato 4W: "Marek, Rustam, P3, 7:05, arranque a las 7:10-7:15 tras consulta con Pani Ania (KEP-023 cerrada 2 C24 + 2 C16) y rellenado de KDP-001 para Bouwhout ZLE-026 (+/-1 mm, esquema B). Adrian retrasado hasta las 7:15, le he dicho que espere. Todo bajo control, pero retraso de 10-15 min para Bouwhout documentado en KS-001".
+**Información a Marek**: SMS a las 7:05 formato 4W: "Marek, Mykoła, P3, 7:05, arranque a las 7:10-7:15 tras consulta con Pani Ania (KEP-023 cerrada 2 C24 + 2 C16) y rellenado de KDP-001 para Bouwhout ZLE-026 (+/-1 mm, esquema B). Adrian retrasado hasta las 7:15, le he dicho que espere. Todo bajo control, pero retraso de 10-15 min para Bouwhout documentado en KS-001".
 
 **Error frecuente del junior M3**: empieza el LT70 a las 7:00 bajo la presión del "plazo", omite la clasificación de Pani Ania, omite a Adrian, rellena la KDP-001 "a la carrera". Consecuencias acumulativas: (a) reclamación de Bouwhout por 1 mm de tolerancia, (b) reclamación de Stolarz Meblowy por la clasificación, (c) Adrian en accidente sin supervisión. Mantra de la regla Z2: **antes, no durante**.
 
@@ -195,7 +195,7 @@ Se activan **4 reglas M3**: **Z2 KDP-001 antes del arranque** (la dispositiva de
 
 ### Contexto
 
-Lunes 22.06.2026, 15:45, fin del turno. El señor Henryk Domański (62 años, maestro de secadero BTM con 38 años de experiencia, mentor de EGIDA) te detiene a la salida: "Rustam, he hablado con Gdańsk en BTM. Sabes que dentro de un año esta previstas unas practicas de maestro de secadero, 6 meses, curso de 14000 zł, desplazamiento dos veces por semana, sueldo objetivo 8500 zł brutos en BTM como maestro de camara. Eres candidato. Puedo recomendarte. Que opinas?".
+Lunes 22.06.2026, 15:45, fin del turno. El señor Henryk Domański (62 años, maestro de secadero BTM con 38 años de experiencia, mentor de EGIDA) te detiene a la salida: "Mykoła, he hablado con Gdańsk en BTM. Sabes que dentro de un año esta previstas unas practicas de maestro de secadero, 6 meses, curso de 14000 zł, desplazamiento dos veces por semana, sueldo objetivo 8500 zł brutos en BTM como maestro de camara. Eres candidato. Puedo recomendarte. Que opinas?".
 
 Actualmente: tarifa M3 55 zł brutos por hora x 168 h al mes = **9240 zł brutos** (con complemento de supervisión del 15% cuando supervisas a M2, eso son aprox. +500-800 zł al mes de media = **9800-10000 zł brutos en total**). Despues del UDT+SEP previsto en septiembre: +500 zł/mes = **10500 zł**.
 
@@ -220,18 +220,18 @@ Se activan **3 reglas M3**: **Z8 recursos profesionales** (planificación de car
 - ROI BTM: sueldo menos 2000 zł x 12 meses = menos 24000 zł el primer año. Tras la promoción del año 3: +3000-5000 zł al mes x 12 = +36000-60000 zł al año. **ROI 2-3 años si hay promoción, 5+ años sin promoción**.
 
 **Criterios no financieros**:
-- **Satisfacción profesional**. El secado es una especialidad, menos operativa, mas de proceso. A unos les gusta, a otros no. A Rustam, en M3, le gusta el contacto directo con la maquina y con el supervisado, el secado es estar sentado ante el panel + monitorización.
-- **Localización**. Gdańsk vs Kętrzyn. Rustam asentado en Kętrzyn (tarjeta de residencia, piso alquilado 2 años). Gdańsk = mudanza o viaje. Mudanza = nuevo comienzo en una ciudad 3 veces mayor, anonimato.
-- **Familia y cultura**. Rustam soltero en Polonia, sin familia aqui. Gdańsk = nuevo circulo de conocidos. Kętrzyn = conocidos del curso + EGIDA.
+- **Satisfacción profesional**. El secado es una especialidad, menos operativa, mas de proceso. A unos les gusta, a otros no. A Mykoła, en M3, le gusta el contacto directo con la maquina y con el supervisado, el secado es estar sentado ante el panel + monitorización.
+- **Localización**. Gdańsk vs Kętrzyn. Mykoła asentado en Kętrzyn (tarjeta de residencia, piso alquilado 2 años). Gdańsk = mudanza o viaje. Mudanza = nuevo comienzo en una ciudad 3 veces mayor, anonimato.
+- **Familia y cultura**. Mykoła soltero en Polonia, sin familia aqui. Gdańsk = nuevo circulo de conocidos. Kętrzyn = conocidos del curso + EGIDA.
 - **Trayectoria de desarrollo a largo plazo**. Especialización BTM = riesgo de "encerrarse" en el secado (mas dificil volver al trabajo de operador M3 tras 3 años). M3 EGIDA + cursos = posibilidades mas amplias.
 - **Relaciones**. El señor Henryk recomienda con cariño (ve en ti potencial de maestro), Marek = riesgo de perder a un buen M3, Pani Ania = neutral, Damian = probablemente dira "no te apresures, M3 esta bien".
 
 **Que aconsejarian**:
-- **Marek**: "Rustam, eres un excelente M3, no te apresures. Quiza dentro de 2-3 años". Perspectiva del capataz, quiere retenerte.
+- **Marek**: "Mykoła, eres un excelente M3, no te apresures. Quiza dentro de 2-3 años". Perspectiva del capataz, quiere retenerte.
 - **Pani Ania**: "Te gusta estar sentado ante el ordenador 8 h, o prefieres la herramienta?". Pregunta sobre preferencias.
 - **Damian**: "Yo llevo 4 años como M3, no me he apresurado a ningun sitio. BTM es para gente que ama de verdad el secado. A ti te gusta la sierra. Deja el secado al señor Henryk, el lo adora".
 
-**Elección**: no hay una respuesta objetivamente "buena". El caso enseña el **proceso de decisión** (cifras + criterios no financieros + conversaciones + tiempo para reflexionar), no el **resultado**. Elección probable de Rustam: **ahora no**, pero mantener el contacto con el señor Henryk (la propuesta vuelve dentro de 2 años), mientras tanto hacer el UDT+SEP en septiembre + pensar en el UPP dentro de 12 meses.
+**Elección**: no hay una respuesta objetivamente "buena". El caso enseña el **proceso de decisión** (cifras + criterios no financieros + conversaciones + tiempo para reflexionar), no el **resultado**. Elección probable de Mykoła: **ahora no**, pero mantener el contacto con el señor Henryk (la propuesta vuelve dentro de 2 años), mientras tanto hacer el UDT+SEP en septiembre + pensar en el UPP dentro de 12 meses.
 
 **Error frecuente del junior M3**: mira solo la primera cifra (BTM 8500 < M3 10000 = "no merece la pena"). Falta de analisis de la trayectoria. O al contrario: mira solo "maestro" (ego) e ignora la caida de sueldo del primer año. Regla Z8: **la carrera se planifica en tablas, no en sensaciones**.
 
@@ -272,7 +272,7 @@ Se activan **3 reglas M3**: **Z1 frontera externa vs interna** (camara BTM = ser
 
 **Orden 10 min**:
 - **0-1 min**: PARADA de la camara 3 (boton de emergencia en el panel). Observación del descenso de la temperatura (si baja = la desconexión funciona; si no baja = averia del elemento calefactor, ciclo detenido pero la temperatura sube por otra via, abrir la puerta de la camara con mantenimiento).
-- **1-3 min**: escalada triple: (a) llamada a Marek 4W "Marek, Rustam, camara 3, 10:30, alarma 82°C en ciclo de roble, PARADA de emergencia, ven a las camaras"; (b) SMS a Anna Kwiatkowska: "Señora Anna, camara 3 alarma 82°C, PARADA, le pido información"; (c) llamada al mantenimiento de EGIDA de guardia: "camara 3, alarma 82°C en roble, PARADA de emergencia, pido diagnostico del elemento calefactor".
+- **1-3 min**: escalada triple: (a) llamada a Marek 4W "Marek, Mykoła, camara 3, 10:30, alarma 82°C en ciclo de roble, PARADA de emergencia, ven a las camaras"; (b) SMS a Anna Kwiatkowska: "Señora Anna, camara 3 alarma 82°C, PARADA, le pido información"; (c) llamada al mantenimiento de EGIDA de guardia: "camara 3, alarma 82°C en roble, PARADA de emergencia, pido diagnostico del elemento calefactor".
 - **3-5 min**: anotación en KKS-001 de la camara 3: "23.06.2026 10:30, alarma 82°C en ciclo de roble ZLE-027 dia 8.º, PARADA de emergencia del operador, escalada a Marek + Kwiatkowska + mantenimiento". 3 sentidos completos: vista (panel), oido (ventiladores), tacto (la puerta de la camara, si esta muy caliente).
 - **5-10 min**: Marek llega (en hasta 5 min), decisión conjunta: si abrir la puerta de la camara (si la temperatura no baja), o esperar al mantenimiento (si baja por debajo de 70°C). Decisión sobre el contacto con BTM Polska (servicio externo, señor Grzegorz Mazur) si el mantenimiento no resuelve en 30 min.
 
@@ -303,7 +303,7 @@ Viernes 26.06.2026, 14:30. Terminas el 5.º turno de supervisión sobre Adrian K
 
 Adrian tiene dos criterios = 3 (parametros KDP y documentación), ambos en el limite (3, no <3). Suma 18 = rango de la condicional (17-19).
 
-Adrian pide: "Rustam, te pido la plena. Los proximos 30 dias prometo mejorar. La denegación me romperia la carrera". Marek (capataz) pasa y dice: "Rustam, es tu decisión. El reglamento es el reglamento, pero tu ves al chico, yo veo el ultimo mes. Que opinas?".
+Adrian pide: "Mykoła, te pido la plena. Los proximos 30 dias prometo mejorar. La denegación me romperia la carrera". Marek (capataz) pasa y dice: "Mykoła, es tu decisión. El reglamento es el reglamento, pero tu ves al chico, yo veo el ultimo mes. Que opinas?".
 
 ### Preguntas
 
@@ -326,7 +326,7 @@ Adrian: 18/25, todos los criterios >= 3 = **condicional 15 dias**. Interpretaci�
 
 **Argumentos a favor de la plena** (en contra del reglamento): (a) tendencia positiva (ultimo turno 4/4/5/5/4 = 22); (b) los tres errores de parametros fueron en el primer turno de la semana, despues no los repitio; (c) Adrian tiene buen caracter, ganas de aprender; (d) el capataz Marek lo apoya informalmente.
 
-**Argumentos a favor de la condicional** (conforme al reglamento): (a) el reglamento no es una sugerencia, es norma; (b) la autorización plena con 18/25 crea precedente para otros M2 (cualquiera puede pedir "excepción", el sistema pierde integridad); (c) los 15 dias de condicional no son castigo, son periodo de verificación, Adrian, si realmente es mejor, terminara con 22/25 en 2 semanas y obtendra la plena; (d) documentación con valor probatorio: la KAO-001 va al expediente personal de Adrian durante 10 años, en caso de incidente un auditor (PIP, cliente, asegurador) la lee; (e) Código del Trabajo polaco (KP) art. 120 par. 1: autorización plena con 18 = responsabilidad parcial de Rustam por eventuales errores de Adrian en 30 dias.
+**Argumentos a favor de la condicional** (conforme al reglamento): (a) el reglamento no es una sugerencia, es norma; (b) la autorización plena con 18/25 crea precedente para otros M2 (cualquiera puede pedir "excepción", el sistema pierde integridad); (c) los 15 dias de condicional no son castigo, son periodo de verificación, Adrian, si realmente es mejor, terminara con 22/25 en 2 semanas y obtendra la plena; (d) documentación con valor probatorio: la KAO-001 va al expediente personal de Adrian durante 10 años, en caso de incidente un auditor (PIP, cliente, asegurador) la lee; (e) Código del Trabajo polaco (KP) art. 120 par. 1: autorización plena con 18 = responsabilidad parcial de Mykoła por eventuales errores de Adrian en 30 dias.
 
 **Insistencia de Adrian**: NO influye en la decisión. Las emociones del supervisado no son criterio de evaluación. Pedagogia: "Adrian, entiendo tus sentimientos, pero el reglamento es la misma proteccion para ti y para mi. La condicional 18/25 no es castigo, es ritmo de verificación. Dentro de 2 semanas vuelvo a evaluar, si la tendencia es como en el ultimo turno, plena".
 
@@ -336,7 +336,7 @@ Adrian: 18/25, todos los criterios >= 3 = **condicional 15 dias**. Interpretaci�
 
 > "Suma 18/25. Criterios 2 (parametros KDP) y 5 (documentación) = 3 (limite inferior). Conforme al reglamento EGIDA par. 8 ap. 3 y a la escala de autorización: condicional 15 dias. Tendencia positiva en los ultimos 2 turnos (22/25 y 20/25), alumno con ganas de mejorar. Plan de verificación: a los 7 y 14 dias nueva KAO-001. Paso a la plena previsto si se mantiene >= 20/25 durante los siguientes 2 turnos de supervisión. En caso de mantenerse 17-19 o de descenso: continuación de la condicional + plan correctivo con Marek y el alumno".
 
-**Error frecuente del junior M3**: cede ante la insistencia de Adrian + la influencia de Marek + su propia simpatia + concede la plena. Consecuencias: (a) si Adrian comete un error en 30 dias, Rustam corresponsable; (b) Bekzod (otro M2) pregunta "por que Adrian recibio la plena con 18 y yo recibi la condicional con 19?" = inconsistencia del sistema; (c) reglamento par. 8 vulnerado, la auditoria interna lo detecta, Anna Kwiatkowska habla con Rustam. Regla Z6: **pedagogia firme + tono suave**.
+**Error frecuente del junior M3**: cede ante la insistencia de Adrian + la influencia de Marek + su propia simpatia + concede la plena. Consecuencias: (a) si Adrian comete un error en 30 dias, Mykoła corresponsable; (b) Diego (otro M2) pregunta "por que Adrian recibio la plena con 18 y yo recibi la condicional con 19?" = inconsistencia del sistema; (c) reglamento par. 8 vulnerado, la auditoria interna lo detecta, Anna Kwiatkowska habla con Mykoła. Regla Z6: **pedagogia firme + tono suave**.
 
 ---
 
@@ -399,7 +399,7 @@ Se activan **2 reglas M3**: **Z8 recursos profesionales** (planificación en tab
 - **A como base** + posterior elección de B o C = lo mas estrategico.
 
 **Opiniones**:
-- **Señor Henryk** (62 años, maestro de secadero): "Rustam, BTM es mi pan desde hace 38 años. Si te gusta el ordenador + la monitorización 8 h, vas. Si te gusta la sierra, quedate como M3, añade UDT+SEP, piensa en UPP dentro de 2 años".
+- **Señor Henryk** (62 años, maestro de secadero): "Mykoła, BTM es mi pan desde hace 38 años. Si te gusta el ordenador + la monitorización 8 h, vas. Si te gusta la sierra, quedate como M3, añade UDT+SEP, piensa en UPP dentro de 2 años".
 - **Marek** (42 años, capataz): "No te apresures. UDT+SEP para arrancar en otoño, eso tiene sentido. BTM y UPP para dentro de un año, dos. Ahora estabilizate como operador M3 con permisos".
 - **Damian** (35 años, M3 4 años): "Yo solo hice UDT+SEP hace 2 años. No me arrepiento. Puedo pensar en UPP dentro de 5 años, quiza. M3 con permisos es una posición solida, sin presión".
 
@@ -426,9 +426,9 @@ Se activan **2 reglas M3**: **Z8 recursos profesionales** (planificación en tab
 **Ejercicios estrategicos 5, 8**. Estos tienen **respuestas menos univocas** que los 1-4. El formador no impone el resultado, pero cuida la **calidad del proceso de decisión** (tablas + criterios no financieros + opiniones + elección propia). Los resultados de distintos alumnos pueden ser distintos, esta bien.
 
 **Culturas**.
-- Ucranianos y bielorrusos discuten con gusto en clave estrategica (ej. 5, 8), son realistas.
-- Uzbekos y tayikos a menudo sorprendentemente maduros en el ej. 3 (auditoria FSC), porque vienen de culturas que respetan los procedimientos formales.
-- Vietnamitas y filipinos pueden ser demasiado "complacientes" en el ej. 7 (Adrian): el formador empuja a una decisión clara, no al compromiso.
-- Latinos (Peru, Colombia) reaccionan muy emocionalmente al ej. 2 (reclamación del cliente): el formador despega las emociones del KC.
+- Los ucranianos (sobre todo de Járkov, Kiev, Leópolis) discuten con gusto en clave estratégica (ej. 5, 8); son realistas, con un trasfondo de libre mercado y de la «zona gris».
+- Los cursistas del oeste de Ucrania (Leópolis, Ternopol, Chernivtsi) a menudo sorprendentemente maduros en el ej. 3 (auditoría FSC), porque en sus regiones se ha desarrollado una sólida cultura de pequeña empresa y de procedimientos formales comunitarios tras 2014.
+- Los colombianos pueden ser demasiado «complacientes» en el ej. 7 (Adrian) por la formalidad heredada del «usted» hacia el superior: el formador empuja a una decisión clara, no al compromiso.
+- Los latinos (Perú, Colombia, Venezuela, Bolivia, Honduras) reaccionan muy emocionalmente al ej. 2 (reclamación del cliente): el formador despega las emociones del KC.
 
-**Mezcla de parejas en la discusión**. Cambia las composiciones en cada ejercicio ("hoy ej. 3 en pareja ucraniano + uzbeko, ej. 4 vietnamita + peruano"), para que las perspectivas culturales se entrecrucen. No dejes mesas "monoculturales" durante toda la semana 4.
+**Mezcla de parejas en la discusión**. Cambia las composiciones en cada ejercicio («hoy ej. 3 en pareja ucraniano de Járkov + colombiano, ej. 4 ucraniano de Leópolis + peruano»), para que las perspectivas culturales se entrecrucen. No dejes mesas «monoculturales» durante toda la semana 4.

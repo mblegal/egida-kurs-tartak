@@ -41,7 +41,7 @@ Tuesday 18 June 2026, 9:45. You are at P3 LT70 (oak C30, 5 m3 for Stolarz Meblow
 
 At 9:45, **two things happen at once**:
 1. On **your** LT70 head, after 40 seconds of cutting you feel an 8-10 Hz vibration in the handle and hear a rhythmic knock every 0.5 s. The kerf surface is slightly wavy. This is lower-wheel runout (EGIDA fault table item 4).
-2. **Adrian** shouts from 8 m away: "Rustam, I have waves on the third board, the ammeter is climbing." You can see his sawmill: the kerf surface is clearly wavy.
+2. **Adrian** shouts from 8 m away: "Mykoła, I have waves on the third board, the ammeter is climbing." You can see his sawmill: the kerf surface is clearly wavy.
 
 Marek (foreman) is in a meeting with Anna Kwiatkowska until 10:30, phone on silent.
 
@@ -58,7 +58,7 @@ Marek (foreman) is in a meeting with Anna Kwiatkowska until 10:30, phone on sile
 
 **Priority: Adrian**, not your LT70. Your LT70 already requires a STOP (wheel runout greater than 0.5 mm does not allow continued cutting without risk to the machine and its warranty), so a STOP is natural. Adrian is waiting for a decision while cutting, an active situation.
 
-**10-minute sequence**: (1) STOP LT70 first: stop the head and hit the emergency switch, log into KKS-001 "9:45, wheel runout ~10 Hz, STOP, awaiting Marek + service"; (2) walk over to Adrian, 8 m away, visually assess the waves; if they are minor and appeared on the third board (not earlier), most likely a dull blade or a drop in tension; (3) instruct Adrian under your observation: STOP, check the ammeter (yellow/red?), check tension, swap the blade if needed (operator-level, Adrian has independent M2 competence for blade changes); (4) log in his KS-001 "9:50, waves on board 3, swapped blade 10 instead of blade 7, Rustam supervisory approval"; (5) return to the LT70 and call Marek using the 4W format plus an SMS ("Marek, Rustam, P3, 9:45, wheel runout, STOP, Wood-Mizer service notified, awaiting authorization").
+**10-minute sequence**: (1) STOP LT70 first: stop the head and hit the emergency switch, log into KKS-001 "9:45, wheel runout ~10 Hz, STOP, awaiting Marek + service"; (2) walk over to Adrian, 8 m away, visually assess the waves; if they are minor and appeared on the third board (not earlier), most likely a dull blade or a drop in tension; (3) instruct Adrian under your observation: STOP, check the ammeter (yellow/red?), check tension, swap the blade if needed (operator-level, Adrian has independent M2 competence for blade changes); (4) log in his KS-001 "9:50, waves on board 3, swapped blade 10 instead of blade 7, Mykoła supervisory approval"; (5) return to the LT70 and call Marek using the 4W format plus an SMS ("Marek, Mykoła, P3, 9:45, wheel runout, STOP, Wood-Mizer service notified, awaiting authorization").
 
 **Forms**: your KKS-001 (fault + time + three-sense description) + Adrian's KS-001 (supervisory note with your initials) + optionally your own KS-001 (downtime due to fault).
 
@@ -72,7 +72,7 @@ Marek (foreman) is in a meeting with Anna Kwiatkowska until 10:30, phone on sile
 
 Friday 19 June 2026, 14:15. You are finishing the last cuts on P3 LT70 for order ZLE-2026-06-023 (oak FSC C30, 8 m3 for Natalia at Stolarz Meblowy Szczytno, deadline Saturday 10:00). The shift report EGIDA-RZ-001 looks great: margin +2180 zł, yield 58%, 0 complaints from classifier Ms. Ania.
 
-**Jacek Wesolowski from Dom-Bud Mragowo calls** (the customer of the previous order ZLE-2026-06-015, pine C24, batch released on 12 June 2026, a week ago): "Rustam, we have a problem. The boards from your batch have a tolerance of 174 mm instead of 175. I have to rescind the contract and get back 3200 zł." The call lasts 4 minutes. The customer is emotional but not aggressive. Rustam, the foreman Marek is on leave until Monday (he already left at 14:00 Friday).
+**Jacek Wesolowski from Dom-Bud Mragowo calls** (the customer of the previous order ZLE-2026-06-015, pine C24, batch released on 12 June 2026, a week ago): "Mykoła, we have a problem. The boards from your batch have a tolerance of 174 mm instead of 175. I have to rescind the contract and get back 3200 zł." The call lasts 4 minutes. The customer is emotional but not aggressive. Mykoła, the foreman Marek is on leave until Monday (he already left at 14:00 Friday).
 
 The batch is 5 m3 x 640 zł/m3 of pine C24 = 3200 zł in value. On the shift report for ZLE-2026-06-015: margin minus 529 zł (a known problem batch from small logs).
 
@@ -102,15 +102,15 @@ The batch is 5 m3 x 640 zł/m3 of pine C24 = 3200 zł in value. On the shift rep
 
 ---
 
-## Exercise 3: "FSC audit by Mr. Krzysztof Kowalski + Adrian speaks ill of Rustam"
+## Exercise 3: "FSC audit by Mr. Krzysztof Kowalski + Adrian speaks ill of Mykoła"
 
 ### Context
 
-Thursday 18 June 2026, 7:30. **NEPCon auditor Krzysztof Kowalski** arrives (annual FSC-C112233 audit, standard procedure). He is sitting in the EGIDA conference room with Marek, Anna Kwiatkowska, and **Adrian Kowal** (your M2 trainee). You are on shop floor P3 LT70, starting order ZLE-2026-06-024 (beech, 4 m3 FSC for MebelPro Warszawa). Marek texts: "Rustam, in 40 minutes the auditor wants to talk with you about chain of custody and about Adrian's training." At 8:10, Adrian arrives with the auditor.
+Thursday 18 June 2026, 7:30. **NEPCon auditor Krzysztof Kowalski** arrives (annual FSC-C112233 audit, standard procedure). He is sitting in the EGIDA conference room with Marek, Anna Kwiatkowska, and **Adrian Kowal** (your M2 trainee). You are on shop floor P3 LT70, starting order ZLE-2026-06-024 (beech, 4 m3 FSC for MebelPro Warszawa). Marek texts: "Mykoła, in 40 minutes the auditor wants to talk with you about chain of custody and about Adrian's training." At 8:10, Adrian arrives with the auditor.
 
-**Before they enter the floor**, Adrian had said to Kowalski in the room (unintentionally, thinking it was private): "Mr. Rustam is a good operator, but sometimes he corrects me too harshly. Once he told me that guides at 4.2 mm instead of 3 was a mistake, but I was just tired." Auditor Kowalski heard it. Now they enter the floor.
+**Before they enter the floor**, Adrian had said to Kowalski in the room (unintentionally, thinking it was private): "Mr. Mykoła is a good operator, but sometimes he corrects me too harshly. Once he told me that guides at 4.2 mm instead of 3 was a mistake, but I was just tired." Auditor Kowalski heard it. Now they enter the floor.
 
-The auditor asks you at the machine: "Mr. Rustam, please show me the chain of custody for this order. And while we are at it: Mr. Adrian mentioned something about your supervisory methods, I would like to understand the structure of your authority."
+The auditor asks you at the machine: "Mr. Mykoła, please show me the chain of custody for this order. And while we are at it: Mr. Adrian mentioned something about your supervisory methods, I would like to understand the structure of your authority."
 
 ### Questions
 
@@ -144,7 +144,7 @@ Availability within 15 min (ISO 9001). All in the ZLE-024 folder + in TartakERP 
 
 **Regulations section 8 subsection 3**: "I correct what is wrong, not what is merely different from mine." Key because it protects both the trainee (against arbitrary control) and the supervisor (against liability for unreported errors).
 
-**Why the auditor is asking**. FSC-C112233 includes a requirement to train operators (FSC STD-40-004 clause 7.3). The auditor is checking whether the EGIDA training system works. The Rustam-Adrian-Krzysztof exchange is a **test** of procedures, not an attack on Rustam. A calm, factual answer satisfies him.
+**Why the auditor is asking**. FSC-C112233 includes a requirement to train operators (FSC STD-40-004 clause 7.3). The auditor is checking whether the EGIDA training system works. The Mykoła-Adrian-Krzysztof exchange is a **test** of procedures, not an attack on Mykoła. A calm, factual answer satisfies him.
 
 **Common junior M3 mistake**: reacts emotionally ("Adrian is lying, I was not too harsh, it is all written down"). Consequence: the auditor sees nerves, suspects other problems, deepens the audit, finds other gaps. Principle: **in an audit you are calm and factual; emotions only afterwards**.
 
@@ -157,8 +157,8 @@ Availability within 15 min (ISO 9001). All in the ZLE-024 folder + in TartakERP 
 Monday 22 June 2026, 6:45. You enter the shop floor, 15 minutes before shift start at 7:00. Three matters are waiting:
 
 1. **Dispatch order DP-2026-06-026** from Marek on your desk. Oak FSC, 6 m3 for Bouwhout van Doorn (export customer, Netherlands, your first time solo), priority A, deadline Thursday 14:00, requires plus or minus 1 mm tolerance (not the standard plus or minus 2). You must complete KDP-001 before starting.
-2. **Ms. Ania the classifier** is waiting in the meeting room with Saturday's report: "Rustam, 4 boards from Friday's batch ZLE-023 (beech) are at the C24/C16 boundary. I need your decision before closing KEP-001." She places the card on your desk marked "URGENT before start."
-3. **Adrian** texts at 6:40: "Rustam, I am running late until 7:15, bus problem. What about my LT30 (ZLE-025 pine)? Start without you or wait?"
+2. **Ms. Ania the classifier** is waiting in the meeting room with Saturday's report: "Mykoła, 4 boards from Friday's batch ZLE-023 (beech) are at the C24/C16 boundary. I need your decision before closing KEP-001." She places the card on your desk marked "URGENT before start."
+3. **Adrian** texts at 6:40: "Mykoła, I am running late until 7:15, bus problem. What about my LT30 (ZLE-025 pine)? Start without you or wait?"
 
 Marek is in the Monday management meeting from 6:30 to 7:30.
 
@@ -181,11 +181,11 @@ Marek is in the Monday management meeting from 6:30 to 7:30.
 **Start LT70 at 7:00 or later?** If KDP-001 is ready and Ms. Ania is sorted by 7:00 = start on time. If KDP-001 is incomplete or Ms. Ania needs longer consultation = **start at 7:10-7:20, log in KS-001 "7:10 start, delay due to a complete KDP-001 for an export customer"**. Bouwhout = export customer, plus or minus 1 mm = the customer does not care whether you start at 7:00 or 7:15, but does care whether the KDP parameters are correct. Z2 principle: **the parametric decision always before cutting, not during it**.
 
 **Option risks**:
-- Option A (ignore Adrian, start LT70 at 7:00): Adrian may start LT30 alone without supervision, risk of accident + breach of independent M2 authorization (Adrian holds full 30-day authorization, but without supervision on days marked as "under Rustam").
+- Option A (ignore Adrian, start LT70 at 7:00): Adrian may start LT30 alone without supervision, risk of accident + breach of independent M2 authorization (Adrian holds full 30-day authorization, but without supervision on days marked as "under Mykoła").
 - Option B (ignore Ms. Ania): KEP-001 closed without boundary classification, risk of a complaint from the customer Natalia at Stolarz Meblowy (class C24 vs C16 = price difference of 200-400 zł per m3).
 - Option C (ignore the Bouwhout dispatch order, start LT70 with rough-set parameters): risk of plus or minus 2 mm tolerance instead of plus or minus 1 mm = export-customer complaint of a material defect + loss of 3 years of cooperation with Bouwhout (annual turnover 800,000 zł).
 
-**Update to Marek**: SMS at 7:05 in the 4W format: "Marek, Rustam, P3, 7:05, starting at 7:10-7:15 after consultation with Ms. Ania (KEP-023 closed: 2 C24 + 2 C16) + completing KDP-001 for Bouwhout ZLE-026 (plus or minus 1 mm, schema B). Adrian late until 7:15, told him to wait. Everything under control, but a 10-15 min delay for Bouwhout is documented in KS-001."
+**Update to Marek**: SMS at 7:05 in the 4W format: "Marek, Mykoła, P3, 7:05, starting at 7:10-7:15 after consultation with Ms. Ania (KEP-023 closed: 2 C24 + 2 C16) + completing KDP-001 for Bouwhout ZLE-026 (plus or minus 1 mm, schema B). Adrian late until 7:15, told him to wait. Everything under control, but a 10-15 min delay for Bouwhout is documented in KS-001."
 
 **Common junior M3 mistake**: starts LT70 at 7:00 under the pressure of "deadline," skips Ms. Ania's classification, skips Adrian, fills out KDP-001 "on the fly." Cumulative consequences: (a) Bouwhout complaint about the 1 mm tolerance, (b) Stolarz Meblowy complaint about classification, (c) Adrian in an accident without supervision. Z2 mantra: **before, not during**.
 
@@ -195,7 +195,7 @@ Marek is in the Monday management meeting from 6:30 to 7:30.
 
 ### Context
 
-Monday 22 June 2026, 15:45, end of shift. Mr. Henryk Domanski (62 y.o., BTM kiln master with 38 years of experience, EGIDA mentor) stops you at the exit: "Rustam, I spoke with Gdansk at BTM. You know that next year a kiln-master internship is planned: 6 months, 14000 zł course, commute twice a week, target salary of 8500 zł gross at BTM as a chamber-kiln master. You are a candidate. I can recommend you. What do you say?"
+Monday 22 June 2026, 15:45, end of shift. Mr. Henryk Domanski (62 y.o., BTM kiln master with 38 years of experience, EGIDA mentor) stops you at the exit: "Mykoła, I spoke with Gdansk at BTM. You know that next year a kiln-master internship is planned: 6 months, 14000 zł course, commute twice a week, target salary of 8500 zł gross at BTM as a chamber-kiln master. You are a candidate. I can recommend you. What do you say?"
 
 Currently: M3 hourly rate 55 zł gross x 168 h/month = **9240 zł gross** (with a 15% supervisory bonus when you supervise M2, on average about +500 to +800 zł/month = **9800-10000 zł gross total**). After UDT+SEP planned for September: +500 zł/month = **10500 zł**.
 
@@ -220,18 +220,18 @@ BTM offer: **8500 zł gross** as kiln-master salary. Course cost 14000 zł (who 
 - BTM ROI: salary minus 2000 zł x 12 months = minus 24000 zł in year one. After promotion in year 3: +3000-5000 zł/month x 12 = +36000-60000 zł/year. **ROI 2-3 years if promoted, 5+ years without promotion**.
 
 **Non-financial criteria**:
-- **Job satisfaction**. Drying is a specialization, less operator-like, more process-oriented. Some people love it, some do not. Rustam in M3 enjoys direct contact with the machine and the trainee; drying means sitting at a panel + monitoring.
-- **Location**. Gdansk vs Ketrzyn. Rustam settled in Ketrzyn (residence permit, apartment rented for 2 years). Gdansk = relocation or commuting. Relocation = a fresh start in a city 3x larger, anonymity.
-- **Family and culture**. Rustam is single in Poland, no family here. Gdansk = a new circle. Ketrzyn = friends from the course + EGIDA.
+- **Job satisfaction**. Drying is a specialization, less operator-like, more process-oriented. Some people love it, some do not. Mykoła in M3 enjoys direct contact with the machine and the trainee; drying means sitting at a panel + monitoring.
+- **Location**. Gdansk vs Ketrzyn. Mykoła settled in Ketrzyn (residence permit, apartment rented for 2 years). Gdansk = relocation or commuting. Relocation = a fresh start in a city 3x larger, anonymity.
+- **Family and culture**. Mykoła is single in Poland, no family here. Gdansk = a new circle. Ketrzyn = friends from the course + EGIDA.
 - **Long-term career path**. BTM specialization = risk of being "locked in" to drying (harder to return to M3 operator work after 3 years). M3 EGIDA + courses = broader options.
 - **Relationships**. Mr. Henryk recommends out of affection (he sees master potential in you), Marek = at risk of losing a strong M3, Ms. Ania = neutral, Damian = likely to say "do not rush, M3 is good."
 
 **What they would advise**:
-- **Marek**: "Rustam, you are an excellent M3, do not rush. Maybe in 2-3 years." A foreman's perspective, wants to keep you.
+- **Marek**: "Mykoła, you are an excellent M3, do not rush. Maybe in 2-3 years." A foreman's perspective, wants to keep you.
 - **Ms. Ania**: "Do you like sitting at a computer for 8 hours, or do you prefer a tool?" A question about preferences.
 - **Damian**: "I have been M3 for 4 years, never rushed anywhere. BTM is for people who really love drying. You like the sawmill. Leave drying to Mr. Henryk, he loves it."
 
-**Choice**: there is no objectively "right" answer. The case teaches the **decision process** (numbers + non-financial + conversations + time to think), not the **outcome**. Rustam's likely choice: **not now**, but keep in touch with Mr. Henryk (the offer comes back in 2 years), in the meantime do UDT+SEP in September + think about UPP in 12 months.
+**Choice**: there is no objectively "right" answer. The case teaches the **decision process** (numbers + non-financial + conversations + time to think), not the **outcome**. Mykoła's likely choice: **not now**, but keep in touch with Mr. Henryk (the offer comes back in 2 years), in the meantime do UDT+SEP in September + think about UPP in 12 months.
 
 **Common junior M3 mistake**: looks only at the first number (BTM 8500 < M3 10000 = "not worth it"). No trajectory analysis. Or the opposite: looks only at "master" (ego) and ignores the year-one pay drop. Z8 principle: **careers are planned in tables, not in feelings**.
 
@@ -272,7 +272,7 @@ Consequences if 82 deg C lasts 30+ minutes: heart-rot cracks in the oak (60-80% 
 
 **10-minute sequence**:
 - **0-1 min**: STOP chamber 3 (emergency button on the panel). Watch for the temperature drop (if it falls = the shutdown works; if it does not fall = heating-element failure, the cycle is stopped but temperature is rising another way, leading to opening the chamber door with maintenance).
-- **1-3 min**: triple escalation: (a) phone call to Marek in 4W format "Marek, Rustam, chamber 3, 10:30, alarm 82 deg C in the oak cycle, emergency STOP, please come to the chambers"; (b) SMS to Anna Kwiatkowska: "Ms. Anna, chamber 3 alarm 82 deg C, STOP, please advise"; (c) phone to EGIDA maintenance on duty: "chamber 3, alarm 82 deg C in oak, emergency STOP, please diagnose the heating element."
+- **1-3 min**: triple escalation: (a) phone call to Marek in 4W format "Marek, Mykoła, chamber 3, 10:30, alarm 82 deg C in the oak cycle, emergency STOP, please come to the chambers"; (b) SMS to Anna Kwiatkowska: "Ms. Anna, chamber 3 alarm 82 deg C, STOP, please advise"; (c) phone to EGIDA maintenance on duty: "chamber 3, alarm 82 deg C in oak, emergency STOP, please diagnose the heating element."
 - **3-5 min**: log in chamber 3 KKS-001: "23 June 2026 10:30, alarm 82 deg C in oak cycle ZLE-027 day 8, operator emergency STOP, escalation Marek + Kwiatkowska + maintenance." Full 3 senses: sight (panel), hearing (fans), touch (whether the chamber door is very hot).
 - **5-10 min**: Marek arrives (within 5 min), joint decision: whether to open the chamber door (if temperature is not falling), or wait for maintenance (if it falls below 70 deg C). Decision on contacting BTM Polska (external service, Mr. Grzegorz Mazur) if maintenance does not solve it within 30 minutes.
 
@@ -303,7 +303,7 @@ Friday 26 June 2026, 14:30. You are finishing your 5th supervisory shift over Ad
 
 Adrian has two criteria = 3 (KDP parameters and documentation), both at the threshold (3, not <3). Sum 18 = conditional range (17-19).
 
-Adrian asks: "Rustam, please give me the full one. I promise to improve over the next 30 days. A refusal will break my career." Marek (foreman) walks by and says: "Rustam, your call. Regulations are regulations, but you see the kid, I see the last month. What do you think?"
+Adrian asks: "Mykoła, please give me the full one. I promise to improve over the next 30 days. A refusal will break my career." Marek (foreman) walks by and says: "Mykoła, your call. Regulations are regulations, but you see the kid, I see the last month. What do you think?"
 
 ### Questions
 
@@ -326,7 +326,7 @@ Adrian: 18/25, all criteria >= 3 = **conditional 15 days**. Unambiguous reading 
 
 **Arguments for full** (against the regulations): (a) positive trend (last shift 4/4/5/5/4 = 22); (b) the three parameter errors were in the first shift of the week and were not repeated; (c) Adrian has a good character, eager to learn; (d) foreman Marek informally supports.
 
-**Arguments for conditional** (in line with the regulations): (a) the regulations are not a suggestion but a norm; (b) full authorization at 18/25 sets a precedent for other M2s (anyone can ask for an "exception," the system loses integrity); (c) 15 days of conditional is not a punishment but a verification window: if Adrian is genuinely better, he will finish at 22/25 in 2 weeks and earn full; (d) documentation with evidentiary force - KAO-001 goes into Adrian's personnel file for 10 years, and in the event of an incident an auditor (PIP labor inspectorate, customer, insurer) reads it; (e) Polish Labour Code (KP) art. 120 section 1 - full authorization at 18 = partial Rustam liability for any Adrian errors over the next 30 days.
+**Arguments for conditional** (in line with the regulations): (a) the regulations are not a suggestion but a norm; (b) full authorization at 18/25 sets a precedent for other M2s (anyone can ask for an "exception," the system loses integrity); (c) 15 days of conditional is not a punishment but a verification window: if Adrian is genuinely better, he will finish at 22/25 in 2 weeks and earn full; (d) documentation with evidentiary force - KAO-001 goes into Adrian's personnel file for 10 years, and in the event of an incident an auditor (PIP labor inspectorate, customer, insurer) reads it; (e) Polish Labour Code (KP) art. 120 section 1 - full authorization at 18 = partial Mykoła liability for any Adrian errors over the next 30 days.
 
 **Adrian's pleading**: does NOT affect the decision. Trainee emotions are not an evaluation criterion. Pedagogy: "Adrian, I understand your feelings, but the regulations are as much a safeguard for you as they are for me. 18/25 conditional is not a punishment, it is a rhythm of verification. In 2 weeks I will reassess, and if the trend matches the last shift, you get full."
 
@@ -336,7 +336,7 @@ Adrian: 18/25, all criteria >= 3 = **conditional 15 days**. Unambiguous reading 
 
 > "Total 18/25. Criteria 2 (KDP parameters) and 5 (documentation) = 3 (lower threshold). Per EGIDA regulations section 8 subsection 3 and the authorization scale: conditional 15 days. Positive trend over the last 2 shifts (22/25 and 20/25), trainee eager to improve. Verification plan: KAO-001 reassessment at 7 and 14 days. Expected transition to full if >= 20/25 is maintained over the next 2 supervisory shifts. If 17-19 is maintained or there is a drop: continue conditional + improvement plan with Marek and the trainee."
 
-**Common junior M3 mistake**: gives in to Adrian's pleading + Marek's influence + own sympathy + grants full. Effects: (a) if Adrian errs in 30 days, Rustam is co-liable; (b) Bekzod (another M2) asks "why did Adrian get full at 18 when I got conditional at 19?" = system inconsistency; (c) regulations section 8 broken, internal audit detects it, Anna Kwiatkowska has a conversation with Rustam. Z6 principle: **firm pedagogy + soft tone**.
+**Common junior M3 mistake**: gives in to Adrian's pleading + Marek's influence + own sympathy + grants full. Effects: (a) if Adrian errs in 30 days, Mykoła is co-liable; (b) Diego (another M2) asks "why did Adrian get full at 18 when I got conditional at 19?" = system inconsistency; (c) regulations section 8 broken, internal audit detects it, Anna Kwiatkowska has a conversation with Mykoła. Z6 principle: **firm pedagogy + soft tone**.
 
 ---
 
@@ -399,7 +399,7 @@ Friday 26 June 2026, after lesson l6 T4 on career planning. At the "Mazurska" ca
 - **A as a base** + later choice of B or C = the most strategic.
 
 **Opinions**:
-- **Mr. Henryk** (62 y.o., kiln master): "Rustam, BTM is my bread for 38 years. If you like the computer + monitoring 8 h, go for it. If you like the sawmill, stay in M3, add UDT+SEP, think about UPP in 2 years."
+- **Mr. Henryk** (62 y.o., kiln master): "Mykoła, BTM is my bread for 38 years. If you like the computer + monitoring 8 h, go for it. If you like the sawmill, stay in M3, add UDT+SEP, think about UPP in 2 years."
 - **Marek** (42 y.o., foreman): "Do not rush. UDT+SEP to start in the fall, that makes sense. BTM and UPP are for next year, the year after. For now, stabilize as an M3 operator with credentials."
 - **Damian** (35 y.o., M3 4 years): "I only did UDT+SEP, 2 years ago. No regrets. I might think about UPP in 5 years, maybe. M3 with credentials is a solid position, no pressure."
 
@@ -426,9 +426,9 @@ Friday 26 June 2026, after lesson l6 T4 on career planning. At the "Mazurska" ca
 **Strategic exercises 5, 8**. These have **less unambiguous answers** than 1-4. The trainer does not impose an outcome but cares about **the quality of the decision process** (tables + non-financial + opinions + own choice). Different trainees may reach different conclusions, and that is OK.
 
 **Cultures**.
-- Ukrainians and Belarusians readily engage in strategic discussion (ex. 5, 8); they are realists.
-- Uzbeks and Tajiks are often surprisingly mature in ex. 3 (FSC audit), as they come from cultures that respect formal procedures.
-- Vietnamese and Filipinos may be too "agreeable" in ex. 7 (Adrian); the trainer pushes for a clear decision rather than a compromise.
-- Latin Americans (Peru, Colombia) react very emotionally to ex. 2 (customer complaint); the trainer separates the emotion from the KC.
+- Ukrainians (especially from Kharkiv, Kyiv, Lviv) readily engage in strategic discussion (ex. 5, 8); they are realists with a background of the free market and the "grey zone".
+- Trainees from western Ukraine (Lviv, Ternopil, Chernivtsi) are often surprisingly mature in ex. 3 (FSC audit), because a strong culture of small enterprise and EU formal procedures has developed in their regions after 2014.
+- Colombians can be too "agreeable" in ex. 7 (Adrian) because of the inherited formality of "usted" toward a superior; the trainer pushes for a clear decision rather than a compromise.
+- Latin Americans (Peru, Colombia, Venezuela, Bolivia, Honduras) react very emotionally to ex. 2 (customer complaint); the trainer separates the emotion from the KC.
 
-**Mixing pairs in discussion**. Rotate pairings each exercise ("today ex. 3 in a Ukrainian + Uzbek pair, ex. 4 a Vietnamese + Peruvian"), so cultural perspectives interleave. Do not leave "monocultural" tables for the entire week 4.
+**Mixing pairs in discussion**. Rotate pairings each exercise ("today ex. 3 in a Kharkiv Ukrainian + Colombian pair, ex. 4 a Lviv Ukrainian + Peruvian"), so cultural perspectives interleave. Do not leave "monocultural" tables for the entire week 4.

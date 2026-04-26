@@ -6,15 +6,15 @@ czas: 120
 
 ## Introduction
 
-Friday, 2026-05-30, 9:25. Eleven days after the planning briefing in l3, eleven days into the drying cycle for English oak in the BH-50 kiln. Rustam walks across the yard toward the drying hall, notebook in hand, work phone (an old-style Nokia, battery lasts a week, signal covers the whole sawmill) in his overall pocket. Marek has scheduled him from 9:30 to 11:30 today for a **training presence in the drying section** as part of the M3 process block. Wahan is not with Rustam today; he is on a maintenance shift on P1 with Juri (junior maintenance mechanic).
+Friday, 2026-05-30, 9:25. Eleven days after the planning briefing in l3, eleven days into the drying cycle for English oak in the BH-50 kiln. Mykoła walks across the yard toward the drying hall, notebook in hand, work phone (an old-style Nokia, battery lasts a week, signal covers the whole sawmill) in his overall pocket. Marek has scheduled him from 9:30 to 11:30 today for a **training presence in the drying section** as part of the M3 process block. Wasyl is not with Mykoła today; he is on a maintenance shift on P1 with Juri (junior maintenance mechanic).
 
-Rustam enters the drying hall (12 × 8 × 4.5 m, the same hall as in l3), then the **control room** (a 2 × 3 m space with the control cabinet, observation windows onto the kiln, and a small desk in the corner). Pan Henryk is already there, drinking coffee from a thermos; Maciek Wiśniewski (drying helper, 19 years old, Ostróda wood-technology school, from l3) stands in front of the panel with the **weekend log** in his hand. The log is an A4 hardcover notebook, filled in twice a day on weekends (Saturday 10:00 and 16:00, Sunday 10:00 and 16:00), sometimes more often if Maciek feels like checking the kiln on Saturday evening.
+Mykoła enters the drying hall (12 × 8 × 4.5 m, the same hall as in l3), then the **control room** (a 2 × 3 m space with the control cabinet, observation windows onto the kiln, and a small desk in the corner). Pan Henryk is already there, drinking coffee from a thermos; Maciek Wiśniewski (drying helper, 19 years old, Ostróda wood-technology school, from l3) stands in front of the panel with the **weekend log** in his hand. The log is an A4 hardcover notebook, filled in twice a day on weekends (Saturday 10:00 and 16:00, Sunday 10:00 and 16:00), sometimes more often if Maciek feels like checking the kiln on Saturday evening.
 
 ### 9:30, routine reading
 
-Pan Henryk, to Rustam: *„Good morning. Sit down, watch, write. Today I will show you how to read the panel during a cycle. The current oak reached day fourteen on Thursday; tomorrow is day fifteen, Sunday is day sixteen. The main phase ends on Sunday; Monday we switch to conditioning."*
+Pan Henryk, to Mykoła: *„Good morning. Sit down, watch, write. Today I will show you how to read the panel during a cycle. The current oak reached day fourteen on Thursday; tomorrow is day fifteen, Sunday is day sixteen. The main phase ends on Sunday; Monday we switch to conditioning."*
 
-Rustam sits on a stool by the desk, opens his notebook, writes down the date and time. The BH-50 panel shows:
+Mykoła sits on a stool by the desk, opens his notebook, writes down the date and time. The BH-50 panel shows:
 
 ```
 Kiln: BH-50 (Brunner-Hildebrand)
@@ -36,7 +36,7 @@ Heater status:           45% power (nominal 40-60% in main phase)
 
 Pan Henryk points a fingernail at three lines: *„Look. The wood moisture drops every day by 0.5-0.6%. That's good dynamics for oak on day fourteen. To reach 14% target we still have 10-11% to shed in eight days. That's **1.25% per day**. The pace rises in conditioning, then slows at the end. The plan is holding."*
 
-Rustam writes: *„oak d.14, moist. 24-26%, EMC 8.4%, spread 1.6% OK, fans ok."*
+Mykoła writes: *„oak d.14, moist. 24-26%, EMC 8.4%, spread 1.6% OK, fans ok."*
 
 Pan Henryk: *„**Spread** is the most important uniformity indicator during a cycle. If probe three runs 1-2% slower, it means that where it is mounted (rear of the kiln) the airflow is a bit weaker. Normal. When the difference grows to 3-4%, you have a problem. Today 1.6%, calm."*
 
@@ -51,13 +51,13 @@ Pan Henryk clicks the „Alarm history" tab on the panel. On the screen, a list 
 [remaining entries from previous drying cycles]
 ```
 
-*„You see, Rustam, **INFO** is a note, not an alarm, no reaction required. **WARNING** is level two; the controller corrects by itself, the operator observes. **ALARM** is level three; the controller does not correct, human reaction required. There have been no alarms in the last month, that's a good sign."*
+*„You see, Mykoła, **INFO** is a note, not an alarm, no reaction required. **WARNING** is level two; the controller corrects by itself, the operator observes. **ALARM** is level three; the controller does not correct, human reaction required. There have been no alarms in the last month, that's a good sign."*
 
 Maciek returns to the saw hall with his own task (loading the sawmill for the afternoon client) and closes the control-room door behind him.
 
 ### 9:45, the alarm fires
 
-Pan Henryk pours more coffee from the thermos, Rustam watches the panel, and suddenly **a red LED** in the corner of the screen starts to pulse. The controller emits a short acoustic signal (three beeps, 1 second, then a 2-second pause, then again). On the screen a message:
+Pan Henryk pours more coffee from the thermos, Mykoła watches the panel, and suddenly **a red LED** in the corner of the screen starts to pulse. The controller emits a short acoustic signal (three beeps, 1 second, then a 2-second pause, then again). On the screen a message:
 
 ```
 ALARM: Air temperature exceeded
@@ -68,9 +68,9 @@ Detected:      2026-05-30, 09:43:12
 Recommendation: reduce heater power or increase ventilation
 ```
 
-Rustam flinched, the coffee in Pan Henryk's mug swayed slightly. Pan Henryk speaks calmly but precisely: *„Rustam, you see the red LED. What do you do now?"*
+Mykoła flinched, the coffee in Pan Henryk's mug swayed slightly. Pan Henryk speaks calmly but precisely: *„Mykoła, you see the red LED. What do you do now?"*
 
-Rustam thinks for two seconds. The lesson from l3: an M3 operator, in case of an alarm, **signals the foreman immediately and does not try to solve it alone**. Pan Henryk is next to him; no phone call needed, just turn around. Rustam says: *„Temperature alarm, 62.3 instead of 58, deviation +4.3. I am reporting it to you, what should I do?"*
+Mykoła thinks for two seconds. The lesson from l3: an M3 operator, in case of an alarm, **signals the foreman immediately and does not try to solve it alone**. Pan Henryk is next to him; no phone call needed, just turn around. Mykoła says: *„Temperature alarm, 62.3 instead of 58, deviation +4.3. I am reporting it to you, what should I do?"*
 
 Pan Henryk nods: *„Good. First thing, **you do not reset the alarm**, because we don't yet know the cause. Second, **you do not enter the kiln**. Third, **you do not change the program settings**. I diagnose now, you observe and learn. A **small alarm** is good training, because there is no rush."*
 
@@ -87,7 +87,7 @@ Spread between probes:              1.0°C (nominal <1.5°C)
 
 *„All four temperature probes show similarly, between 61.8 and 62.8. The spread is normal. **This means the entire kiln is hotter**, not one zone. If one probe showed 62 and the other three showed 58, I would suspect a damaged sensor in one corner. Here it is the whole kiln. First diagnosis: **it is not a sensor fault**."*
 
-Rustam writes a note: *„4 probes close together = whole kiln hot, not one sensor. First diagnosis."*
+Mykoła writes a note: *„4 probes close together = whole kiln hot, not one sensor. First diagnosis."*
 
 ### 9:50, Pan Henryk checks the heaters and the gas valve
 
@@ -111,7 +111,7 @@ Marek confirms he will call. Pan Henryk hangs up.
 
 ### 9:55, first manual correction
 
-Pan Henryk to Rustam: *„Now I will do a **manual correction of the gas valve** to bring the kiln temperature from 62 back to 58. This is a **drying foreman's** decision, not an M3 operator's. An M3 operator does not even have a password to this panel, just an informational view."*
+Pan Henryk to Mykoła: *„Now I will do a **manual correction of the gas valve** to bring the kiln temperature from 62 back to 58. This is a **drying foreman's** decision, not an M3 operator's. An M3 operator does not even have a password to this panel, just an informational view."*
 
 Pan Henryk enters the password (6-digit, changed quarterly by BTM), opens the manual-control window:
 
@@ -129,13 +129,13 @@ If you want AUTO to stay off longer, enter it in
 
 Pan Henryk lowers heater 1 from 68% to 40%, heater 2 from 64% to 40%, the gas valve from 72% to 45%. He confirms three times; the controller disables AUTO for 30 minutes (from 9:55 to 10:25).
 
-*„Rustam, the **maximum rate-of-change rule for temperature** is **6°C per hour**. Oak must not be cooled faster than 6°C/h, because that causes **internal checker**. The drop from 62 to 58 is 4°C; it should be done in 40 minutes, not in 5. The controller will lower it gradually. We observe."*
+*„Mykoła, the **maximum rate-of-change rule for temperature** is **6°C per hour**. Oak must not be cooled faster than 6°C/h, because that causes **internal checker**. The drop from 62 to 58 is 4°C; it should be done in 40 minutes, not in 5. The controller will lower it gradually. We observe."*
 
 ### 10:00, trend observation
 
-Pan Henryk and Rustam watch the panel, refreshing every 15 seconds. In 5 minutes the temperature drops from 62.3 to 61.1 (a drop of 1.2°C in 5 minutes, i.e. **14.4°C/h**, too fast). Pan Henryk comments: *„Too fast, but expected in the first minutes after reducing the gas. The hot heat exchanger gives off heat into the kiln even when the heaters draw less current. We wait; within 20 minutes the drop should stabilise."*
+Pan Henryk and Mykoła watch the panel, refreshing every 15 seconds. In 5 minutes the temperature drops from 62.3 to 61.1 (a drop of 1.2°C in 5 minutes, i.e. **14.4°C/h**, too fast). Pan Henryk comments: *„Too fast, but expected in the first minutes after reducing the gas. The hot heat exchanger gives off heat into the kiln even when the heaters draw less current. We wait; within 20 minutes the drop should stabilise."*
 
-Rustam writes observations every 2 minutes:
+Mykoła writes observations every 2 minutes:
 - 09:55 62.3°C (start)
 - 09:57 61.9°C (drop 0.4)
 - 10:00 61.1°C (drop 0.8)
@@ -162,7 +162,7 @@ Pan Henryk resets the alarm history (confirms in the kiln log), enters a note:
 2026-05-30 10:15  ALARM resolved, temp 58.2°C
 ```
 
-*„Rustam, **now the KS-001 card**. Every alarm must be documented, regardless of whether there were consequences for the wood or not. This is an ISO 9001 requirement and a BTM requirement for the kiln warranty."*
+*„Mykoła, **now the KS-001 card**. Every alarm must be documented, regardless of whether there were consequences for the wood or not. This is an ISO 9001 requirement and a BTM requirement for the kiln warranty."*
 
 ### 10:40, entry in KS-001
 
@@ -179,21 +179,21 @@ Correction: manual reduction of the gas valve from 72% to 45%,
   for 10 min, acceptable for oak day 14).
 Wood state: moisture unchanged, probe spread 1.6%.
 Plan: manual control until Mon 02.06, BTM service.
-Present: Pan Henryk (foreman), Rustam Nazarov (M3 training).
+Present: Pan Henryk (foreman), Mykoła Hrycenko (M3 training).
 Signature: H. Nowak, 10:45.
 ```
 
-*„Rustam, **you were not here at 9:55**. In the document I write 'present Rustam Nazarov' because you were here, and that is a fact for the audit. If someone asks you one day 'were you there at the kiln alarm on 30 May', you say 'yes, I was learning', you will not be ashamed."*
+*„Mykoła, **you were not here at 9:55**. In the document I write 'present Mykoła Hrycenko' because you were here, and that is a fact for the audit. If someone asks you one day 'were you there at the kiln alarm on 30 May', you say 'yes, I was learning', you will not be ashamed."*
 
-Rustam writes in his notebook: *„The alarm happened. We documented it. Without hiding. **Documents are protection, not a problem**."*
+Mykoła writes in his notebook: *„The alarm happened. We documented it. Without hiding. **Documents are protection, not a problem**."*
 
 ### 10:50, a talk about the limits of competence
 
-Pan Henryk pours Rustam more coffee from the thermos (sugar from a separate sachet); they sit side by side in front of the panel, temperature stable at 58.2°C.
+Pan Henryk pours Mykoła more coffee from the thermos (sugar from a separate sachet); they sit side by side in front of the panel, temperature stable at 58.2°C.
 
-*„Rustam, I would like you to understand one thing today. The alarm fired, I solved it, but **had I not been here**? What would you as an M3 operator have done?"*
+*„Mykoła, I would like you to understand one thing today. The alarm fired, I solved it, but **had I not been here**? What would you as an M3 operator have done?"*
 
-Rustam thinks: *„I would have phoned Marek. Marek is on the saw hall, he would be here in 2-3 minutes."*
+Mykoła thinks: *„I would have phoned Marek. Marek is on the saw hall, he would be here in 2-3 minutes."*
 
 *„Good. And if Marek does not answer, because he is in the shower after a sawdust cleaning round?"*
 
@@ -201,25 +201,25 @@ Rustam thinks: *„I would have phoned Marek. Marek is on the saw hall, he would
 
 *„Good. And if BTM does not answer, because it is the weekend? What do you do?"*
 
-Rustam thinks. *„Unlike with a saw, I cannot switch the kiln off on my own, because the wood would then cool too fast or heat up. If I cannot reach the foreman or BTM, then... **I observe and write**, until one of them comes back. Unless I see smoke or hear cracking."*
+Mykoła thinks. *„Unlike with a saw, I cannot switch the kiln off on my own, because the wood would then cool too fast or heat up. If I cannot reach the foreman or BTM, then... **I observe and write**, until one of them comes back. Unless I see smoke or hear cracking."*
 
 *„Exactly. **The last resort** is not the M3 operator switching the kiln off, because any attempt at manual intervention without authorisation may make things worse. The rescue is **observation, documentation, escalation**. Just as on the saw it is **STOP, secure, report, document**. Here it is **OBSERVE, RECORD, REPORT, ESCALATE**. The first three steps are the same, the fourth is different, because you cannot 'secure' a kiln in a minute like a machine."*
 
-Rustam writes in his notebook: *„Kiln, M3 operator alarm procedure: **OBSERVE, RECORD, REPORT, ESCALATE**. No manual intervention."*
+Mykoła writes in his notebook: *„Kiln, M3 operator alarm procedure: **OBSERVE, RECORD, REPORT, ESCALATE**. No manual intervention."*
 
 ### 11:00, normalising the kiln and the weekend plan
 
-At 11:00 the kiln is fully stable: temperature 58.1°C, RH 46%, average wood moisture 24.7%, EMC 8.5%. Pan Henryk does a reading, Rustam records in parallel.
+At 11:00 the kiln is fully stable: temperature 58.1°C, RH 46%, average wood moisture 24.7%, EMC 8.5%. Pan Henryk does a reading, Mykoła records in parallel.
 
 Pan Henryk: *„Manual control until Monday. I stay today until 16:00. Maciek went back to the saws; I will tell him when he returns that over the weekend he monitors the kiln **every 4 hours** instead of every 8. Saturday 8:00, 12:00, 16:00, 20:00. Sunday similarly. If anything happens, he calls me, not you, not Marek."*
 
 *„You are off tomorrow (Saturday), right?"*
 
-Rustam: *„Yes, Sunday off as well."*
+Mykoła: *„Yes, Sunday off as well."*
 
-*„Good. Monday come normally to the saw, BTM will replace the thermostat, you might find it useful to watch how the service is done, but it is not your role. Tuesday 02.06 loading for Drew-Sus, remember, pine 2.42 m³, you, Wahan and Anton from the yard brigade. From Tuesday evening the kiln is empty until 08.06 when we collect the oak."*
+*„Good. Monday come normally to the saw, BTM will replace the thermostat, you might find it useful to watch how the service is done, but it is not your role. Tuesday 02.06 loading for Drew-Sus, remember, pine 2.42 m³, you, Wasyl and Anton from the yard brigade. From Tuesday evening the kiln is empty until 08.06 when we collect the oak."*
 
-Rustam confirms, closes his notebook. *„Thank you, Pan Henryku."*
+Mykoła confirms, closes his notebook. *„Thank you, Pan Henryku."*
 
 *„You handled it. **Signalling instead of intervention, observation instead of panic**. These are the foreman's standards, which you as an M3 operator already know and apply. In half a year, if you take the assistant drying course, you will be able to resolve alarms like this yourself. Today you were learning by watching."*
 
@@ -328,7 +328,7 @@ The M3 operator observing the cycle **cannot prevent checks during the cycle** (
 - Uneven stacking (visible through the observation window, you can see some boards already bending)
 - RH **too low** in the conditioning phase (gradient does not level out)
 
-The M3 operator during a training presence in the drying section learns to **recognise these signs and report them**. Today Rustam did not see any of them except the temperature alarm itself, which Pan Henryk solved manually. But in 6 months, after the assistant drying course, Rustam will be able to interpret these signals on his own and decide on corrections.
+The M3 operator during a training presence in the drying section learns to **recognise these signs and report them**. Today Mykoła did not see any of them except the temperature alarm itself, which Pan Henryk solved manually. But in 6 months, after the assistant drying course, Mykoła will be able to interpret these signals on his own and decide on corrections.
 
 ### 6. Maciek's role and weekend monitoring
 
@@ -370,7 +370,7 @@ He cannot:
 - Result (temperature returned to 58°C in 32 minutes, avg drop 10°C/h, above the 6°C/h limit for 10 min, acceptable for oak day 14)
 - Wood state after the alarm (moisture unchanged, probe spread 1.6% unchanged)
 - Plan (manual control until Mon 02.06, BTM service, thermostat to be replaced)
-- Present (Pan Henryk foreman, Rustam Nazarov M3 training)
+- Present (Pan Henryk foreman, Mykoła Hrycenko M3 training)
 - Signature and time of entry (H. Nowak, 10:45)
 
 **The KS-001 card of the current charge stays in the drying-section desk until the cycle is closed** (unloading 08.06). Then the charge is „closed", the card is signed by the foreman and the shift supervisor, scanned to EGIDA OneDrive, the paper sent to the archive (retention 3 years paper + 5 years scan).
@@ -408,18 +408,18 @@ He cannot:
 
 **Mistake 6. „I will fix it myself, I will not bother Pan Henryk"**. The operator sees the alarm, thinks: „Pan Henryk is tired, I will try myself". **An absolute mistake**: the M3 operator has no password, no practice; their intervention **will make things worse**. Pan Henryk has a phone number, has authority, has experience. **Correct**: **always call the foreman at an alarm**, even if the alarm looks small. Pan Henryk would rather be woken at 23:30 on a Sunday for a false alarm than see in the morning a kiln with cracked wood after a „self-repair" by an operator without authority.
 
-### 10. Assistant drying course, Rustam's next step
+### 10. Assistant drying course, Mykoła's next step
 
-The assistant drying-section training module (described in l3 item 11) is an optional extension of M3. It requires **the drying foreman's consent** (today Pan Henryk) and **a completed M3** (for Rustam scheduled for October 2026). Scope: 5 days of intensive training plus an exam.
+The assistant drying-section training module (described in l3 item 11) is an optional extension of M3. It requires **the drying foreman's consent** (today Pan Henryk) and **a completed M3** (for Mykoła scheduled for October 2026). Scope: 5 days of intensive training plus an exam.
 
-**Rustam's presence today** (2026-05-30, 2 hours) **counts** as **preliminary practice** toward the training. Pan Henryk will enter into Rustam's personnel file at the end of the day:
+**Mykoła's presence today** (2026-05-30, 2 hours) **counts** as **preliminary practice** toward the training. Pan Henryk will enter into Mykoła's personnel file at the end of the day:
 
 ```
 2026-05-30, 9:30-11:00
-R. Nazarov, M3 operator, drying-section training presence.
+R. Hrycenko, M3 operator, drying-section training presence.
 Observation of oak cycle (day 14), temperature alarm,
 foreman's diagnosis and manual correction.
-Rustam understood: limit of competence, alarm procedure
+Mykoła understood: limit of competence, alarm procedure
 (OBSERVE, RECORD, REPORT, ESCALATE), documentation
 in KS-001.
 Assessment: ready for further training presences.
@@ -428,7 +428,7 @@ as assistance in final measurements and packaging.
 Signature: H. Nowak, drying foreman.
 ```
 
-Rustam's personnel file is in the sawmill manager's office, in the folder „Internal training". Its contents influence **Rustam's qualification** for the assistant drying course in October 2026 (minimum 3 training presences as a condition for admission).
+Mykoła's personnel file is in the sawmill manager's office, in the folder „Internal training". Its contents influence **Mykoła's qualification** for the assistant drying course in October 2026 (minimum 3 training presences as a condition for admission).
 
 ### 11. What happens next in the oak cycle after the alarm
 
@@ -442,17 +442,17 @@ Rustam's personnel file is in the sawmill manager's office, in the folder „Int
 
 **Sunday (07.06)**: cooling phase, temperature 55°C → 25°C (slow descent 4°C/h max), RH 75% stable. Wood moisture 14% at target.
 
-**Monday (08.06)**: end of the 22-day cycle. **Kiln opening, unloading** (that is l5 M3 T3, Rustam's next lesson).
+**Monday (08.06)**: end of the 22-day cycle. **Kiln opening, unloading** (that is l5 M3 T3, Mykoła's next lesson).
 
-## Closing scene, 11:00, Rustam's exit
+## Closing scene, 11:00, Mykoła's exit
 
-Pan Henryk stays in the control room (log to close, phone call to the next BTM operator confirming the Monday visit), Rustam walks out with a notebook full of new entries. Through the control-room window he sees Maciek returning from the saw hall with the weekend log in his hand; Maciek looks at him questioningly. Rustam shows him briefly: *„There was an alarm, temperature +4, Pan Henryk fixed it. Manual control until Monday, you every 4 hours on the weekend."*
+Pan Henryk stays in the control room (log to close, phone call to the next BTM operator confirming the Monday visit), Mykoła walks out with a notebook full of new entries. Through the control-room window he sees Maciek returning from the saw hall with the weekend log in his hand; Maciek looks at him questioningly. Mykoła shows him briefly: *„There was an alarm, temperature +4, Pan Henryk fixed it. Manual control until Monday, you every 4 hours on the weekend."*
 
 Maciek nods, walks into the control room to talk to Pan Henryk about the weekend schedule.
 
 ### 11:05, moving to the saw hall
 
-Rustam walks across the yard to the saw hall. Today is Friday, a normal production shift. His shift on P3 starts at 12:00, until 12:00 he has 50 minutes free. He goes to the employee locker, takes a sandwich out of his bag, sits on the bench in front of the hall, opens his notebook and **writes up cleanly** what he saw this morning.
+Mykoła walks across the yard to the saw hall. Today is Friday, a normal production shift. His shift on P3 starts at 12:00, until 12:00 he has 50 minutes free. He goes to the employee locker, takes a sandwich out of his bag, sits on the bench in front of the hall, opens his notebook and **writes up cleanly** what he saw this morning.
 
 **Five conclusions**:
 
@@ -460,19 +460,19 @@ Rustam walks across the yard to the saw hall. Today is Friday, a normal producti
 
 2. **A +4°C alarm is „minor" for oak day 14**. The same +4°C on day 3 of heating would be more serious. Pan Henryk saw this right away („no rush, a small alarm, good training"). The M3 operator does not assess alarm priority; they **report all alarms equally**.
 
-3. **The GH-67 thermostat** is a component Rustam did not know before. Today he learned that a kiln controller has many components, **each of which can fail independently**, and that BTM service holds knowledge of typical faults which the M3 operator does not have and does not need to have.
+3. **The GH-67 thermostat** is a component Mykoła did not know before. Today he learned that a kiln controller has many components, **each of which can fail independently**, and that BTM service holds knowledge of typical faults which the M3 operator does not have and does not need to have.
 
 4. **The OBSERVE, RECORD, REPORT, ESCALATE procedure** is **different from the saw procedure** (STOP, secure, report, document). The kiln has no instant „STOP". The operator must understand this difference, because saw intuition says „stop the machine", but in the kiln **stopping the cycle** generates more problems than it solves.
 
-5. **Documentation = protection**. Pan Henryk enters in KS-001 even „minor" alarms, even „Rustam's training presence". An ISO 9001 audit shows that the kiln is monitored, alarms are resolved, staff is trained. Without those entries nothing can be proved. **Paper is protection, not an obstacle**.
+5. **Documentation = protection**. Pan Henryk enters in KS-001 even „minor" alarms, even „Mykoła's training presence". An ISO 9001 audit shows that the kiln is monitored, alarms are resolved, staff is trained. Without those entries nothing can be proved. **Paper is protection, not an obstacle**.
 
-Rustam closes the notebook, puts it on the bench, finishes the last of the tea from the thermos. At 11:35 he enters the saw hall and starts preparing P3 for his shift (cleaning the machine bed from the sawdust of Damian's morning shift).
+Mykoła closes the notebook, puts it on the bench, finishes the last of the tea from the thermos. At 11:35 he enters the saw hall and starts preparing P3 for his shift (cleaning the machine bed from the sawdust of Damian's morning shift).
 
 ### 11:55, assignment of the day
 
-Marek brings the assignment for the day on P3 from 12:00 to 15:00. It is **ZLE-2026-05-082**, client Stolarz Meblowy Mrągowo (from l3), common beech 25 × 130 × 4000 mm. A different species, a different assortment, a different class (C24 furniture grade, but with an aesthetic condition). Rustam will fill in a new KDP-001.
+Marek brings the assignment for the day on P3 from 12:00 to 15:00. It is **ZLE-2026-05-082**, client Stolarz Meblowy Mrągowo (from l3), common beech 25 × 130 × 4000 mm. A different species, a different assortment, a different class (C24 furniture grade, but with an aesthetic condition). Mykoła will fill in a new KDP-001.
 
-But that is the next lesson, not today. Today Rustam finishes the drying notes and starts the beech production at 12:00. Wahan will join at 12:15 after finishing maintenance with Juri.
+But that is the next lesson, not today. Today Mykoła finishes the drying notes and starts the beech production at 12:00. Wasyl will join at 12:15 after finishing maintenance with Juri.
 
 ## Key terms
 
@@ -548,7 +548,7 @@ d) Both, to show their authority
 
 14. An ISO 9001 auditor comes in June 2026 and says: „show me KS-001 for the oak charge from May". Within how many minutes must the card be available? Where is it kept?
 
-15. Pan Henryk writes in KS-001 „present: Rustam Nazarov (M3 training)". Why does he explicitly record Rustam's presence, even though Rustam did not decide anything?
+15. Pan Henryk writes in KS-001 „present: Mykoła Hrycenko (M3 training)". Why does he explicitly record Mykoła's presence, even though Mykoła did not decide anything?
 
 ### F. Maciek's role and plans
 
@@ -556,4 +556,4 @@ d) Both, to show their authority
 
 17. Normal weekend routine: Maciek does 4 readings per day (10:00 and 16:00 Saturday and Sunday). Why, after an alarm, does Pan Henryk increase the routine to every 4 hours (8 readings) instead of keeping the standard 4?
 
-18. Rustam passed a training presence in the drying section today (2 hours). It counts as **an introduction** to what, and what are the formal requirements for participation in that next step?
+18. Mykoła passed a training presence in the drying section today (2 hours). It counts as **an introduction** to what, and what are the formal requirements for participation in that next step?

@@ -6,15 +6,15 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, 2026-05-30, godzina 9:25. Jedenaście dni po naradzie planistycznej z l3, jedenaście dni w cyklu dębu szypułkowego w komorze BH-50. Rustam idzie przez plac magazynowy w kierunku hali suszarni, w ręku notatnik, w kieszeni kombinezonu telefon służbowy (Nokia starego typu, bateria trzyma tydzień, zasięg w całym tartaku). Marek zaplanował mu dziś od 9:30 do 11:30 **szkoleniową obecność w suszarni** jako część bloku procesowego M3. Wahan dziś nie jest z Rustamem, ma zmianę konserwacyjną na P1 z Jurim (młodszym mechanikiem UR).
+Piątek, 2026-05-30, godzina 9:25. Jedenaście dni po naradzie planistycznej z l3, jedenaście dni w cyklu dębu szypułkowego w komorze BH-50. Mykoła idzie przez plac magazynowy w kierunku hali suszarni, w ręku notatnik, w kieszeni kombinezonu telefon służbowy (Nokia starego typu, bateria trzyma tydzień, zasięg w całym tartaku). Marek zaplanował mu dziś od 9:30 do 11:30 **szkoleniową obecność w suszarni** jako część bloku procesowego M3. Wasyl dziś nie jest z Mykołą, ma zmianę konserwacyjną na P1 z Jurim (młodszym mechanikiem UR).
 
-Rustam wchodzi do hali suszarni (12 × 8 × 4,5 m, ta sama hala co w l3), potem do **hali sterowania** (pomieszczenie 2 × 3 m z szafą sterowniczą, oknami obserwacyjnymi na komorę i małym biurkiem w kącie). Pan Henryk jest już tam, pije kawę z termosu, Maciek Wiśniewski (pomocnik suszarni, 19 lat, technikum drzewne Ostróda, z l3) stoi przed panelem z **dziennikiem weekendowym** w ręku. Dziennik to zeszyt A4 w twardej oprawie, wypełniany dwa razy dziennie w weekendy (sobota 10:00 i 16:00, niedziela 10:00 i 16:00), czasem częściej jeśli Maciek ma ochotę sprawdzić komorę w sobotę wieczorem.
+Mykoła wchodzi do hali suszarni (12 × 8 × 4,5 m, ta sama hala co w l3), potem do **hali sterowania** (pomieszczenie 2 × 3 m z szafą sterowniczą, oknami obserwacyjnymi na komorę i małym biurkiem w kącie). Pan Henryk jest już tam, pije kawę z termosu, Maciek Wiśniewski (pomocnik suszarni, 19 lat, technikum drzewne Ostróda, z l3) stoi przed panelem z **dziennikiem weekendowym** w ręku. Dziennik to zeszyt A4 w twardej oprawie, wypełniany dwa razy dziennie w weekendy (sobota 10:00 i 16:00, niedziela 10:00 i 16:00), czasem częściej jeśli Maciek ma ochotę sprawdzić komorę w sobotę wieczorem.
 
 ### 9:30, odczyt rutynowy
 
-Pan Henryk, do Rustama: *„Dzień dobry. Usiądź, patrz, pisz. Dzisiaj pokażę ci, jak się czyta panel podczas cyklu. Dębu bieżącego czwartek otrzymaliśmy dzień czternasty, jutro dzień piętnasty, w niedzielę dzień szesnasty. Faza główna kończy się w niedzielę, poniedziałek przechodzimy w kondycjonowanie."*
+Pan Henryk, do Mykoły: *„Dzień dobry. Usiądź, patrz, pisz. Dzisiaj pokażę ci, jak się czyta panel podczas cyklu. Dębu bieżącego czwartek otrzymaliśmy dzień czternasty, jutro dzień piętnasty, w niedzielę dzień szesnasty. Faza główna kończy się w niedzielę, poniedziałek przechodzimy w kondycjonowanie."*
 
-Rustam siada na krzesełku przy biurku, otwiera notatnik, zapisuje datę i godzinę. Panel BH-50 pokazuje:
+Mykoła siada na krzesełku przy biurku, otwiera notatnik, zapisuje datę i godzinę. Panel BH-50 pokazuje:
 
 ```
 Komora: BH-50 (Brunner-Hildebrand)
@@ -36,7 +36,7 @@ Stan grzałek:                 45% mocy (nominalne 40-60% w fazie głównej)
 
 Pan Henryk wskazuje paznokciem na trzy linijki: *„Patrz. Wilgotność drewna spada każdego dnia o 0,5-0,6%. To jest dobra dynamika dla dębu dzień czternasty. Do czternastego, cel 14%, zostało nam 10-11% do zrzucenia w ośmiu dniach. To jest **1,25% dziennie**. Wzrost tempa w kondycjonowaniu, potem spowolnienie w końcówce. Plan trzyma."*
 
-Rustam zapisuje: *„dąb d.14, wilg. 24-26%, EMC 8,4%, rozrzut 1,6% OK, wentylatory ok."*
+Mykoła zapisuje: *„dąb d.14, wilg. 24-26%, EMC 8,4%, rozrzut 1,6% OK, wentylatory ok."*
 
 Pan Henryk: *„**Rozrzut** to najważniejszy wskaźnik jednorodności w trakcie cyklu. Jeżeli sonda trzecia idzie wolniej o 1-2%, to znaczy, że tam gdzie jest zamocowana (tylna część komory), przepływ powietrza jest trochę słabszy. Normalne. Jak różnica rośnie do 3-4%, robi się problem. Dziś 1,6%, spokojnie."*
 
@@ -51,13 +51,13 @@ Pan Henryk klika na panelu zakładkę „Historia alarmów". Na ekranie lista os
 [pozostałe pozycje z poprzednich cykli suszarniczych]
 ```
 
-*„Widzisz, Rustam, **INFO** to notowanie, nie alarm, nie wymaga reakcji. **OSTRZEŻENIE** to poziom drugi, sterownik sam koryguje, operator obserwuje. **ALARM** to poziom trzeci, sterownik nie koryguje, wymaga reakcji człowieka. Alarmów w ostatnim miesiącu nie było, to jest dobry znak."*
+*„Widzisz, Mykoła, **INFO** to notowanie, nie alarm, nie wymaga reakcji. **OSTRZEŻENIE** to poziom drugi, sterownik sam koryguje, operator obserwuje. **ALARM** to poziom trzeci, sterownik nie koryguje, wymaga reakcji człowieka. Alarmów w ostatnim miesiącu nie było, to jest dobry znak."*
 
 Maciek wraca do hali pilarek z własnym zadaniem (załadunek tartaku dla klienta popołudniowego), drzwi do hali sterowania zamyka za sobą.
 
 ### 9:45, alarm wyskakuje
 
-Pan Henryk dolewa kawy z termosu, Rustam patrzy na panel, nagle **dioda czerwona** na rogu ekranu zaczyna pulsować. Sterownik wydaje krótki sygnał dźwiękowy (trzy piknięcia, 1 sekunda, potem przerwa 2 sekundy, potem znów). Na ekranie komunikat:
+Pan Henryk dolewa kawy z termosu, Mykoła patrzy na panel, nagle **dioda czerwona** na rogu ekranu zaczyna pulsować. Sterownik wydaje krótki sygnał dźwiękowy (trzy piknięcia, 1 sekunda, potem przerwa 2 sekundy, potem znów). Na ekranie komunikat:
 
 ```
 ALARM: Temperatura powietrza przekroczona
@@ -68,9 +68,9 @@ Wykryto:           2026-05-30, 09:43:12
 Rekomendacja:      Zmniejsz moc grzałek lub zwiększ wentylację
 ```
 
-Rustam drgnął, kawa w kubku Pana Henryka lekko zachybotała. Pan Henryk mówi spokojnie, ale precyzyjnie: *„Rustam, widzisz czerwoną diodę. Co robisz teraz?"*
+Mykoła drgnął, kawa w kubku Pana Henryka lekko zachybotała. Pan Henryk mówi spokojnie, ale precyzyjnie: *„Mykoła, widzisz czerwoną diodę. Co robisz teraz?"*
 
-Rustam myśli dwie sekundy. Lekcja z l3: operator M3 w przypadku alarmu **sygnalizuje mistrzowi natychmiast, nie próbuje rozwiązywać samodzielnie**. Pan Henryk jest obok, nie trzeba dzwonić, wystarczy się odwrócić. Rustam mówi: *„Alarm temperaturowy, 62,3 zamiast 58, odchylenie +4,3. Zgłaszam panu, co mam robić?"*
+Mykoła myśli dwie sekundy. Lekcja z l3: operator M3 w przypadku alarmu **sygnalizuje mistrzowi natychmiast, nie próbuje rozwiązywać samodzielnie**. Pan Henryk jest obok, nie trzeba dzwonić, wystarczy się odwrócić. Mykoła mówi: *„Alarm temperaturowy, 62,3 zamiast 58, odchylenie +4,3. Zgłaszam panu, co mam robić?"*
 
 Pan Henryk potakuje: *„Dobrze. Pierwsza rzecz, **nie resetujesz alarmu**, bo nie wiemy jeszcze, co jest przyczyną. Druga, **nie wchodzisz do komory**. Trzecia, **nie zmieniasz ustawień programu**. Ja teraz diagnozuję, ty obserwujesz i uczysz się. **Niewielki alarm** to dobry trening, bo nie ma pośpiechu."*
 
@@ -87,7 +87,7 @@ Rozrzut między sondami:              1,0°C  (nominalne <1,5°C)
 
 *„Wszystkie cztery sondy temperatury pokazują podobnie, między 61,8 a 62,8. Rozrzut jest normalny. **To znaczy, że cała komora jest gorętsza**, nie jedna strefa. Jeżeli byłaby jedna sonda 62 a trzy inne 58, podejrzewałbym uszkodzony czujnik w jednym rogu. Tutaj cała komora. Diagnoza pierwsza: **nie jest to błąd sensora**."*
 
-Rustam zapisuje notatkę: *„4 sondy blisko siebie = cała komora gorąca, nie jeden czujnik. Pierwsza diagnoza."*
+Mykoła zapisuje notatkę: *„4 sondy blisko siebie = cała komora gorąca, nie jeden czujnik. Pierwsza diagnoza."*
 
 ### 9:50, Pan Henryk sprawdza grzałki i zawór gazu
 
@@ -111,7 +111,7 @@ Marek potwierdza, że zadzwoni. Pan Henryk odwiesza telefon.
 
 ### 9:55, pierwsza korekta ręczna
 
-Pan Henryk do Rustama: *„Teraz zrobię **ręczną korektę zaworu gazu**, żeby obniżyć temperaturę w komorze z 62 z powrotem na 58. To jest decyzja **mistrza suszarni**, nie operatora M3. Operator M3 nawet nie ma hasła dostępu do tego panelu, widzi tylko informacyjnie."*
+Pan Henryk do Mykoły: *„Teraz zrobię **ręczną korektę zaworu gazu**, żeby obniżyć temperaturę w komorze z 62 z powrotem na 58. To jest decyzja **mistrza suszarni**, nie operatora M3. Operator M3 nawet nie ma hasła dostępu do tego panelu, widzi tylko informacyjnie."*
 
 Pan Henryk wpisuje hasło (6-cyfrowe, zmieniane co kwartał przez BTM), otwiera okno sterowania ręcznego:
 
@@ -129,13 +129,13 @@ w „Opcje specjalne, blokada AUTO na N minut".
 
 Pan Henryk obniża grzałkę 1 z 68% do 40%, grzałkę 2 z 64% do 40%, zawór gazu z 72% do 45%. Potwierdza trzy razy, sterownik wyłącza tryb AUTO na 30 minut (od 9:55 do 10:25).
 
-*„Rustam, **zasada maksymalnego tempa zmiany temperatury** to **6°C na godzinę**. Dębu nie wolno schładzać szybciej niż 6°C/h, bo powoduje to **pęknięcia rdzeniowe**. Skok z 62 na 58 to spadek 4°C, powinno się dokonać w 40 minutach, nie w 5. Sterownik będzie obniżał stopniowo. Obserwujemy."*
+*„Mykoła, **zasada maksymalnego tempa zmiany temperatury** to **6°C na godzinę**. Dębu nie wolno schładzać szybciej niż 6°C/h, bo powoduje to **pęknięcia rdzeniowe**. Skok z 62 na 58 to spadek 4°C, powinno się dokonać w 40 minutach, nie w 5. Sterownik będzie obniżał stopniowo. Obserwujemy."*
 
 ### 10:00, obserwacja trendu
 
-Pan Henryk i Rustam patrzą na panel, odświeżanie co 15 sekund. Temperatura w ciągu 5 minut spada z 62,3 na 61,1 (spadek 1,2°C za 5 minut, czyli **14,4°C/h**, za szybko). Pan Henryk komentuje: *„Za szybko, ale oczekiwane w pierwszych minutach po redukcji gazu. Gorący wymiennik ciepła oddaje ciepło do komory nawet gdy grzałki dostają mniej prądu. Poczekamy, w ciągu 20 minut spadek powinien się ustabilizować."*
+Pan Henryk i Mykoła patrzą na panel, odświeżanie co 15 sekund. Temperatura w ciągu 5 minut spada z 62,3 na 61,1 (spadek 1,2°C za 5 minut, czyli **14,4°C/h**, za szybko). Pan Henryk komentuje: *„Za szybko, ale oczekiwane w pierwszych minutach po redukcji gazu. Gorący wymiennik ciepła oddaje ciepło do komory nawet gdy grzałki dostają mniej prądu. Poczekamy, w ciągu 20 minut spadek powinien się ustabilizować."*
 
-Rustam zapisuje obserwacje co 2 minuty:
+Mykoła zapisuje obserwacje co 2 minuty:
 - 09:55 62,3°C (start)
 - 09:57 61,9°C (spadek 0,4)
 - 10:00 61,1°C (spadek 0,8)
@@ -162,7 +162,7 @@ Pan Henryk resetuje historię alarmów (zatwierdza w dzienniku komory), wpisuje 
 2026-05-30 10:15  ALARM rozwiązany, temp 58,2°C
 ```
 
-*„Rustam, **teraz karta KS-001**. Każdy alarm musi być udokumentowany, niezależnie od tego czy skutki były dla drewna, czy nie. To jest wymóg ISO 9001 i BTM dla gwarancji komory."*
+*„Mykoła, **teraz karta KS-001**. Każdy alarm musi być udokumentowany, niezależnie od tego czy skutki były dla drewna, czy nie. To jest wymóg ISO 9001 i BTM dla gwarancji komory."*
 
 ### 10:40, wpis w KS-001
 
@@ -179,21 +179,21 @@ Korekta: ręczne obniżenie zaworu gazu z 72% na 45%,
   przez 10 min, akceptowalne dla dębu dzień 14).
 Stan drewna: wilgotność bez zmian, rozrzut sond 1,6%.
 Plan: sterowanie ręczne do pon 02.06, serwis BTM.
-Obecni: Pan Henryk (mistrz), Rustam Nazarov (M3 szkolenie).
+Obecni: Pan Henryk (mistrz), Mykoła Hrycenko (M3 szkolenie).
 Podpis: H. Nowak, 10:45.
 ```
 
-*„Rustam, **nie byłeś tu 9:55**. W dokumencie piszę 'obecni Rustam Nazarov', bo byłeś, i to jest fakt dla audytu. Jeśli ktoś cię zapyta kiedyś 'byłeś przy alarmie komory 30 maja', powiesz 'tak, uczyłem się', nie będziesz się wstydził."*
+*„Mykoła, **nie byłeś tu 9:55**. W dokumencie piszę 'obecni Mykoła Hrycenko', bo byłeś, i to jest fakt dla audytu. Jeśli ktoś cię zapyta kiedyś 'byłeś przy alarmie komory 30 maja', powiesz 'tak, uczyłem się', nie będziesz się wstydził."*
 
-Rustam zapisuje w notatniku: *„Alarm zdarzył się. Udokumentowaliśmy. Bez ukrywania. **Dokumenty są ochroną, nie problemem**."*
+Mykoła zapisuje w notatniku: *„Alarm zdarzył się. Udokumentowaliśmy. Bez ukrywania. **Dokumenty są ochroną, nie problemem**."*
 
 ### 10:50, rozmowa o granicy kompetencji
 
-Pan Henryk dolewa Rustamowi kawy z termosu (cukier z osobnej torebki), siedzą obok siebie przed panelem, temperatura stabilizuje się 58,2°C.
+Pan Henryk dolewa Mykole kawy z termosu (cukier z osobnej torebki), siedzą obok siebie przed panelem, temperatura stabilizuje się 58,2°C.
 
-*„Rustam, chciałbym, żebyś zrozumiał dzisiaj jedną rzecz. Alarm wyskoczył, ja go rozwiązałem, ale **gdyby mnie tu nie było**? Co ty jako operator M3 zrobiłbyś?"*
+*„Mykoła, chciałbym, żebyś zrozumiał dzisiaj jedną rzecz. Alarm wyskoczył, ja go rozwiązałem, ale **gdyby mnie tu nie było**? Co ty jako operator M3 zrobiłbyś?"*
 
-Rustam myśli: *„Zgłosiłbym Markowi telefonem. Marek jest na hali pilarek, doszedłby tutaj za 2-3 minuty."*
+Mykoła myśli: *„Zgłosiłbym Markowi telefonem. Marek jest na hali pilarek, doszedłby tutaj za 2-3 minuty."*
 
 *„Dobrze. A jeżeli Marek nie odbiera, bo jest pod prysznicem po zapyleniu odpychania trocin?"*
 
@@ -201,25 +201,25 @@ Rustam myśli: *„Zgłosiłbym Markowi telefonem. Marek jest na hali pilarek, d
 
 *„Dobrze. A jeżeli BTM nie odbiera, bo jest weekend? Co robisz?"*
 
-Rustam myśli. *„W przeciwieństwie do pilarki, nie mogę wyłączyć komory sam, bo drewno wtedy się schłodzi za szybko albo rozgrzeje. Jeśli nie mogę wezwać mistrza ani BTM, to... **obserwuję i zapisuję**, do momentu aż jeden z nich się odzyska. Chyba że widzę dymu albo słyszę trzask."*
+Mykoła myśli. *„W przeciwieństwie do pilarki, nie mogę wyłączyć komory sam, bo drewno wtedy się schłodzi za szybko albo rozgrzeje. Jeśli nie mogę wezwać mistrza ani BTM, to... **obserwuję i zapisuję**, do momentu aż jeden z nich się odzyska. Chyba że widzę dymu albo słyszę trzask."*
 
 *„Dokładnie. **Ostatni ratunek** to nie wyłączenie komory przez operatora M3, bo każda próba ręcznej ingerencji bez uprawnień może pogorszyć sytuację. Ratunkiem jest **obserwacja, dokumentacja, eskalacja**. Tak jak w pilarce jest **STOP, zabezpiecz, zgłoś, udokumentuj**. Tutaj jest **OBSERWUJ, ZAPISUJ, ZGŁOŚ, ZGŁOŚ WYŻEJ**. Pierwsze trzy kroki są te same, czwarty inny, bo komory nie da się 'zabezpieczyć' w jednej minucie jak maszyny."*
 
-Rustam zapisuje w notatniku: *„Komora, procedura alarmu operator M3: **OBSERWUJ, ZAPISUJ, ZGŁOŚ, ZGŁOŚ WYŻEJ**. Nie wolno ingerować ręcznie."*
+Mykoła zapisuje w notatniku: *„Komora, procedura alarmu operator M3: **OBSERWUJ, ZAPISUJ, ZGŁOŚ, ZGŁOŚ WYŻEJ**. Nie wolno ingerować ręcznie."*
 
 ### 11:00, normalizacja komory i plan weekendowy
 
-O 11:00 komora jest całkowicie ustabilizowana: temperatura 58,1°C, RH 46%, wilgotność drewna średnia 24,7%, EMC 8,5%. Pan Henryk przeprowadza odczyt, Rustam zapisuje równolegle.
+O 11:00 komora jest całkowicie ustabilizowana: temperatura 58,1°C, RH 46%, wilgotność drewna średnia 24,7%, EMC 8,5%. Pan Henryk przeprowadza odczyt, Mykoła zapisuje równolegle.
 
 Pan Henryk: *„Do poniedziałku sterowanie ręczne. Ja dziś zostaję do 16:00. Maciek wrócił do pilarek, powiem mu po powrocie, że weekend będzie obserwował komorę **co 4 godziny** zamiast co 8. Sobota 8:00, 12:00, 16:00, 20:00. Niedziela podobnie. Jeśli cokolwiek się dzieje, dzwoni do mnie, nie do ciebie, nie do Marka."*
 
 *„Ty jutro (sobota) masz wolne, prawda?"*
 
-Rustam: *„Tak, niedziela wolna też."*
+Mykoła: *„Tak, niedziela wolna też."*
 
-*„Dobrze. Poniedziałek przyjdziesz normalnie na pilarkę, BTM wymieni termostat, może ci się przyda zobaczyć jak serwis się ludzi dokonuje ale to nie twoja rola. Wtorek 02.06 załadunek Drew-Sus, pamiętasz, sosna 2,42 m³, ty Wahan i Anton z brygady placowej. Od wtorku wieczorem komora pusta do 08.06 kiedy zbieramy dąb."*
+*„Dobrze. Poniedziałek przyjdziesz normalnie na pilarkę, BTM wymieni termostat, może ci się przyda zobaczyć jak serwis się ludzi dokonuje ale to nie twoja rola. Wtorek 02.06 załadunek Drew-Sus, pamiętasz, sosna 2,42 m³, ty Wasyl i Anton z brygady placowej. Od wtorku wieczorem komora pusta do 08.06 kiedy zbieramy dąb."*
 
-Rustam potwierdza, zamyka notatnik. *„Dziękuję, Panie Henryku."*
+Mykoła potwierdza, zamyka notatnik. *„Dziękuję, Panie Henryku."*
 
 *„Poradziłeś sobie. **Sygnalizacja zamiast ingerencji, obserwacja zamiast paniki**. To jest standardy mistrza, które ty jako operator M3 już wiesz i stosujesz. Za pół roku, jeśli zrobisz szkolenie suszarnicze pomocnicze, będziesz mógł rozwiązywać takie alarmy sam. Dziś się uczyłeś patrząc."*
 
@@ -328,7 +328,7 @@ Operator M3 obserwujący cykl **nie może zapobiec pęknięciom w trakcie cyklu*
 - Nierówne ułożenie stosów (widać przez okno obserwacyjne, widać że niektóre deski się już wyginają)
 - RH **za niska** w fazie kondycjonowania (gradient nie wyrównuje się)
 
-Operator M3 w szkoleniowej obecności w suszarni uczy się **rozpoznawać te oznaki i zgłaszać**. Dzisiaj Rustam nie widział żadnej z nich poza sam alarmem temperaturowym, który Pan Henryk rozwiązał ręcznie. Ale za 6 miesięcy, po kursie suszarniczym pomocniczym, Rustam będzie mógł samodzielnie interpretować te sygnały i decydować o korekcie.
+Operator M3 w szkoleniowej obecności w suszarni uczy się **rozpoznawać te oznaki i zgłaszać**. Dzisiaj Mykoła nie widział żadnej z nich poza sam alarmem temperaturowym, który Pan Henryk rozwiązał ręcznie. Ale za 6 miesięcy, po kursie suszarniczym pomocniczym, Mykoła będzie mógł samodzielnie interpretować te sygnały i decydować o korekcie.
 
 ### 6. Rola Maćka i monitoring weekendowy
 
@@ -370,7 +370,7 @@ Nie może:
 - Rezultat (temperatura wróciła na 58°C w 32 minuty, spadek średni 10°C/h, powyżej limitu 6°C/h przez 10 min, akceptowalne dla dębu dzień 14)
 - Stan drewna po alarmie (wilgotność bez zmian, rozrzut sond 1,6% niezmieniony)
 - Plan (sterowanie ręczne do pon 02.06, serwis BTM, termostat do wymiany)
-- Obecni (Pan Henryk mistrz, Rustam Nazarov M3 szkolenie)
+- Obecni (Pan Henryk mistrz, Mykoła Hrycenko M3 szkolenie)
 - Podpis i godzina wypisania (H. Nowak, 10:45)
 
 **Karta KS-001 wsadki bieżącej pozostaje w biurku suszarni do zamknięcia cyklu** (rozładunek 08.06). Wtedy wsadka jest „zamykana", karta podpisana przez mistrza i brygadzistę, skanowana do OneDrive EGIDA, papier do archiwum (retencja 3 lata papier + 5 lat skan).
@@ -408,18 +408,18 @@ Nie może:
 
 **Błąd 6. „Sam naprawię, Panu Henrykowi nie będę zawracał głowy"**. Operator widzi alarm, myśli: „Pan Henryk jest zmęczony, ja sam spróbuję". **Absolutny błąd**: operator M3 nie ma hasła, nie ma wprawy, jego ingerencja **pogorszy sytuację**. Pan Henryk ma numer telefonu, ma uprawnienia, ma wprawę. **Prawidłowo**: **zawsze dzwoń do mistrza przy alarmie**, nawet jeśli alarm wydaje się drobny. Pan Henryk wolałby zostać wybudzony o 23:30 w niedzielę na fałszywy alarm, niż rano zobaczyć komorę z pękniętym drewnem po „samodzielnej naprawie" przez operatora bez uprawnień.
 
-### 10. Szkolenie pomocnicze suszarnicze – następny krok Rustama
+### 10. Szkolenie pomocnicze suszarnicze – następny krok Mykoły
 
-Moduł szkoleniowy suszarnictwa pomocniczego (opisany w l3 pkt 11) jest opcjonalnym rozszerzeniem M3. Wymaga **zgody mistrza suszarni** (dziś Pana Henryka) i **ukończonego M3** (dla Rustama planowanego na październik 2026). Zakres: 5 dni intensywnego szkolenia + egzamin.
+Moduł szkoleniowy suszarnictwa pomocniczego (opisany w l3 pkt 11) jest opcjonalnym rozszerzeniem M3. Wymaga **zgody mistrza suszarni** (dziś Pana Henryka) i **ukończonego M3** (dla Mykoły planowanego na październik 2026). Zakres: 5 dni intensywnego szkolenia + egzamin.
 
-**Dzisiejsza obecność Rustama** (2026-05-30, 2 godziny) **liczy się** jako **wstępna praktyka** w kierunku szkolenia. Pan Henryk pod koniec dnia wpisze do akt osobowych Rustama:
+**Dzisiejsza obecność Mykoły** (2026-05-30, 2 godziny) **liczy się** jako **wstępna praktyka** w kierunku szkolenia. Pan Henryk pod koniec dnia wpisze do akt osobowych Mykoły:
 
 ```
 2026-05-30, 9:30-11:00
-R. Nazarov, operator M3, obecność szkoleniowa w suszarni.
+R. Hrycenko, operator M3, obecność szkoleniowa w suszarni.
 Obserwacja cyklu dębu (dzień 14), alarm temperaturowy,
 diagnoza i ręczna korekta mistrza.
-Rustam zrozumiał: granica kompetencji, procedura alarmu
+Mykoła zrozumiał: granica kompetencji, procedura alarmu
 (OBSERWUJ, ZAPISUJ, ZGŁOŚ, ZGŁOŚ WYŻEJ), dokumentacja
 w KS-001.
 Ocena: gotowy do dalszych obecności szkoleniowych.
@@ -428,7 +428,7 @@ jako asysta przy pomiarach końcowych i pakowaniu.
 Podpis: H. Nowak, mistrz suszarni.
 ```
 
-Akta osobowe Rustama są w biurze kierownika tartaku, w folderze „Szkolenia wewnętrzne". Ich zawartość wpływa na **kwalifikację Rustama** do szkolenia suszarniczego pomocniczego w październiku 2026 (minimum 3 obecności szkoleniowe jako warunek dopuszczenia).
+Akta osobowe Mykoły są w biurze kierownika tartaku, w folderze „Szkolenia wewnętrzne". Ich zawartość wpływa na **kwalifikację Mykoły** do szkolenia suszarniczego pomocniczego w październiku 2026 (minimum 3 obecności szkoleniowe jako warunek dopuszczenia).
 
 ### 11. Co dzieje się dalej w cyklu dębu po alarmie
 
@@ -442,17 +442,17 @@ Akta osobowe Rustama są w biurze kierownika tartaku, w folderze „Szkolenia we
 
 **Niedziela (07.06)**: faza chłodzenia, temperatura 55°C → 25°C (spadek powolny 4°C/h maks), RH 75% stabilne. Wilgotność drewna 14% docelowo.
 
-**Poniedziałek (08.06)**: koniec cyklu 22 dni. **Otwieranie komory, rozładunek** (to jest l5 M3 T3, następna lekcja Rustama).
+**Poniedziałek (08.06)**: koniec cyklu 22 dni. **Otwieranie komory, rozładunek** (to jest l5 M3 T3, następna lekcja Mykoły).
 
-## Scena domykająca, 11:00, wyjście Rustama
+## Scena domykająca, 11:00, wyjście Mykoły
 
-Pan Henryk zostaje w hali sterowania (dziennik do zamknięcia, telefon do kolejnego operatora BTM potwierdzający wizytę poniedziałkową), Rustam wychodzi z notatnikiem pełnym nowych zapisów. Przez okno hali sterowania widzi Maćka wracającego z hali pilarek z dziennikiem weekendowym w dłoni, Maciek patrzy pytająco. Rustam pokazuje mu krótko: *„Alarm był, temperatura +4, Pan Henryk naprawił. Sterowanie ręczne do poniedziałku, ty co 4 godziny w weekend."*
+Pan Henryk zostaje w hali sterowania (dziennik do zamknięcia, telefon do kolejnego operatora BTM potwierdzający wizytę poniedziałkową), Mykoła wychodzi z notatnikiem pełnym nowych zapisów. Przez okno hali sterowania widzi Maćka wracającego z hali pilarek z dziennikiem weekendowym w dłoni, Maciek patrzy pytająco. Mykoła pokazuje mu krótko: *„Alarm był, temperatura +4, Pan Henryk naprawił. Sterowanie ręczne do poniedziałku, ty co 4 godziny w weekend."*
 
 Maciek kiwa głową, wchodzi do hali sterowania porozmawiać z Panem Henrykiem o weekendowym harmonogramie.
 
 ### 11:05, przejście do hali pilarek
 
-Rustam idzie przez plac magazynowy do hali pilarek. Dziś jest piątek, zmiana produkcyjna normalna. Jego zmiana na P3 rozpoczyna się od 12:00, do 12:00 ma 50 minut wolnego. Idzie do szafki pracowniczej, bierze kanapkę z torebki, siada na ławce przed halą, otwiera notatnik i **spisuje na czysto** to, co zobaczył dziś rano.
+Mykoła idzie przez plac magazynowy do hali pilarek. Dziś jest piątek, zmiana produkcyjna normalna. Jego zmiana na P3 rozpoczyna się od 12:00, do 12:00 ma 50 minut wolnego. Idzie do szafki pracowniczej, bierze kanapkę z torebki, siada na ławce przed halą, otwiera notatnik i **spisuje na czysto** to, co zobaczył dziś rano.
 
 **Pięć wniosków**:
 
@@ -460,19 +460,19 @@ Rustam idzie przez plac magazynowy do hali pilarek. Dziś jest piątek, zmiana p
 
 2. **Alarm +4°C jest „drobny" dla dębu dzień 14**. To samo +4°C na dzień 3 nagrzewania byłoby poważniejsze. Pan Henryk widział to od razu („nie ma pośpiechu, niewielki alarm dobry trening"). Operator M3 nie ocenia priorytetu alarmu, **zgłasza wszystkie alarmy na równi**.
 
-3. **Termostat GH-67** to komponent, który Rustam wcześniej nie znał. Dzisiaj nauczył się, że sterownik komory ma wiele komponentów, **każdy może się zepsuć niezależnie**, i że serwis BTM ma wiedzę o typowych usterkach, której operator M3 nie ma i nie musi mieć.
+3. **Termostat GH-67** to komponent, który Mykoła wcześniej nie znał. Dzisiaj nauczył się, że sterownik komory ma wiele komponentów, **każdy może się zepsuć niezależnie**, i że serwis BTM ma wiedzę o typowych usterkach, której operator M3 nie ma i nie musi mieć.
 
 4. **Procedura OBSERWUJ, ZAPISUJ, ZGŁOŚ, ZGŁOŚ WYŻEJ** jest **inna niż procedura pilarki** (STOP, zabezpiecz, zgłoś, udokumentuj). Komora nie ma „STOP" natychmiastowego. Operator musi zrozumieć tę różnicę, bo intuicja z pilarki podpowiada „zatrzymaj maszynę", ale w komorze **zatrzymanie cyklu** generuje więcej problemów niż rozwiązuje.
 
-5. **Dokumentacja = ochrona**. Pan Henryk wpisuje w KS-001 nawet „drobne" alarmy, nawet „obecność szkoleniową Rustama". W audycie ISO 9001 widać, że komora jest monitorowana, alarmy są rozwiązywane, personel jest szkolony. Bez tych wpisów nie można udowodnić nic. **Papiery są ochroną, nie przeszkodą**.
+5. **Dokumentacja = ochrona**. Pan Henryk wpisuje w KS-001 nawet „drobne" alarmy, nawet „obecność szkoleniową Mykoły". W audycie ISO 9001 widać, że komora jest monitorowana, alarmy są rozwiązywane, personel jest szkolony. Bez tych wpisów nie można udowodnić nic. **Papiery są ochroną, nie przeszkodą**.
 
-Rustam zamyka notatnik, odkłada na ławkę, pije resztkę herbaty z termosu. O 11:35 wchodzi do hali pilarek, zaczyna przygotowanie P3 do zmiany (czyszczenie łóżka maszyny z trocin Damiana z porannej zmiany).
+Mykoła zamyka notatnik, odkłada na ławkę, pije resztkę herbaty z termosu. O 11:35 wchodzi do hali pilarek, zaczyna przygotowanie P3 do zmiany (czyszczenie łóżka maszyny z trocin Damiana z porannej zmiany).
 
 ### 11:55, dyspozycja dnia
 
-Marek przynosi dyspozycję dnia na P3 od 12:00 do 15:00. To jest **ZLE-2026-05-082**, klient Stolarz Meblowy Mrągowo (z l3), buk zwyczajny 25 × 130 × 4000 mm. Inny gatunek, inny sortyment, inna klasa (C24 meblowa, ale z warunkiem estetycznym). Rustam wypełni nowe KDP-001.
+Marek przynosi dyspozycję dnia na P3 od 12:00 do 15:00. To jest **ZLE-2026-05-082**, klient Stolarz Meblowy Mrągowo (z l3), buk zwyczajny 25 × 130 × 4000 mm. Inny gatunek, inny sortyment, inna klasa (C24 meblowa, ale z warunkiem estetycznym). Mykoła wypełni nowe KDP-001.
 
-Ale to jest następna lekcja, nie dzisiaj. Dzisiaj Rustam kończy notatki suszarnicze i startuje produkcję bukową o 12:00. Wahan dołączy o 12:15 po zakończeniu konserwacji z Jurim.
+Ale to jest następna lekcja, nie dzisiaj. Dzisiaj Mykoła kończy notatki suszarnicze i startuje produkcję bukową o 12:00. Wasyl dołączy o 12:15 po zakończeniu konserwacji z Jurim.
 
 ## Kluczowe terminy
 
@@ -548,7 +548,7 @@ d) Oba, żeby pokazać uprawnienia
 
 14. Audytor ISO 9001 przychodzi w czerwcu 2026 i mówi: „pokażcie mi KS-001 dla wsadki dębu z maja". W ciągu ilu minut karta musi być do dyspozycji? Gdzie jest przechowywana?
 
-15. Pan Henryk wpisuje w KS-001 „obecni: Rustam Nazarov (M3 szkolenie)". Dlaczego jawnie zapisuje obecność Rustama, nawet jeśli Rustam niczego nie decydował?
+15. Pan Henryk wpisuje w KS-001 „obecni: Mykoła Hrycenko (M3 szkolenie)". Dlaczego jawnie zapisuje obecność Mykoły, nawet jeśli Mykoła niczego nie decydował?
 
 ### F. Rola Maćka i plany
 
@@ -556,4 +556,4 @@ d) Oba, żeby pokazać uprawnienia
 
 17. Zwykła rutyna weekendu: Maciek robi 4 odczyty na dobę (10:00 i 16:00 sobota i niedziela). Dlaczego po alarmie Pan Henryk zwiększa rutynę do co 4 godziny (8 odczytów), a nie utrzymuje standardową 4?
 
-18. Rustam dzisiaj zaliczył obecność szkoleniową w suszarni (2 godziny). To liczy się jako **wstęp** do czego, i jakie są wymagania formalne do uczestnictwa w tym kolejnym kroku?
+18. Mykoła dzisiaj zaliczył obecność szkoleniową w suszarni (2 godziny). To liczy się jako **wstęp** do czego, i jakie są wymagania formalne do uczestnictwa w tym kolejnym kroku?

@@ -6,29 +6,29 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, 2026-06-26, godzina 15:20. Parking EGIDA w Kętrzynie, temperatura 24°C, słońce czerwcowe. Rustam Nazarov zakończył zmianę rutynową o 15:00 (piątki w EGIDA są krótsze o 30 minut administracyjnie, wychodzą 14:30 z biurem kończenia protokołów, ale Rustam został do 15:00 żeby dociąć brakujące 2 deski bukowe z BU-ZW-06 dla ZLE-023 ParkiętMaster Kraków – udało się, kurier DHL zabierze 17:00). Rustam wchodzi do Skody Fabii, jedzie 300 metrów pod **kawiarnię Mazurska** (ulica Mickiewicza 27, centrum Kętrzyna, historyczny budynek z 1898 r., dawne rosyjskie koszary przebudowane na kawiarnię w 2012 r., ulubione miejsce zespołu EGIDA po zmianie – tanie, smaczne, właściciel Grzegorz Maliszewski zna wszystkich operatorów z imienia).
+Piątek, 2026-06-26, godzina 15:20. Parking EGIDA w Kętrzynie, temperatura 24°C, słońce czerwcowe. Mykoła Hrycenko zakończył zmianę rutynową o 15:00 (piątki w EGIDA są krótsze o 30 minut administracyjnie, wychodzą 14:30 z biurem kończenia protokołów, ale Mykoła został do 15:00 żeby dociąć brakujące 2 deski bukowe z BU-ZW-06 dla ZLE-023 ParkiętMaster Kraków – udało się, kurier DHL zabierze 17:00). Mykoła wchodzi do Skody Fabii, jedzie 300 metrów pod **kawiarnię Mazurska** (ulica Mickiewicza 27, centrum Kętrzyna, historyczny budynek z 1898 r., dawne rosyjskie koszary przebudowane na kawiarnię w 2012 r., ulubione miejsce zespołu EGIDA po zmianie – tanie, smaczne, właściciel Grzegorz Maliszewski zna wszystkich operatorów z imienia).
 
 ### Kontekst rozmowy: inicjatywa Marka po audycie FSC
 
-Marek Kowalski zaproponował spotkanie **w środę 24.06 wieczorem** (po powrocie z Olsztyna, po audycie FSC wtorek). Powód: rozmowa z dyrektorem Pawłem Witkowskim na zebraniu kwartalnym dotyczyła między innymi Rustama. Paweł zapytał: *„Marek, ten Rustam z P3 – 15 miesięcy u nas, M3 od kwietnia, audyt FSC wzorowy, reklamacja Dom-Bud poradzona profesjonalnie, pełnomocnictwo brygadzisty udane. Co on zamierza dalej? Chcemy go trzymać długoterminowo, ale nie wiemy, gdzie widzi siebie."*
+Marek Kowalski zaproponował spotkanie **w środę 24.06 wieczorem** (po powrocie z Olsztyna, po audycie FSC wtorek). Powód: rozmowa z dyrektorem Pawłem Witkowskim na zebraniu kwartalnym dotyczyła między innymi Mykoły. Paweł zapytał: *„Marek, ten Mykoła z P3 – 15 miesięcy u nas, M3 od kwietnia, audyt FSC wzorowy, reklamacja Dom-Bud poradzona profesjonalnie, pełnomocnictwo brygadzisty udane. Co on zamierza dalej? Chcemy go trzymać długoterminowo, ale nie wiemy, gdzie widzi siebie."*
 
-Marek obiecał Pawłowi, że **porozmawia z Rustamem o ścieżkach rozwoju zawodowego**, pokaże mu realne opcje w branży drzewnej i poza nią, zapyta o preferencje, zgłosi Pawłowi plan. Inicjatywa spotkania w kawiarni Mazurska (nie na hali, nie w biurze) była świadoma: **rozmowa o karierze wymaga dystansu od codziennych obowiązków**, w kawiarni Rustam ma prawo myśleć jako człowiek, nie jako operator.
+Marek obiecał Pawłowi, że **porozmawia z Mykołą o ścieżkach rozwoju zawodowego**, pokaże mu realne opcje w branży drzewnej i poza nią, zapyta o preferencje, zgłosi Pawłowi plan. Inicjatywa spotkania w kawiarni Mazurska (nie na hali, nie w biurze) była świadoma: **rozmowa o karierze wymaga dystansu od codziennych obowiązków**, w kawiarni Mykoła ma prawo myśleć jako człowiek, nie jako operator.
 
-Marek przygotował się: wczoraj wieczorem w domu zrobił notatki o 8 ścieżkach kariery w branży drzewnej dostępnych dla operatora M3, zebrał linki do szkoleń, zapytał Pawła o budżet szkoleniowy EGIDA na 2026-2027 (Paweł zatwierdził 12 000 zł rocznie na pracownika M3 z 3 latami stażu, Rustam ma 15 miesięcy – za pół roku spełnia).
+Marek przygotował się: wczoraj wieczorem w domu zrobił notatki o 8 ścieżkach kariery w branży drzewnej dostępnych dla operatora M3, zebrał linki do szkoleń, zapytał Pawła o budżet szkoleniowy EGIDA na 2026-2027 (Paweł zatwierdził 12 000 zł rocznie na pracownika M3 z 3 latami stażu, Mykoła ma 15 miesięcy – za pół roku spełnia).
 
 ### 15:30, przybycie do kawiarni Mazurska
 
-Rustam parkuje Skodę przy ulicy Mickiewicza. Kawiarnia Mazurska zajmuje parter historycznego budynku, wnętrze 8 stolików, drewniane podłogi, ściany z dębu miejscowego (Rustam zna drewno z jakiej partii, mebelnia przychodziła do EGIDA w 2023), zapach świeżo zmielonej kawy i sernika. Grzegorz za ladą, Marek już siedzi przy stoliku przy oknie, notes A5 otwarty, kawa americano przed nim.
+Mykoła parkuje Skodę przy ulicy Mickiewicza. Kawiarnia Mazurska zajmuje parter historycznego budynku, wnętrze 8 stolików, drewniane podłogi, ściany z dębu miejscowego (Mykoła zna drewno z jakiej partii, mebelnia przychodziła do EGIDA w 2023), zapach świeżo zmielonej kawy i sernika. Grzegorz za ladą, Marek już siedzi przy stoliku przy oknie, notes A5 otwarty, kawa americano przed nim.
 
-*„Rustam, siadaj. Dziękuję, że przyszedłeś – wiem, że piątek, chciałeś do domu."*
+*„Mykoła, siadaj. Dziękuję, że przyszedłeś – wiem, że piątek, chciałeś do domu."*
 
-Rustam siada naprzeciw. *„Marek, pierwszy raz rozmowa o karierze. Ciekawy jestem."*
+Mykoła siada naprzeciw. *„Marek, pierwszy raz rozmowa o karierze. Ciekawy jestem."*
 
-Marek zamawia dla Rustama: *„Grzegorz, herbata czarna dla Rustama. Kawałek sernika domowego – obaj. I mała butelka wody niegazowanej."*
+Marek zamawia dla Mykoły: *„Grzegorz, herbata czarna dla Mykoły. Kawałek sernika domowego – obaj. I mała butelka wody niegazowanej."*
 
 Grzegorz przynosi zamówienie za 4 minuty. Marek otwiera notes:
 
-*„Rustam, zanim zacznę: to nie jest ocena roczna ani pracowników. To jest **rozmowa o Tobie i Twojej przyszłości** – w EGIDA albo poza EGIDA, obydwie opcje otwarte. Chciałbym, żebyś po tej rozmowie wiedział wszystkie realne ścieżki, policzył koszty i korzyści, i wybrał. Decyzja tylko Twoja. Zgoda?"*
+*„Mykoła, zanim zacznę: to nie jest ocena roczna ani pracowników. To jest **rozmowa o Tobie i Twojej przyszłości** – w EGIDA albo poza EGIDA, obydwie opcje otwarte. Chciałbym, żebyś po tej rozmowie wiedział wszystkie realne ścieżki, policzył koszty i korzyści, i wybrał. Decyzja tylko Twoja. Zgoda?"*
 
 *„Zgoda."*
 
@@ -40,7 +40,7 @@ Grzegorz przynosi zamówienie za 4 minuty. Marek otwiera notes:
 
 *Plus: **pensja dobra, praca stabilna, Pan Henryk idzie na emeryturę 2031** – wakat realny, EGIDA wtedy szuka. Minus: **praca samotnicza** (suszarnia oddzielna od hali pilarek, mistrz sam 80% czasu), **praca z wilgocią i zapachem** (nie wszyscy lubią), **duża odpowiedzialność za program** – zły program = partia uszkodzona, straty 10-30 tys. zł za jedną kampanię."*
 
-Rustam notuje w swoim notesie: „Mistrz suszarni – BTM 3 mies. 8500 zł (30% ja), pensja 7500-9500 zł, wakat 2031, samotne, zła kampania 10-30k strat."
+Mykoła notuje w swoim notesie: „Mistrz suszarni – BTM 3 mies. 8500 zł (30% ja), pensja 7500-9500 zł, wakat 2031, samotne, zła kampania 10-30k strat."
 
 ### Ścieżka 2: Brygadzista
 
@@ -48,7 +48,7 @@ Marek uśmiecha się: *„Druga – **brygadzista**. Ja. Ścieżka dłuższa: 3-
 
 *Plus: **najwyższa pensja w strukturze operacyjnej**, **władza decyzyjna** (ja decyduję o grafikach, urlopach, BHP, konfliktach), **bliskość dyrektora** (ja mam kontakt z Pawłem co tydzień). Minus: **stres** (odpowiedzialność za 6-8 pracowników, ich wypadki, ich wyniki), **polityka wewnętrzna** (konflikty między pracownikami – np. Damian vs Anton czasami), **praca po godzinach** (raporty, grafiki, dokumentacja wieczorami z domu)."*
 
-Rustam: „Brygadzista – AKS 2 mies. 4200 zł, komunikacja CIOP 1800 zł, pensja 8000-11000 zł, stres, polityka, praca wieczorami."
+Mykoła: „Brygadzista – AKS 2 mies. 4200 zł, komunikacja CIOP 1800 zł, pensja 8000-11000 zł, stres, polityka, praca wieczorami."
 
 ### Ścieżka 3: Kontroler jakości / klasyfikator ITB
 
@@ -58,7 +58,7 @@ Rustam: „Brygadzista – AKS 2 mies. 4200 zł, komunikacja CIOP 1800 zł, pens
 
 *Pani Ania ma też **podyplomowe studia prawne** na Uniwersytecie Gdańskim (2 lata, 2018-2020, 8000 zł osobiście, EGIDA nie finansowała), które pozwalają jej obsługiwać reklamacje prawnie – to dodatek, nie wymóg. Ty bez prawnych byłbyś klasyfikatorem technicznym, reklamacje dalej Pani Ania lub prawnik EGIDA zewnętrzny."*
 
-Rustam: „Klasyfikator ITB – 6 mies. 14500 zł (50% ja = 7250 zł, raty 24 mies.), egzamin 1500 zł, OC 1400 zł/rok, pensja 6500-8000 zł, bez stresu ale OC życia, aktualizacje co 3 lata."
+Mykoła: „Klasyfikator ITB – 6 mies. 14500 zł (50% ja = 7250 zł, raty 24 mies.), egzamin 1500 zł, OC 1400 zł/rok, pensja 6500-8000 zł, bez stresu ale OC życia, aktualizacje co 3 lata."
 
 ### Ścieżka 4: Operator CNC w stolarni
 
@@ -68,7 +68,7 @@ Rustam: „Klasyfikator ITB – 6 mies. 14500 zł (50% ja = 7250 zł, raty 24 mi
 
 *Teraz kursy CAD na rynku polskim:*
 
-Marek otwiera laptop, pokazuje Rustamowi stronę:
+Marek otwiera laptop, pokazuje Mykole stronę:
 
 **CadWork Polska** (pl.cadwork.com): *„Cadwork to wiodący system 3D-CAD/CAM dla budownictwa drewnianego i stolarstwa. Cadwork umożliwia dzięki swoim specjalistycznym modułom kompletne rozwiązania..."*. Biuro: Warszawa (centrala), Poznań, Olsztyn (przedstawicielstwo od 2025). Kurs podstawowy: 5 dni intensywne, 3800 zł, certyfikat autoryzowany.
 
@@ -78,7 +78,7 @@ Marek otwiera laptop, pokazuje Rustamowi stronę:
 
 **AlphaCAM Wood** (CAM dedykowany CNC drewnianym): Wood-Mizer Polska dystrybuuje (ten sam Wood-Mizer co nasza P3 LT70!) oraz Hexagon Manufacturing Intelligence. Kurs 7 dni, 6200 zł.
 
-Rustam: „CadWork 5 dni 3800 zł Warszawa-Poznań-Olsztyn, Master Wood 2800-4500 zł, SolidWorks Woodworking 10 dni 7500 zł, AlphaCAM 7 dni 6200 zł. Operator CNC 6000-8500 zł, praca daleko, nowoczesność."
+Mykoła: „CadWork 5 dni 3800 zł Warszawa-Poznań-Olsztyn, Master Wood 2800-4500 zł, SolidWorks Woodworking 10 dni 7500 zł, AlphaCAM 7 dni 6200 zł. Operator CNC 6000-8500 zł, praca daleko, nowoczesność."
 
 ### Ścieżka 5: Uprawnienia UDT (konserwacja i obsługa wózków)
 
@@ -105,7 +105,7 @@ Marek przygotowuje się do cytatu, otwiera na laptopie ustawę:
 
 > **§ 2 pkt 1.** Operator wózka – osoba, której organizator pracy powierzył czynności z zakresu obsługi wózka jezdniowego.
 
-*„Konkretnie: kurs **IIWJO** (Wózki Jezdniowe z Obsługą Wymiany Butli), 5 dni intensywnych, 1200 zł, **egzamin UDT** 180 zł. Uprawnienia na **5 lat**, potem **2 lata przedłużenie** na wniosek. U nas Anton Bondarenko ma IIWJO od 2019, przedłużenie w 2024. Rustam, **jeśli Ty dostaniesz IIWJO** – rozszerzenie Twojej kompetencji: jeśli Anton na urlopie, chorobie, konflikcie – Ty możesz prowadzić wózek na placu, transport dłużycy, palet tarcicy. EGIDA płaci dodatek 200 zł/mies. do pensji za posiadanie aktywnych uprawnień UDT.*
+*„Konkretnie: kurs **IIWJO** (Wózki Jezdniowe z Obsługą Wymiany Butli), 5 dni intensywnych, 1200 zł, **egzamin UDT** 180 zł. Uprawnienia na **5 lat**, potem **2 lata przedłużenie** na wniosek. U nas Anton Bondarenko ma IIWJO od 2019, przedłużenie w 2024. Mykoła, **jeśli Ty dostaniesz IIWJO** – rozszerzenie Twojej kompetencji: jeśli Anton na urlopie, chorobie, konflikcie – Ty możesz prowadzić wózek na placu, transport dłużycy, palet tarcicy. EGIDA płaci dodatek 200 zł/mies. do pensji za posiadanie aktywnych uprawnień UDT.*
 
 *Kursy na rynku lokalnym (Firecrawl pokazał mi wczoraj):*
 
@@ -115,7 +115,7 @@ Marek przygotowuje się do cytatu, otwiera na laptopie ustawę:
 
 **Grupa Kena** (Kędzierzyn-Koźle): kurs IIWJO z egzaminem UDT, ale daleko od Kętrzyna.
 
-Rustam: „UDT IIWJO – 5 dni 1200 zł, egzamin 180 zł, 5 lat ważność + 2 lata przedłużenie, dodatek 200 zł/mies., W-M ZDZ Olsztyn 15-19.09.2026."
+Mykoła: „UDT IIWJO – 5 dni 1200 zł, egzamin 180 zł, 5 lat ważność + 2 lata przedłużenie, dodatek 200 zł/mies., W-M ZDZ Olsztyn 15-19.09.2026."
 
 ### Ścieżka 6: Uprawnienia SEP (elektroenergetyczne)
 
@@ -144,35 +144,35 @@ Rustam: „UDT IIWJO – 5 dni 1200 zł, egzamin 180 zł, 5 lat ważność + 2 l
 
 *Dodatek do pensji: **150 zł/mies.** za G1-E aktywne. Dla Ciebie: G1-E + UDT IIWJO = **350 zł/mies. ekstra** = 4200 zł/rok dodatku. Plus bezpieczniejsza praca (wiesz co robić przy skoku napięcia, nie czekasz na pomoc)."*
 
-Rustam: „SEP G1-E – 3 dni 450 zł, egzamin 180 zł, 5 lat, dodatek 150 zł/mies. Z UDT razem 350 zł/mies. = 4200 zł/rok extra."
+Mykoła: „SEP G1-E – 3 dni 450 zł, egzamin 180 zł, 5 lat, dodatek 150 zł/mies. Z UDT razem 350 zł/mies. = 4200 zł/rok extra."
 
 ### Ścieżka 7: Pilarz spalinowy (drwal leśny)
 
 *„Siódma – **zupełnie inna branża: pilarz spalinowy, drwal leśny**. 30-godzinny kurs BHP, egzamin państwowy, uprawnienia na całe życie (nie wygasają). Koszt kursu 800-1200 zł. Pensja drwala 5500-7000 zł brutto, ale **nieregularnie** – zależy od kontraktów wycinek, sezonowość.*
 
-*Zaletą jest: Rustam **może zdobyć uprawnienia i pracować drwalem w zimie** (grudzień-marzec, sezon wycinek leśnych) jako **drugą pracę**. EGIDA kończy zmiany o 15:00, drwal wycina 5:00-13:00, czasowo nie koliduje. Wymaga kontraktu z Nadleśnictwem Strzałowo (nasz dostawca) lub prywatnym zakładem wycinkowym. Zarobek dodatkowy: **2500-4000 zł/mies.** w sezonie, plus dobre zdrowie (praca w lesie, świeże powietrze).*
+*Zaletą jest: Mykoła **może zdobyć uprawnienia i pracować drwalem w zimie** (grudzień-marzec, sezon wycinek leśnych) jako **drugą pracę**. EGIDA kończy zmiany o 15:00, drwal wycina 5:00-13:00, czasowo nie koliduje. Wymaga kontraktu z Nadleśnictwem Strzałowo (nasz dostawca) lub prywatnym zakładem wycinkowym. Zarobek dodatkowy: **2500-4000 zł/mies.** w sezonie, plus dobre zdrowie (praca w lesie, świeże powietrze).*
 
 *Minus: **niebezpieczna praca** (drwale w Polsce mają wskaźnik wypadków śmiertelnych 5,2 na 1000 rocznie – jeden z najwyższych), **fizyczna** (piła łańcuchowa 6-8 kg, praca w zimie -20°C), **sezonowa**. Wypadki drwali: 60% uderzenie drzewem przewracanym, 20% odrzut piły, 15% upadki, 5% inne.*
 
 *Nie polecam Ci tego jako główna ścieżka. Ale **jako dodatkowa**, zimą, gdy EGIDA zwalnia tempo – rozważ. Ale ostrożnie."*
 
-Rustam: „Pilarz spalinowy – 30 godz. kurs 800-1200 zł, pensja 5500-7000 zł sezonowo, dodatek zimą 2500-4000 zł/mies., ryzyko wypadków 5,2/1000."
+Mykoła: „Pilarz spalinowy – 30 godz. kurs 800-1200 zł, pensja 5500-7000 zł sezonowo, dodatek zimą 2500-4000 zł/mies., ryzyko wypadków 5,2/1000."
 
 ### Ścieżka 8: Studia drzewne / technologiczne
 
-*„Ósma – **studia drzewne**, długoterminowa ścieżka. **Wydział Technologii Drewna Uniwersytetu Przyrodniczego w Poznaniu** (UPP, jedyny taki wydział w Polsce). 3-letnie studia inżynierskie I stopnia, tryb niestacjonarny (weekendowy), 4000 zł za semestr. Razem 6 semestrów = 24 000 zł. EGIDA finansuje 30% po 5 latach stażu (Rustam ma 15 miesięcy – za 3 lata i 9 miesięcy spełnia), czyli 7200 zł z 24 000. Ty 16 800 zł w ratach 72 miesięcy (6 lat) = 233 zł/mies.*
+*„Ósma – **studia drzewne**, długoterminowa ścieżka. **Wydział Technologii Drewna Uniwersytetu Przyrodniczego w Poznaniu** (UPP, jedyny taki wydział w Polsce). 3-letnie studia inżynierskie I stopnia, tryb niestacjonarny (weekendowy), 4000 zł za semestr. Razem 6 semestrów = 24 000 zł. EGIDA finansuje 30% po 5 latach stażu (Mykoła ma 15 miesięcy – za 3 lata i 9 miesięcy spełnia), czyli 7200 zł z 24 000. Ty 16 800 zł w ratach 72 miesięcy (6 lat) = 233 zł/mies.*
 
 *Po studiach: **inżynier drzewny**, pensja 9000-12000 zł brutto, stanowiska kierownicze w firmach większych: **IKEA Industry Poland** (fabryki w Orli, Zbąszyniu, Lublinie), **Swedwood** (dostawca IKEA), **Kronospan** (płyty drewnopochodne, Szczecinek, Mielec), **Schumacher** (fabryki mebli premium).*
 
 *Plus: **pensja wyższa niż brygadzista**, **prestiż inżyniera**, **mobilność między firmami** (dyplom uznawany). Minus: **8 lat całkowity wysiłek** (3 lata studia + 5 lat stażu przed dyplomem), **finansowe obciążenie** (233 zł/mies. przez 6 lat), **zmiana charakteru pracy** (biuro, nie hala)."*
 
-Rustam: „Studia drzewne UPP – 3 lata 24 000 zł (30% EGIDA po 5 latach stażu = 7200 zł, Ty 16 800 zł raty 6 lat 233 zł/mies.), inżynier 9000-12000 zł, IKEA Kronospan, 8 lat całkowity wysiłek."
+Mykoła: „Studia drzewne UPP – 3 lata 24 000 zł (30% EGIDA po 5 latach stażu = 7200 zł, Ty 16 800 zł raty 6 lat 233 zł/mies.), inżynier 9000-12000 zł, IKEA Kronospan, 8 lat całkowity wysiłek."
 
 ### Art. 94 KP i finansowanie szkoleń
 
-Marek zamawia drugą kawę, Rustam drugą herbatę. Rozmowa przekroczyła już godzinę (od 15:30 do 16:45, 75 minut).
+Marek zamawia drugą kawę, Mykoła drugą herbatę. Rozmowa przekroczyła już godzinę (od 15:30 do 16:45, 75 minut).
 
-*„Rustam, zanim zapytam Cię o decyzję – **podstawa prawna finansowania szkoleń przez pracodawcę**. Kodeks pracy, art. 103¹ § 1:"*
+*„Mykoła, zanim zapytam Cię o decyzję – **podstawa prawna finansowania szkoleń przez pracodawcę**. Kodeks pracy, art. 103¹ § 1:"*
 
 > **Art. 103¹ § 1 Kodeksu pracy.** Przez podnoszenie kwalifikacji zawodowych rozumie się zdobywanie lub uzupełnianie wiedzy i umiejętności przez pracownika, z inicjatywy pracodawcy albo za jego zgodą.
 
@@ -192,9 +192,9 @@ Marek zamawia drugą kawę, Rustam drugą herbatę. Rozmowa przekroczyła już g
 
 *Urlop szkoleniowy: masz **do 6 dni rocznie** na egzaminy i obronę dyplomu, **pełne wynagrodzenie za te dni**. Plus zwolnienie z pracy na czas zajęć weekendowych (wszystkie szkolenia, które pokazałem, są weekendowe – więc nie kolidują ze zmianą, ale jeśli kiedyś będzie kurs w tygodniu, masz prawo do zwolnienia)."*
 
-### Pytania Rustama i analiza
+### Pytania Mykoły i analiza
 
-Rustam bierze łyk herbaty, zapisuje podsumowanie. Unosi głowę:
+Mykoła bierze łyk herbaty, zapisuje podsumowanie. Unosi głowę:
 
 *„Marek, kilka pytań strategicznych."*
 
@@ -202,7 +202,7 @@ Rustam bierze łyk herbaty, zapisuje podsumowanie. Unosi głowę:
 
 **Pytanie 1**: *„A co jeśli zostanę M3 przez 5 lat bez awansu? Co się ze mną dzieje?"*
 
-Marek: *„Pensja M3 wzrasta z doświadczeniem automatycznie: +300 zł brutto po każdym pełnym roku (regulamin EGIDA § 12 ust. 1). Rustam, dziś masz 5000 zł brutto (start M3 04.2026). Za rok – 5300. Za 2 lata – 5600. Za 5 lat – 6500 zł brutto plus **premie kwartalne 1000-2000 zł** (zależne od wyniku firmy i audytu). Czyli w 5-letniej perspektywie: **78 000-85 000 zł rocznie brutto**, stabilnie, bez awansu. Nie tak dobrze jak brygadzista 120 000 zł, nie tak dobrze jak mistrz suszarni 105 000 zł, ale **spokojnie, pewnie, bez dodatkowego stresu**."*
+Marek: *„Pensja M3 wzrasta z doświadczeniem automatycznie: +300 zł brutto po każdym pełnym roku (regulamin EGIDA § 12 ust. 1). Mykoła, dziś masz 5000 zł brutto (start M3 04.2026). Za rok – 5300. Za 2 lata – 5600. Za 5 lat – 6500 zł brutto plus **premie kwartalne 1000-2000 zł** (zależne od wyniku firmy i audytu). Czyli w 5-letniej perspektywie: **78 000-85 000 zł rocznie brutto**, stabilnie, bez awansu. Nie tak dobrze jak brygadzista 120 000 zł, nie tak dobrze jak mistrz suszarni 105 000 zł, ale **spokojnie, pewnie, bez dodatkowego stresu**."*
 
 **Pytanie 2**: *„Która ścieżka najkorzystniejsza finansowo?"*
 
@@ -220,9 +220,9 @@ Marek milczy chwilę. *„Rozsądnie myślisz. Zaznaczę: **uprawnienia zachodni
 
 *Więc **jeśli planujesz powrót na Ukrainę za 3-4 lata**, polecam: **UDT + SEP + doświadczenie M3 EGIDA 4 lata**. To **3 certyfikaty rozpoznawalne zachodnie plus 4 lata stażu M3** = dobry CV dla tartaków we Lwowie, Iwano-Frankiwsku, Użhorodzie (podobne firmy na 50-200 pracowników, pensje 800-1500 EUR netto, niższe niż Polska, ale niżsi koszty życia). Studia drzewne – nie teraz, może we Lwowie po powrocie."*
 
-### Decyzja Rustama
+### Decyzja Mykoły
 
-Rustam notuje ostatnie, bierze łyk herbaty. *„Marek, dziękuję za kompletność. Mam decyzję."*
+Mykoła notuje ostatnie, bierze łyk herbaty. *„Marek, dziękuję za kompletność. Mam decyzję."*
 
 *„Słucham."*
 
@@ -234,13 +234,13 @@ Marek uśmiecha się szeroko: *„**Doskonała decyzja, pragmatyczna i zrównowa
 
 *„Zgoda. Dziękuję, Marek."*
 
-*„Nie, Rustam. **Ja Ci dziękuję** – 15 miesięcy u nas pracujesz wzorowo. Paweł chce Cię trzymać długoterminowo. Plan dobry dla Ciebie, dobry dla EGIDA. Wszyscy wygrywają."*
+*„Nie, Mykoła. **Ja Ci dziękuję** – 15 miesięcy u nas pracujesz wzorowo. Paweł chce Cię trzymać długoterminowo. Plan dobry dla Ciebie, dobry dla EGIDA. Wszyscy wygrywają."*
 
 ### 17:15, wychodzenie z kawiarni
 
 Rachunek 42 zł (2 kawy + 2 herbaty + 2 sernika + 2 wody), Marek płaci ze służbowej karty EGIDA (szkolenie pracownika wliczone w koszty firmowe, zgodnie z ustawą o podatku dochodowym od osób prawnych art. 15 ust. 1). Wstają, ściskają dłonie. Grzegorz zza lady: *„Do zobaczenia, chłopaki."*
 
-Rustam idzie do Skody. **Decyzja podjęta, plan jasny**. UDT w połowie września, potem SEP pierwszy kwartał 2027. 15 miesięcy stażu za sobą, kolejne 3-4 lata przed sobą jako M3 z dodatkowymi uprawnieniami. Pensja 5000 + 350 (UDT + SEP) + 150 (2 lata stażu) = **5500 zł brutto już w 2028**, plus premie kwartalne. **Stabilnie**.
+Mykoła idzie do Skody. **Decyzja podjęta, plan jasny**. UDT w połowie września, potem SEP pierwszy kwartał 2027. 15 miesięcy stażu za sobą, kolejne 3-4 lata przed sobą jako M3 z dodatkowymi uprawnieniami. Pensja 5000 + 350 (UDT + SEP) + 150 (2 lata stażu) = **5500 zł brutto już w 2028**, plus premie kwartalne. **Stabilnie**.
 
 Jutro sobota, wolne. Syn 4-letni z żoną czekają w mieszkaniu przy Sienkiewicza 23. **Lody z budki przy parku Miejskim** – obiecał synowi w tygodniu. Weekend rodzinny.
 
@@ -265,7 +265,7 @@ Operator M3 wybiera ścieżkę, równoważąc cztery zmienne:
 3. **Ryzyko**: od niskiego (UDT, SEP – egzamin łatwy, 90% zdawalność) do średniego (klasyfikator ITB – 60% zdawalność pierwszy raz) do wysokiego (studia drzewne – 40% absolwentów nie kończy w terminie).
 4. **Zwrot finansowy** (wzrost pensji brutto rocznie): od 2400 zł (UDT = 200 zł/mies.) do 60 000 zł (inżynier drzewny vs M3 po 8 latach).
 
-**Zasada**: dobry plan rozwoju **łączy horyzonty**. Nie inwestuj wszystko w jedną ścieżkę długoterminową bez zabezpieczenia krótkoterminowego. Rustam wybrał: UDT + SEP (horyzont 1, natychmiastowy zwrot) + ocena za 2 lata (horyzont 2, opcja mistrzostwa suszarni lub klasyfikatora). Studia (horyzont 3) odłożone – mądre, bo rodzinne zobowiązania (syn 4 lata) wymagają stabilności, nie 6 lat raty 233 zł/mies.
+**Zasada**: dobry plan rozwoju **łączy horyzonty**. Nie inwestuj wszystko w jedną ścieżkę długoterminową bez zabezpieczenia krótkoterminowego. Mykoła wybrał: UDT + SEP (horyzont 1, natychmiastowy zwrot) + ocena za 2 lata (horyzont 2, opcja mistrzostwa suszarni lub klasyfikatora). Studia (horyzont 3) odłożone – mądre, bo rodzinne zobowiązania (syn 4 lata) wymagają stabilności, nie 6 lat raty 233 zł/mies.
 
 ### Obowiązek pracodawcy i prawa pracownika
 
@@ -274,18 +274,18 @@ Art. 103¹ KP ustanawia podstawę prawną wzajemnych obowiązków. **Pracodawca*
 2. Udzielić urlopu szkoleniowego i zwolnienia z pracy za wynagrodzeniem,
 3. Zawrzeć umowę pisemną, jeśli koszt szkolenia finansowany w całości lub części.
 
-**Pracownik** (Rustam):
+**Pracownik** (Mykoła):
 1. Realizować szkolenie w dobrej wierze (nie rezygnować bez powodu),
 2. Pracować w firmie po szkoleniu przez okres ustalony w umowie (standard EGIDA: 3 lata),
 3. Zwrócić proporcjonalną część finansowania, jeśli odejście wcześniejsze.
 
-**Przykład**: Rustam bierze kurs UDT za 800 zł od EGIDA (pracodawca 70%), umowa 3 lata po kursie. Jeśli odchodzi po 18 miesiącach (50%), zwraca 400 zł (50% z 800 zł). To **sprawiedliwe** – pracodawca zainwestował, pracownik wziął, jeśli nie pracuje pełny okres, zwraca część.
+**Przykład**: Mykoła bierze kurs UDT za 800 zł od EGIDA (pracodawca 70%), umowa 3 lata po kursie. Jeśli odchodzi po 18 miesiącach (50%), zwraca 400 zł (50% z 800 zł). To **sprawiedliwe** – pracodawca zainwestował, pracownik wziął, jeśli nie pracuje pełny okres, zwraca część.
 
 ### Dlaczego dyskutujesz ze sobą, nie z szefem
 
-Ostatnia uwaga pedagogiczna: **decyzja karierowa to dyskusja ze sobą**, nie z szefem. Marek dziś pokazał 8 ścieżek, pokazał koszty, pokazał zwroty. Marek **nie zdecydował za Rustama**. Zadał pytania, wysłuchał, zatwierdził decyzję. Jeśli Rustam by powiedział „zostaję M3 bez żadnych uprawnień dodatkowych", Marek by odpowiedział „zgoda, zauważam, że tracisz 350 zł/mies. dodatku, ale Twoja decyzja".
+Ostatnia uwaga pedagogiczna: **decyzja karierowa to dyskusja ze sobą**, nie z szefem. Marek dziś pokazał 8 ścieżek, pokazał koszty, pokazał zwroty. Marek **nie zdecydował za Mykołę**. Zadał pytania, wysłuchał, zatwierdził decyzję. Jeśli Mykoła by powiedział „zostaję M3 bez żadnych uprawnień dodatkowych", Marek by odpowiedział „zgoda, zauważam, że tracisz 350 zł/mies. dodatku, ale Twoja decyzja".
 
-Dobra kultura pracodawca-pracownik **nie zmusza**, tylko **informuje i wspiera**. EGIDA ma 8 operatorów, nie wszyscy robią UDT i SEP – Damian nie ma SEP, bo nie chciał inwestować czasu, zostaje przy pensji M3 bez dodatku, to jego wybór. Rustam chce – dostaje. Wahan M1 za wcześnie, musi najpierw zostać M2 – za 18 miesięcy Marek z nim porozmawia.
+Dobra kultura pracodawca-pracownik **nie zmusza**, tylko **informuje i wspiera**. EGIDA ma 8 operatorów, nie wszyscy robią UDT i SEP – Damian nie ma SEP, bo nie chciał inwestować czasu, zostaje przy pensji M3 bez dodatku, to jego wybór. Mykoła chce – dostaje. Wasyl M1 za wcześnie, musi najpierw zostać M2 – za 18 miesięcy Marek z nim porozmawia.
 
 ## Sprawdź siebie
 
@@ -302,7 +302,7 @@ Dobra kultura pracodawca-pracownik **nie zmusza**, tylko **informuje i wspiera**
 11. Wyjaśnij zasadę „3 lat zobowiązania" w umowie szkoleniowej EGIDA i proporcjonalnego zwrotu.
 12. Dlaczego pilarz spalinowy (drwal leśny) nie jest polecany jako ścieżka główna, tylko dodatkowa?
 13. Jak długo trwają studia drzewne I stopnia na UPP Poznań i ile kosztują łącznie?
-14. Wymień 3 certyfikaty zachodnie rozpoznawalne w UE, które Rustam może zdobyć w EGIDA.
+14. Wymień 3 certyfikaty zachodnie rozpoznawalne w UE, które Mykoła może zdobyć w EGIDA.
 15. Wyjaśnij zasadę „3 horyzontów planowania kariery" z odpowiednimi przykładami dla każdego.
 16. Dlaczego decyzja karierowa to „dyskusja ze sobą", a nie z przełożonym?
 

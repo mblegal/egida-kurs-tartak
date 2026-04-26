@@ -6,21 +6,21 @@ czas: 120
 
 ## Introducción
 
-Martes, 2026-05-05, 8:32. Segundo día con el ayudante fijo en la P3. Wahan Petrosjan está de pie en la zona amarilla, junto a la rampa de recepción, clasifica la *tarcica* (madera aserrada) del primer rollizo de la mañana (pícea común, 320 mm de diámetro, 24 tablas, clase constructiva). Rustam Nazarov corta el segundo rollizo del día: roble común (*dąb szypułkowy*, pedunculated oak) del último envío desde el bosque de Knyszyn, 380 mm de diámetro, 4,2 m de largo, corteza sana, testa sin grietas visibles, olor fresco (sin notas ácidas a vinagre ni a humedad rancia). El rollizo parecía bueno ayer en la recepción, parece bueno hoy en el carro. Rustam ajustó los parámetros: velocidad de avance 7 m/min, cinta de 38 mm × 1,05 mm con estelita, corte de 27 mm (para una tabla de parqué acabada a 22 mm tras el secado final y el cepillado). Pedido: 14 tablas de clase A (sin nudos abarcantes, sin grietas visibles), destino parqué de roble natural para una empresa de muebles de Poznań, plazo de envío 20 de mayo.
+Martes, 2026-05-05, 8:32. Segundo día con el ayudante fijo en la P3. Wasyl Melnyk está de pie en la zona amarilla, junto a la rampa de recepción, clasifica la *tarcica* (madera aserrada) del primer rollizo de la mañana (pícea común, 320 mm de diámetro, 24 tablas, clase constructiva). Mykoła Hrycenko corta el segundo rollizo del día: roble común (*dąb szypułkowy*, pedunculated oak) del último envío desde el bosque de Knyszyn, 380 mm de diámetro, 4,2 m de largo, corteza sana, testa sin grietas visibles, olor fresco (sin notas ácidas a vinagre ni a humedad rancia). El rollizo parecía bueno ayer en la recepción, parece bueno hoy en el carro. Mykoła ajustó los parámetros: velocidad de avance 7 m/min, cinta de 38 mm × 1,05 mm con estelita, corte de 27 mm (para una tabla de parqué acabada a 22 mm tras el secado final y el cepillado). Pedido: 14 tablas de clase A (sin nudos abarcantes, sin grietas visibles), destino parqué de roble natural para una empresa de muebles de Poznań, plazo de envío 20 de mayo.
 
-La primera tabla baja de la rampa, Rustam la observa: anillos regulares, color miel, sana. Clase A. La deja en la pila de la derecha. Segunda tabla: parecida, clase A. La deja. Tercera tabla: Rustam la gira, mira la testa, y **detiene el movimiento**. Por la zona central de la tabla, desde la médula hacia la periferia, corre una **fisura**. 3 mm de ancho, unos 180 mm de largo, desde la médula hasta la mitad del radio. No era visible en el *dłużyca* (rollizo entero): la testa del tronco era uniforme, sin trazas. Se ha revelado solo después de retirar tres tablas, al quedar expuesta la médula.
+La primera tabla baja de la rampa, Mykoła la observa: anillos regulares, color miel, sana. Clase A. La deja en la pila de la derecha. Segunda tabla: parecida, clase A. La deja. Tercera tabla: Mykoła la gira, mira la testa, y **detiene el movimiento**. Por la zona central de la tabla, desde la médula hacia la periferia, corre una **fisura**. 3 mm de ancho, unos 180 mm de largo, desde la médula hasta la mitad del radio. No era visible en el *dłużyca* (rollizo entero): la testa del tronco era uniforme, sin trazas. Se ha revelado solo después de retirar tres tablas, al quedar expuesta la médula.
 
-Rustam desconecta el avance, para la cinta (parada en 12 segundos), se acerca al teléfono del puesto. Marca el número de la oficina de clasificadores: extensión 42. Tras dos tonos responde Anna Kowalczyk, **la Señora Ania**, clasificadora de *tarcica* en EGIDA desde hace doce años (certificado PN-EN 1611-1 del Instituto de Tecnología de la Madera en Poznań, acreditación ITB para PN-EN 14081 desde 2020), compañera de Marek de los tiempos del aserradero de Węgliniec.
+Mykoła desconecta el avance, para la cinta (parada en 12 segundos), se acerca al teléfono del puesto. Marca el número de la oficina de clasificadores: extensión 42. Tras dos tonos responde Anna Kowalczyk, **la Señora Ania**, clasificadora de *tarcica* en EGIDA desde hace doce años (certificado PN-EN 1611-1 del Instituto de Tecnología de la Madera en Poznań, acreditación ITB para PN-EN 14081 desde 2020), compañera de Marek de los tiempos del aserradero de Węgliniec.
 
-> **Rustam:** „Señora Ania, Rustam desde la P3. Tengo roble común, 380, del bosque de Knyszyn, para parqué clase A. La tercera tabla tiene una fisura de médula (*pęknięcie rdzeniowe*), 3 mm de ancho, 180 mm de largo, desde la médula. No se veía en el rollizo. Quiero tomar una decisión: recortar de otro modo, bajar toda la partida a B, o descartar esta tabla y seguir con la clase A. ¿Puedes venir a mirar?"
+> **Mykoła:** „Señora Ania, Mykoła desde la P3. Tengo roble común, 380, del bosque de Knyszyn, para parqué clase A. La tercera tabla tiene una fisura de médula (*pęknięcie rdzeniowe*), 3 mm de ancho, 180 mm de largo, desde la médula. No se veía en el rollizo. Quiero tomar una decisión: recortar de otro modo, bajar toda la partida a B, o descartar esta tabla y seguir con la clase A. ¿Puedes venir a mirar?"
 >
-> **La Señora Ania:** „En cinco minutos estoy ahí. No sigas cortando, Rustam. Espera. ¿La fisura va radial desde la médula u oblicua?"
+> **La Señora Ania:** „En cinco minutos estoy ahí. No sigas cortando, Mykoła. Espera. ¿La fisura va radial desde la médula u oblicua?"
 >
-> **Rustam:** „Radial. A lo largo de la veta."
+> **Mykoła:** „Radial. A lo largo de la veta."
 >
 > **La Señora Ania:** „Bien, es fisura de médula. Primero hay que determinar si está en todo el rollizo o solo en esta tabla. Lo haremos juntos. Gracias por no seguir cortando."
 
-Rustam deja el teléfono. Wahan se acerca desde la rampa, Rustam le explica en dos frases: „fisura de médula, tengo que esperar a la clasificadora antes de seguir cortando". Wahan vuelve a clasificar la pícea, Rustam espera. En la cabeza ordena los cinco tipos de defectos internos que pueden revelarse tras el aserrado aunque no fueran visibles en el rollizo. Hoy aprenderás esos cinco con él.
+Mykoła deja el teléfono. Wasyl se acerca desde la rampa, Mykoła le explica en dos frases: „fisura de médula, tengo que esperar a la clasificadora antes de seguir cortando". Wasyl vuelve a clasificar la pícea, Mykoła espera. En la cabeza ordena los cinco tipos de defectos internos que pueden revelarse tras el aserrado aunque no fueran visibles en el rollizo. Hoy aprenderás esos cinco con él.
 
 ## Objetivos
 
@@ -102,7 +102,7 @@ En la madera recién apeada ocurre la fermentación de azúcares y almidones de 
 
 **Aspecto:**
 
-La madera recalentada tiene color **uniformemente oscurecido**, en la zona medular típicamente marrón oscuro o casi negro. Olor **marcadamente desagradable**: vinagre, humedad rancia, a veces parecido al de manzanas podridas. Es la firma clave para el operador: si tras el primer corte el rollizo desprende un olor ácido intenso, tienes **una sospecha firme de recalentamiento**. Rustam enseña a Wahan: „primera tabla, acercas la nariz a la testa, hueles. Olor fresco de madera = OK. Vinagre = escalado."
+La madera recalentada tiene color **uniformemente oscurecido**, en la zona medular típicamente marrón oscuro o casi negro. Olor **marcadamente desagradable**: vinagre, humedad rancia, a veces parecido al de manzanas podridas. Es la firma clave para el operador: si tras el primer corte el rollizo desprende un olor ácido intenso, tienes **una sospecha firme de recalentamiento**. Mykoła enseña a Wasyl: „primera tabla, acercas la nariz a la testa, hueles. Olor fresco de madera = OK. Vinagre = escalado."
 
 Tras el secado, la madera recalentada sigue siendo visualmente oscura (el color no vuelve a la normalidad); estructuralmente puede estar del todo en orden (si el recalentamiento fue breve, 1-2 semanas) o debilitada (3-4 semanas, reducción de la resistencia a flexión del 15-30%).
 
@@ -194,17 +194,17 @@ Rollizo íntegro excluido del pedido actual. Va a: leña (serrín, costeros, ast
 Requiere **aceptación del clasificador** más **notificación al proveedor forestal** (en EGIDA Marek redacta una nota al proveedor con el número de rollizo, foto del defecto, fecha de entrega; si la entrega vino de Lasy Państwowe, Distrito Forestal de Knyszyn, la nota va por correo electrónico, la factura puede corregirse).
 
 ::: example
-**Rustam y la Señora Ania, 8:37, rollizo de roble del bosque de Knyszyn.**
+**Mykoła y la Señora Ania, 8:37, rollizo de roble del bosque de Knyszyn.**
 
-La Señora Ania ha llegado. Está de pie con Rustam sobre la tercera tabla. Observa la fisura, mide con pie de rey (3,2 mm de anchura en el punto más ancho, 176 mm de longitud). Mira la testa del resto del rollizo en el carro.
+La Señora Ania ha llegado. Está de pie con Mykoła sobre la tercera tabla. Observa la fisura, mide con pie de rey (3,2 mm de anchura en el punto más ancho, 176 mm de longitud). Mira la testa del resto del rollizo en el carro.
 
 > **La Señora Ania:** „La fisura va desde la médula solo hasta la mitad del radio. En las demás tablas, que no atraviesan la médula, no debería haberla. Veamos cómo queda el resto del rollizo. Termina el corte, observa las tablas 4 a 8 (zona medular), si no hay fisura en la siguiente tabla, significa que la fisura está solo en la tercera. Entonces variante uno: tercera tabla a clase C, las demás A. Si la siguiente tabla también tiene fisura, significa que la médula se agrietó en toda la longitud, y entonces variante dos: todo el lote a B, menos las tablas con fisura que van a C."
 
-Rustam continúa cortando. Tablas 4, 5, 6: sanas, veta regular, sin fisura. Tablas 7, 8: zona medular, comprueba con atención. La tabla 7 tiene una ligera traza de fisura junto a la médula, pero más corta (60 mm, 1,5 mm de anchura). La tabla 8 está limpia.
+Mykoła continúa cortando. Tablas 4, 5, 6: sanas, veta regular, sin fisura. Tablas 7, 8: zona medular, comprueba con atención. La tabla 7 tiene una ligera traza de fisura junto a la médula, pero más corta (60 mm, 1,5 mm de anchura). La tabla 8 está limpia.
 
 > **La Señora Ania (tras observar las tablas 7 y 8):** „La médula se agrietó solo en un tramo, la parte central de la longitud del rollizo. La tercera tabla (desde el inicio del corte) y la séptima (desde el final) son el mismo punto, a ambos lados de la médula. Variante uno: estas dos tablas a clase C (parqué con fisura sellada con resina, cliente de construcción), las otras doce tablas a clase A (pedido de parqué para Poznań). Rendimiento del lote 85%, aceptable."
 
-Rustam respira con alivio. Anota en la ficha KLA-002: „fisura de médula, tabla 3 y 7, longitud 176 mm y 60 mm, anchura 3,2 mm y 1,5 mm, variante de decisión: recortar de otro modo (tablas 3 y 7 a clase C, las demás clase A)". La Señora Ania lee, firma. Rustam firma. El documento va a la carpeta del lote.
+Mykoła respira con alivio. Anota en la ficha KLA-002: „fisura de médula, tabla 3 y 7, longitud 176 mm y 60 mm, anchura 3,2 mm y 1,5 mm, variante de decisión: recortar de otro modo (tablas 3 y 7 a clase C, las demás clase A)". La Señora Ania lee, firma. Mykoła firma. El documento va a la carpeta del lote.
 :::
 
 ### Registro de la decisión: la ficha KLA-002
@@ -223,9 +223,9 @@ Sin la ficha KLA-002, un defecto interno que se revele en el cliente tras el sec
 
 ### Segunda escena: moho azul en pino, 11:15
 
-La Señora Ania ha vuelto a la oficina. Rustam termina el segundo lote del día: pino silvestre del envío del Distrito Forestal de Drawno, 300 mm de diámetro, 4,8 m de largo, destino: tabla de terraza clase B. Corta el cuarto rollizo de la tanda. Tras retirar tres tablas, percibe en la cuarta **estrías azul grisáceas** en la zona de albura, extendidas a lo largo de la veta, longitud 400 mm, anchura 80 mm (es decir, casi por toda la anchura de la tabla).
+La Señora Ania ha vuelto a la oficina. Mykoła termina el segundo lote del día: pino silvestre del envío del Distrito Forestal de Drawno, 300 mm de diámetro, 4,8 m de largo, destino: tabla de terraza clase B. Corta el cuarto rollizo de la tanda. Tras retirar tres tablas, percibe en la cuarta **estrías azul grisáceas** en la zona de albura, extendidas a lo largo de la veta, longitud 400 mm, anchura 80 mm (es decir, casi por toda la anchura de la tabla).
 
-Rustam **esta vez no llama** de inmediato a la Señora Ania. Primero diagnostica él:
+Mykoła **esta vez no llama** de inmediato a la Señora Ania. Primero diagnostica él:
 
 - **¿Qué es?** Estrías azul grisáceas a lo largo de la veta en pino = *blue stain*, moho del pino.
 - **Alcance:** por toda la anchura de una tabla, en 400 mm de largo. En las siguientes tablas (ahora compruebo) probablemente similar.
@@ -233,18 +233,18 @@ Rustam **esta vez no llama** de inmediato a la Señora Ania. Primero diagnostica
 - **Resistencia:** conservada (*blue stain* en pino, pérdida por debajo del 5% según ITB).
 - **Decisión operativa:** probablemente variante 1 (recortar de otro modo: recantear para que las estrías mayores caigan en el desecho). Alternativamente variante 2 (bajar toda la tanda de B a C si las estrías están en todas las tablas en tramos largos).
 
-Rustam corta las tablas 5, 6, 7 para verificar. Confirma: estrías azules en la mayoría de las tablas, pero en tramos más cortos (100-200 mm). El recanteado permite retirar las mayores al desecho. Variante 1.
+Mykoła corta las tablas 5, 6, 7 para verificar. Confirma: estrías azules en la mayoría de las tablas, pero en tramos más cortos (100-200 mm). El recanteado permite retirar las mayores al desecho. Variante 1.
 
 Llama a la Señora Ania:
 
-> **Rustam:** „Señora Ania, pino de Drawno, rollizo 4, estrías azules en la albura, longitud hasta 400 mm en la peor tabla, en las demás 100-200 mm. Clase de destino B, terraza. Mi propuesta: recantear para que las estrías principales caigan en el desecho, la tabla queda en clase B conforme al pedido. ¿Puedes firmar cuando termine el rollizo?"
+> **Mykoła:** „Señora Ania, pino de Drawno, rollizo 4, estrías azules en la albura, longitud hasta 400 mm en la peor tabla, en las demás 100-200 mm. Clase de destino B, terraza. Mi propuesta: recantear para que las estrías principales caigan en el desecho, la tabla queda en clase B conforme al pedido. ¿Puedes firmar cuando termine el rollizo?"
 >
-> **La Señora Ania:** „Bien, Rustam. Termina, haz fotos de la tabla más afectada antes y después del recanteado, vendré a las 12:00 a firmar la KLA-002. Ya sabes lo que haces."
+> **La Señora Ania:** „Bien, Mykoła. Termina, haz fotos de la tabla más afectada antes y después del recanteado, vendré a las 12:00 a firmar la KLA-002. Ya sabes lo que haces."
 
-Rustam termina el corte. Wahan clasifica. Antes de la canteadora hace dos fotos de la tabla más afectada (antes y después), las adjuntará a la ficha. A las 11:55 la Señora Ania entra en la nave, mira la pila, comprueba una tabla al azar, asiente con la cabeza, firma la KLA-002. Rendimiento clase B: 11 de 14 tablas (78%), 3 tablas a clase C (estrías demasiado grandes incluso tras el recanteado). Aceptable.
+Mykoła termina el corte. Wasyl clasifica. Antes de la canteadora hace dos fotos de la tabla más afectada (antes y después), las adjuntará a la ficha. A las 11:55 la Señora Ania entra en la nave, mira la pila, comprueba una tabla al azar, asiente con la cabeza, firma la KLA-002. Rendimiento clase B: 11 de 14 tablas (78%), 3 tablas a clase C (estrías demasiado grandes incluso tras el recanteado). Aceptable.
 
 ::: tip
-Esta segunda escena muestra la diferencia entre **el primer año de trabajo independiente** (Rustam hoy) y **el quinto año** (Rustam dentro de 4 años). En el primer año el operador escala al clasificador **antes de la decisión** („ven, mira, dime qué hacer"). En el quinto año escala **después de la decisión** („he hecho X, ven a firmar"). La dirección de la confianza se desplaza de la vertical (el clasificador decide) a la horizontal (el operador propone, el clasificador verifica). Rustam está en ese camino, hoy todavía más cerca del primer año, pero ya empieza a asumir autonomía en los casos más sencillos (pino con *blue stain* es una situación más simple que roble con fisura de médula).
+Esta segunda escena muestra la diferencia entre **el primer año de trabajo independiente** (Mykoła hoy) y **el quinto año** (Mykoła dentro de 4 años). En el primer año el operador escala al clasificador **antes de la decisión** („ven, mira, dime qué hacer"). En el quinto año escala **después de la decisión** („he hecho X, ven a firmar"). La dirección de la confianza se desplaza de la vertical (el clasificador decide) a la horizontal (el operador propone, el clasificador verifica). Mykoła está en ese camino, hoy todavía más cerca del primer año, pero ya empieza a asumir autonomía en los casos más sencillos (pino con *blue stain* es una situación más simple que roble con fisura de médula).
 :::
 
 ### Resumen de la primera lección
@@ -259,7 +259,7 @@ Papel de la clasificadora (la Señora Ania en EGIDA): firma la decisión, verifi
 
 La ficha KLA-002 como registro de la decisión: datos del lote, descripción del defecto, variante de decisión, firmas, fotos. Retención 5 años. Sin ficha = sin defensa ante reclamación.
 
-Dos escenarios hoy: roble con fisura de médula (variante 1, 2 tablas a clase C), pino con *blue stain* (variante 1, recanteado, clase B). Rustam ha pasado por ambos: el primero con asistencia del clasificador antes de la decisión, el segundo con diagnóstico propio y firma del clasificador tras la decisión.
+Dos escenarios hoy: roble con fisura de médula (variante 1, 2 tablas a clase C), pino con *blue stain* (variante 1, recanteado, clase B). Mykoła ha pasado por ambos: el primero con asistencia del clasificador antes de la decisión, el segundo con diagnóstico propio y firma del clasificador tras la decisión.
 
 En la próxima lección (m3-w2-l2) pasamos de los defectos internos a la **clasificación visual conforme a PN-EN 1611-1**: cómo mira la Señora Ania los nudos, el *costero* (*oblina*) y la curvatura, y por qué tú le asistes, pero no clasificas por tu cuenta sin certificado.
 

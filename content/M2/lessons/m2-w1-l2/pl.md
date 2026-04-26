@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-Hai wrócił w piątek z pierwszej samodzielnej zmiany przy pilarce taśmowej z oczami pełnymi drzazg. Nie poważnie: dwie małe drzazgi pod powieką, którą dyżurny ratownik wypłukał solą fizjologiczną w pięć minut. Ale wystarczyły, żeby następnego rana Hai stał dłużej przy szafce ŚOI, niż kiedykolwiek stał w całym M1.
+Andrij wrócił w piątek z pierwszej samodzielnej zmiany przy pilarce taśmowej z oczami pełnymi drzazg. Nie poważnie: dwie małe drzazgi pod powieką, którą dyżurny ratownik wypłukał solą fizjologiczną w pięć minut. Ale wystarczyły, żeby następnego rana Andrij stał dłużej przy szafce ŚOI, niż kiedykolwiek stał w całym M1.
 
 Bo w M1 jego ŚOI to były **kask, kamizelka odblaskowa, buty z noskiem**. Dziś, jako operator junior, otwiera tę samą szafkę i widzi drugi zestaw: **okulary, ochronniki słuchu, maskę, obuwie operatorskie, odzież bez luźnych elementów**. Pięć elementów, które w tartaku znaczą różnicę między pracą a szpitalem.
 
@@ -113,7 +113,7 @@ Pilot tygodnia wprowadził rytuał **sprawdź – uruchom – zgłoś**. Pierwsz
 Dopiero teraz idziesz do maszyny. Krok „uruchom" zaczniesz w lekcji 3. Krok „zgłoś" w lekcji 6.
 
 ::: example
-**Przypadek Haia**: pierwszego dnia M2 Hai pominął krok 3 (sprawdzenie dotykowe). Miał zegarek na ręce, nie zauważył. Przy pierwszym uruchomieniu taśmy brygadzista zobaczył i zatrzymał maszynę słowem „stop". Hai zdjął zegarek, wrócił do rytuału. Zero konsekwencji dyscyplinarnych, bo brygadzista widział, że nowy operator uczy się rytuału. Ale Hai zapamiętał na całą karierę: **sprawdzenie dotykowe to nie formalność**.
+**Przypadek Andrija**: pierwszego dnia M2 Andrij pominął krok 3 (sprawdzenie dotykowe). Miał zegarek na ręce, nie zauważył. Przy pierwszym uruchomieniu taśmy brygadzista zobaczył i zatrzymał maszynę słowem „stop". Andrij zdjął zegarek, wrócił do rytuału. Zero konsekwencji dyscyplinarnych, bo brygadzista widział, że nowy operator uczy się rytuału. Ale Andrij zapamiętał na całą karierę: **sprawdzenie dotykowe to nie formalność**.
 :::
 
 ::: info
@@ -169,11 +169,11 @@ D) Bo S1 rozpada się szybciej niż S3.
 
 - Rytuał „sprawdź – uruchom – zgłoś" wraca tu jako **refrain osi M2**. Krok „sprawdź" zaczyna się od samego siebie, to jest clou lekcji. Podkreśl: ŚOI nie jest „dodatkiem", tylko **pierwszym krokiem rytuału**.
 - Podstawowy łuk: w M1 ŚOI chronił pomocnika z odległości 3-5 m. W M2 ŚOI chroni operatora z odległości 0,5 m. Bliskość zamienia rekomendację w wymóg.
-- Hai kontynuacja łuku pilota. W pilocie był „pierwszy raz sam". Tutaj uczy się „ubierać się jak operator". W l3 położy rękę na STOP-ie. W l4 wykona checklist. Tydzień domyka się jednym bohaterem.
+- Andrij kontynuacja łuku pilota. W pilocie był „pierwszy raz sam". Tutaj uczy się „ubierać się jak operator". W l3 położy rękę na STOP-ie. W l4 wykona checklist. Tydzień domyka się jednym bohaterem.
 
 **Pułapki migranckie do pokazania fizycznie:**
 
-- W Wietnamie, Ukrainie, Mołdawii, Gruzji standardem jest często rękawica bawełniana przy każdej pracy z drewnem („bo drzazgi"). Polski operator przy pilarce **nie zakłada rękawic** ze względu na Rozp. MG 2000 § 5. Pokaż fizycznie, co robi rękawica wciągnięta w taśmę (eksperyment ze szmatą i wirującym wałkiem).
+- W wielu krajach pochodzenia (Ukraina, Kolumbia, Wenezuela, Peru, Boliwia) standardem jest często rękawica bawełniana przy każdej pracy z drewnem („bo drzazgi"). Polski operator przy pilarce **nie zakłada rękawic** ze względu na Rozp. MG 2000 § 5. Pokaż fizycznie, co robi rękawica wciągnięta w taśmę (eksperyment ze szmatą i wirującym wałkiem).
 - W wielu krajach FFP2 i FFP3 to rekomendacja, nie obowiązek. W Polsce przy pyle dębowym i bukowym to obowiązek prawny na podstawie klasyfikacji IARC. Pokaż etykietę IARC, pokaż Rozp. MRPiPS z 12 czerwca 2018 o NDS dla pyłów drzewnych.
 - Zegarek na ręce jest dla wielu kultur elementem tożsamości (prezent od rodziny). Pokaż, dlaczego zdjęcie go przed zmianą to nie **utrata** prezentu, tylko **ochrona** dłoni. Zegarek zostawiasz w szafce, zakładasz po zmianie.
 

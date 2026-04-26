@@ -6,15 +6,15 @@ czas: 120
 
 ## Introduction
 
-Monday, 2026-05-18, 7:15 in the morning. Rustam arrives at the saw hall 15 minutes before the official start of the shift (7:30). The plan for the day is a second oak campaign: **3.2 m³ of pedunculate oak** (*Quercus robur*) from the Strzałowo Forest District, boards 40 x 180 x 2500 mm, quality class G2-1, client "Dąb-Meble" Piaseczno. Band saw **P3 Wood-Mizer LT70**, the same as in l6. The band fitted there three days ago (stellite 38 mm, pitch 15 mm, serial number 24052, producer Munkfors Scandinavia, in stock since April 2026) cut through **8.4 m³** of oak from the Strzałowo Forest District during the first oak campaign (Wednesday 13 May to Friday 15 May). Weekend. Today oak on the same band for the second time.
+Monday, 2026-05-18, 7:15 in the morning. Mykoła arrives at the saw hall 15 minutes before the official start of the shift (7:30). The plan for the day is a second oak campaign: **3.2 m³ of pedunculate oak** (*Quercus robur*) from the Strzałowo Forest District, boards 40 x 180 x 2500 mm, quality class G2-1, client "Dąb-Meble" Piaseczno. Band saw **P3 Wood-Mizer LT70**, the same as in l6. The band fitted there three days ago (stellite 38 mm, pitch 15 mm, serial number 24052, producer Munkfors Scandinavia, in stock since April 2026) cut through **8.4 m³** of oak from the Strzałowo Forest District during the first oak campaign (Wednesday 13 May to Friday 15 May). Weekend. Today oak on the same band for the second time.
 
-Before starting, Rustam has a decision to make: leave this band for another 3.2 m³ (a total of 11.6 m³ of active life), or replace it now with a new one. External reconditioning has happened twice in this band's history (before pine in April and after pine in May), so this is already its third life cycle. A 38 mm stellite band typically takes 3-4 reconditioning cycles before the strip becomes too narrow or the teeth lose form.
+Before starting, Mykoła has a decision to make: leave this band for another 3.2 m³ (a total of 11.6 m³ of active life), or replace it now with a new one. External reconditioning has happened twice in this band's history (before pine in April and after pine in May), so this is already its third life cycle. A 38 mm stellite band typically takes 3-4 reconditioning cycles before the strip becomes too narrow or the teeth lose form.
 
-Wahan is here too (continuously with Rustam since 4 May, after the induction in m3-w1-l8). He helps with removing the guard.
+Wasyl is here too (continuously with Mykoła since 4 May, after the induction in m3-w1-l8). He helps with removing the guard.
 
-At 7:20 **Pani Ania** (Ms. Ania, Anna Kowalczyk, EGIDA grader, PN-EN 1611-1 certificate ITD Poznań 2014/ITD/312) unexpectedly enters the hall. She has come for a spot inspection of the workstation, which takes place every 2-3 weeks on her grading rounds. Yesterday she finished the inspection of P1 and P2 (Serra SM40 saws), today P3 Wood-Mizer LT70 is next in line. Good timing: Rustam has a band to assess.
+At 7:20 **Pani Ania** (Ms. Ania, Anna Kowalczyk, EGIDA grader, PN-EN 1611-1 certificate ITD Poznań 2014/ITD/312) unexpectedly enters the hall. She has come for a spot inspection of the workstation, which takes place every 2-3 weeks on her grading rounds. Yesterday she finished the inspection of P1 and P2 (Serra SM40 saws), today P3 Wood-Mizer LT70 is next in line. Good timing: Mykoła has a band to assess.
 
-Ania: *"Rustam, perfect moment. Before you fire up the machine, we'll look at this band together under the loupe. 8.4 m³ of oak is already serious mileage, stellite on a hard species has a theoretical life of 8-10 m³, so we are in the decision zone."*. Wahan watches with curiosity, he has never seen a formal band inspection under a loupe.
+Ania: *"Mykoła, perfect moment. Before you fire up the machine, we'll look at this band together under the loupe. 8.4 m³ of oak is already serious mileage, stellite on a hard species has a theoretical life of 8-10 m³, so we are in the decision zone."*. Wasyl watches with curiosity, he has never seen a formal band inspection under a loupe.
 
 Ania takes a small black loupe with a green **10x** marking from her bag (factory number ITD-5P, the standard instrument of an accredited grader). She also takes out an LED lamp with a thin strip of light (for oblique illumination) and a **set gauge** (*set gauge*, a metal plate with a reference notch).
 
@@ -257,29 +257,29 @@ Inspection time for a stellite 38/15 oak band (280 teeth): 45-60 minutes (manual
 - **4+ micro-cracks, or one >0.5 mm**: **replacement, reconditioning too risky**. Responsible external workshops (Ostrzex, Zmechanizowane Drewno) do not accept bands with such damage.
 - **Crack >1 mm**: **immediate replacement**, the band will break within 1-2 m³. Do not start the saw.
 
-### The inspection scene (Rustam, Wahan, Pani Ania)
+### The inspection scene (Mykoła, Wasyl, Pani Ania)
 
 Monday 18 May, 7:25. Pani Ania lays out on the workshop table (next to P3) a 10x loupe, an LED lamp with a battery and a band-inspection card (form EGIDA-TAS-005, two A4 sheets, fields for 280 teeth).
 
-Ania: *"Rustam, Wahan, let's set up like this. You, Rustam, hold the band out flat on the table, move it every 100 teeth. Wahan, set the lamp at 30-45° from below. I assess with the loupe and write it down. We work teeth 1-100, then a change: Rustam inspects 101-200 himself under my eye, so he learns, and I write down what he sees. Wahan in the meantime does 201-280."*.
+Ania: *"Mykoła, Wasyl, let's set up like this. You, Mykoła, hold the band out flat on the table, move it every 100 teeth. Wasyl, set the lamp at 30-45° from below. I assess with the loupe and write it down. We work teeth 1-100, then a change: Mykoła inspects 101-200 himself under my eye, so he learns, and I write down what he sees. Wasyl in the meantime does 201-280."*.
 
-Rustam takes the stellite 38/15 band off the upper wheel of P3. Pani Ania cleaned it with an outer wheel (stellite is delicate, we don't want scratches). He lays the band flat on the table, straightens it.
+Mykoła takes the stellite 38/15 band off the upper wheel of P3. Pani Ania cleaned it with an outer wheel (stellite is delicate, we don't want scratches). He lays the band flat on the table, straightens it.
 
 Ania starts with tooth 1 (the point directly after the factory weld, well marked with a red dot on the strip). Loupe on the tip:
 
 *"Teeth 1, 2, 3, 4, 5... rounding radius about 0.1-0.15 mm, within norms for a band after 8 m³. Can you see? There is still a clear edge, but slightly rounded."*
 
-Rustam looks through the loupe. He sees the tooth tip as an arc rather than a sharp vertex. Ania marks the "tip" box on the card with a score of 2/4 (light dulling, still serviceable).
+Mykoła looks through the loupe. He sees the tooth tip as an arc rather than a sharp vertex. Ania marks the "tip" box on the card with a score of 2/4 (light dulling, still serviceable).
 
 Ania moves on to the gullet: *"Teeth 1-2 gullet... clean. Teeth 2-3 gullet... clean. Teeth 3-4... hmm."* She moves the loupe, changes the lamp angle. *"Can you see the thin line? In the gullet between tooth 3 and 4, about 0.15 mm long, perpendicular to the strip."*
 
-Wahan looks through the loupe. He sees a very thin dark line, easier to see when Ania moves the lamp. He writes on the card: "teeth 3-4, micro-crack 0.15 mm, perpendicular".
+Wasyl looks through the loupe. He sees a very thin dark line, easier to see when Ania moves the lamp. He writes on the card: "teeth 3-4, micro-crack 0.15 mm, perpendicular".
 
 Ania continues through teeth 5 to 100. In this range they find **a second micro-crack** (teeth 87-88, 0.20 mm, perpendicular). Recorded.
 
-7:55. Role change. Rustam inspects teeth 101-200 on his own, under Pani Ania's eye. Slowly, in each gullet loupe + change of light angle. He finds **a third micro-crack** (teeth 145-146, 0.10 mm), lifts his head with a smile: *"I can see it, Pani Aniu. A dark line."* Ania confirms: *"Yes. Good eye. Write it down."*. In the same range Rustam also notices **stronger rounding of the tip** of tooth 145 (the one next to the crack), radius about 0.25 mm (clearly larger than the 0.15 average). They note it.
+7:55. Role change. Mykoła inspects teeth 101-200 on his own, under Pani Ania's eye. Slowly, in each gullet loupe + change of light angle. He finds **a third micro-crack** (teeth 145-146, 0.10 mm), lifts his head with a smile: *"I can see it, Pani Aniu. A dark line."* Ania confirms: *"Yes. Good eye. Write it down."*. In the same range Mykoła also notices **stronger rounding of the tip** of tooth 145 (the one next to the crack), radius about 0.25 mm (clearly larger than the 0.15 average). They note it.
 
-8:25. Wahan inspects teeth 201-280. Zero additional cracks. Tips within norms (0.1-0.15 mm).
+8:25. Wasyl inspects teeth 201-280. Zero additional cracks. Tips within norms (0.1-0.15 mm).
 
 8:45. Set measurement. Pani Ania takes out the set gauge. Measurement at three places:
 
@@ -302,22 +302,22 @@ Mean set: 0.52 mm. Nominal 0.6, tolerance 0.5-0.7, **at the minimum border** (no
 
 **Decision**:
 
-Ania looks at the card, at Rustam, at Wahan: *"Rustam, the decision is yours. You are a self-reliant operator, this is your band, your oak campaign. I advise, you decide. What will you do?"*.
+Ania looks at the card, at Mykoła, at Wasyl: *"Mykoła, the decision is yours. You are a self-reliant operator, this is your band, your oak campaign. I advise, you decide. What will you do?"*.
 
-Rustam thinks. Three micro-cracks is one over the norm. Set borderline. Tip within norms but with a flag. Band history: this is the third life cycle (after two reconditionings), the next reconditioning would be the fourth, the strip is already 37.6 mm wide (after 0.2-0.4 mm grinding per reconditioning), close to the 37 mm minimum.
+Mykoła thinks. Three micro-cracks is one over the norm. Set borderline. Tip within norms but with a flag. Band history: this is the third life cycle (after two reconditionings), the next reconditioning would be the fourth, the strip is already 37.6 mm wide (after 0.2-0.4 mm grinding per reconditioning), close to the 37 mm minimum.
 
-Rustam: *"Pani Aniu, replacement. Three micro-cracks is already out of norm, and the set is borderline. One more reconditioning and the strip would be too narrow. Plus stellite is worth running to full three-reconditioning only when cracks are 0-1. Here we have three. Replacement. Old one to scrap, new one from the store."*.
+Mykoła: *"Pani Aniu, replacement. Three micro-cracks is already out of norm, and the set is borderline. One more reconditioning and the strip would be too narrow. Plus stellite is worth running to full three-reconditioning only when cracks are 0-1. Here we have three. Replacement. Old one to scrap, new one from the store."*.
 
-Ania nods in approval: *"Exactly. A self-reliant operator who understands the history of his band, the cost per m³, the safety limits. Old to scrap, not to reconditioning, because the workshop would refuse and you would bear the cost of transport there and back. Wahan, note: the cost of a lost reconditioning is 70 zł, but the cost of a band break during cutting may be an injury + weeks of downtime + a PIP investigation. Incomparable."*.
+Ania nods in approval: *"Exactly. A self-reliant operator who understands the history of his band, the cost per m³, the safety limits. Old to scrap, not to reconditioning, because the workshop would refuse and you would bear the cost of transport there and back. Wasyl, note: the cost of a lost reconditioning is 70 zł, but the cost of a band break during cutting may be an injury + weeks of downtime + a PIP investigation. Incomparable."*.
 
-Wahan writes in his notebook (he has had one with him since the l8 induction): *"Rustam thinks about cost per m³ and safety, not about a single band"*.
+Wasyl writes in his notebook (he has had one with him since the l8 induction): *"Mykoła thinks about cost per m³ and safety, not about a single band"*.
 
-Mounting the new stellite 38/15 (serial number 24057, delivery from 11 May, EGIDA band store) takes 26 minutes per the procedure from l6. At 9:15 P3 is ready for the second oak campaign. Rustam fires it up and enters the first log. Clean cut, sharp tip of the new band, smooth kerf, feed 2 m/min without resistance. The old band goes into the "steel scrap" container at the hall exit (a skip for metal recycling, at 1.50 zł/kg, weighed at the end of the month along with the other scrap).
+Mounting the new stellite 38/15 (serial number 24057, delivery from 11 May, EGIDA band store) takes 26 minutes per the procedure from l6. At 9:15 P3 is ready for the second oak campaign. Mykoła fires it up and enters the first log. Clean cut, sharp tip of the new band, smooth kerf, feed 2 m/min without resistance. The old band goes into the "steel scrap" container at the hall exit (a skip for metal recycling, at 1.50 zł/kg, weighed at the end of the month along with the other scrap).
 
-Ania enters into the inspection report (form EGIDA-IR-003, monthly): *"P3 Wood-Mizer LT70 - condition OK. Stellite 38/15 band no. 24052 replaced after 8.4 m³ of oak (3 micro-cracks, borderline set). The decision by operator Rustam Nazarov is justified. New band no. 24057 fitted. Next spot inspection in 3 weeks, around 8 June 2026."*.
+Ania enters into the inspection report (form EGIDA-IR-003, monthly): *"P3 Wood-Mizer LT70 - condition OK. Stellite 38/15 band no. 24052 replaced after 8.4 m³ of oak (3 micro-cracks, borderline set). The decision by operator Mykoła Hrycenko is justified. New band no. 24057 fitted. Next spot inspection in 3 weeks, around 8 June 2026."*.
 
 ::: tip
-**What Rustam learned from this inspection:**
+**What Mykoła learned from this inspection:**
 
 - **Three inspection tools** (10x loupe, LED lamp with side light, set gauge). Each gives different information, together they create the full picture.
 - **Six checkpoints** (tip, gullet, set, strip continuity, corrosion, tension). Missing any checkpoint = incomplete inspection.

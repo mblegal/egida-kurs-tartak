@@ -197,7 +197,7 @@ Polish has **7 sounds** that probably do not occur in your language (or occur di
 Sounds complicated? **Do not worry**. The foreman has heard many migrants saying „KLO-da" instead of „KWO-da" or „seekh" instead of „she". **He will understand the context**. But you have to try.
 
 ::: example
-**From life**: a helper from Vietnam, sawmill near Radom, third week on the job. Vietnamese does not have the sounds „ł", „ś", „ć". The Vietnamese helper learned 30 words passively in a week (because comprehension does not require production), but active production took him a month. At first he said „KLODA" instead of „KWODA". The foreman understood. After 3 weeks he heard that „KLODA" is not „KWODA" but sounds similar enough. After 2 months the Vietnamese helper pronounced „KWODA" correctly. **Lesson**: imperfect pronunciation is not a problem, **not trying** is the problem. The foreman judges your effort, not your phonetics.
+**From life**: a helper from Colombia, sawmill near Radom, third week on the job. Spanish does not have the sounds „ł", „ś", „ć" as distinct phonemes. The Colombian helper learned 30 words passively in a week (because comprehension does not require production), but active production took him a month. At first he said „KLODA" instead of „KWODA". The foreman understood. After 3 weeks he heard that „KLODA" is not „KWODA" but sounds similar enough. After 2 months the Colombian helper pronounced „KWODA" correctly. **Lesson**: imperfect pronunciation is not a problem, **not trying** is the problem. The foreman judges your effort, not your phonetics.
 :::
 
 ### 5 daily courtesies
@@ -214,7 +214,7 @@ These **5 words** you must be able to say from day one:
 
 **„przepraszam"** (pshe-PRA-sham) – when you make a mistake, when you must interrupt someone's work, when something is in the way. It is not an admission of guilt (as with English „sorry"), just normal politeness.
 
-**These 5 words create a „human layer"** between you and the crew. Without them you are „that stranger who works here". With them you are „that colleague from Ukraine / Belarus / Georgia / Vietnam who fits in well".
+**These 5 words create a „human layer"** between you and the crew. Without them you are „that stranger who works here". With them you are „that colleague from Ukraine / Colombia / Venezuela / Peru who fits in well".
 
 ### 5 strategies for learning Polish at work
 
@@ -224,7 +224,7 @@ These **5 words** you must be able to say from day one:
 
 **Strategy 3 – 5 minutes in the evening**. After work, before you start dinner, 5 minutes of repeating the list out loud. Even if you are tired. That is the **1 percent daily effort** that after a year gives you Polish at A2 level.
 
-**Strategy 4 – a co-helper**. If there is a second helper in your crew (Vietnamese, Moldovan, Ukrainian), learn together. One says the word, the other translates into his language. Mutual translation helps better than lonely drilling.
+**Strategy 4 – a co-helper**. If there is a second helper in your crew (Colombian, Ukrainian, Venezuelan), learn together. One says the word, the other translates into his language. Mutual translation helps better than lonely drilling.
 
 **Strategy 5 – do not be afraid of mistakes**. Mistakes are **normal**. Poles know a migrant speaks with mistakes for the first year. Better to say „proszę kloda" (a phonetic mistake: should be „kłoda", but understandable) than to stay silent out of shame. A **silent migrant** is received worse in a Polish crew than a **migrant who speaks with mistakes**. Speaking = trying. Trying = respect for colleagues.
 

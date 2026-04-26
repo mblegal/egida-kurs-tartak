@@ -6,15 +6,15 @@ czas: 120
 
 ## Introducción
 
-Lunes, 2026-05-18, 7:15. Rustam llega a la nave de sierras 15 minutos antes del inicio oficial del turno (7:30). En el plan del día, la segunda campaña de roble: **3,2 m³ de roble común** (*Quercus robur*) del Distrito Forestal de Strzałowo (Inspección Forestal Strzałowo), tablas 40 × 180 × 2500 mm, clase de calidad G2-1, cliente „Dąb-Meble" Piaseczno. Sierra de cinta **P3 Wood-Mizer LT70**, la misma que en la l6. La cinta montada allí hace tres días (estelita 38 mm, paso 15 mm, n.º de serie 24052, fabricante Munkfors Scandinavia, en almacén desde abril de 2026) cortó durante la primera campaña de roble (miércoles 13 de mayo hasta viernes 15 de mayo) **8,4 m³** de roble del Distrito Forestal de Strzałowo. Fin de semana. Hoy, segunda vez de roble con la misma cinta.
+Lunes, 2026-05-18, 7:15. Mykoła llega a la nave de sierras 15 minutos antes del inicio oficial del turno (7:30). En el plan del día, la segunda campaña de roble: **3,2 m³ de roble común** (*Quercus robur*) del Distrito Forestal de Strzałowo (Inspección Forestal Strzałowo), tablas 40 × 180 × 2500 mm, clase de calidad G2-1, cliente „Dąb-Meble" Piaseczno. Sierra de cinta **P3 Wood-Mizer LT70**, la misma que en la l6. La cinta montada allí hace tres días (estelita 38 mm, paso 15 mm, n.º de serie 24052, fabricante Munkfors Scandinavia, en almacén desde abril de 2026) cortó durante la primera campaña de roble (miércoles 13 de mayo hasta viernes 15 de mayo) **8,4 m³** de roble del Distrito Forestal de Strzałowo. Fin de semana. Hoy, segunda vez de roble con la misma cinta.
 
-Antes de arrancar, Rustam tiene una decisión que tomar: dejar esta cinta para los siguientes 3,2 m³ (en total 11,6 m³ de su vida activa) o sustituirla ahora por una nueva. La regeneración externa se hizo dos veces en el historial de esta cinta (antes del pino en abril y tras el pino en mayo), así que este es ya el tercer ciclo de vida. La estelita 38 mm aguanta típicamente 3-4 ciclos de regeneración antes de que la banda quede demasiado estrecha o los dientes pierdan forma.
+Antes de arrancar, Mykoła tiene una decisión que tomar: dejar esta cinta para los siguientes 3,2 m³ (en total 11,6 m³ de su vida activa) o sustituirla ahora por una nueva. La regeneración externa se hizo dos veces en el historial de esta cinta (antes del pino en abril y tras el pino en mayo), así que este es ya el tercer ciclo de vida. La estelita 38 mm aguanta típicamente 3-4 ciclos de regeneración antes de que la banda quede demasiado estrecha o los dientes pierdan forma.
 
-Wahan está allí al mismo tiempo (desde el 4 de mayo de forma permanente con Rustam, tras la instrucción de m3-w1-l8). Ayuda en la retirada del protector.
+Wasyl está allí al mismo tiempo (desde el 4 de mayo de forma permanente con Mykoła, tras la instrucción de m3-w1-l8). Ayuda en la retirada del protector.
 
-A las 7:20 entra a la nave de forma inesperada la **Sra. Ania** (Anna Kowalczyk, clasificadora EGIDA, certificado PN-EN 1611-1 ITD Poznań 2014/ITD/312). Viene a una inspección aleatoria del puesto, que se realiza cada 2-3 semanas en el recorrido de su trabajo de clasificación. Ayer terminó la inspección de la P1 y la P2 (sierras Serra SM40), hoy le toca la P3 Wood-Mizer LT70. Llega en buen momento: Rustam precisamente tiene una cinta por evaluar.
+A las 7:20 entra a la nave de forma inesperada la **Sra. Ania** (Anna Kowalczyk, clasificadora EGIDA, certificado PN-EN 1611-1 ITD Poznań 2014/ITD/312). Viene a una inspección aleatoria del puesto, que se realiza cada 2-3 semanas en el recorrido de su trabajo de clasificación. Ayer terminó la inspección de la P1 y la P2 (sierras Serra SM40), hoy le toca la P3 Wood-Mizer LT70. Llega en buen momento: Mykoła precisamente tiene una cinta por evaluar.
 
-Ania: *„Rustam, momento perfecto. Antes de arrancar la máquina, miramos juntos esta cinta con la lupa. 8,4 m³ de roble ya es un recorrido serio, la estelita sobre una especie dura tiene una vida útil teórica de 8-10 m³, o sea que estamos en la zona de decisión."* Wahan mira con curiosidad, nunca ha visto una inspección formal de cinta bajo lupa.
+Ania: *„Mykoła, momento perfecto. Antes de arrancar la máquina, miramos juntos esta cinta con la lupa. 8,4 m³ de roble ya es un recorrido serio, la estelita sobre una especie dura tiene una vida útil teórica de 8-10 m³, o sea que estamos en la zona de decisión."* Wasyl mira con curiosidad, nunca ha visto una inspección formal de cinta bajo lupa.
 
 Ania saca del bolso una pequeña lupa negra con marcado verde **10×** (número de fábrica ITD-5P, instrumento estándar del clasificador acreditado). Saca también una linterna LED con una franja fina de luz (para iluminación oblicua) y una **galga de trabado** (*set gauge*, placa metálica con diente de referencia).
 
@@ -257,29 +257,29 @@ Tiempo de inspección para cinta estelita 38/15 de roble (280 dientes): 45-60 mi
 - **4+ microgrietas, o una >0,5 mm**: **sustitución, la regeneración es demasiado arriesgada**. Los talleres externos responsables (Ostrzex, Zmechanizowane Drewno) no aceptan cintas con tal daño.
 - **Grieta >1 mm**: **sustitución inmediata**, la cinta se romperá en 1-2 m³. No arranques la sierra.
 
-### Escena de la inspección (Rustam, Wahan, Sra. Ania)
+### Escena de la inspección (Mykoła, Wasyl, Sra. Ania)
 
 Lunes 18 de mayo, 7:25. La Sra. Ania despliega sobre la mesa de taller (junto a la P3) la lupa 10×, la linterna LED con batería y la ficha de inspección de cinta (formulario EGIDA-TAS-005, dos hojas A4, campos para 280 dientes).
 
-Ania: *„Rustam, Wahan, nos colocamos así. Tú, Rustam, sostén la cinta desplegada sobre la mesa, desplázala cada 100 dientes. Wahan, orienta la linterna en ángulo de 30-45° desde abajo. Yo evalúo con la lupa y anoto. Trabajamos los dientes 1-100, después cambio, Rustam examina 101-200 solo bajo mi supervisión, para que aprenda, y yo anoto lo que vea. Wahan, mientras tanto, 201-280."*
+Ania: *„Mykoła, Wasyl, nos colocamos así. Tú, Mykoła, sostén la cinta desplegada sobre la mesa, desplázala cada 100 dientes. Wasyl, orienta la linterna en ángulo de 30-45° desde abajo. Yo evalúo con la lupa y anoto. Trabajamos los dientes 1-100, después cambio, Mykoła examina 101-200 solo bajo mi supervisión, para que aprenda, y yo anoto lo que vea. Wasyl, mientras tanto, 201-280."*
 
-Rustam retira la cinta estelita 38/15 del volante superior de la P3. La Sra. Ania la limpia con un paño externo (la estelita es delicada, no queremos arañazos). La despliega sobre la mesa, la alinea.
+Mykoła retira la cinta estelita 38/15 del volante superior de la P3. La Sra. Ania la limpia con un paño externo (la estelita es delicada, no queremos arañazos). La despliega sobre la mesa, la alinea.
 
 Ania empieza por el diente 1 (punto justo después de la soldadura de fábrica, bien marcado con un punto rojo en la banda). Lupa sobre la punta:
 
 *„Dientes 1, 2, 3, 4, 5... radio de redondeo de unos 0,1-0,15 mm, en norma para cinta tras 8 m³. ¿Lo veis? Aún hay un extremo claro, pero ligeramente redondeado."*
 
-Rustam mira por la lupa. Ve la punta del diente como un arco en lugar de un vértice afilado. Ania marca en la ficha el punto „punta" con evaluación 2/4 (embotamiento leve, aún apta).
+Mykoła mira por la lupa. Ve la punta del diente como un arco en lugar de un vértice afilado. Ania marca en la ficha el punto „punta" con evaluación 2/4 (embotamiento leve, aún apta).
 
 Ania pasa a la garganta: *„Dientes 1-2 garganta... limpia. Dientes 2-3 garganta... limpia. Dientes 3-4... hmm."* Desplaza la lupa, cambia el ángulo de la linterna. *„¿Veis la línea muy fina? En la garganta entre el diente 3 y el 4, unos 0,15 mm de largo, perpendicular a la banda."*
 
-Wahan mira por la lupa. Ve una raya oscura muy fina, más visible cuando Ania mueve la linterna. Apunta en la ficha: „dientes 3-4, microgrieta 0,15 mm, perpendicular".
+Wasyl mira por la lupa. Ve una raya oscura muy fina, más visible cuando Ania mueve la linterna. Apunta en la ficha: „dientes 3-4, microgrieta 0,15 mm, perpendicular".
 
 Ania continúa por los dientes 5 al 100. En este tramo encuentran la **segunda microgrieta** (dientes 87-88, 0,20 mm, perpendicular). Anotada.
 
-7:55. Cambio de roles. Rustam examina los dientes 101-200 solo, bajo la supervisión de la Sra. Ania. Despacio, en cada garganta lupa + cambio de ángulo de luz. Encuentra la **tercera microgrieta** (dientes 145-146, 0,10 mm), levanta la cabeza con una sonrisa: *„La veo, Sra. Ania. Raya oscura."* Ania confirma: *„Sí. Buen ojo. Anótalo."* En ese mismo tramo, Rustam nota también un **mayor redondeo de la punta** del diente 145 (contiguo a la grieta), radio de unos 0,25 mm (claramente mayor que la media de 0,15). Lo anotan.
+7:55. Cambio de roles. Mykoła examina los dientes 101-200 solo, bajo la supervisión de la Sra. Ania. Despacio, en cada garganta lupa + cambio de ángulo de luz. Encuentra la **tercera microgrieta** (dientes 145-146, 0,10 mm), levanta la cabeza con una sonrisa: *„La veo, Sra. Ania. Raya oscura."* Ania confirma: *„Sí. Buen ojo. Anótalo."* En ese mismo tramo, Mykoła nota también un **mayor redondeo de la punta** del diente 145 (contiguo a la grieta), radio de unos 0,25 mm (claramente mayor que la media de 0,15). Lo anotan.
 
-8:25. Wahan examina los dientes 201-280. Cero grietas adicionales. Puntas en norma (0,1-0,15 mm).
+8:25. Wasyl examina los dientes 201-280. Cero grietas adicionales. Puntas en norma (0,1-0,15 mm).
 
 8:45. Medición del trabado. La Sra. Ania saca la galga de trabado. Medición en tres puntos:
 
@@ -302,22 +302,22 @@ Trabado medio: 0,52 mm. Nominal 0,6, tolerancia 0,5-0,7, **en el límite mínimo
 
 **Decisión**:
 
-Ania mira la ficha, a Rustam, a Wahan: *„Rustam, la decisión es tuya. Eres operador independiente, esta es tu cinta, tu campaña de roble. Yo asesoro, tú decides. ¿Qué haces?"*
+Ania mira la ficha, a Mykoła, a Wasyl: *„Mykoła, la decisión es tuya. Eres operador independiente, esta es tu cinta, tu campaña de roble. Yo asesoro, tú decides. ¿Qué haces?"*
 
-Rustam piensa. Tres microgrietas son una más de la norma. Trabado limítrofe. Punta en norma pero con indicación. Historial de la cinta: es el tercer ciclo de vida (tras dos regeneraciones), la siguiente regeneración sería la cuarta, la banda ya tiene 37,6 mm de anchura (tras 0,2-0,4 mm de rectificados en las regeneraciones), cerca del límite mínimo de 37 mm.
+Mykoła piensa. Tres microgrietas son una más de la norma. Trabado limítrofe. Punta en norma pero con indicación. Historial de la cinta: es el tercer ciclo de vida (tras dos regeneraciones), la siguiente regeneración sería la cuarta, la banda ya tiene 37,6 mm de anchura (tras 0,2-0,4 mm de rectificados en las regeneraciones), cerca del límite mínimo de 37 mm.
 
-Rustam: *„Sra. Ania, sustitución. Tres microgrietas ya están fuera de norma, y el trabado es limítrofe. Una regeneración más y la banda estaría demasiado estrecha. Además, la estelita conviene llevarla a la tercera regeneración completa solo si las grietas son 0-1. Aquí tenemos tres. Sustitución. La vieja al desguace, la nueva del almacén."*
+Mykoła: *„Sra. Ania, sustitución. Tres microgrietas ya están fuera de norma, y el trabado es limítrofe. Una regeneración más y la banda estaría demasiado estrecha. Además, la estelita conviene llevarla a la tercera regeneración completa solo si las grietas son 0-1. Aquí tenemos tres. Sustitución. La vieja al desguace, la nueva del almacén."*
 
-Ania asiente con aprobación: *„Exacto. Operador independiente que entiende el historial de su cinta, el coste por m³, los límites de seguridad. La vieja al desguace, no a regeneración, porque el taller la rechazaría y tú cargarías con el coste del transporte de ida y vuelta. Wahan, observa: el coste de la regeneración perdida son 70 zł, pero el coste de la rotura de la cinta durante el corte puede ser lesión + semanas de parada + investigación de la PIP (Inspección Estatal de Trabajo). Incomparable."*
+Ania asiente con aprobación: *„Exacto. Operador independiente que entiende el historial de su cinta, el coste por m³, los límites de seguridad. La vieja al desguace, no a regeneración, porque el taller la rechazaría y tú cargarías con el coste del transporte de ida y vuelta. Wasyl, observa: el coste de la regeneración perdida son 70 zł, pero el coste de la rotura de la cinta durante el corte puede ser lesión + semanas de parada + investigación de la PIP (Inspección Estatal de Trabajo). Incomparable."*
 
-Wahan apunta en el cuaderno (siempre lo lleva desde la instrucción de la l8): *„Rustam piensa en el coste por m³ y la seguridad, no en una cinta aislada"*.
+Wasyl apunta en el cuaderno (siempre lo lleva desde la instrucción de la l8): *„Mykoła piensa en el coste por m³ y la seguridad, no en una cinta aislada"*.
 
-El montaje de la nueva estelita 38/15 (n.º de serie 24057, entrega del 11 de mayo, almacén de cintas EGIDA) lleva 26 minutos según el procedimiento de la l6. A las 9:15 la P3 está lista para la segunda campaña de roble. Rustam la arranca y entra en el primer rollizo. Corte limpio, punta de la cinta nueva afilada, corte liso, avance de 2 m/min sin resistencia. La cinta vieja va al contenedor „desguace de acero" a la salida de la nave (contenedor de metales para reciclaje, a 1,50 zł/kg, pesado a final de mes junto con otro desguace).
+El montaje de la nueva estelita 38/15 (n.º de serie 24057, entrega del 11 de mayo, almacén de cintas EGIDA) lleva 26 minutos según el procedimiento de la l6. A las 9:15 la P3 está lista para la segunda campaña de roble. Mykoła la arranca y entra en el primer rollizo. Corte limpio, punta de la cinta nueva afilada, corte liso, avance de 2 m/min sin resistencia. La cinta vieja va al contenedor „desguace de acero" a la salida de la nave (contenedor de metales para reciclaje, a 1,50 zł/kg, pesado a final de mes junto con otro desguace).
 
-Ania escribe en el informe de inspección (formulario EGIDA-IR-003, mensual): *„P3 Wood-Mizer LT70 - estado OK. Cinta estelita 38/15 n.º 24052 sustituida tras 8,4 m³ de roble (3 microgrietas, trabado limítrofe). Decisión del operador Rustam Nazarov justificada. Nueva cinta n.º 24057 montada. Próxima inspección aleatoria en 3 semanas, plazo aproximado 8 de junio de 2026."*
+Ania escribe en el informe de inspección (formulario EGIDA-IR-003, mensual): *„P3 Wood-Mizer LT70 - estado OK. Cinta estelita 38/15 n.º 24052 sustituida tras 8,4 m³ de roble (3 microgrietas, trabado limítrofe). Decisión del operador Mykoła Hrycenko justificada. Nueva cinta n.º 24057 montada. Próxima inspección aleatoria en 3 semanas, plazo aproximado 8 de junio de 2026."*
 
 ::: tip
-**Qué ha aprendido Rustam de esta inspección:**
+**Qué ha aprendido Mykoła de esta inspección:**
 
 - **Tres herramientas de inspección** (lupa 10×, linterna LED con luz lateral, galga de trabado). Cada una aporta información distinta, juntas forman un cuadro completo.
 - **Seis puntos de control** (punta, garganta, trabado, continuidad de la banda, corrosión, tensión). Falta cualquier punto = inspección incompleta.

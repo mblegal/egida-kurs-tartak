@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Thursday, 7:00 a.m., the circular-saw hall of the EGIDA Foundation sawmill. Oleksii has spent the previous three days on the Wood-Mizer LT40 number two band saw: Monday start-up, Tuesday roller adjustment, Wednesday first production cutting of oak. Today he changes workstation. Marek walks him to the other side of the hall, to the **Storti DDM-200 edger**, a machine that processes the unedged lumber coming straight off the band saw. The oak boards 150 × 25 × 3000 mm that Oleksii cut on Wednesday are stacked on a cart: they have wane on two sides (bark edges), and they need to be edged to a rectangular cross section. This is where the band saw ends and the circular saw begins.
+Thursday, 7:00 a.m., the circular-saw hall of the EGIDA Foundation sawmill. Oleksij has spent the previous three days on the Wood-Mizer LT40 number two band saw: Monday start-up, Tuesday roller adjustment, Wednesday first production cutting of oak. Today he changes workstation. Marek walks him to the other side of the hall, to the **Storti DDM-200 edger**, a machine that processes the unedged lumber coming straight off the band saw. The oak boards 150 × 25 × 3000 mm that Oleksij cut on Wednesday are stacked on a cart: they have wane on two sides (bark edges), and they need to be edged to a rectangular cross section. This is where the band saw ends and the circular saw begins.
 
-At first glance the edger looks nothing like a band saw: instead of one long vertical blade running on two wheels, you see **two horizontal circular blades, 350 mm in diameter**, set parallel about 130 mm apart, protruding 40 mm above the feed table. Material enters on a roller conveyor between the blades and leaves edged on both sides in a single pass. Marek hands Oleksii a 500 mm wooden push stick and says: "Rip saw. Same rules as the band saw: check, start, feed, but with three differences. **Riving knife, adjustable guard, push stick.** Without those three, you don't go near the blade."
+At first glance the edger looks nothing like a band saw: instead of one long vertical blade running on two wheels, you see **two horizontal circular blades, 350 mm in diameter**, set parallel about 130 mm apart, protruding 40 mm above the feed table. Material enters on a roller conveyor between the blades and leaves edged on both sides in a single pass. Marek hands Oleksij a 500 mm wooden push stick and says: "Rip saw. Same rules as the band saw: check, start, feed, but with three differences. **Riving knife, adjustable guard, push stick.** Without those three, you don't go near the blade."
 
 This lesson introduces the **circular saw** as the second wood-processing workstation you are allowed to approach under supervision, after the band saw. The edger is a **rip circular saw**: it cuts along the grain, along the length of the board. A **cross-cut circular saw** cuts across the grain and is used to trim logs or lumber to a defined length. Two designs, one cutting principle (a rotating toothed blade), but different risk geometries.
 
@@ -47,7 +47,7 @@ A **riving knife** (German *Spaltkeil*, English *riving knife*) is a flat, curve
 
 A rip circular saw has **two guards**: a **fixed** guard (covers the rear, inactive part of the blade) and an **adjustable** guard (lowers onto the material, covers the blade in the active area). The adjustable guard shields the operator's hand from chips and splinters, and in a minor kickback it acts as a screen.
 
-Setting rule: **a gap no greater than 5 mm above the material**. Higher means a window through which a hand or chip can reach. Resting on the material means friction blocks movement, so the operator lifts it and "forgets" to lower it. On the Storti edger Oleksii checks it this way: he places a 25 mm board under the blade, lowers the guard until contact, then raises it by the thickness of a sheet of paper (≤1 mm).
+Setting rule: **a gap no greater than 5 mm above the material**. Higher means a window through which a hand or chip can reach. Resting on the material means friction blocks movement, so the operator lifts it and "forgets" to lower it. On the Storti edger Oleksij checks it this way: he places a 25 mm board under the blade, lowers the guard until contact, then raises it by the thickness of a sheet of paper (≤1 mm).
 
 **Law**: § 11 of the Regulation of 14 April 2000 requires a gap no larger than necessary for the work. Polish practice: 5 mm maximum.
 
@@ -59,7 +59,7 @@ The procedure is **analogous to the band saw** (Lesson 1 of this week), but with
 
 **Step 2: Riving-knife check (20 seconds).** Distance 2–10 mm from the blade (millimetre-scale ruler, Marek keeps one on the console), height 2–5 mm below the highest tooth (visual check), knife nameplate thickness matching the blade nameplate, two M10 lock bolts tightened.
 
-**Step 3: STOP button test (10 seconds).** Mushroom button on the edger console: protrudes 30 mm in the ready position, latched 10 mm in after being pressed. Oleksii runs the test without starting the blade: press, release, press, release. **Left hand on STOP before the right on START**: a mechanical habit from Lesson 3 of Week 1, which returns on every machine until the end of your career.
+**Step 3: STOP button test (10 seconds).** Mushroom button on the edger console: protrudes 30 mm in the ready position, latched 10 mm in after being pressed. Oleksij runs the test without starting the blade: press, release, press, release. **Left hand on STOP before the right on START**: a mechanical habit from Lesson 3 of Week 1, which returns on every machine until the end of your career.
 
 **Step 4: START and 30-second idle run (30 seconds).** Loud announcement: "Starting edger number one, thirty-second idle run!" START. Observation with 3 senses: even motor sound with no "puffing" (the blade is not rubbing against the guard), no vibration transmitted through the table to the hand (operator's hand resting lightly on the machine frame), no smell of burning motor. **Specific to the circular saw**: observation of the rpm gauge (2000–4000 rpm in the green zone, a 350 mm blade typically at 3000 rpm = peripheral speed of 55 m/s).
 
@@ -75,7 +75,7 @@ The procedure is **analogous to the band saw** (Lesson 1 of this week), but with
 
 **Push-stick material: wood**, never metal. On a kickback, a metal push stick becomes an additional projectile flying at 30 m/s. A wooden push stick breaks, but does not injure.
 
-Oleksii opens the cabinet next to the edger: inside are 6 push sticks of different sizes, each marked with the date of manufacture and the initials of the operator (Tadeusz Kowalski carved three of them 2 months ago). Marek shows him which one fits the 25 × 150 mm oak: a 500 mm push stick with a 25 mm notch.
+Oleksij opens the cabinet next to the edger: inside are 6 push sticks of different sizes, each marked with the date of manufacture and the initials of the operator (Tadeusz Kowalski carved three of them 2 months ago). Marek shows him which one fits the 25 × 150 mm oak: a 500 mm push stick with a 25 mm notch.
 
 ### Rip or cross-cut: two risk geometries
 
@@ -105,11 +105,11 @@ A junior is allowed to: feed cants onto the infeed conveyor (a zone 2 m in front
 Reason: two boards of different thickness under the blade cause asymmetric loading, the blade flexes, the riving knife stops working, and the kickback reaches 30–40 m/s.
 :::
 
-### Oleksii's case: the first 40 boards and the first sign of wear
+### Oleksij's case: the first 40 boards and the first sign of wear
 
-Thursday, 7:30, Oleksii finishes the 6-step procedure (knife with 4 parameters, guards checked, test cut on pine 25 × 150 × 500 mm with no findings). Production START. The first 40 oak boards 25 × 150 × 3000 mm from Wednesday's band-saw session go smoothly: single feed, push stick in the last 300 mm, 25 seconds per board. Marek stands 2 m behind the workstation, observing, saying nothing.
+Thursday, 7:30, Oleksij finishes the 6-step procedure (knife with 4 parameters, guards checked, test cut on pine 25 × 150 × 500 mm with no findings). Production START. The first 40 oak boards 25 × 150 × 3000 mm from Wednesday's band-saw session go smoothly: single feed, push stick in the last 300 mm, 25 seconds per board. Marek stands 2 m behind the workstation, observing, saying nothing.
 
-Board 41 comes out with a wavy edge (amplitude 1.5 mm, wavelength 20 mm). Oleksii sees it immediately: sign 2 from Lesson 3, waviness of the cut. Left hand on STOP. "Marek, please take a look: waviness." Marek checks the edge, then the blade: one tooth chipped, chip 3 × 2 mm. "Good catch. Blade change in two hours; for now we finish the batch slower, feed 15 m/min instead of 25."
+Board 41 comes out with a wavy edge (amplitude 1.5 mm, wavelength 20 mm). Oleksij sees it immediately: sign 2 from Lesson 3, waviness of the cut. Left hand on STOP. "Marek, please take a look: waviness." Marek checks the edge, then the blade: one tooth chipped, chip 3 × 2 mm. "Good catch. Blade change in two hours; for now we finish the batch slower, feed 15 m/min instead of 25."
 
 **Lesson of the day**: signs of blade wear demand **the same discipline as signs of band-strap wear** (band saw, Lesson 3). Cracks, chipped teeth, blue patches on the body, waviness of the cut: every one of them means STOP plus a report. An unreported sign is amputation in 5 minutes, not in 5 weeks.
 
@@ -173,4 +173,4 @@ This month you will assist at the single rip saw. In 4–6 months, after 100+ ho
 
 **Push-stick discipline and the multi-rip boundary**: the push stick is ALWAYS ready in the cabinet at the workstation, not in the toolbox. When the trainee does not see a push stick at hand, he stops cutting, finds a push stick, and resumes. "I'll just quickly finish this one board by hand" is the PIP amputation history of 2019–2023. For the multi-rip, do not teach operation; teach recognition. After this lesson the trainee is able to say: "That is a multi-rip, I do not operate it, I can feed a cant from 2 m away." Authorization for independent single rip-saw work: a minimum of 100 hours under supervision, 4–6 months. Multi-rip: a minimum of 6 months on the single saw + UDT + 20–30 cuts under supervision.
 
-**Bridge to Lesson 5**: the next lesson (edger and planer, position and feeding) extends the topic of this area of the hall. Oleksii continues at the Storti and also works with the Weinig 4-sided planer: positioned to the side, not in the ejection axis.
+**Bridge to Lesson 5**: the next lesson (edger and planer, position and feeding) extends the topic of this area of the hall. Oleksij continues at the Storti and also works with the Weinig 4-sided planer: positioned to the side, not in the ejection axis.

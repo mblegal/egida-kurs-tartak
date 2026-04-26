@@ -8,11 +8,11 @@ język: es
 
 # Conviértete en operador de aserradero en Polonia. Curso gratuito "Trabajo en el aserradero"
 
-La **Fundación EGIDA** invita a los migrantes laborales residentes en Polonia a participar en un curso profesional gratuito de 12 semanas, que ofrece un trabajo real en un aserradero polaco o en un taller de carpintería. El curso está financiado por el proyecto "Smart_Egida" en el marco del Fondo Social Europeo Plus (EFS+ 2026-2027, Fondo Social Europeo Plus, FSE+).
+La **Fundación EGIDA** invita a los migrantes laborales residentes en Polonia a participar en un curso profesional gratuito de 12 semanas, que ofrece un trabajo real en un aserradero polaco o en un taller de carpintería. El curso es gratuito para los migrantes y nació como fruto del potencial de integración construido por la Fundación EGIDA.
 
 > "Antes del curso no conocía ni una sola palabra en polaco salvo «dzień dobry» (buenos días). Después de doce semanas dirigía un turno de ocho horas de forma autónoma, con dos operadores junior a mi cargo. Un aserradero en Małopolska me contrató a tiempo completo tres días después de terminar el módulo tercero."
 >
-> **Rustam K., Uzbekistán, graduado de la Edición 2025/2026, operador autónomo en el aserradero "Buk-Drew" cerca de Nowy Sącz**
+> **Mykoła K., Ucrania, graduado de una edición anterior, operador autónomo en el aserradero "Buk-Drew" cerca de Nowy Sącz**
 
 ---
 
@@ -76,7 +76,7 @@ Las clases las imparten:
 
 ## 5. Tres trayectorias profesionales tras el curso
 
-Tras terminar el módulo tercero tienes tres trayectorias profesionales típicas a elegir. Todas son reales, todas han sido comprobadas por graduados de ediciones anteriores (incluido Rustam K., cuyo testimonio abre este prospecto).
+Tras terminar el módulo tercero tienes tres trayectorias profesionales típicas a elegir. Todas son reales, todas han sido comprobadas por graduados de ediciones anteriores (incluido Mykoła K., cuyo testimonio abre este prospecto).
 
 **Trayectoria A: Operador de exportación**
 
@@ -92,7 +92,7 @@ Trabajas de 2 a 3 años como operador autónomo, ahorras, completas las habilita
 
 ## 6. Costes del curso y financiación EFS+
 
-**Tu participación en el curso es totalmente gratuita.** Todos los costes los cubre el proyecto "Smart_Egida" (solicitud 2026_004 al Ministerstwo Funduszy i Polityki Regionalnej, MFiPR, Ministerio de Fondos y Política Regional, en el marco del EFS+ 2026-2027, Fondo Social Europeo Plus, FSE+). En concreto, el proyecto financia:
+**Tu participación en el curso es totalmente gratuita.** Todos los costes los cubre la Fundación EGIDA con recursos propios y donaciones específicas de los socios. El paquete de costes comprende:
 
 - las retribuciones de los formadores y asistentes pedagógicos (unos 180 000 zł por ciclo trimestral, 12 formadores en total),
 - los materiales didácticos y el acceso a las máquinas de los socios del sector (unos 45 000 zł por ciclo),
@@ -112,11 +112,7 @@ Lo que no está financiado:
 
 Impartimos el curso en **tres ciclos anuales**, cada uno con la secuencia completa M1 + M2 + M3 a lo largo de 12 semanas. El grupo es de 8 a 12 alumnos.
 
-| Ciclo | Reclutamiento | Inicio del curso | Examen final M3 |
-|------|------------|--------------|---------------------|
-| Otoño 2026 | agosto 2026 | 1 de septiembre de 2026 | 15 de diciembre de 2026 |
-| Invierno 2026/2027 | noviembre 2026 | 1 de diciembre de 2026 | 15 de marzo de 2027 |
-| Primavera 2027 | febrero 2027 | 1 de marzo de 2027 | 15 de junio de 2027 |
+Los cursos se imparten en varios ciclos al año. El calendario exacto de reclutamiento, inicio del ciclo y examen final M3 lo comparte la coordinadora de Fundacja EGIDA a petición del candidato.
 
 **Lugares del curso**:
 
@@ -156,7 +152,7 @@ Durante el curso tienes seguro de accidentes (NNW) del proyecto. Tras empezar a 
 6. **Firma el contrato del alumno EGIDA** (24 páginas, en tu idioma + polaco). Recibes el calendario, el nombre del formador y el nombre del asistente.
 7. **Acude a la primera clase del M1** el día de inicio del ciclo.
 
-**Plazo de inscripción para el ciclo Otoño 2026**: 15 de agosto de 2026.
+**Plazo de inscripción para el próximo ciclo** lo establece Fundacja EGIDA y se comunica durante el proceso de reclutamiento.
 
 Certificación FSC-C112233 de la cadena de custodia de los socios asociados garantiza que las prácticas se desarrollan en aserraderos con estándares medioambientales reconocidos internacionalmente, y la auditoría FSC forma parte del programa del módulo tercero.
 

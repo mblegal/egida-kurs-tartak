@@ -327,7 +327,7 @@ D) Todo promediado en un único resultado.
 
 **44. Explica por qué «no puedo más» se reporta en formato 4W y no de forma general.**
 
-*(El formato 4W traduce el subjetivo «no puedo más» a hechos observables: Marek, Hai, sierra 2, 13:30, tres señales de fatiga, solicito rotación o 10 min de micropausa; el capataz recibe una base para la decisión operativa sin negociación; protección del operador frente a la interpretación de «vago».)*
+*(El formato 4W traduce el subjetivo «no puedo más» a hechos observables: Marek, Andrij, sierra 2, 13:30, tres señales de fatiga, solicito rotación o 10 min de micropausa; el capataz recibe una base para la decisión operativa sin negociación; protección del operador frente a la interpretación de «vago».)*
 
 **45. Describe cinco diferencias entre el operador en la cuadrilla y el junior bajo supervisión (síntesis M1 vs M2).**
 
@@ -393,19 +393,19 @@ Viernes 13:45, final de turno. Rellenas la bitácora verde ZMI-2026-087-01. Te d
 
 Viernes 14:15, 6,5 horas de turno. Notas en ti mismo: temblor de dedos con el empujador (la prueba de la hoja lo confirma), entrecerrar los ojos ante el amperímetro (no ves los valores pequeños desde 2 m), lentitud de reacción al anotar en la libreta. Marek en la nave en el otro extremo. ¿Qué haces?
 
-*(Se activa el principio de las tres señales: tres = micropausa obligatoria o aviso 4W; STOP al final del corte actual; aviso a Marek con un gesto si está en campo visual o por teléfono en 4W: «Marek, Hai, sierra 2, 14:15, tres señales de fatiga: temblor-entrecerrar-lentitud, solicito rotación a bitácora o 10 min de micropausa»; decisión del capataz: rotación o micropausa en la sala de personal; asiento en la bitácora como prueba de buena práctica de autorregulación.)*
+*(Se activa el principio de las tres señales: tres = micropausa obligatoria o aviso 4W; STOP al final del corte actual; aviso a Marek con un gesto si está en campo visual o por teléfono en 4W: «Marek, Andrij, sierra 2, 14:15, tres señales de fatiga: temblor-entrecerrar-lentitud, solicito rotación a bitácora o 10 min de micropausa»; decisión del capataz: rotación o micropausa en la sala de personal; asiento en la bitácora como prueba de buena práctica de autorregulación.)*
 
 **54. Caso: carretillero sin contacto visual**
 
 Jueves 11:45. Recibes el paquete SO-FSC-260420-020 de Krzysztof Zagrodny en el campo FSC. Krzysztof maniobra con la carretilla Toyota, pero no te mira, el paquete ya está a 2 m de tu posición. No has hecho el gesto LISTO porque no estás listo. ¿Qué haces?
 
-*(Un paso hacia atrás fuera de la zona de maniobra de 3 m; grito fuerte «¡Krzyśku, STOP, STOP!» + gesto STOP con la mano sobre la cabeza; el contacto visual con el operador de la carretilla es absolutamente obligatorio antes de dejar el paquete; cito la estadística de la PIP 2019-2023: 48% de los accidentes carretilla + operador = atropello al operador que está de pie; aviso a Marek en formato 4W tras el incidente: «Marek, Hai, campo FSC, 11:45, Krzysztof ha dejado el paquete sin mi gesto LISTO y sin contacto visual, solicito conversación de calibración»; asiento en la bitácora como near-miss.)*
+*(Un paso hacia atrás fuera de la zona de maniobra de 3 m; grito fuerte «¡Krzyśku, STOP, STOP!» + gesto STOP con la mano sobre la cabeza; el contacto visual con el operador de la carretilla es absolutamente obligatorio antes de dejar el paquete; cito la estadística de la PIP 2019-2023: 48% de los accidentes carretilla + operador = atropello al operador que está de pie; aviso a Marek en formato 4W tras el incidente: «Marek, Andrij, campo FSC, 11:45, Krzysztof ha dejado el paquete sin mi gesto LISTO y sin contacto visual, solicito conversación de calibración»; asiento en la bitácora como near-miss.)*
 
 **55. Caso: escalado directo a Anna Kwiatkowska**
 
 Lunes 7:40, 5 min antes del inicio. Ves que en la cámara de secado número 3 el panel de control muestra una alarma «temperatura 82°C en cámara con roble», Zbigniew Majchrzak aún no ha llegado, Marek en reunión hasta las 7:55, Piotr Czerwiński en viaje. La clase Anna Kwiatkowska, jefa de producción, en la oficina, a 30 m de aquí. ¿Qué haces?
 
-*(Clasificación de urgencia INMEDIATO: temperatura del roble 82°C >> límite 60°C = riesgo de grietas en radios medulares + pérdida de todo el lote de 15-25 m³ de roble en el ciclo; salto de 3 niveles (capataz + jefe de turno + jefe del secadero) hasta la jefa de producción permitido porque todos están no disponibles y el asunto no puede esperar; corro 30 m hasta la oficina de Anna con formato 4W: «Sra. jefa, Hai, secadero cámara 3, 7:40, alarma 82°C en ciclo de roble, límite 60°C, Zbigniew y Marek no disponibles, solicito intervención inmediata»; Anna decide apagar la cámara; SMS inmediato a Marek y Zbigniew informando del salto de 3 niveles; asiento en la bitácora con la línea temporal completa.)*
+*(Clasificación de urgencia INMEDIATO: temperatura del roble 82°C >> límite 60°C = riesgo de grietas en radios medulares + pérdida de todo el lote de 15-25 m³ de roble en el ciclo; salto de 3 niveles (capataz + jefe de turno + jefe del secadero) hasta la jefa de producción permitido porque todos están no disponibles y el asunto no puede esperar; corro 30 m hasta la oficina de Anna con formato 4W: «Sra. jefa, Andrij, secadero cámara 3, 7:40, alarma 82°C en ciclo de roble, límite 60°C, Zbigniew y Marek no disponibles, solicito intervención inmediata»; Anna decide apagar la cámara; SMS inmediato a Marek y Zbigniew informando del salto de 3 niveles; asiento en la bitácora con la línea temporal completa.)*
 
 ---
 

@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Środa, 2026-05-13, godzina 7:20. Na terenie komór suszarniczych EGIDA (strefa za halą pilarek taśmowych, pięć komór Brunner-Hildebrand oznaczonych P1-P6 plus jedna komora próżniowa P7). Rustam i Wahan wyjmują sosnę z P3 po trzytygodniowym cyklu suszenia. Partia: 4,8 m³ sosny zwyczajnej z Nadleśnictwa Drawno, przekrój 32 × 150 mm, długość 4 m, **zamówiona dla firmy stolarskiej „Dąb-Meble" z Piaseczna** (meble mieszkalne klasy średniej, stoły, szafy, komody). Zamówienie wymaga wilgotności docelowej **8-10%** (stolarka meblowa, wnętrze lokalu z ogrzewaniem). Partia musi być zmierzona przed wydaniem, z zapisem w karcie WSP-002 (wilgotność partii, retencja 3 lata).
+Środa, 2026-05-13, godzina 7:20. Na terenie komór suszarniczych EGIDA (strefa za halą pilarek taśmowych, pięć komór Brunner-Hildebrand oznaczonych P1-P6 plus jedna komora próżniowa P7). Mykoła i Wasyl wyjmują sosnę z P3 po trzytygodniowym cyklu suszenia. Partia: 4,8 m³ sosny zwyczajnej z Nadleśnictwa Drawno, przekrój 32 × 150 mm, długość 4 m, **zamówiona dla firmy stolarskiej „Dąb-Meble" z Piaseczna** (meble mieszkalne klasy średniej, stoły, szafy, komody). Zamówienie wymaga wilgotności docelowej **8-10%** (stolarka meblowa, wnętrze lokalu z ogrzewaniem). Partia musi być zmierzona przed wydaniem, z zapisem w karcie WSP-002 (wilgotność partii, retencja 3 lata).
 
-Rustam i Wahan mają ze sobą dwa przyrządy. Pierwszy: **wilgotnościomierz iglicowy IRI-5P** (firma Chabros International, Polska, kalibrowany dla drewna iglastego i liściastego, głębokość wbicia igły 30 mm, zakres pomiaru 5-50%). Drugi: **wilgotnościomierz pojemnościowy Gann RTU 600** (Niemcy, bez penetracji powierzchni, pomiar głęboki do 40 mm, zakres 4-50%). Dwa przyrządy, bo Pani Ania nauczyła Rustama wczoraj (wieczorem, przed dzisiejszym pomiarem) zasady krzyżowej weryfikacji: **dwa przyrządy niezależne minimalizują ryzyko błędu kalibracji**. Jeżeli IRI-5P pokazuje 9,8% a Gann 9,7%, zaufanie wysokie. Jeżeli pokazują różnice ponad 1% punkt, któryś przyrząd jest rozregulowany.
+Mykoła i Wasyl mają ze sobą dwa przyrządy. Pierwszy: **wilgotnościomierz iglicowy IRI-5P** (firma Chabros International, Polska, kalibrowany dla drewna iglastego i liściastego, głębokość wbicia igły 30 mm, zakres pomiaru 5-50%). Drugi: **wilgotnościomierz pojemnościowy Gann RTU 600** (Niemcy, bez penetracji powierzchni, pomiar głęboki do 40 mm, zakres 4-50%). Dwa przyrządy, bo Pani Ania nauczyła Mykoły wczoraj (wieczorem, przed dzisiejszym pomiarem) zasady krzyżowej weryfikacji: **dwa przyrządy niezależne minimalizują ryzyko błędu kalibracji**. Jeżeli IRI-5P pokazuje 9,8% a Gann 9,7%, zaufanie wysokie. Jeżeli pokazują różnice ponad 1% punkt, któryś przyrząd jest rozregulowany.
 
 Nad strefą pomiaru wisi tablica Eko-Drewno z zapamiętanymi progami docelowymi:
 
@@ -17,7 +17,7 @@ Nad strefą pomiaru wisi tablica Eko-Drewno z zapamiętanymi progami docelowymi:
 - **18% ± 2%** (więźba dachowa, konstrukcje zewnętrzne osłonięte)
 - **20-25%** (drewno świeże po przetarciu, tylko dla konstrukcji tymczasowych)
 
-Wahan (stały pomocnik Rustama od 4 maja, po instruktażu stanowiskowym z m2-w4-l8) pyta: *„Rustam, to w końcu mierzymy igłą czy tym elektrycznym pudełkiem bez igły?"*. Rustam odpowiada: *„Oboma. Igłą IRI-5P najpierw, potem Gannem. Pięć punktów pomiaru: cztery rogi stosu plus środek. Uśrednimy, sprawdzimy odchylenie. Jeżeli wszystkie pięć punktów daje między 8 a 10%, partia do wydania. Jeżeli któryś ponad 10%, idziemy znowu do P6 na dosuszenie."*
+Wasyl (stały pomocnik Mykoły od 4 maja, po instruktażu stanowiskowym z m2-w4-l8) pyta: *„Mykoła, to w końcu mierzymy igłą czy tym elektrycznym pudełkiem bez igły?"*. Mykoła odpowiada: *„Oboma. Igłą IRI-5P najpierw, potem Gannem. Pięć punktów pomiaru: cztery rogi stosu plus środek. Uśrednimy, sprawdzimy odchylenie. Jeżeli wszystkie pięć punktów daje między 8 a 10%, partia do wydania. Jeżeli któryś ponad 10%, idziemy znowu do P6 na dosuszenie."*
 
 ## Cele
 
@@ -166,19 +166,19 @@ Drewno dostosowuje się do średniej EMC w **cyklu rocznym** (zima suchsza, lato
 
 ### Scena pomiaru: sosna na stolarkę meblową, 7:20-7:50
 
-Rustam i Wahan stoją przy komorze P3. Stos sosnowy 32 × 150 × 4000, ułożony w 30 warstw po 6 desek. Partia 4,8 m³ dla „Dąb-Meble" Piaseczno, próg docelowy 8-10%. Program suszenia z poniedziałku 20 kwietnia do wtorku 12 maja (22 dni, cykl wolny dla stolarki meblowej).
+Mykoła i Wasyl stoją przy komorze P3. Stos sosnowy 32 × 150 × 4000, ułożony w 30 warstw po 6 desek. Partia 4,8 m³ dla „Dąb-Meble" Piaseczno, próg docelowy 8-10%. Program suszenia z poniedziałku 20 kwietnia do wtorku 12 maja (22 dni, cykl wolny dla stolarki meblowej).
 
-> **Rustam:** „Wahan, wyciągamy z punktu 1. Przedni lewy róg, warstwa 3 od góry. Weź deskę, najlepiej trzecią od kraju stosu."
+> **Mykoła:** „Wasyl, wyciągamy z punktu 1. Przedni lewy róg, warstwa 3 od góry. Weź deskę, najlepiej trzecią od kraju stosu."
 >
-> **Wahan:** „Trzymam. Deska wyciągnięta, na stole pomiarowym."
+> **Wasyl:** „Trzymam. Deska wyciągnięta, na stole pomiarowym."
 >
-> **Rustam:** „Pierwszy przyrząd: iglicowy IRI-5P. Gatunek wybrany: sosna zwyczajna. Temperatura drewna 16°C (zmierzyłem przed)." Rustam wbija igły, czyta: „Koniec lewy 8,8%. Środek 9,0%. Koniec prawy 8,9%. Średnia 8,9%."
+> **Mykoła:** „Pierwszy przyrząd: iglicowy IRI-5P. Gatunek wybrany: sosna zwyczajna. Temperatura drewna 16°C (zmierzyłem przed)." Mykoła wbija igły, czyta: „Koniec lewy 8,8%. Środek 9,0%. Koniec prawy 8,9%. Średnia 8,9%."
 >
-> **Wahan:** „Teraz drugi, Gann?"
+> **Wasyl:** „Teraz drugi, Gann?"
 >
-> **Rustam:** „Tak." Rustam prowadzi Ganna po desce w trzech miejscach: „Koniec lewy 9,0%. Środek 8,9%. Koniec prawy 9,0%. Średnia 9,0%."
+> **Mykoła:** „Tak." Mykoła prowadzi Ganna po desce w trzech miejscach: „Koniec lewy 9,0%. Środek 8,9%. Koniec prawy 9,0%. Średnia 9,0%."
 >
-> **Rustam** (zapisuje w karcie WSP-002): „Punkt 1: IRI 8,9%, Gann 9,0%. Różnica 0,1% punktu, w akceptacji. Dajemy deskę z powrotem do stosu."
+> **Mykoła** (zapisuje w karcie WSP-002): „Punkt 1: IRI 8,9%, Gann 9,0%. Różnica 0,1% punktu, w akceptacji. Dajemy deskę z powrotem do stosu."
 
 Powtarzają procedurę dla czterech pozostałych punktów:
 
@@ -189,17 +189,17 @@ Powtarzają procedurę dla czterech pozostałych punktów:
 
 Pomiar trwa 30 minut (6 minut na punkt: wyciągnięcie, pomiar oboma przyrządami, odłożenie, notatka).
 
-> **Rustam** (liczy w notesie): „Średnia IRI = (8,9 + 9,2 + 9,8 + 9,5 + 9,3) / 5 = **9,34%**. Średnia Gann = (9,0 + 9,1 + 9,7 + 9,4 + 9,2) / 5 = **9,28%**. Różnica między przyrządami 0,06% punktu, zaufanie wysokie."
+> **Mykoła** (liczy w notesie): „Średnia IRI = (8,9 + 9,2 + 9,8 + 9,5 + 9,3) / 5 = **9,34%**. Średnia Gann = (9,0 + 9,1 + 9,7 + 9,4 + 9,2) / 5 = **9,28%**. Różnica między przyrządami 0,06% punktu, zaufanie wysokie."
 >
-> **Wahan:** „A odchylenie?"
+> **Wasyl:** „A odchylenie?"
 >
-> **Rustam:** „Max − min dla IRI to 9,8 − 8,9 = 0,9% punkt. Dla Ganna 9,7 − 9,0 = 0,7%. Oba poniżej 2%, **klasa A** jednorodności."
+> **Mykoła:** „Max − min dla IRI to 9,8 − 8,9 = 0,9% punkt. Dla Ganna 9,7 − 9,0 = 0,7%. Oba poniżej 2%, **klasa A** jednorodności."
 >
-> **Wahan:** „To wydajemy?"
+> **Wasyl:** „To wydajemy?"
 >
-> **Rustam:** „Średnia 9,3%, w progu 8-10%, odchylenie 0,9% (klasa A). **Decyzja: wydanie**. Wypełniam WSP-002, podpisuję, partia gotowa do wysyłki. Zapisuję na stosie tabliczkę: KT-I, sosna, 9,3% ±0,9%, 4,8 m³, data 2026-05-13, partia nr SO-STM-0513-03."
+> **Mykoła:** „Średnia 9,3%, w progu 8-10%, odchylenie 0,9% (klasa A). **Decyzja: wydanie**. Wypełniam WSP-002, podpisuję, partia gotowa do wysyłki. Zapisuję na stosie tabliczkę: KT-I, sosna, 9,3% ±0,9%, 4,8 m³, data 2026-05-13, partia nr SO-STM-0513-03."
 
-Rustam wypełnia kartę WSP-002: data, typ przyrządu (IRI-5P nr seryjny, Gann RTU 600 nr seryjny), wyniki 5 punktów (oba przyrządy), średnia, odchylenie, decyzja **„wydanie"**, podpis. Karta trafia do teczki partii razem z kartą KLW-001 (klasyfikacja wizualna, podpisana przez Panią Grażynę tydzień temu). Retencja 3 lata.
+Mykoła wypełnia kartę WSP-002: data, typ przyrządu (IRI-5P nr seryjny, Gann RTU 600 nr seryjny), wyniki 5 punktów (oba przyrządy), średnia, odchylenie, decyzja **„wydanie"**, podpis. Karta trafia do teczki partii razem z kartą KLW-001 (klasyfikacja wizualna, podpisana przez Panią Grażynę tydzień temu). Retencja 3 lata.
 
 ### Scena druga: świerk na stolarkę meblową, 8:00-8:30
 
@@ -219,17 +219,17 @@ Pięć punktów pomiaru:
 Średnia Gann: 11,78%.
 Odchylenie IRI: 12,4 − 11,5 = 0,9% punkt. Klasa A jednorodności, ale **średnia poza progiem docelowym** (8-10% dla stolarki meblowej; mamy 11,9%).
 
-> **Rustam:** „Średnia prawie 12%. Klient chce 8-10%. **Za mokro.**"
+> **Mykoła:** „Średnia prawie 12%. Klient chce 8-10%. **Za mokro.**"
 >
-> **Wahan:** „Ale ponad 10%, a nie znacznie. To wydajemy z notatką, czy zawracamy?"
+> **Wasyl:** „Ale ponad 10%, a nie znacznie. To wydajemy z notatką, czy zawracamy?"
 >
-> **Rustam:** „Zawracamy. Wymóg KT-I to 8-10%, tolerancja ±1%. Mamy 11,9%. Poza tolerancją. Klient reklamuje, jeśli meble po 3 miesiącach szuflada się wypacza. **Dosuszanie w P6.**"
+> **Mykoła:** „Zawracamy. Wymóg KT-I to 8-10%, tolerancja ±1%. Mamy 11,9%. Poza tolerancją. Klient reklamuje, jeśli meble po 3 miesiącach szuflada się wypacza. **Dosuszanie w P6.**"
 >
-> **Wahan:** „Ile dni?"
+> **Wasyl:** „Ile dni?"
 >
-> **Rustam:** „P6 to komora uzupełniająca, program lżejszy. Z 12% do 9% to 3% punkty, szacunek 7-10 dni przy 75°C i RH 40%. Pani Ania podpisze dyspozycję. Na razie przenosimy stos do P6 wózkiem, Wahan."
+> **Mykoła:** „P6 to komora uzupełniająca, program lżejszy. Z 12% do 9% to 3% punkty, szacunek 7-10 dni przy 75°C i RH 40%. Pani Ania podpisze dyspozycję. Na razie przenosimy stos do P6 wózkiem, Wasyl."
 
-Rustam wypełnia drugą kartę WSP-002: wynik pomiaru, **decyzja „dosuszenie P6"**, planowany czas 10 dni, kolejny pomiar 2026-05-23. Partia zostaje w kolejce do wydania, klient informowany o opóźnieniu (handlowiec EGIDA dzwoni do „Dąb-Meble" z informacją: partia świerku 6,2 m³ opóźniona o 10 dni, powód techniczny, bez dopłaty; partia sosny 4,8 m³ idzie dzisiaj zgodnie z planem).
+Mykoła wypełnia drugą kartę WSP-002: wynik pomiaru, **decyzja „dosuszenie P6"**, planowany czas 10 dni, kolejny pomiar 2026-05-23. Partia zostaje w kolejce do wydania, klient informowany o opóźnieniu (handlowiec EGIDA dzwoni do „Dąb-Meble" z informacją: partia świerku 6,2 m³ opóźniona o 10 dni, powód techniczny, bez dopłaty; partia sosny 4,8 m³ idzie dzisiaj zgodnie z planem).
 
 ### Decyzje operatora przy pomiarze: diagram
 
@@ -277,7 +277,7 @@ Wilgotność równowagowa (EMC) drewna zależy od temperatury i wilgotności wzg
 
 Decyzja operatora zależy od porównania średniej z progiem i od odchylenia. Wydanie gdy w progu i odchylenie klasy A/B. Dosuszenie P6 (5-14 dni) gdy powyżej progu o 1,5-3%. Pełny drugi cykl gdy powyżej o ponad 3%. Rozdzielenie stosu gdy odchylenie klasy C. Dokumentacja w karcie WSP-002 (retencja 3 lata, dowód przed reklamacjami).
 
-Dzisiaj Rustam nauczył się, że dwie prawie identyczne partie (sosna 4,8 m³ i świerk 6,2 m³ dla tego samego klienta „Dąb-Meble") dały dwie różne decyzje: sosna do wydania (9,3% w progu), świerk do dosuszenia (11,9% powyżej progu). Różnica wynikała z programu suszenia: sosna 22 dni (wolny), świerk 14 dni (średni). Krótszy program, niższy efekt suszenia, drewno mokre. Planowanie kampanii suszarniczej (temat m3-w3-l3) to **świadoma decyzja o długości cyklu** zależnie od gatunku i progu docelowego.
+Dzisiaj Mykoła nauczył się, że dwie prawie identyczne partie (sosna 4,8 m³ i świerk 6,2 m³ dla tego samego klienta „Dąb-Meble") dały dwie różne decyzje: sosna do wydania (9,3% w progu), świerk do dosuszenia (11,9% powyżej progu). Różnica wynikała z programu suszenia: sosna 22 dni (wolny), świerk 14 dni (średni). Krótszy program, niższy efekt suszenia, drewno mokre. Planowanie kampanii suszarniczej (temat m3-w3-l3) to **świadoma decyzja o długości cyklu** zależnie od gatunku i progu docelowego.
 
 W następnej lekcji (m3-w2-l6) przechodzimy do **taśm i pił**: dobór typu taśmy i geometrii zęba do gatunku drewna i sortymentu zamówienia. Stal stellitowa dla dębu suchego, stopowa dla sosny świeżej, trzy podziałki zębów, szerokość taśmy dla P3 vs P1.
 

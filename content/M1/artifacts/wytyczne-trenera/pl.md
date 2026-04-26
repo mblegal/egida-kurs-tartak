@@ -12,27 +12,27 @@ Metaprzewodnik metodyczny dla trenerów Fundacji EGIDA prowadzących Moduł 1 ku
 
 ## 1. Cel dokumentu i odbiorca
 
-Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M1. Nie zastępuje konkretnych „Notatek dla trenera" z każdej lekcji (które są szczegółowe per-lekcja), tylko **spinaje je w ramę organizacyjną**: kalendarz 4 tygodni, logistyka sali, praca z migrantami, ocena, trudne sytuacje.
+Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M1. Nie zastępuje szczegółowych „Notatek dla trenera" z każdej lekcji, tylko **spina je w ramę organizacyjną**: kalendarz czterech tygodni, logistykę sali, pracę z migrantami, ocenę, trudne sytuacje.
 
 **Kto go czyta**: trener (polski specjalista BHP / instruktor branżowy / pracownik tartaku z 5+ lat doświadczenia, wybrany przez EGIDA), ewentualnie zastępca (na wypadek nieobecności głównego), koordynator kursu w biurze fundacji.
 
-**Jak się go używa**: czytasz **raz w całości** przed pierwszym kursem (2-3 h). Potem wracasz punktowo kiedy napotykasz problem („kursant z Gruzji nie chce mówić, co robić?" → sekcja 8). Dokument żyje: jeśli zauważysz, że coś się powtarza a nie jest tu opisane, zgłoś koordynatorowi EGIDA, dopiszemy w kolejnej wersji.
+**Jak się go używa**: przeczytaj **raz w całości** przed pierwszym kursem (2-3 godziny). Potem wracaj punktowo, gdy napotkasz problem („kursantka nie chce się odzywać, co robić?" → sekcja 8). Dokument żyje: jeśli zauważysz, że coś się powtarza, a nie jest tu opisane, zgłoś koordynatorowi EGIDA; dopiszemy w kolejnej wersji.
 
-**Założenia**: masz polski CV w branży drzewnej albo pokrewnej (budownictwo, stolarstwo, konserwacja), znasz BHP na poziomie uprawnień branżowych, mówisz po polsku natywnie, po angielsku / rosyjsku / ukraińsku komunikatywnie (minimum poziom A2 w języku „codziennym"). Nie zakładamy, że jesteś zawodowym pedagogiem – ten dokument dostarcza minimum metodyczne.
+**Założenia**: masz polskie CV w branży drzewnej albo pokrewnej (budownictwo, stolarstwo, konserwacja), znasz BHP na poziomie uprawnień branżowych, mówisz po polsku natywnie, a po angielsku, hiszpańsku lub ukraińsku komunikatywnie (minimum A2 w języku codziennym). Nie zakładamy, że jesteś zawodowym pedagogiem; ten dokument dostarcza minimum metodyczne.
 
 ## 2. Profil docelowego kursanta
 
-**Kto przychodzi na M1**: migrant w Polsce, najczęściej mężczyzna 20-45 lat (ale coraz częściej też kobiety, szczególnie z Ukrainy w administracyjnych stanowiskach pomocniczych), szukający pierwszej pracy w branży drzewnej w Polsce. Narodowości dominujące: **Ukraina (40-50%)**, **Białoruś (15-20%)**, **Gruzja (10%)**, **Mołdawia (5-10%)**, **Wietnam (5-10%)**, inne (Armenia, Kazachstan, Indie, Filipiny, kraje hiszpańskojęzyczne) łącznie 10-15%.
+**Kto przychodzi na M1**: migrant w Polsce, najczęściej mężczyzna 20-45 lat (coraz częściej także kobiety, zwłaszcza Ukrainki w pomocniczych stanowiskach administracyjnych), szukający pierwszej pracy w branży drzewnej. Narodowości dominujące w bieżącej praktyce Fundacji EGIDA: **Ukraina (45-55%)**, **Kolumbia (15-25%)**, pozostałe kraje Ameryki Łacińskiej łącznie 10-20% (głównie **Wenezuela**, **Peru**, **Boliwia**, **Honduras**, **Dominikana**), inne (sporadycznie Białoruś, Gruzja, Armenia) łącznie do 10%. Proporcje latynoskie rosną z miesiąca na miesiąc.
 
-**Znajomość polskiego przy starcie M1**: **A0-A1** (0-20% rozumienia). EN A2-B1. ES średnio brak (poza latynosami). UK naturalnie dla Ukraińców.
+**Znajomość polskiego przy starcie M1**: **A0-A1** (0-20% rozumienia). EN A2-B1 u części grupy. ES jest językiem ojczystym dla większości kursantów latynoskich. UK naturalnie dla Ukraińców.
 
-**Doświadczenie zawodowe**: 30-40% ma jakiekolwiek doświadczenie w obróbce drewna (najczęściej ręczne stolarstwo w ojczyźnie). 60-70% wchodzi „z ulicy" – ostatnio pracowali np. w logistyce magazynowej, budowlance, gastronomii. Dla nich tartak to **pierwszy kontakt** z maszynami wysokoenergetycznymi, hałasem zawodowym i systematyczną dokumentacją BHP.
+**Doświadczenie zawodowe**: 30-40% kursantów ma jakiekolwiek doświadczenie w obróbce drewna (najczęściej ręczne stolarstwo w kraju pochodzenia). 60-70% wchodzi „z ulicy"; pracowali wcześniej w logistyce magazynowej, na budowie, w gastronomii. Dla nich tartak to **pierwszy kontakt** z maszynami wysokoenergetycznymi, hałasem zawodowym i systematyczną dokumentacją BHP.
 
-**Motywacja**: **ekonomiczna** (stawka godzinowa pomocnika tartacznego w Polsce 2026: 28-35 zł brutto, po roku i UDT kat. II WJO = 40-50 zł, po 3 latach doświadczenia = 50-70 zł). Kurs EGIDA daje **certyfikat + rekomendacje** do sieci 40+ tartaków. Migrant rozumie, że **zaliczenie M1 → zatrudnienie w 2-4 tygodnie po kursie**. To silna motywacja.
+**Motywacja**: **ekonomiczna** (stawka godzinowa pomocnika tartacznego w Polsce w 2026 r.: 28-35 zł brutto, po roku i UDT kat. II WJO 40-50 zł, po 3 latach doświadczenia 50-70 zł). Kurs EGIDA daje **certyfikat oraz rekomendacje** do sieci ponad 40 tartaków. Kursant rozumie, że **zaliczenie M1 oznacza zatrudnienie w ciągu 2-4 tygodni po kursie**. To bardzo silna motywacja.
 
-**Bariery**: (1) językowa (A0-A1 polski), (2) kulturowa (odmienne gesty, relacje pracownik-przełożony, akceptacja ryzyka), (3) logistyczna (opieka nad dziećmi, dojazd, koszt zakwaterowania podczas kursu), (4) emocjonalna (trauma wojenna u Ukraińców, Białorusinów, Gruzinów; depresja migracyjna; tęsknota za rodziną).
+**Bariery**: (1) językowa (A0-A1 polski); (2) kulturowa (odmienne gesty, relacje pracownik-przełożony, inny próg akceptacji ryzyka); (3) logistyczna (opieka nad dziećmi, dojazd, koszt zakwaterowania w trakcie kursu); (4) emocjonalna (trauma wojenna u Ukraińców, depresja migracyjna, tęsknota za rodziną, niepewność statusu pobytu u części kursantów latynoskich).
 
-**Ten dokument zakłada, że bariery są realne**, nie postaci. Jeśli planujesz pracować z grupą tak jak z polskimi studentami technikum – **nie zadziała**. Migranci potrzebują **innego tempa** (wolniej), **innej proporcji** teorii do praktyki (więcej pokazu, mniej wykładu), **innej relacji** (bardziej partnerskiej, mniej hierarchicznej niż w polskiej kulturze zawodowej).
+**Ten dokument zakłada, że bariery są realne**, a nie pozorne. Jeśli planujesz pracować z grupą tak jak z polskimi uczniami technikum, **nie zadziała**. Migranci potrzebują **innego tempa** (wolniej), **innej proporcji** teorii do praktyki (więcej pokazu, mniej wykładu) oraz **innej relacji** (bardziej partnerskiej, mniej hierarchicznej niż w polskiej kulturze zawodowej).
 
 ## 3. Harmonogram 4 tygodni M1
 
@@ -75,9 +75,9 @@ Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M1.
 
 **10:00-10:15**: przerwa kawowa. Woda, kawa, herbata, owoce. **NIE drożdżówki** pierwszego tygodnia, bo kursanci głodni po dojazdach kombinują śniadanie w przerwie i potracą uwagę na 3. lekcji. Dopiero w 2. tygodniu, jak już ustabilizują rytm.
 
-**13:00-13:45**: obiad. Fundacja EGIDA **zapewnia ciepły posiłek** (umowa z cateringiem, 35 zł/osoba, w budżecie EFS+). **Waży**: wegetariańska opcja, halal dla muzułmanów (Uzbekistan, Tadżykistan, czasem Indie). Zapytaj kursantów w pierwszym dniu o preferencje, przekaż cateringowi.
+**13:00-13:45**: obiad. Fundacja EGIDA **zapewnia ciepły posiłek** (umowa z cateringiem, koszt w budżecie projektu). **Pamiętaj o preferencjach żywieniowych**: opcja wegetariańska, w razie potrzeby halal lub bez wieprzowiny dla pojedynczych kursantów wyznających islam, dieta bezglutenowa lub bezlaktozowa zgłoszona indywidualnie. Zapytaj kursantów pierwszego dnia o preferencje i przekaż listę cateringowi.
 
-**15:45-16:00**: zamknięcie dnia. 2 minuty podsumowania „co dzisiaj było najważniejsze". Każdy kursant pojedynczo krótkie zdanie. Trener notuje trudne słowa do jutra.
+**15:45-16:00**: zamknięcie dnia. Dwie minuty podsumowania „co dzisiaj było najważniejsze". Każdy kursant pojedynczo wypowiada krótkie zdanie. Trener notuje trudne słowa do omówienia następnego dnia.
 
 ## 4. Przygotowanie sali szkoleniowej
 
@@ -85,16 +85,16 @@ Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M1.
 
 **Minimum 60 m²** dla grupy 8-12 osób. Ustawienie: **stoliki w podkowę** (nie rzędy szkolne), żeby kursanci widzieli siebie nawzajem i trenera. Projektor + ekran (albo telewizor 65"+). Tablica suchościeralna 2 m × 1 m. Flipchart z papierem (będziesz dużo rysował schematy). Drukarka A4 w sąsiednim pomieszczeniu (codziennie drukujesz 30-40 stron).
 
-**Oświetlenie**: naturalne światło dzienne przez okna + dodatkowe LED-y kiedy pochmurno (minimum 500 lux w miejscach kursantów). **Żadnych jarzeniówek migających** – migrena gwarantowana u 30% osób.
+**Oświetlenie**: naturalne światło dzienne przez okna oraz dodatkowe LED-y, gdy pochmurno (minimum 500 lux w miejscach pracy kursantów). **Żadnych migających jarzeniówek**; u 30% osób gwarantują migrenę.
 
-**Wentylacja**: okna otwierane + klimatyzacja latem. Tartak to klimat z kurzem w ubraniach – kursanci przychodzą z resztkami pyłu, dlatego wentylacja jest ważna.
+**Wentylacja**: okna otwierane oraz klimatyzacja latem. Tartak ma klimat z pyłem w ubraniach, kursanci przychodzą z jego resztkami, dlatego wentylacja jest naprawdę ważna.
 
 ### Sala demo / laboratoryjna
 
 **Oddzielna sala (30-40 m²)** wyposażona w:
 
 - **Makiety maszyn**: pilarka taśmowa mała (100-150 cm taśma, nieczynna, tylko do pokazania układu osłon i strefy roboczej), pilarka tarczowa ręczna (stacjonarna), strugarka stołowa.
-- **Zestaw ŚOI demo**: po 12 sztuk każdego elementu (hełm, okulary, rękawice 3 typów – antypoślizgowe, antyprzecięciowe, termiczne; ochronniki wkładkowe i nausznikowe; maski FFP2 i FFP3; obuwie S3 różnych rozmiarów 38-48). ŚOI kupowane na bieżąco, budżet EFS+ zabezpiecza ~8 000 zł na grupę.
+- **Zestaw ŚOI demo**: po 12 sztuk każdego elementu (hełm, okulary, rękawice trzech typów: antypoślizgowe, antyprzecięciowe, termiczne; ochronniki wkładkowe i nausznikowe; maski FFP2 i FFP3; obuwie S3 w rozmiarach 38-48). ŚOI kupowane na bieżąco z budżetu fundacji.
 - **Przekroje drewna**: kłoda sosnowa, dębowa, bukowa – odcinki po 50-80 cm, wysuszone, oznakowane (nazwa gatunku, gęstość, typowe zastosowania). Wada drzewna „z muzeum" – stara kłoda z pęknięciem wzdłużnym, sękami, siniakami – nieruchome eksponaty.
 - **Narzędzia ręczne**: piła ręczna, siekiera, dłuta, pilnik, młotek, taczka, wózek ręczny (pusty do testów podnoszenia). Wszystko z **tabliczkami z opisem** po polsku + piktogramy.
 - **Dokumenty wzorcowe**: 4 dokumenty z T4 l5 (karta stanowiska, rejestr obecności, rejestr drobnych zdarzeń, zgoda na użycie narzędzia) w 4 językach, po 12 kopii każdego. Segregatory z oryginałami + kartkami do ćwiczeń (puste do wypełnienia).
@@ -102,36 +102,36 @@ Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M1.
 
 ### Wycieczka do tartaku partnera
 
-**Obowiązkowa raz w ciągu M1**, zazwyczaj **wtorek T2 albo środa T3**. Fundacja EGIDA ma umowy z ~8 tartakami w promieniu 60 km od głównej siedziby (Lublin, Warszawa, Poznań, Kraków – filie). Wycieczka 3-4 h, kursanci w pełnym ŚOI, oprowadza brygadzista tartaku partnera (zaprzyjaźniony z kursami EGIDA, wie jak mówić wolno i z piktogramami).
+**Obowiązkowa raz w ciągu M1**, zazwyczaj **wtorek T2 lub środa T3**. Fundacja EGIDA współpracuje z tartakami partnerskimi w promieniu 60 km od siedziby. Wycieczka trwa 3-4 godziny, kursanci są w pełnym ŚOI, oprowadza brygadzista tartaku partnerskiego (zaprzyjaźniony z kursami EGIDA, wie, jak mówić wolno i wspierać się piktogramami).
 
-**Logistyka**: transport autokarem albo busami (koszt w budżecie EFS+), ubezpieczenie NNW dla kursantów (standardowe dla kursu, EGIDA ma umowę ramową).
+**Logistyka**: transport autokarem albo busami (koszt w budżecie kursu), ubezpieczenie NNW kursantów (standardowe dla kursu, EGIDA ma umowę ramową).
 
 ## 5. Praca w grupie mieszanej językowo
 
 ### Proporcje w typowej grupie
 
-**Grupa 12-osobowa** typowo: 5-6 Ukraińców, 2-3 Białorusinów, 1-2 Gruzinów/Mołdawian, 1 Wietnamczyk, 1 osoba hiszpańskojęzyczna (Wenezuela, Kolumbia, Meksyk). Czasem 1-2 Polaków (młodych, bez doświadczenia – ci są „mostem" językowym).
+**Grupa 12-osobowa** typowo: 5-7 Ukraińców, 2-3 Kolumbijczyków, 1-3 osoby z innych krajów Ameryki Łacińskiej (Wenezuela, Peru, Boliwia, Honduras, Dominikana), sporadycznie 1 osoba z innego kierunku migracyjnego (np. Białoruś, Gruzja). Czasem dołącza 1-2 młodych Polaków bez doświadczenia w branży, którzy bywają „mostem" językowym dla osób słabiej mówiących po polsku.
 
 ### 4 warstwy komunikacji w sali
 
-1. **Warstwa PL** – twój język natywny, podstawowy. Trener mówi wolno, z przerwami, wypowiada pełne zdania (nie urywane), akcentuje polskie diakrytyki (migranci je słyszą jako dźwięki obce, trzeba je wyraźnie artykułować).
-2. **Warstwa EN** – wszyscy kursanci rozumieją minimum 30% angielskiego. Używasz EN dla **krytycznych pojęć** (np. „emergency", „first aid", „forbidden"). Kiedy widzisz puste twarze po PL, przełączasz na EN i powtarzasz.
-3. **Warstwa ES** – tylko dla latynosów. Nie musisz mówić po hiszpańsku, ale **znaj 20 słów kluczowych** (patrz załącznik A na końcu tego dokumentu) i używaj ich z kursantem hiszpańskojęzycznym.
-4. **Warstwa UK** – dla Ukraińców i częściowo Białorusinów (rozumieją po ukraińsku 70-80%). Jeśli mówisz po rosyjsku (wielu polskich trenerów 50+ umie), **lepiej użyj rosyjskiego niż łamanego ukraińskiego** – Ukraińcy zrozumieją rosyjski, ale przechodząc na ich ukraiński często popełniasz błędy, które im irytują (zwłaszcza po 2022 r. kulturowe tło jest wrażliwe).
+1. **Warstwa PL** – twój język podstawowy. Mów wolno, z przerwami, w pełnych zdaniach (nie urywanych), wyraźnie artykułuj polskie głoski miękkie i samogłoski nosowe (migranci słyszą je jako dźwięki obce i trzeba je dobitnie wymawiać).
+2. **Warstwa EN** – większość kursantów rozumie minimum 30% angielskiego. Używaj EN dla **kluczowych pojęć** („emergency", „first aid", „forbidden"). Kiedy widzisz puste twarze po polsku, przełącz na angielski i powtórz.
+3. **Warstwa ES** – dla większości grupy (Kolumbijczycy i pozostali kursanci z Ameryki Łacińskiej). Nie musisz mówić po hiszpańsku, ale **opanuj 20 słów kluczowych** (zob. załącznik A) i używaj ich z grupą hiszpańskojęzyczną przy każdej okazji. Wraz ze wzrostem proporcji latynosów ten obszar zyskuje na znaczeniu z miesiąca na miesiąc.
+4. **Warstwa UK** – dla Ukraińców. Jeśli mówisz po rosyjsku (wielu polskich trenerów 50+ rosyjski opanowało jeszcze w szkole), **lepiej go nie używaj**. Po 2022 r. tło kulturowe jest bardzo wrażliwe; nawet łamany ukraiński albo prosty polski są lepiej przyjmowane niż rosyjski. Ukraińcy najczęściej rozumieją podstawowy polski po kilku tygodniach, więc używaj polskiego z piktogramami i prostymi zdaniami.
 
-### Strategia tłumaczenia „Peer translation"
+### Strategia tłumaczenia „peer translation"
 
-Nie musisz mówić 4 językami sam. **Używaj peer translation**: najlepszy anglojęzyczny kursant tłumaczy sam trudne fragmenty dla reszty. Zapłać mu „symbolicznie" (drugi obiad, trochę kawy, pierwsze miejsce przy demo). Po 2-3 dniach widzisz kto jest naturalnym „mostem" językowym – najczęściej Ukrainka z 2 rokiem kursu filologii, albo Wenezuelczyk który żył 2 lata w Hiszpanii i EN natywnie.
+Nie musisz sam mówić w czterech językach. **Korzystaj z tłumaczenia koleżeńskiego**: najlepszy anglo- lub hiszpańskojęzyczny kursant tłumaczy trudne fragmenty pozostałym. Doceń go symbolicznie (pierwsze miejsce przy demo, dodatkowy czas na konsultację, ciepłe słowo przed grupą). Po 2-3 dniach widzisz, kto jest naturalnym „mostem" językowym; często bywa to Ukrainka po roku polonistyki w Polsce albo Wenezuelczyk z dobrym angielskim po latach pracy w innym kraju europejskim.
 
-**Uwaga**: peer translation to **nie koło ratunkowe** – sam musisz mówić, rozumieć, kontrolować. Tłumacz pomaga, nie zastępuje.
+**Uwaga**: tłumaczenie koleżeńskie to **nie koło ratunkowe**; sam musisz mówić, rozumieć i kontrolować. Tłumacz pomaga, nie zastępuje trenera.
 
 ### Słowniczek w 4 językach
 
-Fundacja EGIDA drukuje **słowniczek 200-słownikowy** (polski, angielski, hiszpański, ukraiński) dla każdego kursanta, format A6 laminowany, nosimy w kieszeni ŚOI. Koszt 8 zł/szt. w budżecie. Zamów na pierwszą lekcję (dostawa 2 dni od zamówienia).
+Fundacja EGIDA udostępnia kursantom **bezpłatny słowniczek branżowy** (polski, angielski, hiszpański, ukraiński, ok. 200 haseł) w formacie A6, laminowany, do noszenia w kieszeni roboczej. Słowniczki dostarcza koordynator kursu na pierwszą lekcję; nie kupuje ich kursant. Jeśli zabraknie egzemplarzy, polecaj darmowe źródła zastępcze: Google Translate, dwujęzyczne słowniki online, materiały kursowe rozsyłane mailem.
 
 ### Unikaj „tłumaczenia symultanicznego"
 
-**Nie mów po polsku i równocześnie po angielsku**. To dezorganizuje – kursanci słuchają jednego języka i gubią drugi. Mów po polsku do końca jednostki (np. całe zdanie), potem po angielsku. Albo odwrotnie. **Jedna mowa naraz**.
+**Nie mów po polsku i równocześnie po angielsku**. To dezorganizuje uwagę: kursanci słuchają jednego języka i gubią drugi. Wypowiedz całe zdanie po polsku, dopiero potem to samo po angielsku albo hiszpańsku. **Jeden język naraz**.
 
 ## 6. Jak prowadzić 120-minutową lekcję
 
@@ -144,22 +144,22 @@ Każda z 32 lekcji M1 ma w swoich „Notatkach dla trenera" konkretny rytm 120 m
 | **0-10 min** | Otwarcie | Pytanie prowokacyjne (np. „Kto z was widział wypadek w poprzedniej pracy?"). Zbieranie odpowiedzi. Most do lekcji dzisiejszej. |
 | **10-30 min** | Teoria 1 | Główny koncept lekcji (np. 6 zagrożeń). Prezentacja z obrazami / wideo. |
 | **30-35 min** | Przerwa-mikro | 5 min, kursanci wstają, chodzą, piją wodę. Nie omawiaj – niech odpoczną. |
-| **35-65 min** | Teoria 2 + przykład | Rozwinięcie konceptu + case z życia. Szczególnie **case migranta** (nie polskiego pracownika – migranci identyfikują się lepiej z własnym obrazem). |
+| **35-65 min** | Teoria 2 + przykład | Rozwinięcie zagadnienia plus przypadek z życia. Najlepiej **przypadek migranta** (nie polskiego pracownika); migranci łatwiej utożsamiają się z bohaterem podobnym do siebie. |
 | **65-75 min** | Quiz wstępny | 3-5 pytań zamkniętych na tablicy, kursanci głosują kartkami A/B/C/D. Dyskusja nad odpowiedziami. Przygotowanie do testu. |
-| **75-105 min** | Ćwiczenie praktyczne | **Kluczowe 30 min**. Ćwiczenie w parach albo na demo. Bez tego lekcja jest martwa. |
-| **105-120 min** | Zamknięcie + klucze | Kluczowe terminy (głośno, chórem, powtarzamy). Co mówimy jutro. 2 minuty na pytania. |
+| **75-105 min** | Ćwiczenie praktyczne | **Kluczowe 30 minut**. Ćwiczenie w parach albo na stanowisku demo. Bez niego lekcja jest martwa. |
+| **105-120 min** | Zamknięcie i klucze | Kluczowe terminy powtarzane głośno, chórem. Zapowiedź jutrzejszej lekcji. Dwie minuty na pytania. |
 
 ### Typowe pułapki pedagogiczne
 
-**Pułapka 1 – za dużo teorii, za mało praktyki**. Polski trener z wykształceniem BHP ma tendencję do **wykładania 60-70 minut**. Dla migranta to **koszmar**: po 30 min słuchania w obcym języku jest wyłączony. **Reguła**: maksimum 20 min teorii pod rząd, potem coś aktywnego (quiz, ćwiczenie, pokaz demo, pytanie grupowe).
+**Pułapka 1: za dużo teorii, za mało praktyki**. Polski trener z wykształceniem BHP ma tendencję do **wykładu po 60-70 minut**. Dla migranta to **koszmar**: po 30 minutach słuchania w obcym języku jest wyłączony. **Zasada**: maksimum 20 minut teorii pod rząd, a potem coś aktywnego (quiz, ćwiczenie, pokaz demo, pytanie grupowe).
 
-**Pułapka 2 – zakładanie że „wszyscy rozumieją bo kiwają głową"**. Kursant z Gruzji kiwa głową **z grzeczności kulturowej** (w Gruzji kiwanie głową = „słucham ciebie", nie „rozumiem"). Sprawdź przez pytanie otwarte: „Miszka, powiedz mi w 3 zdaniach, co to jest „czerwone stanowisko"". Jeśli odpowie – rozumie. Jeśli zagubił się – nie rozumie, wracaj.
+**Pułapka 2: zakładanie, że „wszyscy rozumieją, bo kiwają głową"**. W wielu kulturach (zwłaszcza latynoskich i wschodnioeuropejskich) kiwanie głową oznacza „słucham cię", a nie „rozumiem". Sprawdzaj rozumienie przez pytanie otwarte: „Carlos, powiedz mi w trzech zdaniach, co to jest czerwone stanowisko". Jeśli odpowie, rozumie; jeśli się gubi, wracaj do tematu.
 
-**Pułapka 3 – zawstydzanie migranta za błędy wymowy**. Kursant z Wietnamu mówi „KLODA" zamiast „KŁODA". Trener poprawia, Wietnamczyk się uśmiecha z zażenowaniem, następnym razem **nie mówi nic** bo boi się kolejnej korekty. **Reguła**: nigdy nie poprawiaj wymowy publicznie przy pierwszym kontakcie. Dopiero w T3 albo T4, kiedy relacja jest ustabilizowana. W T1 – tylko dużo chwalenia prób. „Dobrze Linh, tak mówisz kłoda, spróbuj jeszcze raz – KŁODA, ł jak w water".
+**Pułapka 3: zawstydzanie kursanta za błędy wymowy**. Kursant mówi „kloda" zamiast „kłoda" albo „pila" zamiast „piła". Trener poprawia, kursant uśmiecha się z zażenowaniem i przy następnej okazji **nie mówi nic**, bo boi się kolejnej korekty. **Zasada**: nigdy nie poprawiaj wymowy publicznie w pierwszym kontakcie. Dopiero w T3 albo T4, kiedy relacja jest ustabilizowana. W T1 chwal próby: „Dobrze, Diego, mówisz kłoda; spróbuj jeszcze raz, KŁODA, ł jak angielskie w w water".
 
-**Pułapka 4 – ignorowanie tych wycofanych**. W grupie 12-os jest zwykle 2-3 osób, które **nigdy nie odzywają się** bez pytania. To są zwykle osoby z **traumą wojenną** (Ukraina 2022+, Białoruś 2020+, Gruzja 2008) albo **depresją migracyjną**. Wywoływanie ich do odpowiedzi publicznej **pogłębia wycofanie**. **Reguła**: w pierwszym tygodniu **nie wywołuj**. Podejdź w przerwie, zapytaj „jak się masz?", spróbuj krótką indywidualną rozmowę. W drugim tygodniu, kiedy relacja się nawiąże, wciągniesz do zadań grupowych (ale nigdy sam na tablicy). W trzecim tygodniu zaczną mówić.
+**Pułapka 4: ignorowanie osób wycofanych**. W grupie 12-osobowej zwykle 2-3 osoby **nigdy nie odzywają się** bez pytania. Często są to osoby z **traumą wojenną** (Ukraina od 2022 r.), **przemocą rodzinną w kraju pochodzenia** (część kursantek latynoskich) albo **depresją migracyjną**. Wywoływanie ich do odpowiedzi przed całą grupą **pogłębia wycofanie**. **Zasada**: w pierwszym tygodniu **nie wywołuj publicznie**. Podejdź w przerwie, zapytaj „jak się masz?", odbądź krótką indywidualną rozmowę. W drugim tygodniu, kiedy relacja okrzepnie, włączaj do zadań grupowych (ale nigdy samodzielnie do tablicy). W trzecim tygodniu zaczną mówić same.
 
-**Pułapka 5 – „tylko teoria dla migranta, bo na praktyce sobie poradzi"**. Najgorsze myślenie. Migrant w tartaku **uczy się praktyki od kolegów operatorów**, którzy mogą być zwarci, niechętni do pomocy, agresywni. Twój kurs to **jedyne miejsce**, gdzie migrant dostaje **dobrze wyłożoną praktykę**. Poświęcaj **50%+ czasu na ćwiczenia fizyczne** (pokazy, symulacje, role-play).
+**Pułapka 5: „dla migranta wystarczy teoria, na praktyce sobie poradzi"**. Najgorsze myślenie. Migrant w tartaku **uczy się praktyki od kolegów operatorów**, którzy bywają niechętni do pomocy albo wprost wrogo nastawieni. Twój kurs to **jedyne miejsce**, gdzie migrant dostaje **dobrze podaną praktykę**. Przeznacz **co najmniej 50% czasu na ćwiczenia fizyczne** (pokazy, symulacje, scenki).
 
 ## 7. Interpretacja wyników testu końcowego l8
 
@@ -195,7 +195,7 @@ Oblicz **% w każdym obszarze**. Jeśli kursant ma w T1 90% ale w T4 50% – **k
 
 ### Dokumentacja testu
 
-Każdy test ze wszystkimi częściami **przechowujesz 5 lat** (Rozp. Min. Pracy 10.12.2018 o dokumentacji pracowniczej). Skanujesz do PDF, wrzucasz na dysk EGIDA (Google Drive fundacji, katalog `/kursy/tartak/M1/[numer grupy]/`). Oryginały papierowe w segregatorze w szafie biura. W razie kontroli PIP / audytu EFS+ musisz pokazać testy.
+Każdy test ze wszystkimi częściami **przechowujesz przez 5 lat** (Rozp. Min. Pracy z 10.12.2018 r. o dokumentacji pracowniczej). Skanujesz do PDF, wgrywasz na dysk fundacji (katalog `/kursy/tartak/M1/[numer grupy]/`). Oryginały papierowe trzymasz w segregatorze w szafie biura. W razie kontroli PIP albo audytu finansującego (jeśli kurs jest objęty dofinansowaniem) musisz pokazać testy.
 
 ## 8. Trudne sytuacje i jak je obsłużyć
 
@@ -204,20 +204,20 @@ Każdy test ze wszystkimi częściami **przechowujesz 5 lat** (Rozp. Min. Pracy 
 **Pierwsze 3 dni** to normalne. Jeśli **po 5 dniach nadal** – prawdziwy problem językowy.
 
 **Diagnoza**:
-- Sprawdź poziom polskiego (tablica z 30 słów z T4 l4 – rozumie ile?).
+- Sprawdź poziom polskiego (tablica z 30 słów z T4 l4: ile rozumie?).
 - Sprawdź poziom angielskiego.
-- Czy jest możliwość komunikacji w jego języku natywnym? (masz peer translator w grupie?).
+- Czy w grupie jest ktoś, kto może komunikować się z nim w jego języku ojczystym (peer translator)?
 
 **Rozwiązanie**:
-- **Jeśli A0 polski + A0 angielski** (zdarza się z Wietnamczykami, niektórzy uchodźcy) – **kurs się dla niego nie nadaje teraz**. Proponujesz 2-miesięczny kurs podstaw polskiego (EGIDA prowadzi, koszt w EFS+), potem wraca.
-- **Jeśli A0 polski + A2 angielski** – wzmocnij peer translation. Daj mu partnera mówiącego po angielsku. Po 2 tygodniach się poprawi.
-- **Jeśli strach językowy, nie faktyczny brak** (kursant rozumie, ale boi się mówić) – wzmacnianie. Daj mu 5-minutowe indywidualne spotkania codziennie przez tydzień. Chwal za każdą próbę. Po 10 dniach odważy się.
+- **A0 polski + A0 angielski** (zdarza się rzadko, np. u nowo przybyłych z głębi Ameryki Łacińskiej bez wcześniejszej migracji) – **kurs w obecnej formie nie zadziała**. Zaproponuj wcześniej kurs podstaw polskiego prowadzony przez Fundację EGIDA, a potem powrót na M1.
+- **A0 polski + A2 angielski lub A2 hiszpański (gdy w grupie są inni latynosi)** – wzmocnij peer translation. Daj kursantowi partnera, z którym może komunikować się po angielsku albo hiszpańsku. Po dwóch tygodniach sytuacja się poprawi.
+- **Strach językowy, nie faktyczny brak**: kursant rozumie, ale boi się mówić. Daj mu krótkie, codzienne, 5-minutowe spotkania indywidualne przez tydzień. Chwal każdą próbę. Po 10 dniach odważy się.
 
 ### Sytuacja 2: kursant agresywny (krzyczy, przeszkadza, obwinia)
 
 **Kontekst**: zwykle objaw PTSD (weteran wojny) albo frustracji migracyjnej (miesiące bez pracy, strata oszczędności).
 
-**Pierwszy krok**: **nie eskaluj**. Nie krzycz z powrotem. Obniż głos. Powiedz spokojnie „Wacław, widzę że coś cię denerwuje. Po lekcji porozmawiamy". Kontynuuj lekcję z innym tematem.
+**Pierwszy krok**: **nie eskaluj**. Nie krzycz z powrotem. Obniż głos. Powiedz spokojnie „Mychajło, widzę że coś cię denerwuje. Po lekcji porozmawiamy". Kontynuuj lekcję z innym tematem.
 
 **Przerwa lub koniec lekcji**: rozmowa 1:1 w pokoju obok. Pytanie otwarte: „Co cię denerwuje? Jak mogę pomóc?". Słuchasz **15-30 minut** bez przerywania. Zazwyczaj sam się rozładuje.
 
@@ -227,13 +227,13 @@ Każdy test ze wszystkimi częściami **przechowujesz 5 lat** (Rozp. Min. Pracy 
 
 **Pierwsze 3 dni obserwuj bez działania**. Sprawdź czy przychodzi na zajęcia (obecność OK?), czy coś je (obiad?), czy ma kontakt z innymi w przerwie.
 
-**Jeśli po 5 dniach nadal milczy**: **krótka rozmowa w przerwie, tylko z tobą, w pokoju obok**. Pytanie: „Jak się masz? Wszystko OK? Coś cię przyciska?". Najczęściej się dowiesz, że:
-- zmarła bliska osoba niedawno
-- rodzina w Ukrainie / Białorusi w niebezpieczeństwie
-- straty finansowe (ktoś okradł, praca się nie układa)
-- depresja kliniczna (objawy: bezsenność, brak apetytu, płacz)
+**Jeśli po 5 dniach nadal milczy**, przeprowadź **krótką rozmowę w przerwie, tylko we dwoje, w pokoju obok**. Pytanie: „Jak się masz? Wszystko w porządku? Czy coś cię przygnębia?". Najczęściej dowiesz się o:
+- niedawnej śmierci kogoś bliskiego;
+- zagrożeniu rodziny w Ukrainie albo w kraju pochodzenia;
+- stratach finansowych (kradzież, praca się nie układa);
+- depresji klinicznej (objawy: bezsenność, brak apetytu, częsty płacz).
 
-**Rozwiązanie**: **nie próbuj być psychoterapeutą**. Fundacja EGIDA ma kontakt z **polskim psychologiem mówiącym po ukraińsku / rosyjsku / angielsku** (umowa ramowa, 2-3 sesje w budżecie każdego kursu na osobę). **Przekaż kursantowi numer do psychologa**, powiedz że spotkanie jest bezpłatne, EGIDA płaci. Zachęć do kontaktu. Jeśli odmówi, nie wymuszaj – ale informuj koordynatora EGIDA, żebyśmy śledzili.
+**Rozwiązanie**: **nie próbuj być psychoterapeutą**. Fundacja EGIDA współpracuje z **polskim psychologiem mówiącym po ukraińsku, hiszpańsku i angielsku** (kilka sesji w ramach wsparcia kursanta, bezpłatnie dla uczestnika). **Przekaż kursantowi numer do psychologa** i powiedz, że spotkanie jest bezpłatne, opłaca je fundacja. Zachęć do kontaktu. Jeśli odmówi, nie wymuszaj, ale poinformuj koordynatora EGIDA, żebyście dalej śledzili sytuację.
 
 **Kursant kontynuuje kurs normalnie**. Nie zwalniamy go z zajęć – ale nie wywołujemy publicznie, nie stawiamy na tablicy, pozwalamy siedzieć z tyłu. Po 2-3 tygodniach albo się otworzy, albo zakończy na lekcji indywidualnej.
 
@@ -247,16 +247,16 @@ Każdy test ze wszystkimi częściami **przechowujesz 5 lat** (Rozp. Min. Pracy 
 
 **Zawsze**: zgłoś **natychmiast** koordynatorowi EGIDA telefonicznie + pisemnie w ciągu 24 h. Fundacja ma ubezpieczenie NNW dla kursantów + ubezpieczenie OC dla trenera.
 
-### Sytuacja 5: grupa niekompatybilna (konflikt między narodowościami)
+### Sytuacja 5: grupa niespójna (konflikty między narodowościami)
 
-**Przykład**: Ukraińcy + Rosjanie w jednej grupie (rzadkie po 2022, ale zdarza się). Albo Gruzini + Ormianie (napięcia historyczne). Albo Wietnamczyk w grupie po rosyjsku mówiącej (izolacja).
+**Przykład**: Ukraińcy oraz osoba mówiąca po rosyjsku w jednej grupie (rzadkie po 2022 r., ale się zdarza). Możliwe też napięcia w grupie latynoskiej między osobami z różnych krajów (np. Wenezuela vs Kolumbia mają trudną historię migracyjną), choć w praktyce są one łagodne i szybko mijają. Innym scenariuszem jest izolacja jednej osoby w grupie, która komunikuje się głównie w innym języku niż reszta.
 
-**Prewencja**: koordynator EGIDA **przy rekrutacji nie miesza** grup jeśli widzi potencjał konfliktu. Ale czasem się zdarzy.
+**Prewencja**: koordynator EGIDA **przy rekrutacji nie łączy** osób, jeśli widzi potencjał konfliktu. Czasem jednak nie da się tego uniknąć.
 
 **Rozwiązanie**:
-1. **Nie komentuj polityki** na zajęciach. Nigdy.
-2. **Mieszaj pary ćwiczeniowe losowo** (ciągniemy liczby z koszyka). Po 3-4 dniach napięcia się łagodzą przez wspólną pracę.
-3. **Jeśli trwała wrogość**: przekaż koordynatorowi, może być konieczne przeniesienie 1-2 osób do innej grupy (druga tura kursu za 2 tygodnie).
+1. **Nigdy nie komentuj polityki** na zajęciach.
+2. **Losuj pary ćwiczeniowe** (np. ciągnięcie numerków z kapelusza). Po 3-4 dniach napięcia łagodzi wspólna praca.
+3. **Jeśli wrogość się utrzymuje**, zgłoś koordynatorowi; może być konieczne przeniesienie 1-2 osób do innej grupy (kolejna tura kursu).
 
 ## 9. Ocena gotowości kursanta do M2
 
@@ -268,10 +268,10 @@ Jeśli zdał test – wiedza OK. Jak powyżej.
 
 ### Wymiar 2: kompetencje miękkie obserwowane w ciągu 4 tygodni
 
-- **Punktualność**: czy przychodził na czas? Spóźnienia >15 min więcej niż 3 razy = problem (w tartaku brygadzista nie wybacza).
-- **Koleżeństwo**: czy pomaga innym czy konkuruje agresywnie?
-- **Uważność**: czy reagował na gesty w ćwiczeniach? Czy pamięta polskie słowa z poprzedniej lekcji po tygodniu?
-- **Inicjatywa w zgłoszeniach**: czy zgłaszał sam drobne sprawy (np. „pan trenerze, lampa przy moim stanowisku miga") albo ignorował?
+- **Punktualność**: czy przychodzi na czas? Spóźnienia powyżej 15 minut, więcej niż 3 razy, to już problem (w tartaku brygadzista nie wybacza).
+- **Koleżeństwo**: czy pomaga innym, czy rywalizuje agresywnie?
+- **Uważność**: czy reaguje na gesty podczas ćwiczeń? Czy pamięta polskie słowa z poprzedniej lekcji po tygodniu?
+- **Inicjatywa w zgłoszeniach**: czy z własnej inicjatywy zgłasza drobne sprawy („panie trenerze, lampa przy moim stanowisku miga"), czy je ignoruje?
 - **Higiena osobista i dbałość o stanowisko**: czy zostawia po sobie porządek?
 
 **Jeśli test OK + kompetencje OK** → rekomendacja M2 + preferowana ścieżka (operator / magazynier / układacz / sortownia / kontrola).
@@ -293,7 +293,7 @@ Po ostatniej indywidualnej rozmowie zapisujesz **formularz rekomendacyjny** (sza
 - Rekomendowana ścieżka M2
 - Rekomendacja do zatrudnienia u partnera EGIDA: TAK/WARUNKOWO/NIE (+ uzasadnienie)
 
-Ten formularz wędruje do koordynatora, który koordynuje dalszą ścieżkę. **Twój podpis = twoja odpowiedzialność zawodowa**. Jeśli napiszesz „rekomenduję bezwarunkowo" a kursant po miesiącu traci rękę na pilarce – PIP i sąd sprawdzą, jak oceniłeś. Piszesz prawdę.
+Formularz trafia do koordynatora, który prowadzi dalszą ścieżkę kursanta. **Twój podpis to twoja odpowiedzialność zawodowa**. Jeśli napiszesz „rekomenduję bezwarunkowo", a kursant po miesiącu straci rękę na pilarce, PIP i sąd sprawdzą, jak go oceniłeś. Pisz prawdę.
 
 ## 10. Logistyka i kontakt
 
@@ -301,11 +301,13 @@ Ten formularz wędruje do koordynatora, który koordynuje dalszą ścieżkę. **
 
 **Przed pierwszym dniem** (zamów 2-3 dni wcześniej u koordynatora):
 
-- **Zeszyt kursanta M1** (80 stron A4, okładka z logo EGIDA, w środku miejsca do notatek + miniaturki 32 lekcji z pustymi polami na kluczowe terminy). Koszt 15 zł/szt.
-- **Słowniczek 4-językowy A6 laminowany** (200 słów branżowych, EN/ES/UK/PL). 8 zł/szt.
-- **Karta „12 zasad M1" A4 laminowana** (z l7, jako ściągawka). 5 zł/szt.
-- **Formularze 4 dokumentów T4 l5** (puste do ćwiczeń) – po 4 kopie każdego, razem 16 sztuk/kursant. Druk w biurze EGIDA.
-- **Certyfikat ukończenia M1** (po zdaniu testu l8) – A4 z ramą, pieczęć EGIDA, podpis prezesa + trenera. 8 zł/szt.
+- **Zeszyt kursanta M1** (80 stron A4, okładka z logo EGIDA, w środku miejsce na notatki oraz miniatury 32 lekcji z pustymi polami na kluczowe terminy).
+- **Słowniczek czterojęzyczny A6, laminowany** (200 słów branżowych, EN/ES/UK/PL).
+- **Karta „12 zasad M1" A4, laminowana** (z l7, jako ściągawka).
+- **Formularze 4 dokumentów z T4 l5** (puste do ćwiczeń), po 4 kopie każdego, razem 16 sztuk na kursanta. Druk w biurze fundacji.
+- **Certyfikat ukończenia M1** (po zdaniu testu z l8): A4 z ramą, pieczęcią EGIDA, podpisem prezesa i trenera.
+
+Wszystkie materiały dla kursanta są **bezpłatne**; finansuje je fundacja w ramach kosztów kursu, nie kupuje ich uczestnik.
 
 ### Sprzęt i demo
 
@@ -316,17 +318,17 @@ Lista w sekcji 4. Zamów u koordynatora logistyki EGIDA 4 tygodnie przed kursem.
 - **Koordynator kursu**: imię z góry od koordynatora EGIDA, tel. komórka 24/7 w czasie trwania kursu.
 - **Psycholog**: imię + nr (2-3 sesje/kursant w budżecie).
 - **Tłumacz ustny awaryjny**: rzadko potrzebny, ale dostępny (EN/UK/RU/ES – fundacja ma listę).
-- **Kadry EGIDA** (pytania prawne / EFS+): godziny 8:00-16:00 pon-pt.
+- **Kadry fundacji** (pytania prawne, kwestie projektowe i administracyjne): pon.-pt. w godz. 8:00-16:00.
 - **Prezes fundacji**: tylko w sytuacjach krytycznych (wypadek ciężki, skandal, media).
 
 ### Dokumentacja końcowa kursu
 
 Po zakończeniu M1 (piątek 4. tygodnia) **w ciągu 7 dni**:
 
-- Oddajesz skany testów do Google Drive EGIDA.
-- Wypełniasz formularz rekomendacyjny per kursant (12 szt.).
-- Raport końcowy z kursu (szablon 2 strony, jakie problemy, jakie sukcesy, sugestie do następnej grupy). Trafia do koordynatora i do zarządu fundacji (analizujemy co poprawić).
-- Obliczenie wynagrodzenia (stawka godzinowa trenera × 72 h salowe + przygotowanie + dokumentacja = ~5 000-7 000 zł brutto za kurs, wypłacane 10 dni po zakończeniu).
+- Wgraj skany testów na dysk fundacji.
+- Wypełnij formularz rekomendacyjny dla każdego kursanta (12 sztuk).
+- Sporządź raport końcowy z kursu (szablon dwustronicowy: jakie problemy, jakie sukcesy, sugestie do następnej grupy). Trafia do koordynatora i do zarządu fundacji.
+- Rozlicz wynagrodzenie (stawka godzinowa trenera × 72 godziny salowe plus przygotowanie i dokumentacja; szczegóły w umowie z fundacją).
 
 ## 11. Załącznik A: słowniczek 20 najważniejszych słów w EN/ES/UK
 
@@ -355,7 +357,7 @@ Dla trenera polskojęzycznego, który nie mówi ES/UK. Minimum funkcjonalne do k
 | odpowiedź | answer | respuesta | відповідь |
 | koniec | end / finish | fin | кінець |
 
-Wydrukuj tę tabelę laminowaną, nosij w portfelu, w razie potrzeby pokaż kursantowi.
+Wydrukuj tę tabelę w wersji laminowanej, noś w portfelu, w razie potrzeby pokaż kursantowi.
 
 ## 12. Załącznik B: typowy przebieg 1. dnia kursu (checklista)
 
@@ -370,14 +372,14 @@ Najtrudniejszy dzień w całym M1. Przyjaźń grupy lub katastrofa decydują si�
 
 **Przyjmowanie kursantów (7:45-8:00)**:
 - [ ] Przywitanie w drzwiach, uścisk dłoni, „dzień dobry" / „good morning" / „bienvenido" / „добрий день" w zależności od osoby.
-- [ ] Sprawdzenie obecności w rejestrze (prosisz o pokazanie dokumentu – paszport / karta pobytu – ale bardzo kulturalnie, „tylko żebym sprawdził że wszystko się zgadza").
+- [ ] Sprawdzenie obecności w rejestrze (poproś o pokazanie dokumentu, paszportu albo karty pobytu, w sposób uprzejmy: „tylko żebym sprawdził, że wszystko się zgadza").
 - [ ] Informacja o toalecie, szatni, pomieszczeniu przerw.
 
 **L1 – początek (8:00-8:15)**:
 - [ ] Przedstawienie siebie w 3 językach (PL, EN, EN tłumaczone do ES/UK z prostymi słowami).
 - [ ] Każdy kursant mówi swoje imię + 1 zdanie „skąd jestem, po co tu jestem" – wolno, maksimum 20 sek każdy = 4 min razem.
 - [ ] Wprowadzenie do 4 tygodni M1 – krótki harmonogram, co się stanie.
-- [ ] Pierwsze 3 reguły sali: (1) telefony na wyciszone, (2) brak alkoholu / narkotyków, (3) wzajemny szacunek. Podkreślenie, że **łamanie = opuszczenie kursu bez zwrotu**.
+- [ ] Pierwsze trzy reguły sali: (1) telefony wyciszone, (2) zakaz alkoholu i narkotyków, (3) wzajemny szacunek. Podkreśl, że **rażące naruszenie zasad oznacza skreślenie z listy uczestników bez prawa kontynuacji w bieżącej edycji**.
 - [ ] Start L1 zgodnie z „Notatkami dla trenera" z lekcji (m1-w1-l1).
 
 **Koniec dnia (15:45-16:00)**:

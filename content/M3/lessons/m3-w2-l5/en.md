@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Wednesday, 2026-05-13, 7:20. On the site of the EGIDA drying chambers (the zone behind the band-saw hall, five Brunner-Hildebrand chambers marked P1 to P6 plus one vacuum chamber P7). Rustam and Wahan are taking pine out of P3 after a three-week drying cycle. The batch: 4.8 m³ of Scots pine from the Drawno Forest District, cross-section 32 × 150 mm, length 4 m, **ordered for the joinery firm "Dąb-Meble" from Piaseczno** (mid-range residential furniture: tables, wardrobes, chests of drawers). The order requires a target moisture content of **8-10%** (furniture joinery, a heated interior). The batch must be measured before release, with a record entered on the WSP-002 card (stack moisture content, 3-year retention).
+Wednesday, 2026-05-13, 7:20. On the site of the EGIDA drying chambers (the zone behind the band-saw hall, five Brunner-Hildebrand chambers marked P1 to P6 plus one vacuum chamber P7). Mykoła and Wasyl are taking pine out of P3 after a three-week drying cycle. The batch: 4.8 m³ of Scots pine from the Drawno Forest District, cross-section 32 × 150 mm, length 4 m, **ordered for the joinery firm "Dąb-Meble" from Piaseczno** (mid-range residential furniture: tables, wardrobes, chests of drawers). The order requires a target moisture content of **8-10%** (furniture joinery, a heated interior). The batch must be measured before release, with a record entered on the WSP-002 card (stack moisture content, 3-year retention).
 
-Rustam and Wahan have two instruments with them. The first: a **pin moisture meter IRI-5P** (Chabros International, Poland, calibrated for softwoods and hardwoods, pin driving depth 30 mm, measurement range 5-50%). The second: a **pinless moisture meter Gann RTU 600** (Germany, no surface penetration, deep measurement down to 40 mm, range 4-50%). Two instruments, because Ms. Ania taught Rustam yesterday (in the evening, before today's measurement) the principle of cross-verification: **two independent instruments minimise the risk of a calibration error**. If IRI-5P shows 9.8% and the Gann shows 9.7%, confidence is high. If they show differences over 1 percentage point, one of the instruments is out of calibration.
+Mykoła and Wasyl have two instruments with them. The first: a **pin moisture meter IRI-5P** (Chabros International, Poland, calibrated for softwoods and hardwoods, pin driving depth 30 mm, measurement range 5-50%). The second: a **pinless moisture meter Gann RTU 600** (Germany, no surface penetration, deep measurement down to 40 mm, range 4-50%). Two instruments, because Ms. Ania taught Mykoła yesterday (in the evening, before today's measurement) the principle of cross-verification: **two independent instruments minimise the risk of a calibration error**. If IRI-5P shows 9.8% and the Gann shows 9.7%, confidence is high. If they show differences over 1 percentage point, one of the instruments is out of calibration.
 
 Above the measurement zone hangs an Eko-Drewno board with the remembered target thresholds:
 
@@ -17,7 +17,7 @@ Above the measurement zone hangs an Eko-Drewno board with the remembered target 
 - **18% ± 2%** (roof trusses, sheltered external structures)
 - **20-25%** (fresh wood after breakdown, only for temporary structures)
 
-Wahan (Rustam's permanent helper since 4 May, after the workstation induction from m2-w4-l8) asks: *"Rustam, so in the end are we measuring with a pin or with this electric box without a pin?"*. Rustam replies: *"Both. The IRI-5P pin meter first, then the Gann. Five measurement points: four corners of the stack plus the centre. We will average, check the deviation. If all five points fall between 8 and 10%, the batch is released. If any is above 10%, we go back to P6 for re-drying."*
+Wasyl (Mykoła's permanent helper since 4 May, after the workstation induction from m2-w4-l8) asks: *"Mykoła, so in the end are we measuring with a pin or with this electric box without a pin?"*. Mykoła replies: *"Both. The IRI-5P pin meter first, then the Gann. Five measurement points: four corners of the stack plus the centre. We will average, check the deviation. If all five points fall between 8 and 10%, the batch is released. If any is above 10%, we go back to P6 for re-drying."*
 
 ## Objectives
 
@@ -166,19 +166,19 @@ Wood adjusts to the average EMC in an **annual cycle** (drier winter, wetter sum
 
 ### Measurement scene: pine for furniture joinery, 7:20-7:50
 
-Rustam and Wahan stand at chamber P3. A pine stack 32 × 150 × 4000, laid up in 30 layers of 6 boards. A 4.8 m³ batch for "Dąb-Meble" Piaseczno, target threshold 8-10%. Drying programme from Monday 20 April to Tuesday 12 May (22 days, slow cycle for furniture joinery).
+Mykoła and Wasyl stand at chamber P3. A pine stack 32 × 150 × 4000, laid up in 30 layers of 6 boards. A 4.8 m³ batch for "Dąb-Meble" Piaseczno, target threshold 8-10%. Drying programme from Monday 20 April to Tuesday 12 May (22 days, slow cycle for furniture joinery).
 
-> **Rustam:** "Wahan, we are pulling from point 1. Front-left corner, layer 3 from the top. Take a board, ideally the third from the edge of the stack."
+> **Mykoła:** "Wasyl, we are pulling from point 1. Front-left corner, layer 3 from the top. Take a board, ideally the third from the edge of the stack."
 >
-> **Wahan:** "Got it. Board pulled out, on the measurement table."
+> **Wasyl:** "Got it. Board pulled out, on the measurement table."
 >
-> **Rustam:** "First instrument: pin meter IRI-5P. Species selected: Scots pine. Wood temperature 16°C (I measured earlier)." Rustam drives in the pins, reads: "Left end 8.8%. Centre 9.0%. Right end 8.9%. Average 8.9%."
+> **Mykoła:** "First instrument: pin meter IRI-5P. Species selected: Scots pine. Wood temperature 16°C (I measured earlier)." Mykoła drives in the pins, reads: "Left end 8.8%. Centre 9.0%. Right end 8.9%. Average 8.9%."
 >
-> **Wahan:** "Now the second, the Gann?"
+> **Wasyl:** "Now the second, the Gann?"
 >
-> **Rustam:** "Yes." Rustam runs the Gann along the board at three places: "Left end 9.0%. Centre 8.9%. Right end 9.0%. Average 9.0%."
+> **Mykoła:** "Yes." Mykoła runs the Gann along the board at three places: "Left end 9.0%. Centre 8.9%. Right end 9.0%. Average 9.0%."
 >
-> **Rustam** (writing in the WSP-002 card): "Point 1: IRI 8.9%, Gann 9.0%. Difference 0.1 percentage point, within acceptance. We put the board back into the stack."
+> **Mykoła** (writing in the WSP-002 card): "Point 1: IRI 8.9%, Gann 9.0%. Difference 0.1 percentage point, within acceptance. We put the board back into the stack."
 
 They repeat the procedure for the remaining four points:
 
@@ -189,17 +189,17 @@ They repeat the procedure for the remaining four points:
 
 The measurement takes 30 minutes (6 minutes per point: pulling out, measurement with both instruments, putting back, note).
 
-> **Rustam** (counting in his notebook): "Average IRI = (8.9 + 9.2 + 9.8 + 9.5 + 9.3) / 5 = **9.34%**. Average Gann = (9.0 + 9.1 + 9.7 + 9.4 + 9.2) / 5 = **9.28%**. Difference between instruments 0.06 percentage point, confidence high."
+> **Mykoła** (counting in his notebook): "Average IRI = (8.9 + 9.2 + 9.8 + 9.5 + 9.3) / 5 = **9.34%**. Average Gann = (9.0 + 9.1 + 9.7 + 9.4 + 9.2) / 5 = **9.28%**. Difference between instruments 0.06 percentage point, confidence high."
 >
-> **Wahan:** "And the deviation?"
+> **Wasyl:** "And the deviation?"
 >
-> **Rustam:** "Max − min for IRI is 9.8 − 8.9 = 0.9 percentage point. For the Gann 9.7 − 9.0 = 0.7%. Both below 2%, **class A** of homogeneity."
+> **Mykoła:** "Max − min for IRI is 9.8 − 8.9 = 0.9 percentage point. For the Gann 9.7 − 9.0 = 0.7%. Both below 2%, **class A** of homogeneity."
 >
-> **Wahan:** "So we release it?"
+> **Wasyl:** "So we release it?"
 >
-> **Rustam:** "Average 9.3%, within the 8-10% threshold, deviation 0.9% (class A). **Decision: release**. I fill in WSP-002, sign, the batch is ready for dispatch. I write a tag on the stack: KT-I, pine, 9.3% ±0.9%, 4.8 m³, date 2026-05-13, batch no. SO-STM-0513-03."
+> **Mykoła:** "Average 9.3%, within the 8-10% threshold, deviation 0.9% (class A). **Decision: release**. I fill in WSP-002, sign, the batch is ready for dispatch. I write a tag on the stack: KT-I, pine, 9.3% ±0.9%, 4.8 m³, date 2026-05-13, batch no. SO-STM-0513-03."
 
-Rustam fills in the WSP-002 card: date, instrument type (IRI-5P serial number, Gann RTU 600 serial number), results of 5 points (both instruments), average, deviation, decision **"release"**, signature. The card goes into the batch file together with the KLW-001 card (visual grading, signed by Ms. Grażyna a week ago). Retention 3 years.
+Mykoła fills in the WSP-002 card: date, instrument type (IRI-5P serial number, Gann RTU 600 serial number), results of 5 points (both instruments), average, deviation, decision **"release"**, signature. The card goes into the batch file together with the KLW-001 card (visual grading, signed by Ms. Grażyna a week ago). Retention 3 years.
 
 ### Second scene: spruce for furniture joinery, 8:00-8:30
 
@@ -219,17 +219,17 @@ Average IRI: (11.8 + 11.5 + 12.4 + 12.1 + 11.9) / 5 = **11.94%**.
 Average Gann: 11.78%.
 Deviation IRI: 12.4 − 11.5 = 0.9 percentage point. Class A of homogeneity, but **the average is outside the target threshold** (8-10% for furniture joinery; we have 11.9%).
 
-> **Rustam:** "Average almost 12%. The customer wants 8-10%. **Too wet.**"
+> **Mykoła:** "Average almost 12%. The customer wants 8-10%. **Too wet.**"
 >
-> **Wahan:** "But above 10%, not by a lot. Do we release with a note or turn back?"
+> **Wasyl:** "But above 10%, not by a lot. Do we release with a note or turn back?"
 >
-> **Rustam:** "Turn back. The KT-I requirement is 8-10%, tolerance ±1%. We have 11.9%. Outside the tolerance. The customer files a complaint if after 3 months a drawer in the furniture warps. **Re-drying in P6.**"
+> **Mykoła:** "Turn back. The KT-I requirement is 8-10%, tolerance ±1%. We have 11.9%. Outside the tolerance. The customer files a complaint if after 3 months a drawer in the furniture warps. **Re-drying in P6.**"
 >
-> **Wahan:** "How many days?"
+> **Wasyl:** "How many days?"
 >
-> **Rustam:** "P6 is the supplementary chamber, a lighter programme. From 12% to 9% is 3 percentage points, estimate 7-10 days at 75°C and RH 40%. Ms. Ania will sign the instruction. For now we move the stack to P6 on a trolley, Wahan."
+> **Mykoła:** "P6 is the supplementary chamber, a lighter programme. From 12% to 9% is 3 percentage points, estimate 7-10 days at 75°C and RH 40%. Ms. Ania will sign the instruction. For now we move the stack to P6 on a trolley, Wasyl."
 
-Rustam fills in a second WSP-002 card: measurement result, **decision "re-drying P6"**, planned time 10 days, next measurement 2026-05-23. The batch stays in the release queue, the customer is informed about the delay (the EGIDA sales agent phones "Dąb-Meble" with the information: the 6.2 m³ spruce batch delayed by 10 days, technical reason, no surcharge; the 4.8 m³ pine batch goes today as planned).
+Mykoła fills in a second WSP-002 card: measurement result, **decision "re-drying P6"**, planned time 10 days, next measurement 2026-05-23. The batch stays in the release queue, the customer is informed about the delay (the EGIDA sales agent phones "Dąb-Meble" with the information: the 6.2 m³ spruce batch delayed by 10 days, technical reason, no surcharge; the 4.8 m³ pine batch goes today as planned).
 
 ### Operator decisions at measurement: diagram
 
@@ -277,7 +277,7 @@ The equilibrium moisture content (EMC) of wood depends on temperature and relati
 
 The operator's decision depends on the comparison of the average with the threshold and on the deviation. Release when within threshold and deviation class A/B. Re-drying P6 (5-14 days) when above threshold by 1.5-3%. Full second cycle when above by more than 3%. Splitting the stack when the deviation is class C. Documentation on the WSP-002 card (3-year retention, evidence against complaints).
 
-Today Rustam learned that two almost identical batches (4.8 m³ pine and 6.2 m³ spruce for the same customer "Dąb-Meble") produced two different decisions: pine to release (9.3% within threshold), spruce to re-drying (11.9% above threshold). The difference stemmed from the drying programme: pine 22 days (slow), spruce 14 days (medium). A shorter programme, a lower drying effect, wet wood. Planning the drying campaign (the topic of m3-w3-l3) is **a conscious decision about the cycle length** depending on species and target threshold.
+Today Mykoła learned that two almost identical batches (4.8 m³ pine and 6.2 m³ spruce for the same customer "Dąb-Meble") produced two different decisions: pine to release (9.3% within threshold), spruce to re-drying (11.9% above threshold). The difference stemmed from the drying programme: pine 22 days (slow), spruce 14 days (medium). A shorter programme, a lower drying effect, wet wood. Planning the drying campaign (the topic of m3-w3-l3) is **a conscious decision about the cycle length** depending on species and target threshold.
 
 In the next lesson (m3-w2-l6) we move to **bands and saws**: choice of band type and tooth geometry for the wood species and the assortment of the order. Stellite steel for dry oak, alloy for fresh pine, three tooth pitches, band width for P3 vs P1.
 

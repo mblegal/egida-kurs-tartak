@@ -8,8 +8,8 @@ język: pl
 
 # Wytyczne dla koordynatora kursu „Praca w tartaku"
 
-**Adresat**: koordynator kursu Fundacji EGIDA, zastępca koordynatora, asystent administracyjny projektu „Smart_Egida".
-**Podstawa prawna**: Rozporządzenie MFiPR w sprawie EFS+ 2026-2027, Ustawa z 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności (tekst jednolity 2024 r.), regulamin wewnętrzny Fundacji EGIDA nr 05/2024, regulamin jakości nr 02/2024, norma ISO 9001:2015, standard FSC STD-40-004 v3.
+**Adresat**: koordynator kursu Fundacji EGIDA, zastępca koordynatora, asystent administracyjny Fundacji.
+**Podstawa prawna**: Rozporządzenie MFiPR w sprawie EFS+ w perspektywie 2021-2027, Ustawa z 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności (tekst jednolity 2024 r.), regulamin wewnętrzny Fundacji EGIDA nr 05/2024, regulamin jakości nr 02/2024, norma ISO 9001:2015, standard FSC STD-40-004 v3.
 
 **Przeznaczenie dokumentu**: metaprzewodnik zarządczy spinający trzy dokumenty trenerskie (wytyczne trenera M1, M2, M3) w spójny system cyklu rocznego. Nie zastępuje wytycznych trenerskich, ale łączy je w kontekst organizacyjny, finansowy i audytowy.
 
@@ -58,36 +58,24 @@ Kalendarz współpracy koordynator-trener zawiera następujące obowiązkowe pun
 - **Tygodniowo raport pisemny**: trener przesyła koordynatorowi skrócony raport (tabela Excel, 8 kolumn: kursant, obecność, ocena z lekcji, ocena praktyki, zgłoszenia zdrowotne, zgłoszenia rodzinne, uwagi, rekomendacja).
 - **Po egzaminie końcowym**: 90-minutowa ewaluacja cyklu z trenerem, asystentem i koordynatorem. Ewaluacja jest nagrywana i archiwizowana przez 5 lat zgodnie z wymogami MFiPR.
 
-## 3. Harmonogram roczny cyklu EGIDA 2026/2027
+## 3. Harmonogram roczny cyklu kursu
 
-Cykl roczny EGIDA obejmuje trzy pełne przejścia M1+M2+M3 plus okresy rekrutacyjne i ewaluacyjne. Pełen kalendarz cyklu 2026/2027 zawiera 52 tygodnie operacyjne.
+Cykl roczny kursu obejmuje kilka pełnych przejść M1+M2+M3 plus okresy rekrutacyjne i ewaluacyjne, łącznie około 52 tygodnie operacyjne. Konkretny kalendarz bieżącego roku (daty rekrutacji, start poszczególnych cykli, okresy egzaminów) ustala i komunikuje koordynator.
 
-### 3.1. Cykl Jesień 2026
+### 3.1. Przykładowy cykl roczny
 
-| Tydzień | Zakres pracy | Kluczowe działanie koordynatora |
-|---------|--------------|-----------------------------------|
-| 32-34 (sierpień 2026) | Rekrutacja Jesień 2026 | Publikacja prospektu D3, rozmowy rekrutacyjne, test A2, zaświadczenia lekarskie |
-| 35 | Formalności | Podpisanie umów kursanta, inwentaryzacja ŚOI, przekazanie listy trenerowi M1 |
-| 36-39 (wrzesień 2026) | Moduł 1 | Spotkania cotygodniowe z trenerem M1, raporty do MFiPR w połowie modułu |
-| 40 | Przerwa międzymodułowa + staż pomocnik | Umowy stażowe z partnerami, stypendium 1700 zł brutto |
-| 41-44 (październik 2026) | Moduł 2 | Spotkania cotygodniowe z trenerem M2, decyzje o certyfikatach BTM/Wood-Mizer |
-| 45 | Przerwa międzymodułowa + staż junior operator | Stypendium 1700 zł brutto, pierwsze decyzje o przyszłym pracodawcy |
-| 46-49 (listopad 2026) | Moduł 3 | Spotkania cotygodniowe z trenerem M3, organizacja audytu FSC jako egzaminu |
-| 50 (grudzień 2026) | Egzaminy końcowe | Scenariusz solo 120 min, obserwacja 14 dni, rekomendacje pracodawcy |
-| 51-52 | Ewaluacja cyklu + przygotowanie Zimy | Raport do MFiPR, analiza KPI, ewaluacja trenerów |
+Każdy cykl roczny obejmuje 3-tygodniowy etap rekrutacji, 4 tygodnie M1, 1 tydzień stażu pomocnika, 4 tygodnie M2, 1 tydzień stażu operatora juniora, 4 tygodnie M3, 2 tygodnie egzaminów i ewaluacji. Koordynator w każdym tygodniu prowadzi cotygodniowe spotkania z trenerem, raporty do MFiPR w połowie każdego modułu i dokonuje decyzji o certyfikatach BTM/Wood-Mizer po egzaminach M2.
 
-### 3.2. Cykl Zima 2026/2027 i Wiosna 2027
 
-Cykle Zima i Wiosna mają identyczną strukturę 16-tygodniową (3 tygodnie rekrutacji + 4 + 1 + 4 + 1 + 4 + 1 + 2 tygodnie egzaminów i ewaluacji), przesuniętą o 15 tygodni. Kluczowe różnice:
+### 3.2. Elastyczność sezonowa
 
-- **Zima 2026/2027** (grudzień 2026 do marzec 2027): wyzwania z dostępem do placów tartacznych (śnieg, mróz), ograniczony staż w tartakach zamkniętych częściowo w okresie świątecznym (21 grudnia 2026 - 6 stycznia 2027), staż przesunięty do stolarni zamkniętych.
-- **Wiosna 2027** (marzec 2027 do czerwiec 2027): najwyższa dostępność stażu u partnerów (sezonowy szczyt produkcji), obliczanie wynagrodzenia z większym uwzględnieniem sezonowych dodatków.
+Harmonogram cykli uwzględnia sezonowość dostępu do placów tartacznych. Cykle jesienno-zimowe wymagają alternatywnego planu stażu (tartaki częściowo zamknięte w okresie świątecznym, ograniczony dostęp zewnętrzny w mróz), koordynator kieruje wtedy kursantów do stolarni zamkniętych. Cykle wiosenne i letnie dają najwyższą dostępność stażu u partnerów (sezonowy szczyt produkcji).
 
 ### 3.3. Rezerwa urlopowa i redundancja kadrowa
 
 Między cyklami przewidujemy **4 tygodnie rezerwy urlopowej** dla trenerów (po około 1,3 tygodnia za cykl). Każdego trenera dubluje co najmniej jeden trener zapasowy o identycznych uprawnieniach, tak aby choroba lub urlop rodzinny nie zakłócały cyklu.
 
-Koordynator bierze urlop poza cyklami: 1 tydzień w lutym 2027 i 2 tygodnie w lipcu 2027. Pozostałe 2 tygodnie zostają w rezerwie na wypadek incydentów wymagających obecności (wypadek kursanta, pilne spotkanie z MFiPR, audyt zewnętrzny).
+Koordynator planuje urlop poza cyklami (w oknach między kolejnymi startami cykli): 1 tydzień zimą i 2 tygodnie latem. Pozostałe 2 tygodnie zostają w rezerwie na wypadek incydentów wymagających obecności (wypadek kursanta, pilne spotkanie z MFiPR, audyt zewnętrzny).
 
 ## 4. Profil trenera i rekrutacja kadry
 
@@ -113,11 +101,11 @@ Wynagrodzenie trenera: 9500-11 500 zł brutto miesięcznie (w zależności od mo
 
 ## 5. KPI cyklu i monitorowanie jakości
 
-Fundacja EGIDA raportuje do MFiPR pięć kluczowych wskaźników wykonania projektu „Smart_Egida". Koordynator monitoruje je kwartalnie:
+Fundacja EGIDA monitoruje pięć kluczowych wskaźników jakości kursu. Koordynator śledzi je kwartalnie:
 
 ### 5.1. KPI-1: Liczba kursantów rozpoczynających kurs
 
-Cel projektu EFS+ 2026-2027: 90 kursantów rocznie (30 × 3 cykle). Minimalny próg raportowany jako sukces: 75 (około 83%).
+Cel projektu EFS+ w perspektywie 2021-2027: 90 kursantów rocznie (30 × 3 cykle). Minimalny próg raportowany jako sukces: 75 (około 83%).
 
 ### 5.2. KPI-2: Liczba kursantów kończących pełny cykl M1+M2+M3
 
@@ -145,7 +133,7 @@ Ankieta pracodawcy (1-5, 5 najlepsza). Cel: 4,2. Próg minimalny: 3,6. Trzy pyta
 
 ## 6. Finansowanie cyklu i odpowiedzialność kosztowa
 
-Koordynator odpowiada za wykonanie budżetu projektowego. Pełna struktura rocznego budżetu „Smart_Egida" EFS+ 2026-2027:
+Koordynator odpowiada za wykonanie rocznego budżetu kursu. Pełna struktura rocznego budżetu kursu (perspektywa 2026-2027):
 
 | Kategoria kosztu | Roczny budżet | Udział % |
 |-------------------|---------------|----------|
@@ -181,7 +169,7 @@ Termin: 15 dzień miesiąca następującego po końcu kwartału. Opóźnienia po
 
 ### 7.2. Raport końcowy projektu
 
-Po zakończeniu dwuletniego projektu EFS+ 2026-2027 koordynator przygotowuje raport końcowy (około 80 stron), zatwierdzony przez Zarząd Fundacji EGIDA i podpisany cyfrowo przez Prezesa. Raport końcowy zawiera pełną analizę KPI-1 do KPI-5 w okresie 2 lat, analizę finansową, rekomendacje dla następnej edycji EFS+ 2028-2029, listę absolwentów z bieżącymi miejscami pracy (za zgodą kursantów, zgodnie z RODO).
+Po zakończeniu dwuletniego projektu EFS+ w perspektywie 2021-2027 koordynator przygotowuje raport końcowy (około 80 stron), zatwierdzony przez Zarząd Fundacji EGIDA i podpisany cyfrowo przez Prezesa. Raport końcowy zawiera pełną analizę KPI-1 do KPI-5 w okresie 2 lat, analizę finansową, rekomendacje dla następnej edycji EFS+ 2028-2029, listę absolwentów z bieżącymi miejscami pracy (za zgodą kursantów, zgodnie z RODO).
 
 ### 7.3. Audyt zewnętrzny MFiPR
 
@@ -205,7 +193,7 @@ Audyt wewnętrzny jest dokumentowany w rejestrze ISO (formularz EGIDA-RZ-001, z 
 - **duża**: korekta w ciągu 90 dni z planem naprawczym podpisanym przez Zarząd,
 - **krytyczna**: wstrzymanie procesu i niezwłoczne zgłoszenie MFiPR.
 
-Zewnętrzny audyt certyfikujący ISO odbywa się co 3 lata (następny planowany na październik 2027). Audyt kosztuje około 28 000 zł i jest pokryty z rezerwy budżetowej Fundacji, nie z projektu EFS+.
+Zewnętrzny audyt certyfikujący ISO odbywa się co 3 lata. Audyt kosztuje około 28 000 zł i jest pokryty z rezerwy budżetowej Fundacji, nie z projektu EFS+.
 
 ## 9. Zarządzanie materiałami dydaktycznymi i repozytorium
 

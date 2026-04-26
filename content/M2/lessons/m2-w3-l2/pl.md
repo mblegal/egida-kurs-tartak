@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-Wtorek, 7:10, pilarka taśmowa Wood-Mizer LT40 numer dwa. Oleksii wczoraj uruchomił ją po raz pierwszy sam – sześć kroków, 2 minuty 45 sekund, Marek wpisał do zeszytu obserwacji: „pierwsze uruchomienie, OK, tempo wolne, kolejność bez błędu". Dzisiaj druga rzecz, którą wykonuje samodzielnie pod nadzorem: **regulacja rolek prowadzących taśmę**. Tydzień temu Maricel podawała czujnik zegarowy Tadeuszowi przy wymianie taśmy (lekcja 8 tygodnia 2) – Oleksii dzisiaj trzyma ten sam czujnik we własnej dłoni. Parametry, które Maricel zapamiętywała przez obserwację, Oleksii musi teraz **wykonać z tolerancją 0,5 mm**. Marek stoi dwa metry obok, w lewej dłoni trzyma ten sam zeszyt obserwacji, w prawej – rezerwowy czujnik na wypadek, gdyby czujnik Oleksiiego zawiódł.
+Wtorek, 7:10, pilarka taśmowa Wood-Mizer LT40 numer dwa. Oleksij wczoraj uruchomił ją po raz pierwszy sam – sześć kroków, 2 minuty 45 sekund, Marek wpisał do zeszytu obserwacji: „pierwsze uruchomienie, OK, tempo wolne, kolejność bez błędu". Dzisiaj druga rzecz, którą wykonuje samodzielnie pod nadzorem: **regulacja rolek prowadzących taśmę**. Tydzień temu Sofía podawała czujnik zegarowy Tadeuszowi przy wymianie taśmy (lekcja 8 tygodnia 2) – Oleksij dzisiaj trzyma ten sam czujnik we własnej dłoni. Parametry, które Sofía zapamiętywała przez obserwację, Oleksij musi teraz **wykonać z tolerancją 0,5 mm**. Marek stoi dwa metry obok, w lewej dłoni trzyma ten sam zeszyt obserwacji, w prawej – rezerwowy czujnik na wypadek, gdyby czujnik Oleksija zawiódł.
 
 Ta lekcja jest **pierwszą regulacją mechaniczną** wykonaną przez kursanta w module drugim. Do tej pory obserwowałeś parametry (2200–2400 PSI, 3–4 mm, 30 s – lekcja 8 tygodnia 2), asystowałeś podawaniem narzędzi, znałeś liczby zawodowe na pamięć. Teraz **fizycznie zmieniasz ustawienie maszyny** – obracasz śrubę o 0,5 mm, mierzysz, obracasz ponownie, aż czujnik zegarowy pokaże wartość w paśmie 3,0–4,0 mm. Maszyna po twojej regulacji tnie lepiej (lub gorzej) – to twoja odpowiedzialność, twój podpis w rejestrze regulacji stanowiskowych, twoja ręka na śrubie.
 
@@ -30,7 +30,7 @@ Na tartaku Fundacji EGIDA regulacja prowadnic zajmuje **8–15 minut** dla dośw
 
 ### Pięć kroków procedury – co robisz, co mierzysz, co zapisujesz
 
-**Krok 1: LOTO i otwarcie osłon.** Zasada z lekcji 8 tygodnia 2 bez zmian. Naciskasz STOP (grzybek), czekasz 15 sekund na wybieg taśmy, obracasz wyłącznik główny do OFF, zakładasz **własną kłódkę LOTO z imieniem** („Oleksii B.") i tabliczkę z godziną rozpoczęcia regulacji. Otwierasz osłonę górną i dolną kluczem imbusowym 6 mm (4 śruby M8 każda). Tu różnica w stosunku do l8 T2: nie demontujesz taśmy, tylko **regulujesz rolki przy założonej, ale zatrzymanej taśmie**. Rolki są dostępne od strony pulpitu – nie musisz wchodzić pod maszynę.
+**Krok 1: LOTO i otwarcie osłon.** Zasada z lekcji 8 tygodnia 2 bez zmian. Naciskasz STOP (grzybek), czekasz 15 sekund na wybieg taśmy, obracasz wyłącznik główny do OFF, zakładasz **własną kłódkę LOTO z imieniem** („Oleksij B.") i tabliczkę z godziną rozpoczęcia regulacji. Otwierasz osłonę górną i dolną kluczem imbusowym 6 mm (4 śruby M8 każda). Tu różnica w stosunku do l8 T2: nie demontujesz taśmy, tylko **regulujesz rolki przy założonej, ale zatrzymanej taśmie**. Rolki są dostępne od strony pulpitu – nie musisz wchodzić pod maszynę.
 
 **Krok 2: Pomiar czterech rolek czujnikiem zegarowym.** Pilarka ma cztery rolki prowadzące: dwie **górne** (przy górnym kole napinacza, trzymają taśmę od strony zęba) i dwie **dolne** (przy stole roboczym, tuż przed punktem cięcia i tuż za nim, trzymają taśmę od strony grzbietu). Czujnik zegarowy to urządzenie o tarczy 40–50 mm średnicy, ze skalą 0–10 mm, z magnetyczną podstawą przyklejającą się do korpusu pilarki. Sonda ma końcówkę kulową 2 mm.
 
@@ -41,7 +41,7 @@ Procedura pomiaru jednej rolki (powtarzasz 4 razy):
 4. Notujesz w zeszycie: „górna przód: 3,3 mm", „górna tył: 3,1 mm", „dolna przód: 3,5 mm", „dolna tył: 3,2 mm".
 
 ::: tip
-Trener: „Czujnik zegarowy to nie narzędzie dla precyzjonistów. To narzędzie dla operatorów, którzy wiedzą, że 3,0 mm i 3,8 mm to dwie różne odpowiedzi. Nie musisz mierzyć z dokładnością 0,01 mm – musisz mieć pewność, że to 3,3 a nie 4,1. Pewność przychodzi z powtórzenia: pierwsze pięć pomiarów trwa 2 minuty każdy, po dwudziestym pomiarze trwa 20 sekund. Oleksii po miesiącu będzie mierzył rolkę w 15 sekund – bez utraty dokładności."
+Trener: „Czujnik zegarowy to nie narzędzie dla precyzjonistów. To narzędzie dla operatorów, którzy wiedzą, że 3,0 mm i 3,8 mm to dwie różne odpowiedzi. Nie musisz mierzyć z dokładnością 0,01 mm – musisz mieć pewność, że to 3,3 a nie 4,1. Pewność przychodzi z powtórzenia: pierwsze pięć pomiarów trwa 2 minuty każdy, po dwudziestym pomiarze trwa 20 sekund. Oleksij po miesiącu będzie mierzył rolkę w 15 sekund – bez utraty dokładności."
 :::
 
 **Krok 3: Regulacja śruby mocującej – ruchy po 0,5 mm.** Każda rolka ma śrubę mocującą (imbus 4 mm, dostępną od strony wewnętrznej osłony), która pozwala przesuwać rolkę w poprzek taśmy. Obrót **zgodnie z ruchem wskazówek zegara** przybliża rolkę do taśmy (wartość na czujniku spada), **przeciwnie** oddala (wartość rośnie). Jeden pełny obrót śruby = 0,8 mm przesunięcia rolki (gwint M4 × 0,7 plus tolerancja mechanizmu).
@@ -102,11 +102,11 @@ Regulacja symetryczna = 4 rolki w paśmie 3,2–3,8 mm każda, z różnicą mię
 
 ## Notatki dla trenera
 
-**Cel pedagogiczny**: pierwsza regulacja mechaniczna wykonana przez kursanta w M2. Przejście od „znam parametry" (l8 T2 jako asysta) do „ustawiam parametry sam" (l2 T3 jako wykonawca pod nadzorem). Kluczowa różnica: w l8 T2 Maricel znała 3–4 mm jako liczbę do zapamiętania, Oleksii w l2 T3 musi tę liczbę **wytworzyć własną ręką** z dokładnością 0,3 mm.
+**Cel pedagogiczny**: pierwsza regulacja mechaniczna wykonana przez kursanta w M2. Przejście od „znam parametry" (l8 T2 jako asysta) do „ustawiam parametry sam" (l2 T3 jako wykonawca pod nadzorem). Kluczowa różnica: w l8 T2 Sofía znała 3–4 mm jako liczbę do zapamiętania, Oleksij w l2 T3 musi tę liczbę **wytworzyć własną ręką** z dokładnością 0,3 mm.
 
-**Bohater Oleksii kontynuuje**: pełny tydzień 3 (l1–l8) z jednym bohaterem daje spójność narracyjną i pokazuje łuk kompetencyjny „od pierwszego uruchomienia do pierwszej samodzielnej regulacji do pierwszego samodzielnego cięcia". Rzemieślnicze tło Oleksiiego (ex-stolarz z Charkowa) pomaga: zna pojęcie „tolerancja 0,3 mm" z warsztatu meblarskiego. Ale pilarka taśmowa przemysłowa to nowe środowisko – tolerancja ta sama, ale siły, prędkości i ryzyko są inne.
+**Bohater Oleksij kontynuuje**: pełny tydzień 3 (l1–l8) z jednym bohaterem daje spójność narracyjną i pokazuje łuk kompetencyjny „od pierwszego uruchomienia do pierwszej samodzielnej regulacji do pierwszego samodzielnego cięcia". Rzemieślnicze tło Oleksija (ex-stolarz z Charkowa) pomaga: zna pojęcie „tolerancja 0,3 mm" z warsztatu meblarskiego. Ale pilarka taśmowa przemysłowa to nowe środowisko – tolerancja ta sama, ale siły, prędkości i ryzyko są inne.
 
-**Kontynuacja z l8 T2**: ta sama pilarka (LT40 #2), te same rolki, ten sam czujnik zegarowy. Oleksii trzyma w dłoni narzędzie, które tydzień temu Maricel podawała Tadeuszowi. Pedagogicznie: pokaż, że parametry liczbowe (3–4 mm) nie są abstrakcyjną wiedzą – są fizyczną rzeczą, którą wytwarzasz śrubą i czujnikiem.
+**Kontynuacja z l8 T2**: ta sama pilarka (LT40 #2), te same rolki, ten sam czujnik zegarowy. Oleksij trzyma w dłoni narzędzie, które tydzień temu Sofía podawała Tadeuszowi. Pedagogicznie: pokaż, że parametry liczbowe (3–4 mm) nie są abstrakcyjną wiedzą – są fizyczną rzeczą, którą wytwarzasz śrubą i czujnikiem.
 
 **Pułapki prowadzenia**:
 1. **Nie zezwalaj na regulację „na oko"**. Kursant, który „czuje, że to wygląda dobrze", w 30 % przypadków ustawia rolkę poza pasmem. Czujnik zegarowy nie jest opcjonalny – jest narzędziem kontrolnym, tak samo jak manometr w kroku napięcia (l8 T2).

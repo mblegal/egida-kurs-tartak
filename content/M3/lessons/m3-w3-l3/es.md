@@ -6,11 +6,11 @@ czas: 120
 
 ## Introducción
 
-Jueves, 2026-05-29, las 14:00. Rustam está en la **nave del secadero** de EGIDA, un edificio independiente de 12 × 8 × 4,5 m, separado de la nave de sierras por una explanada de almacenamiento de 30 metros. El interior está caliente (28-30°C, aunque la cámara está funcionando, la nave recibe calor a través del aislamiento), el aire tiene el característico olor a roble húmedo (llevan 12 días en el ciclo), el ruido de los ventiladores de extracción es uniforme, 55-60 dB. La tarea de hoy, **reunión de planificación** sobre la próxima *wsadka* (carga del secadero) de la cámara: cuándo, qué, con qué programa, por cuánto tiempo.
+Jueves, 2026-05-29, las 14:00. Mykoła está en la **nave del secadero** de EGIDA, un edificio independiente de 12 × 8 × 4,5 m, separado de la nave de sierras por una explanada de almacenamiento de 30 metros. El interior está caliente (28-30°C, aunque la cámara está funcionando, la nave recibe calor a través del aislamiento), el aire tiene el característico olor a roble húmedo (llevan 12 días en el ciclo), el ruido de los ventiladores de extracción es uniforme, 55-60 dB. La tarea de hoy, **reunión de planificación** sobre la próxima *wsadka* (carga del secadero) de la cámara: cuándo, qué, con qué programa, por cuánto tiempo.
 
-En la nave hay tres personas: **Don Henryk** (62 años, *mistrz suszarni* (maestro del secadero) de EGIDA, jubilado estacional, de marzo a noviembre trabaja en EGIDA, de diciembre a febrero pasa el invierno en su casa cerca de Ełk; 38 años de experiencia en secado, de los cuales 22 en aserraderos de Masuria), **Marek Kowalski** (capataz) y **Rustam Nazarov** (operador autónomo M3, su presencia en esta reunión es parte planificada de su formación M3, la última parte del bloque de procesos). Wahan no está (M1 tiene hoy turno de mantenimiento en la nave de sierras, no tiene formación de secado programada).
+En la nave hay tres personas: **Don Henryk** (62 años, *mistrz suszarni* (maestro del secadero) de EGIDA, jubilado estacional, de marzo a noviembre trabaja en EGIDA, de diciembre a febrero pasa el invierno en su casa cerca de Ełk; 38 años de experiencia en secado, de los cuales 22 en aserraderos de Masuria), **Marek Kowalski** (capataz) y **Mykoła Hrycenko** (operador autónomo M3, su presencia en esta reunión es parte planificada de su formación M3, la última parte del bloque de procesos). Wasyl no está (M1 tiene hoy turno de mantenimiento en la nave de sierras, no tiene formación de secado programada).
 
-La planificación de la campaña de secado no es competencia del operador M3 en el sentido "decisorio". **El maestro del secadero decide**. El operador M3 **participa, aporta información, documenta**. Esta es la diferencia que Rustam aprende hoy a vivir: **no toda decisión productiva en la que participa un operador autónomo es una decisión del operador autónomo**. En algunas áreas (secado, regulación eléctrica, cambio de programa del controlador) el operador **asiste a un especialista** en lugar de liderar.
+La planificación de la campaña de secado no es competencia del operador M3 en el sentido "decisorio". **El maestro del secadero decide**. El operador M3 **participa, aporta información, documenta**. Esta es la diferencia que Mykoła aprende hoy a vivir: **no toda decisión productiva en la que participa un operador autónomo es una decisión del operador autónomo**. En algunas áreas (secado, regulación eléctrica, cambio de programa del controlador) el operador **asiste a un especialista** en lugar de liderar.
 
 ### 14:05, estado actual de la cámara
 
@@ -32,15 +32,15 @@ EMC (humedad de equilibrio):      7,1%  (objetivo final del roble: 14%)
 Finalización planificada: sábado 2026-06-07, salida de la madera el lunes 2026-06-09.
 ```
 
-Don Henryk comenta en voz alta, medio para Marek, medio para Rustam:
+Don Henryk comenta en voz alta, medio para Marek, medio para Mykoła:
 
 *"El roble va con normalidad. La humedad baja como debe. 28% en el día 11 está dentro del plan, llegaremos al 14% en 9 días más. El fin de semana no interfiere, la cámara trabaja sola, el controlador en automático. El sábado y el domingo vendrá Maciek a leer y anotar en el diario, como todos los fines de semana."*
 
-Maciek es el ayudante del secadero, M1 en EGIDA, aprende bajo la tutela de Don Henryk (no Maciek Petrosjan, otro Maciek, Maciej Wiśniewski, 19 años, segundo curso del instituto técnico de la madera de Ostróda, prácticas en EGIDA).
+Maciek es el ayudante del secadero, M1 en EGIDA, aprende bajo la tutela de Don Henryk (no Maciek Melnyk, otro Maciek, Maciej Wiśniewski, 19 años, segundo curso del instituto técnico de la madera de Ostróda, prácticas en EGIDA).
 
 *"El lunes día 9 sacamos el roble, la pila en la zona de enfriamiento, después clasificación. El martes día 10 la cámara queda **vacía**. Desde el martes programa nuevo."*
 
-Marek asiente. Rustam mira el panel y anota los datos en su agenda de bolsillo (para él, no en la KDP-001, porque no es un documento de producción sino de planificación).
+Marek asiente. Mykoła mira el panel y anota los datos en su agenda de bolsillo (para él, no en la KDP-001, porque no es un documento de producción sino de planificación).
 
 ### 14:15, qué hay para la carga
 
@@ -50,14 +50,14 @@ Marek saca el cuaderno del capataz, lee la lista de madera fresca en el almacén
 Estado de la madera fresca pendiente en el almacén de secado (de las fichas WZ de los clasificadores):
 
 A. Pino silvestre, tablas 28 × 155 × 4050 mm, fresca 28-32%:
-   - ZLE-2026-05-077 (Rustam, ZLE int. ZLE-077): 0,58 m³
+   - ZLE-2026-05-077 (Mykoła, ZLE int. ZLE-077): 0,58 m³
    - ZLE-2026-05-079 (Damian, viernes 23.05): 0,72 m³
    - Excedentes de almacén (material cortado en primavera para clasificación): 1,12 m³
    Total pino: 2,42 m³
 
 B. Roble común, tablas 28 × 155 × 4050 mm, fresco 35-38%:
-   - ZLE-2026-05-081 (Rustam, lunes 26.05 nueva campaña de roble): 0,38 m³
-   - ZLE-2026-05-075 (Rustam, 12-14.05 de Part 25, madera en almacén desde el 15.05): 1,84 m³
+   - ZLE-2026-05-081 (Mykoła, lunes 26.05 nueva campaña de roble): 0,38 m³
+   - ZLE-2026-05-075 (Mykoła, 12-14.05 de Part 25, madera en almacén desde el 15.05): 1,84 m³
    Total roble: 2,22 m³
 
 C. Haya común, tablas 25 × 130 × 4000 mm, fresca 32%:
@@ -78,7 +78,7 @@ Aquí empieza el problema principal de la reunión. La *komora suszarnicza* (cá
 - El consumo de energía por metro cúbico es 3-4 veces mayor (electricidad, gas para los calefactores, servicio)
 - El *program suszarniczy* (programa de secado) (calibrado para una carga completa) da resultados no estándar, aumenta el riesgo de grietas internas en la tabla
 
-Don Henryk continúa: *"Tenemos tres opciones. Escucha, Rustam, porque esto es exactamente lo que algún día tú mismo tendrás que evaluar como futuro maestro, si sigues este camino."*
+Don Henryk continúa: *"Tenemos tres opciones. Escucha, Mykoła, porque esto es exactamente lo que algún día tú mismo tendrás que evaluar como futuro maestro, si sigues este camino."*
 
 ### 14:25, tres opciones y compromisos
 
@@ -114,7 +114,7 @@ Don Henryk rápido mentalmente: *"Precio de venta de madera de pino C24 tablas 2
 
 *"Aceptado,"* dice Marek. *"Opción B. Mañana por la mañana llamo a Drew-Sus, acuerdo la carga el martes 3 de junio, pedido de todo el pino del almacén 2,42 m³. Nuestra cámara la dejamos vacía hasta mediados de junio, luego arrancamos carga completa de roble."*
 
-Don Henryk asiente, va al escritorio en el rincón de la sala de control, rellena la *karta KS-001* (ficha KS-001 del secadero, formato A4, dedicada a cada decisión de carga). Rustam mira por encima del hombro.
+Don Henryk asiente, va al escritorio en el rincón de la sala de control, rellena la *karta KS-001* (ficha KS-001 del secadero, formato A4, dedicada a cada decisión de carga). Mykoła mira por encima del hombro.
 
 ### 14:55, ficha KS-001 rellenada
 
@@ -148,7 +148,7 @@ Carga actual (roble desde el 17.05) va con normalidad, plan de salida el 07.06.
 Próxima campaña de roble de la Oficina Forestal de Strzałowo planificada 08-15.06.
 Don Henryk vacaciones 2 semanas 20.06-04.07, Maciek solo con la cámara,
    en caso de problema escalado Marek -> BTM (servicio polaco del secadero).
-Rustam Nazarov participa en la reunión (formación M3 bloque procesos, l3).
+Mykoła Hrycenko participa en la reunión (formación M3 bloque procesos, l3).
 ```
 
 **Firma**: Don Henryk, fecha, hora.
@@ -432,19 +432,19 @@ EGIDA ofrece a los operadores M3 un **módulo de formación adicional de secado*
 4. **Día 4**: diagnóstico de averías (errores introducidos, el operador intenta reconocerlos).
 5. **Día 5**: examen (escrito más práctico, umbral 80%). Aprobarlo otorga la cualificación de **"operador auxiliar de secado"** (puede sustituir al maestro 1-2 días, p.ej. fin de semana), pero **no es maestro** (eso requiere 3 años de experiencia y curso BTM).
 
-Rustam le expresa a Don Henryk su interés en este curso. Don Henryk: *"Termina M3, luego hablamos. Demasiado pronto, aún te quedan 13 lecciones del bloque de procesos y organizativo. Si te interesa, en octubre arrancaremos la formación."*
+Mykoła le expresa a Don Henryk su interés en este curso. Don Henryk: *"Termina M3, luego hablamos. Demasiado pronto, aún te quedan 13 lecciones del bloque de procesos y organizativo. Si te interesa, en octubre arrancaremos la formación."*
 
-Rustam anota en su agenda: *"octubre 2026, módulo auxiliar de secado, 5 días."*
+Mykoła anota en su agenda: *"octubre 2026, módulo auxiliar de secado, 5 días."*
 
 ## Escena de cierre, 15:30, salida de la nave del secadero
 
-Rustam, Marek y Don Henryk salen de la sala de control. Don Henryk se queda junto a la cámara (comprobará las sondas una vez más, beberá agua, volverá a casa a las 17:00), Marek y Rustam cruzan la explanada de almacenamiento hacia la nave de sierras.
+Mykoła, Marek y Don Henryk salen de la sala de control. Don Henryk se queda junto a la cámara (comprobará las sondas una vez más, beberá agua, volverá a casa a las 17:00), Marek y Mykoła cruzan la explanada de almacenamiento hacia la nave de sierras.
 
-### 15:35, conversación de Marek con Rustam
+### 15:35, conversación de Marek con Mykoła
 
-Marek, caminando: *"Rustam, ¿qué has entendido de la reunión de hoy?"*
+Marek, caminando: *"Mykoła, ¿qué has entendido de la reunión de hoy?"*
 
-Rustam: *"Tres cosas. Primero, el secado **no es cuestión de máquina sino de tiempo**. 22 días para el roble, 9 días para el pino, nada acortará eso salvo saltar a peor calidad. Segundo, la **carga homogénea** es la base, mezclar especies supone riesgo. Tercero, **el maestro del secadero decide, el operador M3 documenta**. No es como en la sierra, donde yo decido solo."*
+Mykoła: *"Tres cosas. Primero, el secado **no es cuestión de máquina sino de tiempo**. 22 días para el roble, 9 días para el pino, nada acortará eso salvo saltar a peor calidad. Segundo, la **carga homogénea** es la base, mezclar especies supone riesgo. Tercero, **el maestro del secadero decide, el operador M3 documenta**. No es como en la sierra, donde yo decido solo."*
 
 *"Bien. ¿Y la cuarta cosa?"*
 
@@ -452,19 +452,19 @@ Rustam: *"Tres cosas. Primero, el secado **no es cuestión de máquina sino de t
 
 *"La externalización como opción. Para el cliente ZLE-077 Drew-Sus nos cuesta 512 zł extra, pero salva el plazo. **El plazo es más importante que el margen**, porque un cliente que recibe la mercancía a tiempo encarga el siguiente pedido. Un cliente que recibe 3 días de retraso busca otro aserradero. Los beneficios a largo plazo se miden por la continuidad de pedidos, no por el margen de un pedido único."*
 
-Rustam anota en su agenda: *"Plazo > margen. Secado externo como opción estratégica, no de emergencia."*
+Mykoła anota en su agenda: *"Plazo > margen. Secado externo como opción estratégica, no de emergencia."*
 
 ### 15:45, planificación del futuro inmediato
 
-Marek: *"Mañana viernes, día planificado sin tareas atípicas. El lunes 2 de junio carga para Drew-Sus 8:00-10:00, tú y Wahan ayudáis con el capataz de la explanada, hay que mover las pilas del almacén de secado al camión. Tras la carga, turno normal en P3 desde las 10:15. Una semana después del lunes, el 9 de junio, salida del roble de la cámara, nueva clasificación (Doña Ania), tú asistes con Wahan en el sorteo. Ese es el bloque l5 de tu curso, descarga de la cámara, salida desde l3."*
+Marek: *"Mañana viernes, día planificado sin tareas atípicas. El lunes 2 de junio carga para Drew-Sus 8:00-10:00, tú y Wasyl ayudáis con el capataz de la explanada, hay que mover las pilas del almacén de secado al camión. Tras la carga, turno normal en P3 desde las 10:15. Una semana después del lunes, el 9 de junio, salida del roble de la cámara, nueva clasificación (Doña Ania), tú asistes con Wasyl en el sorteo. Ese es el bloque l5 de tu curso, descarga de la cámara, salida desde l3."*
 
-Rustam asiente. Anota en su agenda: *"02.06 carga Drew-Sus, 09.06 salida del roble de la cámara."*
+Mykoła asiente. Anota en su agenda: *"02.06 carga Drew-Sus, 09.06 salida del roble de la cámara."*
 
 ### 15:50, vuelta a la nave de sierras
 
-Marek vuelve a la oficina del capataz, Rustam a P3. En P3 aún está la cinta recién soldada de ayer, pedido ZLE-2026-05-079 (Damian por la mañana, ahora Rustam terminará la tarde), pino tablas 25 × 130 mm. Distinto tipo de corte que ayer (más estrechas, más finas), pero no hay que cambiar los parámetros (pino el mismo, grosor distinto solo en 3 mm), **velocidad de avance 34 st/min** (el pino más fino corta más rápido), **tensión 2200 PSI**, sin cambiar la cinta.
+Marek vuelve a la oficina del capataz, Mykoła a P3. En P3 aún está la cinta recién soldada de ayer, pedido ZLE-2026-05-079 (Damian por la mañana, ahora Mykoła terminará la tarde), pino tablas 25 × 130 mm. Distinto tipo de corte que ayer (más estrechas, más finas), pero no hay que cambiar los parámetros (pino el mismo, grosor distinto solo en 3 mm), **velocidad de avance 34 st/min** (el pino más fino corta más rápido), **tensión 2200 PSI**, sin cambiar la cinta.
 
-Rustam rellena una nueva KDP-001 para ZLE-079 (primera sección: materia prima, segunda: cinta ya en la máquina, número conocido, secciones 3-4: parámetros). 10 minutos rellenando. Arranca el corte a las 16:02. Trabaja hasta el final del turno a las 17:00. Wahan en el alimentador.
+Mykoła rellena una nueva KDP-001 para ZLE-079 (primera sección: materia prima, segunda: cinta ya en la máquina, número conocido, secciones 3-4: parámetros). 10 minutos rellenando. Arranca el corte a las 16:02. Trabaja hasta el final del turno a las 17:00. Wasyl en el alimentador.
 
 ## Términos clave
 

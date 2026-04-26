@@ -6,7 +6,7 @@ czas: 120
 
 ## Introducción
 
-Martes, séptimo día de la segunda semana. Ayer Maricel entendió **qué significa el número 38%**. Hoy aprenderá **cómo obtener ese número de forma que sea verdadero**. Porque medir la humedad suena como «clava algo en la madera y lee el resultado». La realidad es más interesante: la misma tabla, medida en tres sitios, da tres resultados distintos, y todos son correctos a la vez. La pregunta es **qué resultado se convierte en tu decisión**.
+Martes, séptimo día de la segunda semana. Ayer Sofía entendió **qué significa el número 38%**. Hoy aprenderá **cómo obtener ese número de forma que sea verdadero**. Porque medir la humedad suena como «clava algo en la madera y lee el resultado». La realidad es más interesante: la misma tabla, medida en tres sitios, da tres resultados distintos, y todos son correctos a la vez. La pregunta es **qué resultado se convierte en tu decisión**.
 
 A las 7:30 el capataz Marek pone dos instrumentos sobre la mesa. El primero es un higrómetro de resistencia **Brookhuis FMC** con dos electrodos clavables y pantalla digital. El segundo es un higrómetro capacitivo **Merlin HM8-WS25**, del tamaño de una polvera, sin electrodos, sólo con una placa redonda. Marek le entrega el primero: «Empieza por el de resistencia. Dentro de dos meses te daré el capacitivo para la madera de exportación, pero primero tienes que entender para qué sirven los dos electrodos y por qué siempre se mide en dos puntos».
 
@@ -38,7 +38,7 @@ El higrómetro envía por los electrodos una pequeña corriente de prueba (del o
 
 ### Electrodos: cuáles, a qué profundidad, en qué dirección
 
-El Brookhuis FMC que Maricel sostiene tiene dos **electrodos clavables** (aislados en la parte cercana al mango, sin aislamiento en la punta). El aislamiento tiene sentido: sin él la corriente pasaría por la capa superficial (siempre más húmeda o más seca que el interior), falseando la medición.
+El Brookhuis FMC que Sofía sostiene tiene dos **electrodos clavables** (aislados en la parte cercana al mango, sin aislamiento en la punta). El aislamiento tiene sentido: sin él la corriente pasaría por la capa superficial (siempre más húmeda o más seca que el interior), falseando la medición.
 
 **Profundidad de clavado**: para una tabla de 50 mm de grosor los electrodos se clavan a **12 a 17 mm** (1/4 a 1/3 del grosor). Para una tabla de 25 mm, a 6 a 8 mm. Para un escuadrón grueso de 100 mm, a 25 a 30 mm. Regla: **la punta del electrodo debe quedar en el núcleo de la tabla, no en la capa superficial**.
 
@@ -54,7 +54,7 @@ El Brookhuis FMC que Maricel sostiene tiene dos **electrodos clavables** (aislad
 
 ### Por qué por los dos lados de la tabla: el gradiente de humedad
 
-Aquí empieza el oficio. Maricel coge una tabla de pino de 50 mm de grosor, recién salida de la sierra y aún caliente. Mide por la cara superior: **36%**. Da la vuelta a la tabla y mide por la cara inferior: **41%**. ¿Qué valor es el verdadero?
+Aquí empieza el oficio. Sofía coge una tabla de pino de 50 mm de grosor, recién salida de la sierra y aún caliente. Mide por la cara superior: **36%**. Da la vuelta a la tabla y mide por la cara inferior: **41%**. ¿Qué valor es el verdadero?
 
 **Ambos son verdaderos. La tabla tiene un gradiente de humedad.**
 
@@ -63,7 +63,7 @@ En la madera recién cortada y aún sin secar, el agua está repartida de forma 
 - **Albura exterior** (superficie y 5 a 10 mm hacia el interior): humedad más baja, porque el agua se evapora antes por la superficie.
 - **Cara apoyada en el suelo o en el listón separador**: más húmeda, porque el agua gravita hacia abajo y no se evapora tan rápido como por arriba.
 
-**Regla**: mides **por arriba y por abajo** y tomas la media. Si la diferencia supera 5 puntos porcentuales (en el ejemplo de Maricel: 36% frente a 41%, diferencia de 5), lo apuntas como «gradiente alto» y lo comunicas al capataz. Es una señal de que la tabla necesita estacionarse y **no debe entrar directamente en el secadero de cámara** (porque se rajaría por diferencia de tensiones).
+**Regla**: mides **por arriba y por abajo** y tomas la media. Si la diferencia supera 5 puntos porcentuales (en el ejemplo de Sofía: 36% frente a 41%, diferencia de 5), lo apuntas como «gradiente alto» y lo comunicas al capataz. Es una señal de que la tabla necesita estacionarse y **no debe entrar directamente en el secadero de cámara** (porque se rajaría por diferencia de tensiones).
 
 ### Por qué en dos puntos a lo largo: testas frente al centro
 
@@ -99,7 +99,7 @@ Un higrómetro moderno (Brookhuis, Exotek, Delmhorst) tiene integradas **de 30 a
 
 La **corrección por temperatura** es la segunda dimensión. La calibración es a 20°C. En invierno, con una nave a 0 a 5°C, **la madera tiene mayor resistencia a la misma humedad, y el higrómetro muestra un valor menor que el real**: hay que añadir de 1 a 3 puntos porcentuales. En verano, a 30°C, la resistencia es menor y hay que restar de 1 a 2 puntos. Los aparatos de mejor gama tienen sensor de temperatura y lo hacen automáticamente; en los más baratos usas una tabla.
 
-Maricel trabaja en una nave calentada a 16°C. La corrección por temperatura es pequeña (–0,5 pp). La corrección por especie para el pino: –1,5 pp. Su lectura bruta de 38%, una vez aplicadas las correcciones: **~36%**. Sigue siendo madera fresca, sigue estando por encima del PSF, la decisión comercial no cambia, pero ahora Maricel sabe que ese número es verdadero.
+Sofía trabaja en una nave calentada a 16°C. La corrección por temperatura es pequeña (–0,5 pp). La corrección por especie para el pino: –1,5 pp. Su lectura bruta de 38%, una vez aplicadas las correcciones: **~36%**. Sigue siendo madera fresca, sigue estando por encima del PSF, la decisión comercial no cambia, pero ahora Sofía sabe que ese número es verdadero.
 
 ### Límite físico de la medición por resistencia: cuándo echar mano del capacitivo
 
@@ -123,7 +123,7 @@ El **higrómetro capacitivo (sin clavos)** funciona según otro principio: mide 
 Un número en el cuaderno sin contexto no vale nada. Registro estándar:
 
 ::: example
-**Tronco 14, pino, entrega 04.04, medición 11.04 07:45 – Maricel**
+**Tronco 14, pino, entrega 04.04, medición 11.04 07:45 – Sofía**
 - Posición A (testa inferior, a 20 cm del extremo, cara superior): 32%
 - Posición B (centro de la pieza, cara superior): 38%
 - Posición C (centro de la pieza, cara inferior): 41%
@@ -133,7 +133,7 @@ Un número en el cuaderno sin contexto no vale nada. Registro estándar:
 - Firma: M. Santos
 :::
 
-Maricel copia estos datos al libro de mediciones y lo firma. Es un **documento interno** y vuelve a aparecer en m2-w4-l5 (documentación del puesto). Sin firma no tiene valor. Con firma se convierte en parte de la trazabilidad: si la tabla sale al cliente y vuelve con reclamación del tipo «estaba demasiado húmeda», el libro demuestra que el aserradero lo sabía y decidió conscientemente.
+Sofía copia estos datos al libro de mediciones y lo firma. Es un **documento interno** y vuelve a aparecer en m2-w4-l5 (documentación del puesto). Sin firma no tiene valor. Con firma se convierte en parte de la trazabilidad: si la tabla sale al cliente y vuelve con reclamación del tipo «estaba demasiado húmeda», el libro demuestra que el aserradero lo sabía y decidió conscientemente.
 
 ## Términos clave
 
@@ -178,6 +178,6 @@ Mañana (lección 3) conocerás la **manipulación de la troza larga**: por qué
 - Confundir el gradiente con un error de medición: una diferencia de 3 a 5 pp es información, no un defecto. El capataz quiere verla.
 - Anotar el resultado sin firmarlo, «total, nadie lo va a revisar»: sí, lo revisará si hay reclamación. La firma es profesionalidad.
 
-**Caso Maricel, para ampliar**: ¿por qué el capataz le da primero el de resistencia y el capacitivo sólo dentro de dos meses? Porque el de resistencia obliga a pensar en la estructura de la madera (gradiente, profundidad), mientras que el capacitivo da un «número cómodo» y el alumno puede no entender por qué está en ese sitio concreto. Orden didáctico, no económico.
+**Caso Sofía, para ampliar**: ¿por qué el capataz le da primero el de resistencia y el capacitivo sólo dentro de dos meses? Porque el de resistencia obliga a pensar en la estructura de la madera (gradiente, profundidad), mientras que el capacitivo da un «número cómodo» y el alumno puede no entender por qué está en ese sitio concreto. Orden didáctico, no económico.
 
 **Glosario fonético PL**: «wilgotnościomierz» es una de las palabras sectoriales más largas del polaco. Acepta las abreviaturas «miernik», «przyrząd», «higrometr» (en diccionario, higrometr es más amplio y abarca también el aire). En materiales impresos queda el nombre completo. En la nave, abreviar es normal.

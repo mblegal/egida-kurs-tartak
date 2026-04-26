@@ -48,11 +48,11 @@ Grade A thresholds for pine (extract from M2 T2 l5):
 - Grain deviation up to 5%, straightness deviation up to 4 mm/lm
 - No mold, no blue stain, no heart darkening
 
-**Analytical hint (for trainer)**. What activates: **A-D grading from l5 T2**, **re-grading from l8 T3**, **the "certification without evidence = no certification" rule from l3 T4 Block 1**. The bundle is NOT grade A (3 boards with cracked knots over 12 mm break the threshold, plus 2 boards with cracks over 50 mm/lm). Options: (a) accept as grade B plus entry in the logbook plus TartakERP update plus entry in the delivery register; (b) escalate to the foreman in 4W format before accepting because the price difference is 15-25 PLN per board, and 60 boards means 900-1500 PLN of value at stake. A junior operator does NOT resolve a grade difference on their own; they escalate. 4W format: "Marek, Hai here, log yard, 8:30, bundle SO-SW-A-260420-019 defects exceed grade A, please decide on acceptance".
+**Analytical hint (for trainer)**. What activates: **A-D grading from l5 T2**, **re-grading from l8 T3**, **the "certification without evidence = no certification" rule from l3 T4 Block 1**. The bundle is NOT grade A (3 boards with cracked knots over 12 mm break the threshold, plus 2 boards with cracks over 50 mm/lm). Options: (a) accept as grade B plus entry in the logbook plus TartakERP update plus entry in the delivery register; (b) escalate to the foreman in 4W format before accepting because the price difference is 15-25 PLN per board, and 60 boards means 900-1500 PLN of value at stake. A junior operator does NOT resolve a grade difference on their own; they escalate. 4W format: "Marek, Andrij here, log yard, 8:30, bundle SO-SW-A-260420-019 defects exceed grade A, please decide on acceptance".
 
 ### Exercise 2: "Moisture content after transport"
 
-**Context**. Monday 7:15, an oak bundle SO-DĄB-FSC-260420-022 arrived overnight. You measured moisture content with a pin-type meter (Brookhuis): 4 measurement points give 24.5% / 26.1% / 23.8% / 25.2%. The dispatch slip says the oak is to go into the kiln today after 10:00. Zbigniew Majchrzak asks you, "Hai, what's the moisture content on the bundle? Do we set the kiln to the fresh program or the transport program?".
+**Context**. Monday 7:15, an oak bundle SO-DĄB-FSC-260420-022 arrived overnight. You measured moisture content with a pin-type meter (Brookhuis): 4 measurement points give 24.5% / 26.1% / 23.8% / 25.2%. The dispatch slip says the oak is to go into the kiln today after 10:00. Zbigniew Majchrzak asks you, "Andrij, what's the moisture content on the bundle? Do we set the kiln to the fresh program or the transport program?".
 
 **Questions**:
 1. What is the average MC and the spread?
@@ -127,11 +127,11 @@ Wood-Mizer LT40 tensioning pressure table (from M2 T3 l2):
 2. What do you report and to whom?
 3. What is the risk if you ignore it?
 
-**Hint**. **FINISH THE CURRENT CUT** (safety: do not pull the blade out of the log, do not change parameters while running), then STOP. What activates: **controlled STOP from l2 T3**, **symptomatic description, not diagnostic, from l5 T4 Block 2**, **3 urgency categories**. Report to: **Piotr Czerwiński the shift supervisor** (the foreman Marek is off-site, a level skip is permitted plus SMS to Marek). 4W format: "Piotr, Hai here, band saw 2, 11:30, new metallic clang on every cut for the last 2 min, ammeter normal, STOP after the 15th beam, please arrange mechanic diagnosis". I do NOT write "damaged bearing" because that is a diagnosis requiring experience. Risks of ignoring: (a) damage to the drive wheel or the guide bearing equals repair 8-15 thousand PLN plus downtime 1-2 days, (b) potential blade rupture in motion equals threat to the operator (blade speed 28-32 m/s, a broken blade flies like a projectile).
+**Hint**. **FINISH THE CURRENT CUT** (safety: do not pull the blade out of the log, do not change parameters while running), then STOP. What activates: **controlled STOP from l2 T3**, **symptomatic description, not diagnostic, from l5 T4 Block 2**, **3 urgency categories**. Report to: **Piotr Czerwiński the shift supervisor** (the foreman Marek is off-site, a level skip is permitted plus SMS to Marek). 4W format: "Piotr, Andrij here, band saw 2, 11:30, new metallic clang on every cut for the last 2 min, ammeter normal, STOP after the 15th beam, please arrange mechanic diagnosis". I do NOT write "damaged bearing" because that is a diagnosis requiring experience. Risks of ignoring: (a) damage to the drive wheel or the guide bearing equals repair 8-15 thousand PLN plus downtime 1-2 days, (b) potential blade rupture in motion equals threat to the operator (blade speed 28-32 m/s, a broken blade flies like a projectile).
 
 ### Exercise 7: "Sorting under time pressure"
 
-**Context**. Thursday 14:30, the last hour of the shift. Piotr Czerwiński comes over and says, "Hai, Marek changed the plan, 30 grade A boards need to ship to a customer on Friday morning, sort them faster now". 40 boards remain to be sorted. Your average sorting speed: 3 minutes per board, including moisture measurement and defect assessment. 40 boards × 3 min = 120 min = 2 hours. The shift ends in 1.5 h. Piotr: "no way around it, we're doing it".
+**Context**. Thursday 14:30, the last hour of the shift. Piotr Czerwiński comes over and says, "Andrij, Marek changed the plan, 30 grade A boards need to ship to a customer on Friday morning, sort them faster now". 40 boards remain to be sorted. Your average sorting speed: 3 minutes per board, including moisture measurement and defect assessment. 40 boards × 3 min = 120 min = 2 hours. The shift ends in 1.5 h. Piotr: "no way around it, we're doing it".
 
 **Questions**:
 1. Do you agree to speed up?
@@ -174,18 +174,18 @@ Dispatch slip fields (extract from M2 T4 Block 1 l1):
 
 ### Exercise 9: "Logbook after a complicated shift"
 
-**Context**. Friday 13:50, 5 min to the end of the shift. You are filling in the green logbook ZMI-2026-094-01. The shift was turbulent: (a) 3 blade stoppages (replacement, dulling, jam), (b) 1 priority change from Marek, first verbally then in writing, (c) cracked beam reported to Piotr, (d) rotation with Oleksii for half an hour (Oleksii on the band saw, you on sorting). Maricel will be on the Monday cycle.
+**Context**. Friday 13:50, 5 min to the end of the shift. You are filling in the green logbook ZMI-2026-094-01. The shift was turbulent: (a) 3 blade stoppages (replacement, dulling, jam), (b) 1 priority change from Marek, first verbally then in writing, (c) cracked beam reported to Piotr, (d) rotation with Oleksij for half an hour (Oleksij on the band saw, you on sorting). Sofía will be on the Monday cycle.
 
 **Questions**:
 1. What are the 8 main fields that must be filled in?
 2. What information do you include for the replacement operator in the faults field and the blades table?
 3. What additional entries go beyond the 8 fields?
 
-**Hint**. **Eight main fields** (from l2 T4 Block 1): number, date, operator, machine, motor-hours, m³ in, m³ out, efficiency indicator. Plus **tables**: stoppages T/M/O/P with owner, blades with dullings. Plus **faults field** in a 3-part format of what/when/what I did (not a diagnosis). Key information for Maricel: (a) blade 11 left on the band saw after about 180 cuts of dulling, replace on Monday, (b) cracked beam 4 from bundle SO-DĄB-FSC-003 reported to Piotr at 9:15, quarantined in the east field, (c) the rotation from sorting to the band saw was good practice, Oleksii willing, can be repeated. Additional entries: (a) priority change verbal at 10:20 from B to A, written confirmation in pencil by Marek at 10:23, initialed "M.N.", (b) cracked beam moved to quarantine plus report number to Piotr. **The A6 notebook habit**: all exact times from the notebook, not from memory. **The logbook has two audiences**: the white one to Marek to the dispatcher, the green one to Maricel to operational knowledge.
+**Hint**. **Eight main fields** (from l2 T4 Block 1): number, date, operator, machine, motor-hours, m³ in, m³ out, efficiency indicator. Plus **tables**: stoppages T/M/O/P with owner, blades with dullings. Plus **faults field** in a 3-part format of what/when/what I did (not a diagnosis). Key information for Sofía: (a) blade 11 left on the band saw after about 180 cuts of dulling, replace on Monday, (b) cracked beam 4 from bundle SO-DĄB-FSC-003 reported to Piotr at 9:15, quarantined in the east field, (c) the rotation from sorting to the band saw was good practice, Oleksij willing, can be repeated. Additional entries: (a) priority change verbal at 10:20 from B to A, written confirmation in pencil by Marek at 10:23, initialed "M.N.", (b) cracked beam moved to quarantine plus report number to Piotr. **The A6 notebook habit**: all exact times from the notebook, not from memory. **The logbook has two audiences**: the white one to Marek to the dispatcher, the green one to Sofía to operational knowledge.
 
 ### Exercise 10: "FSC certification in practice"
 
-**Context**. Tuesday 10:15. A new dispatch slip DP-2026-055 from the customer Kingfisher Polska, order KF-2026-003. Oak 50×200×3000 mm, class C24, 100 pcs, FSC 100% marking. Kingfisher requires **complete supply chain documentation**: bundle label, receipt register, sender's certificate (FSC-C012345 EGIDA), document confirming the FSC storage field. Marek asks: "Hai, list the things to keep under control for this customer?".
+**Context**. Tuesday 10:15. A new dispatch slip DP-2026-055 from the customer Kingfisher Polska, order KF-2026-003. Oak 50×200×3000 mm, class C24, 100 pcs, FSC 100% marking. Kingfisher requires **complete supply chain documentation**: bundle label, receipt register, sender's certificate (FSC-C012345 EGIDA), document confirming the FSC storage field. Marek asks: "Andrij, list the things to keep under control for this customer?".
 
 **Questions**:
 1. What is the "chain-of-custody" for this bundle?
@@ -211,18 +211,18 @@ Dispatch slip fields (extract from M2 T4 Block 1 l1):
 
 ### Exercise 12: "Colleague dozing at the band saw"
 
-**Context**. Wednesday 14:45, hour 7 of the shift. Your colleague Emeka (operator on band saw 3) nods off for a few seconds standing at his station between cuts. You see this from band saw 2, 8 m away. Band saw 3 is just finishing a cut, and Emeka is about to start another cycle. No foreman on the floor, Piotr Czerwiński is in the office.
+**Context**. Wednesday 14:45, hour 7 of the shift. Your colleague Carlos (operator on band saw 3) nods off for a few seconds standing at his station between cuts. You see this from band saw 2, 8 m away. Band saw 3 is just finishing a cut, and Carlos is about to start another cycle. No foreman on the floor, Piotr Czerwiński is in the office.
 
 **Questions**:
 1. Is this a problem, or does it happen to everyone?
 2. What do you do in the next 30 seconds?
 3. What is the objective risk?
 
-**Hint**. **It happens to everyone**, but **hour 7 is the peak accident risk hour, 24%** (CIOP-PIB 2019-2023, l6 T4 Block 2). Dozing next to a machine with a blade running at 28-32 m/s is immediate risk. 30 seconds: (a) shout "Emeka! Emeka!" to wake him before the next cycle, (b) STOP signal in his direction, (c) approach after securing band saw 2 (stopped), (d) short conversation "hey, I saw you, do you need a micro-break?", (e) if yes, stop his saw plus phone call to Piotr in 4W format "Piotr, Hai here, band saw 3, 14:45, Emeka 3 fatigue signs plus dozing, please arrange rotation or a 10 min micro-break" plus SMS to Marek. **What activates**: **self-regulation from l6 T4 Block 2**, **the operator monitors fatigue in colleagues** (operator-junior distinction, point 5), **5-level escalation**. Objective risk: hand in the blade zone, amputation or death, PIP statistic 41 fatalities per year in the wood processing sector.
+**Hint**. **It happens to everyone**, but **hour 7 is the peak accident risk hour, 24%** (CIOP-PIB 2019-2023, l6 T4 Block 2). Dozing next to a machine with a blade running at 28-32 m/s is immediate risk. 30 seconds: (a) shout "Carlos! Carlos!" to wake him before the next cycle, (b) STOP signal in his direction, (c) approach after securing band saw 2 (stopped), (d) short conversation "hey, I saw you, do you need a micro-break?", (e) if yes, stop his saw plus phone call to Piotr in 4W format "Piotr, Andrij here, band saw 3, 14:45, Carlos 3 fatigue signs plus dozing, please arrange rotation or a 10 min micro-break" plus SMS to Marek. **What activates**: **self-regulation from l6 T4 Block 2**, **the operator monitors fatigue in colleagues** (operator-junior distinction, point 5), **5-level escalation**. Objective risk: hand in the blade zone, amputation or death, PIP statistic 41 fatalities per year in the wood processing sector.
 
 ### Exercise 13: "Conflict with Krzysztof"
 
-**Context**. Friday 11:00. Krzysztof Zagrodny tells you, irritated: "Hai, how many times will I wait for your READY signal? I've got 12 bundles today, I can't wait 2 min on each". You need 2 min because you only move to a new bundle after verifying the label and making an entry in the logbook for the previous one.
+**Context**. Friday 11:00. Krzysztof Zagrodny tells you, irritated: "Andrij, how many times will I wait for your READY signal? I've got 12 bundles today, I can't wait 2 min on each". You need 2 min because you only move to a new bundle after verifying the label and making an entry in the logbook for the previous one.
 
 **Questions**:
 1. Is Krzysztof right?
@@ -248,7 +248,7 @@ Dispatch slip fields (extract from M2 T4 Block 1 l1):
 
 ### Exercise 15: "Full re-grading chain"
 
-**Context**. Friday 8:00, you and Zbigniew are opening kiln 2 after the pine cycle SO-SW-A-260420-015 (you loaded it 10 days ago). First measurements: average MC 11.4%, spread 2.8% (above the standard of <2%). You open boards from position D (lowest middle), you see 2 boards with end cracks at 1/3 of the width (the A/B borderline). Zbigniew asks, "Hai, your assessment?". The customer Dębowy Dom ordered 30 grade A boards from this batch.
+**Context**. Friday 8:00, you and Zbigniew are opening kiln 2 after the pine cycle SO-SW-A-260420-015 (you loaded it 10 days ago). First measurements: average MC 11.4%, spread 2.8% (above the standard of <2%). You open boards from position D (lowest middle), you see 2 boards with end cracks at 1/3 of the width (the A/B borderline). Zbigniew asks, "Andrij, your assessment?". The customer Dębowy Dom ordered 30 grade A boards from this batch.
 
 **Questions**:
 1. What is the comprehensive diagnosis of the batch?
@@ -267,10 +267,10 @@ Dispatch slip fields (extract from M2 T4 Block 1 l1):
 
 **Discussion**. Read the context aloud (2 min), 3 min of silence for individual reflection, open the discussion: "who has an idea?". Migrants at A0-A1 Polish need encouragement, call on them by name. If someone speaks their mother tongue to a neighbor, allow 30 s, then "in Polish for everyone".
 
-**Feedback**. After each exercise, read the analytical hint aloud. Compare with the group's answers: "Maricel said A, Oleksii said B, the hint says B, why?". The goal is **conscious gaps**, not a binary right/wrong result.
+**Feedback**. After each exercise, read the analytical hint aloud. Compare with the group's answers: "Sofía said A, Oleksij said B, the hint says B, why?". The goal is **conscious gaps**, not a binary right/wrong result.
 
 **Diagnostics**. Note in a private sheet who has trouble with which area. Before the Friday l8 test, run 15 min of individual consultation with the 2-3 trainees with the largest gaps.
 
 **Mixing areas**. Integrative exercises 14 + 15 must be done (after blocks 1-3), because they reveal whether the trainee can **connect** 4 areas, not just know each separately. In the Tuesday practical test (Piotr's 5 criteria) integration is the key.
 
-**Cultures**. Ukrainians and Belarusians are eager to discuss rule-breaking (they have that culture), Vietnamese and Filipinos rarely (culture of respect for the superior). Ask them direct questions, then they speak. A Georgian may push back against everyone in the discussion, give him space, he is verifying his identity.
+**Cultures**. Ukrainians (especially from Kharkiv, Kyiv, Lviv) are eager to discuss rule-breaking – they carry the backdrop of the "grey zone" and treat it as a normal topic. Colombians and other Latinos (Venezuela, Peru) can be more reserved, because they inherit "usted" toward the foreman in their work culture – ask them direct questions, then they speak. A trainee may push back against everyone in the discussion – give him space, he is verifying his identity in the group.

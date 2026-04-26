@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Trzeci dzień Haia jako operatora. Wchodzi do hali ubrany jak operator (lekcja 2 została w głowie), podchodzi do pilarki taśmowej i kładzie rękę na zielonym przycisku START. Brygadzista zatrzymuje go jednym słowem: **„Najpierw STOP."**
+Trzeci dzień Andrija jako operatora. Wchodzi do hali ubrany jak operator (lekcja 2 została w głowie), podchodzi do pilarki taśmowej i kładzie rękę na zielonym przycisku START. Brygadzista zatrzymuje go jednym słowem: **„Najpierw STOP."**
 
-Hai patrzy zdezorientowany. Przecież chce **uruchomić** maszynę, nie zatrzymać ją. Brygadzista odwraca jego dłoń i pokazuje czerwony grzybek na żółtym tle, 30 centymetrów na lewo od zielonego START-u. **„Zanim naciśniesz START, sprawdź, czy STOP jest sprawny i w twoim zasięgu. Jeśli nie wiesz, gdzie jest STOP, nie dotykaj START-u."**
+Andrij patrzy zdezorientowany. Przecież chce **uruchomić** maszynę, nie zatrzymać ją. Brygadzista odwraca jego dłoń i pokazuje czerwony grzybek na żółtym tle, 30 centymetrów na lewo od zielonego START-u. **„Zanim naciśniesz START, sprawdź, czy STOP jest sprawny i w twoim zasięgu. Jeśli nie wiesz, gdzie jest STOP, nie dotykaj START-u."**
 
 Ta lekcja tłumaczy, dlaczego w każdej maszynie do drewna układ zatrzymania **ma pierwszeństwo** nad układem uruchamiania. Dlaczego grzybek ma kolor czerwony na żółtym tle. Dlaczego w zakładzie z trzema stanowiskami pilarki widzisz **sześć grzybków**, a nie trzy. I dlaczego codzienny test STOP-u to nie paranoja brygadzisty, tylko wymóg Rozp. MG 2000.
 
@@ -159,12 +159,12 @@ D) Naciskam grzybek razem z listwą, żeby „wytrenować mechanizm".
 **Akcenty lekcji:**
 
 - Drugi krok rytuału **sprawdź – uruchom – zgłoś**. Po „sprawdź siebie" z lekcji 2 przychodzi **„sprawdź maszynę"**, zaczynający się od STOP-u. Podkreśl: **uruchomienie to nie pierwsza czynność, tylko trzecia (po sprawdzeniu ŚOI i sprawdzeniu E-stop).**
-- Hai kontynuacja łuku: w pilocie „pierwszy raz sam", w l2 „ubiera się jak operator", tutaj „kładzie lewą dłoń na STOP-ie". Cielesny gest ukotwiczony w nawyku. W l4 wykona pięciopunktowy checklist, zamykający rytuał tygodnia.
+- Andrij kontynuacja łuku: w pilocie „pierwszy raz sam", w l2 „ubiera się jak operator", tutaj „kładzie lewą dłoń na STOP-ie". Cielesny gest ukotwiczony w nawyku. W l4 wykona pięciopunktowy checklist, zamykający rytuał tygodnia.
 - Fail-safe principle nie jest „bezpieczniej = drożej". To jest **prawny standard** wynikający z Rozp. MG 2000 i normy PN-EN ISO 13850. Maszyny bez tego standardu są **nielegalne w eksploatacji** po 2006 r. (dyrektywa maszynowa 2006/42/WE).
 
 **Pułapki migranckie:**
 
-- W wielu krajach (Wietnam, Mołdawia, Gruzja, częściowo Ukraina) stare maszyny bez E-stop są w użyciu. Operator przenosi odruch „jedyny przycisk to START, w razie czego wyłącz zasilanie główne". W Polsce to skrót, który kosztuje palce (wybieg koła zamachowego 15-30 s bez hamulca).
+- W wielu krajach pochodzenia (Ukraina, Kolumbia, Wenezuela, Peru, Boliwia) stare maszyny bez E-stop są w użyciu. Operator przenosi odruch „jedyny przycisk to START, w razie czego wyłącz zasilanie główne". W Polsce to skrót, który kosztuje palce (wybieg koła zamachowego 15-30 s bez hamulca).
 - Pokaż fizycznie różnicę: czerwony grzybek na żółtym tle vs. czerwony przycisk na szarym pulpicie. Zadaj pytanie migrantom: „ile taśm potrzebujesz, żeby przyciemnić halę tak, żeby czerwony na szarym zniknął?". Odpowiedź: jedna (zapylenie po 2 h cięcia dębu).
 - Czwarta pułapka (nieprzetestowany) jest najtrudniejsza pedagogicznie. Operator myśli „brygadzista testował w zeszłym tygodniu, to wystarczy". Rozp. MG 2000 wymaga **codziennego testu**. Pokaż zapis w dzienniku jako dowód, nie biurokrację.
 

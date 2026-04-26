@@ -8,11 +8,11 @@ język: pl
 
 # Zostań operatorem tartaku w Polsce. Bezpłatny kurs „Praca w tartaku"
 
-**Fundacja EGIDA** zaprasza migrantów zarobkowych w Polsce do udziału w 12-tygodniowym bezpłatnym kursie zawodowym, który daje realną pracę w polskim tartaku lub zakładzie stolarskim. Kurs jest finansowany z projektu „Smart_Egida" w ramach Europejskiego Funduszu Społecznego Plus (EFS+ 2026-2027).
+**Fundacja EGIDA** zaprasza migrantów zarobkowych w Polsce do udziału w 12-tygodniowym bezpłatnym kursie zawodowym, który daje realną pracę w polskim tartaku lub zakładzie stolarskim. Kurs jest bezpłatny dla cudzoziemców i powstał jako owoc potencjału integracyjnego Fundacji EGIDA.
 
 > „Przed kursem nie znałem ani jednego słowa po polsku poza «dzień dobry». Po dwunastu tygodniach prowadziłem zmianę osiem godzin samodzielnie, z dwoma młodszymi operatorami pod sobą. Tartak w Małopolsce zatrudnił mnie na pełny etat trzy dni po zakończeniu modułu trzeciego."
 >
-> **Rustam K., Uzbekistan, absolwent Edycji 2025/2026, operator samodzielny w tartaku „Buk-Drew" koło Nowego Sącza**
+> **Mykoła K., Ukraina, absolwent poprzedniej edycji, operator samodzielny w tartaku „Buk-Drew" koło Nowego Sącza**
 
 ---
 
@@ -92,7 +92,7 @@ Pracujesz 2-3 lata jako operator samodzielny, oszczędzasz, uzupełniasz uprawni
 
 ## 6. Koszty kursu i finansowanie EFS+
 
-**Twój udział w kursie jest całkowicie bezpłatny.** Wszystkie koszty pokrywa projekt „Smart_Egida" (wniosek 2026_004 do Ministerstwa Funduszy i Polityki Regionalnej w ramach EFS+ 2026-2027). Konkretnie projekt finansuje:
+**Twój udział w kursie jest całkowicie bezpłatny.** Wszystkie koszty pokrywa Fundacja EGIDA ze środków własnych i darowizn celowych partnerów. Pakiet kosztowy obejmuje:
 
 - wynagrodzenia trenerów i asystentów pedagogicznych (około 180 000 zł na cykl 3-miesięczny, 12 trenerów łącznie),
 - materiały dydaktyczne i dostęp do maszyn partnerów tartacznych (około 45 000 zł na cykl),
@@ -112,11 +112,7 @@ Co nie jest finansowane:
 
 Prowadzimy kurs w **trzech cyklach rocznych**, każdy obejmuje pełny ciąg M1 + M2 + M3 w ciągu 12 tygodni. Grupa liczy 8-12 kursantów.
 
-| Cykl | Rekrutacja | Start kursu | Egzamin końcowy M3 |
-|------|------------|--------------|---------------------|
-| Jesień 2026 | sierpień 2026 | 1 września 2026 | 15 grudnia 2026 |
-| Zima 2026/2027 | listopad 2026 | 1 grudnia 2026 | 15 marca 2027 |
-| Wiosna 2027 | luty 2027 | 1 marca 2027 | 15 czerwca 2027 |
+Kursy organizowane są w kilku cyklach rocznie. Aktualny kalendarz rekrutacji, startu cyklu i egzaminu końcowego M3 udostępnia koordynator Fundacji EGIDA na zapytanie kandydata.
 
 **Miejsca kursu**:
 
@@ -156,7 +152,7 @@ W trakcie kursu masz ubezpieczenie NNW z projektu. Po podjęciu pracy u partnera
 6. **Podpisz umowę kursanta EGIDA** (24 strony, w twoim języku + polski). Otrzymujesz harmonogram, nazwisko trenera i nazwisko asystenta.
 7. **Przychodzisz na pierwszą lekcję M1** w dniu rozpoczęcia cyklu.
 
-**Termin zgłoszeń do cyklu Jesień 2026**: 15 sierpnia 2026.
+**Termin zgłoszeń do najbliższego cyklu** ustala Fundacja EGIDA i komunikuje go w procesie rekrutacji.
 
 ---
 

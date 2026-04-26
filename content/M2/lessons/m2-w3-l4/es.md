@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Jueves, 7:00, nave de sierras circulares del aserradero de la Fundación EGIDA. Oleksii ha pasado los tres días anteriores en la sierra de cinta Wood-Mizer LT40 número dos: lunes puesta en marcha, martes ajuste de rodillos, miércoles primer corte de producción de roble. Hoy cambio de puesto. Marek le lleva al otro lado de la nave, hasta la **canteadora Storti DDM-200**, un equipo que procesa la madera aserrada sin cantear procedente justamente de la sierra de cinta. Las tablas de roble de 150 × 25 × 3000 mm que Oleksii cortó el miércoles reposan apiladas en una carretilla: tienen corteza en dos cantos, hay que cantearlas hasta obtener una sección rectangular. Aquí termina la sierra de cinta y empieza la circular.
+Jueves, 7:00, nave de sierras circulares del aserradero de la Fundación EGIDA. Oleksij ha pasado los tres días anteriores en la sierra de cinta Wood-Mizer LT40 número dos: lunes puesta en marcha, martes ajuste de rodillos, miércoles primer corte de producción de roble. Hoy cambio de puesto. Marek le lleva al otro lado de la nave, hasta la **canteadora Storti DDM-200**, un equipo que procesa la madera aserrada sin cantear procedente justamente de la sierra de cinta. Las tablas de roble de 150 × 25 × 3000 mm que Oleksij cortó el miércoles reposan apiladas en una carretilla: tienen corteza en dos cantos, hay que cantearlas hasta obtener una sección rectangular. Aquí termina la sierra de cinta y empieza la circular.
 
-A primera vista la canteadora tiene un aspecto completamente distinto al de la sierra de cinta: en lugar de una larga cinta vertical que circula por dos volantes se ven **dos discos horizontales de 350 mm de diámetro**, paralelos a una distancia de unos 130 mm entre sí, sobresaliendo 40 mm por encima de la mesa de alimentación. El material entra sobre un transportador de rodillos entre los discos y sale canteado por ambos lados en una sola pasada. Marek le entrega a Oleksii un empujador de madera de 500 mm de longitud y le dice: «Circular longitudinal. Las mismas reglas que la de cinta, comprueba, arranca, alimenta, pero con tres diferencias. **Cuchillo divisor, protección regulable, empujador**. Sin estos tres no te acercas al disco.»
+A primera vista la canteadora tiene un aspecto completamente distinto al de la sierra de cinta: en lugar de una larga cinta vertical que circula por dos volantes se ven **dos discos horizontales de 350 mm de diámetro**, paralelos a una distancia de unos 130 mm entre sí, sobresaliendo 40 mm por encima de la mesa de alimentación. El material entra sobre un transportador de rodillos entre los discos y sale canteado por ambos lados en una sola pasada. Marek le entrega a Oleksij un empujador de madera de 500 mm de longitud y le dice: «Circular longitudinal. Las mismas reglas que la de cinta, comprueba, arranca, alimenta, pero con tres diferencias. **Cuchillo divisor, protección regulable, empujador**. Sin estos tres no te acercas al disco.»
 
 Esta lección introduce la **sierra circular** como segundo puesto de transformación de madera, después de la sierra de cinta, al que tienes acceso bajo supervisión. La canteadora es una **sierra circular longitudinal**: corta en el sentido de la fibra, a lo largo de la tabla. La sierra circular **transversal** (cross-cut) corta en sentido transversal a la fibra y sirve para acortar troncos o madera aserrada a longitudes establecidas. Dos construcciones, un mismo principio de corte (disco giratorio con dientes), pero geometrías de riesgo distintas.
 
@@ -47,7 +47,7 @@ El **cuchillo divisor** (al. *Spaltkeil*, ing. *riving knife*) es una placa de a
 
 La sierra circular longitudinal tiene **dos protecciones**: **fija** (cubre la parte trasera, inactiva, del disco) y **regulable** (desciende sobre el material, cubre el disco en la zona activa). La protección regulable oculta la mano del operario ante virutas y astillas, y en caso de rechazo leve hace las veces de pantalla.
 
-Regla de ajuste: **la holgura no supera los 5 mm sobre el material**. Más arriba: una ventana por la que puede entrar una mano o una viruta. Si descansa sobre el material: el rozamiento bloquea el movimiento, el operario la levanta y «se olvida» de bajarla. Oleksii, en la canteadora Storti, lo comprueba así: coloca una tabla de 25 mm bajo el disco, baja la protección hasta el contacto y la levanta el grosor de una hoja de papel (≤1 mm).
+Regla de ajuste: **la holgura no supera los 5 mm sobre el material**. Más arriba: una ventana por la que puede entrar una mano o una viruta. Si descansa sobre el material: el rozamiento bloquea el movimiento, el operario la levanta y «se olvida» de bajarla. Oleksij, en la canteadora Storti, lo comprueba así: coloca una tabla de 25 mm bajo el disco, baja la protección hasta el contacto y la levanta el grosor de una hoja de papel (≤1 mm).
 
 **Legislación**: § 11 del reglamento de 14.04.2000 exige una holgura no superior al valor imprescindible para el trabajo. Práctica polaca: máximo 5 mm.
 
@@ -59,7 +59,7 @@ El procedimiento es **análogo al de la sierra de cinta** (lección 1 de esta se
 
 **Paso 2: Control del cuchillo divisor (20 segundos).** Distancia 2–10 mm al disco (regla con graduación milimétrica, Marek tiene una en el pupitre), altura 2–5 mm por debajo del diente más alto (a simple vista), el grosor de la placa del cuchillo coincide con la placa del disco, dos tornillos M10 con contratuerca apretados.
 
-**Paso 3: Prueba del interruptor de PARADA (10 segundos).** Seta en el pupitre de la canteadora: sobresale 30 mm en posición lista, bloqueada 10 mm tras pulsarla. Oleksii hace la prueba sin arrancar el disco: pulsa, desbloquea, pulsa, desbloquea. **Mano izquierda en PARADA antes que la derecha en ARRANQUE**, hábito mecánico de la lección 3 de la semana 1, que vuelve en cada máquina hasta el final de la carrera.
+**Paso 3: Prueba del interruptor de PARADA (10 segundos).** Seta en el pupitre de la canteadora: sobresale 30 mm en posición lista, bloqueada 10 mm tras pulsarla. Oleksij hace la prueba sin arrancar el disco: pulsa, desbloquea, pulsa, desbloquea. **Mano izquierda en PARADA antes que la derecha en ARRANQUE**, hábito mecánico de la lección 3 de la semana 1, que vuelve en cada máquina hasta el final de la carrera.
 
 **Paso 4: ARRANQUE y marcha en vacío 30 segundos (30 segundos).** Aviso en voz alta: «¡Arranco la canteadora número uno, marcha en vacío treinta segundos!». ARRANQUE. Observación con 3 sentidos: sonido del motor uniforme sin «soplidos» (el disco no roza la protección), sin vibración transmitida por la mesa a la mano (mano del operario apoyada suavemente en el bastidor de la máquina), sin olor a quemado del motor. **Específico de la circular**: observación de las revoluciones en el indicador (2000–4000 rpm en la zona verde, un disco de 350 mm suele ir a 3000 rpm = velocidad periférica 55 m/s).
 
@@ -75,7 +75,7 @@ El procedimiento es **análogo al de la sierra de cinta** (lección 1 de esta se
 
 **Material del empujador: madera**, nunca metal. Un empujador metálico en caso de rechazo se convierte en un proyectil adicional que sale volando a 30 m/s. El empujador de madera se rompe, pero no hiere.
 
-Oleksii abre el armario junto a la canteadora: hay allí 6 empujadores de distintos tamaños, cada uno con la fecha de fabricación y las iniciales del operario (Tadeusz Kowalski talló tres de ellos hace 2 meses). Marek le muestra cuál corresponde al roble de 25 × 150 mm: empujador de 500 mm con muesca de 25 mm.
+Oleksij abre el armario junto a la canteadora: hay allí 6 empujadores de distintos tamaños, cada uno con la fecha de fabricación y las iniciales del operario (Tadeusz Kowalski talló tres de ellos hace 2 meses). Marek le muestra cuál corresponde al roble de 25 × 150 mm: empujador de 500 mm con muesca de 25 mm.
 
 ### Longitudinal o transversal: dos geometrías de riesgo
 
@@ -105,11 +105,11 @@ Al aprendiz se le permite: alimentar piezas prismáticas en el transportador de 
 Motivo: dos tablas de distinto grosor bajo el disco provocan una carga asimétrica, el disco se flexiona, el cuchillo divisor deja de trabajar, rechazo a 30–40 m/s.
 :::
 
-### Caso Oleksii: las primeras 40 tablas y la primera señal de desgaste
+### Caso Oleksij: las primeras 40 tablas y la primera señal de desgaste
 
-Jueves, 7:30, Oleksii termina el procedimiento de 6 pasos (cuchillo, 4 parámetros; protecciones comprobadas; corte de prueba en pino 25 × 150 × 500 mm sin incidencias). ARRANQUE de producción. Las primeras 40 tablas de roble 25 × 150 × 3000 mm de la sesión del miércoles en la sierra de cinta avanzan sin problemas: alimentación individual, empujador en los últimos 300 mm, 25 segundos por tabla. Marek a 2 m detrás del puesto, observa, no comenta.
+Jueves, 7:30, Oleksij termina el procedimiento de 6 pasos (cuchillo, 4 parámetros; protecciones comprobadas; corte de prueba en pino 25 × 150 × 500 mm sin incidencias). ARRANQUE de producción. Las primeras 40 tablas de roble 25 × 150 × 3000 mm de la sesión del miércoles en la sierra de cinta avanzan sin problemas: alimentación individual, empujador en los últimos 300 mm, 25 segundos por tabla. Marek a 2 m detrás del puesto, observa, no comenta.
 
-La tabla 41 sale con el canto ondulado (amplitud 1,5 mm, longitud de onda 20 mm). Oleksii lo ve enseguida: señal 2 de la lección 3, ondulación del corte. Mano izquierda en PARADA. «Marek, por favor, mire, ondulación.» Marek examina el canto, luego el disco: un diente mellado, astillado de 3 × 2 mm. «Buena detección. Cambio de disco en dos horas, ahora terminamos el lote más lento, avance de 15 m/min en lugar de 25.»
+La tabla 41 sale con el canto ondulado (amplitud 1,5 mm, longitud de onda 20 mm). Oleksij lo ve enseguida: señal 2 de la lección 3, ondulación del corte. Mano izquierda en PARADA. «Marek, por favor, mire, ondulación.» Marek examina el canto, luego el disco: un diente mellado, astillado de 3 × 2 mm. «Buena detección. Cambio de disco en dos horas, ahora terminamos el lote más lento, avance de 15 m/min en lugar de 25.»
 
 **Lección del día**: las señales de desgaste del disco son **la misma disciplina que las señales de desgaste de la cinta** (sierra de cinta, lección 3). Grietas, astillados de dientes, manchas azules en el cuerpo, ondulación del corte: cada una de ellas = PARADA + notificación. Una señal no notificada es una amputación en 5 minutos, no en 5 semanas.
 
@@ -173,4 +173,4 @@ Este mes asistirás en la circular individual. Dentro de 4–6 meses, tras 100+ 
 
 **Disciplina del empujador y frontera de la multihoja**: el empujador está SIEMPRE listo en el armario junto al puesto, no en la caja de herramientas. Cuando el alumno no tenga un empujador a mano, interrumpe el corte, busca el empujador, reanuda. «Acabo con las manos esta única tabla rápidamente» = historia de amputación PIP 2019–2023. En la multihoja no enseñes el manejo, enseña el reconocimiento: tras la lección el alumno debe poder decir: «Eso es una multi-rip, yo no la manejo, puedo alimentar la pieza prismática desde 2 m de distancia». Autorización de autonomía en la circular individual: mínimo 100 horas bajo supervisión, 4–6 meses. Multihoja: mínimo 6 meses en la individual + UDT + 20–30 cortes bajo supervisión.
 
-**Puente a la lección 5**: la siguiente lección (canteadora y cepilladora: posición y alimentación) amplía el tema de esta zona de la nave. Oleksii continúa en la Storti, trabaja también con la cepilladora de 4 caras Weinig, con postura lateral, no en el eje de rechazo.
+**Puente a la lección 5**: la siguiente lección (canteadora y cepilladora: posición y alimentación) amplía el tema de esta zona de la nave. Oleksij continúa en la Storti, trabaja también con la cepilladora de 4 caras Weinig, con postura lateral, no en el eje de rechazo.

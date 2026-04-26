@@ -327,7 +327,7 @@ D) Wszystko uśredniane jednym wynikiem.
 
 **44. Wyjaśnij, dlaczego „nie daję rady" zgłasza się w formacie 4W, a nie ogólnie.**
 
-*(Format 4W przetłumacza subiektywne „nie daję rady" na obserwowalne fakty: Marek, Hai, pilarka 2, 13:30, trzy sygnały zmęczenia, proszę o rotację lub 10 min mikropauzy; brygadzista dostaje podstawę do decyzji operacyjnej bez negocjacji; ochrona operatora przed interpretacją „leniwy".)*
+*(Format 4W przetłumacza subiektywne „nie daję rady" na obserwowalne fakty: Marek, Andrij, pilarka 2, 13:30, trzy sygnały zmęczenia, proszę o rotację lub 10 min mikropauzy; brygadzista dostaje podstawę do decyzji operacyjnej bez negocjacji; ochrona operatora przed interpretacją „leniwy".)*
 
 **45. Opisz pięć różnic między operatorem w brygadzie a juniorem pod nadzorem (synteza M1 vs M2).**
 
@@ -393,19 +393,19 @@ Piątek 13:45, koniec zmiany. Wypełniasz zielony dziennik ZMI-2026-087-01. Zauw
 
 Piątek 14:15, 6,5 godzina zmiany. Zauważasz u siebie: drżenie palców przy popychaczu (test kartki potwierdza), mrużenie oczu przy amperomierzu (nie widzisz drobnych wartości z 2 m), spowolnienie reakcji przy zapisie w notesie. Marek w hali na drugim końcu. Co robisz?
 
-*(Zasada trzech sygnałów aktywowana: trzy = obowiązkowa mikropauza lub zgłoszenie 4W; STOP na końcu aktualnego rzazu; zgłoszenie Markowi gestem w zasięgu wzroku lub 4W telefonicznie: „Marek, Hai, pilarka 2, 14:15, trzy sygnały zmęczenia drżenie-mrużenie-spowolnienie, proszę o rotację na dziennik lub 10 min mikropauzy"; decyzja brygadzisty: rotacja lub mikropauza w pokoju socjalnym; zapis w dzienniku jako dowód dobrej praktyki autoregulacji.)*
+*(Zasada trzech sygnałów aktywowana: trzy = obowiązkowa mikropauza lub zgłoszenie 4W; STOP na końcu aktualnego rzazu; zgłoszenie Markowi gestem w zasięgu wzroku lub 4W telefonicznie: „Marek, Andrij, pilarka 2, 14:15, trzy sygnały zmęczenia drżenie-mrużenie-spowolnienie, proszę o rotację na dziennik lub 10 min mikropauzy"; decyzja brygadzisty: rotacja lub mikropauza w pokoju socjalnym; zapis w dzienniku jako dowód dobrej praktyki autoregulacji.)*
 
 **54. Case: wózkowy bez kontaktu wzrokowego**
 
 Czwartek 11:45. Odbierasz pakiet SO-FSC-260420-020 od Krzysztofa Zagrodnego na polu FSC. Krzysztof manewruje wózkiem Toyota, ale nie patrzy na ciebie, pakiet już 2 m od twojej pozycji. Nie zrobiłeś gestu GOTOWE bo nie jesteś gotowy. Co robisz?
 
-*(Krok w tył poza strefę manewru 3 m; głośne wołanie „Krzyśku STOP, STOP!" + gest STOP dłoń nad głową; kontakt wzrokowy z operatorem wózka absolutnie obowiązkowy przed opuszczeniem pakietu; cytuję statystykę PIP 2019-2023: 48% wypadków wózek + operator = potrącenie operatora stojącego; zgłoszenie Markowi w formacie 4W po incydencie: „Marek, Hai, pole FSC, 11:45, Krzysztof opuścił pakiet bez mojego gestu GOTOWE i bez kontaktu wzrokowego, proszę o rozmowę kalibracyjną"; zapis w dzienniku jako near-miss.)*
+*(Krok w tył poza strefę manewru 3 m; głośne wołanie „Krzyśku STOP, STOP!" + gest STOP dłoń nad głową; kontakt wzrokowy z operatorem wózka absolutnie obowiązkowy przed opuszczeniem pakietu; cytuję statystykę PIP 2019-2023: 48% wypadków wózek + operator = potrącenie operatora stojącego; zgłoszenie Markowi w formacie 4W po incydencie: „Marek, Andrij, pole FSC, 11:45, Krzysztof opuścił pakiet bez mojego gestu GOTOWE i bez kontaktu wzrokowego, proszę o rozmowę kalibracyjną"; zapis w dzienniku jako near-miss.)*
 
 **55. Case: eskalacja od razu do Anny Kwiatkowskiej**
 
 Poniedziałek 7:40, 5 min przed startem. Widzisz, że w komorze suszarni numer 3 panel sterowania pokazuje alarm „temperatura 82°C w komorze z dębem", Zbigniew Majchrzak jeszcze nie przyszedł, Marek na odprawie do 7:55, Piotr Czerwiński w delegacji. Klasa Anna Kwiatkowska kierownik produkcji w biurze, 30 m stąd. Co robisz?
 
-*(Klasyfikacja pilności NATYCHMIAST: temperatura dębu 82°C >> limit 60°C = ryzyko pęknięć promieni rdzeniowych + straty całej partii 15-25 m³ dębu w cyklu; przeskok 3 szczebli (brygadzista + mistrz zmiany + mistrz suszarni) do kierownika produkcji dopuszczony bo wszyscy niedostępni i sprawa nie czeka; biegnę 30 m do biura Anny z formatem 4W: „pani kierownik, Hai, suszarnia komora 3, 7:40, alarm 82°C w cyklu dębu, limit 60°C, Zbigniew i Marek niedostępni, proszę o natychmiastową interwencję"; Anna decyduje o wyłączeniu komory; natychmiastowy SMS do Marka i Zbigniewa o przeskoku 3 szczebli; zapis w dzienniku z pełnym timeline'em.)*
+*(Klasyfikacja pilności NATYCHMIAST: temperatura dębu 82°C >> limit 60°C = ryzyko pęknięć promieni rdzeniowych + straty całej partii 15-25 m³ dębu w cyklu; przeskok 3 szczebli (brygadzista + mistrz zmiany + mistrz suszarni) do kierownika produkcji dopuszczony bo wszyscy niedostępni i sprawa nie czeka; biegnę 30 m do biura Anny z formatem 4W: „pani kierownik, Andrij, suszarnia komora 3, 7:40, alarm 82°C w cyklu dębu, limit 60°C, Zbigniew i Marek niedostępni, proszę o natychmiastową interwencję"; Anna decyduje o wyłączeniu komory; natychmiastowy SMS do Marka i Zbigniewa o przeskoku 3 szczebli; zapis w dzienniku z pełnym timeline'em.)*
 
 ---
 

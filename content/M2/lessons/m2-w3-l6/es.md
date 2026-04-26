@@ -6,7 +6,7 @@ czas: 120
 
 ## Introducción
 
-Lunes, 7:00, patio de clasificación del aserradero de la Fundación EGIDA: zona abierta bajo techado de 400 m² de superficie, a 15 m de la nave de sierras, con 12 puestos de apilado señalizados. En cada puesto hay una placa con el código: «A-25-150-3000» (clase A, espesor 25 mm, ancho 150 mm, longitud 3000 mm), «B-30-180-2500», «C-45-95-2500». Oleksii está aquí por primera vez como ejecutor: durante las tres semanas anteriores observó la clasificación desde el lateral, realizada por Tadeusz Kowalski y Maricel. Hoy Marek le dice: «Tienes hoy 30 tablas de la cepilladora del viernes: pino, espesores mezclados de 25 a 45 mm, longitudes 2500 y 3000 mm, clases A, B, C. Clasifícalas en las pilas correctas. Tadeusz ayuda con el transporte, pero tú decides adónde va cada cosa.»
+Lunes, 7:00, patio de clasificación del aserradero de la Fundación EGIDA: zona abierta bajo techado de 400 m² de superficie, a 15 m de la nave de sierras, con 12 puestos de apilado señalizados. En cada puesto hay una placa con el código: «A-25-150-3000» (clase A, espesor 25 mm, ancho 150 mm, longitud 3000 mm), «B-30-180-2500», «C-45-95-2500». Oleksij está aquí por primera vez como ejecutor: durante las tres semanas anteriores observó la clasificación desde el lateral, realizada por Tadeusz Kowalski y Sofía. Hoy Marek le dice: «Tienes hoy 30 tablas de la cepilladora del viernes: pino, espesores mezclados de 25 a 45 mm, longitudes 2500 y 3000 mm, clases A, B, C. Clasifícalas en las pilas correctas. Tadeusz ayuda con el transporte, pero tú decides adónde va cada cosa.»
 
 La clasificación es la **última etapa del proceso** antes del envío al destinatario. La sierra de cinta divide el tronco en bloque y madera no escuadrada (lección 5 de la semana 2), la sierra circular escuadra los bordes (lección 4 de esta semana), la cepilladora acaba la superficie (lección 5 de esta semana). Entre estas etapas la tabla tiene la identidad de «tabla en producción». Después de la clasificación, la tabla tiene la identidad de **«tabla en lote»**: con código, fecha, clase, especie y dimensiones, lista para envío o almacenamiento.
 
@@ -50,7 +50,7 @@ Especie:        pino (Pinus sylvestris)
 Clase:          A (PN-EN 1611-1)
 Dimensiones:    30 × 150 × 3000 mm
 Masa:           0,95 m³ (70 tablas)
-Operario:       O.B. (Oleksii Bohdaniuk)
+Operario:       O.B. (Oleksij Bohdaniuk)
 Capataz:        M.K.
 ```
 
@@ -64,20 +64,20 @@ El duplicado de la etiqueta cuelga en la **placa del puesto** (placa de plástic
 
 **Regla 2: Separación entre pilas de 1 m.** El mínimo de paso para la carretilla manual de transporte y para el movimiento seguro de un segundo operario. Si dos pilas están a menos de 1 m, la carretilla elevadora al levantar una pila golpea con las horquillas la otra, todo el patio de clasificación se desestabiliza. En grandes aserraderos (más de 20 empleados), las separaciones son de 1,5–2 m debido al tránsito de carretillas elevadoras de 1,2 m de ancho. En la Fundación EGIDA (8 empleados, carretilla manual), una separación de 1 m es suficiente.
 
-**Regla 3: Entregas en dos pasos, nunca lanzando.** Una tabla colocada sobre la pila **nunca se lanza desde altura**: siempre **en dos pasos**: (1) inclinación de la tabla sobre la pila con las manos bajas cerca del borde, (2) descenso cuidadoso hasta el contacto. Lanzar desde altura = impacto contra la capa superior con fuerza de 200–500 N = desestabilización de la pila, posible caída de una tabla por el otro lado, riesgo de golpear al compañero que está al otro lado de la pila. Oleksii coloca las primeras 5 tablas demasiado rápido (reflejo natural de «prisa»), Marek le detiene: «Más despacio. Dos pasos. Inclina, baja. Siempre.»
+**Regla 3: Entregas en dos pasos, nunca lanzando.** Una tabla colocada sobre la pila **nunca se lanza desde altura**: siempre **en dos pasos**: (1) inclinación de la tabla sobre la pila con las manos bajas cerca del borde, (2) descenso cuidadoso hasta el contacto. Lanzar desde altura = impacto contra la capa superior con fuerza de 200–500 N = desestabilización de la pila, posible caída de una tabla por el otro lado, riesgo de golpear al compañero que está al otro lado de la pila. Oleksij coloca las primeras 5 tablas demasiado rápido (reflejo natural de «prisa»), Marek le detiene: «Más despacio. Dos pasos. Inclina, baja. Siempre.»
 
-### Caso de Oleksii: 30 tablas en 4 pilas
+### Caso de Oleksij: 30 tablas en 4 pilas
 
-30 tablas de pino de la cepilladora del viernes esperan en un palé. Conjunto mezclado: espesores 25, 30, 45 mm, longitudes 2500 y 3000 mm, clases A, B, C (Oleksii evalúa cada tabla por separado: mira nudos, grietas frontales, curvaturas). Tadeusz transporta 5 tablas de cada vez en la carretilla manual a la zona de evaluación.
+30 tablas de pino de la cepilladora del viernes esperan en un palé. Conjunto mezclado: espesores 25, 30, 45 mm, longitudes 2500 y 3000 mm, clases A, B, C (Oleksij evalúa cada tabla por separado: mira nudos, grietas frontales, curvaturas). Tadeusz transporta 5 tablas de cada vez en la carretilla manual a la zona de evaluación.
 
-Oleksii clasifica durante 25 minutos. De las 30 tablas salen **4 pilas**:
+Oleksij clasifica durante 25 minutos. De las 30 tablas salen **4 pilas**:
 
 - **SO-A-260420-012**: pino clase A, 30 × 150 × 3000 mm, 12 tablas, 0,16 m³
 - **SO-A-260420-013**: pino clase A, 25 × 150 × 2500 mm, 8 tablas, 0,075 m³
 - **SO-B-260420-004**: pino clase B, 45 × 150 × 3000 mm, 6 tablas, 0,12 m³
 - **SO-C-260420-002**: pino clase C, 30 × 150 × 2500 mm, 4 tablas, 0,045 m³
 
-**Un error**: la tabla 29 tiene un nudo suelto de 35 mm; Oleksii la coloca en la pila A (se le pasó, porque el nudo está en el canto, no en la cara). Marek, al inspeccionar, saca la tabla y le muestra el nudo: «Suelto, 35 mm. Clase B: umbral de 30 mm superado. La movemos.» Oleksii traslada la tabla a la pila B, actualiza la etiqueta de la pila A (12 → 11 tablas) y de la pila B (6 → 7). La etiqueta lleva la fecha de actualización añadida a lápiz.
+**Un error**: la tabla 29 tiene un nudo suelto de 35 mm; Oleksij la coloca en la pila A (se le pasó, porque el nudo está en el canto, no en la cara). Marek, al inspeccionar, saca la tabla y le muestra el nudo: «Suelto, 35 mm. Clase B: umbral de 30 mm superado. La movemos.» Oleksij traslada la tabla a la pila B, actualiza la etiqueta de la pila A (12 → 11 tablas) y de la pila B (6 → 7). La etiqueta lleva la fecha de actualización añadida a lápiz.
 
 **Lección del día**: la clasificación exige **mirar la tabla por todos los lados**, no solo desde arriba. Los nudos sueltos suelen estar en el canto (visibles solo cuando la tabla está de costado) y las grietas frontales aparecen en los extremos, donde la cara superior no deja ver nada. La regla 80/20 de la Fundación EGIDA (de la lección 6 de la sem. 2): a los 3 meses el operario clasifica el 80 % correctamente por su cuenta, el 20 % lo controla el jefe. A los 6 meses, 90/10. Al año, 95/5. Antes de los 3 meses, cada decisión de clase pasa por la confirmación del capataz antes de fijar la etiqueta de manera definitiva.
 
@@ -138,4 +138,4 @@ Tras esta lección, en el patio de clasificación:
 
 **Errores más frecuentes de los cursillistas en esta lección**: (1) evaluar la tabla **solo desde arriba**, no por los 4 lados: los nudos sueltos y las grietas frontales están a menudo en el canto. Enseña la «rotación de la tabla»: cada tabla se gira 4 veces, un vistazo a cada lado. (2) **Promediar clases** en vez de aplicar la regla del criterio más débil. El cursillista ve una tabla «80 % clase A, 20 % clase B» y quiere darle «A menos» o «B más». Enseña: la clase es una, la más baja de los criterios. (3) **Lanzar la tabla sobre la pila**: reflejo natural de acelerar el trabajo. Requiere recordatorio firme con las primeras 10 tablas del cursillista nuevo.
 
-**Puente al bloque 3 de la semana 3**: las lecciones 7–8 (secado en cámara) introducirán el último eslabón de la cadena de transformación antes del envío: el secadero en cámara. Oleksii continúa durante toda la semana 3 (8 lecciones, pauta narrativa de Maricel en los bloques 1+3 de la S2). Lección 7: rol del cargador del secadero (parámetros por especie 35–70 °C pino, 30–60 °C roble/haya, enfriamiento ≤6 °C/h). Lección 8: protocolo de extracción del lote tras el secado y control de grietas. El rol de clasificador de la lección de hoy se enlaza con el rol de cargador del secadero: los mismos códigos de lote, la misma identidad de la tabla, cambia solo el estado del material (humedad del 30 % al 15 %).
+**Puente al bloque 3 de la semana 3**: las lecciones 7–8 (secado en cámara) introducirán el último eslabón de la cadena de transformación antes del envío: el secadero en cámara. Oleksij continúa durante toda la semana 3 (8 lecciones, pauta narrativa de Sofía en los bloques 1+3 de la S2). Lección 7: rol del cargador del secadero (parámetros por especie 35–70 °C pino, 30–60 °C roble/haya, enfriamiento ≤6 °C/h). Lección 8: protocolo de extracción del lote tras el secado y control de grietas. El rol de clasificador de la lección de hoy se enlaza con el rol de cargador del secadero: los mismos códigos de lote, la misma identidad de la tabla, cambia solo el estado del material (humedad del 30 % al 15 %).

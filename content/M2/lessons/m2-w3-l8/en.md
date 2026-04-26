@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Friday, 8:00 a.m., the kiln hall of the EGIDA Foundation, chamber 2. Ten days have passed since Tuesday, when Oleksii Bohdaniuk loaded batch SO-A-260420-012 into the chamber (pine class A, 50 × 150 × 3000 mm, 6 m³, 12 boards in total). Kiln master Zbigniew Majchrzak closed the cycle at 4:00 a.m. – the temperature dropped from 55°C to 23°C over 7 hours of gradient cooling (a rate of 4.6°C/h, safely below the 6°C/h limit). Now Oleksii stands in front of the chamber door with Zbigniew. "You loaded it yourself, you unload it yourself, you check it yourself," Zbigniew says. "I am assisting, but the class decisions are yours. Remember: class A before drying does not mean class A after drying. The material has matured, now we will see what has become of it."
+Friday, 8:00 a.m., the kiln hall of the EGIDA Foundation, chamber 2. Ten days have passed since Tuesday, when Oleksij Bohdaniuk loaded batch SO-A-260420-012 into the chamber (pine class A, 50 × 150 × 3000 mm, 6 m³, 12 boards in total). Kiln master Zbigniew Majchrzak closed the cycle at 4:00 a.m. – the temperature dropped from 55°C to 23°C over 7 hours of gradient cooling (a rate of 4.6°C/h, safely below the 6°C/h limit). Now Oleksij stands in front of the chamber door with Zbigniew. "You loaded it yourself, you unload it yourself, you check it yourself," Zbigniew says. "I am assisting, but the class decisions are yours. Remember: class A before drying does not mean class A after drying. The material has matured, now we will see what has become of it."
 
-This Friday closes the **Week 3 arc** for Oleksii – from Monday (l6), when he sorted the same batch in the yard, through Tuesday (l7), when he loaded it into the chamber, to Friday (l8), when he unloads and reclassifies it. The same operator, the same batch, but **different states** of the same lumber. Drying is not a process indifferent to wood – it **changes the class**. A board that had a minor end check at 1/4 of its width before drying may have 1/3 of its width after drying (because desorption stresses tore the fibres where they were weakest). This is not a drying error, this is the **nature of the wood** – an organic material reacts to a change in moisture with deformation and cracking, and part of the operator's role is to **accept this change and update the documentation**, not to try to hide it.
+This Friday closes the **Week 3 arc** for Oleksij – from Monday (l6), when he sorted the same batch in the yard, through Tuesday (l7), when he loaded it into the chamber, to Friday (l8), when he unloads and reclassifies it. The same operator, the same batch, but **different states** of the same lumber. Drying is not a process indifferent to wood – it **changes the class**. A board that had a minor end check at 1/4 of its width before drying may have 1/3 of its width after drying (because desorption stresses tore the fibres where they were weakest). This is not a drying error, this is the **nature of the wood** – an organic material reacts to a change in moisture with deformation and cracking, and part of the operator's role is to **accept this change and update the documentation**, not to try to hide it.
 
 The Week 3 mantra from lesson 1 goes: "I start, I adjust, I cut, I sort – but always under the supervision of a foreman or a senior." In lesson 8 we add the final activities of the week: **I measure, I assess, I reclassify, I update**. You are no longer in an executive role, you are in the role of a **verifier** who confirms or corrects the earlier classification decision.
 
@@ -38,11 +38,11 @@ Before you put a hand on the chamber handle, you check the Lignocam controller p
 
 **Parameter 3: wood moisture from the in-chamber probes**. In chamber 2, four wood probes (driven into representative boards of the batch before the cycle started – done by Zbigniew, without your involvement) show: 11.8% / 12.3% / 11.5% / 12.1%. Average 11.9%, spread 0.8% – cycle uniformity very good. Target moisture for the export pine batch: 12 ± 2%. It fits. Zbigniew says: "We are opening. Remember, the probe readings are orientational – your task is verification with a hand-held moisture meter in four positions after unloading."
 
-Door-opening mechanics: two side latches, one central latch, a rotary handle. The door of the Nardi chamber weighs 85 kg (150 mm of polyurethane foam insulation + steel sheet), it opens with hydraulic resistance that prevents abrupt motion. Oleksii opens it slowly – inside the chamber the warm air smells of wood, the batch stack is visible.
+Door-opening mechanics: two side latches, one central latch, a rotary handle. The door of the Nardi chamber weighs 85 kg (150 mm of polyurethane foam insulation + steel sheet), it opens with hydraulic resistance that prevents abrupt motion. Oleksij opens it slowly – inside the chamber the warm air smells of wood, the batch stack is visible.
 
 ### Moisture measurement in 4 positions A/B/C/D
 
-The hand-held moisture meter from lesson 2 of week 2 in module 2 (resistance model Brookhuis FMC, range 6–30% MC, accuracy ±0.5% MC, 30 mm electrodes driven **perpendicular to the fibres** to a depth of 1/3 of the board's thickness). Oleksii takes the tool out of the work case, checks the calibration (inserting into a 12% MC calibration block – reading 12.0% ± 0.3%, OK), enters the chamber together with Zbigniew.
+The hand-held moisture meter from lesson 2 of week 2 in module 2 (resistance model Brookhuis FMC, range 6–30% MC, accuracy ±0.5% MC, 30 mm electrodes driven **perpendicular to the fibres** to a depth of 1/3 of the board's thickness). Oleksij takes the tool out of the work case, checks the calibration (inserting into a 12% MC calibration block – reading 12.0% ± 0.3%, OK), enters the chamber together with Zbigniew.
 
 **The A/B/C/D measurement system** is the standard for batch inspection in Polish sawmills (recommended by PN-EN 13183-2 for the resistance method):
 
@@ -51,7 +51,7 @@ The hand-held moisture meter from lesson 2 of week 2 in module 2 (resistance mod
 - **Position C** – the board in the middle of the stack by height (for a 12-layer stack: layer 6 or 7), measurement 500 mm from the end. The middle of the stack has the weakest air circulation, so measurement C gives a **comparison between layers**.
 - **Position D** – the bottommost board in the stack, measurement at mid-length. Bottommost + middle = **the hardest zone to dry**, the last to reach the target moisture.
 
-Oleksii takes 4 measurements:
+Oleksij takes 4 measurements:
 - A (board 1, 500 mm from the end): **11.5% MC**
 - B (board 1, middle): **12.2% MC**
 - C (board 6, 500 mm from the end): **12.0% MC**
@@ -65,7 +65,7 @@ Average: 12.1% MC. A-D spread: 1.3% (max 12.8 – min 11.5). **A spread below 2%
 
 ### Inspection of surface checks and end checks
 
-After the moisture measurement, Oleksii puts the moisture meter aside and returns to the **visual assessment of checks**. Here he uses the class criteria from lesson 6 of week 2 in module 2 (Jan Pielorz – visual classification of wood defects), extended with post-drying specifics.
+After the moisture measurement, Oleksij puts the moisture meter aside and returns to the **visual assessment of checks**. Here he uses the class criteria from lesson 6 of week 2 in module 2 (Jan Pielorz – visual classification of wood defects), extended with post-drying specifics.
 
 **Surface checks** are formed when the outer layer of the board dries faster than the middle – tensile stresses in the outer layer exceed the wood's strength across the fibres, and the fibres separate. They look like **long narrow fissures 0.5–2 mm wide, 20–200 mm long**, parallel to the fibres (that is, along the board). Class criteria after drying:
 
@@ -79,15 +79,15 @@ After the moisture measurement, Oleksii puts the moisture meter aside and return
 - **Class B**: at most **1/3 of the width**. For 150 mm = max 50 mm deep.
 - **Class C**: at most **1/2 of the width**. For 150 mm = max 75 mm deep.
 
-Oleksii walks up to each of the 12 boards of batch SO-A-260420-012 in turn, with a pencil and an inspection sheet. The sheet has 12 rows (one board = one row), with columns: **board no.**, **surface checks** (total length per rm), **end checks** (depth as a fraction of the width), **class after drying**, **comment**.
+Oleksij walks up to each of the 12 boards of batch SO-A-260420-012 in turn, with a pencil and an inspection sheet. The sheet has 12 rows (one board = one row), with columns: **board no.**, **surface checks** (total length per rm), **end checks** (depth as a fraction of the width), **class after drying**, **comment**.
 
 ### Case of batch SO-A-260420-012 – reclassification of 2 boards
 
-Oleksii assesses boards 1–10 as compliant with class A (surface checks totalling 20–45 mm/rm, end checks 1/5 to 1/4 of the width – within class A). But **boards 11 and 12** (the last two, bottommost in the stack, that is, the hardest positions for drying) look different:
+Oleksij assesses boards 1–10 as compliant with class A (surface checks totalling 20–45 mm/rm, end checks 1/5 to 1/4 of the width – within class A). But **boards 11 and 12** (the last two, bottommost in the stack, that is, the hardest positions for drying) look different:
 
 **Board 11**: end check on one end, depth **50 mm** at a width of 150 mm = **1/3 of the width**. Measurement with a ruler, not by eye – precision ±1 mm. The other end of the board is without checks. Surface checks totalling 60 mm/rm (within the class B limit, the B threshold is 100 mm/rm). **Class = B** (the weakest criterion decides, that is, the end check of 1/3 of the width).
 
-**Board 12**: end checks on both ends, depth 45 mm (one side) and 55 mm (the other side). 55 mm at a width of 150 mm = **1/2.7 of the width, that is slightly above 1/3**, classified as C (the C threshold is 1/2 of the width, so 1/2.7 is within C, not exceeding it). Surface checks 70 mm/rm (class B). **The weakest criterion: end check of 1/2.7 of the width = class C.** Hmm. Oleksii pauses – an A→C reclassification is a two-step jump, a rare one. He checks twice with a ruler: 55 mm. Zbigniew comes over, measures himself: 54 mm. Decision: **class B** (rounded down, 54 mm is at the 1/3 = 50 mm boundary, slightly above – in the case of ambiguity the EGIDA sawmill rule: "a conservative decision, classify higher"). **Class = B**.
+**Board 12**: end checks on both ends, depth 45 mm (one side) and 55 mm (the other side). 55 mm at a width of 150 mm = **1/2.7 of the width, that is slightly above 1/3**, classified as C (the C threshold is 1/2 of the width, so 1/2.7 is within C, not exceeding it). Surface checks 70 mm/rm (class B). **The weakest criterion: end check of 1/2.7 of the width = class C.** Hmm. Oleksij pauses – an A→C reclassification is a two-step jump, a rare one. He checks twice with a ruler: 55 mm. Zbigniew comes over, measures himself: 54 mm. Decision: **class B** (rounded down, 54 mm is at the 1/3 = 50 mm boundary, slightly above – in the case of ambiguity the EGIDA sawmill rule: "a conservative decision, classify higher"). **Class = B**.
 
 **Result of the SO-A-260420-012 batch inspection**:
 - 10 boards → class A after drying (in line with the initial class)
@@ -98,16 +98,16 @@ Oleksii assesses boards 1–10 as compliant with class A (surface checks totalli
 The 17% rate for class A pine is at the upper edge of the industry norm (5–15%), but it does not signal an error – it is the edge of variability. Zbigniew notes in his register: "Batch SO-A-260420-012, reclassification 17%, within the norm. No further analyses needed."
 
 ::: example
-**Why boards 11 and 12 degraded and 1–10 did not.** Position in the stack: boards 11 and 12 were the bottommost – the zone of the **weakest air circulation** in the chamber, the **last zone to dry**. During the last 24 hours of the cycle, when boards 1–10 already had 12% moisture, boards 11–12 still had 15–17%. At that time the temperature was already the full 55°C – the final evaporation of vapour from the lower boards caused greater desorption stresses, checks on existing microfissures (which Oleksii did not see before drying, because they were too fine). Pedagogical conclusion: **position in the stack correlates with the risk of reclassification**. Next time you load the chamber, remember that the bottommost boards have a 2x higher risk of a class drop – it is worth placing wood already of a lower B class there, not sparing A for "unpredictable loss".
+**Why boards 11 and 12 degraded and 1–10 did not.** Position in the stack: boards 11 and 12 were the bottommost – the zone of the **weakest air circulation** in the chamber, the **last zone to dry**. During the last 24 hours of the cycle, when boards 1–10 already had 12% moisture, boards 11–12 still had 15–17%. At that time the temperature was already the full 55°C – the final evaporation of vapour from the lower boards caused greater desorption stresses, checks on existing microfissures (which Oleksij did not see before drying, because they were too fine). Pedagogical conclusion: **position in the stack correlates with the risk of reclassification**. Next time you load the chamber, remember that the bottommost boards have a 2x higher risk of a class drop – it is worth placing wood already of a lower B class there, not sparing A for "unpredictable loss".
 :::
 
 ### Updating documentation – label, register, batch code
 
-After classification, Oleksii and Zbigniew return to the kiln office (10 m² next to the hall, a desk, a shelf with folders, a computer with the batch database). Oleksii fills in three documents:
+After classification, Oleksij and Zbigniew return to the kiln office (10 m² next to the hall, a desk, a shelf with folders, a computer with the batch database). Oleksij fills in three documents:
 
 **Document 1: a new label for boards 11 and 12**. The old label "SO-A-260420-012" is peeled off boards 11 and 12 (not from the remaining 10 – they keep class A). On the new label: "**SO-B-260420-012-r**" (the letter "r" at the end stands for **reclassification**, the code retrospectively ties the board to the parent batch for audit purposes, at the same time signalling to the customer that the class is post-cycle, not original).
 
-**Document 2: an entry in the kiln log** – a physical diary (A4 format, ruled lines, entries in pencil or pen) with a fixed column structure: date of unloading, batch code, species, thickness, number of boards, average moisture, moisture spread, reclassifications, master's signature, loader's signature. Oleksii's entry:
+**Document 2: an entry in the kiln log** – a physical diary (A4 format, ruled lines, entries in pencil or pen) with a fixed column structure: date of unloading, batch code, species, thickness, number of boards, average moisture, moisture spread, reclassifications, master's signature, loader's signature. Oleksij's entry:
 
 ```
 02.05.2026 | SO-A-260420-012 | pine | 50 mm | 12 boards | 12.1% MC | spread 1.3% |
@@ -143,11 +143,11 @@ The documentation update you did today is a prelude to **week 4 of module 2** ("
 
 ## Trainer notes
 
-**Lesson time 120 minutes**. Breakdown: 15 min introduction + the Week 3 bracket (Oleksii from Monday to Friday – the same batch), 20 min pre-opening parameter check (3 parameters on the panel), 25 min moisture measurement in 4 positions (physical demonstration, if a moisture meter is available), 25 min inspection of checks (surface + end × 3 classes), 20 min reclassification on the case of batch SO-A-260420-012 (2 boards A→B), 10 min documentation update (label + register + ERP), 5 min Check yourself + discussion.
+**Lesson time 120 minutes**. Breakdown: 15 min introduction + the Week 3 bracket (Oleksij from Monday to Friday – the same batch), 20 min pre-opening parameter check (3 parameters on the panel), 25 min moisture measurement in 4 positions (physical demonstration, if a moisture meter is available), 25 min inspection of checks (surface + end × 3 classes), 20 min reclassification on the case of batch SO-A-260420-012 (2 boards A→B), 10 min documentation update (label + register + ERP), 5 min Check yourself + discussion.
 
 **The pedagogical rule "the class is not constant in time"** – this is the key moment closing week 3 and opening week 4 (documentation). A junior often thinks "if the board was class A before drying, it is class A after drying." This needs to be actively challenged. Method: show a physical pine board **before** and **after** the drying cycle, point out the microfissures that have grown into macrofissures after 10 days. If you do not have access to the kiln hall, photographs of the details of the checks (before/after) will also work.
 
-**Week 3 integration**: at the end of the lesson, draw Oleksii's arc on the board:
+**Week 3 integration**: at the end of the lesson, draw Oleksij's arc on the board:
 - l1–l3: band saw (I start, I adjust, I cut)
 - l4–l5: circular saw + edger + planer
 - l6: sorting (SO-A-260420-012 is created)
@@ -158,4 +158,4 @@ Extended Week 3 mantra: "**I start, I adjust, I cut, I sort, I load, I measure, 
 
 **Pedagogical risk – "contradiction with l6 W2"**: in lesson 6 of week 2 you taught that "class is a visual property visible before drying." Now you are saying "class changes after drying." This is not a contradiction, this is a **stage of the process**. Frame it as: "In l6 W2 you assessed the **raw** class before drying. In l8 W3 you assess the **post-cycle** class after drying. Both are true for their moment – the sawmill label contains both for the full documentary path."
 
-**Bridge to M3 W4 (complaints)**: in module 3 Oleksii will already be an independent operator handling conversations with a customer filing a batch complaint. Today's reclassification of 2 boards is the first foundation stone of that conversation – a sawmill that documented the reclassification has the documentation for its defence. A sawmill that hid it does not. This lesson lands in depth 6 months later, but we are laying the root today.
+**Bridge to M3 W4 (complaints)**: in module 3 Oleksij will already be an independent operator handling conversations with a customer filing a batch complaint. Today's reclassification of 2 boards is the first foundation stone of that conversation – a sawmill that documented the reclassification has the documentation for its defence. A sawmill that hid it does not. This lesson lands in depth 6 months later, but we are laying the root today.

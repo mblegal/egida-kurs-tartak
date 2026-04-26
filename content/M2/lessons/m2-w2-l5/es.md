@@ -6,11 +6,11 @@ czas: 120
 
 ## Introducción
 
-Viernes, octavo día de la segunda semana. Ayer Emeka aprendió a **ver** cuatro defectos de la madera. Hoy aprende a **nombrar lo que ve en las pilas tras el corte**. A las 7:30 el maestro Jan lo guía a lo largo de la pared oriental de la nave, donde descansan cinco pilas distintas de madera aserrada, cada una señalada con una placa numerada de 1 a 5.
+Viernes, octavo día de la segunda semana. Ayer Carlos aprendió a **ver** cuatro defectos de la madera. Hoy aprende a **nombrar lo que ve en las pilas tras el corte**. A las 7:30 el maestro Jan lo guía a lo largo de la pared oriental de la nave, donde descansan cinco pilas distintas de madera aserrada, cada una señalada con una placa numerada de 1 a 5.
 
-«Mira, Emeka. Todo esto salió de una sola troza de roble de ayer. **Cinco pilas diferentes, cinco precios diferentes, cinco clientes diferentes.** Antes de enseñarte a clasificar para estas pilas, tienes que saber cómo se llama lo que está ahí. Si no, en el cuaderno de pedidos escribes 'tabla' y nadie entiende a qué te refieres.»
+«Mira, Carlos. Todo esto salió de una sola troza de roble de ayer. **Cinco pilas diferentes, cinco precios diferentes, cinco clientes diferentes.** Antes de enseñarte a clasificar para estas pilas, tienes que saber cómo se llama lo que está ahí. Si no, en el cuaderno de pedidos escribes 'tabla' y nadie entiende a qué te refieres.»
 
-Esta lección trata sobre los **surtidos de madera aserrada**: los nombres comerciales de lo que sale del aserradero tras el despiece de la troza. Palabras que parecen sinónimos son, en el comercio de la madera, categorías distintas con precios distintos: **canteada y sin cantear** no es lo mismo que **tabla y viga**. **Pryzma** no es troza ni tabla, sino un semiproducto intermedio. **Oblina** (costero) es un residuo valioso para leña o tabla de embalaje, pero jamás para construcción. Hoy Emeka aprenderá a distinguir los cinco surtidos básicos y sabrá de qué máquina sale cada uno.
+Esta lección trata sobre los **surtidos de madera aserrada**: los nombres comerciales de lo que sale del aserradero tras el despiece de la troza. Palabras que parecen sinónimos son, en el comercio de la madera, categorías distintas con precios distintos: **canteada y sin cantear** no es lo mismo que **tabla y viga**. **Pryzma** no es troza ni tabla, sino un semiproducto intermedio. **Oblina** (costero) es un residuo valioso para leña o tabla de embalaje, pero jamás para construcción. Hoy Carlos aprenderá a distinguir los cinco surtidos básicos y sabrá de qué máquina sale cada uno.
 
 ## Objetivos
 
@@ -43,7 +43,7 @@ Antes de que la tabla llegue al cliente, la troza pasa por 5 etapas mecánicas. 
 
 ### Primer surtido: costero (oblina)
 
-Emeka está delante de la pila nº 1. Ve tablas con un perfil extraño: **un lado plano (tras el corte), el otro redondeado con corteza** (por el borde natural del tronco). Espesor irregular: 30 mm en el centro, 5–10 mm en los lados.
+Carlos está delante de la pila nº 1. Ve tablas con un perfil extraño: **un lado plano (tras el corte), el otro redondeado con corteza** (por el borde natural del tronco). Espesor irregular: 30 mm en el centro, 5–10 mm en los lados.
 
 El **costero** o **costanera** (polaco: *oblina*; inglés: *slab*; alemán: *Schwarte*) es el primer y el último trozo de la troza tras el corte longitudinal con sierra de cinta. Tiene **solo un lado plano**: aquel por el que pasó la sierra. El otro lado conserva el arco natural del tronco y la corteza (si la troza no fue descortezada). La longitud coincide con la de la troza (2,5–6 m), y el ancho varía desde 0 en los extremos hasta su máximo en el centro.
 
@@ -61,7 +61,7 @@ El **costero** o **costanera** (polaco: *oblina*; inglés: *slab*; alemán: *Sch
 
 ### Segundo surtido: opół (madero aserrado por la mitad)
 
-Emeka se acerca a la pila nº 2. Ve piezas gruesas de madera **con sección semicircular**: un lado plano (corte por el centro de la troza) y otro redondeado con corteza (lo que queda del tronco por el otro lado). Espesor en el centro 20–25 cm, ancho 30–50 cm, longitud 4 m.
+Carlos se acerca a la pila nº 2. Ve piezas gruesas de madera **con sección semicircular**: un lado plano (corte por el centro de la troza) y otro redondeado con corteza (lo que queda del tronco por el otro lado). Espesor en el centro 20–25 cm, ancho 30–50 cm, longitud 4 m.
 
 El **madero aserrado por la mitad** (polaco: *opół*; inglés: *half-sawn log*; alemán: *Halbholz*) es una troza cortada **por el centro en dos mitades iguales**. Se forma cuando la sierra de cinta realiza un único corte por el eje central de la troza, sin despiece posterior. El opół tiene un lado plano (el corte) y otro natural (con corteza o tras descortezado).
 
@@ -95,7 +95,7 @@ La **pryzma** (español: madero escuadrado; inglés: *cant*; alemán: *Scherbloc
 
 ### Cuarto y quinto surtido: madera sin cantear y madera canteada
 
-Emeka observa las pilas 4 y 5, una al lado de la otra. Pila 4: **tablas con la parte superior e inferior planas pero con lados naturales**, anchas en el centro, estrechándose en los extremos, con restos de corteza en los cantos. Pila 5: **las mismas tablas, pero con cuatro cantos rectos**, cada una con sección rectangular perfecta.
+Carlos observa las pilas 4 y 5, una al lado de la otra. Pila 4: **tablas con la parte superior e inferior planas pero con lados naturales**, anchas en el centro, estrechándose en los extremos, con restos de corteza en los cantos. Pila 5: **las mismas tablas, pero con cuatro cantos rectos**, cada una con sección rectangular perfecta.
 
 La **madera sin cantear** (*unedged lumber*) es la tabla tras la sierra de cinta que **no ha pasado por la canteadora**. Arriba y abajo planas (por la sierra), lados naturales (perfil del tronco). El ancho varía a lo largo de la tabla: en el testero puede ser de 35 cm, en el centro de 25 cm, y en el otro testero otra vez 35 cm.
 
@@ -122,7 +122,7 @@ Por una troza comprada en el bosque a 300 zł/m³ (volumen de 0,38 m³ con corte
 
 ### Cómo saber de qué máquina viene cada surtido
 
-Emeka ordena en su cabeza:
+Carlos ordena en su cabeza:
 - **Sierra de cinta (trak principal)**: troza → **tablas sin cantear más 2 costeros más, eventualmente, pryzma**.
 - **Canteadora (*edger*)**: tablas sin cantear → **tablas canteadas más listones de desecho**.
 - **Sierra de bastidor o multisierra**: pryzma → **paquete de tablas canteadas de idéntico espesor** en un solo corte a través de 6–12 sierras.
@@ -163,18 +163,18 @@ El lunes (lección 6, nueva semana) conocerás las **clases de calidad de la mad
 
 **Por qué exactamente cinco surtidos**: selección pragmática. La clasificación comercial completa de la madera aserrada distingue más de 15 surtidos (rastrel, cantón, listón, friso, elemento calibrado, moldura, durmiente, cabrio estructural, etc.), pero todos ellos son **variantes de madera canteada con dimensiones específicas**. Los surtidos fundamentales son **costero / opół / pryzma / canteada / sin cantear**, porque definen **la geometría de la sección y el grado de elaboración**. Las dimensiones son la segunda dimensión de la clasificación (tamaño) y la clase es la tercera (calidad). Las tres juntas (surtido más dimensión más clase) dan la posición completa de precio.
 
-**Analogía rectora**: el surtido es como «el despiece de la carne en la carnicería». El mismo toro da solomillo (el más caro, requiere un corte preciso), entrecot, lomo, paletilla, pecho, restos para embutido. El surtido del aserradero es análogo: tocón basal de roble para chapa (análogo al solomillo), pryzma estructural (entrecot), madera canteada clase B (lomo), sin cantear (paletilla), costero (pecho), serrín (resto para chorizo/pellet). Los cursistas procedentes de países con tradición carnicera desarrollada (gran parte de África, Filipinas, Ucrania, Georgia) entienden al instante esta analogía.
+**Analogía rectora**: el surtido es como «el despiece de la carne en la carnicería». El mismo toro da solomillo (el más caro, requiere un corte preciso), entrecot, lomo, paletilla, pecho, restos para embutido. El surtido del aserradero es análogo: tocón basal de roble para chapa (análogo al solomillo), pryzma estructural (entrecot), madera canteada clase B (lomo), sin cantear (paletilla), costero (pecho), serrín (resto para chorizo/pellet). Los cursistas procedentes de países con tradición carnicera desarrollada (Ucrania, Colombia, Venezuela, gran parte de América Latina) entienden al instante esta analogía.
 
 **Dónde regresa esta lección**: m2-w2-l6 clases A/B/C/D (calidad, tercera dimensión); m2-w2-l7 sierras (qué sierra para qué surtido); m2-w2-l8 cambio de cinta (el desgaste de la cinta depende del surtido: cortar pryzma de roble desafila la sierra 3 veces más rápido que cortar costero de pino); m2-w3-l2 la sierra de cinta en funcionamiento; m2-w3-l5 la canteadora; m2-w4-l2 clasificado y apilado de la madera aserrada terminada.
 
 **Trampas de los cursistas migrantes**:
-- «Madera aserrada = tabla»: **no necesariamente**. Madera aserrada es el término colectivo para todo lo que sale tras el corte longitudinal (tablas más vigas más listones más costeros). La tabla es un surtido concreto con proporciones de espesor < ancho < longitud. Los cursistas de Filipinas y África suelen usar una única palabra que equivale a «madera cortada» y no distinguen.
+- «Madera aserrada = tabla»: **no necesariamente**. Madera aserrada es el término colectivo para todo lo que sale tras el corte longitudinal (tablas más vigas más listones más costeros). La tabla es un surtido concreto con proporciones de espesor < ancho < longitud. Los cursistas de países donde el léxico aserradero no se desarrolló históricamente (parte de América Latina) suelen usar una única palabra que equivale a «madera cortada» y no distinguen.
 - El costero «como residuo para tirar»: **no**, el costero es un producto de 80–350 zł/m³. En países sin economía desarrollada de residuos madereros, este es un cambio mental difícil.
 - La pryzma «confundida con la viga»: la pryzma es semiproducto (entra a un nuevo corte), la viga es producto final (para cabrio). Misma geometría (40×40×400 cm), pero destino distinto. La pryzma tiene color fresco y no está seca; la viga se seca a menos del 20% y lleva marcado CE C24/C30.
 - Madera canteada frente a tabla de suelo: la canteada es madera aserrada en bruto con 4 cantos rectos; la de suelo es madera canteada tras cepillo, garlopa y, eventualmente, con perfil de machihembrado.
 
 **Economía de los surtidos**: el aserradero gana principalmente con la madera canteada A/B (60–70% de los ingresos) y poco con el costero y las astillas (5–10%), pero sin ellos quebraría (tendría que pagar por la gestión de residuos). Cada surtido tiene su papel en la microeconomía del taller.
 
-**Caso de Emeka, continuación**: el jueves conoció los defectos, el viernes los surtidos. El lunes (l6) se enterará de las clases A/B/C/D. En la tercera semana de M2 verá las sierras en funcionamiento, lo que cerrará el entendimiento iniciado esta semana sobre piezas estáticas.
+**Caso de Carlos, continuación**: el jueves conoció los defectos, el viernes los surtidos. El lunes (l6) se enterará de las clases A/B/C/D. En la tercera semana de M2 verá las sierras en funcionamiento, lo que cerrará el entendimiento iniciado esta semana sobre piezas estáticas.
 
 **Para el formador avanzado**: tras esta lección conviene dar un paseo por el aserradero con el cursista, mostrándole físicamente las máquinas y las pilas. El aserradero es un mundo visual, la descripción verbal no basta. Un paseo de 45 minutos por la nave tras esta lección es la parte más valiosa del curso.

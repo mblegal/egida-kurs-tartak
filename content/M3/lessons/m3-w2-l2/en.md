@@ -6,21 +6,21 @@ czas: 120
 
 ## Introduction
 
-Wednesday, 2026-05-06, at 10:15 in the morning. Rustam has just finished sawing through the third log of a batch of Norway spruce (species *Picea abies*, a delivery from the Drawno Forest District, 16 logs with diameters of 280 to 340 mm and a length of 4.2 m, an order for structural boards for a construction firm in Toruń). Wahan is sorting the sawn timber, Rustam switches the band off for a short break. The workstation phone rings. Ms. Ania:
+Wednesday, 2026-05-06, at 10:15 in the morning. Mykoła has just finished sawing through the third log of a batch of Norway spruce (species *Picea abies*, a delivery from the Drawno Forest District, 16 logs with diameters of 280 to 340 mm and a length of 4.2 m, an order for structural boards for a construction firm in Toruń). Wasyl is sorting the sawn timber, Mykoła switches the band off for a short break. The workstation phone rings. Ms. Ania:
 
-> **Ms. Ania:** "Rustam, come to the classifier's station in 15 minutes. That spruce batch from Drawno. I am going to do visual grading under PN-EN 1611-1. I need an assistant. Wahan can stay at P3, Marek will take over supervision."
+> **Ms. Ania:** "Mykoła, come to the classifier's station in 15 minutes. That spruce batch from Drawno. I am going to do visual grading under PN-EN 1611-1. I need an assistant. Wasyl can stay at P3, Marek will take over supervision."
 >
-> **Rustam:** "What should I bring?"
+> **Mykoła:** "What should I bring?"
 >
 > **Ms. Ania:** "A 5 m steel tape, a digital calliper, an observation notebook, a pen. The rest is in my place. You will come, look at every board from the batch, learn what I look at."
 
-At 10:32 Rustam enters the classifier's booth. The booth is a dedicated zone of 8 by 4 m in the western part of the hall, with good daylight (two roof skylights plus 6000 K LED lamps for work on overcast days), a 3 m long classification table with a hardwood insert (oak), a rack of reference samples of ten species and grades (for visual comparison), and a wall of standards panels (printed schemes of PN-EN 1611-1 for softwoods and PN-EN 975-1 for hardwoods, both in the Polish translations of PKN). On the table there are 48 spruce boards from the first three logs, already sorted. Ms. Ania is in a white work coat with the EGIDA logo, wearing a name tag: "Anna Kowalczyk, sawn timber grader, PN-EN 1611-1 certificate no. 2014/ITD/312, ITB accreditation PN-EN 14081 no. 2020/ITB/087".
+At 10:32 Mykoła enters the classifier's booth. The booth is a dedicated zone of 8 by 4 m in the western part of the hall, with good daylight (two roof skylights plus 6000 K LED lamps for work on overcast days), a 3 m long classification table with a hardwood insert (oak), a rack of reference samples of ten species and grades (for visual comparison), and a wall of standards panels (printed schemes of PN-EN 1611-1 for softwoods and PN-EN 975-1 for hardwoods, both in the Polish translations of PKN). On the table there are 48 spruce boards from the first three logs, already sorted. Ms. Ania is in a white work coat with the EGIDA logo, wearing a name tag: "Anna Kowalczyk, sawn timber grader, PN-EN 1611-1 certificate no. 2014/ITD/312, ITB accreditation PN-EN 14081 no. 2020/ITB/087".
 
-Ms. Ania smiles at Rustam.
+Ms. Ania smiles at Mykoła.
 
-> **Ms. Ania:** "Good morning, Rustam. Today I am going to teach you how I read a board. You will not be grading on your own, that is still not allowed, but you will learn how to measure, to note down, to prepare my work. This is a two-person operation: I look, you measure, together we arrive at a grade. After 60 boards, twice a week for a year, you will become a very good assistant. And in five to seven years, if you wish, you will go to a training course at the Wood Technology Institute in Poznań, obtain the certificate, and then you will grade on your own. Today you are on day one of that road."
+> **Ms. Ania:** "Good morning, Mykoła. Today I am going to teach you how I read a board. You will not be grading on your own, that is still not allowed, but you will learn how to measure, to note down, to prepare my work. This is a two-person operation: I look, you measure, together we arrive at a grade. After 60 boards, twice a week for a year, you will become a very good assistant. And in five to seven years, if you wish, you will go to a training course at the Wood Technology Institute in Poznań, obtain the certificate, and then you will grade on your own. Today you are on day one of that road."
 
-Rustam nods, opens his notebook. At the top of the page he writes: "PN-EN 1611-1, grader assistance. Wednesday 6 May 2026. Spruce batch Drawno, 16 logs, 60 boards." Ms. Ania takes the first board, lays it on the table, switches on the overhead lamp. Lesson two begins.
+Mykoła nods, opens his notebook. At the top of the page he writes: "PN-EN 1611-1, grader assistance. Wednesday 6 May 2026. Spruce batch Drawno, 16 logs, 60 boards." Ms. Ania takes the first board, lays it on the table, switches on the overhead lamp. Lesson two begins.
 
 ## Objectives
 
@@ -157,33 +157,33 @@ All three dimensions are measured **after drying** to the target moisture conten
 - **Resin** (*resin*): a transparent or amber substance filling streaks or knots. The grader evaluates the size of individual streaks plus the count per 1 m.
 
 ::: example
-**Ms. Ania and Rustam, board 17, 11:03.**
+**Ms. Ania and Mykoła, board 17, 11:03.**
 
-Spruce board, 4.2 m long, 150 mm wide, 25 mm thick. Ms. Ania lays the board on the table face up, switches on the overhead lamp, turns it towards the window (daylight from the skylight). Rustam stands on the right, with the tape and the calliper.
+Spruce board, 4.2 m long, 150 mm wide, 25 mm thick. Ms. Ania lays the board on the table face up, switches on the overhead lamp, turns it towards the window (daylight from the skylight). Mykoła stands on the right, with the tape and the calliper.
 
-> **Ms. Ania:** "Knots, Rustam, from the start of the board."
+> **Ms. Ania:** "Knots, Mykoła, from the start of the board."
 >
-> **Rustam** (walks along the board from left to right, measuring): "Knot 1 at 320 mm from the end, 18 mm diameter, sound, the surrounding grain continuous. Knot 2 at 780 mm, 14 mm diameter, sound. Knot 3 at 1620 mm, 22 mm, sound. Knot 4 at 2100 mm, 12 mm, sound. Knot 5 at 2950 mm, 38 mm, dead. Knot 6 at 3680 mm, 16 mm, sound. In total 6 knots, the largest 38 mm dead."
+> **Mykoła** (walks along the board from left to right, measuring): "Knot 1 at 320 mm from the end, 18 mm diameter, sound, the surrounding grain continuous. Knot 2 at 780 mm, 14 mm diameter, sound. Knot 3 at 1620 mm, 22 mm, sound. Knot 4 at 2100 mm, 12 mm, sound. Knot 5 at 2950 mm, 38 mm, dead. Knot 6 at 3680 mm, 16 mm, sound. In total 6 knots, the largest 38 mm dead."
 >
 > **Ms. Ania:** "Good. Knot 5 disqualifies from G2-1 (dead up to 10 mm permitted). G2-2 or G2-3 remains. Check the splits."
 >
-> **Rustam** (turns the board, looks at the ends): "Left end: an end split 4 mm wide, 65 mm long. Right end: a split 2 mm by 40 mm. Visible face: a face split at the level of knot 5, 2 mm wide, 180 mm long. Lower face: two smaller splits, 1 mm wide each, 80 mm long each."
+> **Mykoła** (turns the board, looks at the ends): "Left end: an end split 4 mm wide, 65 mm long. Right end: a split 2 mm by 40 mm. Visible face: a face split at the level of knot 5, 2 mm wide, 180 mm long. Lower face: two smaller splits, 1 mm wide each, 80 mm long each."
 >
 > **Ms. Ania:** "The splits fit within G2-2. Wane?"
 >
-> **Rustam** (turns the board on its sides): "Left edge clean. Right edge: wane 240 mm long, 12 mm wide at the widest point."
+> **Mykoła** (turns the board on its sides): "Left edge clean. Right edge: wane 240 mm long, 12 mm wide at the widest point."
 >
 > **Ms. Ania:** "G2-2 (up to 20 mm by 300 mm). Curvature?"
 >
-> **Rustam** (lays the board flat): "Sweep: 5 mm in the middle. Spring: 3 mm. Twist: one end 2 mm above the table."
+> **Mykoła** (lays the board flat): "Sweep: 5 mm in the middle. Spring: 3 mm. Twist: one end 2 mm above the table."
 >
 > **Ms. Ania:** "G2-2 (sweep up to 10 mm). Biological defects?"
 >
-> **Rustam:** "Blue stain on the sapwood, about 8% of the surface, superficial. No mould, no decay. Resin: one streak 18 mm by knot 3."
+> **Mykoła:** "Blue stain on the sapwood, about 8% of the surface, superficial. No mould, no decay. Resin: one streak 18 mm by knot 3."
 >
 > **Ms. Ania:** "8% blue stain fits within G2-2 (up to 100% superficial). Final board grade: **G2-2**. Note it down."
 
-Rustam writes: "Board 17: G2-2. Justification: knot 5 dead 38 mm, wane 12 by 240, blue stain 8% superficial". He places the board on the G2-2 stack (second from the right).
+Mykoła writes: "Board 17: G2-2. Justification: knot 5 dead 38 mm, wane 12 by 240, blue stain 8% superficial". He places the board on the G2-2 stack (second from the right).
 :::
 
 ### The role of the operator assistant, what is allowed and what is not
@@ -220,19 +220,19 @@ Entry conditions: at least 3 years of sawmill work in direct contact with sawn t
 
 The certificate is valid for **5 years**, after which a refresher course is required (2 days). EGIDA's graders refresh every 4 years, with a safety margin.
 
-Rustam is currently in the first year of self-reliant work. If he decides on the grader's path, he will be able to take the course at the earliest in 2029 (after three years of experience plus six months of assistance). He would obtain the certificate around 2029-2030.
+Mykoła is currently in the first year of self-reliant work. If he decides on the grader's path, he will be able to take the course at the earliest in 2029 (after three years of experience plus six months of assistance). He would obtain the certificate around 2029-2030.
 
 ::: tip
-At EGIDA six workers hold the visual grading certificate: Ms. Ania (lead, 12 years), Ms. Grażyna (9 years), Mr. Mirosław (retired, working as a reserve), three operators from M3 after training in the years 2021 to 2024. Weekly rotation: Ania four days, Grażyna two days, Mirosław as a substitute. Grading covers 5 shifts per week. If Rustam obtains the certificate in 2030 he will become the seventh grader, which will allow EGIDA to add a further grading shift (current capacity 60 m³ per day, with a seventh person 75 m³). The decision to invest in an employee's certification is directly convertible to an increase in throughput.
+At EGIDA six workers hold the visual grading certificate: Ms. Ania (lead, 12 years), Ms. Grażyna (9 years), Mr. Mirosław (retired, working as a reserve), three operators from M3 after training in the years 2021 to 2024. Weekly rotation: Ania four days, Grażyna two days, Mirosław as a substitute. Grading covers 5 shifts per week. If Mykoła obtains the certificate in 2030 he will become the seventh grader, which will allow EGIDA to add a further grading shift (current capacity 60 m³ per day, with a seventh person 75 m³). The decision to invest in an employee's certification is directly convertible to an increase in throughput.
 :::
 
 ### The pace and rhythm of assistance: 25 boards per hour
 
-Ms. Ania with Rustam grades the spruce from Drawno at the following pace:
+Ms. Ania with Mykoła grades the spruce from Drawno at the following pace:
 
-- **First board:** 5 minutes (Rustam is learning, Ms. Ania explains each criterion, together they measure slowly).
-- **Boards 2 to 10:** 4 minutes per board (Rustam is still learning, but faster).
-- **Boards 11 to 30:** 3 minutes per board (Rustam measures fluently now, Ms. Ania decides quickly).
+- **First board:** 5 minutes (Mykoła is learning, Ms. Ania explains each criterion, together they measure slowly).
+- **Boards 2 to 10:** 4 minutes per board (Mykoła is still learning, but faster).
+- **Boards 11 to 30:** 3 minutes per board (Mykoła measures fluently now, Ms. Ania decides quickly).
 - **Boards 31 to 60:** 2.5 minutes per board (rhythm set, few questions).
 
 On average 2.5 to 3 minutes per board = 20 to 24 boards per hour. Ms. Ania without assistance would do 15 boards per hour (she has to measure, note and stack on her own). A difference of 60% in favour of the pair.
@@ -246,9 +246,9 @@ Over a 60-board batch (about 3 hours of work):
 
 A typical distribution for a delivery from the Drawno Forest District (good growth conditions for spruce, lower mould pressure than in Pomorze).
 
-### What Rustam notes down and what remains on the card
+### What Mykoła notes down and what remains on the card
 
-In his notebook Rustam records each board: number, grade, 2 to 3 justifications covering the most important defects. After 60 boards (13:30) Ms. Ania copies the data from Rustam's notebook onto the **EGIDA KLW-001** form (the visual grading card), one form for the whole batch. The form contains:
+In his notebook Mykoła records each board: number, grade, 2 to 3 justifications covering the most important defects. After 60 boards (13:30) Ms. Ania copies the data from Mykoła's notebook onto the **EGIDA KLW-001** form (the visual grading card), one form for the whole batch. The form contains:
 
 - **Batch data**: number, delivery, species, number of boards, standard dimensions.
 - **Grade distribution**: number of boards in each grade plus percentage.
@@ -259,24 +259,24 @@ In his notebook Rustam records each board: number, grade, 2 to 3 justifications 
 
 The KLW-001 card goes into the batch file (plus a scan into the ERP system), 5-year retention, available in the event of a client claim.
 
-### The second scene: Rustam recognises G2-3 on his own, 13:45
+### The second scene: Mykoła recognises G2-3 on his own, 13:45
 
-At 13:45, towards the end of the spruce batch, Ms. Ania picks up board 58. She looks briefly, says: "Rustam, you try to assess it. Do not tell me the grade right away, just measure and describe. I will say afterwards whether I agree with your assessment."
+At 13:45, towards the end of the spruce batch, Ms. Ania picks up board 58. She looks briefly, says: "Mykoła, you try to assess it. Do not tell me the grade right away, just measure and describe. I will say afterwards whether I agree with your assessment."
 
-Rustam takes the board. Numerous knots are visible (at least 10 on a 4.2 m long board), two dead ones of 25 mm each, a visible face split 4 mm by 600 mm, wane on the edge 25 mm by 400 mm, twist of 5 mm at the end. Extensive blue stain, 40% of the surface, up to 3 mm deep.
+Mykoła takes the board. Numerous knots are visible (at least 10 on a 4.2 m long board), two dead ones of 25 mm each, a visible face split 4 mm by 600 mm, wane on the edge 25 mm by 400 mm, twist of 5 mm at the end. Extensive blue stain, 40% of the surface, up to 3 mm deep.
 
-Rustam measures, notes, tallies in his head:
+Mykoła measures, notes, tallies in his head:
 - Dead knots 25 mm = exceed G2-2 (up to 20 mm), go to G2-3.
 - Face split 4 mm by 600 mm = exceeds G2-2 (up to 3 mm by 800 mm on width, it fits on length, but 4 mm is too much), G2-3.
 - Wane 25 mm by 400 mm = exceeds G2-2 (20 by 300), G2-3.
 - Twist 5 mm = G2-3 (G2-2 at the borderline).
 - Blue stain 40% deep = exceeds G2-2 (up to 2 mm in depth, here 3 mm), G2-3.
 
-Five defects point to G2-3. Rustam says: "In my view G2-3. Five criteria beyond G2-2."
+Five defects point to G2-3. Mykoła says: "In my view G2-3. Five criteria beyond G2-2."
 
-Ms. Ania nods. "I agree. Board 58: G2-3. Well done, Rustam. You picked that up in the first batch you are assisting. It is a good sign."
+Ms. Ania nods. "I agree. Board 58: G2-3. Well done, Mykoła. You picked that up in the first batch you are assisting. It is a good sign."
 
-Rustam places the board on the G2-3 stack. He writes it down in the notebook, and makes a small check for himself: "first independent grade proposal, agreed by the grader".
+Mykoła places the board on the G2-3 stack. He writes it down in the notebook, and makes a small check for himself: "first independent grade proposal, agreed by the grader".
 
 ### Summary of lesson two
 
@@ -288,7 +288,7 @@ The role of the assistant operator: measures, notes, asks, learns. **Does not si
 
 The path to the PN-EN 1611-1 certificate: a 5-day course at ITD Poznań, an exam, entry condition of 3 years' experience plus 6 months of assistance. Valid for 5 years. Cost 3,500 PLN net, funded by EGIDA for interested employees.
 
-Today Rustam went through his first batch of assistance (60 spruce boards from Drawno, 3 hours). Grade distribution: G2-0 two, G2-1 twelve, G2-2 thirty, G2-3 fourteen, reject two. The KLW-001 card signed by Ms. Ania, Rustam, and Marek. The first independent grade proposal (board 58, G2-3) matched the grader's.
+Today Mykoła went through his first batch of assistance (60 spruce boards from Drawno, 3 hours). Grade distribution: G2-0 two, G2-1 twelve, G2-2 thirty, G2-3 fourteen, reject two. The KLW-001 card signed by Ms. Ania, Mykoła, and Marek. The first independent grade proposal (board 58, G2-3) matched the grader's.
 
 In the next lesson (m3-w2-l3) we move from visual grading to **strength grading under PN-EN 14081**: why we have two different standards, what the modulus of elasticity is, and why the strength grader needs an additional ITB accreditation.
 

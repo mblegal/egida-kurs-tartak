@@ -6,25 +6,25 @@ czas: 120
 
 ## Wprowadzenie
 
-Środa, 2026-06-10, godzina 13:55. Koniec zmiany Rustama i Wahana na P3 (sosna z nowej kampanii czerwcowej ZLE-2026-06-001, 1,2 m³ dłużycy przerobione, tarcica surowa do magazynu suszenia). Marek wzywa ich do biura brygadzisty na **sesję raportu zmianowego**, zaplanowaną w piątek jako część szkolenia M3 bloku procesowego, l6 kursu.
+Środa, 2026-06-10, godzina 13:55. Koniec zmiany Mykoły i Wasyla na P3 (sosna z nowej kampanii czerwcowej ZLE-2026-06-001, 1,2 m³ dłużycy przerobione, tarcica surowa do magazynu suszenia). Marek wzywa ich do biura brygadzisty na **sesję raportu zmianowego**, zaplanowaną w piątek jako część szkolenia M3 bloku procesowego, l6 kursu.
 
 Biuro brygadzisty: pokój 3 × 4 m w kącie hali pilarek, za ścianą działową z P1. Biurko z laptopem (HP ProBook, Windows 10, Excel), szafa z teczkami zleceń, tablica korkowa z kluczami, okno na plac magazynowy. Marek siedzi przy laptopie, na ekranie otwarty **raport zmianowy** (plik Excel `raport_zmianowy_20260527-20260610.xlsx`) obejmujący 2 ostatnie tygodnie (od startu ZLE-077 poniedziałek 26.05 do dzisiaj).
 
-Rustam i Wahan siadają na krzesłach naprzeciw Marka. Wahan ma w ręku swój kalendarzyk roboczy, Rustam notatnik zmianowy z dziś (KDP-001 dla ZLE-2026-06-001 już wypełniony, kopertę zostawił na biurku Marka rano).
+Mykoła i Wasyl siadają na krzesłach naprzeciw Marka. Wasyl ma w ręku swój kalendarzyk roboczy, Mykoła notatnik zmianowy z dziś (KDP-001 dla ZLE-2026-06-001 już wypełniony, kopertę zostawił na biurku Marka rano).
 
 ### 14:00, Marek pokazuje bilans ZLE-077
 
-Marek obraca laptop w stronę Rustama i Wahana. Ekran pokazuje tabelę Excel:
+Marek obraca laptop w stronę Mykoły i Wasyla. Ekran pokazuje tabelę Excel:
 
 ```
-RAPORT ZMIANOWY ZLE-2026-05-077 (Rustam, pon 26.05 + śr 10.06 finalizacja)
+RAPORT ZMIANOWY ZLE-2026-05-077 (Mykoła, pon 26.05 + śr 10.06 finalizacja)
 
 SUROWIEC (lasy Strzałowo):
   Dłużyca sosna zwyczajna, 4 pnie, ZLE-077:    1,32 m³
   Cena zakupu dłużyca (Nadleśnictwo):          380 zł/m³
   Wartość surowca:                             502 zł
 
-ETAP 1 – PRZETARCIE P3 Wood-Mizer LT70 (pon 26.05, Rustam + Wahan):
+ETAP 1 – PRZETARCIE P3 Wood-Mizer LT70 (pon 26.05, Mykoła + Wasyl):
   Tarcica surowa na wyjściu:                   0,582 m³
   Yield dłużyca → tarcica surowa:              44,1%
   Liczba desek 28 × 155 × 4050 mm:             33 szt
@@ -66,7 +66,7 @@ ETAP 5 – SPRZEDAŻ KLIENTOWI (sob 13.06 - sob 20.06):
     Razem:                       809,20 zł
 ```
 
-Marek patrzy na Rustama: *„Spójrz na ten raport. To jest **pełna ekonomika ZLE-077** od dłużycy po wydanie klientowi. Sześć etapów, każdy z kosztem i wartością. Teraz policzmy razem bilans końcowy."*
+Marek patrzy na Mykołę: *„Spójrz na ten raport. To jest **pełna ekonomika ZLE-077** od dłużycy po wydanie klientowi. Sześć etapów, każdy z kosztem i wartością. Teraz policzmy razem bilans końcowy."*
 
 ### 14:15, bilans końcowy ZLE-077
 
@@ -88,19 +88,19 @@ PRZYCHÓD ZLE-077:
 MARŻA ZLE-077:                                 -529 zł   ⚠️ STRATA
 ```
 
-Rustam patrzy zaskoczony: *„Marek, to jest **strata**? 529 zł?"*
+Mykoła patrzy zaskoczony: *„Marek, to jest **strata**? 529 zł?"*
 
 Marek kiwa głową: *„Tak. Patrz co się stało. **Yield tylko 36,5%** z dłużycy 1,32 m³ do produktu końcowego 0,482 m³. To jest **poniżej średniej EGIDA** (standard 40-42% dla sosny deski podłogowe). Gdyby yield był 42%, partia miałaby 0,554 m³ produktu końcowego, wartość sprzedaży 941 zł zamiast 809, marża −397 zł zamiast −529. Wciąż strata, ale mniejsza."*
 
-*„Dlaczego yield był niski?"* pyta Rustam.
+*„Dlaczego yield był niski?"* pyta Mykoła.
 
 Marek: *„Trzy powody. Po pierwsze, **pnie były małe** (średnia 32 cm, dolna granica dla schematu cant sawing, powyżej 35 cm uzysk skacze o 5-8%). Po drugie, **wada na pnie 3** (pęknięcie promieniowe 8 cm) obniżyła uzysk tego pnia do 56%. Po trzecie, **suszenie zewnętrzne Drew-Sus** ma trochę gorszy rezultat skurczu niż komora własna (15% vs 13% typowo dla własnej)."*
 
-Rustam zapisuje: *„Niski yield: małe pnie + pęknięcie P3 + skurcz Drew-Sus. Razem 529 zł straty. Gdzie się pomyliłem?"*
+Mykoła zapisuje: *„Niski yield: małe pnie + pęknięcie P3 + skurcz Drew-Sus. Razem 529 zł straty. Gdzie się pomyliłem?"*
 
-### 14:25, co zrobił Rustam vs co mógłby zrobić inaczej
+### 14:25, co zrobił Mykoła vs co mógłby zrobić inaczej
 
-Marek, spokojnie: *„Rustam, ty nie pomyliłeś się w żadnym miejscu. Decyzje parametryczne były dobre (KDP-001 zaliczone), suszenie było strategicznie uzasadnione (termin klienta ratuje). Strata wynika z **uwarunkowań surowca i kosztów zewnętrznych**, nie z błędów operatora."*
+Marek, spokojnie: *„Mykoła, ty nie pomyliłeś się w żadnym miejscu. Decyzje parametryczne były dobre (KDP-001 zaliczone), suszenie było strategicznie uzasadnione (termin klienta ratuje). Strata wynika z **uwarunkowań surowca i kosztów zewnętrznych**, nie z błędów operatora."*
 
 *„Możesz się zastanowić, co **mógłbyś zrobić inaczej**, gdyby cel był zmaksymalizować marżę zamiast termin klienta. Cztery opcje:"*
 
@@ -114,17 +114,17 @@ Marek, spokojnie: *„Rustam, ty nie pomyliłeś się w żadnym miejscu. Decyzje
 
 Marek: *„Wybrałem **Opcję 4 świadomie**, gdy Pan Henryk zarekomendował Drew-Sus w l3. Wiedziałem, że marża będzie niższa, ale klient kluczowy. **Dobra decyzja strategiczna, zła matematyka pojedynczego zlecenia**."*
 
-Rustam zapisuje: *„Ekonomika pojedynczego zlecenia ≠ ekonomika długoterminowa. Czasem strata jest inwestycją."*
+Mykoła zapisuje: *„Ekonomika pojedynczego zlecenia ≠ ekonomika długoterminowa. Czasem strata jest inwestycją."*
 
-### 14:45, pytanie Wahana o raport zmianowy
+### 14:45, pytanie Wasyla o raport zmianowy
 
-Wahan przez całą rozmowę słuchał uważnie, teraz pyta: *„Marek, kiedy ja będę czytał takie raporty jako pomocnik M1? Po M2 czy dopiero po M3?"*
+Wasyl przez całą rozmowę słuchał uważnie, teraz pyta: *„Marek, kiedy ja będę czytał takie raporty jako pomocnik M1? Po M2 czy dopiero po M3?"*
 
 Marek: *„Pomocnik M1 **nie czyta raportów zmianowych**, to nie jest jego kompetencja. Operator M2 (pod nadzorem) **czyta raport swojej zmiany** (jeden wiersz Excela, 6 kolumn). Operator M3 (samodzielny) **czyta raporty swoich zleceń pełne** (jak ten dzisiaj, 25 kolumn z ekonomiką). Brygadzista **pisze raport zmianowy** i przegląda raporty od operatorów. Kierownik tartaku **czyta raporty miesięczne** (agregowane)."*
 
-*„Dla ciebie dziś: uczysz się, widzisz jak wygląda, rozumiesz logikę. Za 6 miesięcy, gdy będziesz M2, dostaniesz swój pierwszy raport zmianowy. Jedna linijka. Za rok, gdy M3, dostaniesz pełny raport jak Rustam dziś."*
+*„Dla ciebie dziś: uczysz się, widzisz jak wygląda, rozumiesz logikę. Za 6 miesięcy, gdy będziesz M2, dostaniesz swój pierwszy raport zmianowy. Jedna linijka. Za rok, gdy M3, dostaniesz pełny raport jak Mykoła dziś."*
 
-Wahan kiwa głową, zapisuje: *„M1 nie czyta raportu. M2 jedna linijka. M3 pełny raport. Brygadzista pisze. Kierownik agreguje."*
+Wasyl kiwa głową, zapisuje: *„M1 nie czyta raportu. M2 jedna linijka. M3 pełny raport. Brygadzista pisze. Kierownik agreguje."*
 
 ### 15:00, odpad partii ZLE-077
 
@@ -155,9 +155,9 @@ Trociny (proszek z cięcia):
 WARTOŚĆ NETTO ODPADU:           +28 zł
 ```
 
-Marek: *„Rustam, **odpad partii 44,1%** – prawie tyle co tarcica surowa. Ale wartość odpadu **28 zł**, to jest **1,3% wartości partii** (28 / 809 × 100%). Odpad ekonomicznie marginalny, ale **logistyka odbioru obowiązkowa**. EGIDA ma umowę z Baltic Wood na zrębki (regularnie co 2 tygodnie) i z rolnikiem sąsiednim na oblinę opałową. Pomijanie odpadu = hala zarzucana zbiornikiem trocin w 2 tygodnie."*
+Marek: *„Mykoła, **odpad partii 44,1%** – prawie tyle co tarcica surowa. Ale wartość odpadu **28 zł**, to jest **1,3% wartości partii** (28 / 809 × 100%). Odpad ekonomicznie marginalny, ale **logistyka odbioru obowiązkowa**. EGIDA ma umowę z Baltic Wood na zrębki (regularnie co 2 tygodnie) i z rolnikiem sąsiednim na oblinę opałową. Pomijanie odpadu = hala zarzucana zbiornikiem trocin w 2 tygodnie."*
 
-Rustam: *„Czyli odpad to nie jest pomijany, ale ekonomicznie nie ma znaczenia."*
+Mykoła: *„Czyli odpad to nie jest pomijany, ale ekonomicznie nie ma znaczenia."*
 
 Marek: *„Znaczenie ma **zmniejszenie odpadu przez lepsze decyzje operatora**. Jeżeli twoja prędkość posuwu była 40 st/min zamiast 32, wióry byłyby grubsze, uzysk taśmy mniejszy o 3%, odpad trocin większy o 15%. Nie ekonomicznie, ale **zużycie taśmy rośnie** (szybsze tępienie = 50 zł więcej na ostrzeniach per miesiąc). **Drobiazgi sumują się.**"*
 
@@ -169,23 +169,23 @@ Marek otwiera trzecią zakładkę: **porównanie zleceń ostatnich 2 tygodni**.
 PORÓWNANIE ZLECEŃ sosnowych (27.05 - 10.06):
 
 ZLE              Operator  m³ surowa  m³ końcowy  Yield   Klasy         Marża
-ZLE-077 Rustam   Rustam    0,582      0,482       36,5%   97% C24       -529 zł
+ZLE-077 Mykoła   Mykoła    0,582      0,482       36,5%   97% C24       -529 zł
 ZLE-079 Damian   Damian    0,72       0,603       38,2%   95% C24       -381 zł
-ZLE-082 Rustam   Rustam    0,68       0,591       41,3%   98% C24       +127 zł
-ZLE-001 Rustam   Rustam    1,2 (dziś) –           –       –             pending
+ZLE-082 Mykoła   Mykoła    0,68       0,591       41,3%   98% C24       +127 zł
+ZLE-001 Mykoła   Mykoła    1,2 (dziś) –           –       –             pending
 
 Średnia EGIDA sosna deski podłogowe:                       40-42%   92% C24   +200 zł
 ```
 
-Rustam patrzy na drugą linię: *„ZLE-082 ma marżę **+127 zł**, yield 41,3%. Dlaczego tam wynik lepszy?"*
+Mykoła patrzy na drugą linię: *„ZLE-082 ma marżę **+127 zł**, yield 41,3%. Dlaczego tam wynik lepszy?"*
 
 Marek: *„ZLE-082 to klient Stolarz Meblowy, nie wymagał suszenia zewnętrznego (termin luźny, buk buk standardowej wsadki w lipcu). Suszenie własna komora 85 zł/m³ zamiast 297 zł. **Brak premium Drew-Sus** = różnica 123 zł dla 0,68 m³ surowej = **zmiana marży z −50 zł na +127 zł**. Sam kwota suszenia zewnętrznego zrobiła różnicę."*
 
-Rustam: *„Czyli **marża zależy 30% od yield + 70% od strategii suszenia** dla partii małych?"*
+Mykoła: *„Czyli **marża zależy 30% od yield + 70% od strategii suszenia** dla partii małych?"*
 
 Marek: *„Dla partii małych (<1 m³) tak. Dla partii większych (>5 m³) decyzje operatora (yield, klasyfikacja) mają większy wpływ. Wciąż, **premium Drew-Sus** jest zawsze świadomym kosztem terminowości. Jak w l3 Pan Henryk powiedział: 'termin ważniejszy od marży', bo klient w terminie zamówi ponownie."*
 
-Rustam zapisuje: *„Dla partii małych: marża ~70% zależy od strategii suszenia, ~30% od operatora. Dla dużych: operator ma większy wpływ."*
+Mykoła zapisuje: *„Dla partii małych: marża ~70% zależy od strategii suszenia, ~30% od operatora. Dla dużych: operator ma większy wpływ."*
 
 ### 15:30, Pan Henryk wchodzi z kartą WZ
 
@@ -197,44 +197,44 @@ Marek bierze kartę, szybko przegląda, podpisuje. *„Dzięki, Henryk. Dębu ma
 
 Pan Henryk patrzy na ekran Marka (raport ZLE-077 sosny). *„Sosna w tym tygodniu strata? Drew-Sus?"*
 
-Marek: *„Tak, −529 zł na 0,58 m³ końcowe. Ale ratowaliśmy termin klienta 20.06. Rustam właśnie widzi czego to kosztowało."*
+Marek: *„Tak, −529 zł na 0,58 m³ końcowe. Ale ratowaliśmy termin klienta 20.06. Mykoła właśnie widzi czego to kosztowało."*
 
-Pan Henryk do Rustama: *„**Dobrze że widzisz**. Żaden operator nie myśli ekonomicznie dopóki nie zobaczy raportu. Ty teraz widzisz. Za 6 miesięcy, jako operator doświadczony M3, będziesz myślał **przed cięciem, nie po**: jaki schemat, jaka prędkość, jakie zlecenie dzielić, a jakie pojąć całościowo. To jest różnica między operatorem samodzielnym a **operatorem dojrzałym**."*
+Pan Henryk do Mykoły: *„**Dobrze że widzisz**. Żaden operator nie myśli ekonomicznie dopóki nie zobaczy raportu. Ty teraz widzisz. Za 6 miesięcy, jako operator doświadczony M3, będziesz myślał **przed cięciem, nie po**: jaki schemat, jaka prędkość, jakie zlecenie dzielić, a jakie pojąć całościowo. To jest różnica między operatorem samodzielnym a **operatorem dojrzałym**."*
 
-Pan Henryk wychodzi z biura. Rustam, Wahan i Marek kontynuują.
+Pan Henryk wychodzi z biura. Mykoła, Wasyl i Marek kontynuują.
 
 ### 15:45, krótka rozmowa pedagogiczna
 
-Marek zamyka Excel, odwraca laptop od Rustama i Wahana. *„OK, kończymy. Co zrozumieliście dzisiaj?"*
+Marek zamyka Excel, odwraca laptop od Mykoły i Wasyla. *„OK, kończymy. Co zrozumieliście dzisiaj?"*
 
-Rustam: *„Cztery rzeczy. Po pierwsze, **yield** to klucz. 36,5% ZLE-077 vs 41,3% ZLE-082 to różnica 5 punktów procentowych i zmienia marżę z straty na zysk. Po drugie, **premium terminowości Drew-Sus** to świadomy koszt (~123 zł/partia 0,58 m³), nie błąd, ale strategiczna inwestycja w relację klienta. Po trzecie, **odpad ekonomicznie marginalny** (1,3% wartości), logistycznie obowiązkowy. Po czwarte, **decyzje operatora w 30-70% determinują marżę** zależnie od partii, reszta to strategia brygadzisty i kierownika."*
+Mykoła: *„Cztery rzeczy. Po pierwsze, **yield** to klucz. 36,5% ZLE-077 vs 41,3% ZLE-082 to różnica 5 punktów procentowych i zmienia marżę z straty na zysk. Po drugie, **premium terminowości Drew-Sus** to świadomy koszt (~123 zł/partia 0,58 m³), nie błąd, ale strategiczna inwestycja w relację klienta. Po trzecie, **odpad ekonomicznie marginalny** (1,3% wartości), logistycznie obowiązkowy. Po czwarte, **decyzje operatora w 30-70% determinują marżę** zależnie od partii, reszta to strategia brygadzisty i kierownika."*
 
-Wahan: *„Ja się nauczyłem, że **raport zmianowy pokazuje sens decyzji z całego tygodnia**, nie tylko moment cięcia. Widzę że Rustam robił dobrze w l1, ale surowiec + suszenie zewnętrzne zrobiły stratę. Bez raportu nie widziałbym tego powiązania."*
+Wasyl: *„Ja się nauczyłem, że **raport zmianowy pokazuje sens decyzji z całego tygodnia**, nie tylko moment cięcia. Widzę że Mykoła robił dobrze w l1, ale surowiec + suszenie zewnętrzne zrobiły stratę. Bez raportu nie widziałbym tego powiązania."*
 
-Marek: *„Dobrze. Rustam, **czy zmieniłbyś coś w decyzjach z l1 po zobaczeniu tego raportu**?"*
+Marek: *„Dobrze. Mykoła, **czy zmieniłbyś coś w decyzjach z l1 po zobaczeniu tego raportu**?"*
 
-Rustam myśli chwilę: *„Nie. Decyzje parametryczne były dobre (sosna świeża + stopowa 7/8 + 2200 PSI + 32 st/min + schemat A). Yield niski wynikał z pni, nie z parametrów. **Strategia Drew-Sus** nie była moją decyzją, była Pana Henryka i twoją. Jedyne co mógłbym zrobić inaczej to **wcześniej zgłosić wadę pnia 3**, żebyście mogli rozważyć wymianę pnia z innego magazynu. Ale to też oznaczałoby 2 dni opóźnienia."*
+Mykoła myśli chwilę: *„Nie. Decyzje parametryczne były dobre (sosna świeża + stopowa 7/8 + 2200 PSI + 32 st/min + schemat A). Yield niski wynikał z pni, nie z parametrów. **Strategia Drew-Sus** nie była moją decyzją, była Pana Henryka i twoją. Jedyne co mógłbym zrobić inaczej to **wcześniej zgłosić wadę pnia 3**, żebyście mogli rozważyć wymianę pnia z innego magazynu. Ale to też oznaczałoby 2 dni opóźnienia."*
 
 Marek: *„**Dobra refleksja**. Szukanie błędu w sobie to częsty odruch, ale nie zawsze prawdziwy. Czasem decyzje były dobre, a wynik niskooptimal wynika z **czynników niezależnych**. **Dojrzałość operatora** to też umiejętność widzieć tę różnicę."*
 
 ### 16:00, koniec sesji
 
-Rustam i Wahan wychodzą z biura Marka. Rustam wraca na P3 szybko zamknąć (zakryć maszynę brezentem, odłączyć zasilanie główne, wpis w dzienniku warsztatowym). Wahan idzie do szatni. Koniec dnia.
+Mykoła i Wasyl wychodzą z biura Marka. Mykoła wraca na P3 szybko zamknąć (zakryć maszynę brezentem, odłączyć zasilanie główne, wpis w dzienniku warsztatowym). Wasyl idzie do szatni. Koniec dnia.
 
-**Bilans tygodniowy Rustama** (27.05 - 10.06):
+**Bilans tygodniowy Mykoły** (27.05 - 10.06):
 - ZLE-077 sosna: −529 zł strata
 - ZLE-082 buk (środa 28.05 na P3 buk Stolarz Meblowy): +127 zł zysk
 - ZLE-001 czerwcowa sosna (dzisiaj): pending klasyfikacji
 - **Razem: −402 zł** minus zlecenie dzisiejsze
 
-Brygadzista wpisuje do zeszytu ocen Rustama: *„2026-06-10: ZLE-077 strata strategiczna −529 zł (Drew-Sus terminowość), ZLE-082 zysk +127 zł. Rustam rozumie ekonomikę, refleksja dobra. Operator M3 dojrzewający."* Podpisuje, odkłada zeszyt do szafy akt osobowych.
+Brygadzista wpisuje do zeszytu ocen Mykoły: *„2026-06-10: ZLE-077 strata strategiczna −529 zł (Drew-Sus terminowość), ZLE-082 zysk +127 zł. Mykoła rozumie ekonomikę, refleksja dobra. Operator M3 dojrzewający."* Podpisuje, odkłada zeszyt do szafy akt osobowych.
 
 ## Cele
 
 Po tej lekcji:
 
 1. Znasz **pojęcie yield** (wydajność surowca) jako stosunek objętości produktu do objętości surowca, mierzone w **4 etapach**: 1) dłużyca → tarcica surowa (40-45% dla sosny deski 28 mm, 55-60% dla desek tartacznych 50 mm); 2) tarcica surowa → tarcica sucha (skurcz 13-17% dla sosny świeżej, 20-25% dla dębu świeżego); 3) tarcica sucha → produkt końcowy po obróbce (skurcz 2-4% od struganiu i formatyzowaniu); 4) **yield końcowy** dłużyca → produkt (typowo 33-38% dla sosny, 25-30% dla dębu). Rozumiesz, że **każdy etap ma swój skurcz**, i że **ostateczny yield jest iloczynem yield na każdym etapie**.
-2. Znasz **typowe udziały klas** w partii sosny wysuszonej do 12% i klasyfikowanej wg PN-EN 14081: standardowa partia EGIDA to **92% C24 + 6% C16 + 2% odrzut**. Dla partii Rustama ZLE-077 wynik **97% C24 + 3% C16 + 0% odrzut** jest **lepszy od średniej** (dobra decyzja parametryczna + dobra kampania surowcowa). Rozumiesz, że **1 punkt procentowy C24 vs C16** to różnica **600 zł/m³** (1700 zł − 1100 zł), co dla partii 0,5 m³ oznacza 30 zł na punkt procentowy (0,5 × 600 / 100 × 1). Dla partii 5 m³ **1 punkt procentowy** to 300 zł.
+2. Znasz **typowe udziały klas** w partii sosny wysuszonej do 12% i klasyfikowanej wg PN-EN 14081: standardowa partia EGIDA to **92% C24 + 6% C16 + 2% odrzut**. Dla partii Mykoły ZLE-077 wynik **97% C24 + 3% C16 + 0% odrzut** jest **lepszy od średniej** (dobra decyzja parametryczna + dobra kampania surowcowa). Rozumiesz, że **1 punkt procentowy C24 vs C16** to różnica **600 zł/m³** (1700 zł − 1100 zł), co dla partii 0,5 m³ oznacza 30 zł na punkt procentowy (0,5 × 600 / 100 × 1). Dla partii 5 m³ **1 punkt procentowy** to 300 zł.
 3. Rozpoznajesz **trzy typy odpadu tartacznego** i ich wartości rynkowe EGIDA 2026: 1) **oblina** (zdjęta w schemacie A cant sawing, 4 obliny × pień, ~0,028 m³ każda, wartość opałowa **50 zł/m³**); 2) **zrzyny** (końcówki desek, kawałki z sęków, ~3% objętości dłużycy, wartość zrębkowa **80 zł/m³**); 3) **trociny** (proszek z cięcia, ~7% objętości dłużycy, wartość opałowa lub brykiet **30 zł/m³**). Rozumiesz, że **wartość odpadu to 1-2% wartości partii** (marginalne ekonomicznie), ale **logistyka odbioru jest obowiązkowa** (EGIDA ma umowy z Baltic Wood na zrębki, rolnikiem sąsiednim na oblinę, bez tych umów hala zasypana w 2 tygodnie).
 4. Znasz **pełną strukturę kosztów produkcji** tarcicy EGIDA dla sosny deski podłogowe:
    - **Surowiec**: 380 zł/m³ dłużycy (cena Nadleśnictwa Strzałowo, I-II klasa, 2026)
@@ -279,7 +279,7 @@ Dla sosny deski 28 mm standardowe EGIDA yield to **55-60%**. Dla dębu deski 28 
 
 **Etap 3: yield obróbki końcowej** (tarcica sucha → produkt końcowy). Struganie zabiera 2-3 mm z każdej powierzchni, formatyzowanie skraca długość o 40-60 mm. Skurcz objętościowy **2-4%** zależnie od naddatków.
 
-**Yield końcowy** = etap 1 × etap 2 × etap 3 = **0,58 × 0,86 × 0,97 = 0,484** ≈ **48% dla sosny** standardowej. Dla ZLE-077 Rustama: 0,441 × 0,85 × 0,97 = **0,364 = 36,4%**, **poniżej średniej o 12 punktów procentowych**.
+**Yield końcowy** = etap 1 × etap 2 × etap 3 = **0,58 × 0,86 × 0,97 = 0,484** ≈ **48% dla sosny** standardowej. Dla ZLE-077 Mykoły: 0,441 × 0,85 × 0,97 = **0,364 = 36,4%**, **poniżej średniej o 12 punktów procentowych**.
 
 ### 2. Ceny sprzedaży 2026 dla tarcicy EGIDA
 
@@ -410,13 +410,13 @@ Operator M3 **widzi zakładki 1-2** swoich zleceń (i zakładka 3 ostatnich tygo
 
 **Decyzja 4: schemat cięcia.** Schemat A cant sawing (poprawny dla C24) vs schemat B quarter sawing (błędny dla C24 bo drożej). Różnica: czas pracy 2× dłuższy (7,5 godz vs 15 godz), koszt pracy ok. 400 zł więcej. Yield o 5-8% niżej (schemat B). Dla partii 5 m³: koszt pracy +400 zł + mniejszy yield 0,4 m³ × 1700 zł = +1080 zł. **Razem koszt błędu: ~1500 zł**.
 
-**Decyzja 5: kolejność pni.** Najtrudniejszy pierwszy (Rustam w l1, poprawna strategia) vs najłatwiejszy pierwszy. Różnica: parametry ustawione na pierwsze cięcie, trudny pień na końcu bez korekty parametrów. Potencjalnie 1 deska spada z C24 na C16 lub na odrzut. **Dla partii 5 m³: ~60 zł strata na deskę**.
+**Decyzja 5: kolejność pni.** Najtrudniejszy pierwszy (Mykoła w l1, poprawna strategia) vs najłatwiejszy pierwszy. Różnica: parametry ustawione na pierwsze cięcie, trudny pień na końcu bez korekty parametrów. Potencjalnie 1 deska spada z C24 na C16 lub na odrzut. **Dla partii 5 m³: ~60 zł strata na deskę**.
 
-**Suma potencjalnego wpływu decyzji operatora na partię 5 m³: do ~2800 zł** (różnica między operatorem M3 doświadczonym a początkującym). Dla partii 0,5 m³ ZLE-077 proporcjonalnie: **~280 zł**. Rustam w l1 zrobił wszystkie decyzje poprawnie, więc ten potencjał został w pełni wykorzystany. Strata −529 zł ZLE-077 **nie wynika z decyzji operatora**, ale z uwarunkowań surowca i strategii zewnętrznego suszenia.
+**Suma potencjalnego wpływu decyzji operatora na partię 5 m³: do ~2800 zł** (różnica między operatorem M3 doświadczonym a początkującym). Dla partii 0,5 m³ ZLE-077 proporcjonalnie: **~280 zł**. Mykoła w l1 zrobił wszystkie decyzje poprawnie, więc ten potencjał został w pełni wykorzystany. Strata −529 zł ZLE-077 **nie wynika z decyzji operatora**, ale z uwarunkowań surowca i strategii zewnętrznego suszenia.
 
 ### 7. Błędy typowe w rozumieniu ekonomiki
 
-**Błąd 1. „Strata zlecenia = błąd operatora"**. Rustam widzi −529 zł i myśli „zrobiłem coś źle". W rzeczywistości decyzje operatora były dobre, strata wynikała z surowca i strategii. **Prawidłowo**: **oddziel wpływ decyzji operatora od wpływu czynników zewnętrznych**. Raport zmianowy pokazuje obie komponenty, dobry operator widzi różnicę.
+**Błąd 1. „Strata zlecenia = błąd operatora"**. Mykoła widzi −529 zł i myśli „zrobiłem coś źle". W rzeczywistości decyzje operatora były dobre, strata wynikała z surowca i strategii. **Prawidłowo**: **oddziel wpływ decyzji operatora od wpływu czynników zewnętrznych**. Raport zmianowy pokazuje obie komponenty, dobry operator widzi różnicę.
 
 **Błąd 2. „Drew-Sus to marnotrawstwo"**. Operator widzi +212 zł/m³ premium i myśli „czemu nie suszymy własną komorą". Zapomina, że **własna komora wymaga 30 m³ pełnej wsadki**, a partia ZLE-077 to 0,58 m³. Czekanie 13 dni na pełną wsadkę = spóźnienie klienta 3-13 dni = utrata relacji. **Prawidłowo**: **Drew-Sus jest kosztem terminowości, nie marnotrawstwem**. Gdy termin krytyczny, jest to decyzja racjonalna.
 
@@ -430,37 +430,37 @@ Operator M3 **widzi zakładki 1-2** swoich zleceń (i zakładka 3 ostatnich tygo
 
 ### 8. Dojrzewanie operatora M3 w ekonomikach
 
-**Operator M3 początkujący** (pierwszy miesiąc po zaliczeniu M3, Rustam w kwietniu-maju 2026): decyzje parametryczne dobre, ale **nie rozumie ekonomiki swoich decyzji**. Patrzy na raport zmianowy i widzi tylko yield, nie wartość.
+**Operator M3 początkujący** (pierwszy miesiąc po zaliczeniu M3, Mykoła w kwietniu-maju 2026): decyzje parametryczne dobre, ale **nie rozumie ekonomiki swoich decyzji**. Patrzy na raport zmianowy i widzi tylko yield, nie wartość.
 
-**Operator M3 rozwijający się** (3-6 miesiąc, Rustam obecnie, czerwiec 2026): **widzi raport zmianowy** i **rozumie przyczyny** strat/zysków. Umie **oddzielić decyzje operatora od czynników zewnętrznych**. Zadaje pytania: „co mogłem zrobić inaczej", „czy schemat był optymalny", „czy surowiec miał wadę".
+**Operator M3 rozwijający się** (3-6 miesiąc, Mykoła obecnie, czerwiec 2026): **widzi raport zmianowy** i **rozumie przyczyny** strat/zysków. Umie **oddzielić decyzje operatora od czynników zewnętrznych**. Zadaje pytania: „co mogłem zrobić inaczej", „czy schemat był optymalny", „czy surowiec miał wadę".
 
-**Operator M3 dojrzały** (6-12 miesiąc, Rustam planowo po październiku 2026): **myśli ekonomicznie przed cięciem**, nie po. Widzi zlecenie, dyspozycję, surowiec, i **wyprzedza decyzjami parametrycznymi potencjalne problemy**. Konsultuje się z brygadzistą przed trudnymi zleceniami („ten pień ma pęknięcie rdzeniowe, czy zdjąć na oblinę i zachować 3 pnie zdrowe, czy próbować schematu B z ryzykiem?").
+**Operator M3 dojrzały** (6-12 miesiąc, Mykoła planowo po październiku 2026): **myśli ekonomicznie przed cięciem**, nie po. Widzi zlecenie, dyspozycję, surowiec, i **wyprzedza decyzjami parametrycznymi potencjalne problemy**. Konsultuje się z brygadzistą przed trudnymi zleceniami („ten pień ma pęknięcie rdzeniowe, czy zdjąć na oblinę i zachować 3 pnie zdrowe, czy próbować schematu B z ryzykiem?").
 
 **Operator M3 zaawansowany** (rok+, Damian, drugi operator samodzielny EGIDA): **sam prowadzi analizę marży partii**, **sugeruje brygadziście zmiany strategii** („jeżeli kolejne 3 zlecenia Drew-Sus, warto zastanowić się nad drugą komorą wewnętrzną"). Może **zastąpić brygadzistę** na 2-3 dni bez decyzji strategicznych.
 
-**Operator M3 ekspert** (3+ lata, potencjalnie Rustam w 2029): **kandyduje na brygadzistę**. Zna ekonomikę tartaku pełną, rozumie relacje klient, prowadzi negocjacje cenowe, zatrudnia pomocników. Ale to jest inna rola, **poza zakresem kursu M3**.
+**Operator M3 ekspert** (3+ lata, potencjalnie Mykoła w 2029): **kandyduje na brygadzistę**. Zna ekonomikę tartaku pełną, rozumie relacje klient, prowadzi negocjacje cenowe, zatrudnia pomocników. Ale to jest inna rola, **poza zakresem kursu M3**.
 
 ## Scena domykająca, 16:15, droga do szatni
 
-Rustam wychodzi z biura Marka, idzie na P3 zamknąć maszynę (brezent, odłączenie zasilania, wpis w dzienniku warsztatowym `2026-06-10: P3 zakończenie zmiany, 1,2 m³ sosny ZLE-001 do suszenia, bez usterek`). Idzie do szatni, przebiera się, wychodzi z hali. Wahan już wyszedł.
+Mykoła wychodzi z biura Marka, idzie na P3 zamknąć maszynę (brezent, odłączenie zasilania, wpis w dzienniku warsztatowym `2026-06-10: P3 zakończenie zmiany, 1,2 m³ sosny ZLE-001 do suszenia, bez usterek`). Idzie do szatni, przebiera się, wychodzi z hali. Wasyl już wyszedł.
 
-Na placu przed halą Rustam spotyka Pana Henryka, który wraca z hali suszarni z kawą w termosie.
+Na placu przed halą Mykoła spotyka Pana Henryka, który wraca z hali suszarni z kawą w termosie.
 
-*„Rustam, jak Marek pokazał raport?"*
+*„Mykoła, jak Marek pokazał raport?"*
 
 *„Pokazał. Strata 529 zł na ZLE-077, zysk 127 na ZLE-082. Suma tygodniowa ujemna, ale ZLE-001 dzisiaj jeszcze pending, jutro zobaczymy."*
 
-*„Dobrze. **Nie bierz strat osobiście**. Operator który bierze strata jako klęskę, bierze zyski jako osobiste zwycięstwo. **Ani jedno, ani drugie nie jest prawdą**. Marża partii jest **wypadkową 6 etapów i 15 osób**. Ty robisz 1 etap (przetarcie), 2 osoby (ty + Wahan). Twój wpływ jest duży, ale nie decydujący. Pan Henryk (suszenie), Pani Ania (klasyfikacja), Marek (strategia), ja (plan kampanii) razem decydujemy. Strata jest nas wszystkich, zysk jest nas wszystkich."*
+*„Dobrze. **Nie bierz strat osobiście**. Operator który bierze strata jako klęskę, bierze zyski jako osobiste zwycięstwo. **Ani jedno, ani drugie nie jest prawdą**. Marża partii jest **wypadkową 6 etapów i 15 osób**. Ty robisz 1 etap (przetarcie), 2 osoby (ty + Wasyl). Twój wpływ jest duży, ale nie decydujący. Pan Henryk (suszenie), Pani Ania (klasyfikacja), Marek (strategia), ja (plan kampanii) razem decydujemy. Strata jest nas wszystkich, zysk jest nas wszystkich."*
 
-Rustam kiwa głową: *„Rozumiem. Dziękuję za dzisiejszy raport."*
+Mykoła kiwa głową: *„Rozumiem. Dziękuję za dzisiejszy raport."*
 
 Pan Henryk: *„Jutro sosna znowu P3, ZLE-001 kontynuacja. Pan Krzysztof serwis w piątek (cylinder podnoszenia LT70 planowana konserwacja, 6 miesięcy od ostatniej). Weekend wolny. Poniedziałek nowa zmiana, nowe zlecenia."*
 
-Rustam: *„Dobra, do jutra."*
+Mykoła: *„Dobra, do jutra."*
 
 ### 16:30, dom
 
-Rustam wraca do domu (rower, 15 minut od hali), Wahan już domu. Siada przy stole, otwiera notatnik. **Podsumowanie dzisiejsze**:
+Mykoła wraca do domu (rower, 15 minut od hali), Wasyl już domu. Siada przy stole, otwiera notatnik. **Podsumowanie dzisiejsze**:
 
 1. Raport zmianowy **pokazuje pełną ekonomikę** od dłużycy po klienta. Operator M3 widzi cały łańcuch swojej decyzji.
 2. **Strata pojedynczego zlecenia** nie zawsze oznacza błąd operatora. Surowiec, strategia, koszty zewnętrzne mają duży wpływ.
@@ -468,7 +468,7 @@ Rustam wraca do domu (rower, 15 minut od hali), Wahan już domu. Siada przy stol
 4. **Decyzje operatora** wpływają na marżę w 30-70% zależnie od partii. Koszt pracy to 19%, ale wpływ na wynik większy.
 5. **Dojrzałość operatora** to widzieć różnicę między wpływem własnym a zewnętrznym, nie brać strat osobiście, nie brać zysków osobiście.
 
-Jutro piątek, P3, ZLE-001 kontynuacja. Rustam zamyka notatnik, idzie na kolację.
+Jutro piątek, P3, ZLE-001 kontynuacja. Mykoła zamyka notatnik, idzie na kolację.
 
 ## Kluczowe terminy
 
@@ -506,7 +506,7 @@ Jutro piątek, P3, ZLE-001 kontynuacja. Rustam zamyka notatnik, idzie na kolacj�
 
 ### A. Yield i jego etapy
 
-1. **Yield etap 1** (dłużyca → tarcica surowa) dla sosny deski 28 mm schemat A typowo **55-60%**. Dla ZLE-077 Rustama był **44,1%**. Podaj 3 przyczyny tej niższej wartości.
+1. **Yield etap 1** (dłużyca → tarcica surowa) dla sosny deski 28 mm schemat A typowo **55-60%**. Dla ZLE-077 Mykoły był **44,1%**. Podaj 3 przyczyny tej niższej wartości.
 
 2. **Skurcz suszarniczy** dla sosny świeżej 32% → 12%: **13-17%**. Dla dębu świeżego 38% → 14%: **18-22%**. Dlaczego dąb ma większy skurcz niż sosna? Podaj przyczynę strukturalną.
 
@@ -540,7 +540,7 @@ Jutro piątek, P3, ZLE-001 kontynuacja. Rustam zamyka notatnik, idzie na kolacj�
 
 13. **Decyzje parametryczne operatora M3** wpływają na marżę partii w 30-70%. Wymień **trzy decyzje**, które mają największy wpływ, i kieruj szacunkowy wpływ na partię 5 m³ sosny.
 
-14. Rustam w l1 wybrał schemat A cant sawing dla C24 zamiast schemat B quarter sawing. **Dlaczego** schemat B dla C24 byłby złą decyzją ekonomiczną, mimo że technicznie dawałby „lepsze" drewno?
+14. Mykoła w l1 wybrał schemat A cant sawing dla C24 zamiast schemat B quarter sawing. **Dlaczego** schemat B dla C24 byłby złą decyzją ekonomiczną, mimo że technicznie dawałby „lepsze" drewno?
 
 15. Operator M3 początkujący widzi stratę −529 zł na ZLE-077 i myśli „zrobiłem coś źle". Operator M3 dojrzały widzi tę samą stratę i wnioskuje inaczej. Jaka jest różnica w podejściu?
 

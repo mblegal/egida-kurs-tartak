@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-Szósty dzień tygodnia 1. Hai zamknął piątek checklistem 5 punktów (lekcja 4). Poniedziałek, nowy tydzień, nowy bohater: **Oleh, Ukrainiec z Czernihowa, 27 lat**. W poprzednim zakładzie pod Warszawą był pomocnikiem półtora roku, teraz pierwszy miesiąc jako operator junior pilarki tarczowej formatowej. Zmiana tartaku, zmiana maszyny, zmiana rangi.
+Szósty dzień tygodnia 1. Andrij zamknął piątek checklistem 5 punktów (lekcja 4). Poniedziałek, nowy tydzień, nowy bohater: **Oleh, Ukrainiec z Czernihowa, 27 lat**. W poprzednim zakładzie pod Warszawą był pomocnikiem półtora roku, teraz pierwszy miesiąc jako operator junior pilarki tarczowej formatowej. Zmiana tartaku, zmiana maszyny, zmiana rangi.
 
 W poniedziałek rano brygadzista kładzie mu na stole wydruk A4 i mówi: **„Przeczytaj, podkreśl co dotyczy twojej maszyny, oddaj mi jutro."** Oleh patrzy na nagłówek:
 

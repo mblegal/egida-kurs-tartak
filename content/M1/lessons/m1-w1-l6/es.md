@@ -49,7 +49,7 @@ En todo el mundo se usan cuatro colores para la señalización de seguridad:
 - Información de seguridad («botiquín aquí», «ducha de emergencia aquí»).
 
 ::: info
-El sistema de colores de seguridad es **internacional**. Un alumno de Ucrania, España o Vietnam reconoce el mismo cartel rojo como «prohibición» sin traducción. Por eso los pictogramas importan más que el texto — el texto está en polaco, pero la imagen habla universalmente.
+El sistema de colores de seguridad es **internacional**. Un alumno de Ucrania, Colombia o Venezuela reconoce el mismo cartel rojo como «prohibición» sin traducción. Por eso los pictogramas importan más que el texto — el texto está en polaco, pero la imagen habla universalmente.
 :::
 
 ### Cuatro tipos de pictogramas

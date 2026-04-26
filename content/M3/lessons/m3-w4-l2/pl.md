@@ -6,13 +6,13 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, 2026-06-19, godzina 9:40. Rustam Nazarov zaczął dzień rutynowo: zmiana 7:00, zlecenie **ZLE-2026-06-018 sosna zwyczajna** pod dyspozycję dla Biuro Projektowe Kowalski, deski elewacyjne 32 × 120 × 4050. Przetrzeł 2 pnie (o 9:30 ma 48 desek w partii), kiedy Marek Kowalski (brygadzista, biuro) dzwoni na komórkę P3:
+Piątek, 2026-06-19, godzina 9:40. Mykoła Hrycenko zaczął dzień rutynowo: zmiana 7:00, zlecenie **ZLE-2026-06-018 sosna zwyczajna** pod dyspozycję dla Biuro Projektowe Kowalski, deski elewacyjne 32 × 120 × 4050. Przetrzeł 2 pnie (o 9:30 ma 48 desek w partii), kiedy Marek Kowalski (brygadzista, biuro) dzwoni na komórkę P3:
 
-*„Rustam, zatrzymaj maszynę, idź do biura na kawę. Mamy **wizytę reklamacyjną klienta**. Jacek Wesołowski z Dom-Bud Mrągowo przyjeżdża o 10:00. Sprawa krokwi sosna C24 z zeszłego tygodnia – ZLE-015, wydanie 16.06 do Wesołowskiego. Zgłosił wczoraj wieczorem przez telefon, że **3 z 52 krokwi mają wymiar 174 × 37 zamiast 175 × 38**. Dzwonił sprzed sklepu budowlanego Mrągowo, gdzie zmierzył swoją suwmiarką. Chciałbym, żebyś był na spotkaniu – Ty przetarłeś, Pani Ania sklasyfikowała. Ona też będzie."*
+*„Mykoła, zatrzymaj maszynę, idź do biura na kawę. Mamy **wizytę reklamacyjną klienta**. Jacek Wesołowski z Dom-Bud Mrągowo przyjeżdża o 10:00. Sprawa krokwi sosna C24 z zeszłego tygodnia – ZLE-015, wydanie 16.06 do Wesołowskiego. Zgłosił wczoraj wieczorem przez telefon, że **3 z 52 krokwi mają wymiar 174 × 37 zamiast 175 × 38**. Dzwonił sprzed sklepu budowlanego Mrągowo, gdzie zmierzył swoją suwmiarką. Chciałbym, żebyś był na spotkaniu – Ty przetarłeś, Pani Ania sklasyfikowała. Ona też będzie."*
 
-Rustam zamyka pień 3 (pół-cięty), odstawia do kątownika, zakłada LOTO na P3, wyłącza zasilanie, idzie myć ręce. Wahan idzie razem, bo wizyta reklamacyjna jest **ciekawa dla pomocnika** – Wahan chce zobaczyć, jak rozmawia się z klientem reklamującym.
+Mykoła zamyka pień 3 (pół-cięty), odstawia do kątownika, zakłada LOTO na P3, wyłącza zasilanie, idzie myć ręce. Wasyl idzie razem, bo wizyta reklamacyjna jest **ciekawa dla pomocnika** – Wasyl chce zobaczyć, jak rozmawia się z klientem reklamującym.
 
-W drodze do biura Rustam myśli: „Pierwsza **moja** reklamacja odkąd jestem M3. Co robić? Czy klient się będzie **zły**? Czy Marek mnie **obwini**? Przeczytałem umowę ramową DOM-BUD raz, trzy miesiące temu, nie pamiętam szczegółów. Spokój. Marek się zna."
+W drodze do biura Mykoła myśli: „Pierwsza **moja** reklamacja odkąd jestem M3. Co robić? Czy klient się będzie **zły**? Czy Marek mnie **obwini**? Przeczytałem umowę ramową DOM-BUD raz, trzy miesiące temu, nie pamiętam szczegółów. Spokój. Marek się zna."
 
 ### 9:50, w biurze EGIDA, przygotowanie
 
@@ -22,12 +22,12 @@ Marek otwiera naradę:
 
 *„Panowie, zasada. **Klient nie jest wrogiem**. Jacek Wesołowski jest kierownikiem budowy Dom-Bud Mrągowo od 8 lat, znamy się z pięciu wcześniejszych zleceń. **Chce dowiedzieć się prawdy, nie wyłudzić pieniędzy**. Trzeba mu to zaufanie zrewanżować. Dzisiejsze spotkanie ma być **techniczne**, nie emocjonalne. Co wiemy o sprawie?"*
 
-Rustam otwiera KEP-001 ZLE-015. Partia sosnowa z wtorku 16.06, klasyfikacja Pani Ani pełna, WZ wydany Markowi do podpisu, odbiór przez kierowcę Dom-Bud pana Sławomira 16.06 godz. 14:20. Rustam patrzy na dane wymiarowe z KEP-001:
+Mykoła otwiera KEP-001 ZLE-015. Partia sosnowa z wtorku 16.06, klasyfikacja Pani Ani pełna, WZ wydany Markowi do podpisu, odbiór przez kierowcę Dom-Bud pana Sławomira 16.06 godz. 14:20. Mykoła patrzy na dane wymiarowe z KEP-001:
 
 ```
 ZLE-2026-06-015 / SO-ZW-06 / krokwie C24 175 × 38 × 4050 mm
 
-Wymiary operator Rustam 16.06:
+Wymiary operator Mykoła 16.06:
 Deska 1:  175,2 × 38,1 × 4050 mm       klasa wstępna C24-A
 Deska 2:  175,0 × 37,9 × 4050 mm       klasa wstępna C24-A
 ...
@@ -44,11 +44,11 @@ Grubość:   min 37,4 / max 38,4 / śr. 37,98 mm (tol. docelowa ±2 wg PN-EN 336
 Długość:   52 szt. × 4050 mm (bez odchyleń)
 
 Weryfikacja klasyfikator Pani Ania 16.06:
-Pierwsze 10 desek pełnie: 0 rozbieżności z pomiarami Rustama (zgodność 100%)
+Pierwsze 10 desek pełnie: 0 rozbieżności z pomiarami Mykoły (zgodność 100%)
 Wyrywka SPC co 5 deska: 2 pomiary weryfikacyjne (deska 15, 25, 35, 45)
-Rozbieżności: deska 25 szerokość 174,6 (Rustam) vs 174,5 (Pani Ania), różnica 0,1 mm – w tolerancji suwmiarkowej
+Rozbieżności: deska 25 szerokość 174,6 (Mykoła) vs 174,5 (Pani Ania), różnica 0,1 mm – w tolerancji suwmiarkowej
 
-Podpis Rustam:     2026-06-16 11:47
+Podpis Mykoła:     2026-06-16 11:47
 Podpis Pani Ania:  2026-06-16 12:58 (pieczątka ITB-KLAS-247/2019)
 WZ EGIDA/2026/06/102 wydany Markowi 2026-06-16 13:30
 Odbiór kierowca Dom-Bud: 2026-06-16 14:20 (podpis pan Sławomir)
@@ -60,7 +60,7 @@ Pani Ania mówi:
 
 Marek dodaje:
 
-*„Rustam, pamiętaj o kluczowej rzeczy: **Dom-Bud Mrągowo to firma, spółka z o.o., NIP 7421234567, zarejestrowana**. Jacek Wesołowski jest u nich kierownikiem budowy, czyli pracownikiem zarządzającym. **On nie jest konsumentem** w rozumieniu prawa cywilnego. To zmienia wszystko – działa **rękojmia przedsiębiorcy**, a nie konsumenta. Zaraz Ci wyjaśnię na cytatach."*
+*„Mykoła, pamiętaj o kluczowej rzeczy: **Dom-Bud Mrągowo to firma, spółka z o.o., NIP 7421234567, zarejestrowana**. Jacek Wesołowski jest u nich kierownikiem budowy, czyli pracownikiem zarządzającym. **On nie jest konsumentem** w rozumieniu prawa cywilnego. To zmienia wszystko – działa **rękojmia przedsiębiorcy**, a nie konsumenta. Zaraz Ci wyjaśnię na cytatach."*
 
 Pani Ania dokłada tom **Kodeksu cywilnego** (twarda okładka, wydanie 2024 z aktualizacją do grudnia 2025) i oznaczoną na zakładkach art. 556, 560, 561, 563 KC. Kilka stron otwartych na płaskie.
 
@@ -74,9 +74,9 @@ Jacek się wita:
 
 Marek przedstawia:
 
-*„**Rustam Nazarov**, operator M3 naszej P3, **przetrał krokwie Twoje 16.06**. Wahan Petrosjan, jego pomocnik. Rustam, to pan Jacek z Dom-Bud. Pięć wcześniejszych kontraktów."*
+*„**Mykoła Hrycenko**, operator M3 naszej P3, **przetrał krokwie Twoje 16.06**. Wasyl Melnyk, jego pomocnik. Mykoła, to pan Jacek z Dom-Bud. Pięć wcześniejszych kontraktów."*
 
-Jacek uścisk dłoni Rustamowi, kiwnięcie Wahanowi. Siadają przy stole. Jacek wyjmuje **suwmiarkę Stanley**:
+Jacek uścisk dłoni Mykole, kiwnięcie Wasylowi. Siadają przy stole. Jacek wyjmuje **suwmiarkę Stanley**:
 
 *„Marek, pokażę problem. Wczoraj **składaliśmy dach** na moim budowie w Mrągowie, ulica Sienkiewicza 14, dom jednorodzinny klienta prywatnego. Wybraliśmy 10 krokwi z partii EGIDA losowo do pomiaru kontrolnego przed montażem – **protokół odbioru** na placu budowy. **3 z 10 krokwi** miały szerokość **174 mm** zamiast **175 mm deklarowanych** na WZ. Oto moja suwmiarka, skala co 1 mm, Stanley. Nie ma margensu błędu – 174 to 174."*
 
@@ -350,17 +350,17 @@ Jacek oddycha. Patrzy na liczby.
 
 Marek wstaje, ściska rękę:
 
-*„Robimy, Jacku. Dzięki **za profesjonalizm**. Nie każdy klient przyjedzie **sam z dokumentami** na wizytę. Większość od razu pisze maila z roszczeniem 5000 zł albo grozi sądem. **Ty się zachowałeś partnersko** – pokazałeś dane, zabrałeś krokwie, **dałeś szansę na rozmowę**. **My też tak zareagujemy zawsze.** Rustam, Pani Aniu, dziękuję."*
+*„Robimy, Jacku. Dzięki **za profesjonalizm**. Nie każdy klient przyjedzie **sam z dokumentami** na wizytę. Większość od razu pisze maila z roszczeniem 5000 zł albo grozi sądem. **Ty się zachowałeś partnersko** – pokazałeś dane, zabrałeś krokwie, **dałeś szansę na rozmowę**. **My też tak zareagujemy zawsze.** Mykoła, Pani Aniu, dziękuję."*
 
-Rustam dodaje ostrożnie:
+Mykoła dodaje ostrożnie:
 
 *„Panie Jacku, mogę zapytać: **jak mierzyliście na budowie**? Ile suwmiarek, czy zawsze co 1 mm, czy było jakieś narzędzie dokładniejsze?"*
 
 Jacek:
 
-*„Rustam, to dobry pytanie. Mieliśmy **jedną suwmiarkę Stanley 5 m** tylko, z rozdzielczością 1 mm, niekalibrowaną **nigdy**. Nasi cieśle mierzą 'na oko' albo 'z dokładnością 1-2 mm'. Nie mamy Mitutoyo. Następnym razem – jak coś wydaje się nie tak – **zadzwonię do EGIDA przed montażem**, żeby sprawdzić. **Twoja suwmiarka Mitutoyo 0,01 mm** jest poza moim światem kierownika budowy. Ale teraz wiem."*
+*„Mykoła, to dobry pytanie. Mieliśmy **jedną suwmiarkę Stanley 5 m** tylko, z rozdzielczością 1 mm, niekalibrowaną **nigdy**. Nasi cieśle mierzą 'na oko' albo 'z dokładnością 1-2 mm'. Nie mamy Mitutoyo. Następnym razem – jak coś wydaje się nie tak – **zadzwonię do EGIDA przed montażem**, żeby sprawdzić. **Twoja suwmiarka Mitutoyo 0,01 mm** jest poza moim światem kierownika budowy. Ale teraz wiem."*
 
-Rustam kiwnie głową.
+Mykoła kiwnie głową.
 
 ### 11:40, wpis do rejestru reklamacji EGIDA
 
@@ -388,24 +388,24 @@ Gest dobrej woli:  bonifikata 2% na następne zamówienie (umowa ustna)
 Następne kontakty: zamówienie 80 krokwi lipiec 2026 (Dom-Bud Mrągowo)
 
 Uczestnicy:        Marek Kowalski (brygadzista), Anna Kowalczyk (klasyfikator ITB),
-                    Rustam Nazarov (operator M3 P3), Wahan Petrosjan (pomocnik M1),
+                    Mykoła Hrycenko (operator M3 P3), Wasyl Melnyk (pomocnik M1),
                     Jacek Wesołowski (klient, kierownik budowy Dom-Bud)
 
 Podpis Markego:     Marek Kowalski, 2026-06-19 11:40
 Retencja:           5 lat (2031-06-19), archiwum EGIDA
 ```
 
-### 12:00, rozmowa końcowa z Rustamem
+### 12:00, rozmowa końcowa z Mykołą
 
-Jacek wychodzi, krokwie wracają do Kodiaqa. Marek zostaje z Rustamem w biurze (Pani Ania wróciła na halę przygotować klasyfikację innej partii; Wahan został na P3 dopiero co).
+Jacek wychodzi, krokwie wracają do Kodiaqa. Marek zostaje z Mykołą w biurze (Pani Ania wróciła na halę przygotować klasyfikację innej partii; Wasyl został na P3 dopiero co).
 
-*„Rustam, pierwsza reklamacja w Twojej karierze M3. Jak się czułeś?"*
+*„Mykoła, pierwsza reklamacja w Twojej karierze M3. Jak się czułeś?"*
 
 *„Marek, **na początku strach**. Myślałem, że klient się zacznie krzyczeć, że mnie obwinia, że będzie domagał się zwrotu pieniędzy. Kiedy Pani Ania pokazała mi PN-EN 336 i cytaty z Kodeksu cywilnego, **poczułem się bezpieczniej**. Ale trochę **zawstydzony**, że sam nie znałem ani tej normy, ani tego artykułu prawa. Nie wiedziałem, co to jest 'wada nieistotna'. Nie wiedziałem, że ±2 mm to nie nasza tolerancja wewnętrzna, **tylko norma całej UE**."*
 
-*„Rustam, **to jest lekcja dla każdego operatora M3**. Operator M3 nie musi znać prawa cywilnego na pamięć – od tego mamy klasyfikatora z ITB i brygadzistę. **Ale operator M3 musi znać normy techniczne**, w tym PN-EN 336, PN-EN 14081-1, PN-EN 1611-1. **I musi rozumieć: dokumentacja pomiarów na KEP-001 z poprzedniego dnia jest Twoją obroną**. Wczoraj, gdy Jacek zadzwonił, **Pani Ania otworzyła KEP-001 Twoje z 16.06 i od razu widziała: pomiary Rustama w granicy normy**. **Gdyby KEP-001 była niedokładna albo wypełniona retrospektywnie, reklamacja pewnie by poszła do sądu**, bo nie mielibyśmy dowodu. **Moi Rustamie, KEP-001 to Twoja polisa ubezpieczeniowa przed klientem.**"*
+*„Mykoła, **to jest lekcja dla każdego operatora M3**. Operator M3 nie musi znać prawa cywilnego na pamięć – od tego mamy klasyfikatora z ITB i brygadzistę. **Ale operator M3 musi znać normy techniczne**, w tym PN-EN 336, PN-EN 14081-1, PN-EN 1611-1. **I musi rozumieć: dokumentacja pomiarów na KEP-001 z poprzedniego dnia jest Twoją obroną**. Wczoraj, gdy Jacek zadzwonił, **Pani Ania otworzyła KEP-001 Twoje z 16.06 i od razu widziała: pomiary Mykoły w granicy normy**. **Gdyby KEP-001 była niedokładna albo wypełniona retrospektywnie, reklamacja pewnie by poszła do sądu**, bo nie mielibyśmy dowodu. **Moi Mykole, KEP-001 to Twoja polisa ubezpieczeniowa przed klientem.**"*
 
-Rustam przyjmuje to jak lekcję. Notuje w notesie roboczym: „**KEP-001 = polisa ubezpieczeniowa operatora M3**. Wypełniać w trakcie, nie retrospektywnie. Znać PN-EN 336 i 14081-1."
+Mykoła przyjmuje to jak lekcję. Notuje w notesie roboczym: „**KEP-001 = polisa ubezpieczeniowa operatora M3**. Wypełniać w trakcie, nie retrospektywnie. Znać PN-EN 336 i 14081-1."
 
 *„Marek, a co ze szóstką powszechną reklamacji tarcicy? **Czy tylko wymiar, czy jeszcze inne?**"*
 
@@ -490,7 +490,7 @@ Jeśli klient jest **agresywny, krzyczy, grozi sądem**, operator M3 ma prawo i 
 Dopuszczalne: „Zmierzyłem partię w dniu 16.06, wartości są w KEP-001, pokażę Panu."
 Niedopuszczalne: „Nie mogło być źle, ja zawsze robię dobrze."
 
-**Pedagogika**: Rustam dziś powiedział **jedno profesjonalne pytanie na końcu** („jak mierzyliście na budowie?"). To **rzut dojrzałości operatora M3** – zainteresowanie metodą pomiaru klienta zamiast obrony swojej pracy. Jacek docenił to bardziej niż wcześniejsze tabele.
+**Pedagogika**: Mykoła dziś powiedział **jedno profesjonalne pytanie na końcu** („jak mierzyliście na budowie?"). To **rzut dojrzałości operatora M3** – zainteresowanie metodą pomiaru klienta zamiast obrony swojej pracy. Jacek docenił to bardziej niż wcześniejsze tabele.
 
 ### Relacja długoterminowa vs jednorazowe zlecenie
 
@@ -500,11 +500,11 @@ Niedopuszczalne: „Nie mogło być źle, ja zawsze robię dobrze."
 |---|---|---|
 | **Reakcja początkowa** | spotkanie twarzą w twarz w 48h | rozmowa telefoniczna + email |
 | **Gest dobrej woli** | bonifikata 2-5% nawet przy niezasadnej | tylko przy zasadnej |
-| **Priorytet operacyjny** | przerwa w pracy Rustama na wizytę | Marek obsługuje bez angażowania operatora |
+| **Priorytet operacyjny** | przerwa w pracy Mykoły na wizytę | Marek obsługuje bez angażowania operatora |
 | **Dokumentacja** | jak wyżej, pełna, z zapisem spotkania | podstawowa, email w rejestrze |
 | **Eskalacja do dyrektora** | dopiero przy sporze 10 000+ zł | dyrektor informowany każdorazowo |
 
-**Jacek był klientem stałym** – stąd wizyta twarzą w twarz, obecność 4 pracowników EGIDA (Marek, Pani Ania, Rustam, Wahan), gest bonifikaty 2%. Dla klienta jednorazowego Marek by obsłużył sam telefonicznie.
+**Jacek był klientem stałym** – stąd wizyta twarzą w twarz, obecność 4 pracowników EGIDA (Marek, Pani Ania, Mykoła, Wasyl), gest bonifikaty 2%. Dla klienta jednorazowego Marek by obsłużył sam telefonicznie.
 
 ### Pytanie, które zwykle pojawia się na kursie
 

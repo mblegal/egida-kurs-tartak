@@ -6,23 +6,23 @@ czas: 120
 
 ## Introduction
 
-Friday, 2026-05-08, 10:05. Rustam's third day of grading assistance. Yesterday with Mrs. Ania he graded 60 pine boards from Drawno under PN-EN 14081 (strength grading, C classes, MOR, MOE, density and slope of grain indicators). They found 38 boards meeting the ordered **C24** threshold for the floor beams of a detached house in Piaseczno. The order ships on Monday. Today Mrs. Ania has a **different scene** for Rustam: we are not grading wood, we are talking with the client.
+Friday, 2026-05-08, 10:05. Mykoła's third day of grading assistance. Yesterday with Mrs. Ania he graded 60 pine boards from Drawno under PN-EN 14081 (strength grading, C classes, MOR, MOE, density and slope of grain indicators). They found 38 boards meeting the ordered **C24** threshold for the floor beams of a detached house in Piaseczno. The order ships on Monday. Today Mrs. Ania has a **different scene** for Mykoła: we are not grading wood, we are talking with the client.
 
 The grader's booth, 10:00. In comes **Mr. Jacek Wesołowski**, 45 years old, a construction technologist from the Dom-Bud Piaseczno firm (the same firm for which EGIDA prepared yesterday's C24 order). Jacek is running two projects in parallel. We are finishing the first on Monday (a detached house, a C24 floor). The second, a **two-family house with an upper storey**, Jacek is designing right now, and he has to order material for July. The question for Mrs. Ania: will C24 be enough, or is it better to order C30?
 
-Rustam sits in the corner of the booth, notebook in hand, watching. Mrs. Ania warned him in the morning: *"Today we are not grading. Today you listen to how I explain grades to a client. This is the second language, alongside the language of the standard. The client is not interested in knots and their location in the tension zone. The client wants to know: will the beam carry the floor, how much does it cost, and will it not crack in five years."*
+Mykoła sits in the corner of the booth, notebook in hand, watching. Mrs. Ania warned him in the morning: *"Today we are not grading. Today you listen to how I explain grades to a client. This is the second language, alongside the language of the standard. The client is not interested in knots and their location in the tension zone. The client wants to know: will the beam carry the floor, how much does it cost, and will it not crack in five years."*
 
 > **Mr. Jacek:** "Good morning, Mrs. Ania. I have a question for you. I am designing a two-family house, two storeys, a timber floor over the ground floor, beam span 4.2 m, live load 2 kN/m² (residential). The client is asking for a cost estimate. I would go with C24 as in the previous project, but the architect writes that I should consider C30. What do you advise?"
 >
 > **Mrs. Ania:** "Mr. Jacek, let's sit down. The difference between C24 and C30 is not just a number in a code. It is a whole chain of decisions: what will it carry, how much will it deflect, how much does it cost, what is the risk. Let's break it into four questions. Question one: what load? Question two: what span? Question three: what budget? Question four: who uses it and for how long?"
 
-Rustam opens his notebook. Today's lesson is different from yesterday's. Yesterday he measured knots with calipers. Today he will learn that **the same numbers** (MOR, MOE, density) have a different meaning for the grader than they do for the client. The grader looks at the board. The client looks at the building in which that board will work for 50 years.
+Mykoła opens his notebook. Today's lesson is different from yesterday's. Yesterday he measured knots with calipers. Today he will learn that **the same numbers** (MOR, MOE, density) have a different meaning for the grader than they do for the client. The grader looks at the board. The client looks at the building in which that board will work for 50 years.
 
 ## Objectives
 
 After this lesson:
 
-1. You understand **three perspectives** on the same C classes of structural timber. The **operator's** perspective (you, Rustam): what class is anticipated by selection at cutting and at grading before shipment, how the choice of class affects raw-material yield. The **grader's** perspective (Mrs. Ania): which criteria under PN-EN 14081 assign a class to a specific board, what measurements and accreditations are required. The **client's** perspective (Mr. Jacek, the architect, the investor): what use corresponds to each class, how much the difference costs, what the structural risk is.
+1. You understand **three perspectives** on the same C classes of structural timber. The **operator's** perspective (you, Mykoła): what class is anticipated by selection at cutting and at grading before shipment, how the choice of class affects raw-material yield. The **grader's** perspective (Mrs. Ania): which criteria under PN-EN 14081 assign a class to a specific board, what measurements and accreditations are required. The **client's** perspective (Mr. Jacek, the architect, the investor): what use corresponds to each class, how much the difference costs, what the structural risk is.
 2. You know the **typical uses of the four C classes** in Polish construction. **C16** for economy roof structures (budget detached houses, pallets, shuttering boards), **C24** for residential floors and standard roof structures (the most common class in Poland, 50-55% of demand), **C30** for loaded floors (multi-family buildings, light halls, utility coverings), **C35** for glued-laminated structures (GL timber, bridges, sports halls, long-span elements).
 3. You understand **Eurocode 5** (PN-EN 1995, the standard for designing timber structures) as the framework within which the designer chooses a C class for a specific project. You know that the C class is not chosen by the client "off the top of his head", but results from a structural calculation in a design program (e.g., Dlubal, Robot, Cadwork) taking into account three factors: load, span and permissible beam deflection.
 4. You know the **economics of class choice** on a specific example of a floor beam 4 m × 50 × 150 mm. The price difference between C24 (1800 zł/m³ at EGIDA, as of May 2026) and C30 (2250 zł/m³) for a single beam is about 13 zł; for the whole floor of a detached house (80 beams, 2.4 m³) about 1080 zł. In the context of the full cost of building a house (700,000-900,000 zł) that is 0.1-0.15%. For the client often of minor significance, for the sawmill (yield, cost of selection) very significant.
@@ -35,7 +35,7 @@ After this lesson:
 
 The same four strength classes (C16, C24, C30, C35) have **three different meanings** depending on the role from which the wood is viewed:
 
-**The operator's perspective (Rustam, autonomous operator P3):**
+**The operator's perspective (Mykoła, autonomous operator P3):**
 
 The C class is the **result of selection at cutting**. A log enters the saw, sawing produces 100 boards. The operator decides how to saw in order to maximise the number of boards meeting C24 (the most expensive standard class ordered by the client). The choice of cutting orientation, the band width, the kerf thickness, all of this affects C24 yield. Good sawing: 100 boards give 40 C24 (40% yield in the target class) plus 45 C16 (a lower class, lower price, but we sell it) plus 10 below C16 (for packaging, offcuts) plus 5 rejects (rot, cracks). Poor sawing: 100 boards give 25 C24, more waste. A yield difference = a revenue difference for the sawmill.
 
@@ -53,7 +53,7 @@ The three perspectives produce **the same C24 class**, but look at it from diffe
 - Client: "does C24 cover my structural need"
 
 ::: info
-At the sawmill nobody looks from all three perspectives **simultaneously**. The operator thinks about cutting, the grader about boards, the client about the building. That is why **translators** exist: the foreman, the sales representative, the grader in a conversation with a client. Each one translates in a single direction. Mrs. Ania, talking with Mr. Jacek, translates from the grader's perspective into the client's perspective. The foreman (Marek) translates from the client's perspective into the operator's perspective (he passes the order on to Rustam). You, Rustam, as an autonomous operator in M3, should understand all three perspectives, even if you yourself operate from only one.
+At the sawmill nobody looks from all three perspectives **simultaneously**. The operator thinks about cutting, the grader about boards, the client about the building. That is why **translators** exist: the foreman, the sales representative, the grader in a conversation with a client. Each one translates in a single direction. Mrs. Ania, talking with Mr. Jacek, translates from the grader's perspective into the client's perspective. The foreman (Marek) translates from the client's perspective into the operator's perspective (he passes the order on to Mykoła). You, Mykoła, as an autonomous operator in M3, should understand all three perspectives, even if you yourself operate from only one.
 :::
 
 ### Eurocode 5 as the framework for the client's decision
@@ -183,7 +183,7 @@ The C24 vs C30 cost difference for one floor = **540 zł**. In the full budget o
 
 ### Conversation scene: Mrs. Ania explains to Jacek, 10:20-10:50
 
-Mrs. Ania opens a laptop, runs Excel with the calculation sheet. Rustam watches.
+Mrs. Ania opens a laptop, runs Excel with the calculation sheet. Mykoła watches.
 
 > **Mrs. Ania:** "Mr. Jacek, let us get to your project. Two-family house, floor over the ground floor, span 4.2 m, beam spacing 60 cm, residential load 2 kN/m². First thing: why does your architect write C30? Do you have an answer?"
 >
@@ -213,7 +213,7 @@ Mrs. Ania opens a laptop, runs Excel with the calculation sheet. Rustam watches.
 
 ### The grader's second language: translating the standard into a client's decision
 
-Rustam wrote the whole conversation down. He noticed something important: **Mrs. Ania did not once say "MOR", "MOE", "N/mm²"**. Instead she said:
+Mykoła wrote the whole conversation down. He noticed something important: **Mrs. Ania did not once say "MOR", "MOE", "N/mm²"**. Instead she said:
 
 | Language of the standard (yesterday, l3) | Client's language (today, l4) |
 |------------------------------------------|---------------------------------|
@@ -226,10 +226,10 @@ Rustam wrote the whole conversation down. He noticed something important: **Mrs.
 | Eurocode 5 SLS condition | "whether the floor will deflect enough for the plaster to crack" |
 | Load 2 kN/m² | "a normal apartment, people, furniture, household appliances" |
 
-**The second feature of the client's language**: questions about **critical zones**. Mrs. Ania asked Jacek not about beams in general, but about stairs, the balcony, the lintel. Three places where using C30 makes **structural** sense, not just "just in case". The autonomous operator (Rustam) should learn this vocabulary, because in the future he will himself hear from the foreman (or from a client calling EGIDA): "I need C24 for the floor and C30 for the stairs", and he has to know what each of those combinations means.
+**The second feature of the client's language**: questions about **critical zones**. Mrs. Ania asked Jacek not about beams in general, but about stairs, the balcony, the lintel. Three places where using C30 makes **structural** sense, not just "just in case". The autonomous operator (Mykoła) should learn this vocabulary, because in the future he will himself hear from the foreman (or from a client calling EGIDA): "I need C24 for the floor and C30 for the stairs", and he has to know what each of those combinations means.
 
 ::: warning
-A sawmill operator **is not a designer**. Rustam cannot advise a client whether to choose C24 or C30. He has no design authority, is not an accredited grader, and does not know Eurocode 5. His role is: **to fulfil the order** in accordance with the instruction, for example "80 beams 50 × 150 × 4200 C24" from the WZ document. When a client calls the sawmill directly with a question about class, the operator redirects to the grader (Mrs. Ania) or to the sales representative (at EGIDA to foreman Marek, who handles clients in the absence of the sales representative). The operator's role is **execution**, not **advice**. Crossing that line is a risk: the wrong class in a project = a complaint of 50,000-200,000 zł plus the cost of replacing the structure.
+A sawmill operator **is not a designer**. Mykoła cannot advise a client whether to choose C24 or C30. He has no design authority, is not an accredited grader, and does not know Eurocode 5. His role is: **to fulfil the order** in accordance with the instruction, for example "80 beams 50 × 150 × 4200 C24" from the WZ document. When a client calls the sawmill directly with a question about class, the operator redirects to the grader (Mrs. Ania) or to the sales representative (at EGIDA to foreman Marek, who handles clients in the absence of the sales representative). The operator's role is **execution**, not **advice**. Crossing that line is a risk: the wrong class in a project = a complaint of 50,000-200,000 zł plus the cost of replacing the structure.
 :::
 
 ### Economics from EGIDA's perspective: why we offer all classes
@@ -246,9 +246,9 @@ Typical distribution from sawing Scots pine from the Drawno Forest District (fer
 
 EGIDA has to **sell each class** for the yield to be profitable. You cannot throw out 15% of production as C30 because no one wants it. You cannot hold 45% of C24 in stock, because it will tie up capital. That is why **the sales representatives at EGIDA actively promote different classes to different clients**: C16 to shuttering firms and pallet makers, C24 to typical roofers and detached-house developers, C30 to multi-family developers and hall builders, C35 to gluing workshops (GL) and bridge builders.
 
-**For Rustam as operator this means:**
+**For Mykoła as operator this means:**
 
-When Marek says: "this morning we are cutting pine for the C24 order for Dom-Bud Piaseczno", Rustam knows that **in addition to C24** C16, C30 and C35 will also come out. He must be able to sort the boards from one cutting cycle into three or four class stacks. He will not waste C30 boards (throwing them onto the C24 stack because C24 was ordered), because C30 sells to another client at a higher price. He will not throw C16 into C24 "because it looks similar", because C16 on a floor would mean a complaint.
+When Marek says: "this morning we are cutting pine for the C24 order for Dom-Bud Piaseczno", Mykoła knows that **in addition to C24** C16, C30 and C35 will also come out. He must be able to sort the boards from one cutting cycle into three or four class stacks. He will not waste C30 boards (throwing them onto the C24 stack because C24 was ordered), because C30 sells to another client at a higher price. He will not throw C16 into C24 "because it looks similar", because C16 on a floor would mean a complaint.
 
 Sorting at cutting = visual **pre-grading** (the operator sees knots, ring width, curvature), and then the grader (Ania) **confirms objectively**. A good operator can predict, with 90% accuracy, which class will come out of each board. That saves the grader time: Ania confirms, rather than working it out from scratch.
 
@@ -264,7 +264,7 @@ Economically, the C24 vs C30 difference for a detached-house floor is about 540 
 
 The grader's second language (in conversation with the client) is the **translation of the standard's numbers into a decision**: MOR 24 N/mm² becomes "the beam will carry 3.2 tons", MOE 11,000 becomes "it will deflect 11 mm, the plaster will not crack", density 350 kg/m³ becomes "the beam weighs 16.8 kg/m, it can be handled by hand". The grader's questions towards the client are not about the standard but about critical zones: stairs, balconies, lintels, spans above 4.5 m, loads above 3 kN/m². Those zones are the **actual places** of choice between classes.
 
-The autonomous operator (Rustam) **does not advise the client** on the choice of class. He redirects to the grader or the sales representative. But he understands the three perspectives on the classes, because in his daily work (sorting at cutting) he has to be able to predict which class will come out of which board. A good operator has 90% accuracy in visual pre-grading.
+The autonomous operator (Mykoła) **does not advise the client** on the choice of class. He redirects to the grader or the sales representative. But he understands the three perspectives on the classes, because in his daily work (sorting at cutting) he has to be able to predict which class will come out of which board. A good operator has 90% accuracy in visual pre-grading.
 
 In the next lesson (m3-w2-l5) we move on to **the interpretation of moisture measurement** in the context of the client's order. Three target thresholds (8-10% furniture, 12-15% joinery, 18% roof structure), five measurement points on the stack, the operator's decision: do we release the batch to the client or dry it further in the chamber.
 

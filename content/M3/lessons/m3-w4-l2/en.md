@@ -6,13 +6,13 @@ czas: 120
 
 ## Introduction
 
-Friday, 2026-06-19, 9:40 a.m. Rustam Nazarov started the day routinely: 7:00 shift, order **ZLE-2026-06-018 Scots pine** for dispatch to Biuro Projektowe Kowalski, facade boards 32 × 120 × 4050. He had sawn 2 logs (at 9:30 he has 48 boards in the batch), when Marek Kowalski (foreman, office) calls the P3 mobile phone:
+Friday, 2026-06-19, 9:40 a.m. Mykoła Hrycenko started the day routinely: 7:00 shift, order **ZLE-2026-06-018 Scots pine** for dispatch to Biuro Projektowe Kowalski, facade boards 32 × 120 × 4050. He had sawn 2 logs (at 9:30 he has 48 boards in the batch), when Marek Kowalski (foreman, office) calls the P3 mobile phone:
 
-*"Rustam, stop the machine, come to the office for coffee. We have a **customer complaint visit**. Jacek Wesołowski from Dom-Bud Mrągowo arrives at 10:00. The matter concerns pine C24 rafters from last week, ZLE-015, issued 16.06 to Wesołowski. He reported yesterday evening by phone that **3 of 52 rafters have a dimension of 174 × 37 instead of 175 × 38**. He called from the front of a Mrągowo building supply shop, where he measured with his own caliper. I'd like you to be at the meeting, you did the sawing, Pani Ania did the grading. She will be there too."*
+*"Mykoła, stop the machine, come to the office for coffee. We have a **customer complaint visit**. Jacek Wesołowski from Dom-Bud Mrągowo arrives at 10:00. The matter concerns pine C24 rafters from last week, ZLE-015, issued 16.06 to Wesołowski. He reported yesterday evening by phone that **3 of 52 rafters have a dimension of 174 × 37 instead of 175 × 38**. He called from the front of a Mrągowo building supply shop, where he measured with his own caliper. I'd like you to be at the meeting, you did the sawing, Pani Ania did the grading. She will be there too."*
 
-Rustam closes log 3 (half-cut), sets it aside against the angle guide, places LOTO on P3, switches off power, goes to wash his hands. Wahan goes with him, because a complaint visit is **interesting for the helper**, Wahan wants to see how one talks to a complaining customer.
+Mykoła closes log 3 (half-cut), sets it aside against the angle guide, places LOTO on P3, switches off power, goes to wash his hands. Wasyl goes with him, because a complaint visit is **interesting for the helper**, Wasyl wants to see how one talks to a complaining customer.
 
-On the way to the office Rustam thinks: "First **my** complaint since I've been M3. What to do? Will the customer be **angry**? Will Marek **blame** me? I read the DOM-BUD framework agreement once, three months ago, I don't remember the details. Calm. Marek knows what he's doing."
+On the way to the office Mykoła thinks: "First **my** complaint since I've been M3. What to do? Will the customer be **angry**? Will Marek **blame** me? I read the DOM-BUD framework agreement once, three months ago, I don't remember the details. Calm. Marek knows what he's doing."
 
 ### 9:50, in the EGIDA office, preparation
 
@@ -22,12 +22,12 @@ Marek opens the briefing:
 
 *"Gentlemen, rule one. **The customer is not the enemy.** Jacek Wesołowski has been site manager at Dom-Bud Mrągowo for 8 years, we know each other from five earlier orders. **He wants to learn the truth, not to extract money.** We must reciprocate that trust. Today's meeting is to be **technical**, not emotional. What do we know about the case?"*
 
-Rustam opens KEP-001 for ZLE-015. The pine batch from Tuesday 16.06, Pani Ania's full grading, the dispatch note issued to Marek for signature, collected by the Dom-Bud driver Mr. Sławomir on 16.06 at 14:20. Rustam looks at the dimensional data from KEP-001:
+Mykoła opens KEP-001 for ZLE-015. The pine batch from Tuesday 16.06, Pani Ania's full grading, the dispatch note issued to Marek for signature, collected by the Dom-Bud driver Mr. Sławomir on 16.06 at 14:20. Mykoła looks at the dimensional data from KEP-001:
 
 ```
 ZLE-2026-06-015 / SO-ZW-06 / C24 rafters 175 × 38 × 4050 mm
 
-Dimensions, operator Rustam 16.06:
+Dimensions, operator Mykoła 16.06:
 Board 1:  175.2 × 38.1 × 4050 mm       preliminary class C24-A
 Board 2:  175.0 × 37.9 × 4050 mm       preliminary class C24-A
 ...
@@ -44,11 +44,11 @@ Thickness: min 37.4 / max 38.4 / avg 37.98 mm (target tol. ±2 per PN-EN 336)
 Length:  52 pcs. × 4050 mm (no deviations)
 
 Verification by grader Pani Ania 16.06:
-First 10 boards fully: 0 discrepancies with Rustam's measurements (100% match)
+First 10 boards fully: 0 discrepancies with Mykoła's measurements (100% match)
 SPC sample every 5th board: 2 verification measurements (boards 15, 25, 35, 45)
-Discrepancies: board 25 width 174.6 (Rustam) vs 174.5 (Pani Ania), difference 0.1 mm, within caliper tolerance
+Discrepancies: board 25 width 174.6 (Mykoła) vs 174.5 (Pani Ania), difference 0.1 mm, within caliper tolerance
 
-Signature Rustam:    2026-06-16 11:47
+Signature Mykoła:    2026-06-16 11:47
 Signature Pani Ania: 2026-06-16 12:58 (stamp ITB-KLAS-247/2019)
 WZ EGIDA/2026/06/102 issued to Marek 2026-06-16 13:30
 Collection by Dom-Bud driver: 2026-06-16 14:20 (signature Mr. Sławomir)
@@ -60,7 +60,7 @@ Pani Ania says:
 
 Marek adds:
 
-*"Rustam, remember the key thing: **Dom-Bud Mrągowo is a company, a limited liability company, tax ID NIP 7421234567, registered**. Jacek Wesołowski is their site manager, that is, a managing employee. **He is not a consumer** within the meaning of civil law. This changes everything: the **entrepreneur's statutory warranty** applies, not the consumer's. I'll explain from the quotations in a moment."*
+*"Mykoła, remember the key thing: **Dom-Bud Mrągowo is a company, a limited liability company, tax ID NIP 7421234567, registered**. Jacek Wesołowski is their site manager, that is, a managing employee. **He is not a consumer** within the meaning of civil law. This changes everything: the **entrepreneur's statutory warranty** applies, not the consumer's. I'll explain from the quotations in a moment."*
 
 Pani Ania pulls out a volume of the **Civil Code** (hardcover, 2024 edition with update through December 2025) with bookmarks on art. 556, 560, 561, 563 CC. A few pages open flat.
 
@@ -74,9 +74,9 @@ Jacek greets them:
 
 Marek introduces him:
 
-*"**Rustam Nazarov**, M3 operator on our P3, **he sawed your rafters on 16.06**. Wahan Petrosjan, his helper. Rustam, this is Mr. Jacek from Dom-Bud. Five earlier contracts."*
+*"**Mykoła Hrycenko**, M3 operator on our P3, **he sawed your rafters on 16.06**. Wasyl Melnyk, his helper. Mykoła, this is Mr. Jacek from Dom-Bud. Five earlier contracts."*
 
-Jacek shakes Rustam's hand, a nod to Wahan. They sit at the table. Jacek takes out his **Stanley caliper**:
+Jacek shakes Mykoła's hand, a nod to Wasyl. They sit at the table. Jacek takes out his **Stanley caliper**:
 
 *"Marek, let me show the problem. Yesterday we were **assembling the roof** on my building site in Mrągowo, Sienkiewicza Street 14, a single-family house for a private client. We picked 10 rafters from the EGIDA batch at random for check measurement before assembly, an **acceptance record** on site. **3 out of 10 rafters** had a width of **174 mm** instead of the **175 mm declared** on the dispatch note. Here is my caliper, 1 mm scale, Stanley. There is no margin of error: 174 is 174."*
 
@@ -351,17 +351,17 @@ Jacek exhales. Looks at the numbers.
 
 Marek stands, shakes hands:
 
-*"Deal, Jacek. Thanks **for professionalism**. Not every customer arrives **himself, with documents**, for a visit. Most write an email with a 5000 zł claim right away or threaten court. **You behaved as a partner**: you showed data, brought the rafters, **gave a chance for conversation**. **We too will always react this way.** Rustam, Pani Ania, thank you."*
+*"Deal, Jacek. Thanks **for professionalism**. Not every customer arrives **himself, with documents**, for a visit. Most write an email with a 5000 zł claim right away or threaten court. **You behaved as a partner**: you showed data, brought the rafters, **gave a chance for conversation**. **We too will always react this way.** Mykoła, Pani Ania, thank you."*
 
-Rustam cautiously adds:
+Mykoła cautiously adds:
 
 *"Mr. Jacek, may I ask: **how did you measure on site**? How many calipers, always in 1 mm increments, or was there a more accurate tool?"*
 
 Jacek:
 
-*"Rustam, that is a good question. We had **only one Stanley 5 m caliper**, with 1 mm resolution, **never** calibrated. Our carpenters measure 'by eye' or 'to within 1-2 mm'. We don't have a Mitutoyo. Next time, if something seems off, **I'll call EGIDA before assembly** to check. **Your Mitutoyo caliper at 0.01 mm** is beyond my world as a site manager. But now I know."*
+*"Mykoła, that is a good question. We had **only one Stanley 5 m caliper**, with 1 mm resolution, **never** calibrated. Our carpenters measure 'by eye' or 'to within 1-2 mm'. We don't have a Mitutoyo. Next time, if something seems off, **I'll call EGIDA before assembly** to check. **Your Mitutoyo caliper at 0.01 mm** is beyond my world as a site manager. But now I know."*
 
-Rustam nods.
+Mykoła nods.
 
 ### 11:40, entry into EGIDA's complaints register
 
@@ -389,24 +389,24 @@ Goodwill gesture:      2% discount on the next order (oral agreement)
 Next contacts:         order for 80 rafters July 2026 (Dom-Bud Mrągowo)
 
 Participants:          Marek Kowalski (foreman), Anna Kowalczyk (grader ITB),
-                       Rustam Nazarov (M3 operator P3), Wahan Petrosjan (M1 helper),
+                       Mykoła Hrycenko (M3 operator P3), Wasyl Melnyk (M1 helper),
                        Jacek Wesołowski (customer, Dom-Bud site manager)
 
 Marek's signature:     Marek Kowalski, 2026-06-19 11:40
 Retention:             5 years (2031-06-19), EGIDA archive
 ```
 
-### 12:00, closing conversation with Rustam
+### 12:00, closing conversation with Mykoła
 
-Jacek leaves, the rafters go back into the Kodiaq. Marek stays with Rustam in the office (Pani Ania returned to the hall to prepare grading of another batch; Wahan went back to P3 a moment ago).
+Jacek leaves, the rafters go back into the Kodiaq. Marek stays with Mykoła in the office (Pani Ania returned to the hall to prepare grading of another batch; Wasyl went back to P3 a moment ago).
 
-*"Rustam, first complaint in your M3 career. How did you feel?"*
+*"Mykoła, first complaint in your M3 career. How did you feel?"*
 
 *"Marek, **at first, fear**. I thought the customer would start shouting, would blame me, would demand money back. When Pani Ania showed me PN-EN 336 and the Civil Code quotations, **I felt safer**. But a bit **ashamed** that I did not know that standard or that article of the law. I did not know what an 'insignificant defect' is. I did not know that ±2 mm is not our internal tolerance, **but an EU-wide standard**."*
 
-*"Rustam, **that is a lesson for every M3 operator**. The M3 operator does not have to know civil law by heart, we have the ITB grader and the foreman for that. **But the M3 operator must know the technical standards**, including PN-EN 336, PN-EN 14081-1, PN-EN 1611-1. **And must understand: your measurement documentation on KEP-001 from the previous day is your defence.** Yesterday, when Jacek called, **Pani Ania opened your KEP-001 from 16.06 and saw at once: Rustam's measurements within the standard**. **If KEP-001 had been inaccurate or filled in retrospectively, the complaint would probably have gone to court**, because we would have no evidence. **Rustam, KEP-001 is your insurance policy against the customer.**"*
+*"Mykoła, **that is a lesson for every M3 operator**. The M3 operator does not have to know civil law by heart, we have the ITB grader and the foreman for that. **But the M3 operator must know the technical standards**, including PN-EN 336, PN-EN 14081-1, PN-EN 1611-1. **And must understand: your measurement documentation on KEP-001 from the previous day is your defence.** Yesterday, when Jacek called, **Pani Ania opened your KEP-001 from 16.06 and saw at once: Mykoła's measurements within the standard**. **If KEP-001 had been inaccurate or filled in retrospectively, the complaint would probably have gone to court**, because we would have no evidence. **Mykoła, KEP-001 is your insurance policy against the customer.**"*
 
-Rustam takes it as a lesson. He notes in his working notebook: "**KEP-001 = insurance policy for the M3 operator.** Fill it in as work progresses, not retrospectively. Know PN-EN 336 and 14081-1."
+Mykoła takes it as a lesson. He notes in his working notebook: "**KEP-001 = insurance policy for the M3 operator.** Fill it in as work progresses, not retrospectively. Know PN-EN 336 and 14081-1."
 
 *"Marek, and what about the six common bases of timber complaints? **Only dimension, or others too?**"*
 
@@ -491,7 +491,7 @@ If the customer is **aggressive, shouts, threatens court**, the M3 operator has 
 Acceptable: "I measured the batch on 16.06, the values are in KEP-001, I'll show you."
 Unacceptable: "It couldn't be wrong, I always do it right."
 
-**Pedagogy**: Rustam today asked **one professional question at the end** ("how did you measure on site?"). That is **a throw of M3-operator maturity**: interest in the customer's measurement method rather than defence of one's own work. Jacek appreciated it more than the earlier tables.
+**Pedagogy**: Mykoła today asked **one professional question at the end** ("how did you measure on site?"). That is **a throw of M3-operator maturity**: interest in the customer's measurement method rather than defence of one's own work. Jacek appreciated it more than the earlier tables.
 
 ### Long-term relationship vs. one-off order
 
@@ -501,11 +501,11 @@ Unacceptable: "It couldn't be wrong, I always do it right."
 |---|---|---|
 | **Initial reaction** | face-to-face meeting within 48h | phone call + email |
 | **Goodwill gesture** | 2-5% discount even if unjustified | only if justified |
-| **Operational priority** | interruption of Rustam's work for the visit | Marek handles without involving the operator |
+| **Operational priority** | interruption of Mykoła's work for the visit | Marek handles without involving the operator |
 | **Documentation** | as above, full, with meeting record | basic, email in the register |
 | **Escalation to director** | only on a dispute over 10 000+ zł | director informed every time |
 
-**Jacek was a steady customer**, hence the face-to-face visit, the presence of 4 EGIDA employees (Marek, Pani Ania, Rustam, Wahan), the goodwill 2% gesture. For a one-off customer Marek would have handled it by phone alone.
+**Jacek was a steady customer**, hence the face-to-face visit, the presence of 4 EGIDA employees (Marek, Pani Ania, Mykoła, Wasyl), the goodwill 2% gesture. For a one-off customer Marek would have handled it by phone alone.
 
 ### The question that usually comes up on the course
 

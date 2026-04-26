@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-Poniedziałek, 6:45. Maricel Santos weszła do hali pierwsza z operatorów, jeszcze przed brygadzistą Markiem. Weekend się skończył, ale zapach oleju maszynowego i piłowin wisi w powietrzu jak piątek wieczorem. Marek pojawia się dwie minuty później z notesem w kieszeni kombinezonu i kawałkiem białej kredy przemysłowej w dłoni. „Chodź, dzisiaj robimy obchód pił. Wszystkie cztery typy, wszystkie stanowiska. Zobaczysz, co się zużyło przez tydzień cięcia dębu."
+Poniedziałek, 6:45. Sofía Ramírez weszła do hali pierwsza z operatorów, jeszcze przed brygadzistą Markiem. Weekend się skończył, ale zapach oleju maszynowego i piłowin wisi w powietrzu jak piątek wieczorem. Marek pojawia się dwie minuty później z notesem w kieszeni kombinezonu i kawałkiem białej kredy przemysłowej w dłoni. „Chodź, dzisiaj robimy obchód pił. Wszystkie cztery typy, wszystkie stanowiska. Zobaczysz, co się zużyło przez tydzień cięcia dębu."
 
 Ta lekcja wprowadza **cztery rodzaje pił używanych na typowym tartaku**: taśmowa, tarczowa, ramowa i wielopiłowa. Dla każdej poznajesz **anatomię** (ząb, szpic, rozwarcie, napięcie) oraz **pięć głównych oznak zużycia**, które operator junior musi rozpoznać i zgłosić. Lekcja domyka regułę 80/20 z poprzedniej (klasyfikacja tarcicy): tym razem nie chodzi o sortowanie desek, tylko o **sortowanie narzędzi na dwie kupki: dobre do pracy i do wymiany**. Decyzję o wymianie podejmuje brygadzista lub operator senior, ale **rozpoznanie i zgłoszenie to już obowiązek operatora juniora**.
 
@@ -85,7 +85,7 @@ Zerwana taśma pilarska leci z prędkością obwodową **50–70 m/s** (180–25
 **Wygląd:** niebieskie pasmo 5–30 mm wzdłuż taśmy, najczęściej między zębami a kołem napinacza. Jednoznaczna niebieskość, nie do pomylenia.
 
 ::: example
-Maricel, poniedziałek 6:55, inspekcja pilarki #2. Patrzy na taśmę z latarką czołową (w hali jeszcze półmrok przed włączeniem reflektorów). Widzi po trzech zębach od prowadnicy dolnej: **cienka ciemna kreska, 3 mm, biegnie z gardzieli w stronę grzbietu**. Pokazuje Markowi palcem. Marek zbliża twarz na 10 cm, kiwa głową: „Masz dobre oko. Pęknięcie zmęczeniowe, trzeci dzień na tej taśmie przy dębie. Zatrzymaj pilarkę, ja idę po zapasową. Dzisiaj o 7:20 robimy wymianę – zostajesz, patrzysz, asystujesz. Tej taśmy już nie włączamy." Zerwanie się NIE zdarzyło – bo Maricel zobaczyła na obchodzie to, co Rozporządzenie MG 2000 § 13 każe sprawdzać: stan osłon i stan narzędzia roboczego przed każdym uruchomieniem.
+Sofía, poniedziałek 6:55, inspekcja pilarki #2. Patrzy na taśmę z latarką czołową (w hali jeszcze półmrok przed włączeniem reflektorów). Widzi po trzech zębach od prowadnicy dolnej: **cienka ciemna kreska, 3 mm, biegnie z gardzieli w stronę grzbietu**. Pokazuje Markowi palcem. Marek zbliża twarz na 10 cm, kiwa głową: „Masz dobre oko. Pęknięcie zmęczeniowe, trzeci dzień na tej taśmie przy dębie. Zatrzymaj pilarkę, ja idę po zapasową. Dzisiaj o 7:20 robimy wymianę – zostajesz, patrzysz, asystujesz. Tej taśmy już nie włączamy." Zerwanie się NIE zdarzyło – bo Sofía zobaczyła na obchodzie to, co Rozporządzenie MG 2000 § 13 każe sprawdzać: stan osłon i stan narzędzia roboczego przed każdym uruchomieniem.
 :::
 
 ### Orientacyjna żywotność taśm według gatunku
@@ -159,12 +159,12 @@ Z lekcji 6 pamiętasz zasadę 80/20 przy klasyfikacji tarcicy: po 3 miesiącach 
 
 **Cel pedagogiczny**: przesunięcie ucznia od obserwatora materiału (l1–l6) do obserwatora narzędzia. Pierwszy kontakt z logiką maszyny – nie „jak jej używać", tylko „co się z nią dzieje w czasie". Pojęcie zużywalnika (consumable) wprowadzone implicite przez tabelę żywotności i cykl wymiany.
 
-**Klamra tygodnia 2**: Maricel wraca po debiucie w Bloku 1 T2 (l1 wilgotność). Łuk = obserwacja materiału → obserwacja narzędzia → asysta przy maszynie (l8). Kursant kończy tydzień 2 z pełnym kontekstem, który w tygodniu 3 pozwoli mu zacząć wykonywać czynności.
+**Klamra tygodnia 2**: Sofía wraca po debiucie w Bloku 1 T2 (l1 wilgotność). Łuk = obserwacja materiału → obserwacja narzędzia → asysta przy maszynie (l8). Kursant kończy tydzień 2 z pełnym kontekstem, który w tygodniu 3 pozwoli mu zacząć wykonywać czynności.
 
 **Pułapki prowadzenia**:
 1. Bez materiałoznawstwa stali. Junior nie potrzebuje martenzytu – ma rozpoznać niebieską plamę i wiedzieć, że to koniec taśmy.
 2. Nie pomijać tabeli czasów cięcia. Bez niej junior nie wie, czy taśma sprzed 4 godzin w dębie to „stara" czy „świeża". Pasmo godzin jest liczbą zawodową tak jak 2200–2400 PSI.
-3. Reguła zwrotu „proszę spojrzeć" jest fundamentem – kursanci z kulturami hierarchicznymi (Wietnam, Filipiny, Azja Środkowa) mają tendencję do milczenia, żeby nie przeszkadzać brygadziście. Ten zwrot otwiera drogę bez naruszania hierarchii.
+3. Reguła zwrotu „proszę spojrzeć" jest fundamentem – kursanci z kultur, w których pracownik fizyczny tradycyjnie nie „przerywa" przełożonego (Ameryka Łacińska z relacją „usted" wobec brygadzisty, część regionów Ukrainy), mają tendencję do milczenia, żeby nie przeszkadzać. Ten zwrot otwiera drogę bez naruszania hierarchii.
 
 **Integracja z lekcjami poprzednimi**: l4 (wady drewna) → l7 (wady narzędzia) – te same oczy, inne kryterium. l6 reguła 80/20 → l7 zaostrzona do „przy każdej wątpliwości mów" ze względu na ryzyko. l5 łańcuch maszyn → l7 cztery rodzaje pił odpowiadają ogniwom łańcucha.
 

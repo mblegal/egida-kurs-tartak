@@ -102,7 +102,7 @@ Sawmills often work **from dawn**, and in winter it is dark through half of the 
 **Quick test**: pick up a hand tool (ruler, pencil, wedge) and look at the markings: numbers, ticks, printing. Can you see them clearly? If you have to squint or lean in, the lighting is **too weak**. You report it to the foreman.
 
 ::: example
-**From real life**: a helper from Belarus, a sawmill near Olsztyn, November; the first shift started at 7:00, with darkness until 8:00. The lamps over his station were partly flickering, partly dim. The helper "did not want to impose" and worked in half-light. After 40 minutes he cut off the tip of a finger with a hand plane: he thought the board was where it was not. After the accident, the Labour Inspectorate fined the sawmill 8,000 PLN for **failing to provide adequate lighting**. **The helper also shared some blame**: he had not reported it. Since then, a notice has hung on the wall at that sawmill: "lighting failure = immediate stop + report".
+**From real life**: a helper from Ukraine, a sawmill near Olsztyn, November; the first shift started at 7:00, with darkness until 8:00. The lamps over his station were partly flickering, partly dim. The helper "did not want to impose" and worked in half-light. After 40 minutes he cut off the tip of a finger with a hand plane: he thought the board was where it was not. After the accident, the Labour Inspectorate fined the sawmill 8,000 PLN for **failing to provide adequate lighting**. **The helper also shared some blame**: he had not reported it. Since then, a notice has hung on the wall at that sawmill: "lighting failure = immediate stop + report".
 :::
 
 **Point 5 – Tools at the workstation**

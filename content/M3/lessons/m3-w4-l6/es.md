@@ -6,29 +6,29 @@ czas: 120
 
 ## Introducción
 
-Viernes, 2026-06-26, las 15:20. Aparcamiento de EGIDA en Kętrzyn, temperatura 24 °C, sol de junio. Rustam Nazarov terminó su turno rutinario a las 15:00 (los viernes en EGIDA son administrativamente 30 minutos más cortos, se sale a las 14:30 con el cierre de protocolos en la oficina, pero Rustam se quedó hasta las 15:00 para cortar las 2 tablas de haya que faltaban de BU-ZW-06 para ZLE-023 ParkiętMaster Kraków – salió bien, el mensajero de DHL las recogerá a las 17:00). Rustam entra en el Skoda Fabia, conduce 300 metros hasta la **cafetería Mazurska** (calle Mickiewicza 27, centro de Kętrzyn, edificio histórico de 1898, antiguos cuarteles rusos reconvertidos en cafetería en 2012, lugar favorito del equipo de EGIDA tras el turno – barato, rico, el propietario Grzegorz Maliszewski conoce a todos los operadores por su nombre).
+Viernes, 2026-06-26, las 15:20. Aparcamiento de EGIDA en Kętrzyn, temperatura 24 °C, sol de junio. Mykoła Hrycenko terminó su turno rutinario a las 15:00 (los viernes en EGIDA son administrativamente 30 minutos más cortos, se sale a las 14:30 con el cierre de protocolos en la oficina, pero Mykoła se quedó hasta las 15:00 para cortar las 2 tablas de haya que faltaban de BU-ZW-06 para ZLE-023 ParkiętMaster Kraków – salió bien, el mensajero de DHL las recogerá a las 17:00). Mykoła entra en el Skoda Fabia, conduce 300 metros hasta la **cafetería Mazurska** (calle Mickiewicza 27, centro de Kętrzyn, edificio histórico de 1898, antiguos cuarteles rusos reconvertidos en cafetería en 2012, lugar favorito del equipo de EGIDA tras el turno – barato, rico, el propietario Grzegorz Maliszewski conoce a todos los operadores por su nombre).
 
 ### Contexto de la conversación: la iniciativa de Marek tras la auditoría FSC
 
-Marek Kowalski propuso reunirse **el miércoles 24.06 por la tarde** (tras el regreso de Olsztyn, después de la auditoría FSC del martes). Motivo: la conversación con el director Paweł Witkowski en la reunión trimestral trató, entre otros asuntos, sobre Rustam. Paweł preguntó: *„Marek, ese Rustam de P3 – 15 meses con nosotros, M3 desde abril, auditoría FSC ejemplar, reclamación Dom-Bud gestionada profesionalmente, delegación del capataz cumplida con éxito. ¿Qué piensa hacer a partir de ahora? Queremos retenerlo a largo plazo, pero no sabemos dónde se ve a sí mismo."*
+Marek Kowalski propuso reunirse **el miércoles 24.06 por la tarde** (tras el regreso de Olsztyn, después de la auditoría FSC del martes). Motivo: la conversación con el director Paweł Witkowski en la reunión trimestral trató, entre otros asuntos, sobre Mykoła. Paweł preguntó: *„Marek, ese Mykoła de P3 – 15 meses con nosotros, M3 desde abril, auditoría FSC ejemplar, reclamación Dom-Bud gestionada profesionalmente, delegación del capataz cumplida con éxito. ¿Qué piensa hacer a partir de ahora? Queremos retenerlo a largo plazo, pero no sabemos dónde se ve a sí mismo."*
 
-Marek prometió a Paweł que **hablaría con Rustam sobre las trayectorias de desarrollo profesional**, le mostraría opciones reales en el sector de la madera y fuera de él, le preguntaría por sus preferencias y le presentaría un plan a Paweł. La iniciativa de reunirse en la cafetería Mazurska (no en la nave, no en la oficina) fue consciente: **una conversación sobre la carrera requiere distancia respecto de las obligaciones diarias**, en la cafetería Rustam tiene derecho a pensar como persona, no como operador.
+Marek prometió a Paweł que **hablaría con Mykoła sobre las trayectorias de desarrollo profesional**, le mostraría opciones reales en el sector de la madera y fuera de él, le preguntaría por sus preferencias y le presentaría un plan a Paweł. La iniciativa de reunirse en la cafetería Mazurska (no en la nave, no en la oficina) fue consciente: **una conversación sobre la carrera requiere distancia respecto de las obligaciones diarias**, en la cafetería Mykoła tiene derecho a pensar como persona, no como operador.
 
-Marek se preparó: ayer por la tarde, en casa, tomó notas sobre 8 trayectorias de carrera en el sector de la madera accesibles para un operador M3, reunió enlaces a cursos, preguntó a Paweł por el presupuesto de formación de EGIDA para 2026-2027 (Paweł aprobó 12 000 zł anuales por empleado M3 con 3 años de antigüedad, Rustam tiene 15 meses – dentro de medio año cumplirá).
+Marek se preparó: ayer por la tarde, en casa, tomó notas sobre 8 trayectorias de carrera en el sector de la madera accesibles para un operador M3, reunió enlaces a cursos, preguntó a Paweł por el presupuesto de formación de EGIDA para 2026-2027 (Paweł aprobó 12 000 zł anuales por empleado M3 con 3 años de antigüedad, Mykoła tiene 15 meses – dentro de medio año cumplirá).
 
 ### 15:30, llegada a la cafetería Mazurska
 
-Rustam aparca el Skoda en la calle Mickiewicza. La cafetería Mazurska ocupa la planta baja del edificio histórico, interior con 8 mesas, suelos de madera, paredes de roble local (Rustam conoce la madera de qué partida, la ebanistería venía a EGIDA en 2023), olor a café recién molido y tarta de queso. Grzegorz detrás de la barra, Marek ya está sentado en la mesa de la ventana, un bloc A5 abierto, un café americano delante.
+Mykoła aparca el Skoda en la calle Mickiewicza. La cafetería Mazurska ocupa la planta baja del edificio histórico, interior con 8 mesas, suelos de madera, paredes de roble local (Mykoła conoce la madera de qué partida, la ebanistería venía a EGIDA en 2023), olor a café recién molido y tarta de queso. Grzegorz detrás de la barra, Marek ya está sentado en la mesa de la ventana, un bloc A5 abierto, un café americano delante.
 
-*„Rustam, siéntate. Gracias por venir – sé que es viernes, querías ir a casa."*
+*„Mykoła, siéntate. Gracias por venir – sé que es viernes, querías ir a casa."*
 
-Rustam se sienta enfrente. *„Marek, es la primera vez que hablamos de carrera. Tengo curiosidad."*
+Mykoła se sienta enfrente. *„Marek, es la primera vez que hablamos de carrera. Tengo curiosidad."*
 
-Marek pide para Rustam: *„Grzegorz, un té negro para Rustam. Un trozo de tarta de queso casera – para los dos. Y una botellita de agua sin gas."*
+Marek pide para Mykoła: *„Grzegorz, un té negro para Mykoła. Un trozo de tarta de queso casera – para los dos. Y una botellita de agua sin gas."*
 
 Grzegorz trae el pedido en 4 minutos. Marek abre el bloc:
 
-*„Rustam, antes de empezar: esto no es la evaluación anual ni de los empleados. Es **una conversación sobre ti y tu futuro** – en EGIDA o fuera de EGIDA, ambas opciones abiertas. Me gustaría que después de esta conversación conozcas todas las trayectorias reales, calcules costes y beneficios, y elijas. La decisión es solo tuya. ¿De acuerdo?"*
+*„Mykoła, antes de empezar: esto no es la evaluación anual ni de los empleados. Es **una conversación sobre ti y tu futuro** – en EGIDA o fuera de EGIDA, ambas opciones abiertas. Me gustaría que después de esta conversación conozcas todas las trayectorias reales, calcules costes y beneficios, y elijas. La decisión es solo tuya. ¿De acuerdo?"*
 
 *„De acuerdo."*
 
@@ -40,7 +40,7 @@ Grzegorz trae el pedido en 4 minutos. Marek abre el bloc:
 
 *Pro: **buen salario, trabajo estable, el señor Henryk se jubila en 2031** – vacante real, EGIDA buscará entonces. Contra: **trabajo solitario** (el secadero está separado de la nave de las sierras, el maestro está solo el 80% del tiempo), **trabajo con humedad y olor** (no a todos les gusta), **gran responsabilidad por el programa** – mal programa = partida dañada, pérdidas de 10 000 a 30 000 zł por una sola campaña."*
 
-Rustam anota en su propio bloc: „Maestro del secadero – BTM 3 meses 8500 zł (30% yo), salario 7500-9500 zł, vacante 2031, solitario, mala campaña 10-30 mil pérdidas."
+Mykoła anota en su propio bloc: „Maestro del secadero – BTM 3 meses 8500 zł (30% yo), salario 7500-9500 zł, vacante 2031, solitario, mala campaña 10-30 mil pérdidas."
 
 ### Trayectoria 2: Capataz
 
@@ -48,7 +48,7 @@ Marek sonríe: *„La segunda – **capataz**. Yo. Ruta más larga: 3-5 años M3
 
 *Pro: **el salario más alto en la estructura operativa**, **poder de decisión** (yo decido sobre horarios, vacaciones, BHP, conflictos), **cercanía con el director** (tengo contacto con Paweł cada semana). Contra: **estrés** (responsabilidad por 6-8 trabajadores, sus accidentes, sus resultados), **política interna** (conflictos entre trabajadores – por ejemplo Damian vs Anton a veces), **trabajo fuera de horario** (informes, horarios, documentación por la tarde desde casa)."*
 
-Rustam: „Capataz – AKS 2 meses 4200 zł, comunicación CIOP 1800 zł, salario 8000-11000 zł, estrés, política, trabajo por la tarde."
+Mykoła: „Capataz – AKS 2 meses 4200 zł, comunicación CIOP 1800 zł, salario 8000-11000 zł, estrés, política, trabajo por la tarde."
 
 ### Trayectoria 3: Control de calidad / clasificador ITB
 
@@ -58,7 +58,7 @@ Rustam: „Capataz – AKS 2 meses 4200 zł, comunicación CIOP 1800 zł, salari
 
 *La señora Ania tiene además **estudios de posgrado en Derecho** por la Universidad de Gdańsk (2 años, 2018-2020, 8000 zł personalmente, EGIDA no lo financió), que le permiten gestionar reclamaciones jurídicamente – esto es un extra, no un requisito. Tú, sin el posgrado jurídico, serías clasificador técnico, las reclamaciones seguirían gestionándolas la señora Ania o el abogado externo de EGIDA."*
 
-Rustam: „Clasificador ITB – 6 meses 14500 zł (50% yo = 7250 zł, cuotas 24 meses), examen 1500 zł, seguro 1400 zł/año, salario 6500-8000 zł, sin estrés pero seguro de por vida, actualizaciones cada 3 años."
+Mykoła: „Clasificador ITB – 6 meses 14500 zł (50% yo = 7250 zł, cuotas 24 meses), examen 1500 zł, seguro 1400 zł/año, salario 6500-8000 zł, sin estrés pero seguro de por vida, actualizaciones cada 3 años."
 
 ### Trayectoria 4: Operador CNC en carpintería
 
@@ -68,7 +68,7 @@ Rustam: „Clasificador ITB – 6 meses 14500 zł (50% yo = 7250 zł, cuotas 24 
 
 *Ahora, los cursos CAD en el mercado polaco:*
 
-Marek abre el portátil y le muestra a Rustam la página:
+Marek abre el portátil y le muestra a Mykoła la página:
 
 **CadWork Polska** (pl.cadwork.com): *„Cadwork es un sistema líder 3D-CAD/CAM para la construcción en madera y la carpintería. Cadwork permite, gracias a sus módulos especializados, soluciones completas..."*. Oficina: Varsovia (central), Poznań, Olsztyn (representación desde 2025). Curso básico: 5 días intensivos, 3800 zł, certificado autorizado.
 
@@ -78,7 +78,7 @@ Marek abre el portátil y le muestra a Rustam la página:
 
 **AlphaCAM Wood** (CAM dedicado a CNC de madera): distribuido por Wood-Mizer Polska (¡el mismo Wood-Mizer que nuestra P3 LT70!) y por Hexagon Manufacturing Intelligence. Curso de 7 días, 6200 zł.
 
-Rustam: „CadWork 5 días 3800 zł Varsovia-Poznań-Olsztyn, Master Wood 2800-4500 zł, SolidWorks Woodworking 10 días 7500 zł, AlphaCAM 7 días 6200 zł. Operador CNC 6000-8500 zł, trabajo lejos, modernidad."
+Mykoła: „CadWork 5 días 3800 zł Varsovia-Poznań-Olsztyn, Master Wood 2800-4500 zł, SolidWorks Woodworking 10 días 7500 zł, AlphaCAM 7 días 6200 zł. Operador CNC 6000-8500 zł, trabajo lejos, modernidad."
 
 ### Trayectoria 5: Certificaciones UDT (mantenimiento y manejo de carretillas)
 
@@ -105,7 +105,7 @@ Marek se prepara para la cita, abre en el portátil la ley:
 
 > **§ 2 pkt 1.** Operator wózka – osoba, której organizator pracy powierzył czynności z zakresu obsługi wózka jezdniowego.
 
-*„En concreto: el curso **IIWJO** (Carretillas con cambio de bombona), 5 días intensivos, 1200 zł, **examen UDT** 180 zł. Certificación válida **5 años**, luego **2 años de prórroga** a solicitud. Aquí Anton Bondarenko tiene IIWJO desde 2019, prórroga en 2024. Rustam, **si consigues IIWJO** – amplía tu competencia: si Anton está de vacaciones, enfermo o hay conflicto – tú puedes conducir la carretilla en la playa, transportar troncos, pallets de madera aserrada. EGIDA paga un complemento de 200 zł/mes al salario por tener vigente una certificación UDT activa.*
+*„En concreto: el curso **IIWJO** (Carretillas con cambio de bombona), 5 días intensivos, 1200 zł, **examen UDT** 180 zł. Certificación válida **5 años**, luego **2 años de prórroga** a solicitud. Aquí Anton Bondarenko tiene IIWJO desde 2019, prórroga en 2024. Mykoła, **si consigues IIWJO** – amplía tu competencia: si Anton está de vacaciones, enfermo o hay conflicto – tú puedes conducir la carretilla en la playa, transportar troncos, pallets de madera aserrada. EGIDA paga un complemento de 200 zł/mes al salario por tener vigente una certificación UDT activa.*
 
 *Cursos en el mercado local (Firecrawl me mostró ayer):*
 
@@ -115,7 +115,7 @@ Marek se prepara para la cita, abre en el portátil la ley:
 
 **Grupa Kena** (Kędzierzyn-Koźle): curso IIWJO con examen UDT, pero lejos de Kętrzyn.
 
-Rustam: „UDT IIWJO – 5 días 1200 zł, examen 180 zł, 5 años de validez + 2 años de prórroga, complemento 200 zł/mes, W-M ZDZ Olsztyn 15-19.09.2026."
+Mykoła: „UDT IIWJO – 5 días 1200 zł, examen 180 zł, 5 años de validez + 2 años de prórroga, complemento 200 zł/mes, W-M ZDZ Olsztyn 15-19.09.2026."
 
 ### Trayectoria 6: Certificaciones SEP (electroenergéticas)
 
@@ -144,35 +144,35 @@ Rustam: „UDT IIWJO – 5 días 1200 zł, examen 180 zł, 5 años de validez + 
 
 *Complemento salarial: **150 zł/mes** por G1-E activo. Para ti: G1-E + UDT IIWJO = **350 zł/mes extra** = 4200 zł/año de complemento. Más un trabajo más seguro (sabes qué hacer ante una subida de tensión, no esperas ayuda)."*
 
-Rustam: „SEP G1-E – 3 días 450 zł, examen 180 zł, 5 años, complemento 150 zł/mes. Junto con UDT suman 350 zł/mes = 4200 zł/año extra."
+Mykoła: „SEP G1-E – 3 días 450 zł, examen 180 zł, 5 años, complemento 150 zł/mes. Junto con UDT suman 350 zł/mes = 4200 zł/año extra."
 
 ### Trayectoria 7: Motosierrista (leñador forestal)
 
 *„La séptima – **una rama totalmente distinta: motosierrista, leñador forestal**. Curso BHP de 30 horas, examen estatal, certificación de por vida (no caduca). Coste del curso 800-1200 zł. Salario del leñador 5500-7000 zł brutos, pero **irregular** – depende de los contratos de tala, estacionalidad.*
 
-*La ventaja es: Rustam **puede conseguir la certificación y trabajar de leñador en invierno** (diciembre-marzo, temporada de talas forestales) como **segundo empleo**. EGIDA acaba sus turnos a las 15:00, el leñador tala de 5:00 a 13:00, no coliden en el tiempo. Requiere contrato con la Nadleśnictwo Strzałowo (nuestro proveedor) o con una empresa privada de tala. Ingreso adicional: **2500-4000 zł/mes** en temporada, más buena salud (trabajo en el bosque, aire fresco).*
+*La ventaja es: Mykoła **puede conseguir la certificación y trabajar de leñador en invierno** (diciembre-marzo, temporada de talas forestales) como **segundo empleo**. EGIDA acaba sus turnos a las 15:00, el leñador tala de 5:00 a 13:00, no coliden en el tiempo. Requiere contrato con la Nadleśnictwo Strzałowo (nuestro proveedor) o con una empresa privada de tala. Ingreso adicional: **2500-4000 zł/mes** en temporada, más buena salud (trabajo en el bosque, aire fresco).*
 
 *Contra: **trabajo peligroso** (los leñadores en Polonia tienen un índice de accidentes mortales de 5,2 por 1000 al año – uno de los más altos), **físico** (motosierra de 6-8 kg, trabajo en invierno a -20 °C), **estacional**. Accidentes de leñadores: 60% golpe del árbol que cae, 20% rebote de la sierra, 15% caídas, 5% otros.*
 
 *No te lo recomiendo como trayectoria principal. Pero **como complementaria**, en invierno, cuando EGIDA baja el ritmo – considéralo. Pero con cuidado."*
 
-Rustam: „Motosierrista – curso de 30 h 800-1200 zł, salario 5500-7000 zł estacional, extra invernal 2500-4000 zł/mes, riesgo de accidentes 5,2/1000."
+Mykoła: „Motosierrista – curso de 30 h 800-1200 zł, salario 5500-7000 zł estacional, extra invernal 2500-4000 zł/mes, riesgo de accidentes 5,2/1000."
 
 ### Trayectoria 8: Estudios de madera / tecnológicos
 
-*„La octava – **estudios de madera**, trayectoria a largo plazo. **Facultad de Tecnología de la Madera de la Universidad de Ciencias de la Vida de Poznań** (UPP, la única facultad de este tipo en Polonia). Estudios de ingeniería de 3 años, grado I, modalidad no presencial (fines de semana), 4000 zł por semestre. Total 6 semestres = 24 000 zł. EGIDA financia el 30% tras 5 años de antigüedad (Rustam tiene 15 meses – dentro de 3 años y 9 meses cumplirá), es decir 7200 zł de 24 000. Tú 16 800 zł en cuotas a 72 meses (6 años) = 233 zł/mes.*
+*„La octava – **estudios de madera**, trayectoria a largo plazo. **Facultad de Tecnología de la Madera de la Universidad de Ciencias de la Vida de Poznań** (UPP, la única facultad de este tipo en Polonia). Estudios de ingeniería de 3 años, grado I, modalidad no presencial (fines de semana), 4000 zł por semestre. Total 6 semestres = 24 000 zł. EGIDA financia el 30% tras 5 años de antigüedad (Mykoła tiene 15 meses – dentro de 3 años y 9 meses cumplirá), es decir 7200 zł de 24 000. Tú 16 800 zł en cuotas a 72 meses (6 años) = 233 zł/mes.*
 
 *Tras los estudios: **ingeniero de la madera**, salario 9000-12000 zł brutos, puestos de dirección en empresas más grandes: **IKEA Industry Poland** (fábricas en Orla, Zbąszyń, Lublin), **Swedwood** (proveedor de IKEA), **Kronospan** (tableros derivados de la madera, Szczecinek, Mielec), **Schumacher** (fábricas de muebles premium).*
 
 *Pro: **salario más alto que el de capataz**, **prestigio del ingeniero**, **movilidad entre empresas** (el diploma es reconocido). Contra: **8 años de esfuerzo total** (3 años de estudios + 5 años de antigüedad antes del diploma), **carga financiera** (233 zł/mes durante 6 años), **cambio del carácter del trabajo** (oficina, no nave)."*
 
-Rustam: „Estudios de madera UPP – 3 años 24 000 zł (30% EGIDA tras 5 años de antigüedad = 7200 zł, tú 16 800 zł cuotas 6 años 233 zł/mes), ingeniero 9000-12000 zł, IKEA Kronospan, 8 años de esfuerzo total."
+Mykoła: „Estudios de madera UPP – 3 años 24 000 zł (30% EGIDA tras 5 años de antigüedad = 7200 zł, tú 16 800 zł cuotas 6 años 233 zł/mes), ingeniero 9000-12000 zł, IKEA Kronospan, 8 años de esfuerzo total."
 
 ### Art. 103¹ KP y la financiación de la formación
 
-Marek pide un segundo café, Rustam un segundo té. La conversación ya ha superado la hora (de 15:30 a 16:45, 75 minutos).
+Marek pide un segundo café, Mykoła un segundo té. La conversación ya ha superado la hora (de 15:30 a 16:45, 75 minutos).
 
-*„Rustam, antes de preguntarte por la decisión – **la base legal de la financiación de la formación por el empleador**. Código de Trabajo, art. 103¹ § 1:"*
+*„Mykoła, antes de preguntarte por la decisión – **la base legal de la financiación de la formación por el empleador**. Código de Trabajo, art. 103¹ § 1:"*
 
 > **Art. 103¹ § 1 Kodeksu pracy.** Przez podnoszenie kwalifikacji zawodowych rozumie się zdobywanie lub uzupełnianie wiedzy i umiejętności przez pracownika, z inicjatywy pracodawcy albo za jego zgodą.
 
@@ -192,9 +192,9 @@ Marek pide un segundo café, Rustam un segundo té. La conversación ya ha super
 
 *Licencia de formación: tienes **hasta 6 días al año** para exámenes y defensa del diploma, **retribución íntegra por esos días**. Más liberación del trabajo durante las clases de fin de semana (todas las formaciones que te he mostrado son en fin de semana – así que no coliden con el turno, pero si alguna vez hay un curso entre semana, tienes derecho a la liberación)."*
 
-### Preguntas de Rustam y análisis
+### Preguntas de Mykoła y análisis
 
-Rustam da un sorbo al té, anota el resumen. Levanta la cabeza:
+Mykoła da un sorbo al té, anota el resumen. Levanta la cabeza:
 
 *„Marek, unas cuantas preguntas estratégicas."*
 
@@ -202,7 +202,7 @@ Rustam da un sorbo al té, anota el resumen. Levanta la cabeza:
 
 **Pregunta 1**: *„¿Y si me quedo M3 durante 5 años sin ascenso? ¿Qué me pasa?"*
 
-Marek: *„El salario M3 aumenta automáticamente con la experiencia: +300 zł brutos por cada año completo (reglamento EGIDA § 12 ust. 1). Rustam, hoy tienes 5000 zł brutos (inicio M3 04.2026). Dentro de un año – 5300. Dentro de 2 años – 5600. Dentro de 5 años – 6500 zł brutos más **primas trimestrales de 1000-2000 zł** (según resultado de la empresa y auditoría). Es decir, en un horizonte de 5 años: **78 000-85 000 zł anuales brutos**, estable, sin ascenso. No tan bueno como capataz 120 000 zł, no tan bueno como maestro del secadero 105 000 zł, pero **tranquilo, seguro, sin estrés adicional**."*
+Marek: *„El salario M3 aumenta automáticamente con la experiencia: +300 zł brutos por cada año completo (reglamento EGIDA § 12 ust. 1). Mykoła, hoy tienes 5000 zł brutos (inicio M3 04.2026). Dentro de un año – 5300. Dentro de 2 años – 5600. Dentro de 5 años – 6500 zł brutos más **primas trimestrales de 1000-2000 zł** (según resultado de la empresa y auditoría). Es decir, en un horizonte de 5 años: **78 000-85 000 zł anuales brutos**, estable, sin ascenso. No tan bueno como capataz 120 000 zł, no tan bueno como maestro del secadero 105 000 zł, pero **tranquilo, seguro, sin estrés adicional**."*
 
 **Pregunta 2**: *„¿Qué trayectoria es la más rentable financieramente?"*
 
@@ -220,9 +220,9 @@ Marek calla un momento. *„Piensas con sensatez. Lo subrayo: **las certificacio
 
 *Entonces, **si planeas volver a Ucrania dentro de 3-4 años**, recomiendo: **UDT + SEP + experiencia M3 EGIDA 4 años**. Son **3 certificados occidentales reconocibles más 4 años de antigüedad M3** = buen CV para aserraderos en Leópolis, Ivano-Frankivsk, Úzhgorod (empresas similares de 50-200 trabajadores, salarios 800-1500 EUR netos, más bajos que en Polonia, pero con coste de vida inferior). Estudios de madera – no ahora, quizá en Leópolis tras el regreso."*
 
-### Decisión de Rustam
+### Decisión de Mykoła
 
-Rustam anota las últimas cosas, da un sorbo al té. *„Marek, gracias por la exhaustividad. Tengo decisión."*
+Mykoła anota las últimas cosas, da un sorbo al té. *„Marek, gracias por la exhaustividad. Tengo decisión."*
 
 *„Te escucho."*
 
@@ -234,13 +234,13 @@ Marek sonríe ampliamente: *„**Excelente decisión, pragmática y equilibrada*
 
 *„De acuerdo. Gracias, Marek."*
 
-*„No, Rustam. **Yo te doy las gracias a ti** – llevas 15 meses trabajando con nosotros de forma ejemplar. Paweł quiere retenerte a largo plazo. Un plan bueno para ti, bueno para EGIDA. Todos ganan."*
+*„No, Mykoła. **Yo te doy las gracias a ti** – llevas 15 meses trabajando con nosotros de forma ejemplar. Paweł quiere retenerte a largo plazo. Un plan bueno para ti, bueno para EGIDA. Todos ganan."*
 
 ### 17:15, salida de la cafetería
 
 Cuenta de 42 zł (2 cafés + 2 tés + 2 tartas de queso + 2 aguas), Marek paga con la tarjeta corporativa de EGIDA (formación del empleado computada como coste de la empresa, conforme a la ley del impuesto sobre sociedades art. 15 ust. 1). Se levantan, se estrechan las manos. Grzegorz desde detrás de la barra: *„Hasta pronto, chicos."*
 
-Rustam va hacia el Skoda. **Decisión tomada, plan claro**. UDT a mediados de septiembre, luego SEP primer trimestre de 2027. 15 meses de antigüedad atrás, otros 3-4 años por delante como M3 con certificaciones adicionales. Salario 5000 + 350 (UDT + SEP) + 150 (2 años de antigüedad) = **5500 zł brutos ya en 2028**, más primas trimestrales. **Estable**.
+Mykoła va hacia el Skoda. **Decisión tomada, plan claro**. UDT a mediados de septiembre, luego SEP primer trimestre de 2027. 15 meses de antigüedad atrás, otros 3-4 años por delante como M3 con certificaciones adicionales. Salario 5000 + 350 (UDT + SEP) + 150 (2 años de antigüedad) = **5500 zł brutos ya en 2028**, más primas trimestrales. **Estable**.
 
 Mañana sábado, día libre. El hijo de 4 años con la esposa esperan en el piso de la calle Sienkiewicza 23. **Helados del puesto del parque Miejski** – lo había prometido al hijo entre semana. Fin de semana en familia.
 
@@ -265,7 +265,7 @@ El operador M3 elige trayectoria equilibrando cuatro variables:
 3. **Riesgo**: desde bajo (UDT, SEP – examen fácil, 90% de aprobados) a medio (clasificador ITB – 60% de aprobados a la primera) a alto (estudios de madera – 40% de los matriculados no terminan en plazo).
 4. **Retorno financiero** (aumento salarial bruto anual): desde 2400 zł (UDT = 200 zł/mes) hasta 60 000 zł (ingeniero de la madera vs M3 tras 8 años).
 
-**Regla**: un buen plan de desarrollo **combina horizontes**. No inviertas todo en una sola trayectoria a largo plazo sin cobertura a corto. Rustam eligió: UDT + SEP (horizonte 1, retorno inmediato) + reevaluación en 2 años (horizonte 2, opción maestro del secadero o clasificador). Los estudios (horizonte 3) aplazados – sensato, porque las obligaciones familiares (hijo de 4 años) exigen estabilidad, no 6 años de cuotas de 233 zł/mes.
+**Regla**: un buen plan de desarrollo **combina horizontes**. No inviertas todo en una sola trayectoria a largo plazo sin cobertura a corto. Mykoła eligió: UDT + SEP (horizonte 1, retorno inmediato) + reevaluación en 2 años (horizonte 2, opción maestro del secadero o clasificador). Los estudios (horizonte 3) aplazados – sensato, porque las obligaciones familiares (hijo de 4 años) exigen estabilidad, no 6 años de cuotas de 233 zł/mes.
 
 ### Obligación del empleador y derechos del trabajador
 
@@ -274,18 +274,18 @@ El art. 103¹ KP establece la base legal de las obligaciones mutuas. **El emplea
 2. Conceder la licencia de formación y la liberación del trabajo con remuneración,
 3. Celebrar el acuerdo escrito si el coste de la formación se financia en todo o en parte.
 
-**El trabajador** (Rustam):
+**El trabajador** (Mykoła):
 1. Realizar la formación de buena fe (no abandonar sin motivo),
 2. Trabajar en la empresa tras la formación durante el periodo pactado en el acuerdo (estándar EGIDA: 3 años),
 3. Devolver la parte proporcional de la financiación, si la salida es anticipada.
 
-**Ejemplo**: Rustam toma el curso UDT por 800 zł de EGIDA (empleador 70%), acuerdo de 3 años tras el curso. Si se va a los 18 meses (50%), devuelve 400 zł (50% de 800 zł). Es **justo** – el empleador invirtió, el trabajador lo tomó, si no trabaja el periodo íntegro, devuelve parte.
+**Ejemplo**: Mykoła toma el curso UDT por 800 zł de EGIDA (empleador 70%), acuerdo de 3 años tras el curso. Si se va a los 18 meses (50%), devuelve 400 zł (50% de 800 zł). Es **justo** – el empleador invirtió, el trabajador lo tomó, si no trabaja el periodo íntegro, devuelve parte.
 
 ### Por qué discutes contigo mismo, no con el jefe
 
-Última nota pedagógica: **la decisión de carrera es una conversación contigo mismo**, no con el jefe. Marek hoy mostró 8 trayectorias, mostró costes, mostró retornos. Marek **no decidió por Rustam**. Formuló preguntas, escuchó, aprobó la decisión. Si Rustam hubiera dicho „me quedo M3 sin ninguna certificación adicional", Marek habría respondido „de acuerdo, observo que pierdes 350 zł/mes de complemento, pero es tu decisión".
+Última nota pedagógica: **la decisión de carrera es una conversación contigo mismo**, no con el jefe. Marek hoy mostró 8 trayectorias, mostró costes, mostró retornos. Marek **no decidió por Mykoła**. Formuló preguntas, escuchó, aprobó la decisión. Si Mykoła hubiera dicho „me quedo M3 sin ninguna certificación adicional", Marek habría respondido „de acuerdo, observo que pierdes 350 zł/mes de complemento, pero es tu decisión".
 
-Una buena cultura empleador-trabajador **no obliga**, solo **informa y apoya**. EGIDA tiene 8 operadores, no todos hacen UDT y SEP – Damian no tiene SEP porque no quiso invertir tiempo, se queda con el salario M3 sin complemento, es su elección. Rustam quiere – lo consigue. Wahan M1 demasiado pronto, primero debe pasar a M2 – en 18 meses Marek hablará con él.
+Una buena cultura empleador-trabajador **no obliga**, solo **informa y apoya**. EGIDA tiene 8 operadores, no todos hacen UDT y SEP – Damian no tiene SEP porque no quiso invertir tiempo, se queda con el salario M3 sin complemento, es su elección. Mykoła quiere – lo consigue. Wasyl M1 demasiado pronto, primero debe pasar a M2 – en 18 meses Marek hablará con él.
 
 ## Autoevaluación
 
@@ -302,7 +302,7 @@ Una buena cultura empleador-trabajador **no obliga**, solo **informa y apoya**. 
 11. Explica la regla de „3 años de compromiso" en el acuerdo de formación de EGIDA y la devolución proporcional.
 12. ¿Por qué el motosierrista (leñador forestal) no se recomienda como trayectoria principal sino como complementaria?
 13. ¿Cuánto duran los estudios de madera de grado I en UPP Poznań y cuánto cuestan en total?
-14. Enumera 3 certificados occidentales reconocibles en la UE que Rustam puede obtener en EGIDA.
+14. Enumera 3 certificados occidentales reconocibles en la UE que Mykoła puede obtener en EGIDA.
 15. Explica la regla de „3 horizontes de planificación de la carrera" con los ejemplos correspondientes para cada uno.
 16. ¿Por qué la decisión de carrera es „una conversación contigo mismo" y no con el superior?
 

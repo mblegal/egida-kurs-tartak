@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Wednesday, the eighth day of the second week. Monday: Maricel understood what the number 38% means. Tuesday: she obtained that number correctly. Today she steps out onto the log yard, because **before any log goes to the saw carriage, somebody has to decide how to crosscut it into logs**. That decision happens twice: first in the forest (harvester operator), second at the sawmill yard (foreman). Today Maricel watches the second decision and learns what information the foreman holds in his head at that moment.
+Wednesday, the eighth day of the second week. Monday: Sofía understood what the number 38% means. Tuesday: she obtained that number correctly. Today she steps out onto the log yard, because **before any log goes to the saw carriage, somebody has to decide how to crosscut it into logs**. That decision happens twice: first in the forest (harvester operator), second at the sawmill yard (foreman). Today Sofía watches the second decision and learns what information the foreman holds in his head at that moment.
 
-At 6:50 a truck arrives from the State Forests (Lasy Państwowe): two oak trunks, each about 14 metres long, 55 cm diameter at the base, 32 cm at the top. **These are whole logs** (in Polish: *dłużyce*) – entire tree trunks, felled by a harvester and hauled to the sawmill intact, without being divided into shorter logs. Foreman Marek pulls an industrial crayon out of his pocket (white, thick, waterproof) and motions Maricel over: "Come. I'll show you how to read this."
+At 6:50 a truck arrives from the State Forests (Lasy Państwowe): two oak trunks, each about 14 metres long, 55 cm diameter at the base, 32 cm at the top. **These are whole logs** (in Polish: *dłużyce*) – entire tree trunks, felled by a harvester and hauled to the sawmill intact, without being divided into shorter logs. Foreman Marek pulls an industrial crayon out of his pocket (white, thick, waterproof) and motions Sofía over: "Come. I'll show you how to read this."
 
 This lesson is about **what the foreman sees when he looks at a fifteen-metre trunk, and why the same trunk, crosscut differently, may be worth 30% more or less**. You will not learn to cut today. You will learn to understand the cut, so that in six months, when you become a junior operator with authorisation, you will know what you are looking at in the crayon mark drawn on the bark.
 
@@ -37,7 +37,7 @@ In the forest the harvester fells the tree, cuts off branches (delimbing) and **
 - **Better price for thick butt logs**: a whole log with a 55 cm diameter butt will go to the band-saw carriage of a large primary breakdown machine, which turns it into veneer flitches. Crosscut in the forest to 4 m, it could have landed as a "standard log" at a price 3× lower.
 :::
 
-**Maricel's delivery today**: two oak whole logs, 14 m long. The first has a 55 cm butt (the first 4 m from the ground, thick, knot-free – promising class A for furniture veneer). The second is thinner (42 cm at the base) and has a cluster of large knots visible at 6 m height where branches were cut off.
+**Sofía's delivery today**: two oak whole logs, 14 m long. The first has a 55 cm butt (the first 4 m from the ground, thick, knot-free – promising class A for furniture veneer). The second is thinner (42 cm at the base) and has a cluster of large knots visible at 6 m height where branches were cut off.
 
 ### Three zones of a whole log: why the same trunk has different value at different heights
 
@@ -80,7 +80,7 @@ Marek walks along the first whole log, presses a tape measure to it every few me
 
 ### Your role as a helper at the whole log: what you do, what you do NOT do
 
-At M2 week 2 Maricel is **not yet operating whole-log crosscutting**. That task belongs to a senior operator holding a chainsaw authorisation (Regulation of the Minister of Labour of 28 July 2023 on portable chainsaws), or to a crosscut mini-gang saw (operated by someone with station-specific training). Maricel **assists**:
+At M2 week 2 Sofía is **not yet operating whole-log crosscutting**. That task belongs to a senior operator holding a chainsaw authorisation (Regulation of the Minister of Labour of 28 July 2023 on portable chainsaws), or to a crosscut mini-gang saw (operated by someone with station-specific training). Sofía **assists**:
 
 ::: warning
 **What you do as helper/junior at a whole log:**
@@ -145,10 +145,10 @@ Tomorrow (lesson 4) you will meet **the wood defects relevant to primary breakdo
 
 **Traps for migrant learners**:
 - "Whole log = big log, why a different word?" – **no**, a whole log is a commercial category (the entire trunk), a log is a segment after crosscutting. Show photos of both. In Spanish and Ukrainian the distinction already exists (rollizo largo vs tronco, кругляк vs колода), worth reinforcing in the glossary.
-- Confusing "butt log" with "root" – the butt log is the **first 3–5 m of the trunk above ground**, the roots are below ground and do not go to the sawmill. Learners from countries without a forestry tradition (Philippines, some regions of Africa) may fall into this trap.
+- Confusing "butt log" with "root" – the butt log is the **first 3–5 m of the trunk above ground**, the roots are below ground and do not go to the sawmill. Learners from countries with a tropical-forest tradition (Colombia, Venezuela, parts of Honduras) may fall into this trap because the commercial classification of timber there looks different from the temperate-forest one.
 - "Since the butt log is the most valuable, let's cut everything into butt logs" – **no**, from an old trunk you get one butt log, the rest has to be used. This rule returns in m2-w4-l1 cutting planning.
 
-**Case Maricel – to be expanded**: why is Marek not giving her the cut today? Because crosscutting a whole log with a chainsaw requires authorisations (training plus medical clearance plus an entry in the station workbook) that Maricel will receive after chainsaw training in week 4 of module 2. For now Maricel **understands the decision**. Understanding before doing – that is the core of M2.
+**Case Sofía – to be expanded**: why is Marek not giving her the cut today? Because crosscutting a whole log with a chainsaw requires authorisations (training plus medical clearance plus an entry in the station workbook) that Sofía will receive after chainsaw training in week 4 of module 2. For now Sofía **understands the decision**. Understanding before doing – that is the core of M2.
 
 **Gesture glossary**: the "foreman's crayon mark" often uses local shorthand in sawmills (e.g. "F" for veneer/*fornir*, "K" for structure/*konstrukcja*, "P" for pallet wood/*paletka*). When a learner arrives at a sawmill, the first day she should ask what shorthand is in use. The EGIDA standard is A/B/C/D, matching the quality classes in PN-EN standards.
 

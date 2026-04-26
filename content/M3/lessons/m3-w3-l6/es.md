@@ -6,25 +6,25 @@ czas: 120
 
 ## Introducción
 
-Miércoles, 2026-06-10, 13:55. Fin del turno de Rustam y Wahan en P3 (pino de la nueva campaña de junio ZLE-2026-06-001, 1,2 m³ de rollizo procesado, madera aserrada en crudo enviada al almacén de secado). Marek los llama a la oficina del encargado para una **sesión de informe de turno**, prevista para el viernes como parte de la formación M3 del bloque de procesos, l6 del curso.
+Miércoles, 2026-06-10, 13:55. Fin del turno de Mykoła y Wasyl en P3 (pino de la nueva campaña de junio ZLE-2026-06-001, 1,2 m³ de rollizo procesado, madera aserrada en crudo enviada al almacén de secado). Marek los llama a la oficina del encargado para una **sesión de informe de turno**, prevista para el viernes como parte de la formación M3 del bloque de procesos, l6 del curso.
 
 Oficina del encargado: sala de 3 × 4 m en el rincón de la nave de aserraderos, tras el tabique que la separa de P1. Escritorio con portátil (HP ProBook, Windows 10, Excel), armario con carpetas de pedidos, tablón de corcho con llaves, ventana que da al patio de almacén. Marek está sentado ante el portátil, en la pantalla abierto el **informe de turno** (archivo Excel `raport_zmianowy_20260527-20260610.xlsx`) que cubre las 2 últimas semanas (desde el inicio del ZLE-077 el lunes 26.05 hasta hoy).
 
-Rustam y Wahan se sientan en las sillas frente a Marek. Wahan tiene en la mano su agenda de trabajo, Rustam el cuaderno de turno de hoy (KDP-001 para el ZLE-2026-06-001 ya rellenado, dejó el sobre en la mesa de Marek por la mañana).
+Mykoła y Wasyl se sientan en las sillas frente a Marek. Wasyl tiene en la mano su agenda de trabajo, Mykoła el cuaderno de turno de hoy (KDP-001 para el ZLE-2026-06-001 ya rellenado, dejó el sobre en la mesa de Marek por la mañana).
 
 ### 14:00, Marek muestra el balance del ZLE-077
 
-Marek gira el portátil hacia Rustam y Wahan. La pantalla muestra una tabla de Excel:
+Marek gira el portátil hacia Mykoła y Wasyl. La pantalla muestra una tabla de Excel:
 
 ```
-RAPORT ZMIANOWY ZLE-2026-05-077 (Rustam, lun 26.05 + mié 10.06 finalización)
+RAPORT ZMIANOWY ZLE-2026-05-077 (Mykoła, lun 26.05 + mié 10.06 finalización)
 
 SUROWIEC (Bosques Strzałowo):
   Rollizo de pino silvestre, 4 troncos, ZLE-077:    1,32 m³
   Precio de compra rollizo (Distrito forestal):     380 zł/m³
   Valor de la materia prima:                        502 zł
 
-ETAP 1 – ASERRADO P3 Wood-Mizer LT70 (lun 26.05, Rustam + Wahan):
+ETAP 1 – ASERRADO P3 Wood-Mizer LT70 (lun 26.05, Mykoła + Wasyl):
   Madera aserrada en crudo a la salida:             0,582 m³
   Rendimiento rollizo → aserrada en crudo:          44,1%
   Número de tablas 28 × 155 × 4050 mm:              33 ud
@@ -66,7 +66,7 @@ ETAP 5 – VENTA AL CLIENTE (sáb 13.06 - sáb 20.06):
     Total:                        809,20 zł
 ```
 
-Marek mira a Rustam: *„Mira este informe. Esta es la **economía completa del ZLE-077** desde el rollizo hasta la entrega al cliente. Seis etapas, cada una con su coste y su valor. Ahora calculemos juntos el balance final."*
+Marek mira a Mykoła: *„Mira este informe. Esta es la **economía completa del ZLE-077** desde el rollizo hasta la entrega al cliente. Seis etapas, cada una con su coste y su valor. Ahora calculemos juntos el balance final."*
 
 ### 14:15, balance final ZLE-077
 
@@ -88,19 +88,19 @@ PRZYCHÓD ZLE-077:
 MARŻA ZLE-077:                                     -529 zł   ⚠️ PÉRDIDA
 ```
 
-Rustam mira sorprendido: *„Marek, ¿esto es una **pérdida**? ¿529 zł?"*
+Mykoła mira sorprendido: *„Marek, ¿esto es una **pérdida**? ¿529 zł?"*
 
 Marek asiente: *„Sí. Mira lo que pasó. **Rendimiento solo 36,5%** del rollizo 1,32 m³ al producto final 0,482 m³. Eso está **por debajo de la media EGIDA** (estándar 40-42% para pino tabla de suelo). Si el rendimiento hubiera sido 42%, el lote tendría 0,554 m³ de producto final, valor de venta 941 zł en lugar de 809, margen −397 zł en lugar de −529. Seguiría siendo pérdida, pero menor."*
 
-*„¿Por qué el rendimiento fue bajo?"* pregunta Rustam.
+*„¿Por qué el rendimiento fue bajo?"* pregunta Mykoła.
 
 Marek: *„Tres razones. Primero, **los troncos eran pequeños** (media 32 cm, límite inferior para el esquema cant sawing; por encima de 35 cm el aprovechamiento sube 5-8%). Segundo, **el defecto del tronco 3** (grieta radial de 8 cm) bajó el aprovechamiento de ese tronco al 56%. Tercero, **el secado externo en Drew-Sus** da un resultado de contracción algo peor que la cámara propia (15% vs 13% típicamente con cámara propia)."*
 
-Rustam anota: *„Rendimiento bajo: troncos pequeños + grieta en P3 + contracción Drew-Sus. En total 529 zł de pérdida. ¿En qué me equivoqué?"*
+Mykoła anota: *„Rendimiento bajo: troncos pequeños + grieta en P3 + contracción Drew-Sus. En total 529 zł de pérdida. ¿En qué me equivoqué?"*
 
-### 14:25, lo que hizo Rustam vs lo que podría haber hecho de otra forma
+### 14:25, lo que hizo Mykoła vs lo que podría haber hecho de otra forma
 
-Marek, con calma: *„Rustam, tú no te equivocaste en ningún sitio. Las decisiones paramétricas fueron buenas (KDP-001 aprobado), el secado estaba estratégicamente justificado (salva el plazo del cliente). La pérdida viene de **las condiciones de la materia prima y de los costes externos**, no de errores del operario."*
+Marek, con calma: *„Mykoła, tú no te equivocaste en ningún sitio. Las decisiones paramétricas fueron buenas (KDP-001 aprobado), el secado estaba estratégicamente justificado (salva el plazo del cliente). La pérdida viene de **las condiciones de la materia prima y de los costes externos**, no de errores del operario."*
 
 *„Puedes pensar qué **podrías haber hecho de otra forma** si el objetivo hubiera sido maximizar el margen en lugar del plazo del cliente. Cuatro opciones:"*
 
@@ -114,17 +114,17 @@ Marek, con calma: *„Rustam, tú no te equivocaste en ningún sitio. Las decisi
 
 Marek: *„Elegí la **Opción 4 conscientemente**, cuando el señor Henryk recomendó Drew-Sus en l3. Sabía que el margen sería menor, pero el cliente es clave. **Buena decisión estratégica, mala aritmética de pedido aislado**."*
 
-Rustam anota: *„Economía de pedido aislado ≠ economía a largo plazo. A veces la pérdida es una inversión."*
+Mykoła anota: *„Economía de pedido aislado ≠ economía a largo plazo. A veces la pérdida es una inversión."*
 
-### 14:45, la pregunta de Wahan sobre el informe de turno
+### 14:45, la pregunta de Wasyl sobre el informe de turno
 
-Wahan ha escuchado con atención durante toda la conversación, ahora pregunta: *„Marek, ¿cuándo voy a leer yo informes como este siendo ayudante M1? ¿Después de M2 o solo tras M3?"*
+Wasyl ha escuchado con atención durante toda la conversación, ahora pregunta: *„Marek, ¿cuándo voy a leer yo informes como este siendo ayudante M1? ¿Después de M2 o solo tras M3?"*
 
 Marek: *„El ayudante M1 **no lee informes de turno**, no es su competencia. El operario M2 (bajo supervisión) **lee el informe de su turno** (una fila de Excel, 6 columnas). El operario M3 (autónomo) **lee los informes completos de sus pedidos** (como el de hoy, 25 columnas con economía). El encargado **escribe el informe de turno** y revisa los informes de los operarios. El jefe de aserradero **lee los informes mensuales** (agregados)."*
 
-*„Para ti hoy: estás aprendiendo, ves cómo es, entiendes la lógica. Dentro de 6 meses, cuando seas M2, recibirás tu primer informe de turno. Una línea. Dentro de un año, cuando seas M3, recibirás el informe completo como Rustam hoy."*
+*„Para ti hoy: estás aprendiendo, ves cómo es, entiendes la lógica. Dentro de 6 meses, cuando seas M2, recibirás tu primer informe de turno. Una línea. Dentro de un año, cuando seas M3, recibirás el informe completo como Mykoła hoy."*
 
-Wahan asiente, anota: *„M1 no lee el informe. M2 una línea. M3 informe completo. El encargado lo escribe. El jefe agrega."*
+Wasyl asiente, anota: *„M1 no lee el informe. M2 una línea. M3 informe completo. El encargado lo escribe. El jefe agrega."*
 
 ### 15:00, el residuo del lote ZLE-077
 
@@ -155,9 +155,9 @@ Serrín (polvo del corte):
 WARTOŚĆ NETTO ODPADU:           +28 zł
 ```
 
-Marek: *„Rustam, **residuo del lote 44,1%** – casi tanto como la madera aserrada en crudo. Pero el valor del residuo es de **28 zł**, es el **1,3% del valor del lote** (28 / 809 × 100%). Residuo económicamente marginal, pero **la logística de retirada es obligatoria**. EGIDA tiene un contrato con Baltic Wood para las astillas (regularmente cada 2 semanas) y con un granjero vecino para el costero como leña. Ignorar el residuo = nave ahogada en serrín en 2 semanas."*
+Marek: *„Mykoła, **residuo del lote 44,1%** – casi tanto como la madera aserrada en crudo. Pero el valor del residuo es de **28 zł**, es el **1,3% del valor del lote** (28 / 809 × 100%). Residuo económicamente marginal, pero **la logística de retirada es obligatoria**. EGIDA tiene un contrato con Baltic Wood para las astillas (regularmente cada 2 semanas) y con un granjero vecino para el costero como leña. Ignorar el residuo = nave ahogada en serrín en 2 semanas."*
 
-Rustam: *„O sea, el residuo no se ignora, pero económicamente no tiene importancia."*
+Mykoła: *„O sea, el residuo no se ignora, pero económicamente no tiene importancia."*
 
 Marek: *„Importa **reducir el residuo mediante mejores decisiones del operario**. Si tu velocidad de avance hubiera sido 40 st/min en lugar de 32, las virutas serían más gruesas, el aprovechamiento de la banda menor en 3%, el residuo de serrín mayor en 15%. No económicamente, pero **el desgaste de la banda crece** (embotado más rápido = 50 zł más en afilados al mes). **Los detalles suman.**"*
 
@@ -169,23 +169,23 @@ Marek abre la tercera pestaña: **comparación de pedidos de las 2 últimas sema
 PORÓWNANIE ZLEcEŃ sosnowych (27.05 - 10.06):
 
 ZLE              Operario  m³ cruda   m³ final    Rend.   Clases        Margen
-ZLE-077 Rustam   Rustam    0,582      0,482       36,5%   97% C24       -529 zł
+ZLE-077 Mykoła   Mykoła    0,582      0,482       36,5%   97% C24       -529 zł
 ZLE-079 Damian   Damian    0,72       0,603       38,2%   95% C24       -381 zł
-ZLE-082 Rustam   Rustam    0,68       0,591       41,3%   98% C24       +127 zł
-ZLE-001 Rustam   Rustam    1,2 (hoy)  –           –       –             pending
+ZLE-082 Mykoła   Mykoła    0,68       0,591       41,3%   98% C24       +127 zł
+ZLE-001 Mykoła   Mykoła    1,2 (hoy)  –           –       –             pending
 
 Media EGIDA pino tablas de suelo:                          40-42%   92% C24   +200 zł
 ```
 
-Rustam mira la segunda línea: *„ZLE-082 tiene margen de **+127 zł**, rendimiento 41,3%. ¿Por qué el resultado allí es mejor?"*
+Mykoła mira la segunda línea: *„ZLE-082 tiene margen de **+127 zł**, rendimiento 41,3%. ¿Por qué el resultado allí es mejor?"*
 
 Marek: *„ZLE-082 es el cliente Stolarz Meblowy, no exigía secado externo (plazo holgado, haya estándar de la carga de julio). Secado en cámara propia 85 zł/m³ en lugar de 297 zł. **Sin prima Drew-Sus** = diferencia 123 zł para 0,68 m³ cruda = **cambio de margen de −50 zł a +127 zł**. Solo el importe del secado externo marcó la diferencia."*
 
-Rustam: *„Entonces, ¿**el margen depende en un 30% del rendimiento + 70% de la estrategia de secado** para lotes pequeños?"*
+Mykoła: *„Entonces, ¿**el margen depende en un 30% del rendimiento + 70% de la estrategia de secado** para lotes pequeños?"*
 
 Marek: *„Para lotes pequeños (<1 m³) sí. Para lotes mayores (>5 m³) las decisiones del operario (rendimiento, clasificación) pesan más. Aun así, **la prima Drew-Sus** es siempre un coste consciente de puntualidad. Como dijo el señor Henryk en l3: 'el plazo es más importante que el margen', porque el cliente que recibe a tiempo vuelve a pedir."*
 
-Rustam anota: *„Para lotes pequeños: margen ~70% depende de la estrategia de secado, ~30% del operario. Para grandes: el operario pesa más."*
+Mykoła anota: *„Para lotes pequeños: margen ~70% depende de la estrategia de secado, ~30% del operario. Para grandes: el operario pesa más."*
 
 ### 15:30, el señor Henryk entra con la hoja de albarán WZ
 
@@ -197,44 +197,44 @@ Marek coge el albarán, lo revisa rápido, firma. *„Gracias, Henryk. El margen
 
 El señor Henryk mira la pantalla de Marek (informe ZLE-077 de pino). *„¿Pérdida en el pino esta semana? ¿Drew-Sus?"*
 
-Marek: *„Sí, −529 zł en 0,58 m³ final. Pero salvamos el plazo del cliente del 20.06. Rustam está viendo ahora lo que costó."*
+Marek: *„Sí, −529 zł en 0,58 m³ final. Pero salvamos el plazo del cliente del 20.06. Mykoła está viendo ahora lo que costó."*
 
-El señor Henryk a Rustam: *„**Bien que lo veas**. Ningún operario piensa económicamente hasta que ve el informe. Tú ahora lo ves. Dentro de 6 meses, como operario experimentado M3, pensarás **antes del corte, no después**: qué esquema, qué velocidad, qué pedido dividir y cuál tomar entero. Esa es la diferencia entre un operario autónomo y un **operario maduro**."*
+El señor Henryk a Mykoła: *„**Bien que lo veas**. Ningún operario piensa económicamente hasta que ve el informe. Tú ahora lo ves. Dentro de 6 meses, como operario experimentado M3, pensarás **antes del corte, no después**: qué esquema, qué velocidad, qué pedido dividir y cuál tomar entero. Esa es la diferencia entre un operario autónomo y un **operario maduro**."*
 
-El señor Henryk sale de la oficina. Rustam, Wahan y Marek siguen.
+El señor Henryk sale de la oficina. Mykoła, Wasyl y Marek siguen.
 
 ### 15:45, breve conversación pedagógica
 
-Marek cierra Excel, gira el portátil lejos de Rustam y Wahan. *„OK, terminamos. ¿Qué habéis entendido hoy?"*
+Marek cierra Excel, gira el portátil lejos de Mykoła y Wasyl. *„OK, terminamos. ¿Qué habéis entendido hoy?"*
 
-Rustam: *„Cuatro cosas. Primero, **el rendimiento** es la clave. 36,5% ZLE-077 vs 41,3% ZLE-082 son 5 puntos porcentuales de diferencia y cambian el margen de pérdida a beneficio. Segundo, **la prima de puntualidad Drew-Sus** es un coste consciente (~123 zł/lote 0,58 m³), no un error, sino una inversión estratégica en la relación con el cliente. Tercero, **el residuo es económicamente marginal** (1,3% del valor), logísticamente obligatorio. Cuarto, **las decisiones del operario en un 30-70% determinan el margen** según el lote, el resto es estrategia del encargado y del jefe."*
+Mykoła: *„Cuatro cosas. Primero, **el rendimiento** es la clave. 36,5% ZLE-077 vs 41,3% ZLE-082 son 5 puntos porcentuales de diferencia y cambian el margen de pérdida a beneficio. Segundo, **la prima de puntualidad Drew-Sus** es un coste consciente (~123 zł/lote 0,58 m³), no un error, sino una inversión estratégica en la relación con el cliente. Tercero, **el residuo es económicamente marginal** (1,3% del valor), logísticamente obligatorio. Cuarto, **las decisiones del operario en un 30-70% determinan el margen** según el lote, el resto es estrategia del encargado y del jefe."*
 
-Wahan: *„Yo he aprendido que **el informe de turno muestra el sentido de las decisiones de toda la semana**, no solo del momento del corte. Veo que Rustam lo hizo bien en l1, pero la materia prima + el secado externo provocaron la pérdida. Sin el informe no vería esa relación."*
+Wasyl: *„Yo he aprendido que **el informe de turno muestra el sentido de las decisiones de toda la semana**, no solo del momento del corte. Veo que Mykoła lo hizo bien en l1, pero la materia prima + el secado externo provocaron la pérdida. Sin el informe no vería esa relación."*
 
-Marek: *„Bien. Rustam, **¿cambiarías algo de las decisiones de l1 tras ver este informe**?"*
+Marek: *„Bien. Mykoła, **¿cambiarías algo de las decisiones de l1 tras ver este informe**?"*
 
-Rustam piensa un momento: *„No. Las decisiones paramétricas fueron buenas (pino fresco + aleada 7/8 + 2200 PSI + 32 st/min + esquema A). El rendimiento bajo venía de los troncos, no de los parámetros. **La estrategia Drew-Sus** no fue mi decisión, fue del señor Henryk y tuya. Lo único que podría haber hecho de otra forma sería **notificar antes el defecto del tronco 3**, para que pudierais considerar cambiarlo por otro tronco de otro almacén. Pero eso también supondría 2 días de retraso."*
+Mykoła piensa un momento: *„No. Las decisiones paramétricas fueron buenas (pino fresco + aleada 7/8 + 2200 PSI + 32 st/min + esquema A). El rendimiento bajo venía de los troncos, no de los parámetros. **La estrategia Drew-Sus** no fue mi decisión, fue del señor Henryk y tuya. Lo único que podría haber hecho de otra forma sería **notificar antes el defecto del tronco 3**, para que pudierais considerar cambiarlo por otro tronco de otro almacén. Pero eso también supondría 2 días de retraso."*
 
 Marek: *„**Buena reflexión**. Buscar el error en uno mismo es un reflejo frecuente, pero no siempre cierto. A veces las decisiones fueron buenas y el resultado subóptimo viene de **factores independientes**. **La madurez del operario** es también saber ver esa diferencia."*
 
 ### 16:00, final de la sesión
 
-Rustam y Wahan salen de la oficina de Marek. Rustam vuelve rápidamente a P3 para cerrar (cubrir la máquina con lona, desconectar la alimentación principal, anotar en el diario de taller). Wahan va al vestuario. Final del día.
+Mykoła y Wasyl salen de la oficina de Marek. Mykoła vuelve rápidamente a P3 para cerrar (cubrir la máquina con lona, desconectar la alimentación principal, anotar en el diario de taller). Wasyl va al vestuario. Final del día.
 
-**Balance semanal de Rustam** (27.05 - 10.06):
+**Balance semanal de Mykoła** (27.05 - 10.06):
 - ZLE-077 pino: −529 zł pérdida
 - ZLE-082 haya (miércoles 28.05 en P3 haya Stolarz Meblowy): +127 zł beneficio
 - ZLE-001 pino de junio (hoy): pendiente de clasificación
 - **Total: −402 zł** menos el pedido de hoy
 
-El encargado apunta en el cuaderno de evaluaciones de Rustam: *„2026-06-10: ZLE-077 pérdida estratégica −529 zł (Drew-Sus puntualidad), ZLE-082 beneficio +127 zł. Rustam entiende la economía, buena reflexión. Operario M3 madurando."* Firma, devuelve el cuaderno al armario de expedientes personales.
+El encargado apunta en el cuaderno de evaluaciones de Mykoła: *„2026-06-10: ZLE-077 pérdida estratégica −529 zł (Drew-Sus puntualidad), ZLE-082 beneficio +127 zł. Mykoła entiende la economía, buena reflexión. Operario M3 madurando."* Firma, devuelve el cuaderno al armario de expedientes personales.
 
 ## Objetivos
 
 Tras esta lección:
 
 1. Conoces el **concepto de rendimiento** (aprovechamiento de la materia prima) como cociente entre el volumen del producto y el volumen del rollizo, medido en **4 etapas**: 1) rollizo → aserrada en crudo (40-45% para pino tabla 28 mm, 55-60% para tablas de aserradero 50 mm); 2) aserrada en crudo → aserrada seca (contracción 13-17% para pino fresco, 20-25% para roble fresco); 3) aserrada seca → producto final tras mecanizado (contracción 2-4% por cepillado y escuadrado); 4) **rendimiento final** rollizo → producto (típicamente 33-38% para pino, 25-30% para roble). Entiendes que **cada etapa tiene su contracción**, y que **el rendimiento final es el producto de los rendimientos de cada etapa**.
-2. Conoces las **cuotas típicas de clases** en un lote de pino secado al 12% y clasificado según PN-EN 14081: el lote estándar EGIDA es **92% C24 + 6% C16 + 2% descarte**. Para el lote de Rustam ZLE-077 el resultado **97% C24 + 3% C16 + 0% descarte** es **mejor que la media** (buena decisión paramétrica + buena campaña de materia prima). Entiendes que **1 punto porcentual C24 vs C16** son **600 zł/m³** de diferencia (1700 zł − 1100 zł), lo que para un lote de 0,5 m³ significa 30 zł por punto porcentual (0,5 × 600 / 100 × 1). Para un lote de 5 m³ **1 punto porcentual** son 300 zł.
+2. Conoces las **cuotas típicas de clases** en un lote de pino secado al 12% y clasificado según PN-EN 14081: el lote estándar EGIDA es **92% C24 + 6% C16 + 2% descarte**. Para el lote de Mykoła ZLE-077 el resultado **97% C24 + 3% C16 + 0% descarte** es **mejor que la media** (buena decisión paramétrica + buena campaña de materia prima). Entiendes que **1 punto porcentual C24 vs C16** son **600 zł/m³** de diferencia (1700 zł − 1100 zł), lo que para un lote de 0,5 m³ significa 30 zł por punto porcentual (0,5 × 600 / 100 × 1). Para un lote de 5 m³ **1 punto porcentual** son 300 zł.
 3. Reconoces **tres tipos de residuo de aserradero** y sus valores de mercado EGIDA 2026: 1) **costero** (retirado en el esquema A cant sawing, 4 costeros × tronco, ~0,028 m³ cada uno, valor como combustible **50 zł/m³**); 2) **recortes** (extremos de tablas, trozos con nudos, ~3% del volumen del rollizo, valor como astilla **80 zł/m³**); 3) **serrín** (polvo del corte, ~7% del volumen del rollizo, valor como combustible o briqueta **30 zł/m³**). Entiendes que **el valor del residuo es el 1-2% del valor del lote** (marginal económicamente), pero **la logística de retirada es obligatoria** (EGIDA tiene contratos con Baltic Wood para astillas y con un granjero vecino para el costero, sin esos contratos la nave se ahoga en 2 semanas).
 4. Conoces la **estructura completa de costes de producción** de madera aserrada EGIDA para pino tabla de suelo:
    - **Materia prima**: 380 zł/m³ de rollizo (precio del Distrito forestal Strzałowo, I-II clase, 2026)
@@ -279,7 +279,7 @@ Para pino tabla 28 mm estándar EGIDA el rendimiento es **55-60%**. Para roble t
 
 **Etapa 3: rendimiento de mecanizado final** (aserrada seca → producto final). El cepillado retira 2-3 mm de cada cara, el escuadrado acorta la longitud en 40-60 mm. Contracción volumétrica **2-4%** según los sobreespesores.
 
-**Rendimiento final** = etapa 1 × etapa 2 × etapa 3 = **0,58 × 0,86 × 0,97 = 0,484** ≈ **48% para pino** estándar. Para el ZLE-077 de Rustam: 0,441 × 0,85 × 0,97 = **0,364 = 36,4%**, **12 puntos porcentuales por debajo de la media**.
+**Rendimiento final** = etapa 1 × etapa 2 × etapa 3 = **0,58 × 0,86 × 0,97 = 0,484** ≈ **48% para pino** estándar. Para el ZLE-077 de Mykoła: 0,441 × 0,85 × 0,97 = **0,364 = 36,4%**, **12 puntos porcentuales por debajo de la media**.
 
 ### 2. Precios de venta 2026 para madera aserrada EGIDA
 
@@ -410,13 +410,13 @@ El operario M3 **ve las pestañas 1-2** de sus pedidos (y la pestaña 3 de las �
 
 **Decisión 4: esquema de corte.** Esquema A cant sawing (correcto para C24) vs esquema B quarter sawing (erróneo para C24 por más caro). Diferencia: tiempo de trabajo 2× más largo (7,5 h vs 15 h), coste de trabajo unos 400 zł más. Rendimiento 5-8% inferior (esquema B). Para un lote de 5 m³: coste de trabajo +400 zł + menor rendimiento 0,4 m³ × 1700 zł = +1080 zł. **Total coste del error: ~1500 zł**.
 
-**Decisión 5: orden de los troncos.** El más difícil primero (Rustam en l1, estrategia correcta) vs el más fácil primero. Diferencia: parámetros ajustados al primer corte, tronco difícil al final sin corrección de parámetros. Potencialmente 1 tabla cae de C24 a C16 o a descarte. **Para un lote de 5 m³: ~60 zł de pérdida por tabla**.
+**Decisión 5: orden de los troncos.** El más difícil primero (Mykoła en l1, estrategia correcta) vs el más fácil primero. Diferencia: parámetros ajustados al primer corte, tronco difícil al final sin corrección de parámetros. Potencialmente 1 tabla cae de C24 a C16 o a descarte. **Para un lote de 5 m³: ~60 zł de pérdida por tabla**.
 
-**Suma del impacto potencial de las decisiones del operario sobre un lote de 5 m³: hasta ~2800 zł** (diferencia entre un operario M3 experimentado y uno novato). Para un lote de 0,5 m³ del ZLE-077 proporcionalmente: **~280 zł**. Rustam en l1 tomó todas las decisiones correctas, por lo que ese potencial se aprovechó plenamente. La pérdida de −529 zł del ZLE-077 **no viene de decisiones del operario**, sino de las condiciones de la materia prima y de la estrategia de secado externo.
+**Suma del impacto potencial de las decisiones del operario sobre un lote de 5 m³: hasta ~2800 zł** (diferencia entre un operario M3 experimentado y uno novato). Para un lote de 0,5 m³ del ZLE-077 proporcionalmente: **~280 zł**. Mykoła en l1 tomó todas las decisiones correctas, por lo que ese potencial se aprovechó plenamente. La pérdida de −529 zł del ZLE-077 **no viene de decisiones del operario**, sino de las condiciones de la materia prima y de la estrategia de secado externo.
 
 ### 7. Errores típicos en la comprensión de la economía
 
-**Error 1. „Pérdida del pedido = error del operario"**. Rustam ve −529 zł y piensa „hice algo mal". En realidad las decisiones del operario fueron buenas, la pérdida venía de la materia prima y la estrategia. **Correcto**: **separa el impacto de las decisiones del operario del impacto de factores externos**. El informe de turno muestra ambos componentes, un buen operario ve la diferencia.
+**Error 1. „Pérdida del pedido = error del operario"**. Mykoła ve −529 zł y piensa „hice algo mal". En realidad las decisiones del operario fueron buenas, la pérdida venía de la materia prima y la estrategia. **Correcto**: **separa el impacto de las decisiones del operario del impacto de factores externos**. El informe de turno muestra ambos componentes, un buen operario ve la diferencia.
 
 **Error 2. „Drew-Sus es un derroche"**. El operario ve +212 zł/m³ de prima y piensa „por qué no secamos en cámara propia". Olvida que **la cámara propia exige 30 m³ de carga completa**, y el lote ZLE-077 son 0,58 m³. Esperar 13 días a la carga completa = retraso del cliente 3-13 días = pérdida de relación. **Correcto**: **Drew-Sus es un coste de puntualidad, no un derroche**. Cuando el plazo es crítico, es una decisión racional.
 
@@ -430,37 +430,37 @@ El operario M3 **ve las pestañas 1-2** de sus pedidos (y la pestaña 3 de las �
 
 ### 8. Maduración del operario M3 en la economía
 
-**Operario M3 novato** (primer mes tras aprobar M3, Rustam en abril-mayo 2026): decisiones paramétricas correctas, pero **no entiende la economía de sus decisiones**. Mira el informe de turno y ve solo el rendimiento, no el valor.
+**Operario M3 novato** (primer mes tras aprobar M3, Mykoła en abril-mayo 2026): decisiones paramétricas correctas, pero **no entiende la economía de sus decisiones**. Mira el informe de turno y ve solo el rendimiento, no el valor.
 
-**Operario M3 en desarrollo** (mes 3-6, Rustam actualmente, junio 2026): **ve el informe de turno** y **entiende las causas** de pérdidas/beneficios. Sabe **separar las decisiones del operario de los factores externos**. Hace preguntas: „qué podría haber hecho de otra forma", „si el esquema era óptimo", „si la materia prima tenía defectos".
+**Operario M3 en desarrollo** (mes 3-6, Mykoła actualmente, junio 2026): **ve el informe de turno** y **entiende las causas** de pérdidas/beneficios. Sabe **separar las decisiones del operario de los factores externos**. Hace preguntas: „qué podría haber hecho de otra forma", „si el esquema era óptimo", „si la materia prima tenía defectos".
 
-**Operario M3 maduro** (mes 6-12, Rustam previsto tras octubre 2026): **piensa económicamente antes del corte**, no después. Ve el pedido, la orden de trabajo, la materia prima, y **anticipa con decisiones paramétricas los problemas potenciales**. Consulta con el encargado antes de pedidos difíciles („este tronco tiene una fisura de médula, ¿lo retiramos como costero y mantenemos los 3 troncos sanos, o probamos el esquema B con riesgo?").
+**Operario M3 maduro** (mes 6-12, Mykoła previsto tras octubre 2026): **piensa económicamente antes del corte**, no después. Ve el pedido, la orden de trabajo, la materia prima, y **anticipa con decisiones paramétricas los problemas potenciales**. Consulta con el encargado antes de pedidos difíciles („este tronco tiene una fisura de médula, ¿lo retiramos como costero y mantenemos los 3 troncos sanos, o probamos el esquema B con riesgo?").
 
 **Operario M3 avanzado** (año+, Damian, el segundo operario autónomo de EGIDA): **dirige por sí mismo el análisis del margen del lote**, **sugiere al encargado cambios de estrategia** („si los próximos 3 pedidos son Drew-Sus, conviene plantear una segunda cámara interna"). Puede **sustituir al encargado** 2-3 días sin decisiones estratégicas.
 
-**Operario M3 experto** (3+ años, potencialmente Rustam en 2029): **candidato a encargado**. Conoce la economía del aserradero en pleno, entiende las relaciones con el cliente, lleva negociaciones de precio, contrata ayudantes. Pero es otro rol, **fuera del alcance del curso M3**.
+**Operario M3 experto** (3+ años, potencialmente Mykoła en 2029): **candidato a encargado**. Conoce la economía del aserradero en pleno, entiende las relaciones con el cliente, lleva negociaciones de precio, contrata ayudantes. Pero es otro rol, **fuera del alcance del curso M3**.
 
 ## Escena de cierre, 16:15, camino al vestuario
 
-Rustam sale de la oficina de Marek, va a P3 a cerrar la máquina (lona, desconexión de alimentación, anotación en el diario de taller `2026-06-10: P3 cierre de turno, 1,2 m³ de pino ZLE-001 a secado, sin averías`). Va al vestuario, se cambia, sale de la nave. Wahan ya se ha ido.
+Mykoła sale de la oficina de Marek, va a P3 a cerrar la máquina (lona, desconexión de alimentación, anotación en el diario de taller `2026-06-10: P3 cierre de turno, 1,2 m³ de pino ZLE-001 a secado, sin averías`). Va al vestuario, se cambia, sale de la nave. Wasyl ya se ha ido.
 
-En la plaza frente a la nave Rustam se encuentra con el señor Henryk, que vuelve de la nave del secadero con un café en el termo.
+En la plaza frente a la nave Mykoła se encuentra con el señor Henryk, que vuelve de la nave del secadero con un café en el termo.
 
-*„Rustam, ¿cómo te mostró Marek el informe?"*
+*„Mykoła, ¿cómo te mostró Marek el informe?"*
 
 *„Me lo mostró. Pérdida 529 zł en ZLE-077, beneficio 127 en ZLE-082. Suma semanal negativa, pero el ZLE-001 de hoy todavía pendiente, mañana veremos."*
 
-*„Bien. **No te tomes las pérdidas como algo personal**. El operario que asume las pérdidas como derrota, asume los beneficios como victoria personal. **Ni una cosa ni la otra son ciertas**. El margen del lote es **resultado de 6 etapas y 15 personas**. Tú haces 1 etapa (aserrado), 2 personas (tú + Wahan). Tu impacto es grande, pero no decisivo. El señor Henryk (secado), la señora Ania (clasificación), Marek (estrategia), yo (plan de campaña) decidimos juntos. La pérdida es de todos, el beneficio es de todos."*
+*„Bien. **No te tomes las pérdidas como algo personal**. El operario que asume las pérdidas como derrota, asume los beneficios como victoria personal. **Ni una cosa ni la otra son ciertas**. El margen del lote es **resultado de 6 etapas y 15 personas**. Tú haces 1 etapa (aserrado), 2 personas (tú + Wasyl). Tu impacto es grande, pero no decisivo. El señor Henryk (secado), la señora Ania (clasificación), Marek (estrategia), yo (plan de campaña) decidimos juntos. La pérdida es de todos, el beneficio es de todos."*
 
-Rustam asiente: *„Entiendo. Gracias por el informe de hoy."*
+Mykoła asiente: *„Entiendo. Gracias por el informe de hoy."*
 
 El señor Henryk: *„Mañana pino otra vez en P3, continuación del ZLE-001. El señor Krzysztof hace el servicio el viernes (cilindro de elevación LT70 mantenimiento previsto, 6 meses desde el último). Fin de semana libre. El lunes turno nuevo, pedidos nuevos."*
 
-Rustam: *„De acuerdo, hasta mañana."*
+Mykoła: *„De acuerdo, hasta mañana."*
 
 ### 16:30, casa
 
-Rustam vuelve a casa (en bici, 15 minutos desde la nave), Wahan ya está en casa. Se sienta a la mesa, abre el cuaderno. **Resumen de hoy**:
+Mykoła vuelve a casa (en bici, 15 minutos desde la nave), Wasyl ya está en casa. Se sienta a la mesa, abre el cuaderno. **Resumen de hoy**:
 
 1. El informe de turno **muestra la economía completa** desde el rollizo hasta el cliente. El operario M3 ve toda la cadena de su decisión.
 2. **La pérdida de un pedido aislado** no siempre significa error del operario. La materia prima, la estrategia, los costes externos pesan mucho.
@@ -468,7 +468,7 @@ Rustam vuelve a casa (en bici, 15 minutos desde la nave), Wahan ya está en casa
 4. **Las decisiones del operario** influyen en el margen en un 30-70% según el lote. El coste del trabajo es el 19%, pero el impacto en el resultado es mayor.
 5. **La madurez del operario** es ver la diferencia entre impacto propio y externo, no tomarse las pérdidas como algo personal, no tomarse los beneficios como algo personal.
 
-Mañana viernes, P3, continuación del ZLE-001. Rustam cierra el cuaderno, va a cenar.
+Mañana viernes, P3, continuación del ZLE-001. Mykoła cierra el cuaderno, va a cenar.
 
 ## Términos clave
 
@@ -506,7 +506,7 @@ Mañana viernes, P3, continuación del ZLE-001. Rustam cierra el cuaderno, va a 
 
 ### A. Rendimiento y sus etapas
 
-1. **Rendimiento de la etapa 1** (rollizo → aserrada en crudo) para pino tabla 28 mm esquema A típicamente **55-60%**. Para el ZLE-077 de Rustam fue **44,1%**. Da 3 causas de ese valor más bajo.
+1. **Rendimiento de la etapa 1** (rollizo → aserrada en crudo) para pino tabla 28 mm esquema A típicamente **55-60%**. Para el ZLE-077 de Mykoła fue **44,1%**. Da 3 causas de ese valor más bajo.
 
 2. **Contracción por secado** para pino fresco 32% → 12%: **13-17%**. Para roble fresco 38% → 14%: **18-22%**. ¿Por qué el roble tiene mayor contracción que el pino? Da una causa estructural.
 
@@ -540,7 +540,7 @@ Mañana viernes, P3, continuación del ZLE-001. Rustam cierra el cuaderno, va a 
 
 13. **Las decisiones paramétricas del operario M3** influyen en el margen del lote en un 30-70%. Enumera **tres decisiones** con mayor impacto y estima su impacto aproximado en un lote de 5 m³ de pino.
 
-14. Rustam en l1 eligió el esquema A cant sawing para C24 en lugar del esquema B quarter sawing. **¿Por qué** el esquema B para C24 sería una mala decisión económica, aunque técnicamente diera „mejor" madera?
+14. Mykoła en l1 eligió el esquema A cant sawing para C24 en lugar del esquema B quarter sawing. **¿Por qué** el esquema B para C24 sería una mala decisión económica, aunque técnicamente diera „mejor" madera?
 
 15. Un operario M3 novato ve la pérdida de −529 zł del ZLE-077 y piensa „hice algo mal". Un operario M3 maduro ve la misma pérdida y concluye otra cosa. ¿Cuál es la diferencia de enfoque?
 

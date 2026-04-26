@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Tercer día de Hai como operador. Entra a la nave vestido como operador (la lección 2 se le quedó en la cabeza), se acerca a la sierra de cinta y pone la mano sobre el botón verde de START. El capataz lo detiene con una palabra: **„Primero STOP."**
+Tercer día de Andrij como operador. Entra a la nave vestido como operador (la lección 2 se le quedó en la cabeza), se acerca a la sierra de cinta y pone la mano sobre el botón verde de START. El capataz lo detiene con una palabra: **„Primero STOP."**
 
-Hai lo mira desorientado. Quiere **arrancar** la máquina, no pararla. El capataz le gira la mano y le muestra el pulsador tipo seta, rojo sobre amarillo, a 30 cm a la izquierda del START verde. **„Antes de pulsar START, comprueba que el STOP funciona y está a tu alcance. Si no sabes dónde está el STOP, no toques el START."**
+Andrij lo mira desorientado. Quiere **arrancar** la máquina, no pararla. El capataz le gira la mano y le muestra el pulsador tipo seta, rojo sobre amarillo, a 30 cm a la izquierda del START verde. **„Antes de pulsar START, comprueba que el STOP funciona y está a tu alcance. Si no sabes dónde está el STOP, no toques el START."**
 
 Esta lección explica por qué en cualquier máquina de madera el sistema de parada **tiene prioridad** sobre el de arranque. Por qué la seta es roja sobre amarillo. Por qué en un taller con tres puestos de sierra ves **seis setas**, y no tres. Y por qué la prueba diaria del STOP no es paranoia del capataz, sino exigencia del Rozp. MG 2000 (Reglamento del Ministerio de Economía de Polonia de 14 de abril de 2000 sobre SSL en la operación de máquinas para madera).
 
@@ -159,12 +159,12 @@ D) Pulso la seta junto con el listón, para „entrenar el mecanismo".
 **Acentos de la lección:**
 
 - Segundo paso del ritual **comprueba – arranca – reporta**. Después del „comprueba siéntete" de la lección 2 viene **„comprueba la máquina"**, empezando por el STOP. Subraya: **arrancar no es la primera acción, sino la tercera (tras comprobar los EPI y comprobar el E-stop).**
-- Hai continúa el arco: en el piloto „la primera vez solo", en la l2 „se viste como operador", aquí „mano izquierda sobre el STOP". Gesto corporal anclado en el hábito. En la l4 hará una lista de cinco puntos que cierra el ritual de la semana.
+- Andrij continúa el arco: en el piloto „la primera vez solo", en la l2 „se viste como operador", aquí „mano izquierda sobre el STOP". Gesto corporal anclado en el hábito. En la l4 hará una lista de cinco puntos que cierra el ritual de la semana.
 - El principio fail-safe no es „más seguro = más caro". Es un **estándar legal** derivado del Rozp. MG 2000 y de PN-EN ISO 13850. Las máquinas sin este estándar son **ilegales en explotación** desde 2006 (Directiva de máquinas 2006/42/CE).
 
 **Trampas de migrantes:**
 
-- En muchos países (Vietnam, Moldavia, Georgia, en parte Ucrania) aún se usan máquinas viejas sin E-stop. El operador trae el reflejo „el único botón es START, si acaso corta la alimentación general". En Polonia este atajo cuesta dedos (inercia del volante 15-30 s sin freno).
+- En muchos países de origen (Ucrania, Colombia, Venezuela, Perú, Bolivia) aún se usan máquinas viejas sin E-stop. El operador trae el reflejo „el único botón es START, si acaso corta la alimentación general". En Polonia este atajo cuesta dedos (inercia del volante 15-30 s sin freno).
 - Muestra físicamente la diferencia: seta roja sobre amarillo vs. botón rojo sobre panel gris. Pregunta: „¿cuántas capas de polvo bastan para que el rojo sobre gris desaparezca?". Respuesta: una (el polvo tras 2 h cortando roble).
 - La cuarta trampa (sin probar) es la más difícil pedagógicamente. El operador piensa „el capataz lo probó la semana pasada, basta". El Rozp. MG 2000 exige **prueba diaria**. Presenta el registro en el parte como prueba, no burocracia.
 

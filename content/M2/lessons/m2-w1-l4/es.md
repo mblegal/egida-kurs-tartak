@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Quinto día de Hai como operador. Llega a la sierra de cinta, vestido como un operador (lección 2), con la mano izquierda buscando ya por reflejo la seta de E-stop (lección 3). El capataz se acerca, le entrega una hoja A5 con cinco casillas para marcar y le dice: **„Desde hoy, antes de pulsar START, marcas cinco puntos. Cinco de cinco o cero."**
+Quinto día de Andrij como operador. Llega a la sierra de cinta, vestido como un operador (lección 2), con la mano izquierda buscando ya por reflejo la seta de E-stop (lección 3). El capataz se acerca, le entrega una hoja A5 con cinco casillas para marcar y le dice: **„Desde hoy, antes de pulsar START, marcas cinco puntos. Cinco de cinco o cero."**
 
-Hai mira:
+Andrij mira:
 
 - [ ] Resguardos
 - [ ] Soldadura / hoja
@@ -18,7 +18,7 @@ Hai mira:
 
 Cinco palabras, dos minutos, una regla: **no hay puntos más importantes ni menos**. Si no marcas alguno, no arrancas y vas a buscar al capataz.
 
-Esta lección explica por qué la lista de verificación no es burocracia, sino **la quinta extremidad del operador**. Por qué el **orden** de los puntos es rígido (de lo físico a lo espacial). Por qué „5 de 5 o cero" es más estricta que „4 de 5 basta, el quinto lo veo sobre la marcha". Y por qué Hai, tras un mes con estas hojas, completará la lista **en la cabeza**, sin papel, en 90 segundos.
+Esta lección explica por qué la lista de verificación no es burocracia, sino **la quinta extremidad del operador**. Por qué el **orden** de los puntos es rígido (de lo físico a lo espacial). Por qué „5 de 5 o cero" es más estricta que „4 de 5 basta, el quinto lo veo sobre la marcha". Y por qué Andrij, tras un mes con estas hojas, completará la lista **en la cabeza**, sin papel, en 90 segundos.
 
 Es la última lección de la semana 1 de M2. El ritual **comprueba – arranca – reporta** se cierra aquí: cinco puntos son „comprueba" desarrollado. Después llega el START. Tras el arranque, en la lección 6, volveremos a „reporta".
 
@@ -88,7 +88,7 @@ Las primeras cuatro categorías están en tu lista de verificación. En total, e
 - **Error típico**: „veo al compañero con el rabillo del ojo, supongo que sabe que voy a arrancar". El rabillo del ojo no es contacto visual. El contacto visual es ese del que aprendiste en M1 semana 1 lección 3.
 
 ::: example
-**Caso de Hai (quinto día de M2)**: Hai ha marcado cuatro puntos y se acerca al quinto. Oye que el capataz, a sus espaldas, habla con un proveedor. Hai se gira: el proveedor está **en el pasillo de rechazo, a 4 metros detrás de la máquina**. Hai no pulsa START. Llama al capataz con la palabra „¡capataz, zona!". El capataz, disculpándose, saca al proveedor fuera de la zona, vuelve, asiente. Ahora Hai marca el quinto punto. **5 de 5**. Pulsa START.
+**Caso de Andrij (quinto día de M2)**: Andrij ha marcado cuatro puntos y se acerca al quinto. Oye que el capataz, a sus espaldas, habla con un proveedor. Andrij se gira: el proveedor está **en el pasillo de rechazo, a 4 metros detrás de la máquina**. Andrij no pulsa START. Llama al capataz con la palabra „¡capataz, zona!". El capataz, disculpándose, saca al proveedor fuera de la zona, vuelve, asiente. Ahora Andrij marca el quinto punto. **5 de 5**. Pulsa START.
 :::
 
 ### La regla „5 de 5 o cero"
@@ -154,19 +154,19 @@ D) Cualquier orden está OK, lo importante es marcar los cinco.
 
 1. **Coge una hoja** (el capataz tiene repuesto) o imprime una plantilla con cinco casillas. Guárdala en el bolsillo del mono. En cada arranque (mínimo 3-5 veces durante el turno en la sierra) marca los cinco puntos. Anota al dorso: cuántas veces hoy has comprobado de verdad los cinco.
 2. **Pregunta al capataz** si existe en la empresa una **instrucción escrita del puesto** para tu sierra (punto previo al arranque). Si es así, compara los cinco puntos universales con la lista de la empresa. La empresa puede tener adicionales (p. ej., test de engrase del rodamiento) o requisitos más detallados.
-3. **Encuéntrate con Hai** en tu cabeza: en el cuarto día en lugar del quinto, en el tercero en lugar del décimo. Prueba el ritual **con hoja durante 20-30 días**. Solo después lleva la lista de verificación „a la cabeza". Saltarse la etapa del papel (desde el primer día sin hoja) = atajos garantizados en la tercera semana.
+3. **Encuéntrate con Andrij** en tu cabeza: en el cuarto día en lugar del quinto, en el tercero en lugar del décimo. Prueba el ritual **con hoja durante 20-30 días**. Solo después lleva la lista de verificación „a la cabeza". Saltarse la etapa del papel (desde el primer día sin hoja) = atajos garantizados en la tercera semana.
 
 ## Notas para el formador
 
 **Acentos de la lección:**
 
 - Tercer paso del ritual **comprueba – arranca – reporta**. Junto con las lecciones 2 y 3 cierra „comprueba" en tres capas (tú, STOP, máquina). Subraya: la lista de verificación no es un añadido al ritual, sino **su planta más gruesa**.
-- Hai cierra el arco de la semana. En el piloto fue „la primera vez solo". En l2 se vistió como operador. En l3 puso la mano sobre el STOP. En l4 sujeta la hoja y detiene la máquina antes del 5.º punto porque el proveedor entró en la zona. **Ese es el operador junior completo de M2 tras una semana.**
+- Andrij cierra el arco de la semana. En el piloto fue „la primera vez solo". En l2 se vistió como operador. En l3 puso la mano sobre el STOP. En l4 sujeta la hoja y detiene la máquina antes del 5.º punto porque el proveedor entró en la zona. **Ese es el operador junior completo de M2 tras una semana.**
 - El orden de los 5 puntos no es negociable. Pedagógicamente lo vendes como **„de lo físico a lo espacial"**: primero lo que tienes en la mano (resguardo), al final lo que ves en la nave (entorno). Este orden tiene justificación en estudios de ergonomía: la mano más cerca de la cabeza, el ojo más lejos. La persona enfoca la atención más fácilmente primero en los objetos cercanos.
 
 **Trampas migratorias:**
 
-- En muchos países (Vietnam, Moldavia, Georgia) la lista de verificación previa al arranque es una rareza en los aserraderos artesanales. El operador aprende „a ojo". Trasladado a una planta polaca (conforme a la 2006/42/CE) trata la lista de verificación como burocracia. Muéstrale la estadística de la PIP: el 91% de los accidentes es la omisión de uno de los 5 puntos. No „mala suerte", omisión.
+- En muchos países de origen (Ucrania, Colombia, Venezuela, Perú) la lista de verificación previa al arranque es una rareza en los aserraderos artesanales. El operador aprende „a ojo". Trasladado a una planta polaca (conforme a la 2006/42/CE) trata la lista de verificación como burocracia. Muéstrale la estadística de la PIP: el 91% de los accidentes es la omisión de uno de los 5 puntos. No „mala suerte", omisión.
 - La regla „5 de 5 o cero" suena a ultimátum. Explica que no es una amenaza, sino **matemáticas**. 4 de 5 = 20% de riesgo sin abordar. Con 5 arranques diarios × 5 días a la semana × 50 semanas = 1250 arranques al año × 20% = **250 veces al año jugamos a la ruleta con un elemento sin comprobar**. Antes o después el elemento sale.
 
 **Vínculo con M1 y M2:**

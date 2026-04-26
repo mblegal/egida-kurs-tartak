@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Friday, after lunch. In the morning Emeka learned to distinguish five lumber assortments by shape and machine origin. In the afternoon master Jan calls him back to the classification table. This time, on the table lie **four edged oak boards, each of identical dimensions**: 25 mm thickness, 150 mm width, 4 m length. The same species, the same dimensions, the same machine. And yet Jan says: "Each costs a different amount. The first one 180 PLN, the second 130 PLN, the third 90 PLN, the fourth 50 PLN. A threefold difference. You need to know why."
+Friday, after lunch. In the morning Carlos learned to distinguish five lumber assortments by shape and machine origin. In the afternoon master Jan calls him back to the classification table. This time, on the table lie **four edged oak boards, each of identical dimensions**: 25 mm thickness, 150 mm width, 4 m length. The same species, the same dimensions, the same machine. And yet Jan says: "Each costs a different amount. The first one 180 PLN, the second 130 PLN, the third 90 PLN, the fourth 50 PLN. A threefold difference. You need to know why."
 
-This lesson introduces **lumber quality grades A/B/C/D**, the formal categorization that assigns different commercial values to boards based on defects. The grade is determined by the **master classifier** (here: Jan), but **the operator sorts the boards under his instruction**: Jan initially demonstrates the thresholds, and after a few weeks Emeka begins to sort 80% of cases autonomously, reporting 20% of unclear ones to Jan for decision.
+This lesson introduces **lumber quality grades A/B/C/D**, the formal categorization that assigns different commercial values to boards based on defects. The grade is determined by the **master classifier** (here: Jan), but **the operator sorts the boards under his instruction**: Jan initially demonstrates the thresholds, and after a few weeks Carlos begins to sort 80% of cases autonomously, reporting 20% of unclear ones to Jan for decision.
 
 Grades A/B/C/D are **visual lumber grades** following the Polish sorting tradition, consistent with PN-EN 1611-1 (the European standard for visual sorting of hardwood and softwood lumber). **Do not confuse them with strength grades** C14, C16, C24, C30, which concern structural applications (bending, compression, bearing capacity under load) and are the subject of the third module. Here the topic is appearance: what the customer will see in the finished product, on the front face, after planing and finishing. Four identical boards, four different prices, one rule that explains the difference: that is the punchline of this Friday afternoon at the table.
 
@@ -44,7 +44,7 @@ A board leaves the edger as edged lumber: it has four straight edges, defined di
 
 ### Numeric thresholds for knots, the core of visual classification
 
-Knots are the most frequent defect in lumber, and therefore grade A/B/C/D depends on knots in **80% of cases**. The remaining 20% involves checks, blue stain, grain deviation, and other defects. Emeka first learns to assess knots.
+Knots are the most frequent defect in lumber, and therefore grade A/B/C/D depends on knots in **80% of cases**. The remaining 20% involves checks, blue stain, grain deviation, and other defects. Carlos first learns to assess knots.
 
 A **sound knot** (*live knot*, *sound knot*) is darker, grown into the surrounding wood, does not fall out during machining, and does not significantly weaken strength. A **loose knot** (*dead knot*, *loose knot*) is surrounded by a dark border, falls out easily during sanding, and leaves a hole. The distinction is obvious when touched with a knife: a sound knot is hard and does not move, while a loose knot can be pried out.
 
@@ -61,7 +61,7 @@ A **sound knot** (*live knot*, *sound knot*) is darker, grown into the surroundi
 **A 4 m board has 4 linear meters**. If Grade A permits ≤3 sound knots per lm, then the whole board may have ≤12 sound knots. **One loose knot drops it to Grade B.** Two loose knots with more than 2 per lm drop it to C.
 :::
 
-**How to measure**: a carpenter's caliper measures the knot diameter (longer axis, since knots are rarely round). A meter tape lays off the linear meters along the edge of the board. Emeka counts knots in the first meter of the board, then in the second, third, and fourth, writing the count on a small tally pad. The worst meter (the one with the highest knot count) decides the grade of the whole board, not the average across all meters. If the first meter has 5 sound knots of 40 mm, while the rest have 2 knots of 25 mm each, the board goes to B (because the first meter exceeds the A threshold of 3 per lm, even though the remaining meters would fit Grade A on their own).
+**How to measure**: a carpenter's caliper measures the knot diameter (longer axis, since knots are rarely round). A meter tape lays off the linear meters along the edge of the board. Carlos counts knots in the first meter of the board, then in the second, third, and fourth, writing the count on a small tally pad. The worst meter (the one with the highest knot count) decides the grade of the whole board, not the average across all meters. If the first meter has 5 sound knots of 40 mm, while the rest have 2 knots of 25 mm each, the board goes to B (because the first meter exceeds the A threshold of 3 per lm, even though the remaining meters would fit Grade A on their own).
 
 ### End checks and face checks
 
@@ -104,14 +104,14 @@ The defects learned on Thursday (l4) return here as grade criteria.
 
 ### The operator's role: 80% alone, 20% reported to the master
 
-After the first three weeks of work, Emeka begins to sort on his own, but only the **clear cases**. When a board has many sound knots above 50 mm equaling C or D, he sorts it himself. When a board shows a clearly clean face and small knots equaling A or B, he sorts it himself. When **something is on the borderline**:
+After the first three weeks of work, Carlos begins to sort on his own, but only the **clear cases**. When a board has many sound knots above 50 mm equaling C or D, he sorts it himself. When a board shows a clearly clean face and small knots equaling A or B, he sorts it himself. When **something is on the borderline**:
 
 - a board with 48 mm knots (A/B borderline),
 - a board with a 36 mm end check on a 150 mm width (A/B borderline),
 - a board with visually estimated 4 to 5° grain deviation (B/C borderline),
 - a board with 10 to 15% blue-stain discoloration (B/C borderline),
 
-**Emeka sets it aside on the "for master's decision" pile** and waits for Jan to pass by within an hour. Jan verifies with a caliper, looks against the light (blue stain), or measures grain deviation with a 1 m chalk line, making the A/B/C/D decision within 15 to 30 seconds. Emeka observes and learns: within a month, boards that today go to the master he will sort on his own.
+**Carlos sets it aside on the "for master's decision" pile** and waits for Jan to pass by within an hour. Jan verifies with a caliper, looks against the light (blue stain), or measures grain deviation with a 1 m chalk line, making the A/B/C/D decision within 15 to 30 seconds. Carlos observes and learns: within a month, boards that today go to the master he will sort on his own.
 
 **The 80/20 figure is an empirical rule of Polish sawmills**: after 3 months of work, a junior sorts 80% of boards independently and consults 20% with the master. After 6 months: 90/10. After a year: 95/5. Full autonomy never arrives: even an experienced operator prefers to consult the master on borderline boards so as not to expose the sawmill to a complaint. This is not a lack of competence, it is prudence. The price gap between A and B on oak is 500 to 1100 PLN/m³, and a single misclassified batch of twenty boards can cost more than a week of an operator's wages. The 80/20 rule is therefore both a training milestone and a risk-management tool.
 
@@ -137,7 +137,7 @@ After the first three weeks of work, Emeka begins to sort on his own, but only t
 
 ## Link to practice
 
-Next week (week 3 M2) you will get to know **machines in operation**: the band saw (l1 to l2), the frame saw (l3), the planers (l4), the edger (l5 to l6). Visual grades will return in the sorting lesson (m2-w4-l2), where Emeka will sort lumber on his own under the master's eye. Before that, today:
+Next week (week 3 M2) you will get to know **machines in operation**: the band saw (l1 to l2), the frame saw (l3), the planers (l4), the edger (l5 to l6). Visual grades will return in the sorting lesson (m2-w4-l2), where Carlos will sort lumber on his own under the master's eye. Before that, today:
 
 - **Ask the master for a pile of 20 boards of mixed grades** and try to sort them on your own before the master verifies them. Compare your results with his. How many out of 20 did you hit? Beginner target: 14 to 16 out of 20 (70 to 80%). Target after a month: 18/20. After 3 months: 19/20.
 - **Learn one criterion at a time**: a week for sound knots (diameter and density thresholds), a week for loose knots, a week for checks, a week for blue stain and grain deviation. Do not attempt everything at once: the master also learned over several years.
@@ -150,16 +150,16 @@ Next week (week 3 M2) you will get to know **machines in operation**: the band s
 
 **Why not the deep level (full PN-EN 1611-1)**: PN-EN 1611-1 has 15 detailed criteria per grade, with tables depending on species, dimensions, and intended use. A junior operator without long training will not absorb this in one lesson. The master classifier (2 to 3 years of experience plus certification) knows the full standard. The course is to prepare the operator for assistance, not to replace the master.
 
-**Guiding analogy**: a lumber grade is like a hotel class. A 5-star hotel (A) has no stains on the bedding, a 4-star (B) has minor flaws but is clean, a 3-star (C) works but without elegance, a 1 to 2-star (D) is fit only for one night. Price rises exponentially with the class. The customer knows what to expect for each star. Trainees from countries with developed tourism (Philippines, West Africa, Georgia) grasp it immediately.
+**Guiding analogy**: a lumber grade is like a hotel class. A 5-star hotel (A) has no stains on the bedding, a 4-star (B) has minor flaws but is clean, a 3-star (C) works but without elegance, a 1 to 2-star (D) is fit only for one night. Price rises exponentially with the class. The customer knows what to expect for each star. Trainees from countries with developed tourism (Colombia, Venezuela, Peru, Ukraine) grasp it immediately.
 
-**Where the lesson returns**: m2-w3-l2 band saw (how grade depends on the log-breakdown program), m2-w4-l2 practical sorting (Emeka sorts alone under the master's eye), m3-w1-l6 customer complaints (grade too high equals complaint), m3-w2-l2 full classification per PN-EN 1611-1 (extension for advanced operators), m3-w4-l1 lumber export (grades for Germany and the UK, slightly different criteria).
+**Where the lesson returns**: m2-w3-l2 band saw (how grade depends on the log-breakdown program), m2-w4-l2 practical sorting (Carlos sorts alone under the master's eye), m3-w1-l6 customer complaints (grade too high equals complaint), m3-w2-l2 full classification per PN-EN 1611-1 (extension for advanced operators), m3-w4-l1 lumber export (grades for Germany and the UK, slightly different criteria).
 
 **Pitfalls for migrant trainees**:
 - Averaging: "a little A, a little C, so B, right?" **No**. The weakest-criterion rule: the worst feature decides. For trainees from countries with averaged grading systems (for example, a school point-based system), this is an uncomfortable change.
 - Visual grade vs strength grade: visual Grade A (appearance) is not a strength grade (structural capacity). A visually Grade A board may have strength grade C24 (good) or C14 (poor) depending on fiber density. That belongs to M3, not to be confused in M2.
 - "Too few grades": some foreign systems have more grades (German DIN 68365 has 6 grades, the Scandinavian system has 8). The Polish A/B/C/D is a practical simplification. For export to Germany, the master classifier converts to the German grades (O/I/II/III/IV/V).
-- "A sound knot is dark, a loose one is light": **the opposite**. A sound knot is lighter and more uniform with its surroundings, because it is grown in and alive. A loose knot has a dark border (dead tissue, dry contour). Show Emeka one of each under a magnifier.
+- "A sound knot is dark, a loose one is light": **the opposite**. A sound knot is lighter and more uniform with its surroundings, because it is grown in and alive. A loose knot has a dark border (dead tissue, dry contour). Show Carlos one of each under a magnifier.
 
-**The Emeka case, closing week two**: on Monday and Tuesday, moisture; Wednesday, handling; Thursday, defects; Friday morning, assortments; Friday afternoon, grades. Emeka ends the week with a full **coordinate system of the sawmill**: species × defect × assortment × grade = price position. Every board in the hall has these four coordinates. In the third week Emeka will see the machines that produce this system.
+**The Carlos case, closing week two**: on Monday and Tuesday, moisture; Wednesday, handling; Thursday, defects; Friday morning, assortments; Friday afternoon, grades. Carlos ends the week with a full **coordinate system of the sawmill**: species × defect × assortment × grade = price position. Every board in the hall has these four coordinates. In the third week Carlos will see the machines that produce this system.
 
-**Block 2 integration test (Friday after the lesson)**: give Emeka 10 mixed boards, each with a card. Emeka fills in: species, assortment, 2 largest defects, grade A/B/C/D, approximate price. A Level A trainee scores 8/10 with a tolerance of one grade. Level B: 6/10. Below 5/10 means a repeat of the whole block after the weekend.
+**Block 2 integration test (Friday after the lesson)**: give Carlos 10 mixed boards, each with a card. Carlos fills in: species, assortment, 2 largest defects, grade A/B/C/D, approximate price. A Level A trainee scores 8/10 with a tolerance of one grade. Level B: 6/10. Below 5/10 means a repeat of the whole block after the weekend.

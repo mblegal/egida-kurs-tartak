@@ -6,9 +6,9 @@ czas: 120
 
 ## Wprowadzenie
 
-Piątek, po obiedzie. Rano Emeka nauczył się rozróżniać pięć sortymentów tarcicy po kształcie i pochodzeniu maszynowym. Po południu mistrz Jan przywołuje go z powrotem do stołu klasyfikacyjnego. Tym razem na stole leżą **cztery deski dębowe obrzynane, każda identycznych wymiarów**: 25 mm grubość, 150 mm szerokość, 4 m długość. Ten sam gatunek, ten sam wymiar, ta sama maszyna. A jednak Jan mówi: „Każda kosztuje inne pieniądze. Pierwsza 180 zł, druga 130 zł, trzecia 90 zł, czwarta 50 zł. Różnica trzykrotna. Musisz wiedzieć, dlaczego."
+Piątek, po obiedzie. Rano Carlos nauczył się rozróżniać pięć sortymentów tarcicy po kształcie i pochodzeniu maszynowym. Po południu mistrz Jan przywołuje go z powrotem do stołu klasyfikacyjnego. Tym razem na stole leżą **cztery deski dębowe obrzynane, każda identycznych wymiarów**: 25 mm grubość, 150 mm szerokość, 4 m długość. Ten sam gatunek, ten sam wymiar, ta sama maszyna. A jednak Jan mówi: „Każda kosztuje inne pieniądze. Pierwsza 180 zł, druga 130 zł, trzecia 90 zł, czwarta 50 zł. Różnica trzykrotna. Musisz wiedzieć, dlaczego."
 
-Ta lekcja wprowadza **klasy jakości tarcicy A/B/C/D** – formalną kategoryzację, która nadaje deskom różną wartość handlową na podstawie wad. Klasę określa **mistrz klasyfikator** (tu: Jan), ale **operator sortuje deski pod jego instrukcją**: Jan wstępnie pokazuje progi, Emeka po kilku tygodniach zaczyna sortować samodzielnie 80% przypadków, a 20% niejasnych zgłasza Janowi do decyzji.
+Ta lekcja wprowadza **klasy jakości tarcicy A/B/C/D** – formalną kategoryzację, która nadaje deskom różną wartość handlową na podstawie wad. Klasę określa **mistrz klasyfikator** (tu: Jan), ale **operator sortuje deski pod jego instrukcją**: Jan wstępnie pokazuje progi, Carlos po kilku tygodniach zaczyna sortować samodzielnie 80% przypadków, a 20% niejasnych zgłasza Janowi do decyzji.
 
 Klasy A/B/C/D to **wizualne klasy tarcicy** według polskiej tradycji sortowania, zgodne z PN-EN 1611-1 (europejska norma sortowania drewna liściastego i iglastego na wygląd). **Nie mylić z klasami wytrzymałościowymi** C14, C16, C24, C30 – tamte dotyczą konstrukcji i są przedmiotem modułu trzeciego. Tu chodzi o wygląd: co klient zobaczy w gotowym produkcie.
 
@@ -44,7 +44,7 @@ Deska wychodzi z okrawiarki jako tarcica obrzynana – ma cztery proste kanty, z
 
 ### Progi liczbowe dla sęków – rdzeń klasyfikacji wizualnej
 
-Sęki są najczęstszą wadą tarcicy i dlatego klasa A/B/C/D w **80% przypadków zależy od sęków**. Pozostałe 20% to pęknięcia, sinizna, skrętność, inne wady. Emeka w pierwszej kolejności uczy się oceniać sęki.
+Sęki są najczęstszą wadą tarcicy i dlatego klasa A/B/C/D w **80% przypadków zależy od sęków**. Pozostałe 20% to pęknięcia, sinizna, skrętność, inne wady. Carlos w pierwszej kolejności uczy się oceniać sęki.
 
 **Sęk zdrowy** (*live knot*, *sound knot*) = ciemniejszy, wrośnięty w otaczające drewno, nie wypada przy obróbce, nie osłabia znacznie wytrzymałości. **Sęk luźny** (*dead knot*, *loose knot*) = otoczony ciemną obwódką, łatwo wypada przy szlifowaniu, zostawia otwór. Rozróżnienie jest oczywiste po dotknięciu nożem: zdrowy jest twardy, nie ruszasz go, luźny daje się podważyć.
 
@@ -61,7 +61,7 @@ Sęki są najczęstszą wadą tarcicy i dlatego klasa A/B/C/D w **80% przypadkó
 **Deska 4 m ma 4 metry bieżące**. Jeśli klasa A dopuszcza ≤3 sęki zdrowe/mb, to w całej desce ≤12 sęków zdrowych. **Jeden sęk luźny zrzuca ją do klasy B.** Dwa sęki luźne przy więcej niż 2 na mb zrzucają do C.
 :::
 
-**Jak mierzyć**: suwmiarka stolarska mierzy średnicę sęka (dłuższa oś). Miara metrowa odkłada metry bieżące. Emeka liczy sęki w pierwszym metrze deski, potem w drugim, trzecim, czwartym. Najgorszy metr (z największą liczbą sęków) decyduje o klasie całej deski. Jeśli pierwszy metr ma 5 sęków zdrowych 40 mm, a reszta po 2 sęki 25 mm, deska idzie do B (bo pierwszy metr przekracza próg A).
+**Jak mierzyć**: suwmiarka stolarska mierzy średnicę sęka (dłuższa oś). Miara metrowa odkłada metry bieżące. Carlos liczy sęki w pierwszym metrze deski, potem w drugim, trzecim, czwartym. Najgorszy metr (z największą liczbą sęków) decyduje o klasie całej deski. Jeśli pierwszy metr ma 5 sęków zdrowych 40 mm, a reszta po 2 sęki 25 mm, deska idzie do B (bo pierwszy metr przekracza próg A).
 
 ### Pęknięcia czołowe i boczne
 
@@ -104,14 +104,14 @@ Wady poznane w czwartek (l4) wracają tutaj jako kryteria klasowe.
 
 ### Rola operatora: 80% sam, 20% zgłasza mistrzowi
 
-Po pierwszych trzech tygodniach pracy Emeka zaczyna sortować samodzielnie – ale tylko **wyraźne przypadki**. Gdy deska ma dużo sęków zdrowych powyżej 50 mm = C albo D, sortuje sam. Gdy deska ma wyraźnie czyste oblicze i małe sęki = A lub B, sortuje sam. Gdy **coś jest na granicy**:
+Po pierwszych trzech tygodniach pracy Carlos zaczyna sortować samodzielnie – ale tylko **wyraźne przypadki**. Gdy deska ma dużo sęków zdrowych powyżej 50 mm = C albo D, sortuje sam. Gdy deska ma wyraźnie czyste oblicze i małe sęki = A lub B, sortuje sam. Gdy **coś jest na granicy**:
 
 - deska z sękami 48 mm (granica A/B),
 - deska z pęknięciem 36 mm przy szerokości 150 mm (granica A/B),
 - deska ze skrętnością wizualnie 4–5° (granica B/C),
 - deska z siniznowym przebarwieniem 10–15% (granica B/C),
 
-**Emeka odkłada na stos „do decyzji mistrza"** – i czeka, aż Jan przejdzie obok w ciągu godziny. Jan weryfikuje suwmiarką, patrzy pod światło (sinizna) albo mierzy skrętność kredą 1 m, podejmuje decyzję A/B/C/D w ciągu 15–30 sek. Emeka obserwuje, uczy się – za miesiąc deski, które dziś idą do mistrza, będzie sortował sam.
+**Carlos odkłada na stos „do decyzji mistrza"** – i czeka, aż Jan przejdzie obok w ciągu godziny. Jan weryfikuje suwmiarką, patrzy pod światło (sinizna) albo mierzy skrętność kredą 1 m, podejmuje decyzję A/B/C/D w ciągu 15–30 sek. Carlos obserwuje, uczy się – za miesiąc deski, które dziś idą do mistrza, będzie sortował sam.
 
 **Cyfra 80/20 to empiryczna reguła polskich tartaków**: po 3 miesiącach pracy junior sortuje 80% desek samodzielnie, 20% konsultuje z mistrzem. Po 6 miesiącach: 90/10. Po roku: 95/5. Pełna autonomia nigdy nie powstaje – nawet doświadczony operator na granicznych deskach woli skonsultować się z mistrzem, żeby nie narazić tartaku na reklamację.
 
@@ -137,7 +137,7 @@ Po pierwszych trzech tygodniach pracy Emeka zaczyna sortować samodzielnie – a
 
 ## Link do praktyki
 
-W następnym tygodniu (tydzień 3 M2) poznasz **maszyny w ruchu**: pilarkę taśmową (l1-l2), gater (l3), strugarki (l4), okrawiarkę (l5-l6). Klasy wizualne wrócą w lekcji sortowania (m2-w4-l2), gdzie Emeka będzie sortował tarcicę samodzielnie pod okiem mistrza. Przedtem dzisiaj:
+W następnym tygodniu (tydzień 3 M2) poznasz **maszyny w ruchu**: pilarkę taśmową (l1-l2), gater (l3), strugarki (l4), okrawiarkę (l5-l6). Klasy wizualne wrócą w lekcji sortowania (m2-w4-l2), gdzie Carlos będzie sortował tarcicę samodzielnie pod okiem mistrza. Przedtem dzisiaj:
 
 - **Poproś mistrza o stos 20 desek mieszanych klas** i spróbuj je posortować samodzielnie, zanim mistrz je zweryfikuje. Porównaj swoje wyniki z jego. Ile z 20 trafiłeś? Cel początkujący: 14–16 z 20 (70–80%). Cel po miesiącu: 18/20. Po 3 miesiącach: 19/20.
 - **Naucz się jednego kryterium naraz**: tydzień na sęki zdrowe (progi średnicy i gęstości), tydzień na sęki luźne, tydzień na pęknięcia, tydzień na siniznę i skrętność. Nie próbuj wszystkiego naraz – mistrz też uczył się kilka lat.
@@ -150,16 +150,16 @@ W następnym tygodniu (tydzień 3 M2) poznasz **maszyny w ruchu**: pilarkę taś
 
 **Dlaczego nie poziom głęboki (pełna PN-EN 1611-1)**: PN-EN 1611-1 ma 15 kryteriów szczegółowych per klasa, z tabelami uzależnionymi od gatunku, wymiaru, przeznaczenia. Operator junior bez długiego szkolenia nie przyswoi tego w jednej lekcji. Mistrz klasyfikator (2–3 lata stażu + certyfikat) zna pełną normę. Kurs ma przygotować operatora do asysty, nie do zastąpienia mistrza.
 
-**Analogia prowadząca**: klasa tarcicy jak klasa hotelu. 5-gwiazdkowy (A) nie ma plam na pościeli, 4-gwiazdkowy (B) ma drobne usterki ale czysto, 3-gwiazdkowy (C) działa ale bez elegancji, 1-2-gwiazdkowy (D) nadaje się tylko na jedną noc. Cena rośnie wykładniczo z klasą. Klient wie, czego się spodziewa po każdej gwiazdce. Kursanci z krajów o rozwiniętej turystyce (Filipiny, Afryka Zachodnia, Gruzja) natychmiast rozumieją.
+**Analogia prowadząca**: klasa tarcicy jak klasa hotelu. 5-gwiazdkowy (A) nie ma plam na pościeli, 4-gwiazdkowy (B) ma drobne usterki ale czysto, 3-gwiazdkowy (C) działa ale bez elegancji, 1-2-gwiazdkowy (D) nadaje się tylko na jedną noc. Cena rośnie wykładniczo z klasą. Klient wie, czego się spodziewa po każdej gwiazdce. Kursanci z krajów o rozwiniętej turystyce (Kolumbia, Wenezuela, Peru, Ukraina) natychmiast rozumieją.
 
-**Gdzie lekcja wraca**: m2-w3-l2 pilarka taśmowa (jak klasa zależy od programu cięcia kłody), m2-w4-l2 sortowanie praktyczne (Emeka sortuje sam pod okiem mistrza), m3-w1-l6 reklamacje klienta (klasa za wysoka = reklamacja), m3-w2-l2 klasyfikacja pełna PN-EN 1611-1 (rozwinięcie dla zaawansowanych operatorów), m3-w4-l1 eksport tarcicy (klasy dla Niemiec, UK – nieco inne kryteria).
+**Gdzie lekcja wraca**: m2-w3-l2 pilarka taśmowa (jak klasa zależy od programu cięcia kłody), m2-w4-l2 sortowanie praktyczne (Carlos sortuje sam pod okiem mistrza), m3-w1-l6 reklamacje klienta (klasa za wysoka = reklamacja), m3-w2-l2 klasyfikacja pełna PN-EN 1611-1 (rozwinięcie dla zaawansowanych operatorów), m3-w4-l1 eksport tarcicy (klasy dla Niemiec, UK – nieco inne kryteria).
 
 **Pułapki kursantów migranckich**:
 - Uśrednianie – „trochę A, trochę C = B, tak?" – **nie**. Reguła najsłabszego kryterium: najgorsza cecha decyduje. Dla kursantów z krajów o systemach ocen uśrednionych (np. szkolny system punktowy) to jest niewygodna zmiana.
 - Klasa wizualna vs klasa wytrzymałościowa – klasa A wizualna (wygląd) to nie klasa wytrzymałościowa (zdolność konstrukcyjna). Deska klasy A wizualnej może mieć klasę wytrzymałościową C24 (dobra) albo C14 (kiepska) zależnie od gęstości włókien. To zostaje M3 – nie mylić w M2.
 - „Za mało klas" – niektóre zagraniczne systemy mają więcej klas (niemiecki DIN 68365 ma 6 klas, skandynawski ma 8). Polski A/B/C/D jest uproszczeniem praktycznym. Dla eksportu do Niemiec mistrz klasyfikator przelicza na klasy niemieckie (O/I/II/III/IV/V).
-- Sęk zdrowy „to ciemny, luźny to jasny" – **odwrotnie**. Sęk zdrowy jest jaśniejszy i bardziej jednolity z otoczeniem, bo wrośnięty żywy. Sęk luźny ma ciemną obwódkę (tkanka martwa, suchy kontur). Pokaż Emeka jeden i drugi pod lupą.
+- Sęk zdrowy „to ciemny, luźny to jasny" – **odwrotnie**. Sęk zdrowy jest jaśniejszy i bardziej jednolity z otoczeniem, bo wrośnięty żywy. Sęk luźny ma ciemną obwódkę (tkanka martwa, suchy kontur). Pokaż Carlos jeden i drugi pod lupą.
 
-**Case Emeka – domknięcie tygodnia drugiego**: w poniedziałek-wtorek wilgotność, środa manipulacja, czwartek wady, piątek rano sortymenty, piątek popołudniu klasy. Emeka kończy tydzień z pełnym **układem współrzędnych tartaku**: gatunek × wada × sortyment × klasa = pozycja cenowa. Każda deska w hali ma te cztery współrzędne. W trzecim tygodniu Emeka zobaczy maszyny, które ten układ produkują.
+**Case Carlos – domknięcie tygodnia drugiego**: w poniedziałek-wtorek wilgotność, środa manipulacja, czwartek wady, piątek rano sortymenty, piątek popołudniu klasy. Carlos kończy tydzień z pełnym **układem współrzędnych tartaku**: gatunek × wada × sortyment × klasa = pozycja cenowa. Każda deska w hali ma te cztery współrzędne. W trzecim tygodniu Carlos zobaczy maszyny, które ten układ produkują.
 
-**Test integracyjny bloku 2 (piątek po lekcji)**: daj Emeka 10 desek mieszanych, każda z kartką. Emeka ma wypełnić: gatunek, sortyment, 2 największe wady, klasa A/B/C/D, cena orientacyjna. Kursant na poziomie A gra 8/10 z tolerancją 1 klasy. Poziom B: 6/10. Poniżej 5/10 – powtórka całego bloku po weekendzie.
+**Test integracyjny bloku 2 (piątek po lekcji)**: daj Carlos 10 desek mieszanych, każda z kartką. Carlos ma wypełnić: gatunek, sortyment, 2 największe wady, klasa A/B/C/D, cena orientacyjna. Kursant na poziomie A gra 8/10 z tolerancją 1 klasy. Poziom B: 6/10. Poniżej 5/10 – powtórka całego bloku po weekendzie.

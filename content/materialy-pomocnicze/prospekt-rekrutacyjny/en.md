@@ -8,11 +8,11 @@ język: en
 
 # Become a sawmill operator in Poland. Free "Sawmill Work" course
 
-**EGIDA Foundation** invites labour migrants in Poland to take part in a 12-week free vocational course that leads to real work in a Polish sawmill or joinery shop. The course is financed from the "Smart_Egida" project under the European Social Fund Plus (EFS+ 2026-2027).
+**EGIDA Foundation** invites labour migrants in Poland to take part in a 12-week free vocational course that leads to real work in a Polish sawmill or joinery shop. The course is free of charge for migrants and grew out of the integration capacity built by the EGIDA Foundation.
 
 > "Before the course I did not know a single word of Polish beyond 'dzień dobry' (hello / good morning). After twelve weeks I was running an eight-hour shift on my own, with two junior operators under me. A sawmill in Małopolska hired me full time three days after I finished module three."
 >
-> **Rustam K., Uzbekistan, graduate of the 2025/2026 Edition, autonomous operator at the "Buk-Drew" sawmill near Nowy Sącz**
+> **Mykoła K., Ukraine, graduate of a previous edition, autonomous operator at the "Buk-Drew" sawmill near Nowy Sącz**
 
 ---
 
@@ -76,7 +76,7 @@ Lessons are taught by:
 
 ## 5. Three career paths after the course
 
-After completing module three you can choose from three typical career paths. All of them are realistic, all of them have been tested by graduates of previous editions, including Rustam (quoted at the start of this prospectus).
+After completing module three you can choose from three typical career paths. All of them are realistic, all of them have been tested by graduates of previous editions, including Mykoła (quoted at the start of this prospectus).
 
 **Path A: Export operator**
 
@@ -92,7 +92,7 @@ You work 2-3 years as an autonomous operator, save money, complete additional UD
 
 ## 6. Course costs and EFS+ financing
 
-**Your participation in the course is completely free.** All costs are covered by the "Smart_Egida" project (application 2026_004 to the Ministerstwo Funduszy i Polityki Regionalnej (MFiPR, Ministry of Funds and Regional Policy) under EFS+ (European Social Fund Plus) 2026-2027). Specifically, the project finances:
+**Your participation in the course is completely free.** All costs are covered by the EGIDA Foundation from its own resources and dedicated partner donations. The cost package covers:
 
 - wages of trainers and teaching assistants (around 180 000 zł per 3-month cycle, 12 trainers in total),
 - teaching materials and access to the machines of sawmill partners (around 45 000 zł per cycle),
@@ -112,11 +112,7 @@ What is not financed:
 
 We run the course in **three annual cycles**, each covering the full M1 + M2 + M3 sequence over 12 weeks. A group consists of 8-12 trainees.
 
-| Cycle | Recruitment | Course start | Final M3 exam |
-|------|------------|--------------|---------------------|
-| Autumn 2026 | August 2026 | 1 September 2026 | 15 December 2026 |
-| Winter 2026/2027 | November 2026 | 1 December 2026 | 15 March 2027 |
-| Spring 2027 | February 2027 | 1 March 2027 | 15 June 2027 |
+Courses run in several cycles per year. The exact calendar of recruitment, cycle start and the final M3 exam is shared by the Fundacja EGIDA coordinator on candidate request.
 
 **Course locations**:
 
@@ -156,7 +152,7 @@ During the course you are covered by the project's accident (NNW) insurance. Onc
 6. **Sign the EGIDA trainee contract** (24 pages, in your language plus Polish). You receive the schedule, the name of your trainer, and the name of your assistant.
 7. **Come to the first M1 lesson** on the day the cycle starts.
 
-**Application deadline for the Autumn 2026 cycle**: 15 August 2026.
+**Application deadline for the upcoming cycle** is set by Fundacja EGIDA and communicated during recruitment.
 
 ---
 

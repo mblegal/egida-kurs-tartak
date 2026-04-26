@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Miércoles, octavo día de la segunda semana. El lunes Maricel entendió qué significaba el número 38%. El martes consiguió ese número correctamente. Hoy sale al patio de troncos, porque **antes de que cualquier tronco llegue a la sierra principal, alguien tiene que decidir cómo dividirlo en trozas**. Esta decisión se toma dos veces: la primera en el bosque (operador de la procesadora forestal) y la segunda en el patio del aserradero (capataz). Maricel observa hoy la segunda decisión y aprende qué información mantiene el capataz en la cabeza en ese momento.
+Miércoles, octavo día de la segunda semana. El lunes Sofía entendió qué significaba el número 38%. El martes consiguió ese número correctamente. Hoy sale al patio de troncos, porque **antes de que cualquier tronco llegue a la sierra principal, alguien tiene que decidir cómo dividirlo en trozas**. Esta decisión se toma dos veces: la primera en el bosque (operador de la procesadora forestal) y la segunda en el patio del aserradero (capataz). Sofía observa hoy la segunda decisión y aprende qué información mantiene el capataz en la cabeza en ese momento.
 
-A las 6:50 llega el camión de Bosques Estatales (Lasy Państwowe): dos troncos de roble, cada uno de unos 14 metros de longitud, diámetro en la base 55 cm, en la punta 32 cm. **Son *dłużyce*** (rollizos largos), troncos enteros de árbol, talados por la procesadora forestal y transportados al aserradero completos, sin división previa en trozas. El capataz Marek saca del bolsillo una tiza industrial (blanca, gruesa, impermeable) y le hace una seña a Maricel: "Ven. Te voy a enseñar cómo se lee esto".
+A las 6:50 llega el camión de Bosques Estatales (Lasy Państwowe): dos troncos de roble, cada uno de unos 14 metros de longitud, diámetro en la base 55 cm, en la punta 32 cm. **Son *dłużyce*** (rollizos largos), troncos enteros de árbol, talados por la procesadora forestal y transportados al aserradero completos, sin división previa en trozas. El capataz Marek saca del bolsillo una tiza industrial (blanca, gruesa, impermeable) y le hace una seña a Sofía: "Ven. Te voy a enseñar cómo se lee esto".
 
 Esta lección trata de **qué ve el capataz cuando mira un tronco de quince metros y por qué el mismo tronco cortado de manera distinta puede valer un 30% más o un 30% menos**. Hoy no vas a aprender a cortar. Vas a aprender a entender el corte, para que dentro de medio año, cuando te conviertas en operadora junior con autorización, sepas a qué estás mirando en una marca dibujada en la corteza.
 
@@ -80,7 +80,7 @@ Marek camina a lo largo del primer rollizo largo, aplica la cinta métrica cada 
 
 ### Tu papel de ayudante junto al rollizo largo: qué haces y qué NO haces
 
-En la fase M2 semana 2, Maricel **todavía no opera el corte transversal**. Esa tarea corresponde a un operador sénior con autorización para motosierra (Reglamento del MP de 28 de julio de 2023) o a la sierra de disco transversal (operador con formación específica del puesto). Maricel **asiste**:
+En la fase M2 semana 2, Sofía **todavía no opera el corte transversal**. Esa tarea corresponde a un operador sénior con autorización para motosierra (Reglamento del MP de 28 de julio de 2023) o a la sierra de disco transversal (operador con formación específica del puesto). Sofía **asiste**:
 
 ::: warning
 **Lo que haces como ayudante/junior junto al rollizo largo:**
@@ -148,7 +148,7 @@ Mañana (lección 4) conocerás **los defectos de la madera aserrable relevantes
 - Confundir "trozo de pie" con "raíz": el trozo de pie son **los primeros 3–5 m del tronco por encima del suelo**; las raíces están bajo tierra y no van al aserradero. Los cursistas de países sin tradición forestal pueden caer en esta trampa.
 - "Si el trozo basal es el más valioso, cortémoslo todo como trozo basal": **no**. De un árbol viejo se saca un único trozo basal, el resto hay que aprovecharlo. Esta regla vuelve en m2-w4-l1 planificación del corte.
 
-**Caso Maricel, para desarrollar**: ¿por qué Marek no le deja cortar hoy? Porque el corte transversal con motosierra exige autorizaciones (formación + reconocimiento médico + inscripción en la cartilla de puesto) que Maricel obtendrá tras la formación de motosierra en la semana 4 del módulo 2. De momento Maricel **entiende la decisión**. Entender antes de ejecutar es el núcleo del módulo M2.
+**Caso Sofía, para desarrollar**: ¿por qué Marek no le deja cortar hoy? Porque el corte transversal con motosierra exige autorizaciones (formación + reconocimiento médico + inscripción en la cartilla de puesto) que Sofía obtendrá tras la formación de motosierra en la semana 4 del módulo 2. De momento Sofía **entiende la decisión**. Entender antes de ejecutar es el núcleo del módulo M2.
 
 **Diccionario gestual**: la "marca del capataz" suele tener abreviaturas locales (por ejemplo, "F" para chapa, "K" para estructura, "P" para madera para palets). El primer día en un aserradero hay que preguntar qué abreviaturas rigen allí. En Egida el estándar es A/B/C/D, conforme a las normas PN-EN.
 

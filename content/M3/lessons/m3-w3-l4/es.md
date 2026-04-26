@@ -6,15 +6,15 @@ czas: 120
 
 ## Introducción
 
-Viernes, 2026-05-30, 9:25. Once días después de la reunión de planificación de l3, once días del ciclo de roble común en la cámara BH-50. Rustam cruza el patio de almacén en dirección a la nave del secadero, con la libreta en la mano y en el bolsillo del mono el teléfono de empresa (Nokia antiguo, la batería aguanta una semana, cobertura en todo el aserradero). Marek le ha programado hoy de 9:30 a 11:30 una **presencia formativa en el secadero** como parte del bloque de procesos M3. Wahan hoy no está con Rustam, tiene turno de mantenimiento en P1 con Juri (mecánico junior de UR).
+Viernes, 2026-05-30, 9:25. Once días después de la reunión de planificación de l3, once días del ciclo de roble común en la cámara BH-50. Mykoła cruza el patio de almacén en dirección a la nave del secadero, con la libreta en la mano y en el bolsillo del mono el teléfono de empresa (Nokia antiguo, la batería aguanta una semana, cobertura en todo el aserradero). Marek le ha programado hoy de 9:30 a 11:30 una **presencia formativa en el secadero** como parte del bloque de procesos M3. Wasyl hoy no está con Mykoła, tiene turno de mantenimiento en P1 con Juri (mecánico junior de UR).
 
-Rustam entra en la nave del secadero (12 × 8 × 4,5 m, la misma nave que en l3), y después en la **sala de control** (local de 2 × 3 m con el armario de control, ventanas de observación hacia la cámara y una pequeña mesa en el rincón). Pan Henryk ya está allí, tomando café del termo, Maciek Wiśniewski (ayudante del secadero, 19 años, técnico forestal de Ostróda, de l3) está de pie frente al panel con el **diario de fin de semana** en la mano. El diario es un cuaderno A4 de tapa dura, rellenado dos veces al día los fines de semana (sábado 10:00 y 16:00, domingo 10:00 y 16:00), a veces con más frecuencia si Maciek tiene ganas de revisar la cámara el sábado por la tarde.
+Mykoła entra en la nave del secadero (12 × 8 × 4,5 m, la misma nave que en l3), y después en la **sala de control** (local de 2 × 3 m con el armario de control, ventanas de observación hacia la cámara y una pequeña mesa en el rincón). Pan Henryk ya está allí, tomando café del termo, Maciek Wiśniewski (ayudante del secadero, 19 años, técnico forestal de Ostróda, de l3) está de pie frente al panel con el **diario de fin de semana** en la mano. El diario es un cuaderno A4 de tapa dura, rellenado dos veces al día los fines de semana (sábado 10:00 y 16:00, domingo 10:00 y 16:00), a veces con más frecuencia si Maciek tiene ganas de revisar la cámara el sábado por la tarde.
 
 ### 9:30, lectura rutinaria
 
-Pan Henryk, a Rustam: *„Buenos días. Siéntate, mira, escribe. Hoy te voy a mostrar cómo se lee el panel durante el ciclo. Del roble actual el jueves cumplimos el día catorce, mañana día quince, el domingo día dieciséis. La fase principal termina el domingo, el lunes pasamos al acondicionamiento."*
+Pan Henryk, a Mykoła: *„Buenos días. Siéntate, mira, escribe. Hoy te voy a mostrar cómo se lee el panel durante el ciclo. Del roble actual el jueves cumplimos el día catorce, mañana día quince, el domingo día dieciséis. La fase principal termina el domingo, el lunes pasamos al acondicionamiento."*
 
-Rustam se sienta en la silla junto a la mesa, abre la libreta, apunta la fecha y la hora. El panel BH-50 muestra:
+Mykoła se sienta en la silla junto a la mesa, abre la libreta, apunta la fecha y la hora. El panel BH-50 muestra:
 
 ```
 Cámara: BH-50 (Brunner-Hildebrand)
@@ -36,7 +36,7 @@ Estado resistencias:           45% de potencia (nominal 40-60% en fase principal
 
 Pan Henryk señala con la uña tres líneas: *„Mira. La humedad de la madera baja cada día 0,5-0,6%. Es una dinámica buena para roble día catorce. Hasta el día catorce, objetivo 14%, nos quedan 10-11% por evacuar en ocho días. Son **1,25% al día**. Subida del ritmo en el acondicionamiento, después ralentización en el tramo final. El plan aguanta."*
 
-Rustam escribe: *„roble d.14, hum. 24-26%, EMC 8,4%, dispersión 1,6% OK, ventiladores ok."*
+Mykoła escribe: *„roble d.14, hum. 24-26%, EMC 8,4%, dispersión 1,6% OK, ventiladores ok."*
 
 Pan Henryk: *„La **dispersión** es el indicador más importante de homogeneidad durante el ciclo. Si la sonda tres va más lenta en 1-2%, significa que en la zona donde está montada (parte trasera de la cámara) el flujo de aire es algo más débil. Normal. Cuando la diferencia sube a 3-4%, hay problema. Hoy 1,6%, tranquilos."*
 
@@ -51,13 +51,13 @@ Pan Henryk pincha en el panel la pestaña „Histórico de alarmas". En la panta
 [posiciones restantes de ciclos de secado anteriores]
 ```
 
-*„¿Ves, Rustam? **INFO** es una anotación, no alarma, no requiere reacción. **ADVERTENCIA** es nivel dos, el controlador se corrige solo, el operador observa. **ALARMA** es nivel tres, el controlador no corrige, requiere reacción humana. No ha habido alarmas en el último mes, es buena señal."*
+*„¿Ves, Mykoła? **INFO** es una anotación, no alarma, no requiere reacción. **ADVERTENCIA** es nivel dos, el controlador se corrige solo, el operador observa. **ALARMA** es nivel tres, el controlador no corrige, requiere reacción humana. No ha habido alarmas en el último mes, es buena señal."*
 
 Maciek vuelve a la nave de sierras con su propia tarea (carga del aserradero para un cliente de la tarde), cierra la puerta de la sala de control tras de sí.
 
 ### 9:45, salta la alarma
 
-Pan Henryk se sirve más café del termo, Rustam mira el panel y de repente el **LED rojo** en la esquina de la pantalla empieza a parpadear. El controlador emite una señal acústica breve (tres pitidos, 1 segundo, después pausa de 2 segundos, después otra vez). En la pantalla el mensaje:
+Pan Henryk se sirve más café del termo, Mykoła mira el panel y de repente el **LED rojo** en la esquina de la pantalla empieza a parpadear. El controlador emite una señal acústica breve (tres pitidos, 1 segundo, después pausa de 2 segundos, después otra vez). En la pantalla el mensaje:
 
 ```
 ALARMA: Temperatura del aire superada
@@ -68,9 +68,9 @@ Detectado: 2026-05-30, 09:43:12
 Recomendación: Reducir potencia de resistencias o aumentar ventilación
 ```
 
-Rustam se ha sobresaltado, el café en la taza de Pan Henryk se ha movido ligeramente. Pan Henryk habla tranquilo pero preciso: *„Rustam, ves el LED rojo. ¿Qué haces ahora?"*
+Mykoła se ha sobresaltado, el café en la taza de Pan Henryk se ha movido ligeramente. Pan Henryk habla tranquilo pero preciso: *„Mykoła, ves el LED rojo. ¿Qué haces ahora?"*
 
-Rustam piensa dos segundos. La lección de l3: el operador M3, en caso de alarma, **avisa al maestro de inmediato, no intenta resolver por su cuenta**. Pan Henryk está al lado, no hace falta llamar, basta con girarse. Rustam dice: *„Alarma de temperatura, 62,3 en vez de 58, desviación +4,3. Se lo comunico, ¿qué tengo que hacer?"*
+Mykoła piensa dos segundos. La lección de l3: el operador M3, en caso de alarma, **avisa al maestro de inmediato, no intenta resolver por su cuenta**. Pan Henryk está al lado, no hace falta llamar, basta con girarse. Mykoła dice: *„Alarma de temperatura, 62,3 en vez de 58, desviación +4,3. Se lo comunico, ¿qué tengo que hacer?"*
 
 Pan Henryk asiente: *„Bien. Primera cosa: **no reseteas la alarma**, porque aún no sabemos cuál es la causa. Segunda: **no entras en la cámara**. Tercera: **no cambias los ajustes del programa**. Ahora diagnostico yo, tú observas y aprendes. **Una alarma pequeña** es buen entrenamiento, porque no hay prisa."*
 
@@ -87,7 +87,7 @@ Dispersión entre sondas:                  1,0°C  (nominal <1,5°C)
 
 *„Las cuatro sondas de temperatura muestran valores parecidos, entre 61,8 y 62,8. La dispersión es normal. **Significa que toda la cámara está más caliente**, no una sola zona. Si una sonda marcase 62 y las otras tres 58, sospecharía de un sensor dañado en una esquina. Aquí es toda la cámara. Primer diagnóstico: **no es un fallo del sensor**."*
 
-Rustam anota: *„4 sondas juntas = cámara entera caliente, no un sensor. Primer diagnóstico."*
+Mykoła anota: *„4 sondas juntas = cámara entera caliente, no un sensor. Primer diagnóstico."*
 
 ### 9:50, Pan Henryk revisa resistencias y válvula de gas
 
@@ -111,7 +111,7 @@ Marek confirma que llamará. Pan Henryk cuelga.
 
 ### 9:55, primera corrección manual
 
-Pan Henryk a Rustam: *„Ahora voy a hacer una **corrección manual de la válvula de gas**, para bajar la temperatura en la cámara de 62 otra vez a 58. Es una decisión del **maestro del secadero**, no del operador M3. El operador M3 ni siquiera tiene contraseña de acceso a este panel, sólo lo ve en modo informativo."*
+Pan Henryk a Mykoła: *„Ahora voy a hacer una **corrección manual de la válvula de gas**, para bajar la temperatura en la cámara de 62 otra vez a 58. Es una decisión del **maestro del secadero**, no del operador M3. El operador M3 ni siquiera tiene contraseña de acceso a este panel, sólo lo ve en modo informativo."*
 
 Pan Henryk teclea la contraseña (6 dígitos, cambiada cada trimestre por BTM), abre la ventana de control manual:
 
@@ -129,13 +129,13 @@ en „Opciones especiales, bloqueo AUTO N minutos".
 
 Pan Henryk baja la resistencia 1 de 68% a 40%, la resistencia 2 de 64% a 40%, la válvula de gas de 72% a 45%. Confirma tres veces, el controlador desactiva el modo AUTO durante 30 minutos (de 9:55 a 10:25).
 
-*„Rustam, la **regla de la velocidad máxima de cambio de temperatura** es **6°C por hora**. El roble no se puede enfriar más rápido que 6°C/h, porque provoca **rajas internas**. Un salto de 62 a 58 es una bajada de 4°C, debería producirse en 40 minutos, no en 5. El controlador irá bajando gradualmente. Observamos."*
+*„Mykoła, la **regla de la velocidad máxima de cambio de temperatura** es **6°C por hora**. El roble no se puede enfriar más rápido que 6°C/h, porque provoca **rajas internas**. Un salto de 62 a 58 es una bajada de 4°C, debería producirse en 40 minutos, no en 5. El controlador irá bajando gradualmente. Observamos."*
 
 ### 10:00, observación de la tendencia
 
-Pan Henryk y Rustam miran el panel, refresco cada 15 segundos. La temperatura en 5 minutos baja de 62,3 a 61,1 (bajada 1,2°C en 5 minutos, es decir **14,4°C/h**, demasiado rápido). Pan Henryk comenta: *„Demasiado rápido, pero esperable en los primeros minutos tras reducir el gas. El intercambiador de calor caliente sigue cediendo calor a la cámara aunque las resistencias reciban menos corriente. Esperamos, en unos 20 minutos la bajada debería estabilizarse."*
+Pan Henryk y Mykoła miran el panel, refresco cada 15 segundos. La temperatura en 5 minutos baja de 62,3 a 61,1 (bajada 1,2°C en 5 minutos, es decir **14,4°C/h**, demasiado rápido). Pan Henryk comenta: *„Demasiado rápido, pero esperable en los primeros minutos tras reducir el gas. El intercambiador de calor caliente sigue cediendo calor a la cámara aunque las resistencias reciban menos corriente. Esperamos, en unos 20 minutos la bajada debería estabilizarse."*
 
-Rustam apunta observaciones cada 2 minutos:
+Mykoła apunta observaciones cada 2 minutos:
 - 09:55 62,3°C (inicio)
 - 09:57 61,9°C (bajada 0,4)
 - 10:00 61,1°C (bajada 0,8)
@@ -162,7 +162,7 @@ Pan Henryk resetea el histórico de alarmas (confirma en el diario de la cámara
 2026-05-30 10:15  ALARMA resuelta, temp 58,2°C
 ```
 
-*„Rustam, **ahora la ficha KS-001**. Toda alarma tiene que quedar documentada, independientemente de si hubo o no consecuencias para la madera. Es un requisito ISO 9001 y de BTM para la garantía de la cámara."*
+*„Mykoła, **ahora la ficha KS-001**. Toda alarma tiene que quedar documentada, independientemente de si hubo o no consecuencias para la madera. Es un requisito ISO 9001 y de BTM para la garantía de la cámara."*
 
 ### 10:40, entrada en la KS-001
 
@@ -179,21 +179,21 @@ Corrección: bajada manual de válvula de gas de 72% a 45%,
   durante 10 min, aceptable para roble día 14).
 Estado de la madera: humedad sin cambios, dispersión sondas 1,6%.
 Plan: control manual hasta lun 02.06, servicio BTM.
-Presentes: Pan Henryk (maestro), Rustam Nazarov (M3 formación).
+Presentes: Pan Henryk (maestro), Mykoła Hrycenko (M3 formación).
 Firma: H. Nowak, 10:45.
 ```
 
-*„Rustam, **no estuviste aquí a las 9:55**. En el documento escribo 'presentes Rustam Nazarov', porque estuviste, y eso es un hecho para la auditoría. Si alguna vez alguien te pregunta '¿estuviste en la alarma de la cámara del 30 de mayo?', dirás 'sí, estaba aprendiendo', no te avergonzarás."*
+*„Mykoła, **no estuviste aquí a las 9:55**. En el documento escribo 'presentes Mykoła Hrycenko', porque estuviste, y eso es un hecho para la auditoría. Si alguna vez alguien te pregunta '¿estuviste en la alarma de la cámara del 30 de mayo?', dirás 'sí, estaba aprendiendo', no te avergonzarás."*
 
-Rustam anota en la libreta: *„La alarma ocurrió. La hemos documentado. Sin ocultarla. **Los documentos son protección, no problema**."*
+Mykoła anota en la libreta: *„La alarma ocurrió. La hemos documentado. Sin ocultarla. **Los documentos son protección, no problema**."*
 
 ### 10:50, conversación sobre el límite de competencias
 
-Pan Henryk le sirve más café a Rustam del termo (azúcar en bolsita aparte), están sentados uno al lado del otro frente al panel, la temperatura se estabiliza en 58,2°C.
+Pan Henryk le sirve más café a Mykoła del termo (azúcar en bolsita aparte), están sentados uno al lado del otro frente al panel, la temperatura se estabiliza en 58,2°C.
 
-*„Rustam, me gustaría que entendieras hoy una cosa. La alarma ha saltado, la he resuelto yo, pero **¿si yo no hubiera estado aquí?** ¿Qué harías tú como operador M3?"*
+*„Mykoła, me gustaría que entendieras hoy una cosa. La alarma ha saltado, la he resuelto yo, pero **¿si yo no hubiera estado aquí?** ¿Qué harías tú como operador M3?"*
 
-Rustam piensa: *„Lo avisaría a Marek por teléfono. Marek está en la nave de sierras, llegaría aquí en 2-3 minutos."*
+Mykoła piensa: *„Lo avisaría a Marek por teléfono. Marek está en la nave de sierras, llegaría aquí en 2-3 minutos."*
 
 *„Bien. ¿Y si Marek no contesta porque está en la ducha después de quitarse el polvo de serrín?"*
 
@@ -201,25 +201,25 @@ Rustam piensa: *„Lo avisaría a Marek por teléfono. Marek está en la nave de
 
 *„Bien. ¿Y si BTM no contesta porque es fin de semana? ¿Qué haces?"*
 
-Rustam piensa. *„A diferencia de la sierra, yo no puedo apagar la cámara solo, porque entonces la madera se enfriaría demasiado rápido o se recalentaría. Si no puedo llamar al maestro ni a BTM, entonces... **observo y apunto**, hasta que uno de los dos se recupere. Salvo que vea humo o oiga un crujido."*
+Mykoła piensa. *„A diferencia de la sierra, yo no puedo apagar la cámara solo, porque entonces la madera se enfriaría demasiado rápido o se recalentaría. Si no puedo llamar al maestro ni a BTM, entonces... **observo y apunto**, hasta que uno de los dos se recupere. Salvo que vea humo o oiga un crujido."*
 
 *„Exacto. **El último recurso** no es apagar la cámara por el operador M3, porque cualquier intento de intervención manual sin permisos puede empeorar la situación. El recurso es **observar, documentar, escalar**. Igual que en la sierra es **STOP, asegura, avisa, documenta**. Aquí es **OBSERVA, REGISTRA, REPORTA, ESCALA**. Los tres primeros pasos son los mismos, el cuarto distinto, porque la cámara no se puede 'asegurar' en un minuto como una máquina."*
 
-Rustam apunta en la libreta: *„Cámara, procedimiento de alarma operador M3: **OBSERVA, REGISTRA, REPORTA, ESCALA**. No se puede intervenir manualmente."*
+Mykoła apunta en la libreta: *„Cámara, procedimiento de alarma operador M3: **OBSERVA, REGISTRA, REPORTA, ESCALA**. No se puede intervenir manualmente."*
 
 ### 11:00, normalización de la cámara y plan de fin de semana
 
-A las 11:00 la cámara está completamente estabilizada: temperatura 58,1°C, RH 46%, humedad media de la madera 24,7%, EMC 8,5%. Pan Henryk hace la lectura, Rustam apunta en paralelo.
+A las 11:00 la cámara está completamente estabilizada: temperatura 58,1°C, RH 46%, humedad media de la madera 24,7%, EMC 8,5%. Pan Henryk hace la lectura, Mykoła apunta en paralelo.
 
 Pan Henryk: *„Hasta el lunes control manual. Yo hoy me quedo hasta las 16:00. Maciek ha vuelto a las sierras, le diré cuando regrese que el fin de semana observará la cámara **cada 4 horas** en vez de cada 8. Sábado 8:00, 12:00, 16:00, 20:00. Domingo igual. Si pasa algo, llama a mí, no a ti, no a Marek."*
 
 *„¿Mañana (sábado) libras, verdad?"*
 
-Rustam: *„Sí, el domingo también libre."*
+Mykoła: *„Sí, el domingo también libre."*
 
-*„Bien. El lunes vienes normal a la sierra, BTM cambiará el termostato, quizá te venga bien ver cómo trabaja el servicio, pero no es tu función. El martes 02.06 carga de Drew-Sus, recuerda, pino 2,42 m³, tú, Wahan y Anton de la cuadrilla de patio. Desde el martes por la tarde la cámara está vacía hasta el 08.06 cuando recogemos el roble."*
+*„Bien. El lunes vienes normal a la sierra, BTM cambiará el termostato, quizá te venga bien ver cómo trabaja el servicio, pero no es tu función. El martes 02.06 carga de Drew-Sus, recuerda, pino 2,42 m³, tú, Wasyl y Anton de la cuadrilla de patio. Desde el martes por la tarde la cámara está vacía hasta el 08.06 cuando recogemos el roble."*
 
-Rustam confirma, cierra la libreta. *„Gracias, Pan Henryk."*
+Mykoła confirma, cierra la libreta. *„Gracias, Pan Henryk."*
 
 *„Te has defendido. **Aviso en lugar de intervención, observación en lugar de pánico**. Ese es el estándar del maestro que tú, como operador M3, ya conoces y aplicas. Dentro de medio año, si haces el curso auxiliar de secadero, podrás resolver alarmas como esta tú solo. Hoy has aprendido mirando."*
 
@@ -328,7 +328,7 @@ El operador M3 que observa el ciclo **no puede evitar las grietas durante el cic
 - Apilado desigual de las pilas (se ve por la ventana de observación, se ve que algunas tablas ya se están deformando)
 - RH **demasiado baja** en fase de acondicionamiento (el gradiente no se iguala)
 
-El operador M3 en presencia formativa en el secadero aprende a **reconocer estos signos y avisar**. Hoy Rustam no ha visto ninguno de ellos salvo la propia alarma de temperatura, que Pan Henryk ha resuelto manualmente. Pero dentro de 6 meses, tras el curso auxiliar de secadero, Rustam podrá interpretar estas señales por sí mismo y decidir sobre la corrección.
+El operador M3 en presencia formativa en el secadero aprende a **reconocer estos signos y avisar**. Hoy Mykoła no ha visto ninguno de ellos salvo la propia alarma de temperatura, que Pan Henryk ha resuelto manualmente. Pero dentro de 6 meses, tras el curso auxiliar de secadero, Mykoła podrá interpretar estas señales por sí mismo y decidir sobre la corrección.
 
 ### 6. Papel de Maciek y monitorización de fin de semana
 
@@ -370,7 +370,7 @@ No puede:
 - Resultado (temperatura volvió a 58°C en 32 minutos, bajada media 10°C/h, por encima del límite 6°C/h durante 10 min, aceptable para roble día 14)
 - Estado de la madera tras la alarma (humedad sin cambios, dispersión sondas 1,6% sin cambios)
 - Plan (control manual hasta lun 02.06, servicio BTM, termostato a cambiar)
-- Presentes (Pan Henryk maestro, Rustam Nazarov M3 formación)
+- Presentes (Pan Henryk maestro, Mykoła Hrycenko M3 formación)
 - Firma y hora de cierre (H. Nowak, 10:45)
 
 **La ficha KS-001 de la carga actual permanece en el cajón del secadero hasta el cierre del ciclo** (descarga 08.06). Entonces la carga se „cierra", la ficha la firman maestro y encargado, se escanea a OneDrive EGIDA, el papel al archivo (retención 3 años papel + 5 años escaneo).
@@ -408,18 +408,18 @@ No puede:
 
 **Error 6. „Lo arreglo yo, no voy a molestar a Pan Henryk"**. El operador ve la alarma, piensa: „Pan Henryk está cansado, lo intentaré yo". **Error absoluto**: el operador M3 no tiene contraseña, no tiene pericia, su intervención **empeorará la situación**. Pan Henryk tiene número de teléfono, tiene permisos, tiene pericia. **Correcto**: **siempre llama al maestro ante una alarma**, aunque la alarma parezca pequeña. Pan Henryk preferiría despertarse a las 23:30 un domingo por una alarma falsa que por la mañana ver la cámara con madera rajada tras „arreglo por cuenta propia" de un operador sin permisos.
 
-### 10. Curso auxiliar de secadero, siguiente paso de Rustam
+### 10. Curso auxiliar de secadero, siguiente paso de Mykoła
 
-El módulo formativo de secadero auxiliar (descrito en l3 punto 11) es una extensión opcional de M3. Requiere **consentimiento del maestro del secadero** (hoy Pan Henryk) y **M3 completado** (para Rustam previsto en octubre 2026). Alcance: 5 días de formación intensiva + examen.
+El módulo formativo de secadero auxiliar (descrito en l3 punto 11) es una extensión opcional de M3. Requiere **consentimiento del maestro del secadero** (hoy Pan Henryk) y **M3 completado** (para Mykoła previsto en octubre 2026). Alcance: 5 días de formación intensiva + examen.
 
-**La presencia de hoy de Rustam** (2026-05-30, 2 horas) **cuenta** como **práctica previa** de cara al curso. Pan Henryk al final del día apuntará en el expediente personal de Rustam:
+**La presencia de hoy de Mykoła** (2026-05-30, 2 horas) **cuenta** como **práctica previa** de cara al curso. Pan Henryk al final del día apuntará en el expediente personal de Mykoła:
 
 ```
 2026-05-30, 9:30-11:00
-R. Nazarov, operador M3, presencia formativa en secadero.
+R. Hrycenko, operador M3, presencia formativa en secadero.
 Observación del ciclo de roble (día 14), alarma de temperatura,
 diagnóstico y corrección manual del maestro.
-Rustam comprendió: límite de competencias, procedimiento de alarma
+Mykoła comprendió: límite de competencias, procedimiento de alarma
 (OBSERVA, REGISTRA, REPORTA, ESCALA), documentación
 en KS-001.
 Evaluación: apto para sucesivas presencias formativas.
@@ -428,7 +428,7 @@ como asistencia en mediciones finales y empaquetado.
 Firma: H. Nowak, maestro de secadero.
 ```
 
-El expediente personal de Rustam está en la oficina del jefe del aserradero, en la carpeta „Formación interna". Su contenido influye en la **cualificación de Rustam** para el curso auxiliar de secadero en octubre 2026 (mínimo 3 presencias formativas como condición de admisión).
+El expediente personal de Mykoła está en la oficina del jefe del aserradero, en la carpeta „Formación interna". Su contenido influye en la **cualificación de Mykoła** para el curso auxiliar de secadero en octubre 2026 (mínimo 3 presencias formativas como condición de admisión).
 
 ### 11. Qué ocurre después en el ciclo de roble tras la alarma
 
@@ -442,17 +442,17 @@ El expediente personal de Rustam está en la oficina del jefe del aserradero, en
 
 **Domingo (07.06)**: fase de enfriamiento, temperatura 55°C → 25°C (bajada lenta 4°C/h máx), RH 75% estable. Humedad de la madera 14% de destino.
 
-**Lunes (08.06)**: fin del ciclo de 22 días. **Apertura de la cámara, descarga** (ese es l5 M3 T3, la siguiente lección de Rustam).
+**Lunes (08.06)**: fin del ciclo de 22 días. **Apertura de la cámara, descarga** (ese es l5 M3 T3, la siguiente lección de Mykoła).
 
-## Escena de cierre, 11:00, salida de Rustam
+## Escena de cierre, 11:00, salida de Mykoła
 
-Pan Henryk se queda en la sala de control (diario por cerrar, teléfono al siguiente operador de BTM confirmando la visita del lunes), Rustam sale con la libreta llena de nuevas anotaciones. Por la ventana de la sala de control ve a Maciek volviendo de la nave de sierras con el diario de fin de semana en la mano, Maciek mira con ojos interrogantes. Rustam le resume breve: *„Ha habido alarma, temperatura +4, Pan Henryk la ha arreglado. Control manual hasta el lunes, tú cada 4 horas el fin de semana."*
+Pan Henryk se queda en la sala de control (diario por cerrar, teléfono al siguiente operador de BTM confirmando la visita del lunes), Mykoła sale con la libreta llena de nuevas anotaciones. Por la ventana de la sala de control ve a Maciek volviendo de la nave de sierras con el diario de fin de semana en la mano, Maciek mira con ojos interrogantes. Mykoła le resume breve: *„Ha habido alarma, temperatura +4, Pan Henryk la ha arreglado. Control manual hasta el lunes, tú cada 4 horas el fin de semana."*
 
 Maciek asiente, entra en la sala de control a hablar con Pan Henryk del horario del fin de semana.
 
 ### 11:05, paso a la nave de sierras
 
-Rustam cruza el patio de almacén hacia la nave de sierras. Hoy es viernes, turno de producción normal. Su turno en P3 empieza a las 12:00, hasta las 12:00 tiene 50 minutos libres. Va a la taquilla del trabajador, saca un bocadillo de la bolsa, se sienta en el banco frente a la nave, abre la libreta y **pasa a limpio** lo que ha visto esta mañana.
+Mykoła cruza el patio de almacén hacia la nave de sierras. Hoy es viernes, turno de producción normal. Su turno en P3 empieza a las 12:00, hasta las 12:00 tiene 50 minutos libres. Va a la taquilla del trabajador, saca un bocadillo de la bolsa, se sienta en el banco frente a la nave, abre la libreta y **pasa a limpio** lo que ha visto esta mañana.
 
 **Cinco conclusiones**:
 
@@ -460,19 +460,19 @@ Rustam cruza el patio de almacén hacia la nave de sierras. Hoy es viernes, turn
 
 2. **Una alarma +4°C es „pequeña" para roble día 14**. La misma +4°C en día 3 de calentamiento sería más grave. Pan Henryk lo ha visto al instante („no hay prisa, alarma pequeña buen entrenamiento"). El operador M3 no evalúa la prioridad de la alarma, **reporta todas las alarmas por igual**.
 
-3. **El termostato GH-67** es un componente que Rustam antes no conocía. Hoy ha aprendido que el controlador de la cámara tiene muchos componentes, **cada uno puede averiarse independientemente**, y que el servicio BTM tiene conocimiento sobre averías típicas que el operador M3 no tiene y no necesita tener.
+3. **El termostato GH-67** es un componente que Mykoła antes no conocía. Hoy ha aprendido que el controlador de la cámara tiene muchos componentes, **cada uno puede averiarse independientemente**, y que el servicio BTM tiene conocimiento sobre averías típicas que el operador M3 no tiene y no necesita tener.
 
 4. **El procedimiento OBSERVA, REGISTRA, REPORTA, ESCALA** es **distinto del procedimiento de la sierra** (STOP, asegura, avisa, documenta). La cámara no tiene „STOP" inmediato. El operador debe entender esa diferencia, porque la intuición de la sierra le dice „para la máquina", pero en la cámara **parar el ciclo** genera más problemas de los que resuelve.
 
-5. **Documentación = protección**. Pan Henryk apunta en la KS-001 incluso alarmas „pequeñas", incluso „presencia formativa de Rustam". En la auditoría ISO 9001 se ve que la cámara está monitorizada, las alarmas están resueltas, el personal está formado. Sin esas entradas no se puede demostrar nada. **Los papeles son protección, no estorbo**.
+5. **Documentación = protección**. Pan Henryk apunta en la KS-001 incluso alarmas „pequeñas", incluso „presencia formativa de Mykoła". En la auditoría ISO 9001 se ve que la cámara está monitorizada, las alarmas están resueltas, el personal está formado. Sin esas entradas no se puede demostrar nada. **Los papeles son protección, no estorbo**.
 
-Rustam cierra la libreta, la deja en el banco, bebe el resto del té del termo. A las 11:35 entra en la nave de sierras, empieza a preparar P3 para el turno (limpieza de la bancada de la máquina del serrín de Damian del turno de la mañana).
+Mykoła cierra la libreta, la deja en el banco, bebe el resto del té del termo. A las 11:35 entra en la nave de sierras, empieza a preparar P3 para el turno (limpieza de la bancada de la máquina del serrín de Damian del turno de la mañana).
 
 ### 11:55, disposición del día
 
-Marek trae la disposición del día en P3 de 12:00 a 15:00. Es **ZLE-2026-05-082**, cliente Stolarz Meblowy Mrągowo (de l3), haya común 25 × 130 × 4000 mm. Otra especie, otro surtido, otra clase (C24 de mueble, pero con condición estética). Rustam rellenará una nueva KDP-001.
+Marek trae la disposición del día en P3 de 12:00 a 15:00. Es **ZLE-2026-05-082**, cliente Stolarz Meblowy Mrągowo (de l3), haya común 25 × 130 × 4000 mm. Otra especie, otro surtido, otra clase (C24 de mueble, pero con condición estética). Mykoła rellenará una nueva KDP-001.
 
-Pero eso es la siguiente lección, no hoy. Hoy Rustam cierra las notas del secadero y arranca la producción de haya a las 12:00. Wahan se incorporará a las 12:15 tras acabar el mantenimiento con Juri.
+Pero eso es la siguiente lección, no hoy. Hoy Mykoła cierra las notas del secadero y arranca la producción de haya a las 12:00. Wasyl se incorporará a las 12:15 tras acabar el mantenimiento con Juri.
 
 ## Términos clave
 
@@ -548,7 +548,7 @@ d) Ambos, para demostrar sus permisos
 
 14. El auditor ISO 9001 llega en junio 2026 y dice: „enséñenme la KS-001 de la carga de roble de mayo". ¿En cuántos minutos debe estar disponible la ficha? ¿Dónde se guarda?
 
-15. Pan Henryk apunta en la KS-001 „presentes: Rustam Nazarov (M3 formación)". ¿Por qué hace constar explícitamente la presencia de Rustam, aunque Rustam no decidiese nada?
+15. Pan Henryk apunta en la KS-001 „presentes: Mykoła Hrycenko (M3 formación)". ¿Por qué hace constar explícitamente la presencia de Mykoła, aunque Mykoła no decidiese nada?
 
 ### F. Papel de Maciek y planes
 
@@ -556,4 +556,4 @@ d) Ambos, para demostrar sus permisos
 
 17. Rutina normal de fin de semana: Maciek hace 4 lecturas al día (10:00 y 16:00 sábado y domingo). ¿Por qué tras la alarma Pan Henryk aumenta la rutina a cada 4 horas (8 lecturas), y no mantiene el estándar de 4?
 
-18. Rustam hoy ha completado una presencia formativa en el secadero (2 horas). ¿Como **antesala** de qué cuenta, y cuáles son los requisitos formales para participar en ese siguiente paso?
+18. Mykoła hoy ha completado una presencia formativa en el secadero (2 horas). ¿Como **antesala** de qué cuenta, y cuáles son los requisitos formales para participar en ese siguiente paso?

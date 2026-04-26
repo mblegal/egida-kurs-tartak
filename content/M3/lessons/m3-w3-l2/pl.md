@@ -6,15 +6,15 @@ czas: 120
 
 ## Wprowadzenie
 
-Środa, 2026-05-28, godzina 9:45. Rustam stoi w **warsztacie taśm pilarek** (osobne pomieszczenie hali, 6 × 4 m, oznaczone drzwi „TAŚMY, dostęp operatorzy M3, klasyfikator, brygadzista"). Wczoraj wtorek skończyło się zlecenie ZLE-2026-05-077 (ostatnie cięcia sosny szczotkowe na deski podłogowe, kontynuacja z l1). Dziś od rana zmiana na P3 jest spokojna, pierwsze pół godziny Rustam i Wahan zrobili codzienną konserwację, o 9:30 przyjechała z Wood-Mizer Polska **paczka taśm** (trzy sztuki zwracane z ostrzenia plus jedna nowa z produkcji), **a magazyn taśm zapasowych schudł** do dwóch sztuk. Brygadzista Marek Kowalski nakazał Rustamowi zgrzać **dwie nowe taśmy z rolki surowej** w warsztacie, żeby zapas taśm zapasowych wrócił do zdrowego stanu (4 sztuki).
+Środa, 2026-05-28, godzina 9:45. Mykoła stoi w **warsztacie taśm pilarek** (osobne pomieszczenie hali, 6 × 4 m, oznaczone drzwi „TAŚMY, dostęp operatorzy M3, klasyfikator, brygadzista"). Wczoraj wtorek skończyło się zlecenie ZLE-2026-05-077 (ostatnie cięcia sosny szczotkowe na deski podłogowe, kontynuacja z l1). Dziś od rana zmiana na P3 jest spokojna, pierwsze pół godziny Mykoła i Wasyl zrobili codzienną konserwację, o 9:30 przyjechała z Wood-Mizer Polska **paczka taśm** (trzy sztuki zwracane z ostrzenia plus jedna nowa z produkcji), **a magazyn taśm zapasowych schudł** do dwóch sztuk. Brygadzista Marek Kowalski nakazał Mykole zgrzać **dwie nowe taśmy z rolki surowej** w warsztacie, żeby zapas taśm zapasowych wrócił do zdrowego stanu (4 sztuki).
 
 Warsztat taśm to nie jest miejsce, w które operator M1 albo M2 ma dostęp samodzielny. To **kompetencja operatora M3**, wpisana do karty kwalifikacji EGIDA w marcu 2026 po audycie kompetencyjnym (audytor stwierdził, że przekazywanie 100% taśm do Wood-Mizer Polska do zgrzewania jest ryzykiem ciągłości produkcji, operatorzy samodzielni powinni umieć zgrzać taśmę lokalnie w sytuacji awaryjnej). **Zgrzewanie taśm** to nie codzienność, robi się je 1-2 razy na kwartał, ale operator musi umieć zrobić poprawnie pod presją czasową (np. zerwana taśma w piątek wieczór, sobota Wood-Mizer nie działa, poniedziałek klient odbiera zlecenie, trzeba zgrzać samemu).
 
-Wahan dziś nie wchodzi do warsztatu (M1 nie ma uprawnienia), ale stoi za przeszklonymi drzwiami obserwacyjnie. Rustam pracuje sam, na głos komentuje kolejność czynności, żeby Wahan nauczył się strukturalnie (kiedyś w M2 dojdzie do oglądu z bliska, w M3 samodzielnie).
+Wasyl dziś nie wchodzi do warsztatu (M1 nie ma uprawnienia), ale stoi za przeszklonymi drzwiami obserwacyjnie. Mykoła pracuje sam, na głos komentuje kolejność czynności, żeby Wasyl nauczył się strukturalnie (kiedyś w M2 dojdzie do oglądu z bliska, w M3 samodzielnie).
 
 ### 9:47, wyposażenie warsztatu
 
-Rustam robi szybki inwentarz wyposażenia (standard EGIDA, sprawdzany przy każdym wejściu przed pracą):
+Mykoła robi szybki inwentarz wyposażenia (standard EGIDA, sprawdzany przy każdym wejściu przed pracą):
 
 1. **Zgrzewarka taśm Wood-Mizer BMS-250**, model 2018, na stoisku roboczym, zasilanie 400 V trójfazowe, moc transformatora 15 kVA, maksymalna szerokość taśmy 50 mm (LT70 używa 38, mieści się). Licznik zgrzewów na panelu: **2847** (od zakupu w 2018, średnio 570 zgrzewów rocznie). Nr katalogowy producenta W-BMS250-2018.
 2. **Brusek dwustopniowy** do szlifowania zgrzewów, płyta górna zgrubna (ziarno P80), płyta dolna wykańczająca (P240), nr katalogowy W-GR-80/240.
@@ -31,16 +31,16 @@ Rustam robi szybki inwentarz wyposażenia (standard EGIDA, sprawdzany przy każd
 10. **Etykiety klejące** A6 do oznaczania gotowych taśm (nalepka: typ, data zgrzewania, operator, licznik na ostrzarce do wdrożenia).
 11. **Instrukcja zgrzewania LT70** Wood-Mizer oryginalna (po polsku, wydana 2020, obowiązuje, 14 stron, w foliowej koszulce przy zgrzewarce).
 
-Rustam sprawdza zasilanie: panel na ścianie, pomarańczowa LED „ready", zielona LED „cool" (urządzenie nie jest jeszcze nagrzane, dojście do temperatury zgrzewania 15 minut). Przełącza włącznik „ON", pomarańczowa mruga, w 15 minut zajaśnieje stała.
+Mykoła sprawdza zasilanie: panel na ścianie, pomarańczowa LED „ready", zielona LED „cool" (urządzenie nie jest jeszcze nagrzane, dojście do temperatury zgrzewania 15 minut). Przełącza włącznik „ON", pomarańczowa mruga, w 15 minut zajaśnieje stała.
 
 ### 10:02, odmierzenie i cięcie pierwszej taśmy
 
 Długość taśmy do pilarki LT70: wynika z **obwodu dwóch kół napinających**. Dla LT70 (koła Ø 483 mm każde, osie oddalone 1610 mm) obwód taśmy wynosi około **5 m 380 mm** (dla napięcia roboczego 2200 PSI). Norma Wood-Mizer: **5,40 m ±10 mm** (plus-minus centymetr dopuszczalne). Krótsza taśma nie spięcie na kołach z napięciem pełnym, dłuższa nie daje napięcia 2200 PSI (wózek naprężacza ma ograniczony skok).
 
-Rustam bierze z rolki **stopową 38/7-8 kąt 10°** (pierwsza, dziś robimy typowe taśmy do sosny). Odmierza na stole:
+Mykoła bierze z rolki **stopową 38/7-8 kąt 10°** (pierwsza, dziś robimy typowe taśmy do sosny). Odmierza na stole:
 
 1. Zahacza początek taśmy na lewym uchwycie stołu (magnetyczny trzymak, taśma stalowa przyczepia się).
-2. Rozwija rolką w prawo, ręcznie. Taśma jest zwinięta w rolce pod napięciem, wyskakuje gwałtownie, Rustam trzyma w grubych rękawicach skórzanych (BHP, taśma ma zęby, tnie palec przy nieostrożności).
+2. Rozwija rolką w prawo, ręcznie. Taśma jest zwinięta w rolce pod napięciem, wyskakuje gwałtownie, Mykoła trzyma w grubych rękawicach skórzanych (BHP, taśma ma zęby, tnie palec przy nieostrożności).
 3. Mierzy miarką stalową 5-metrową (dwie sztuki, zachodzące), oznacza markerem białym miejsce cięcia przy **5,40 m**.
 4. Dodatkowo odcinek kontrolny **+20 mm** do cięcia (bo piła tarczowa zabiera 2-3 mm, plus marża na czystość końca).
 5. Cięcie piłą tarczową HSS: taśma ułożona na stole, piła w ręku, cięcie prostopadłe pod kątem 90° (ważne, żeby końce były równoległe do siebie po zgrzewaniu).
@@ -55,7 +55,7 @@ Końce taśmy są fabrycznie ostre (zęby i krawędź), ale nie są czyste. Prze
 2. **Acetone na bawełnianym waciku**, przetarcie tej samej części ~3 cm. Usuwa tłuszcz, który szczotka nie zdjęła. Acetone odparowuje w 20-30 sekund, bez pozostałości. **Uwaga BHP**: acetone w otwartym pojemniku tylko na krótko, rękawice nitrylowe (nie lateks, acetone lateks rozpuszcza), hala ma wentylację plus ATEX strefa 22, więc otwarty płomień (np. papieros) w tej samej zmianie byłby zakazany przed zamkniętą butelką.
 3. **Suszenie 30 sekund** w powietrzu, żeby resztki acetonu odparowały zanim taśma pójdzie do zgrzewarki.
 
-Rustam robi to z metodyczną uważnością. Od wielu lat uczy się, że **jakość zgrzewu zaczyna się na szczotce stalowej**. Tartak w Rumunii, gdzie pracował przed Polską, miał zasadę „szczotka tak długo jak widzisz gołe szorstkie metalowe lico bez żadnego matowego filmu", i ta zasada przeszła z Rustamem.
+Mykoła robi to z metodyczną uważnością. Od wielu lat uczy się, że **jakość zgrzewu zaczyna się na szczotce stalowej**. Tartak w Rumunii, gdzie pracował przed Polską, miał zasadę „szczotka tak długo jak widzisz gołe szorstkie metalowe lico bez żadnego matowego filmu", i ta zasada przeszła z Mykołą.
 
 ### 10:11, ustawienie w szczękach zgrzewarki
 
@@ -70,7 +70,7 @@ Zgrzewarka Wood-Mizer BMS-250 ma panel górny z:
 - **LED zielona** (ready, gotowa do zgrzewania)
 - **LED czerwona** (błąd, przerwany cykl, przegrzanie transformatora)
 
-Rustam ustawia:
+Mykoła ustawia:
 - **Prąd: 9 kA** (środek zakresu 8-10 dla taśm 38 × 1,07 stopowych)
 - **Czas: 1,8 s** (standard Wood-Mizer dla tej grubości)
 - **Nacisk: 70 kg** (ustawiany dźwignią mechaniczną, wagą sprężynową EGIDA weryfikuje, widzi 68-72 kg, akceptowalne)
@@ -82,11 +82,11 @@ Umieszczenie końców taśmy w szczękach:
 4. Sprawdzenie styku końców: powinien być **metal do metalu bez szczeliny, bez zachodzenia**. Jeżeli jest szczelina 0,1 mm, w zgrzewie będzie dziura (rozerwie się przy pierwszym napięciu). Jeżeli zachodzi, prawy na lewym, zgrzew będzie grubszy w tym miejscu (trzeba przeszlifować mocniej). Optimum: końce się dotykają płaszczyzna w płaszczyznę, widocznie prostopadle.
 5. Dźwignia prawą szczęką w dół.
 
-Rustam sprawdza wzrokowo. Styk pięknie prostopadły, szczelina niewidoczna. **OK**.
+Mykoła sprawdza wzrokowo. Styk pięknie prostopadły, szczelina niewidoczna. **OK**.
 
 ### 10:15, cykl zgrzewania
 
-Rustam wycofuje się z ramienia zgrzewarki (BHP, zgrzew jest bardzo jasny, wymagane okulary ochronne DIN 5 albo DIN 6, Rustam ma DIN 5 na czole opuszczane w moment startu).
+Mykoła wycofuje się z ramienia zgrzewarki (BHP, zgrzew jest bardzo jasny, wymagane okulary ochronne DIN 5 albo DIN 6, Mykoła ma DIN 5 na czole opuszczane w moment startu).
 
 - **Okulary opuszczone** (zielone szyby, filtr jasności).
 - **Ręka na przycisku start cyklu.**
@@ -100,7 +100,7 @@ Cykl automatyczny:
 - **2,1-4,0 s**: stydzenie pod ciśnieniem 2 sekundy (ważne, pod ciśnieniem krzepnie równomiernie, bez porów).
 - **4,0 s**: nacisk zwolniony, cykl zakończony, LED zielona błyska.
 
-Rustam widzi przez okulary silny biały błysk (krótki, 1-2 s), sklejony styk staje się czerwony, potem ciemnoczerwony, potem czarny metaliczny. Zgrzewarka buczy typowym niskim tonem 50 Hz z prądu spawalniczego. Wahan z drugiej strony drzwi widzi błysk przez osłonę i lekko mruży oczy (okulary ochronne Wahan założył również, BHP w warsztacie dla obserwatora przez przeszklone drzwi nie wymagane ale EGIDA wymaga dla oswajania z procedurą).
+Mykoła widzi przez okulary silny biały błysk (krótki, 1-2 s), sklejony styk staje się czerwony, potem ciemnoczerwony, potem czarny metaliczny. Zgrzewarka buczy typowym niskim tonem 50 Hz z prądu spawalniczego. Wasyl z drugiej strony drzwi widzi błysk przez osłonę i lekko mruży oczy (okulary ochronne Wasyl założył również, BHP w warsztacie dla obserwatora przez przeszklone drzwi nie wymagane ale EGIDA wymaga dla oswajania z procedurą).
 
 ### 10:16, chłodzenie naturalne
 
@@ -108,15 +108,15 @@ Po zgrzewie taśma w szczękach, **nie wolno jej wyjmować od razu**. Materiał 
 
 Procedura EGIDA: **czekaj 60-90 sekund z taśmą w szczękach**, pozwól na wyrównanie temperatury z otoczeniem. Potem luzuj szczęki ostrożnie, wyciągnij taśmę do kolejnego etapu.
 
-Rustam czeka. Stoi przy zgrzewarce, patrzy na termometr na ścianie (22°C hala), myśli o jutrzejszym zleceniu. Wahan zagląda przez drzwi, Rustam kiwa palcem na „poczekaj". Wahan kiwa, **dobra robota z procedurą**.
+Mykoła czeka. Stoi przy zgrzewarce, patrzy na termometr na ścianie (22°C hala), myśli o jutrzejszym zleceniu. Wasyl zagląda przez drzwi, Mykoła kiwa palcem na „poczekaj". Wasyl kiwa, **dobra robota z procedurą**.
 
-10:17, 75 sekund po zgrzewie. Rustam otwiera szczęki, wyciąga taśmę. Dotyka palcem w rękawicy zgrzewu, ciepły ale **nie gorący** (40-45°C). Przechodzi do szlifowania.
+10:17, 75 sekund po zgrzewie. Mykoła otwiera szczęki, wyciąga taśmę. Dotyka palcem w rękawicy zgrzewu, ciepły ale **nie gorący** (40-45°C). Przechodzi do szlifowania.
 
 ### 10:18, szlifowanie zgrzewu
 
 Zgrzew po zgrzewarce nie jest gładki. Przy styku powierzchni końców powstaje **„grat"** (lekko wybrzuszony materiał, typowo 0,5-1,0 mm ponad grubość taśmy), z obu stron płaskich taśmy. Gdyby taśmę z takim gratem założyć na pilarkę, **grat dotykałby prowadników** (klocki BG-UHMW-70 z l8 M3 T2) i szybko je zużywał, a sam grat byłby tępiony.
 
-Rustam bierze **brusek dwustopniowy**:
+Mykoła bierze **brusek dwustopniowy**:
 
 **Etap 1, gruby brusek P80** (kamień szlifierski ziarno 80, ręczny, ~10 cm płyta, 2-3 cm grubość, trzymana w dłoni):
 1. Położyć taśmę na stole, grzbietem do góry, zgrzew pod brusek.
@@ -131,15 +131,15 @@ Rustam bierze **brusek dwustopniowy**:
 4. Czas: 1-2 minuty każdej strony.
 
 **Etap 3, pomiar mikrometrem**:
-Rustam mierzy zgrzew (środek szerokości taśmy, trzymając mikrometr prostopadle). Pomiar 1: **1,08 mm**. Pomiar 2 w odległości 2 mm od pierwszego: **1,07 mm**. Pomiar 3: **1,06 mm**. Średnia **1,07 mm**, to grubość taśmy fabryczna. **OK**, zgrzew przeszlifowany równomiernie.
+Mykoła mierzy zgrzew (środek szerokości taśmy, trzymając mikrometr prostopadle). Pomiar 1: **1,08 mm**. Pomiar 2 w odległości 2 mm od pierwszego: **1,07 mm**. Pomiar 3: **1,06 mm**. Średnia **1,07 mm**, to grubość taśmy fabryczna. **OK**, zgrzew przeszlifowany równomiernie.
 
-Wahan pyta przez drzwi: *„Czemu mierzysz trzy razy?*" Rustam: *„Bo na 5 cm szerokości zgrzewu grubość może być różna. Jeżeli jedna strona zgrzewu jest 1,10 mm (za gruba), a druga 1,05 mm (za cienka), średnia 1,07 wydaje się OK, ale rzeczywiście mam nierówny zgrzew, który się ścina w cięciu. Muszę zobaczyć wszystkie trzy punkty razem, nie tylko średnią."*
+Wasyl pyta przez drzwi: *„Czemu mierzysz trzy razy?*" Mykoła: *„Bo na 5 cm szerokości zgrzewu grubość może być różna. Jeżeli jedna strona zgrzewu jest 1,10 mm (za gruba), a druga 1,05 mm (za cienka), średnia 1,07 wydaje się OK, ale rzeczywiście mam nierówny zgrzew, który się ścina w cięciu. Muszę zobaczyć wszystkie trzy punkty razem, nie tylko średnią."*
 
 Tolerancja EGIDA dla zgrzewu: **1,07 ±0,03 mm** w każdym z trzech punktów. Dla dzisiejszego zgrzewu wszystkie trzy w tolerancji (1,06 do 1,08), **OK**.
 
 ### 10:26, test wzrokowy i geometryczny
 
-Po szlifowaniu Rustam:
+Po szlifowaniu Mykoła:
 
 1. **Kładzie taśmę płasko na stole**, patrzy z perspektywy bocznej. Zgrzew powinien być **niewidoczny z perspektywy płaskiej** (czyli nie ma „garbu" ani „wgłębienia" w płaszczyźnie taśmy).
 2. **Patrzy z góry** na zgrzew, szukając mikropęknięć (najczęściej w centrum szerokości, wyraźne ciemne włosowe linie). Dla dobrego zgrzewu: jednolity matowy metaliczny szary, z drobnymi pręgami szlifu P240. Dla złego: widoczne pęknięcia radialne albo osiowe. Dzisiejszy zgrzew: **jednolity, OK**.
@@ -150,12 +150,12 @@ Jeżeli którykolwiek test **nie OK**, zgrzew idzie do kosza (rozcięcie i ponow
 
 ### 10:28, etykietowanie i magazyn
 
-Rustam bierze etykietę A6 klejącą, pisze:
+Mykoła bierze etykietę A6 klejącą, pisze:
 
 ```
 Typ: stopowa 38×1,07, podziałka 7/8, kąt 10°
 Nr: EGIDA-ST-77-2026-05-28
-Zgrzew: 2026-05-28, 10:15, Rustam Nazarov
+Zgrzew: 2026-05-28, 10:15, Mykoła Hrycenko
 Licznik po ostrzarce: 0 (zgrzana, nieostrzana jeszcze)
 Magazyn: warsztat taśm, półka 2
 ```
@@ -166,11 +166,11 @@ Licznik zgrzewarki: **2848** (2847 przed, +1 za ten).
 
 ### 10:35, taśma druga, powtórzenie
 
-Rustam powtarza cały cykl dla **drugiej taśmy**, też stopowa 38/7-8 kąt 10° (bo magazyn ma braki ten typ). Odmierzenie, cięcie, szczotka, acetone, ustawienie w szczękach, cykl zgrzewania (9 kA / 1,8 s / 70 kg), chłodzenie 75 s, szlifowanie P80/P240, pomiar mikrometrem (1,07/1,07/1,08), test gnięcia, etykieta, magazyn.
+Mykoła powtarza cały cykl dla **drugiej taśmy**, też stopowa 38/7-8 kąt 10° (bo magazyn ma braki ten typ). Odmierzenie, cięcie, szczotka, acetone, ustawienie w szczękach, cykl zgrzewania (9 kA / 1,8 s / 70 kg), chłodzenie 75 s, szlifowanie P80/P240, pomiar mikrometrem (1,07/1,07/1,08), test gnięcia, etykieta, magazyn.
 
-Czas: **17 minut** (bez wyposażenia rozruchowego, bez czekania na zgrzewarkę gotową). Druga taśma szybsza niż pierwsza, bo ruchy Rustama ustalone.
+Czas: **17 minut** (bez wyposażenia rozruchowego, bez czekania na zgrzewarkę gotową). Druga taśma szybsza niż pierwsza, bo ruchy Mykoły ustalone.
 
-10:52, warsztat taśm gotowy, **dwie nowe taśmy w magazynie**, zapas do zdrowego 4 sztuk. Rustam wyłącza zgrzewarkę (LED pomarańczowa gaśnie, zielona „cool" chwilowo), sprząta stół, wraca do hali do P3.
+10:52, warsztat taśm gotowy, **dwie nowe taśmy w magazynie**, zapas do zdrowego 4 sztuk. Mykoła wyłącza zgrzewarkę (LED pomarańczowa gaśnie, zielona „cool" chwilowo), sprząta stół, wraca do hali do P3.
 
 ## Cele
 
@@ -241,7 +241,7 @@ Zgrzew słaby (źle zrobiony) skraca życie taśmy. Statystyki EGIDA 2025 (47 zg
   - 1 pękł w 80 cięciach (zgrzew graniczny, trudno stwierdzić przyczynę, diagnoza Wood-Mizer nie wykryła)
   - 1 pękł w 130 cięciach (akceptowalne, blisko spodziewanej żywotności, nie jest to „słaby zgrzew")
 
-Próg akceptacji EGIDA: **max 10% odrzutu w pierwszej linii** (operator sam odrzuci źle zrobiony zgrzew na etapie testów). Jeżeli operator ma statystykę 15%+ odrzutu w kwartale, brygadzista zaprasza Rustama (albo Damiana) do Wood-Mizer Polska na dzień szkolenia (procedura w EGIDA z 2024 r.).
+Próg akceptacji EGIDA: **max 10% odrzutu w pierwszej linii** (operator sam odrzuci źle zrobiony zgrzew na etapie testów). Jeżeli operator ma statystykę 15%+ odrzutu w kwartale, brygadzista zaprasza Mykołę (albo Damiana) do Wood-Mizer Polska na dzień szkolenia (procedura w EGIDA z 2024 r.).
 
 Dla porównania, zgrzewy **z Wood-Mizer Polska** mają statystykę **>95% pełnego cyklu** (ok. 5% pęknięć). EGIDA ze swoją 91,5% jest niżej ale akceptowalnie, różnica wynika z doświadczenia i parku maszynowego zakładowego (BMS-250 EGIDA vs maszyny zakładowe WM Polska).
 
@@ -357,11 +357,11 @@ Naruszenie któregokolwiek z tych wymogów to **art. 211 pkt 2 Kodeksu pracy** (
 
 ## Scena domykająca, 11:00, test taśm na P3
 
-Rustam wraca z warsztatu do hali pilarek. W ręku **jedna z dwóch świeżo zgrzanych taśm**, druga zostaje w magazynie jako zapas. Pierwsza idzie **na P3 na test praktyczny** (bo nic nie zastąpi sprawdzenia w rzeczywistych warunkach cięcia, laboratoryjne testy są kontrolą, ale ostatnim testem jest cięcie).
+Mykoła wraca z warsztatu do hali pilarek. W ręku **jedna z dwóch świeżo zgrzanych taśm**, druga zostaje w magazynie jako zapas. Pierwsza idzie **na P3 na test praktyczny** (bo nic nie zastąpi sprawdzenia w rzeczywistych warunkach cięcia, laboratoryjne testy są kontrolą, ale ostatnim testem jest cięcie).
 
 ### 11:05, wymiana taśmy na P3
 
-P3 od rana pracuje z taśmą z wczoraj (stopowa 38/7-8, 130 cięć licznika, blisko końca cyklu, dobry moment na wymianę). Rustam procedurą z l6/l7:
+P3 od rana pracuje z taśmą z wczoraj (stopowa 38/7-8, 130 cięć licznika, blisko końca cyklu, dobry moment na wymianę). Mykoła procedurą z l6/l7:
 
 - LOTO (wyłącznik OFF, kłódka, tabliczka).
 - Luz napięcia (dźwignia w LUZ, manometr do 0).
@@ -378,48 +378,48 @@ Czas łącznie: **22 minuty**.
 
 ### 11:27, cięcie próbne
 
-Na łożu P3 leży mały kawałek sosny (odcinek dłużycy ~60 cm długości, 25 cm średnica, pozostał z ZLE-077 wczoraj, Rustam go zachował specjalnie na testy nowych taśm). Nie jest to cięcie „na zlecenie", to **test jakości zgrzewu w cięciu realnym**.
+Na łożu P3 leży mały kawałek sosny (odcinek dłużycy ~60 cm długości, 25 cm średnica, pozostał z ZLE-077 wczoraj, Mykoła go zachował specjalnie na testy nowych taśm). Nie jest to cięcie „na zlecenie", to **test jakości zgrzewu w cięciu realnym**.
 
-Prędkość posuwu: **30 stóp/min** (ostrożnie, żeby obserwować taśmę). Rustam uruchamia cięcie. Taśma idzie przez drewno, rzaz prosty, dźwięk silnika równy, żadnego „falowania". 60 cm cięcia, w 4 sekundy głowica wraca. Deska nr 1 w ręce, 28 × 155 mm grubości równomiernej (pomiar w 3 punktach: 27,8 / 28,0 / 28,2 mm), **w tolerancji**.
+Prędkość posuwu: **30 stóp/min** (ostrożnie, żeby obserwować taśmę). Mykoła uruchamia cięcie. Taśma idzie przez drewno, rzaz prosty, dźwięk silnika równy, żadnego „falowania". 60 cm cięcia, w 4 sekundy głowica wraca. Deska nr 1 w ręce, 28 × 155 mm grubości równomiernej (pomiar w 3 punktach: 27,8 / 28,0 / 28,2 mm), **w tolerancji**.
 
 Drugie cięcie, identyczna prędkość. Deska nr 2 w ręce, pomiar **28,0 / 28,1 / 28,0**. **OK**.
 
 Trzecie cięcie: sęk w środku pnia (widoczny od przodu), taśma przez niego idzie **bez rezystencji** widocznej (nie szarpnęło, dźwięk silnika nie zakłócony), rzaz w miejscu sęka **prosty**. Deska nr 3: **28,0 / 27,9 / 28,1**.
 
-**Test 3-cięciowy OK.** Taśma nadaje się do pracy produkcyjnej. Rustam zatrzymuje maszynę, idzie do biurka, wypełnia KDP-001 dla następnego zlecenia (jutro czwartek, plan zlecenia ZLE-2026-05-079 z brygadzisty Marka).
+**Test 3-cięciowy OK.** Taśma nadaje się do pracy produkcyjnej. Mykoła zatrzymuje maszynę, idzie do biurka, wypełnia KDP-001 dla następnego zlecenia (jutro czwartek, plan zlecenia ZLE-2026-05-079 z brygadzisty Marka).
 
 ### 11:40, wpis w dzienniku zgrzewarni
 
-Warsztat taśm ma **własny dziennik**, rejestr wszystkich zgrzewów (osobno od KKS-001 i KDP-001, dedykowany dokument warsztatu). Rustam wraca na minutę, wpisuje dwa wiersze:
+Warsztat taśm ma **własny dziennik**, rejestr wszystkich zgrzewów (osobno od KKS-001 i KDP-001, dedykowany dokument warsztatu). Mykoła wraca na minutę, wpisuje dwa wiersze:
 
 ```
-2026-05-28 10:15  EGIDA-ST-77  stopowa 38/7-8/10°  R.Nazarov  9kA/1,8s/70kg  1,07-1,07-1,08  3-cięcia-test OK
-2026-05-28 10:52  EGIDA-ST-78  stopowa 38/7-8/10°  R.Nazarov  9kA/1,8s/70kg  1,07-1,07-1,07  w magazynie, test po założeniu
+2026-05-28 10:15  EGIDA-ST-77  stopowa 38/7-8/10°  R.Hrycenko  9kA/1,8s/70kg  1,07-1,07-1,08  3-cięcia-test OK
+2026-05-28 10:52  EGIDA-ST-78  stopowa 38/7-8/10°  R.Hrycenko  9kA/1,8s/70kg  1,07-1,07-1,07  w magazynie, test po założeniu
 ```
 
 Dziennik retencja 5 lat papier plus skan OneDrive.
 
-### 11:45, refleksja Rustama z Wahanem
+### 11:45, refleksja Mykoły z Wasylem
 
-Wahan czekał cały czas na nowe zlecenie, patrzył przez drzwi warsztatu, zapisywał w kalendarzyku. Teraz czas na rozmowę kawową (11:45, krótka pauza, 15 minut).
+Wasyl czekał cały czas na nowe zlecenie, patrzył przez drzwi warsztatu, zapisywał w kalendarzyku. Teraz czas na rozmowę kawową (11:45, krótka pauza, 15 minut).
 
-Rustam: *„Wahan, co zapisałeś z tego, co widziałeś?"*
+Mykoła: *„Wasyl, co zapisałeś z tego, co widziałeś?"*
 
-Wahan czyta kalendarzyk: *„1. Szczotka + acetone + czekaj 30 s suszenie. 2. Ustaw w szczękach, sprawdź prostopadłość i zęby. 3. Prąd 9, czas 1,8, nacisk 70. 4. Start, błysk, czekaj 80 sekund. 5. Szlif P80, szlif P240, zmierz 3 punkty, test gnięcia. 6. Etykieta, magazyn."*
+Wasyl czyta kalendarzyk: *„1. Szczotka + acetone + czekaj 30 s suszenie. 2. Ustaw w szczękach, sprawdź prostopadłość i zęby. 3. Prąd 9, czas 1,8, nacisk 70. 4. Start, błysk, czekaj 80 sekund. 5. Szlif P80, szlif P240, zmierz 3 punkty, test gnięcia. 6. Etykieta, magazyn."*
 
 *„Dobrze. Jeszcze jedna rzecz, najważniejsza, której nie zauważyłeś."*
 
-Wahan myśli. *„Acetone BHP?"*
+Wasyl myśli. *„Acetone BHP?"*
 
 *„Nie, nawet nie to. **Robię wszystko powoli.** Nie pośpieszam się. Każdy krok ma swój czas. Widziałeś, jak się zatrzymałem między szczotką a acetone na 5 sekund? Sprawdzałem, czy szczotka rzeczywiście zdjęła wszystko, nie tylko zamachała po wierzchu. Widziałeś, jak patrzyłem na styk końców w szczękach przez 10 sekund? Patrzyłem, czy prostopadłe, czy zęby równolegle. Żadnego z tych 5-10 sekund nie zauważysz, ale **one są w statystyce zgrzewu: 91,5% dobrych vs 80% dobrych, jeżeli się pośpieszam**. Zgrzewanie to cierpliwość."*
 
-Wahan zapisuje: *„Cierpliwość. 5-10 sekund powolności = +10 punktów procentowych jakości."*
+Wasyl zapisuje: *„Cierpliwość. 5-10 sekund powolności = +10 punktów procentowych jakości."*
 
 *„I pamiętaj, że nie musisz umieć zgrzewać w M1 i M2. Ja też nauczyłem się dopiero w marcu 2026, po audycie kompetencyjnym. **Kompetencja rośnie z czasem i dyscypliną, nie z przyspieszeniem.**"*
 
 ### 12:00, zmiana kontynuuje
 
-Pozostała część zmiany na P3 idzie bez incydentu. Rustam kontynuuje drobne cięcia (resztki sosny z ostatnich pni ZLE-077), Wahan przy podajniku. Taśma świeżo zgrzana pracuje płynnie, rzazy proste, bez wahania. 15:00 koniec zmiany, Rustam sprząta stanowisko, KDP-001 wypełnione (sekcje 1-5), koperta do biurka brygadzisty. Dzień domknięty.
+Pozostała część zmiany na P3 idzie bez incydentu. Mykoła kontynuuje drobne cięcia (resztki sosny z ostatnich pni ZLE-077), Wasyl przy podajniku. Taśma świeżo zgrzana pracuje płynnie, rzazy proste, bez wahania. 15:00 koniec zmiany, Mykoła sprząta stanowisko, KDP-001 wypełnione (sekcje 1-5), koperta do biurka brygadzisty. Dzień domknięty.
 
 ## Kluczowe terminy
 

@@ -10,11 +10,11 @@ Lekcja wczorajsza (l3) dała ci fundament prawny: art. 100 § 1, art. 210 § 1 i
 
 Procedura nazywa się **„STOP – zabezpiecz – zgłoś – udokumentuj"**. Ma cztery kroki, zawsze w tej kolejności, nigdy na skróty. Każdy krok zajmuje sekundy albo pojedyncze minuty. Razem procedura zajmuje poniżej piętnastu minut od wykrycia zagrożenia do przekazania stanowiska przełożonemu.
 
-Dziś jest czwartek. Jest 11:14 rano. Rustam jest na pilarce P3 sam, bo Wahan został wczoraj po południu oddelegowany na szkolenie ŚOI w salce konferencyjnej i wróci po lunchu. Na P2 pięć metrów dalej pracuje Murat Kaya, turecki operator junior z kohorty M2, dzisiaj zastępuje Haia, bo Hai ma urlop. Rustam jedzie partię 54, trzecia dębowa partia w tym tygodniu.
+Dziś jest czwartek. Jest 11:14 rano. Mykoła jest na pilarce P3 sam, bo Wasyl został wczoraj po południu oddelegowany na szkolenie ŚOI w salce konferencyjnej i wróci po lunchu. Na P2 pięć metrów dalej pracuje Murat Kaya, turecki operator junior z kohorty M2, dzisiaj zastępuje Andrija, bo Andrij ma urlop. Mykoła jedzie partię 54, trzecia dębowa partia w tym tygodniu.
 
-O 11:14 w uchu Rustama coś nie gra. Słuch operatora, który pracuje przy pilarce taśmowej od siedmiu miesięcy, słyszy dźwięk maszyny jak muzyk słyszy akord. Akord dziś jest nieco fałszywy. Rustam nie wie jeszcze dlaczego, ale **wie że nie gra**. Za siedem minut Rustam wykona pełną procedurę STOP. Za dwadzieścia minut P3 będzie zabezpieczona, przełożony poinformowany, a w dzienniku maszyny będzie wpis o trzech linijkach. Za godzinę pracownik UR (utrzymania ruchu) potwierdzi: mikropęknięcie u podstawy zęba taśmy, dwa centymetry od zgrzewu, widoczne tylko przy świetle bocznym. Gdyby Rustam nie zatrzymał, taśma pękłaby w ciągu kolejnych dwóch godzin. Pęknięcie taśmy pilarki przy prędkości 32 m/s to realne zagrożenie, o którym uczyłeś się w M2 l5.
+O 11:14 w uchu Mykoły coś nie gra. Słuch operatora, który pracuje przy pilarce taśmowej od siedmiu miesięcy, słyszy dźwięk maszyny jak muzyk słyszy akord. Akord dziś jest nieco fałszywy. Mykoła nie wie jeszcze dlaczego, ale **wie że nie gra**. Za siedem minut Mykoła wykona pełną procedurę STOP. Za dwadzieścia minut P3 będzie zabezpieczona, przełożony poinformowany, a w dzienniku maszyny będzie wpis o trzech linijkach. Za godzinę pracownik UR (utrzymania ruchu) potwierdzi: mikropęknięcie u podstawy zęba taśmy, dwa centymetry od zgrzewu, widoczne tylko przy świetle bocznym. Gdyby Mykoła nie zatrzymał, taśma pękłaby w ciągu kolejnych dwóch godzin. Pęknięcie taśmy pilarki przy prędkości 32 m/s to realne zagrożenie, o którym uczyłeś się w M2 l5.
 
-Jak to się stało, że Rustam wiedział, co robić, chociaż mikropęknięcia nie widział własnym okiem? Na tym polega różnica między operatorem juniorem a operatorem samodzielnym.
+Jak to się stało, że Mykoła wiedział, co robić, chociaż mikropęknięcia nie widział własnym okiem? Na tym polega różnica między operatorem juniorem a operatorem samodzielnym.
 
 ## Cele
 
@@ -38,7 +38,7 @@ Kolejność jest sztywna, bo zmiana kolejności prowadzi do wypadku. Gdyby najpi
 Cztery kroki wyglądają tak:
 
 1. **STOP.** Zatrzymaj maszynę. Natychmiast. Zielony przycisk w dół, jeżeli cykl normalny. Czerwony albo awaryjny, jeżeli sytuacja ostra. Pięć sekund, nie więcej.
-2. **Zabezpiecz.** LOTO: wyłączyć zasilanie, odłączyć (główny łącznik w dół), zablokować łącznik kłódką albo nakładką, oznaczyć tabliczką „NIE WŁĄCZAĆ – prace kontrolne, Rustam Nazarov, 11:14". Sprawdzić, że maszyna naprawdę nie może się uruchomić.
+2. **Zabezpiecz.** LOTO: wyłączyć zasilanie, odłączyć (główny łącznik w dół), zablokować łącznik kłódką albo nakładką, oznaczyć tabliczką „NIE WŁĄCZAĆ – prace kontrolne, Mykoła Hrycenko, 11:14". Sprawdzić, że maszyna naprawdę nie może się uruchomić.
 3. **Zgłoś.** Zadzwoń do brygadzisty przez telefon wewnętrzny. Powiedz trzy rzeczy w jedno zdanie: co, kiedy, kto. „Marek, P3 zatrzymana, 11:14, wykryłem nietypowy dźwięk taśmy, czekam na UR."
 4. **Udokumentuj.** Otwórz dziennik maszyny. Wpisz: data i godzina, powód zatrzymania, aktualny stan partii, twoja ocena ryzyka. Trzy albo cztery linijki. Podpis.
 
@@ -62,7 +62,7 @@ STOP jest akt odruchowy, ale oparty na **diagnozie sensorycznej**. Operator samo
 
 **Kanał 5: obraz.** Dym, iskry, pył inaczej się kłębi niż zwykle, olej na podłodze, widoczne pęknięcie na elemencie konstrukcyjnym, plama, której wczoraj nie było. Oko jest zwykle **ostatnim** kanałem, bo wzrok operatora jest ustawiony na kłodę, nie na maszynę. Dlatego dobry operator samodzielny robi **wzrokową rundę** co dwie godziny: trzy kroki wokół maszyny, patrzy na to, co zwykle niewidoczne w cyklu pracy.
 
-Rustam dzisiaj użył **kanału 1**. Dźwięk taśmy o 11:14 miał mikrofragment niskiej częstotliwości, którego rano nie było. Rustam nie umiałby tego nazwać fizycznie. Ale **usłyszał różnicę** względem rana. Tyle wystarczyło.
+Mykoła dzisiaj użył **kanału 1**. Dźwięk taśmy o 11:14 miał mikrofragment niskiej częstotliwości, którego rano nie było. Mykoła nie umiałby tego nazwać fizycznie. Ale **usłyszał różnicę** względem rana. Tyle wystarczyło.
 
 ### Krok 2: zabezpiecz (LOTO)
 
@@ -90,9 +90,9 @@ Zgłoszenie ma wymagany format, który brygadzista rozpoznaje w dwóch sekundach
 2. **Kiedy** (dokładna godzina, nie „przed chwilą").
 3. **Kto** (twoje imię, jeżeli telefon wewnętrzny, gdzie brygadzista nie widzi numeru).
 
-Rustam o 11:14 zadzwonił do Marka na pulpit P1:
+Mykoła o 11:14 zadzwonił do Marka na pulpit P1:
 
-> **Rustam:** „Marek, P3 zatrzymana, 11:14, dźwięk taśmy odbiegający od normy, zablokowana LOTO, Rustam."
+> **Mykoła:** „Marek, P3 zatrzymana, 11:14, dźwięk taśmy odbiegający od normy, zablokowana LOTO, Mykoła."
 
 Osiemnaście słów. Marek wie wszystko, co potrzebuje, żeby zadecydować. Marek w tej chwili decyduje, czy iść do P3 osobiście, czy dzwonić do UR, czy jedno i drugie. Decyzja należy do niego, twoje zgłoszenie nie jest prośbą o radę, jest **przekazaniem zdarzenia przełożonemu** zgodnie z art. 211 pkt 6 KP („niezwłocznie zawiadomić przełożonego o zauważonym zagrożeniu").
 
@@ -109,11 +109,11 @@ Format trzech elementów („co – kiedy – kto") jest standardem **także** w
 
 ### Krok 4: udokumentuj
 
-Dziennik maszyny. Tablet przy P3. Otwierasz tryb wpisu. Pól do uzupełnienia jest kilka, ale treść formalnie wymagana to trzy do czterech linijek. Rustam o 11:16 wpisał:
+Dziennik maszyny. Tablet przy P3. Otwierasz tryb wpisu. Pól do uzupełnienia jest kilka, ale treść formalnie wymagana to trzy do czterech linijek. Mykoła o 11:16 wpisał:
 
-> **11:14. STOP P3. Powód: nietypowy dźwięk taśmy w partii 54, kłoda 8 z 22. Podjrzenie ryzyka dla taśmy i operatora. LOTO założona, kłódka K-042, tabliczka R.Nazarov 11:14. Brygadzista M.Kowalski zawiadomiony 11:15, UR wezwane 11:16. Bez urazu, bez uszkodzenia tarcicy. Partia 54 wstrzymana, kłoda 8 zamknięta.**
+> **11:14. STOP P3. Powód: nietypowy dźwięk taśmy w partii 54, kłoda 8 z 22. Podjrzenie ryzyka dla taśmy i operatora. LOTO założona, kłódka K-042, tabliczka R.Hrycenko 11:14. Brygadzista M.Kowalski zawiadomiony 11:15, UR wezwane 11:16. Bez urazu, bez uszkodzenia tarcicy. Partia 54 wstrzymana, kłoda 8 zamknięta.**
 
-Sześć linijek, sześćdziesiąt słów. Zwięźle. Fakty w liczbach, godziny dokładne, oznaczenia sprzętu (K-042 to numer kłódki LOTO). Rustam **nie** zdiagnozował przyczyny („chyba mikropęknięcie") – to zostawił UR. Rustam **zapisał** obserwację („nietypowy dźwięk") i **własne podejrzenie ryzyka**. Różnica jest ważna prawnie.
+Sześć linijek, sześćdziesiąt słów. Zwięźle. Fakty w liczbach, godziny dokładne, oznaczenia sprzętu (K-042 to numer kłódki LOTO). Mykoła **nie** zdiagnozował przyczyny („chyba mikropęknięcie") – to zostawił UR. Mykoła **zapisał** obserwację („nietypowy dźwięk") i **własne podejrzenie ryzyka**. Różnica jest ważna prawnie.
 
 ::: info
 Dziennik maszyny w polskim tartaku zgodnym z PN-EN ISO 9001 ma status **dokumentu zakładowego** o retencji 5 lat. Twój wpis jest czytany przez: (a) brygadzistę w kolejnych dniach, (b) mistrza zmiany tygodniowo, (c) audytora FSC raz w roku, (d) inspektora PIP przy kontroli (zwykle raz na 2–3 lata), (e) prawnika zakładu jeżeli dojdzie do sporu. Piąty czytelnik jest najmniej prawdopodobny, ale najbardziej wymagający co do precyzji. Piszesz dla niego, a nie dla pozostałych czterech.
@@ -121,7 +121,7 @@ Dziennik maszyny w polskim tartaku zgodnym z PN-EN ISO 9001 ma status **dokument
 
 ### Art. 234 KP: STOP jako „wypadek bez-wypadku"
 
-Gdy STOP zakończy się bez wypadku (tak jak u Rustama dziś), w języku polskiego prawa pracy to jest **„zdarzenie bliskie wypadkowi"** albo „near miss". Art. 234 Kodeksu pracy mówi:
+Gdy STOP zakończy się bez wypadku (tak jak u Mykoły dziś), w języku polskiego prawa pracy to jest **„zdarzenie bliskie wypadkowi"** albo „near miss". Art. 234 Kodeksu pracy mówi:
 
 > „W razie wypadku przy pracy pracodawca jest obowiązany podjąć niezbędne działania eliminujące lub ograniczające zagrożenie, zapewnić udzielenie pierwszej pomocy osobom poszkodowanym i ustalenie w przewidzianym trybie okoliczności i przyczyn wypadku oraz zastosować odpowiednie środki zapobiegające podobnym wypadkom."
 
@@ -133,11 +133,11 @@ W praktyce: EGIDA prowadzi rejestr near miss w programie elektronicznym („Reje
 
 STOP w procedurze „STOP – zabezpiecz – zgłoś – udokumentuj" jest zawsze ten sam operacyjnie, ale prawnie różni się zależnie od sytuacji. Trzy najczęstsze w tartaku:
 
-**Scenariusz A: maszyna nietypowa (dziś u Rustama).**
+**Scenariusz A: maszyna nietypowa (dziś u Mykoły).**
 Sygnał sensoryczny – dźwięk, zapach, drganie, temperatura, obraz. Zatrzymanie jest decyzją operatora. Podstawa prawna: art. 211 pkt 3 (dbałość o stan maszyn) i pkt 6 (zawiadomienie o zagrożeniu). Po udokumentowaniu brygadzista wzywa UR, UR diagnozuje, decyduje o wymianie elementu, partia wznawiana albo zamykana. Notatka służbowa zwykle niepotrzebna, spór nie powstaje.
 
 **Scenariusz B: polecenie brygadzisty sprzeczne z BHP (jak scena hipotetyczna z l3).**
-Sygnał: polecenie, które łamie instrukcję stanowiskową albo narusza BHP. Zatrzymanie maszyny jest aktem skorzystania z art. 210 § 1 KP. Podstawa prawna: art. 210 § 1 (prawo odmowy) + art. 211 pkt 6 (zawiadomienie). Po zatrzymaniu operator rozmawia z brygadzistą (jak Rustam we środę o 8:42) albo, jeżeli rozmowa nie skutkuje, spisuje notatkę służbową (l3). Konflikt eskaluje do mistrza zmiany.
+Sygnał: polecenie, które łamie instrukcję stanowiskową albo narusza BHP. Zatrzymanie maszyny jest aktem skorzystania z art. 210 § 1 KP. Podstawa prawna: art. 210 § 1 (prawo odmowy) + art. 211 pkt 6 (zawiadomienie). Po zatrzymaniu operator rozmawia z brygadzistą (jak Mykoła we środę o 8:42) albo, jeżeli rozmowa nie skutkuje, spisuje notatkę służbową (l3). Konflikt eskaluje do mistrza zmiany.
 
 **Scenariusz C: zdarzenie zewnętrzne (za chwilę w l5).**
 Sygnał: wypadek kolegi na sąsiednim stanowisku, pożar, osoba obca w strefie niebezpiecznej, awaria zasilania hali. STOP twojej maszyny jest pierwszym odruchem, zanim pobiegniesz pomóc. Podstawa prawna: art. 209 § 1 KP (działanie bez porozumienia z przełożonym w bezpośrednim zagrożeniu) + art. 211 pkt 6 (zawiadomienie). Procedura po STOP przesuwa się na tryb incydentu, o którym lekcja piątkowa (l5).
@@ -158,11 +158,11 @@ Nie wpadaj w odwrotną pułapkę: **świadome zaniechanie STOP**, bo nie chcesz 
 
 ### Czas reakcji: zegar od dźwięku do wpisu
 
-W dobrze prowadzonym tartaku, cała procedura „STOP – zabezpiecz – zgłoś – udokumentuj" trwa od wykrycia do zakończenia wpisu **poniżej piętnastu minut**. Rozpis Rustama dzisiaj:
+W dobrze prowadzonym tartaku, cała procedura „STOP – zabezpiecz – zgłoś – udokumentuj" trwa od wykrycia do zakończenia wpisu **poniżej piętnastu minut**. Rozpis Mykoły dzisiaj:
 
 | Godzina | Krok | Co się stało |
 |---------|------|--------------|
-| 11:14:00 | Sygnał | Rustam słyszy nietypowy dźwięk taśmy |
+| 11:14:00 | Sygnał | Mykoła słyszy nietypowy dźwięk taśmy |
 | 11:14:06 | STOP | Zielony przycisk w dół, taśma się zatrzymuje |
 | 11:14:12 | Stop pełny | Taśma na zerze, pilarka w stanie pauzy |
 | 11:14:40 | Odłącz | Wyłącznik serwisowy w pozycji WYŁ |
@@ -173,29 +173,29 @@ W dobrze prowadzonym tartaku, cała procedura „STOP – zabezpiecz – zgłoś
 | 11:15:52 | Zgłoszenie zakończone | Marek zapowiada wezwanie UR |
 | 11:16:10 | Otwarcie dziennika | Tablet w ręku, tryb wpisu |
 | 11:17:30 | Wpis gotowy | Sześć linijek, podpis elektroniczny |
-| 11:18:00 | Procedura domknięta | Rustam czeka na UR, odchodzi 3 metry od maszyny |
+| 11:18:00 | Procedura domknięta | Mykoła czeka na UR, odchodzi 3 metry od maszyny |
 
 Cztery minuty od sygnału do zakończenia wpisu. W sytuacji ostrej (pożar, awaria elektryczna) procedura się skraca, dokumentacja przesuwa się na **po** rozwiązaniu zagrożenia. W sytuacji spokojnej (jak dzisiaj) cztery minuty jest średnią dla operatora samodzielnego po trzech miesiącach praktyki.
 
 W pierwszym miesiącu M3 twój zegar pokaże prawdopodobnie sześć do ośmiu minut. Nie martw się. Szybkość przychodzi z powtórzeń, a powtórzeń nie ma dużo (w EGIDA średnio dwa STOP-y na operatora na miesiąc). Ważniejsza od szybkości jest **sekwencja**. Jedna pomylona kolejność zamienia procedurę w ruletkę.
 
-### Wahan wraca, UR przyjeżdża
+### Wasyl wraca, UR przyjeżdża
 
-O 11:22 do hali wchodzi Mariusz z UR. Mariusz pracuje w EGIDA od 2011 roku, zna każdą pilarkę imiennie. Wita się z Rustamem, sprawdza tabliczkę LOTO, czyta wpis w dzienniku, kiwa głową:
+O 11:22 do hali wchodzi Mariusz z UR. Mariusz pracuje w EGIDA od 2011 roku, zna każdą pilarkę imiennie. Wita się z Mykołą, sprawdza tabliczkę LOTO, czyta wpis w dzienniku, kiwa głową:
 
 > **Mariusz:** „Dobra, popatrzmy. Zdejmę osłonę. Ty zostań trzy metry z tyłu, obserwuj. Jak cokolwiek powiem, nie ruszasz się w tę stronę."
 
-Mariusz zdejmuje górną osłonę napędu, wyjmuje taśmę z koła, układa ją na stole regulacyjnym. Bierze lampę boczną LED, świeci pod kątem 15 stopni na krawędź taśmy. Rustam patrzy z trzech metrów. Mariusz szybko, po czterdziestu sekundach:
+Mariusz zdejmuje górną osłonę napędu, wyjmuje taśmę z koła, układa ją na stole regulacyjnym. Bierze lampę boczną LED, świeci pod kątem 15 stopni na krawędź taśmy. Mykoła patrzy z trzech metrów. Mariusz szybko, po czterdziestu sekundach:
 
 > **Mariusz:** „Masz. Tutaj, dwa centymetry od zgrzewu. Widzisz linię? Mikropęknięcie u podstawy zęba, około 1,2 mm. Gdyby poszło jeszcze godzinę, taśma pękłaby. Przy prędkości 32 m/s to dwa kilometry taśmy w powietrzu w ułamku sekundy. Zrobiłeś dobrze."
 
-Rustam wypuszcza powietrze. Nie uśmiecha się, nie komentuje, kiwa głową. Mariusz wyciąga z torby nową taśmę (EGIDA trzyma zapas na regale przy UR), montuje, zgrzewa, szlifuje zgrzew, napina (2350 PSI, w zakresie 2200–2400), ustawia prowadnice (3,5 mm). Cała wymiana zajmuje 18 minut. O 11:41 maszyna jest gotowa do ponownego uruchomienia.
+Mykoła wypuszcza powietrze. Nie uśmiecha się, nie komentuje, kiwa głową. Mariusz wyciąga z torby nową taśmę (EGIDA trzyma zapas na regale przy UR), montuje, zgrzewa, szlifuje zgrzew, napina (2350 PSI, w zakresie 2200–2400), ustawia prowadnice (3,5 mm). Cała wymiana zajmuje 18 minut. O 11:41 maszyna jest gotowa do ponownego uruchomienia.
 
 Marek przychodzi o 11:42, czyta wpis w dzienniku, zadaje Mariuszowi jedno pytanie („mogło się stać wcześniej?"), Mariusz odpowiada („nie, pęknięcie świeże, pewnie od wczoraj wieczorem, taśma była na tej maszynie 40 godzin pracy"). Marek kiwa, zdejmuje kłódkę LOTO, wpisuje w dzienniku:
 
-> **11:42. Wymiana taśmy wykonana przez UR (M.Jankowski). Weryfikacja POZYTYWNA: mikropęknięcie u podstawy zęba, 2 cm od zgrzewu, 1,2 mm. Operator Rustam Nazarov rozpoznał sygnał akustyczny i podjął procedurę STOP w trybie zapobiegawczym. Decyzja zasadna. Partia 54 wznowiona, kłoda 8 kontynuowana.**
+> **11:42. Wymiana taśmy wykonana przez UR (M.Jankowski). Weryfikacja POZYTYWNA: mikropęknięcie u podstawy zęba, 2 cm od zgrzewu, 1,2 mm. Operator Mykoła Hrycenko rozpoznał sygnał akustyczny i podjął procedurę STOP w trybie zapobiegawczym. Decyzja zasadna. Partia 54 wznowiona, kłoda 8 kontynuowana.**
 
-Marek podpisuje. Rustam uruchamia maszynę, nowa taśma, partia 54 idzie dalej. Wahan wraca ze szkolenia o 13:30, podejmuje swoje stanowisko na rampie, nic nie słyszał o STOP-ie (Rustam opowie mu wieczorem). Hai wróci z urlopu w poniedziałek, zobaczy wpis w dzienniku, zapyta Rustama o szczegóły.
+Marek podpisuje. Mykoła uruchamia maszynę, nowa taśma, partia 54 idzie dalej. Wasyl wraca ze szkolenia o 13:30, podejmuje swoje stanowisko na rampie, nic nie słyszał o STOP-ie (Mykoła opowie mu wieczorem). Andrij wróci z urlopu w poniedziałek, zobaczy wpis w dzienniku, zapyta Mykołę o szczegóły.
 
 ::: example
 Zwróć uwagę na wpis Marka (linijka o 11:42). Marek użył **trzech rzeczy**, które mają wartość w dalszej analizie zdarzenia. Po pierwsze, **sygnatura drugiego pracownika** (M.Jankowski z UR) – to jest dowód, że diagnozę wykonał ktoś uprawniony, nie operator. Po drugie, **parametry techniczne** (2 cm od zgrzewu, 1,2 mm) – dane mierzalne, które pójdą do analizy kwartalnej awarii taśm. Po trzecie, **ocena decyzji operatora** („decyzja zasadna") – to jest pochwała w dokumencie, nie w rozmowie. W polskim tartaku pochwała w dokumencie idzie do akt osobowych, wpływa na roczną ocenę pracowniczą i na premię końcoworoczną. Chwalenie operatora za dobrą decyzję jest równie ważne, jak karanie za złą. Marek o tym wie.
@@ -224,7 +224,7 @@ Procedura „STOP – zabezpiecz – zgłoś – udokumentuj" to cztery kroki w 
 
 Art. 234 KP traktuje zdarzenia bliskie wypadkowi jako materiał do prewencji, twój wpis w dzienniku jest pierwszym krokiem analizy.
 
-Rustam dzisiaj rozpoznał sygnał akustyczny, wykonał procedurę w cztery minuty, UR potwierdziło mikropęknięcie taśmy, Marek zapisał pochwałę w dokumentacji. Cały cykl od dźwięku do powrotu do produkcji zajął 28 minut.
+Mykoła dzisiaj rozpoznał sygnał akustyczny, wykonał procedurę w cztery minuty, UR potwierdziło mikropęknięcie taśmy, Marek zapisał pochwałę w dokumentacji. Cały cykl od dźwięku do powrotu do produkcji zajął 28 minut.
 
 Jutro, w l5, zobaczysz inny rodzaj STOP-u: zdarzenie zewnętrzne, wypadek na sąsiednim stanowisku. Tam procedura się rozszerza o pierwszą pomoc, wezwanie służb zewnętrznych, zabezpieczenie dowodów do protokołu powypadkowego. Fundament pozostaje ten sam: STOP własnej maszyny zanim pobiegniesz pomóc.
 
@@ -304,7 +304,7 @@ Napisz własny wpis do dziennika maszyny (pięć do siedmiu linijek) dla hipotet
 
 Przez najbliższe trzy dni w twoim tartaku:
 
-- Zmierz **czas reakcji** od sygnału do zakończenia wpisu w dzienniku, jeżeli wykonasz procedurę STOP (licz na zegarku). Jeżeli STOP-u nie będzie, wykonaj „próbną" wizualizację: wyobraź sobie sygnał o 9:00 rano i zapisz w zeszycie, o której wykonałbyś każdy z czterech kroków. Porównaj z rozpisem Rustama (cztery minuty).
+- Zmierz **czas reakcji** od sygnału do zakończenia wpisu w dzienniku, jeżeli wykonasz procedurę STOP (licz na zegarku). Jeżeli STOP-u nie będzie, wykonaj „próbną" wizualizację: wyobraź sobie sygnał o 9:00 rano i zapisz w zeszycie, o której wykonałbyś każdy z czterech kroków. Porównaj z rozpisem Mykoły (cztery minuty).
 - Sprawdź, czy masz **własną kłódkę LOTO** z imieniem. Jeżeli tak, policz oczka w nakładce, żebyś wiedział, ile kłódek jednocześnie może być założonych (w EGIDA standardem jest sześcioklapkowa nakładka, czyli sześć osób może jednocześnie zablokować maszynę przy wspólnej pracy serwisowej).
 - Przeczytaj na karcie stanowiskowej obok twojej pilarki **listę numerów zgłoszeniowych** (brygadzista, mistrz zmiany, kierownik produkcji, UR). Wypisz je w swoim zeszycie. Jeżeli telefon wewnętrzny jest zepsuty, sprawdź u Marka, jak się dzwoni z telefonu komórkowego.
 - W następnej rozmowie z Markiem zapytaj o **cotygodniowy przegląd near miss**. Poproś, żeby ci pokazał rejestr. Zobaczysz, ile zdarzeń w zeszłym tygodniu rozpoznano i co z nimi zrobiono. Rejestr jest kulturą zakładu w widoku surowym.
@@ -313,9 +313,9 @@ Jutro w l5 zobaczysz procedurę STOP w sytuacji wypadku kolegi. Dzisiaj procedur
 
 ## Notatki dla trenera
 
-- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele; 20 min cztery kroki procedury (rola-play na sucho, w parach, z zegarkiem); 15 min LOTO (demo z kłódką, tabliczką, próbą uruchomienia); 10 min pięć kanałów sensorycznych (każdy kursant przypomina jeden sygnał ze swojego zakładu); 20 min scena Rustama o 11:14 (czytanie, zatrzymanie przy rozpisie z zegarka, dyskusja „czy cztery minuty to realistyczne"); 15 min trzy scenariusze (A/B/C: maszyna, polecenie, zdarzenie zewnętrzne); 10 min fałszywe alarmy i art. 234 KP; 10 min Kluczowe terminy i podsumowanie; 10 min ćwiczenie własne (wpis w dzienniku dla hipotetycznej sytuacji).
+- **Rytm 120 min (proponowany):** 10 min Wprowadzenie + Cele; 20 min cztery kroki procedury (rola-play na sucho, w parach, z zegarkiem); 15 min LOTO (demo z kłódką, tabliczką, próbą uruchomienia); 10 min pięć kanałów sensorycznych (każdy kursant przypomina jeden sygnał ze swojego zakładu); 20 min scena Mykoły o 11:14 (czytanie, zatrzymanie przy rozpisie z zegarka, dyskusja „czy cztery minuty to realistyczne"); 15 min trzy scenariusze (A/B/C: maszyna, polecenie, zdarzenie zewnętrzne); 10 min fałszywe alarmy i art. 234 KP; 10 min Kluczowe terminy i podsumowanie; 10 min ćwiczenie własne (wpis w dzienniku dla hipotetycznej sytuacji).
 - **Pułapka pedagogiczna nr 1:** kursanci mogą traktować LOTO jako biurokrację i skracać procedurę („kłódka niepotrzebna, wyłącznik w dół wystarczy"). **Nie wystarczy.** W EGIDA w 2022 roku była próba uruchomienia maszyny przez pracownika zmiany nocnej, który nie wiedział o trwającej konserwacji. Wyłącznik był w pozycji WYŁ, ale bez kłódki. Pracownik próbował reset, uszkodził sterownik, koszt 18 000 zł. Opowiedz tę historię (nie ma imion, nie ma osobistego poszkodowanego, jest tylko strata finansowa). Kłódka to nie formalizm, to zamek na drzwiach.
-- **Pułapka pedagogiczna nr 2:** w scenie Rustama pada linijka: „taśma pękłaby w ciągu dwóch godzin". Niektórzy kursanci mogą zapytać, skąd Rustam to wiedział. **Nie wiedział.** To opinia Mariusza z UR, wyrażona ex post, na podstawie wielu lat doświadczenia. Rustam działał na intuicji dźwiękowej, nie na wiedzy o czasie do zerwania. Rozróżnienie jest ważne: operator **nie diagnozuje**, operator **rozpoznaje sygnał**. Diagnoza to rola UR albo mistrza zmiany.
+- **Pułapka pedagogiczna nr 2:** w scenie Mykoły pada linijka: „taśma pękłaby w ciągu dwóch godzin". Niektórzy kursanci mogą zapytać, skąd Mykoła to wiedział. **Nie wiedział.** To opinia Mariusza z UR, wyrażona ex post, na podstawie wielu lat doświadczenia. Mykoła działał na intuicji dźwiękowej, nie na wiedzy o czasie do zerwania. Rozróżnienie jest ważne: operator **nie diagnozuje**, operator **rozpoznaje sygnał**. Diagnoza to rola UR albo mistrza zmiany.
 - **Pułapka pedagogiczna nr 3:** sekcja „fałszywe alarmy" może być źle odczytana jako „zachęta do STOP-u bez powodu". **Nie jest.** Jest zachętą do STOP-u na bazie szczerej oceny, nawet jeżeli ocena okaże się ostrożniejsza niż rzeczywistość. Rozróżnienie od „paniki bez faktu" (wyrok SN II PSK 76/22 z l3): paniczny STOP bez żadnego sygnału obserwowalnego jest problematyczny, ostrożnościowy STOP przy sygnale, którego interpretacja jest niepewna, jest prawidłowy.
 - **Czas reakcji (cztery minuty):** jest to cel, nie norma. W praktyce pierwsze STOP-y w M3 mogą trwać 8–12 minut. Nie komentuj negatywnie. Cierpliwość procedury jest ważniejsza od szybkości. Szybkość przychodzi z dziesiątego STOP-u, nie z pierwszego.
 - **Różnica od M2 l5:** w M2 operator junior wykonywał STOP pod asystą. W M3 robi to sam. Różnica operacyjna niewielka (te same cztery kroki), różnica psychiczna duża (samotność decyzji). Poświęć moment na rozmowę o odczuciu „sam przy stojącej maszynie, słucham, co jej jest, a odpowiedź mogę dostać dopiero od UR". Normalizacja tego uczucia jest częścią dojrzewania operatora samodzielnego.

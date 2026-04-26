@@ -6,13 +6,13 @@ czas: 120
 
 ## Introduction
 
-Monday, 2026-04-27. Rustam arrives for his shift at 6:45, five minutes before everyone else. In the gatehouse he sees a *kartka* (card) pinned to the board: "P3, morning shift, campaign: American ash, 120 x 50, 2200 running metres". Rustam stops. He looks at the card a second time. A third time.
+Monday, 2026-04-27. Mykoła arrives for his shift at 6:45, five minutes before everyone else. In the gatehouse he sees a *kartka* (card) pinned to the board: "P3, morning shift, campaign: American ash, 120 x 50, 2200 running metres". Mykoła stops. He looks at the card a second time. A third time.
 
-American ash he has never cut before. Pine, oak, beech, spruce, alder, birch, larch, all of those he has done. European ash he has done once, in M2, under Marek's supervision. American ash (Latin name *Fraxinus americana*, also traded as "ash" or "white ash") is a wood that looks similar but has a different density, different transitions between early-wood and late-wood rings, different behaviour under the blade. People who had cut it for the first time told Rustam in the canteen that the band vibrates unusually and that the log cracks differently from its European cousin.
+American ash he has never cut before. Pine, oak, beech, spruce, alder, birch, larch, all of those he has done. European ash he has done once, in M2, under Marek's supervision. American ash (Latin name *Fraxinus americana*, also traded as "ash" or "white ash") is a wood that looks similar but has a different density, different transitions between early-wood and late-wood rings, different behaviour under the blade. People who had cut it for the first time told Mykoła in the canteen that the band vibrates unusually and that the log cracks differently from its European cousin.
 
-Rustam has two options. The first: switch the machine on at 7:00 and **learn on the job**, as some people put it. The second: spend fifteen minutes before he touches the red button on a **risk assessment**, a systematic think-through of what can go wrong and how to prevent it.
+Mykoła has two options. The first: switch the machine on at 7:00 and **learn on the job**, as some people put it. The second: spend fifteen minutes before he touches the red button on a **risk assessment**, a systematic think-through of what can go wrong and how to prevent it.
 
-In Rustam's previous sawmill, in Dushanbe, only option one existed. The old master used to say: "you do it, we will see what happens". At EGIDA, in M3, a self-reliant operator is expected to pick option two. Not as bureaucracy, but as a habit. Fifteen minutes before a new operation, hand on the card, three questions out loud (or in your head), entry into the risk assessment card, signature. Only after that, the red button.
+In Mykoła's previous sawmill, in Poltava, only option one existed. The old master used to say: "you do it, we will see what happens". At EGIDA, in M3, a self-reliant operator is expected to pick option two. Not as bureaucracy, but as a habit. Fifteen minutes before a new operation, hand on the card, three questions out loud (or in your head), entry into the risk assessment card, signature. Only after that, the red button.
 
 Today you will learn this habit. Three questions, one A5 form, five minutes of work as a minimum, fifteen minutes as a maximum. A tool that saves fingers, tendons and bands, and in the background maps onto a serious industry methodology that you can learn later if you go on to take an OSH inspector course.
 
@@ -49,9 +49,9 @@ You do not do a risk assessment before **every** log. That would be pointless: r
 
 Three triggers are mandatory at EGIDA M3:
 
-**Trigger 1: a new wood species.** Any species you have not cut **even once on this machine**. Rustam today has American ash, for the first time. American ash is heavier than European (density 670 kg/m³ versus 680 kg/m³ at dry state, but a different distribution across growth rings), harder across the section, with a different initial moisture content when imported across the Baltic.
+**Trigger 1: a new wood species.** Any species you have not cut **even once on this machine**. Mykoła today has American ash, for the first time. American ash is heavier than European (density 670 kg/m³ versus 680 kg/m³ at dry state, but a different distribution across growth rings), harder across the section, with a different initial moisture content when imported across the Baltic.
 
-**Trigger 2: a new dimension.** A trunk 30% longer than your standard, 30% thicker than your design diameter, or 30% shorter (because a short log behaves differently on the carriage). Rustam today has 2200 running metres in the batch, with an average log of 3.0 m, that is about 730 logs, no problem. But if the batch includes 4.2 m logs (30% longer than the typical 3.2 m at EGIDA), that is a triggering dimension.
+**Trigger 2: a new dimension.** A trunk 30% longer than your standard, 30% thicker than your design diameter, or 30% shorter (because a short log behaves differently on the carriage). Mykoła today has 2200 running metres in the batch, with an average log of 3.0 m, that is about 730 logs, no problem. But if the batch includes 4.2 m logs (30% longer than the typical 3.2 m at EGIDA), that is a triggering dimension.
 
 **Trigger 3: a substitution at a different workstation.** Today you are on P3, you normally work on P3, but on Friday you stand on P1 in place of Piotr (who is sick). P1 is the multi-band machine, a different machine, a different panel, different reflexes. A substitution **always** requires a risk assessment, even if you formally know the substitute workstation from the course.
 
@@ -61,7 +61,7 @@ A fourth trigger, informal but operationally critical: **your intuition says "so
 
 ### The three-question tool, in full
 
-At 6:52 Marek hands Rustam a card. Format: A5, a plant-printed form, header "Operation risk assessment card, EGIDA sp. z o.o., sawmill, form OR-OP-001". Under the header three address fields (operator, date, operation/species/size/machine) and three questions with space for an answer of 5 to 10 lines each. At the bottom the fields "Operator's signature" and "Foreman's signature (optional, at escalation)".
+At 6:52 Marek hands Mykoła a card. Format: A5, a plant-printed form, header "Operation risk assessment card, EGIDA sp. z o.o., sawmill, form OR-OP-001". Under the header three address fields (operator, date, operation/species/size/machine) and three questions with space for an answer of 5 to 10 lines each. At the bottom the fields "Operator's signature" and "Foreman's signature (optional, at escalation)".
 
 The three questions are, literally:
 
@@ -79,41 +79,41 @@ Three risks is not magic, it is the capacity of your operational attention. Work
 
 ### Question 1: what can go wrong
 
-Rustam sits down at the P3 panel, the card on the worktop, a pen borrowed from Wahan. 6:55. First question.
+Mykoła sits down at the P3 panel, the card on the worktop, a pen borrowed from Wasyl. 6:55. First question.
 
-He looks at the log of American ash lying on the infeed ramp. Thirty centimetres diameter at the end, light brown bark with black specks (that is normal for ash after sea transport, surface fungi, they do not penetrate the wood). The end of the log shows the rings: wide, even, the mark of a healthy spring-wood portion, but under the bark he can see a **dark ring 2 to 3 cm wide**, which Rustam has not seen in European ash. He does not yet know whether it is a defect or a feature of the species. He notes in his head: "I will ask in the canteen after the first log".
+He looks at the log of American ash lying on the infeed ramp. Thirty centimetres diameter at the end, light brown bark with black specks (that is normal for ash after sea transport, surface fungi, they do not penetrate the wood). The end of the log shows the rings: wide, even, the mark of a healthy spring-wood portion, but under the bark he can see a **dark ring 2 to 3 cm wide**, which Mykoła has not seen in European ash. He does not yet know whether it is a defect or a feature of the species. He notes in his head: "I will ask in the canteen after the first log".
 
 **Risk 1: the band vibrates unusually in a new species.** American ash has a harder transition zone between early-wood and late-wood than the European. A band that runs smoothly in European ash may "bounce" across the transitions in American, producing a wavy cut (M2 l5 taught how to recognise it) and increasing the risk of the band breaking. Written down: "band vibrates unusually, wavy cut, band breakage".
 
-**Risk 2: the log splits along the grain under stress.** American ash at import moisture (say 35 to 40%) combined with the heat of the hall (14°C) can release internal stress as a longitudinal split during cutting. The split itself is not dangerous to Rustam (the log is in the carriage clamps), but it produces waste in the cut and may splash a splinter up to eye level. Written down: "longitudinal split during cut, waste plus splinter".
+**Risk 2: the log splits along the grain under stress.** American ash at import moisture (say 35 to 40%) combined with the heat of the hall (14°C) can release internal stress as a longitudinal split during cutting. The split itself is not dangerous to Mykoła (the log is in the carriage clamps), but it produces waste in the cut and may splash a splinter up to eye level. Written down: "longitudinal split during cut, waste plus splinter".
 
 **Risk 3: the black specks on the bark are more than surface fungus.** If the importer did not carry out phytosanitation (IPPC, ISPM 15), the bark could show traces of the **emerald ash borer** (*Agrilus planipennis*, an invasive species from North America, banned in the EU). Written down: "suspected quarantine pest, stop and notify PIORiN".
 
 Three risks. The first two are operational, the third is regulatory. All of them sit in the context of "new species", and none of them is present in European ash.
 
 ::: example
-Notice that Rustam did not write: "the band will break because it always breaks". He writes concretely: "the band vibrates **unusually in a new species** because American ash has a harder transition zone". The concrete matters, because the mitigation in Q3 will be different for "vibration in a new species" (= reduce feed rate, observe the first five logs) than for "blunt band" (= replace the band). A generic risk leads to a generic mitigation, and a generic mitigation does not work in the concrete case.
+Notice that Mykoła did not write: "the band will break because it always breaks". He writes concretely: "the band vibrates **unusually in a new species** because American ash has a harder transition zone". The concrete matters, because the mitigation in Q3 will be different for "vibration in a new species" (= reduce feed rate, observe the first five logs) than for "blunt band" (= replace the band). A generic risk leads to a generic mitigation, and a generic mitigation does not work in the concrete case.
 :::
 
 ### Question 2: how serious will it be
 
-6:59. Rustam has moved on to the second question. This is the fastest of the three, because the answer is usually two or three words per risk. But those two words decide whether you skip the risk or mitigate it.
+6:59. Mykoła has moved on to the second question. This is the fastest of the three, because the answer is usually two or three words per risk. But those two words decide whether you skip the risk or mitigate it.
 
-Impact scale for a self-reliant operator (Marek showed Rustam this at the Monday briefing):
+Impact scale for a self-reliant operator (Marek showed Mykoła this at the Monday briefing):
 
 - **Low:** sawn-timber waste (material cost), increased tool wear, operator overtime. Impact measured in zloty or in hours worked. Mitigation reasonable but not a priority.
 - **Medium:** damage to the machine (repair cost, line downtime), a client order not closed on time (contractual penalty), loss of a batch of material. Impact measured in thousands of zloty or in claim risk. Mitigation mandatory, with priority over production.
 - **High:** operator injury, fire outbreak, line failure that stops the shift, a PIP case. Impact measured in body, hospitalisation, legal paperwork. Mitigation **absolute**, refusal of work (art. 210 of the Polish Labour Code) if a mitigation is not available.
 
-Rustam grades his three risks:
+Mykoła grades his three risks:
 
-**Risk 1 (band vibrates, wavy cut, breakage):** medium. A band breaking on P3 does not fly at Rustam (the guards are in place, that is what M2 l5 covered), but it causes 40 minutes of downtime for a replacement and material waste along the cut line. Cost about 800 PLN for the broken band plus 1,200 PLN for the waste plus 800 PLN of overtime to catch up. Total around 2,800 PLN in one event.
+**Risk 1 (band vibrates, wavy cut, breakage):** medium. A band breaking on P3 does not fly at Mykoła (the guards are in place, that is what M2 l5 covered), but it causes 40 minutes of downtime for a replacement and material waste along the cut line. Cost about 800 PLN for the broken band plus 1,200 PLN for the waste plus 800 PLN of overtime to catch up. Total around 2,800 PLN in one event.
 
-**Risk 2 (longitudinal split, splinter):** low to medium. In material terms waste (around 600 PLN), a splinter at eye level is dangerous, but **we have a splinter guard** (the EGIDA standard on P3, M2 l6 mentioned this). If Rustam has his goggles on and the guard in place, the splinter does not reach the eyes. Low on the operator side, medium on the material side.
+**Risk 2 (longitudinal split, splinter):** low to medium. In material terms waste (around 600 PLN), a splinter at eye level is dangerous, but **we have a splinter guard** (the EGIDA standard on P3, M2 l6 mentioned this). If Mykoła has his goggles on and the guard in place, the splinter does not reach the eyes. Low on the operator side, medium on the material side.
 
-**Risk 3 (suspected quarantine pest):** high, but specific. If the emerald ash borer really is in the bark, the plant is closed for a PIORiN quarantine for weeks, administrative penalties of 10,000 to 50,000 PLN. For Rustam personally: no injury, but he could be challenged on whether he noticed and reported it. Probability very low (the importer should have an ISPM 15 certificate), but the impact is high, so the overall risk is **medium**.
+**Risk 3 (suspected quarantine pest):** high, but specific. If the emerald ash borer really is in the bark, the plant is closed for a PIORiN quarantine for weeks, administrative penalties of 10,000 to 50,000 PLN. For Mykoła personally: no injury, but he could be challenged on whether he noticed and reported it. Probability very low (the importer should have an ISPM 15 certificate), but the impact is high, so the overall risk is **medium**.
 
-Rustam writes: "R1 medium, R2 low to medium, R3 medium with low probability". Three minutes, done.
+Mykoła writes: "R1 medium, R2 low to medium, R3 medium with low probability". Three minutes, done.
 
 ::: info
 For the full methodology (if you go on to the OSH inspector course) impact is multiplied by probability in a 3x3 or 5x5 matrix (PN-N-18002 uses 3x3, some European standards use 5x5). Risk = probability x impact. The operator skips the matrix because in fifteen minutes you cannot estimate probability numerically, you do it intuitively ("very low, low, medium, high"). Operator intuition based on experience and attentiveness is enough for a short A5 card. The matrix is for the facility document (Jaroslaw).
@@ -121,9 +121,9 @@ For the full methodology (if you go on to the OSH inspector course) impact is mu
 
 ### Question 3: what do you do to prevent it
 
-7:04. Rustam is at the third question. This is the most valuable field of the card, because here the card turns from a reflection into an action. Without this field the card is a journal of worries, not an operator's tool.
+7:04. Mykoła is at the third question. This is the most valuable field of the card, because here the card turns from a reflection into an action. Without this field the card is a journal of worries, not an operator's tool.
 
-**Mitigation R1 (vibration, wavy cut, breakage).** Rustam writes three concrete actions:
+**Mitigation R1 (vibration, wavy cut, breakage).** Mykoła writes three concrete actions:
 
 - Reduce the feed rate from 15 m/min (the pine standard) to 9 m/min for the first **five logs** of American ash. Observe cut quality (mirror, touch with the hand). If the cut is clean, increase to 12 m/min, if it is wavy, stay at 9.
 - Check band tension (it should be 2300 PSI for an alloy band; if it has dropped overnight, top up).
@@ -131,30 +131,30 @@ For the full methodology (if you go on to the OSH inspector course) impact is mu
 
 **Mitigation R2 (longitudinal split, splinter).** Two actions:
 
-- Put the **splinter guard** on the P3 panel (the EGIDA standard, it hangs next to the fixed guard, Rustam will check after the morning briefing). Side-shield goggles on the face for the whole shift, not only during cutting.
-- Set the carriage up so that the first log is the **smaller log** (30 cm diameter, the one he can see). Larger logs (35 to 40 cm) leave for after the first five, once Rustam has seen how the material behaves.
+- Put the **splinter guard** on the P3 panel (the EGIDA standard, it hangs next to the fixed guard, Mykoła will check after the morning briefing). Side-shield goggles on the face for the whole shift, not only during cutting.
+- Set the carriage up so that the first log is the **smaller log** (30 cm diameter, the one he can see). Larger logs (35 to 40 cm) leave for after the first five, once Mykoła has seen how the material behaves.
 
 **Mitigation R3 (quarantine pest).** One procedural action:
 
-- **Before** Rustam touches the first log, he visits Marek with the risk assessment card and asks: "Marek, I am looking at American ash, I see a dark ring under the bark 2 to 3 cm wide, is that surface fungus or should I check the ISPM 15 certificate and PIORiN". Marek answers. If Marek has doubts, he calls the importer for the certificate. Only after the answer does Rustam go back to P3.
+- **Before** Mykoła touches the first log, he visits Marek with the risk assessment card and asks: "Marek, I am looking at American ash, I see a dark ring under the bark 2 to 3 cm wide, is that surface fungus or should I check the ISPM 15 certificate and PIORiN". Marek answers. If Marek has doubts, he calls the importer for the certificate. Only after the answer does Mykoła go back to P3.
 
-Rustam writes down the mitigations, signs the card. 7:08. Sixteen minutes from the first question to the signature. He went slightly over the fifteen-minute limit, but Marek had said: "the first card can take longer, from the third card onwards it is done in five minutes".
+Mykoła writes down the mitigations, signs the card. 7:08. Sixteen minutes from the first question to the signature. He went slightly over the fifteen-minute limit, but Marek had said: "the first card can take longer, from the third card onwards it is done in five minutes".
 
 ### Escalation to Marek: when the card is not enough
 
-Rustam finishes the card and walks it over to Marek at 7:09. Marek is in his little office, going through the day's dispatches. Rustam stands in the doorway.
+Mykoła finishes the card and walks it over to Marek at 7:09. Marek is in his little office, going through the day's dispatches. Mykoła stands in the doorway.
 
-> **Rustam:** "Marek, a risk assessment card for the American ash. Three risks written down. One of them I need to discuss before I start."
+> **Mykoła:** "Marek, a risk assessment card for the American ash. Three risks written down. One of them I need to discuss before I start."
 >
 > **Marek:** "Sit down. Which one?"
 >
-> **Rustam:** "A dark ring 2 to 3 cm under the bark. I did not see it in the European. I do not know whether it is surface fungus or a trace of a quarantine pest. I do not want to start if the plant could end up under a PIORiN quarantine."
+> **Mykoła:** "A dark ring 2 to 3 cm under the bark. I did not see it in the European. I do not know whether it is surface fungus or a trace of a quarantine pest. I do not want to start if the plant could end up under a PIORiN quarantine."
 >
 > **Marek:** "Good thinking. I will call the importer and check the ISPM 15 certificate. Give me five minutes. If the certificate is in order, you will start the shift at 7:15 instead of 7:00. If not, we send the batch back."
 
-Marek calls. The certificate is there, United Arab Emirates transhipment, line to Gdansk, ISPM 15 from 2026-03-11. Fine. Rustam goes back to P3 at 7:14 and starts at 7:15 with a reduced feed rate. The first log goes through in 11 minutes (the standard would be 7 minutes), the first board comes out clean, the second clean. Rustam increases the feed rate to 12 m/min. The day gets under way.
+Marek calls. The certificate is there, United Arab Emirates transhipment, line to Gdansk, ISPM 15 from 2026-03-11. Fine. Mykoła goes back to P3 at 7:14 and starts at 7:15 with a reduced feed rate. The first log goes through in 11 minutes (the standard would be 7 minutes), the first board comes out clean, the second clean. Mykoła increases the feed rate to 12 m/min. The day gets under way.
 
-The risk assessment card goes into the "OR-OP" folder at Marek's desk. Rustam keeps a copy in his jacket, glances at it every few logs in the first hour. From the second hour the card is no longer needed, the risks are in his hand and in his ear, the reflex is stable.
+The risk assessment card goes into the "OR-OP" folder at Marek's desk. Mykoła keeps a copy in his jacket, glances at it every few logs in the first hour. From the second hour the card is no longer needed, the risks are in his hand and in his ear, the reflex is stable.
 
 ::: warning
 Three criteria for **escalating to Marek** instead of finishing the card yourself:
@@ -189,7 +189,7 @@ With the card you pre-empt: "what can go wrong". With STOP you react: "something
 The numerical relationship observed at EGIDA: for every STOP there are usually three to five operation risk assessment cards. A good card saves one STOP, because the risk was noticed in advance and either mitigated or the operation was changed altogether.
 
 ::: example
-The same ash that Rustam cuts today with a card and a reduced feed rate, his colleague Bartlomiej cut three years ago **without a card**, at the standard feed rate of 15 m/min. The first log went through (he was lucky). The second log split along the grain, a splinter hit the guard (fortunately Bartlomiej had it on). The third log knocked the band off the rollers, broke, material waste 2,400 PLN, downtime 1.5 hours, the day falls apart. Marek said back then: "Bartek, next time a card". That was the first time Bartek had seen one. Today Bartek teaches juniors, always with a card.
+The same ash that Mykoła cuts today with a card and a reduced feed rate, his colleague Bartlomiej cut three years ago **without a card**, at the standard feed rate of 15 m/min. The first log went through (he was lucky). The second log split along the grain, a splinter hit the guard (fortunately Bartlomiej had it on). The third log knocked the band off the rollers, broke, material waste 2,400 PLN, downtime 1.5 hours, the day falls apart. Marek said back then: "Bartek, next time a card". That was the first time Bartek had seen one. Today Bartek teaches juniors, always with a card.
 :::
 
 ### Summary of lesson six
@@ -311,7 +311,7 @@ Tomorrow in l7 we enter a topic that is specific to a Polish winter: -10°C in t
 
 ## Instructor notes
 
-- **120-min rhythm (proposed):** 10 min Introduction + Objectives; 15 min two kinds of risk assessment (on the board, show a miniature PN-N-18002 form next to the A5 form); 10 min three triggers (discussion: what triggers did the trainees have in their previous jobs); 20 min Rustam's scene at P3 with the card (reading out loud, pause after each question, discussion: "would you have written down the same risks?"); 15 min question 1 in depth (risk versus consequence, exercise: give me two risks and two consequences for the same operation); 15 min question 3 in depth (concrete versus abstract, the "would a colleague understand" test); 10 min escalation to the foreman (three criteria, a role-play of the conversation); 10 min three most common mistakes and the card versus STOP; 10 min Key terms and summary; 5 min preview of l7 (atypical conditions).
+- **120-min rhythm (proposed):** 10 min Introduction + Objectives; 15 min two kinds of risk assessment (on the board, show a miniature PN-N-18002 form next to the A5 form); 10 min three triggers (discussion: what triggers did the trainees have in their previous jobs); 20 min Mykoła's scene at P3 with the card (reading out loud, pause after each question, discussion: "would you have written down the same risks?"); 15 min question 1 in depth (risk versus consequence, exercise: give me two risks and two consequences for the same operation); 15 min question 3 in depth (concrete versus abstract, the "would a colleague understand" test); 10 min escalation to the foreman (three criteria, a role-play of the conversation); 10 min three most common mistakes and the card versus STOP; 10 min Key terms and summary; 5 min preview of l7 (atypical conditions).
 
 - **Map of the three-question tool onto a full JSA/PHA worksheet (for ambitious trainees and for you).** The industry JSA worksheet has eight columns, the operator's card folds them into three questions. The table below shows the mapping:
 
@@ -334,7 +334,7 @@ Comment: the mapping is not perfect (the A5 card cuts out likelihood and residua
 
 - **Pedagogical pitfall no. 3: abstract mitigations.** This is the most common mistake on the first card. Trainees write "be careful", "exercise caution", "follow the OSH regulations". The trainer should push back on every such card: "what will you concretely do in the first minute after switching the machine on". Until the trainee names an **action** (reduce, check, put on, call), the mitigation is empty. This exercise, once learned, pays back dozens of times in their working life.
 
-- **Rustam's scene with Marek about the dark ring on the ash:** you can linger here. The fact that Rustam **did not start the operation** until he got an answer from Marek is the key piece of modelling. This is not "a nitpicker who grumbles". This is a self-reliant operator who understands that fifteen minutes of delay at start-up is better than a week of PIORiN quarantine. The group should see that.
+- **Mykoła's scene with Marek about the dark ring on the ash:** you can linger here. The fact that Mykoła **did not start the operation** until he got an answer from Marek is the key piece of modelling. This is not "a nitpicker who grumbles". This is a self-reliant operator who understands that fifteen minutes of delay at start-up is better than a week of PIORiN quarantine. The group should see that.
 
 - **Optional field exercise:** if possible, ask the participants to bring to the next session a **real** risk assessment card from their sawmill (filled in, signed). Group analysis of such a document, anonymised, is the most valuable thing pedagogically. The trainees see that their colleagues have the same dilemmas, and they learn from each other.
 

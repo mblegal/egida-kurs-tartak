@@ -6,23 +6,23 @@ czas: 120
 
 ## Introducción
 
-Viernes, 2026-05-08, 10:05. Tercer día de prácticas de clasificación de Rustam. Ayer, junto a la señora Ania, clasificó 60 tablas de pino de Drawno según PN-EN 14081 (clasificación por resistencia, clases C, indicadores MOR, MOE, densidad, desviación de la fibra). Encontraron 38 tablas que cumplían el umbral **C24** pedido para las vigas del forjado de una vivienda unifamiliar en Piaseczno. El pedido sale para su envío el lunes. Hoy la señora Ania tiene para Rustam **otra escena**: no clasificamos madera, conversamos con el cliente.
+Viernes, 2026-05-08, 10:05. Tercer día de prácticas de clasificación de Mykoła. Ayer, junto a la señora Ania, clasificó 60 tablas de pino de Drawno según PN-EN 14081 (clasificación por resistencia, clases C, indicadores MOR, MOE, densidad, desviación de la fibra). Encontraron 38 tablas que cumplían el umbral **C24** pedido para las vigas del forjado de una vivienda unifamiliar en Piaseczno. El pedido sale para su envío el lunes. Hoy la señora Ania tiene para Mykoła **otra escena**: no clasificamos madera, conversamos con el cliente.
 
 Box de la clasificadora, 10:00. Entra **Jacek Wesołowski**, 45 años, tecnólogo de construcción de la empresa Dom-Bud Piaseczno (la misma empresa para la cual EGIDA preparó el pedido C24 de ayer). Jacek lleva dos proyectos simultáneamente. El primero lo cerramos el lunes (vivienda unifamiliar, forjado en C24). El segundo, **vivienda bifamiliar con planta superior**, Jacek lo está proyectando ahora, tiene que encargar material para julio. Pregunta para la señora Ania: ¿basta con C24, o conviene pedir C30?
 
-Rustam está sentado en un rincón del box, cuaderno en mano, observa. La señora Ania lo avisó por la mañana: *„Hoy no clasificamos. Hoy escuchas cómo le explico las clases al cliente. Es el segundo idioma, junto al idioma de la norma. Al cliente no le interesan los nudos ni la localización en la zona de tracción. El cliente quiere saber: ¿la viga aguantará el forjado, cuánto cuesta, y no se romperá en cinco años?"*
+Mykoła está sentado en un rincón del box, cuaderno en mano, observa. La señora Ania lo avisó por la mañana: *„Hoy no clasificamos. Hoy escuchas cómo le explico las clases al cliente. Es el segundo idioma, junto al idioma de la norma. Al cliente no le interesan los nudos ni la localización en la zona de tracción. El cliente quiere saber: ¿la viga aguantará el forjado, cuánto cuesta, y no se romperá en cinco años?"*
 
 > **El señor Jacek:** „Buenos días, señora Ania. Tengo una pregunta. Estoy proyectando una vivienda bifamiliar, dos plantas, forjado de madera sobre la planta baja, vano de las vigas 4,2 m, carga de uso 2 kN/m² (residencial). El cliente pide presupuesto. Yo pondría C24 como en el proyecto anterior, pero el arquitecto me escribe para que piense en C30. ¿Qué me aconseja?"
 >
 > **La señora Ania:** „Señor Jacek, sentémonos. La diferencia entre C24 y C30 no es solo una cifra en un código. Es toda una cadena de decisiones: qué aguanta, cuánto se flecha, cuánto cuesta, qué riesgo tiene. Desglosémoslo en cuatro preguntas. Pregunta uno: ¿qué carga? Pregunta dos: ¿qué vano? Pregunta tres: ¿qué presupuesto? Pregunta cuatro: ¿quién lo utiliza y durante cuánto tiempo?"
 
-Rustam abre el cuaderno. Hoy una lección distinta a la de ayer. Ayer medía nudos con el calibre. Hoy aprenderá que **las mismas cifras** (MOR, MOE, densidad) tienen un significado distinto para el clasificador y para el cliente. El clasificador mira la tabla. El cliente mira el edificio en el que esa tabla va a trabajar durante 50 años.
+Mykoła abre el cuaderno. Hoy una lección distinta a la de ayer. Ayer medía nudos con el calibre. Hoy aprenderá que **las mismas cifras** (MOR, MOE, densidad) tienen un significado distinto para el clasificador y para el cliente. El clasificador mira la tabla. El cliente mira el edificio en el que esa tabla va a trabajar durante 50 años.
 
 ## Objetivos
 
 Tras esta lección:
 
-1. Entiendes **tres perspectivas** de las mismas clases C de madera estructural. Perspectiva del **operador** (tú, Rustam): qué clase prevé la selección en el aserrado y en la clasificación antes del envío, cómo la elección de la clase influye en el rendimiento del material (yield). Perspectiva del **clasificador** (la señora Ania): qué criterios de la norma PN-EN 14081 asignan una clase a una tabla concreta, qué mediciones y acreditaciones se exigen. Perspectiva del **cliente** (el señor Jacek, el arquitecto, el promotor): qué aplicación corresponde a cada clase, cuánto cuesta la diferencia, cuál es el riesgo estructural.
+1. Entiendes **tres perspectivas** de las mismas clases C de madera estructural. Perspectiva del **operador** (tú, Mykoła): qué clase prevé la selección en el aserrado y en la clasificación antes del envío, cómo la elección de la clase influye en el rendimiento del material (yield). Perspectiva del **clasificador** (la señora Ania): qué criterios de la norma PN-EN 14081 asignan una clase a una tabla concreta, qué mediciones y acreditaciones se exigen. Perspectiva del **cliente** (el señor Jacek, el arquitecto, el promotor): qué aplicación corresponde a cada clase, cuánto cuesta la diferencia, cuál es el riesgo estructural.
 2. Conoces las **aplicaciones típicas de las cuatro clases C** en la construcción polaca. **C16** para cerchas económicas (viviendas unifamiliares de presupuesto ajustado, palés, tableros de encofrado), **C24** para forjados residenciales y cerchas estándar (la clase más frecuente en Polonia, 50-55% de la demanda), **C30** para forjados cargados (edificios plurifamiliares, naves ligeras, cubiertas de uso), **C35** para construcciones laminadas encoladas (madera GL, puentes, pabellones deportivos, elementos de grandes vanos).
 3. Entiendes el **Eurocódigo 5** (PN-EN 1995 (Eurocódigo 5 polaco/europeo), norma de proyecto de estructuras de madera) como el marco en el que el proyectista elige la clase C para un proyecto concreto. Sabes que la clase C no la elige el cliente „de cabeza", sino que resulta del cálculo estructural en un programa de cálculo (por ejemplo Dlubal, Robot, Cadwork) teniendo en cuenta tres factores: la carga, el vano y la flecha admisible de la viga.
 4. Conoces la **economía de la elección de la clase** en un ejemplo concreto de viga de forjado 4 m × 50 × 150 mm. La diferencia de precio entre C24 (1800 zł/m³ en EGIDA, a fecha de mayo de 2026) y C30 (2250 zł/m³) para una sola viga es de unos 13 zł, para todo el forjado de una vivienda unifamiliar (80 vigas, 2,4 m³) unos 1080 zł. En el contexto del coste total de la obra de una vivienda (700-900 mil zł) eso es el 0,1-0,15%. Para el cliente suele ser poco significativo, para el aserradero (yield, coste de selección) muy significativo.
@@ -35,7 +35,7 @@ Tras esta lección:
 
 Las mismas cuatro clases de resistencia (C16, C24, C30, C35) tienen **tres significados distintos** según el rol desde el que se mira la madera:
 
-**Perspectiva del operador (Rustam, operador autónomo P3):**
+**Perspectiva del operador (Mykoła, operador autónomo P3):**
 
 La clase C es **el resultado de la selección en el aserrado**. El tronco entra al aserradero, el despiece da 100 tablas. El operador decide cómo cortar para maximizar el número de tablas que cumplan C24 (la clase estándar más cara, pedida por el cliente). La elección de la orientación del corte, la anchura de la cinta, el espesor del corte, todo eso influye en el yield de C24. Un buen despiece: 100 tablas dan 40 C24 (40% de yield en la clase objetivo), más 45 C16 (clase inferior, precio más bajo, pero se venden), más 10 por debajo de C16 (para embalajes, residuos), más 5 descartes (pudrición, fendas). Un despiece flojo: 100 tablas dan 25 C24, más pérdidas. Diferencia de yield = diferencia de ingresos del aserradero.
 
@@ -53,7 +53,7 @@ Tres perspectivas producen **la misma clase C24**, pero la miran desde lados dis
 - Cliente: „si C24 cubre mi necesidad estructural"
 
 ::: info
-En el aserradero nadie mira **simultáneamente** desde las tres perspectivas. El operador piensa en el corte, el clasificador en las tablas, el cliente en el edificio. Por eso existen los **traductores**: el encargado, el comercial, el clasificador cuando habla con el cliente. Cada uno traduce en una dirección. La señora Ania, en la conversación con el señor Jacek, traduce de la perspectiva del clasificador a la perspectiva del cliente. El encargado (Marek) traduce de la perspectiva del cliente a la perspectiva del operador (le pasa el pedido a Rustam). Tú, Rustam, como operador autónomo en M3, deberías entender las tres perspectivas, aunque tú operes solo desde una.
+En el aserradero nadie mira **simultáneamente** desde las tres perspectivas. El operador piensa en el corte, el clasificador en las tablas, el cliente en el edificio. Por eso existen los **traductores**: el encargado, el comercial, el clasificador cuando habla con el cliente. Cada uno traduce en una dirección. La señora Ania, en la conversación con el señor Jacek, traduce de la perspectiva del clasificador a la perspectiva del cliente. El encargado (Marek) traduce de la perspectiva del cliente a la perspectiva del operador (le pasa el pedido a Mykoła). Tú, Mykoła, como operador autónomo en M3, deberías entender las tres perspectivas, aunque tú operes solo desde una.
 :::
 
 ### Eurocódigo 5 como marco de la decisión del cliente
@@ -183,7 +183,7 @@ Diferencia de coste C24 frente a C30 para un forjado = **540 zł**. En el presup
 
 ### Escena de la conversación: la señora Ania le explica a Jacek, 10:20-10:50
 
-La señora Ania abre el portátil, arranca un Excel con una hoja de cálculo. Rustam observa.
+La señora Ania abre el portátil, arranca un Excel con una hoja de cálculo. Mykoła observa.
 
 > **La señora Ania:** „Señor Jacek, ocupémonos de su proyecto. Vivienda bifamiliar, forjado sobre la planta baja, vano 4,2 m, intereje de vigas 60 cm, carga residencial 2 kN/m². Primera cosa: su arquitecto escribe C30, ¿por qué? ¿Tiene respuesta?"
 >
@@ -213,7 +213,7 @@ La señora Ania abre el portátil, arranca un Excel con una hoja de cálculo. Ru
 
 ### Segundo idioma del clasificador: traducción de la norma a la decisión del cliente
 
-Rustam ha anotado toda la conversación. Ha notado algo importante: **la señora Ania ni una sola vez ha dicho „MOR", „MOE", „N/mm²"**. En su lugar decía:
+Mykoła ha anotado toda la conversación. Ha notado algo importante: **la señora Ania ni una sola vez ha dicho „MOR", „MOE", „N/mm²"**. En su lugar decía:
 
 | Idioma de la norma (ayer, l3) | Idioma del cliente (hoy, l4) |
 |-------------------------------|------------------------------|
@@ -226,10 +226,10 @@ Rustam ha anotado toda la conversación. Ha notado algo importante: **la señora
 | Condición SLS del Eurocódigo 5 | „si el forjado no se flechará tanto como para que el yeso se agriete" |
 | Carga 2 kN/m² | „vivienda normal, personas, muebles, electrodomésticos" |
 
-**Segunda característica del idioma del cliente**: preguntas sobre **zonas críticas**. La señora Ania le preguntaba a Jacek no por las vigas en general, sino por las escaleras, el balcón, el dintel. Tres lugares donde aplicar C30 tiene sentido **estructural**, no solo „por si acaso". El operador autónomo (Rustam) debe aprender este vocabulario, porque en el futuro escuchará del encargado (o de un cliente llamando a EGIDA): „necesito C24 para el forjado y C30 para la escalera", y tiene que saber qué significa cada una de esas combinaciones.
+**Segunda característica del idioma del cliente**: preguntas sobre **zonas críticas**. La señora Ania le preguntaba a Jacek no por las vigas en general, sino por las escaleras, el balcón, el dintel. Tres lugares donde aplicar C30 tiene sentido **estructural**, no solo „por si acaso". El operador autónomo (Mykoła) debe aprender este vocabulario, porque en el futuro escuchará del encargado (o de un cliente llamando a EGIDA): „necesito C24 para el forjado y C30 para la escalera", y tiene que saber qué significa cada una de esas combinaciones.
 
 ::: warning
-El operador de aserradero **no es proyectista**. Rustam no puede aconsejar al cliente si elegir C24 o C30. No tiene competencias de proyecto, no es clasificador acreditado, no conoce el Eurocódigo 5. Su función es: **ejecutar el pedido** según la disposición, por ejemplo „80 vigas 50 × 150 × 4200 C24" del albarán WZ. Cuando un cliente llama directamente al aserradero con una pregunta sobre la clase, el operador redirige al clasificador (la señora Ania) o al comercial (en EGIDA al encargado Marek, que atiende clientes en ausencia del comercial). El papel del operador es la **ejecución**, no el **asesoramiento**. Cruzar esa línea es un riesgo: clase equivocada en un proyecto = reclamación de 50-200 mil zł más el coste de sustitución de la estructura.
+El operador de aserradero **no es proyectista**. Mykoła no puede aconsejar al cliente si elegir C24 o C30. No tiene competencias de proyecto, no es clasificador acreditado, no conoce el Eurocódigo 5. Su función es: **ejecutar el pedido** según la disposición, por ejemplo „80 vigas 50 × 150 × 4200 C24" del albarán WZ. Cuando un cliente llama directamente al aserradero con una pregunta sobre la clase, el operador redirige al clasificador (la señora Ania) o al comercial (en EGIDA al encargado Marek, que atiende clientes en ausencia del comercial). El papel del operador es la **ejecución**, no el **asesoramiento**. Cruzar esa línea es un riesgo: clase equivocada en un proyecto = reclamación de 50-200 mil zł más el coste de sustitución de la estructura.
 :::
 
 ### Economía desde la perspectiva de EGIDA: por qué ofrecemos todas las clases
@@ -246,9 +246,9 @@ Distribución típica del despiece de pino silvestre del Distrito Forestal de Dr
 
 EGIDA tiene que **vender cada clase** para que el yield sea rentable. No se puede tirar el 15% de la producción de C30 porque no la quiera nadie. No se puede retener el 45% de C24 en almacén, porque bloquea capital. Por eso **los comerciales de EGIDA promueven activamente distintas clases para distintos clientes**: C16 para empresas de encofrado y paletizadoras, C24 para carpinteros estándar y promotores unifamiliares, C30 para promotores plurifamiliares y naves, C35 para talleres de laminado encolado (GL) y puentes.
 
-**Para Rustam como operador esto significa:**
+**Para Mykoła como operador esto significa:**
 
-Cuando Marek dice: „hoy por la mañana cortamos pino para el pedido C24 de Dom-Bud Piaseczno", Rustam sabe que **además de C24** saldrá también C16, C30, C35. Tiene que saber clasificar las tablas de un mismo ciclo de corte en tres o cuatro pilas por clase. No desperdiciará las tablas C30 (metiéndolas en la pila de C24 porque el pedido era C24), porque C30 se vende a otro cliente a un precio superior. No meterá C16 en C24 „porque se parece", porque C16 en un forjado daría reclamación.
+Cuando Marek dice: „hoy por la mañana cortamos pino para el pedido C24 de Dom-Bud Piaseczno", Mykoła sabe que **además de C24** saldrá también C16, C30, C35. Tiene que saber clasificar las tablas de un mismo ciclo de corte en tres o cuatro pilas por clase. No desperdiciará las tablas C30 (metiéndolas en la pila de C24 porque el pedido era C24), porque C30 se vende a otro cliente a un precio superior. No meterá C16 en C24 „porque se parece", porque C16 en un forjado daría reclamación.
 
 La clasificación en el corte = **preclasificación** visual (el operador ve nudos, anchura del anillo, curvatura), y después el clasificador (Ania) **confirma objetivamente**. Un buen operador es capaz de prever con un 90% de acierto qué clase saldrá de cada tabla. Eso le ahorra tiempo a la clasificadora: Ania confirma, no parte de cero.
 
@@ -264,7 +264,7 @@ Económicamente la diferencia C24 frente a C30 para el forjado de una vivienda u
 
 El segundo idioma del clasificador (en la conversación con el cliente) es la **traducción de las cifras de la norma a una decisión**: MOR 24 N/mm² se convierte en „la viga aguanta 3,2 toneladas", MOE 11 000 se convierte en „flecha 11 mm, el yeso no se agrieta", densidad 350 kg/m³ se convierte en „la viga pesa 16,8 kg/m, se sostiene a mano". Las preguntas del clasificador hacia el cliente no son sobre la norma, sino sobre las zonas críticas: escaleras, balcones, dinteles, vanos superiores a 4,5 m, cargas superiores a 3 kN/m². Esas zonas son los **lugares reales** de elección entre clases.
 
-El operador autónomo (Rustam) **no aconseja al cliente** sobre la clase. Redirige al clasificador o al comercial. Pero entiende las tres perspectivas de las clases, porque en su trabajo diario (clasificación en el corte) tiene que saber prever qué clase saldrá de qué tabla. Un buen operador tiene un 90% de acierto en la preclasificación visual.
+El operador autónomo (Mykoła) **no aconseja al cliente** sobre la clase. Redirige al clasificador o al comercial. Pero entiende las tres perspectivas de las clases, porque en su trabajo diario (clasificación en el corte) tiene que saber prever qué clase saldrá de qué tabla. Un buen operador tiene un 90% de acierto en la preclasificación visual.
 
 En la siguiente lección (m3-w2-l5) pasamos a la **interpretación de la medición de humedad** en el contexto del pedido del cliente. Tres umbrales objetivo (8-10% muebles, 12-15% carpintería de obra, 18% cercha de cubierta), cinco puntos de medición en la pila, decisión del operador: entregamos el lote al cliente o lo secamos más en la cámara.
 

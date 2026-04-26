@@ -8,9 +8,9 @@ czas: 120
 
 Poniedziałek, szósty dzień tygodnia drugiego. Tydzień 1 był o tym, **jak bezpiecznie obsłużyć maszynę**. Tydzień 2 jest o tym, **co trafia między szczęki tej maszyny**. Bo pilarka jest ta sama, a dąb świeży i dąb sezonowany zachowują się zupełnie inaczej: inaczej trzeszczą, inaczej się klinują, inaczej parzą silnik.
 
-**Bohaterką tygodnia 2 jest Maricel Santos**, 28 lat, Filipinka z prowincji Pangasinan. Od sześciu miesięcy w Tartaku Fundacji EGIDA przy ul. Dębowej 12 w Dębowej Górze. Pierwsza kobieta-operatorka w tej hali. W M1 była pomocnikiem na placu kłód, teraz robi kurs na operatora juniora. Maricel w zeszły piątek odebrała dostawę: dwadzieścia metrów sześciennych sosny, dostarczone z lasu w poniedziałek rano, siedem dni temu. Brygadzista Marek popatrzył na stos, pokręcił głową i powiedział: „Maricel, zmierz wilgotność, zanim to pójdzie na trak. Jak wyjdzie powyżej trzydziestu pięciu, rozmawiamy inaczej."
+**Bohaterką tygodnia 2 jest Sofía Ramírez**, 28 lat, Kolumbijka z Medellín. Od sześciu miesięcy w Tartaku Fundacji EGIDA przy ul. Dębowej 12 w Dębowej Górze. Pierwsza kobieta-operatorka w tej hali. W M1 była pomocnikiem na placu kłód, teraz robi kurs na operatora juniora. Sofía w zeszły piątek odebrała dostawę: dwadzieścia metrów sześciennych sosny, dostarczone z lasu w poniedziałek rano, siedem dni temu. Brygadzista Marek popatrzył na stos, pokręcił głową i powiedział: „Sofía, zmierz wilgotność, zanim to pójdzie na trak. Jak wyjdzie powyżej trzydziestu pięciu, rozmawiamy inaczej."
 
-Maricel wzięła wilgotnościomierz, wbiła elektrody w czołówkę pierwszej kłody i odczytała: **38%**. Potem drugą: 42%. Trzecią: 36%. Usiadła z tą liczbą w głowie i zapytała sama siebie pytanie, które dzisiaj jest twoje: **co właściwie znaczy ta liczba i dlaczego brygadzista zareagował?**
+Sofía wzięła wilgotnościomierz, wbiła elektrody w czołówkę pierwszej kłody i odczytała: **38%**. Potem drugą: 42%. Trzecią: 36%. Usiadła z tą liczbą w głowie i zapytała sama siebie pytanie, które dzisiaj jest twoje: **co właściwie znaczy ta liczba i dlaczego brygadzista zareagował?**
 
 ## Cele
 
@@ -27,7 +27,7 @@ Po tej lekcji:
 
 ### Dlaczego wilgotność w drewnie może być powyżej 100%
 
-Maricel słyszy „38 procent" i myśli jak o kawie: im więcej procent, tym więcej czegoś w czymś innym. W drewnie jest inaczej. **Wilgotność bezwzględna** to stosunek masy wody do **masy drewna całkowicie suchego** (wysuszonego w suszarce laboratoryjnej do 0%, tak zwana *oven-dry mass*). Wzór jest prosty:
+Sofía słyszy „38 procent" i myśli jak o kawie: im więcej procent, tym więcej czegoś w czymś innym. W drewnie jest inaczej. **Wilgotność bezwzględna** to stosunek masy wody do **masy drewna całkowicie suchego** (wysuszonego w suszarce laboratoryjnej do 0%, tak zwana *oven-dry mass*). Wzór jest prosty:
 
 ::: formula
 **MC (%) = (masa mokra – masa sucha) / masa sucha × 100%**
@@ -73,7 +73,7 @@ Standardowy stan dla tarcicy budowlanej w Polsce – więźba, konstrukcja dacho
 Wymagana przez odbiorców w Niemczech, UK, Skandynawii. Meble salonowe: 8–12%. Deska podłogowa z ogrzewaniem: 7–9%. Parkiet egzotyczny: 6–8%.
 :::
 
-Maricel z wynikiem 38% znalazła się **powyżej PNW, czyli w strefie „świeże"**. To znaczy: drewno można ciąć od razu (wiele tartaków tak robi z sosną), ale nie można go składować dłużej niż 2 tygodnie bez ochrony, bo pojawią się grzyby pleśniowe i niebieski rozkład (*blue stain*). Brygadzista Marek miał powód do zmartwienia: dostawa czekała już siedem dni, został 7 do grzyba.
+Sofía z wynikiem 38% znalazła się **powyżej PNW, czyli w strefie „świeże"**. To znaczy: drewno można ciąć od razu (wiele tartaków tak robi z sosną), ale nie można go składować dłużej niż 2 tygodnie bez ochrony, bo pojawią się grzyby pleśniowe i niebieski rozkład (*blue stain*). Brygadzista Marek miał powód do zmartwienia: dostawa czekała już siedem dni, został 7 do grzyba.
 
 ### Jak wilgotność zmienia twoją pracę na traku
 
@@ -93,7 +93,7 @@ Dla operatora juniora ta liczba nie jest akademicka. Pięć rzeczy zmienia się 
 
 ### Dlaczego świeża kłoda ma 10–14 dni
 
-Ostatni element, który Maricel musiała zrozumieć: **dlaczego dostawa sprzed tygodnia to już problem, a nie zapas**. Świeża kłoda (powyżej 30% wilgotności) to idealne środowisko dla:
+Ostatni element, który Sofía musiała zrozumieć: **dlaczego dostawa sprzed tygodnia to już problem, a nie zapas**. Świeża kłoda (powyżej 30% wilgotności) to idealne środowisko dla:
 
 - **Grzybów pleśniowych** (*Aspergillus*, *Penicillium*) – 3–7 dni od ścięcia, zwłaszcza w cieple powyżej 15°C. Wizualnie: biały, szary, zielony nalot na czołówce.
 - **Sinizny, niebieskiego rozkładu** (*blue stain*, grzyby z rodzaju *Ceratocystis*) – 7–21 dni, trwałe przebarwienie struktury drewna. **Nie schodzi przy cięciu, nie schodzi przy struganiu, nie schodzi przy suszeniu.** Cała kłoda traci klasę A i B, spada do C-D albo na opał.
@@ -103,7 +103,7 @@ Ostatni element, który Maricel musiała zrozumieć: **dlaczego dostawa sprzed t
 **Zasada 14 dni** (lato) **/ 21 dni** (zima): od ścięcia drzewa w lesie do przetarcia na trak albo zanurzenia w basenie nie powinno minąć więcej. Dla sosny i świerku w upały 30°C to **10 dni** graniczne. Dla dębu, który jest odporniejszy – do 28 dni. Po tym czasie drewno albo idzie do basenu wodnego (woda wypiera powietrze, grzyby nie rosną bez tlenu), albo pryska się borem.
 :::
 
-Dostawa Maricel miała już 7 dni. Do granicy zostały kolejne 7. Dlatego brygadzista powiedział „rozmawiamy inaczej": musiał przeorganizować plan zmiany i przesunąć tę sosnę na poniedziałek rano, zanim dąb, który pierwotnie był w harmonogramie.
+Dostawa Sofía miała już 7 dni. Do granicy zostały kolejne 7. Dlatego brygadzista powiedział „rozmawiamy inaczej": musiał przeorganizować plan zmiany i przesunąć tę sosnę na poniedziałek rano, zanim dąb, który pierwotnie był w harmonogramie.
 
 ## Kluczowe terminy
 
@@ -146,6 +146,6 @@ Jutro (lekcja 2) poznasz **pomiar wilgotnościomierzem oporowym**: jak wbijać e
 - Mylenie wilgotności względnej (powietrza) z bezwzględną (drewna). W meteo 80% wilgotności powietrza znaczy coś innego niż 80% wilgotności drewna. Zaznacz to jawnie.
 - „Skoro mokre tnie się gorzej, to zawsze lepiej suche" – **nie**, suszone poniżej 8% tarczą może się palić od ciepła tarcia. Sosna świeża z powodu żywicy tnie się wręcz łatwiej niż sezonowana. Każdy przedział ma swoje zalety i swoje pułapki.
 
-**Case Maricel – do rozbudowania w dyskusji**: dlaczego brygadzista powiedział „rozmawiamy inaczej", a nie „cięć natychmiast"? Bo miał też w grafiku świeży dąb z wczoraj (0 dni, czas do 28), który mógł zaczekać, i starszą sosnę z 7 dni (czas do 7), którą trzeba było ratować. **Priorytet cięcia to nie kolejność dostawy – to kolejność gatunku × wiek**. Ta zasada wraca w m2-w4-l1 (planowanie cięcia).
+**Case Sofía – do rozbudowania w dyskusji**: dlaczego brygadzista powiedział „rozmawiamy inaczej", a nie „cięć natychmiast"? Bo miał też w grafiku świeży dąb z wczoraj (0 dni, czas do 28), który mógł zaczekać, i starszą sosnę z 7 dni (czas do 7), którą trzeba było ratować. **Priorytet cięcia to nie kolejność dostawy – to kolejność gatunku × wiek**. Ta zasada wraca w m2-w4-l1 (planowanie cięcia).
 
-**Słownik głoskowy PL**: „punkt nasycenia włókien" – pełne wymówienie w Wprowadzeniu na początku lekcji, potem skrót PNW. Kursant filipiński, ukraiński, nigeryjski wymawia „PNW" łatwiej niż pełną nazwę. Podobnie „MC" – niech się przyzwyczaja, bo na wilgotnościomierzu będzie tylko MC.
+**Słownik głoskowy PL**: „punkt nasycenia włókien" – pełne wymówienie w Wprowadzeniu na początku lekcji, potem skrót PNW. Kursant ukraiński, kolumbijski, wenezuelski wymawia „PNW" łatwiej niż pełną nazwę. Podobnie „MC" – niech się przyzwyczaja, bo na wilgotnościomierzu będzie tylko MC.

@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Lunes, 26-05-2026, 6:58 de la mañana. Rustam entra en la nave de aserraderos. Detrás va Wahan. Después del fin de semana, tras cerrar el jueves la campaña de roble, tras el servicio del Sr. Krzysztof el jueves por la mañana (l8, cilindro de elevación del cabezal LT70 sustituido, aceite Shell TTF-SB añadido, prueba de estanqueidad de 30 minutos superada), la P3 trabaja desde el jueves por la tarde sin fugas. El viernes trabajó en ella Damian (segundo operador independiente de EGIDA, acababa los restos de pino). El lunes por la mañana la máquina está caliente por el precalentamiento inicial del sábado por la mañana (de la lección m3-w1-l7), lista para un nuevo encargo.
+Lunes, 26-05-2026, 6:58 de la mañana. Mykoła entra en la nave de aserraderos. Detrás va Wasyl. Después del fin de semana, tras cerrar el jueves la campaña de roble, tras el servicio del Sr. Krzysztof el jueves por la mañana (l8, cilindro de elevación del cabezal LT70 sustituido, aceite Shell TTF-SB añadido, prueba de estanqueidad de 30 minutos superada), la P3 trabaja desde el jueves por la tarde sin fugas. El viernes trabajó en ella Damian (segundo operador independiente de EGIDA, acababa los restos de pino). El lunes por la mañana la máquina está caliente por el precalentamiento inicial del sábado por la mañana (de la lección m3-w1-l7), lista para un nuevo encargo.
 
-En el bolsillo del mono de Rustam va la **orden de producción** en papel, formato A5, impresa el viernes a las 16:00 por Marek Kowalski. El encargo **ZLE-2026-05-077**, recogido en la oficina de EGIDA, a la entrada, a las 6:55. Marek la enseñó brevemente, preguntando *"Rustam, ¿la coges hoy en la P3?"*, a lo que Rustam asintió con la cabeza, comprobó el material en el almacén y volvió a la nave. La orden tiene este aspecto:
+En el bolsillo del mono de Mykoła va la **orden de producción** en papel, formato A5, impresa el viernes a las 16:00 por Marek Kowalski. El encargo **ZLE-2026-05-077**, recogido en la oficina de EGIDA, a la entrada, a las 6:55. Marek la enseñó brevemente, preguntando *"Mykoła, ¿la coges hoy en la P3?"*, a lo que Mykoła asintió con la cabeza, comprobó el material en el almacén y volvió a la nave. La orden tiene este aspecto:
 
 ```
 EGIDA ASERRADERO STRZAŁOWO
@@ -29,8 +29,8 @@ Surtido objetivo: tablas de suelo en bruto
 Cantidad objetivo: aproximadamente 0,55 m³ de madera aserrada en bruto (equivale a ~0,48 m³ tras secado y mecanizado)
 
 Máquina: P3 Wood-Mizer LT70 (prioritaria) o P1 Serra SM40 (de reserva)
-Operador: R. Nazarov
-Ayudante: W. Petrosjan (M1 estacionario P3)
+Operador: R. Hrycenko
+Ayudante: W. Melnyk (M1 estacionario P3)
 
 Selección de parámetros de corte: decisión del operador independiente (M3)
   - Anotar los parámetros elegidos en la ficha KDP-001 antes del primer corte
@@ -39,13 +39,13 @@ Selección de parámetros de corte: decisión del operador independiente (M3)
 Firma del emisor: M. Kowalski, encargado de EGIDA, 2026-05-22
 ```
 
-Tres líneas de la orden son clave: **material**, **surtido objetivo**, **selección de parámetros a decisión del operador**. Hasta marzo de 2026 (M2, bajo supervisión) los parámetros los elegía el encargado y los anotaba en la orden. Desde abril, desde que Rustam aprobó el examen M3 y pasó a "independiente", es el **operador** quien elige: qué cinta monta, qué tensión ajusta, con qué velocidad de avance arranca, qué esquema de corte aplica y en qué orden corta la troza. El encargado ve la elección a posteriori (ficha KDP-001 en sobre de mensajería a la oficina, al final del turno).
+Tres líneas de la orden son clave: **material**, **surtido objetivo**, **selección de parámetros a decisión del operador**. Hasta marzo de 2026 (M2, bajo supervisión) los parámetros los elegía el encargado y los anotaba en la orden. Desde abril, desde que Mykoła aprobó el examen M3 y pasó a "independiente", es el **operador** quien elige: qué cinta monta, qué tensión ajusta, con qué velocidad de avance arranca, qué esquema de corte aplica y en qué orden corta la troza. El encargado ve la elección a posteriori (ficha KDP-001 en sobre de mensajería a la oficina, al final del turno).
 
-Rustam deja la orden en el panel de la P3, coge del escritorio en la esquina de la nave una **ficha KDP-001** nueva (ficha de selección de parámetros, formato A4, introducida en EGIDA en marzo de 2026 por sugerencia del auditor externo como herramienta probatoria: quién ajustó qué y cuándo). Wahan mira por encima del hombro, con la agenda abierta. *"Wahan, hoy aprendemos cómo se deciden los parámetros. Mira cómo pienso, porque algún día pensarás tú solo igual."*
+Mykoła deja la orden en el panel de la P3, coge del escritorio en la esquina de la nave una **ficha KDP-001** nueva (ficha de selección de parámetros, formato A4, introducida en EGIDA en marzo de 2026 por sugerencia del auditor externo como herramienta probatoria: quién ajustó qué y cuándo). Wasyl mira por encima del hombro, con la agenda abierta. *"Wasyl, hoy aprendemos cómo se deciden los parámetros. Mira cómo pienso, porque algún día pensarás tú solo igual."*
 
 ### 7:02, análisis del material y del surtido
 
-Rustam va al almacén SO-SOS-12, estante 4, donde están las cuatro trozas preparadas el viernes. Metro metálico, humidímetro Tanel ET-6 (el mismo de la lección M2 sobre humedad), linterna LED. Cada troza la comprueba:
+Mykoła va al almacén SO-SOS-12, estante 4, donde están las cuatro trozas preparadas el viernes. Metro metálico, humidímetro Tanel ET-6 (el mismo de la lección M2 sobre humedad), linterna LED. Cada troza la comprueba:
 
 - **Troza 1** (SO-SOS-12-P1): long. 4,12 m, diám. de testa fina 34 cm, diám. de cepa 36 cm, conicidad 0,5 cm/m (buena). Humedad en el extremo fino, 5 cm desde la testa, 8 mm de profundidad: **33,2%**. Segunda medición a 1 m de la testa: 31,8%. Tercera a 2 m de la testa: 32,5%. **Media 32,5%** (fresca, pino clásico a los 7 días tras la tala). Defectos visibles: nudo resinoso en el extremo fino a 80 cm de longitud, diámetro del nudo 3 cm (admisible para C24 según PN-EN 1611-1, véase l2 M3 T2). Sin fendas medulares visibles en la testa.
 - **Troza 2** (SO-SOS-12-P2): long. 4,09 m, diám. 31 cm, hum. 31,9%, sin defectos visibles en la testa. La mejor de las cuatro.
@@ -54,11 +54,11 @@ Rustam va al almacén SO-SOS-12, estante 4, donde están las cuatro trozas prepa
 
 Volumen neto total (cálculo simplificado, cilindro medio): **~1,32 m³ de *dłużycy* (fustes)**. Rendimiento esperado para pino silvestre en tablas de suelo de 28 mm: **55-60%** (es decir, de 1,32 m³ de fuste saldrán 0,73-0,79 m³ de madera aserrada en bruto). El encargo exige 0,55 m³, con lo cual hay un **margen de 25-30%** para descartes, defectos internos detectados tras el corte, no conformidad de la clase resistente. Margen cómodo, pero no excesivo.
 
-Rustam anota estos datos en la ficha KDP-001 en la sección "Material de entrada". Wahan los copia a la agenda; Rustam no le corrige, que aprenda a tomar notas.
+Mykoła anota estos datos en la ficha KDP-001 en la sección "Material de entrada". Wasyl los copia a la agenda; Mykoła no le corrige, que aprenda a tomar notas.
 
 ### 7:15, decisión sobre la cinta
 
-Rustam vuelve a la nave, se coloca frente al armario de cintas (estante metálico junto a la P3, 8 baldas, cada una con una cinta de repuesto en su rollo con papel protector). Recuerda de las l6 y l7: **el aserradero de cinta LT70 de EGIDA usa cintas de 38 × 1,07 mm**. El tipo de acero, el ángulo de ataque (*hook angle*), el paso de los dientes (*tooth pitch*) y el tipo de filo (estelita, aleación, temple) son variables.
+Mykoła vuelve a la nave, se coloca frente al armario de cintas (estante metálico junto a la P3, 8 baldas, cada una con una cinta de repuesto en su rollo con papel protector). Recuerda de las l6 y l7: **el aserradero de cinta LT70 de EGIDA usa cintas de 38 × 1,07 mm**. El tipo de acero, el ángulo de ataque (*hook angle*), el paso de los dientes (*tooth pitch*) y el tipo de filo (estelita, aleación, temple) son variables.
 
 Cintas posibles en el armario:
 
@@ -69,7 +69,7 @@ Cintas posibles en el armario:
 5. **Estelita 38/10** (acero con estelita, paso 10 TPI, ángulo 9°), nº ST-38-10-S12. Roble, tablas más gruesas. Precio 405 zł netos.
 6. **Gastadas de varios afilados** (apartadas en un lugar separado, al final de su vida útil)
 
-Rustam piensa en voz alta en polaco, Wahan escucha:
+Mykoła piensa en voz alta en polaco, Wasyl escucha:
 
 *"El encargo es pino fresco, 32% de humedad, grosor objetivo 28 mm en mojado. Para pino fresco elegimos acero de **aleación**, no estelita. La estelita cuesta 2,5 veces más y mantiene el filo más tiempo, pero en pino fresco la resina sella rápido la estelita, el desafilado es más rápido que en roble. En pino es mejor una cinta más barata de aleación, afilada con más frecuencia."*
 
@@ -89,7 +89,7 @@ Justificación: pino fresco 32%, tablas 28 mm, óptima aleación 7/8 TPI
 
 ### 7:22, tensión y guías
 
-Rustam abre la cubierta lateral de la P3, sube la palanca del tensor a la posición SUELTO, retira la cinta anterior (la de Damian del viernes, aleación 38/7/8 con etiqueta de desgaste de 140 cortes, vuelve a la rotación de afilado), monta la nueva. Recorrido de la cinta entre las ruedas: tensión, ajuste de guías, alineación (alineación vertical).
+Mykoła abre la cubierta lateral de la P3, sube la palanca del tensor a la posición SUELTO, retira la cinta anterior (la de Damian del viernes, aleación 38/7/8 con etiqueta de desgaste de 140 cortes, vuelve a la rotación de afilado), monta la nueva. Recorrido de la cinta entre las ruedas: tensión, ajuste de guías, alineación (alineación vertical).
 
 La **tensión de la cinta** es un parámetro **dependiente del operador** (de la l6 M3 T2). El manómetro del Wood-Mizer LT70 muestra el valor en PSI (libras por pulgada cuadrada). Rango seguro para cintas de 38 mm: **2200-2400 PSI**. Elección dentro del rango:
 
@@ -97,11 +97,11 @@ La **tensión de la cinta** es un parámetro **dependiente del operador** (de la
 - Madera blanda (pino, abeto), cinta de aleación: **2200 PSI** (límite inferior del rango). La cinta "respira", menor riesgo de rotura, menor carga sobre las ruedas. El corte queda mínimamente más sensible a los nudos pero de forma aceptable.
 - Madera congelada o muy dura (roble congelado, exóticas): **2400 PSI** más observación cuidadosa del manómetro en los primeros 5 minutos de corte.
 
-Hoy es pino fresco, aleación 7/8. Rustam ajusta **2200 PSI** (gira el volante del tensor cinco vueltas y media a la derecha, observa el manómetro subiendo). El manómetro se detiene en 2200, vibra ligeramente, pero no baja. Temperatura de la nave 18 °C, sin deriva de tensión. **OK**.
+Hoy es pino fresco, aleación 7/8. Mykoła ajusta **2200 PSI** (gira el volante del tensor cinco vueltas y media a la derecha, observa el manómetro subiendo). El manómetro se detiene en 2200, vibra ligeramente, pero no baja. Temperatura de la nave 18 °C, sin deriva de tensión. **OK**.
 
 Las **guías de la cinta** (rodillos a ambos lados de la cinta, inferior y superior, regulan la posición lateral de la cinta y evitan que la cinta "flote" en el corte). Cada guía tiene un ajuste de **distancia respecto a la cinta**. Rango: **3-4 mm** (de la l6). Demasiado apretada (por debajo de 3 mm): la guía toca la cinta, se calienta, se desgasta rápido, genera vibraciones. Demasiado floja (por encima de 4 mm): la cinta "flota", corte ondulado.
 
-Rustam ajusta con galgas de espesores de 3,5 mm (estándar de EGIDA, centro del rango). Cuatro puntos de ajuste (inferior y superior, izquierdo y derecho). Cada uno por turnos: la galga entra floja, pero sin holgura. Si entra demasiado floja, el mando de ajuste gira a la derecha 1/8 de vuelta. Si no entra en absoluto, gira a la izquierda 1/4 de vuelta. **Calibración 3 minutos, cuatro puntos OK**.
+Mykoła ajusta con galgas de espesores de 3,5 mm (estándar de EGIDA, centro del rango). Cuatro puntos de ajuste (inferior y superior, izquierdo y derecho). Cada uno por turnos: la galga entra floja, pero sin holgura. Si entra demasiado floja, el mando de ajuste gira a la derecha 1/8 de vuelta. Si no entra en absoluto, gira a la izquierda 1/4 de vuelta. **Calibración 3 minutos, cuatro puntos OK**.
 
 En la KDP-001, sección "Ajustes de la máquina":
 ```
@@ -112,7 +112,7 @@ Temperatura de la nave al inicio: 18 °C
 
 ### 7:30, velocidad de avance y esquema de corte
 
-La **velocidad de avance** (*feed rate*) es la velocidad con la que el cabezal del aserradero se desplaza sobre el carril durante el corte. Se mide en pies por minuto (imperial Wood-Mizer) o metros por minuto. El panel de la LT70 de EGIDA la muestra en pies/min, Rustam la convierte mentalmente a m/min (1 pie = 0,305 m, es decir, 30 pies/min ≈ 9 m/min).
+La **velocidad de avance** (*feed rate*) es la velocidad con la que el cabezal del aserradero se desplaza sobre el carril durante el corte. Se mide en pies por minuto (imperial Wood-Mizer) o metros por minuto. El panel de la LT70 de EGIDA la muestra en pies/min, Mykoła la convierte mentalmente a m/min (1 pie = 0,305 m, es decir, 30 pies/min ≈ 9 m/min).
 
 Rango de la LT70: **0-80 pies/min** (0-24 m/min). La elección depende de cuatro factores:
 
@@ -121,7 +121,7 @@ Rango de la LT70: **0-80 pies/min** (0-24 m/min). La elección depende de cuatro
 3. **Grosor de corte**. Tablas gruesas (50+ mm) → más lento (más tiempo en la madera, más virutas). Finas (menos de 25 mm) → más rápido (menos material retirado).
 4. **Diámetro de la troza**. Troza grande → más lento en el primer pase (corte por el mismo cogollo es el más difícil). Troza pequeña → más rápido.
 
-Condiciones de hoy: pino fresco, grosor 28 mm, diámetro 32 cm. Recomendación Wood-Mizer en el DTR de la LT70, tabla 3.5: **30-35 pies/min** (9-10,5 m/min). Rustam elige **32 pies/min** como arranque (centro del rango). Corrección posible tras el primer corte (observación del corte, rectitud de la tabla, sonido del motor).
+Condiciones de hoy: pino fresco, grosor 28 mm, diámetro 32 cm. Recomendación Wood-Mizer en el DTR de la LT70, tabla 3.5: **30-35 pies/min** (9-10,5 m/min). Mykoła elige **32 pies/min** como arranque (centro del rango). Corrección posible tras el primer corte (observación del corte, rectitud de la tabla, sonido del motor).
 
 El **esquema de corte** (*sawing pattern*) es el orden de los cortes y la forma de girar la troza. Dos esquemas básicos para tablas de suelo de pino:
 
@@ -129,7 +129,7 @@ El **esquema de corte** (*sawing pattern*) es el orden de los cortes y la forma 
 
 **Esquema B: corte por cuarterones con giro (*quarter sawing*).** La troza se corta verticalmente por la médula en dos mitades. Cada mitad se gira 90° y se corta verticalmente por el eje de la médula en cuartos. Los cuartos se cortan en paralelo en tablas. **Ventajas**: los anillos anuales quedan perpendiculares a la superficie de la tabla (mayor resistencia mecánica, mejor estabilidad dimensional, clase C24 + más fiable, a veces C30). **Inconvenientes**: más operaciones, más lento, menor rendimiento para trozas estrechas (por debajo de 30 cm la pérdida es grande), exige girar la troza.
 
-Rustam piensa: *"El encargo exige C24. Clase segura, no C30 ni C16. El esquema A es más rápido y da C24 para pino silvestre al 32% de humedad sin problema. El esquema B sería mejor para C30 pero el encargo no lo exige, la carga de trabajo del operador sería el doble, el rendimiento un 5% peor. **Elijo A**, corte por pieza cuadrada estándar."*
+Mykoła piensa: *"El encargo exige C24. Clase segura, no C30 ni C16. El esquema A es más rápido y da C24 para pino silvestre al 32% de humedad sin problema. El esquema B sería mejor para C30 pero el encargo no lo exige, la carga de trabajo del operador sería el doble, el rendimiento un 5% peor. **Elijo A**, corte por pieza cuadrada estándar."*
 
 En la KDP-001, sección "Parámetros de corte":
 ```
@@ -143,11 +143,11 @@ Estrategia de tandas: 4 costeros + 8-10 tablas por pieza (previstas 8 tablas de 
 
 ### 7:38, última comprobación, arranque
 
-Ficha KDP-001 rellenada, Rustam la pliega al formato A4 (un solo pliegue), la mete en un sobre de papel con la anotación "**ZLE-2026-05-077 P3 26.05 Rustam**", la deja en el escritorio del encargado en la esquina de la nave. Marek la recogerá después del turno.
+Ficha KDP-001 rellenada, Mykoła la pliega al formato A4 (un solo pliegue), la mete en un sobre de papel con la anotación "**ZLE-2026-05-077 P3 26.05 Mykoła**", la deja en el escritorio del encargado en la esquina de la nave. Marek la recogerá después del turno.
 
-En el panel de la P3: ajuste de la velocidad de avance a **32 pies/min** (potenciómetro del panel, escala 0-80, giro a la posición central entre 30 y 35). Altura del cabezal fijada: el primer corte retirará una *oblina* (costero) de 3-5 cm de grosor (depende de la conicidad de la troza, apreciación visual de Rustam).
+En el panel de la P3: ajuste de la velocidad de avance a **32 pies/min** (potenciómetro del panel, escala 0-80, giro a la posición central entre 30 y 35). Altura del cabezal fijada: el primer corte retirará una *oblina* (costero) de 3-5 cm de grosor (depende de la conicidad de la troza, apreciación visual de Mykoła).
 
-Wahan está de pie junto al transportador auxiliar, tiene la tarea de recoger la *oblina* (costero) y las tablas de la plataforma de salida (el operador de la LT70 está solo en la plataforma principal). Entre ellos, comunicación visual y gestos breves (de M1 l1: "STOP" = palma plana en vertical, "adelante" = movimiento circular, "más despacio" = mano hacia abajo).
+Wasyl está de pie junto al transportador auxiliar, tiene la tarea de recoger la *oblina* (costero) y las tablas de la plataforma de salida (el operador de la LT70 está solo en la plataforma principal). Entre ellos, comunicación visual y gestos breves (de M1 l1: "STOP" = palma plana en vertical, "adelante" = movimiento circular, "más despacio" = mano hacia abajo).
 
 **7:40 motor arrancado**, 37 kW eléctrico, LED verde, LED naranja en modo *ready*, cinta iniciando revoluciones. 10 segundos de arranque hasta plena velocidad. 7:41 primer corte, troza 1, retirada de la primera *oblina*. Las tablas salen.
 
@@ -215,7 +215,7 @@ De la l6 M3 T2 sabemos: la cinta de un aserradero de cinta tiene cuatro variable
 | Congelada (diciembre-febrero) | cualquiera | Aleación | 22 | 13° | ST-38-22-A12 |
 | Gran diámetro (45+ cm) | Tablas gruesas 40+ mm | Aleación | 22 | 13° | ST-38-22-A12 |
 
-Para el encargo de hoy (pino fresco 32%, tablas 28 mm) la primera fila: **aleación 7/8, ángulo 10°**. Rustam ha elegido ST-38-7/8-A12 del almacén. Correcto.
+Para el encargo de hoy (pino fresco 32%, tablas 28 mm) la primera fila: **aleación 7/8, ángulo 10°**. Mykoła ha elegido ST-38-7/8-A12 del almacén. Correcto.
 
 ### 3. Tensión de la cinta, influencia profunda en el corte
 
@@ -235,7 +235,7 @@ La tensión de la cinta en un aserradero de cinta es la fuerza con la que las ru
 - El desgaste de la soldadura de la cinta aumenta (vida media de la cinta 140-180 cortes a 2200 PSI, 110-140 cortes a 2400 PSI)
 - La carga sobre los rodamientos de las ruedas aumenta (pero poco, por debajo del 1% de reducción de vida útil por cada 100 PSI)
 
-Para el encargo de hoy (pino fresco, aleación, trabajo cómodo) **2200 PSI** es la elección estándar. Rustam así la ajustó. Para pino seco o mezcla de pino y alerce (que es más duro) consideraría 2300.
+Para el encargo de hoy (pino fresco, aleación, trabajo cómodo) **2200 PSI** es la elección estándar. Mykoła así la ajustó. Para pino seco o mezcla de pino y alerce (que es más duro) consideraría 2300.
 
 **Trampa frecuente de los principiantes**: "basta tensar más y el corte será mejor". No siempre, porque a veces un mejor corte lo da la corrección de la velocidad de avance (más despacio), no la tensión. Y una tensión por encima de 2400 PSI cuesta en cintas más a menudo de lo que aporta en calidad de corte.
 
@@ -268,9 +268,9 @@ La falta de calibración de las guías es una de las tres causas más frecuentes
 
 La velocidad de avance es el único parámetro que **cambia en el transcurso del turno**. La cinta es la misma, la tensión es la misma, las guías son las mismas. Pero la velocidad la **corriges** a partir de la observación del corte.
 
-**Arranque**: recomendación de Wood-Mizer del DTR (tabla 3.5 LT70) o experiencia de EGIDA. Para pino fresco 28 mm de tabla, como Rustam hoy: **32 pies/min** (centro del rango recomendado 30-35).
+**Arranque**: recomendación de Wood-Mizer del DTR (tabla 3.5 LT70) o experiencia de EGIDA. Para pino fresco 28 mm de tabla, como Mykoła hoy: **32 pies/min** (centro del rango recomendado 30-35).
 
-**Corrección tras el primer corte** (primera *oblina* retirada, Rustam observa la superficie de corte):
+**Corrección tras el primer corte** (primera *oblina* retirada, Mykoła observa la superficie de corte):
 
 - Superficie **lisa y recta** (corte como una hoja de papel, sin ola) → velocidad OK, deja 32.
 - Superficie con ligero **"escamado"** en la dirección del corte (pequeños picos cada 5-10 cm a lo largo) → velocidad **demasiado rápida**, reduce a 28-30 pies/min.
@@ -279,7 +279,7 @@ La velocidad de avance es el único parámetro que **cambia en el transcurso del
 - Sonido del motor **irregular**, "ondulante" → velocidad **demasiado rápida**, el motor se acerca a la sobrecarga, reduce 3-5 pies/min.
 - Sonido del motor **muy agudo, silbante** → velocidad **demasiado lenta** (el motor trabaja "flojo", la cinta no muerde la madera, energía desperdiciada), aumenta 3-5 pies/min.
 
-Rustam enseña esta corrección a Wahan mediante **ejemplos con nombre**. Cada troza posterior es una oportunidad para cambiar la velocidad y Wahan aprende a escuchar el motor.
+Mykoła enseña esta corrección a Wasyl mediante **ejemplos con nombre**. Cada troza posterior es una oportunidad para cambiar la velocidad y Wasyl aprende a escuchar el motor.
 
 **Anotación en KDP-001** final (al terminar el turno, por la tarde), en el campo "Parámetros realmente aplicados":
 ```
@@ -296,15 +296,15 @@ Este es el documento de fuerza del encargado: ve que el operador no solo fijó e
 
 Esquema A, *cant sawing* (corte por pieza cuadrada, después en paralelo):
 
-**Etapa 1**. La troza reposa horizontalmente sobre la bancada, la sección transversal de testa redonda visible por el frente de la máquina. Rustam arranca el avance, el cabezal avanza sobre el carril, la cinta retira la **primera *oblina*** (costero: protuberancia redondeada de la cara superior de la troza, normalmente 3-5 cm de grosor en el centro, más fina en los extremos). Estima el grosor del costero visualmente antes del arranque con el ajuste de altura del cabezal. Efecto: troza con la parte superior plana.
+**Etapa 1**. La troza reposa horizontalmente sobre la bancada, la sección transversal de testa redonda visible por el frente de la máquina. Mykoła arranca el avance, el cabezal avanza sobre el carril, la cinta retira la **primera *oblina*** (costero: protuberancia redondeada de la cara superior de la troza, normalmente 3-5 cm de grosor en el centro, más fina en los extremos). Estima el grosor del costero visualmente antes del arranque con el ajuste de altura del cabezal. Efecto: troza con la parte superior plana.
 
-**Etapa 2**. Giro de la troza 180° (con ayuda del volteador hidráulico, *log turner*). La antigua parte superior ahora es inferior, la antigua inferior es superior. Rustam retira la **segunda *oblina***. Efecto: troza con dos caras planas opuestas, dos costeros originales a los lados izquierdo y derecho.
+**Etapa 2**. Giro de la troza 180° (con ayuda del volteador hidráulico, *log turner*). La antigua parte superior ahora es inferior, la antigua inferior es superior. Mykoła retira la **segunda *oblina***. Efecto: troza con dos caras planas opuestas, dos costeros originales a los lados izquierdo y derecho.
 
-**Etapa 3**. Giro de la troza 90° (el mismo volteador). Uno de los dos costeros laterales queda ahora arriba. Rustam retira la **tercera *oblina***. Efecto: troza con tres caras planas.
+**Etapa 3**. Giro de la troza 90° (el mismo volteador). Uno de los dos costeros laterales queda ahora arriba. Mykoła retira la **tercera *oblina***. Efecto: troza con tres caras planas.
 
 **Etapa 4**. Giro de la troza 180°. El último costero (cuarto) arriba. Retirada. Efecto: **pieza cuadrada (*cant*)**, dimensiones próximas al cuadrado. Para pino de Ø 32 cm de diámetro, el cuadrado queda de unos 23 × 23 cm (lados con margen, pérdidas del 20-25% en los 4 costeros).
 
-**Etapa 5 y siguientes**. De la pieza cuadrada Rustam corta en paralelo tablas de 28 mm de grosor. Contando: 23 cm / 28 mm = 8,2, es decir **8 tablas** limpias más una "media tabla" (resto de 15-20 mm), que va a leña o a mecanizado como listón. Ocho tablas de dimensiones 28 × 155 mm (anchura limitada por la sección de la pieza cuadrada) y longitud 4050 mm.
+**Etapa 5 y siguientes**. De la pieza cuadrada Mykoła corta en paralelo tablas de 28 mm de grosor. Contando: 23 cm / 28 mm = 8,2, es decir **8 tablas** limpias más una "media tabla" (resto de 15-20 mm), que va a leña o a mecanizado como listón. Ocho tablas de dimensiones 28 × 155 mm (anchura limitada por la sección de la pieza cuadrada) y longitud 4050 mm.
 
 **Tiempo del esquema A completo para una troza de 32 cm y 4 m**: 4 costeros a ~35 segundos = 2 min 20 s, más 8 tablas a ~30 segundos (la tabla es más corta que la troza, igual de larga) = 4 min, más 4 giros a ~15 s = 1 min. Total **~7-8 minutos** desde el primer corte hasta la última tabla.
 
@@ -314,7 +314,7 @@ Esquema A, *cant sawing* (corte por pieza cuadrada, después en paralelo):
 
 Esquema B, *quarter sawing* (corte por cuarterones):
 
-**Etapa 1**. La troza reposa horizontalmente, Rustam ajusta el primer corte de modo que la cinta pasa por el centro de la troza, por la médula. El corte recorre toda la longitud de la troza. Efecto: **troza en dos semicírculos** (forma rica de letra D).
+**Etapa 1**. La troza reposa horizontalmente, Mykoła ajusta el primer corte de modo que la cinta pasa por el centro de la troza, por la médula. El corte recorre toda la longitud de la troza. Efecto: **troza en dos semicírculos** (forma rica de letra D).
 
 **Etapa 2**. Un semicírculo se aparta (carro del ayudante), el otro se gira 90° respecto a la posición inicial (cara plana ahora abajo, redondeo arriba). Corte por el centro de este semicírculo, perpendicular al corte inicial. Efecto: **cuartos de troza** (forma de Y irregular).
 
@@ -338,7 +338,7 @@ Esquema B, *quarter sawing* (corte por cuarterones):
 - Queda poca vida de la cinta (el esquema B desgasta la cinta más rápido, 15-20% de reducción de vida útil por troza)
 - Presión de tiempo (encargo para mañana, no hay el doble de tiempo)
 
-Rustam hoy ha elegido A. Wahan anotó en la agenda la pregunta: *"¿Cuándo B?"* para hablar después del turno.
+Mykoła hoy ha elegido A. Wasyl anotó en la agenda la pregunta: *"¿Cuándo B?"* para hablar después del turno.
 
 ### 8. Documentación de la decisión, ficha KDP-001
 
@@ -420,11 +420,11 @@ No todo encargo está en la zona de confort del operador M3. Hay situaciones en 
 
 ### 11. Primer día de la P3 tras el servicio, observaciones de respaldo
 
-Ten en cuenta que hoy es el **primer día de la P3 tras el servicio del Sr. Krzysztof del jueves**. Cilindro de elevación del cabezal con junta sustituida, 400 ml de aceite hidráulico añadidos, todo probado bajo supervisión. Rustam tiene dos motivos de vigilancia adicional:
+Ten en cuenta que hoy es el **primer día de la P3 tras el servicio del Sr. Krzysztof del jueves**. Cilindro de elevación del cabezal con junta sustituida, 400 ml de aceite hidráulico añadidos, todo probado bajo supervisión. Mykoła tiene dos motivos de vigilancia adicional:
 
-**Motivo 1. Manómetro**. El manómetro de la tensión de la cinta está asociado al cilindro del tensor, no al de elevación. Pero ambos cilindros están en el mismo sistema hidráulico (depósito común de aceite Shell TTF-SB, bomba común). Si el sistema hidráulico tras el servicio tiene una presión de trabajo mínimamente distinta a antes, el manómetro del tensor puede mostrar valores algo distintos. Rustam **comprueba la calibración del manómetro** girando el mando del tensor de SUELTO al rango pleno, observando la subida de 0 a 2200 PSI de forma fluida, sin saltos. **OK**, manómetro fluido, calibración aparentemente mantenida.
+**Motivo 1. Manómetro**. El manómetro de la tensión de la cinta está asociado al cilindro del tensor, no al de elevación. Pero ambos cilindros están en el mismo sistema hidráulico (depósito común de aceite Shell TTF-SB, bomba común). Si el sistema hidráulico tras el servicio tiene una presión de trabajo mínimamente distinta a antes, el manómetro del tensor puede mostrar valores algo distintos. Mykoła **comprueba la calibración del manómetro** girando el mando del tensor de SUELTO al rango pleno, observando la subida de 0 a 2200 PSI de forma fluida, sin saltos. **OK**, manómetro fluido, calibración aparentemente mantenida.
 
-**Motivo 2. Fuga**. Ayer (viernes) Damian trabajó en la P3 tras el servicio, sin incidencia. El sábado la máquina estuvo fría, pudo aparecer condensado (cambio de temperatura día y noche). Rustam **antes del arranque comprueba el suelo bajo el cilindro de elevación**: ninguna mancha, ninguna humedad, seco. **OK**, el servicio aguanta.
+**Motivo 2. Fuga**. Ayer (viernes) Damian trabajó en la P3 tras el servicio, sin incidencia. El sábado la máquina estuvo fría, pudo aparecer condensado (cambio de temperatura día y noche). Mykoła **antes del arranque comprueba el suelo bajo el cilindro de elevación**: ninguna mancha, ninguna humedad, seco. **OK**, el servicio aguanta.
 
 Apunte en KDP-001, sección "Ajustes de la máquina", anotación:
 ```
@@ -434,19 +434,19 @@ Bajo el cilindro de elevación seco, sin fuga desde el sábado.
 Arranque del encargo ZLE-077, 7:40.
 ```
 
-Esto no es un requisito formal, es un **buen hábito del operador independiente**. En caso de detectar una avería durante el turno, Rustam tendrá el rastro "tras el arranque estaba OK" como punto de referencia.
+Esto no es un requisito formal, es un **buen hábito del operador independiente**. En caso de detectar una avería durante el turno, Mykoła tendrá el rastro "tras el arranque estaba OK" como punto de referencia.
 
 ## Escena de cierre, 14:30, primeras tres trozas terminadas
 
-Lunes 26-05-2026, 14:30 horas. Rustam y Wahan han cerrado **tres trozas de cuatro**: P1, P2, P3. La troza P4 en cola de corte, inicio 14:35, fin estimado 15:10, es decir, 10 minutos después de la hora formal de fin de turno (15:00). El encargado (Marek) lo ve y no hay problema, pagará los 10 minutos de hora extra a tarifa estándar.
+Lunes 26-05-2026, 14:30 horas. Mykoła y Wasyl han cerrado **tres trozas de cuatro**: P1, P2, P3. La troza P4 en cola de corte, inicio 14:35, fin estimado 15:10, es decir, 10 minutos después de la hora formal de fin de turno (15:00). El encargado (Marek) lo ve y no hay problema, pagará los 10 minutos de hora extra a tarifa estándar.
 
 ### Balance de las tres trozas
 
-**Troza 1**: retirados 4 costeros (3 min 40 s), retiradas 8 tablas de 28 × 155 mm (4 min 30 s), más 1 listón de resto de 18 × 155 mm (a leña). Total 8 tablas, **0,1412 m³** de madera aserrada en bruto. La primera y la última tabla de la pieza cuadrada contenían parte del costero (nudo resinoso a 80 cm, Rustam lo marcó para el clasificador). Rendimiento de la troza P1: **57%**.
+**Troza 1**: retirados 4 costeros (3 min 40 s), retiradas 8 tablas de 28 × 155 mm (4 min 30 s), más 1 listón de resto de 18 × 155 mm (a leña). Total 8 tablas, **0,1412 m³** de madera aserrada en bruto. La primera y la última tabla de la pieza cuadrada contenían parte del costero (nudo resinoso a 80 cm, Mykoła lo marcó para el clasificador). Rendimiento de la troza P1: **57%**.
 
 **Troza 2**: Troza la mejor (sin defectos). Costeros 3 min 50 s, 9 tablas de 28 × 155 mm (5 min), resto de 12 × 155 mm (a leña). **9 tablas, 0,158 m³**. Rendimiento: **64%**. La mejor.
 
-**Troza 3**: Troza con fenda radial de 8 cm en la cepa. Rustam orientó la fenda **hacia abajo** en la primera colocación (no hacia arriba, porque entonces quedaría en el costero, desperdicio). Tras retirar el cuarto costero la fenda se reveló en la pieza cuadrada como una marca de 8 cm de longitud en la esquina superior. Rustam corta 8 tablas, de las cuales **7** son limpias, la 8.ª contiene la fenda (queda clasificada como C16 en lugar de C24, bajada de calidad, pero aceptable para surtido de suelo). Total 8 tablas, **0,141 m³**. Rendimiento: **56%**.
+**Troza 3**: Troza con fenda radial de 8 cm en la cepa. Mykoła orientó la fenda **hacia abajo** en la primera colocación (no hacia arriba, porque entonces quedaría en el costero, desperdicio). Tras retirar el cuarto costero la fenda se reveló en la pieza cuadrada como una marca de 8 cm de longitud en la esquina superior. Mykoła corta 8 tablas, de las cuales **7** son limpias, la 8.ª contiene la fenda (queda clasificada como C16 en lugar de C24, bajada de calidad, pero aceptable para surtido de suelo). Total 8 tablas, **0,141 m³**. Rendimiento: **56%**.
 
 **Suma tras tres trozas**: 25 tablas de **buena calidad** (surtido objetivo), 0,441 m³ de madera aserrada en bruto. Más 1 tabla C16 con fenda de P3 (tal vez vaya a listón de friso en lugar de suelo).
 
@@ -454,21 +454,21 @@ Lunes 26-05-2026, 14:30 horas. Rustam y Wahan han cerrado **tres trozas de cuatr
 
 Velocidad de avance:
 - Troza 1, arranque 32 pies/min, sin corrección, OK (corte recto).
-- Troza 2, arranque 32, tras los primeros 2 m del cabezal ligero escamado en la superficie, Rustam reduce a 30 pies/min, resto de cortes OK. Decisión a partir de la observación de la superficie.
+- Troza 2, arranque 32, tras los primeros 2 m del cabezal ligero escamado en la superficie, Mykoła reduce a 30 pies/min, resto de cortes OK. Decisión a partir de la observación de la superficie.
 - Troza 3, arranque 30 (memoria de P2, el pino fresco se comporta de forma similar), todo el tiempo 30, OK. La ligera bajada de clase de la tabla 8.ª de P3 es defecto del material, no del parámetro.
 
 Tensión de la cinta:
 - 2200 PSI durante las tres trozas, sin corrección. El manómetro vibraba en el rango 2180-2220 (desviación admisible), no hubo necesidad de reajustar.
 
 Guías:
-- Calibradas por la mañana a 3,5 mm, al finalizar P2 Rustam hizo una prueba rápida con galga, la holgura aguanta (3,5-3,6 mm, deriva mínima).
+- Calibradas por la mañana a 3,5 mm, al finalizar P2 Mykoła hizo una prueba rápida con galga, la holgura aguanta (3,5-3,6 mm, deriva mínima).
 
 Cinta:
 - Aleación 38/7/8 ST-38-7/8-A12, contador tras 3 trozas = **~90 cortes** (costeros + tablas + giros por troza ~30 cortes, 3 trozas = 90). La cinta sigue fresca, para el turno de hoy es suficiente, sustitución no antes de 140-180 cortes, es decir, 2 trozas más que hoy (mañana martes troza 4 más otras 4 si continúa el encargo).
 
 ### Anotación en KDP-001, sección 5 (parámetros reales)
 
-Rustam añade en la sección 5 de la ficha:
+Mykoła añade en la sección 5 de la ficha:
 
 ```
 Parámetros realmente aplicados:
@@ -482,21 +482,21 @@ Estrategia de orden de trozas: P2 (la mejor) en segundo lugar,
         para estabilizar parámetros antes de P3 (con fenda).
 ```
 
-### Reflexión de Rustam
+### Reflexión de Mykoła
 
-Rustam conversa con Wahan tomando café en la pausa 14:35 antes de arrancar P4:
+Mykoła conversa con Wasyl tomando café en la pausa 14:35 antes de arrancar P4:
 
-*"Wahan, ¿te has fijado en que en P2 cambié la velocidad tras 2 metros? Los primeros 2 metros iban bien, luego empecé a ver pequeños picos en la superficie de corte, cada 10 cm. ¿Lo conoces? Eso significa que la velocidad es demasiado alta, la cinta no llega a morder. Reduje, los pequeños picos desaparecieron. Corrección más rápida, más barata que una tabla estropeada."*
+*"Wasyl, ¿te has fijado en que en P2 cambié la velocidad tras 2 metros? Los primeros 2 metros iban bien, luego empecé a ver pequeños picos en la superficie de corte, cada 10 cm. ¿Lo conoces? Eso significa que la velocidad es demasiado alta, la cinta no llega a morder. Reduje, los pequeños picos desaparecieron. Corrección más rápida, más barata que una tabla estropeada."*
 
-Wahan asiente. En la agenda tiene la nota: *"32 arranque pino → si picos, bajar a 30. Solo si son picos, no ola, porque ola es cinta o tensión."*
+Wasyl asiente. En la agenda tiene la nota: *"32 arranque pino → si picos, bajar a 30. Solo si son picos, no ola, porque ola es cinta o tensión."*
 
 *"¿Por qué crees que empecé por P1, no por P2?"*
 
-Wahan piensa un momento: *"Porque... ¿P1 era la primera en el almacén?"*
+Wasyl piensa un momento: *"Porque... ¿P1 era la primera en el almacén?"*
 
 *"No. Porque P1 tiene nudo resinoso, y yo quería el primer corte con nudo, para comprobar cómo funcionan los parámetros en la variante más difícil. Si funcionan en lo difícil, funcionarán en lo fácil. Al revés no. **De lo difícil a lo fácil en el primer corte del turno**, luego a lo fácil al final. Eso se recuerda."*
 
-Wahan apunta: *"Primera troza = la más difícil o la típica. No la más fácil, porque los parámetros engañarán."*
+Wasyl apunta: *"Primera troza = la más difícil o la típica. No la más fácil, porque los parámetros engañarán."*
 
 *"Y una cosa más. En la KDP-001 verás que en la sección 5 anoté por qué cambié la velocidad en P2. No solo 'cambié', sino 'cambié porque escamado'. Si alguien viene dentro de un año o dos y lo mira, verá no solo qué, sino también por qué. **Un parámetro sin justificación es magia. Un parámetro con justificación es conocimiento.**"*
 
@@ -506,9 +506,9 @@ Troza 4 (la más esbelta, sin defectos): 4 costeros 3 min 30 s, 8 tablas de 28 �
 
 **Suma de cuatro trozas**: 33 tablas de surtido objetivo (32 C24 + 1 C16 con fenda), **0,582 m³** de madera aserrada en bruto. El encargo exigía 0,55 m³, por tanto **excedente del 5%**, bueno como búfer de secado (de esos 0,58 m³ tras secado y mecanizado quedarán ~0,49 m³, pedido del cliente 0,48 m³, excedente del 2%). **Encargo realizado conforme a las expectativas**.
 
-Rustam retira la cinta (irá para mañana, en el almacén bajo funda), limpia el puesto con Wahan (10 minutos), rellena la KDP-001 definitivamente (sección 5 más firma más hora 15:18), pliega la ficha en el sobre, la deja en el escritorio del encargado.
+Mykoła retira la cinta (irá para mañana, en el almacén bajo funda), limpia el puesto con Wasyl (10 minutos), rellena la KDP-001 definitivamente (sección 5 más firma más hora 15:18), pliega la ficha en el sobre, la deja en el escritorio del encargado.
 
-Marek llegará por la tarde, la leerá, anotará sus observaciones en el expediente personal de Rustam (si las hay), la KDP irá a escanearse mañana por la mañana al OneDrive.
+Marek llegará por la tarde, la leerá, anotará sus observaciones en el expediente personal de Mykoła (si las hay), la KDP irá a escanearse mañana por la mañana al OneDrive.
 
 ## Términos clave
 

@@ -47,7 +47,7 @@ Zestaw **5 rozbudowanych scenariuszy praktycznych** do wykorzystania przez trene
 - **Trener** = wózkowy Krzysztof (gra rolę, udaje, że nie widzi kursanta)
 - **Asystent trenera** = brygadzista Marek (poza halą, odbierze telefon jeśli kursant zadzwoni)
 
-**Zadanie wyjściowe dla kursanta**. „Hai, kończ ostatnie 3 belki z partii DĄB-FSC-030, potem przekaż stanowisko Oleksiiemu".
+**Zadanie wyjściowe dla kursanta**. „Andrij, kończ ostatnie 3 belki z partii DĄB-FSC-030, potem przekaż stanowisko Oleksijowi".
 
 **Ukryte zagrożenia (nieujawnione kursantowi, wprowadzane stopniowo przez trenera)**:
 
@@ -112,7 +112,7 @@ Dodaj drugiego wózkowego od strony nieoczywistej (tył kursanta), albo pęknię
 - **Trener-Tadeusz** = senior operator pilarki, obserwator + egzaminator, interweniuje tylko jeśli ryzyko bezpośrednie
 - **Asystent** = brygadzista Marek (poza halą, dostępny telefonicznie)
 
-**Zadanie**. „Hai, dyspozycja na biurku, uruchom pilarkę, zrób pierwszy rzaz kontrolny, zameldujesz się Tadeuszowi po każdym kroku".
+**Zadanie**. „Andrij, dyspozycja na biurku, uruchom pilarkę, zrób pierwszy rzaz kontrolny, zameldujesz się Tadeuszowi po każdym kroku".
 
 ### Materiały do druku
 
@@ -133,7 +133,7 @@ Dodaj drugiego wózkowego od strony nieoczywistej (tył kursanta), albo pęknię
 
 ### Instrukcja dla trenera
 
-**Przed**. „Hai, to scenariusz dokładności procedury. Oczekuję, że wykonasz wszystkie 6 kroków uruchomienia + 5 kroków kwitowania dyspozycji. Kolejność ma znaczenie. Meldujesz się po każdym kroku ustnie".
+**Przed**. „Andrij, to scenariusz dokładności procedury. Oczekuję, że wykonasz wszystkie 6 kroków uruchomienia + 5 kroków kwitowania dyspozycji. Kolejność ma znaczenie. Meldujesz się po każdym kroku ustnie".
 
 **W trakcie**. Trener-Tadeusz stoi 3 m od stanowiska, obserwuje. Odpowiada na pytania ale **nie podpowiada**. Jeśli kursant pominie krok, trener notuje i pozwala kontynuować (pominięte kroki są zliczane w ocenie). Jeśli kursant zrobi **krok zagrażający bezpieczeństwu** (np. uruchomienie bez sprawdzenia osłon), trener STOP natychmiast, rozmowa korygująca, scenariusz kończy się wynikiem 0-1 pkt.
 
@@ -159,7 +159,7 @@ Dodaj drugiego wózkowego od strony nieoczywistej (tył kursanta), albo pęknię
 
 ### Rozszerzenie
 
-Dodaj w dyspozycji **zmianę priorytetu ustną** w trakcie (trener-Tadeusz dzwoni do kursanta o 7:15 mówiąc „Hai, priorytet zmieniony z A na C, klient przesunął termin"). Kursant musi odmówić akceptacji ustnej, prosić o aktualizację pisemną ołówkiem z parafką.
+Dodaj w dyspozycji **zmianę priorytetu ustną** w trakcie (trener-Tadeusz dzwoni do kursanta o 7:15 mówiąc „Andrij, priorytet zmieniony z A na C, klient przesunął termin"). Kursant musi odmówić akceptacji ustnej, prosić o aktualizację pisemną ołówkiem z parafką.
 
 ---
 
@@ -167,7 +167,7 @@ Dodaj w dyspozycji **zmianę priorytetu ustną** w trakcie (trener-Tadeusz dzwon
 
 ### Kontekst
 
-**Setting**. Czwartek 13:30, 40 desek sosny klasy A do posortowania przed końcem zmiany (15:00). Klient Dębowy Dom odbiera o 16:00. Wozownik magazynu EGIDA dzwoni do brygadzisty: „Marek, gdzie są te deski, klient już wysłał ciężarówkę". Marek przekazuje kursantowi: „Hai, masz 90 minut, 40 desek, musisz dać radę".
+**Setting**. Czwartek 13:30, 40 desek sosny klasy A do posortowania przed końcem zmiany (15:00). Klient Dębowy Dom odbiera o 16:00. Wozownik magazynu EGIDA dzwoni do brygadzisty: „Marek, gdzie są te deski, klient już wysłał ciężarówkę". Marek przekazuje kursantowi: „Andrij, masz 90 minut, 40 desek, musisz dać radę".
 
 **Bohaterowie**:
 - **Kursant** = junior operator sortowacz
@@ -189,14 +189,14 @@ Dodaj w dyspozycji **zmianę priorytetu ustną** w trakcie (trener-Tadeusz dzwon
 
 ### Instrukcja dla trenera
 
-**Przed**. „Hai, 40 desek klasy A, 90 minut, Marek pod presją. Twój wybór: (a) skrócić procedurę i ryzykować klasyfikacyjnie, (b) zachować procedurę i zgłosić problem, (c) improwizować trzecim sposobem".
+**Przed**. „Andrij, 40 desek klasy A, 90 minut, Marek pod presją. Twój wybór: (a) skrócić procedurę i ryzykować klasyfikacyjnie, (b) zachować procedurę i zgłosić problem, (c) improwizować trzecim sposobem".
 
 **W trakcie**. Trener-Marek dzwoni 3 razy:
-- **Minuta 15**: „Hai, jak idzie? Potrzebuję 30 A gotowych".
-- **Minuta 45**: „Hai, gdzie jesteś z sortowaniem? Klient już wysłał ciężarówkę".
-- **Minuta 75**: „Hai, ostatnie 15 min, pozostały 10 desek nieposortowanych?"
+- **Minuta 15**: „Andrij, jak idzie? Potrzebuję 30 A gotowych".
+- **Minuta 45**: „Andrij, gdzie jesteś z sortowaniem? Klient już wysłał ciężarówkę".
+- **Minuta 75**: „Andrij, ostatnie 15 min, pozostały 10 desek nieposortowanych?"
 
-Oczekiwana reakcja kursanta: **przy pierwszym telefonie** już zgłasza 4W „Marek, Hai, sortowanie SW-010, 13:45, przy obecnym tempie 3 min/deska skończę 30 A około 15:10-15:15, potrzebuję decyzji". Po odpowiedzi Marka (opcja a nadgodziny, b drugi sortowacz, c renegocjacja klienta), realizuje wybraną ścieżkę.
+Oczekiwana reakcja kursanta: **przy pierwszym telefonie** już zgłasza 4W „Marek, Andrij, sortowanie SW-010, 13:45, przy obecnym tempie 3 min/deska skończę 30 A około 15:10-15:15, potrzebuję decyzji". Po odpowiedzi Marka (opcja a nadgodziny, b drugi sortowacz, c renegocjacja klienta), realizuje wybraną ścieżkę.
 
 **Pułapka presji**. Jeśli kursant skraca procedurę (MC mierzy na 2 punktach zamiast 4, ocena wad wizualna na podstawie czasu 30 s zamiast 1,5 min), trener obserwuje 5 granicznych desek: ile z nich kursant źle sklasyfikuje. Każda deska granica/B sklasyfikowana jako A = 150 zł straty klienta + ryzyko reklamacji.
 
@@ -233,9 +233,9 @@ Dodaj **nierówny pakiet**: 15 desek A, 15 granicznych, 10 jasnych B. Kursant mu
 - **Trener-Krzysztof** = wózkowy irytujący się
 - **Asystent-Marek** = brygadzista dostępny telefonicznie
 
-**Zadanie**. „Hai, rozładuj pakiet DĄB-FSC-015, zarejestruj etykietę, zwróć wózkowemu rejestrację".
+**Zadanie**. „Andrij, rozładuj pakiet DĄB-FSC-015, zarejestruj etykietę, zwróć wózkowemu rejestrację".
 
-**Punkt konfliktu**. Krzysztof mówi: „Hai, zbyt długo myślisz, inni robią w 60 s, ty 3 min. Dzisiaj nie mam czasu, weź pakiet szybko, rejestracja potem". Pakiet ma etykietę **częściowo zalaną** (widać tylko „SO-DĄB-FSC-260427-0__", ostatnie 2 cyfry nieczytelne).
+**Punkt konfliktu**. Krzysztof mówi: „Andrij, zbyt długo myślisz, inni robią w 60 s, ty 3 min. Dzisiaj nie mam czasu, weź pakiet szybko, rejestracja potem". Pakiet ma etykietę **częściowo zalaną** (widać tylko „SO-DĄB-FSC-260427-0__", ostatnie 2 cyfry nieczytelne).
 
 ### Materiały do druku
 
@@ -253,15 +253,15 @@ Dodaj **nierówny pakiet**: 15 desek A, 15 granicznych, 10 jasnych B. Kursant mu
 
 ### Instrukcja dla trenera
 
-**Przed**. „Hai, to scenariusz komunikacji. Krzysztof będzie cię naciskał, twoja reakcja musi być asertywna, ale zachować relację zawodową. Eskaluj jeśli konflikt się nie rozwiąże".
+**Przed**. „Andrij, to scenariusz komunikacji. Krzysztof będzie cię naciskał, twoja reakcja musi być asertywna, ale zachować relację zawodową. Eskaluj jeśli konflikt się nie rozwiąże".
 
 **W trakcie**. Trener-Krzysztof nacisk narasta stopniowo:
-- **Poziom 1 (minuta 2)**: „Hai, bierz pakiet, rejestracja potem" (kursant powinien odmówić spokojnie).
+- **Poziom 1 (minuta 2)**: „Andrij, bierz pakiet, rejestracja potem" (kursant powinien odmówić spokojnie).
 - **Poziom 2 (minuta 5)**: „Ja nie mam czasu, inni biorą bez zabawy w papiery" (kursant powtarza odmowę, cytuje zasadę).
 - **Poziom 3 (minuta 10)**: „Słuchaj, dzwonię do Marka, powiem że ty blokujesz" (kursant MA zeskalować sam, nie czekając aż Krzysztof zadzwoni do Marka).
 - **Poziom 4 (minuta 15)**: trener-Krzysztof zmienia ton na ugodowy jeśli kursant dobrze eskalował, lub eskaluje dalej (krzyk, odejście) jeśli kursant się ugina.
 
-**Pułapka kultury**. Kursanci z Wietnamu, Filipin, Gruzji mogą mieć silną kulturę „niesprzeciwiania się starszemu". Trener musi upewnić się, że kursant ROZUMIE że odmowa nie jest brakiem szacunku, ale wypełnieniem obowiązku. Przed scenariuszem, krótka rozmowa 2 min o różnicach kulturowych.
+**Pułapka kultury**. Kursanci wychowani w kulturach, gdzie „nie sprzeciwia się starszemu" (znaczna część Ameryki Łacińskiej z relacją „usted" wobec brygadzisty, regiony Ukrainy z silną hierarchią zakładową), mogą mieć trudność z odmową. Trener musi upewnić się, że kursant ROZUMIE że odmowa nie jest brakiem szacunku, ale wypełnieniem obowiązku. Przed scenariuszem, krótka rozmowa 2 min o różnicach kulturowych.
 
 ### Kryteria oceny (0-4 pkt)
 
@@ -289,12 +289,12 @@ Dodaj drugą pułapkę: Krzysztof proponuje „kompromis" („weź ten pakiet, z
 
 ### Kontekst
 
-**Setting**. Piątek 13:30, koniec zmiany za 15 min. Zmiana była burzliwa: (a) o 9:15 pęknięcie wewnętrzne belki 4 z pakietu SO-DĄB-FSC-260427-020 (zgłoszone Piotrowi bo Marek niedostępny), (b) o 10:45 wymiana taśmy 8 po stępnieniu (140 rzazów w cyklu), (c) o 11:30 rotacja z Oleksiim 30 min (Oleksii na pilarce, kursant na sortowaniu), (d) o 12:45 zmiana priorytetu dyspozycji ustna przez Marka z B na A, potwierdzona pisemnie. Cykl poniedziałkowy sprawdzi Maricel.
+**Setting**. Piątek 13:30, koniec zmiany za 15 min. Zmiana była burzliwa: (a) o 9:15 pęknięcie wewnętrzne belki 4 z pakietu SO-DĄB-FSC-260427-020 (zgłoszone Piotrowi bo Marek niedostępny), (b) o 10:45 wymiana taśmy 8 po stępnieniu (140 rzazów w cyklu), (c) o 11:30 rotacja z Oleksijem 30 min (Oleksij na pilarce, kursant na sortowaniu), (d) o 12:45 zmiana priorytetu dyspozycji ustna przez Marka z B na A, potwierdzona pisemnie. Cykl poniedziałkowy sprawdzi Sofía.
 
 **Bohaterowie**:
 - **Kursant** = junior operator kończący zmianę
 - **Trener-Marek** = brygadzista odbierający dziennik o 13:45
-- **Asystent** = Maricel (zmiennik poniedziałkowy, teoretyczny odbiorca dziennika)
+- **Asystent** = Sofía (zmiennik poniedziałkowy, teoretyczny odbiorca dziennika)
 
 **Zadanie**. Wypełnić zielony dziennik ZMI-2026-119-01 z pełnym raportem zmiany. 15 min na wypełnienie + 5 min na kontrolę z Markiem.
 
@@ -311,40 +311,40 @@ Dodaj drugą pułapkę: Krzysztof proponuje „kompromis" („weź ten pakiet, z
 | 3 | Tabela przestojów T/M/O/P | Z właścicielem per typ | ☐ |
 | 4 | Tabela taśm | Numer + godziny + stępnienie | ☐ |
 | 5 | Pole usterek (3-częściowy) | Co/kiedy/co zrobiłem | ☐ |
-| 6 | Notatka dla Maricel | Dwie publiki, zmiana planu pon. | ☐ |
+| 6 | Notatka dla Sofía | Dwie publiki, zmiana planu pon. | ☐ |
 | 7 | Zmiana priorytetu udokumentowana | Godzina + osoba + parafa | ☐ |
-| 8 | Rotacja z Oleksiim | Wpis dowód praktyki | ☐ |
+| 8 | Rotacja z Oleksijem | Wpis dowód praktyki | ☐ |
 
 ### Instrukcja dla trenera
 
-**Przed**. „Hai, 15 min do końca, dziennik kompletny. Ja odbieram o 13:45, Maricel czyta w poniedziałek. Pisz konkretami, nie pamięcią".
+**Przed**. „Andrij, 15 min do końca, dziennik kompletny. Ja odbieram o 13:45, Sofía czyta w poniedziałek. Pisz konkretami, nie pamięcią".
 
 **W trakcie**. Trener NIE pomaga. Obserwuje, czy kursant:
 - Sięga do notesu A6 czy pisze z pamięci (nawyk notesu z l2 T4 Blok 1)
 - Pisze „około 8 min" czy „8 min 14 s" (konkret vs przybliżenie)
 - Rozróżnia T/M/O/P z właścicielem (mechanik dla T, magazynier dla M, kierownik dla O, operator dla P)
 - Dokumentuje zmianę priorytetu (ustnie o 10:45 potem pisemnie przez Marka)
-- Pisze notatkę dla Maricel (dwie publiki, informacja operacyjna)
+- Pisze notatkę dla Sofía (dwie publiki, informacja operacyjna)
 
 **Pułapka pamięciowa**. Notes A6 ma lukę: czas wymiany taśmy 8 zapisany tylko „~10:45", dokładny czas zakończenia nieodnotowany. Kursant musi albo zrekonstruować z pamięci (ryzyko błędu), albo zapisać „około 10:45-10:56 ±5 min, zapis rekonstruowany" bez oszukiwania dokładności.
 
-**Pułapka notacyjna**. Tabela taśm wymaga zapisu „taśma 8, 10:45, ~140 rzazów, wymiana po stępnieniu". Jeśli kursant pomija liczbę rzazów, Maricel nie wie czy bieżąca taśma jest nowa czy używana.
+**Pułapka notacyjna**. Tabela taśm wymaga zapisu „taśma 8, 10:45, ~140 rzazów, wymiana po stępnieniu". Jeśli kursant pomija liczbę rzazów, Sofía nie wie czy bieżąca taśma jest nowa czy używana.
 
 ### Kryteria oceny (0-4 pkt)
 
-- **4 pkt** = wszystkie 8 elementów + notatka dla Maricel rozbudowana (3+ zdania) + konkret z notesu A6 + dokumentacja zmiany priorytetu pełna
+- **4 pkt** = wszystkie 8 elementów + notatka dla Sofía rozbudowana (3+ zdania) + konkret z notesu A6 + dokumentacja zmiany priorytetu pełna
 - **3 pkt** = 7-8 elementów + drobne braki (np. 1 brakujący właściciel problemu w T/M/O/P)
 - **2 pkt** = 5-6 elementów + notatka dla zmiennika lakoniczna + przybliżenia zamiast konkretów
-- **1 pkt** = 3-4 elementy + pisanie z pamięci zamiast notesu + brak notatki dla Maricel
-- **0 pkt** = dziennik niekompletny, nieużyteczny dla Maricel, brak dokumentacji zmiany priorytetu; rozmowa z Markiem + powtórka l2 T4 Blok 1
+- **1 pkt** = 3-4 elementy + pisanie z pamięci zamiast notesu + brak notatki dla Sofía
+- **0 pkt** = dziennik niekompletny, nieużyteczny dla Sofía, brak dokumentacji zmiany priorytetu; rozmowa z Markiem + powtórka l2 T4 Blok 1
 
 ### Common mistakes juniora
 
 - Pisze z pamięci, nie z notesu A6 („około 8 min" zamiast „8 min 14 s")
 - Pomija właściciela problemu w T/M/O/P
 - Nie zapisuje zmiany priorytetu (zakłada, że dyspozycja wystarczy)
-- Pomija rotację z Oleksiim (myśli, że „nie jest formalnym przestojem")
-- Notatka dla Maricel pusta lub lakoniczna („wszystko OK", zamiast konkretnych ostrzeżeń)
+- Pomija rotację z Oleksijem (myśli, że „nie jest formalnym przestojem")
+- Notatka dla Sofía pusta lub lakoniczna („wszystko OK", zamiast konkretnych ostrzeżeń)
 
 ### Rozszerzenie
 
@@ -356,7 +356,7 @@ Dodaj **drugi incydent niezgłoszony w ciągu zmiany**: pęknięcie prowadnicy t
 
 | Kursant | Scen. 1 (Bezp.) | Scen. 2 (Dokł.) | Scen. 3 (Tempo) | Scen. 4 (Komunikacja) | Scen. 5 (Dziennik) | Łącznie |
 |---|---|---|---|---|---|---|
-| Hai | 0-4 | 0-4 | 0-4 | 0-4 | 0-4 | 0-20 |
+| Andrij | 0-4 | 0-4 | 0-4 | 0-4 | 0-4 | 0-20 |
 
 **Próg zaliczenia próbnych egzaminów**: 15/20 (75%) łącznie + minimum 3/4 na każdym kryterium osobno. **0/4 na kryterium bezpieczeństwa** = automatyczne niezaliczenie bez względu na resztę (identyczna zasada jak w l8 M2 praktyczny wtorek).
 

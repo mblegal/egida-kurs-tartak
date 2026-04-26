@@ -6,7 +6,7 @@ czas: 120
 
 ## Wprowadzenie
 
-Poniedziałek, 7:20. Trzydzieści minut po tym, jak Maricel pokazała Markowi pęknięcie gardzieli na pilarce taśmowej #2, przy maszynie stoi operator senior Tadeusz (52 lata, 15 lat stażu, uprawnienia UDT). Marek przyniósł z magazynu zapasową taśmę Wood-Mizer Silvertip (51 mm szerokości, 1,07 mm grubości, data produkcji 2026-02-14 – dwa miesiące temu). Na stole: klucz imbusowy 4 mm, czujnik zegarowy z magnetyczną podstawą, latarka czołowa, szmatka. Tadeusz wkłada rękawice skórzane (zdejmie je przed uruchomieniem – zakaz rękawic przy wirujących, zasada z l2 T1). Marek patrzy na Maricel: „Dzisiaj zostajesz i patrzysz. Nie dotykasz, nie podajesz nic, czego nie poproszę. Zapamiętujesz każdy krok. Za sześć do dwunastu miesięcy zrobisz to sama, ale przed tym zobaczysz to dziesięć razy."
+Poniedziałek, 7:20. Trzydzieści minut po tym, jak Sofía pokazała Markowi pęknięcie gardzieli na pilarce taśmowej #2, przy maszynie stoi operator senior Tadeusz (52 lata, 15 lat stażu, uprawnienia UDT). Marek przyniósł z magazynu zapasową taśmę Wood-Mizer Silvertip (51 mm szerokości, 1,07 mm grubości, data produkcji 2026-02-14 – dwa miesiące temu). Na stole: klucz imbusowy 4 mm, czujnik zegarowy z magnetyczną podstawą, latarka czołowa, szmatka. Tadeusz wkłada rękawice skórzane (zdejmie je przed uruchomieniem – zakaz rękawic przy wirujących, zasada z l2 T1). Marek patrzy na Sofía: „Dzisiaj zostajesz i patrzysz. Nie dotykasz, nie podajesz nic, czego nie poproszę. Zapamiętujesz każdy krok. Za sześć do dwunastu miesięcy zrobisz to sama, ale przed tym zobaczysz to dziesięć razy."
 
 Ta lekcja jest **pierwszą maszynową interakcją** kursanta w module drugim. Do tej pory patrzyłeś na materiał (wilgotność, dłużycę, wady, sortymenty, klasy) i na narzędzie z zewnątrz (cztery typy pił, oznaki zużycia). Teraz **wchodzisz na odległość ramienia od wymiany mechanicznej** – ale w roli **świadka i pomocnika**, nie wykonawcy. Mantra lekcji: **„Nigdy nie wymieniasz sam."** Nawet po sześciu miesiącach, nawet po roku, nawet po samodzielnym przejściu procedury – pierwsza wymiana zawsze pod nadzorem, każda kolejna w obecności brygadzisty lub drugiego operatora.
 
@@ -70,7 +70,7 @@ Tadeusz używa **czujnika zegarowego** z magnetyczną podstawą: przykłada magn
 
 Potem **rzaz testowy**: deska sosnowa odpadowa (dostępna u każdego tartaku w odrębnej skrzyni „DO TESTU"), cięcie przez 30–50 cm. Tadeusz sprawdza powierzchnię rzazu palcem (tym razem w rękawicach, bo taśma już zatrzymana): gładka jak papier ścierny 120, bez falistości, bez ciemnych plam wypalenia. Jeśli OK – maszyna wraca do produkcji. Jeśli nie – wymiana kontynuowana (regulacja napięcia, rolek, powtórzenie biegu jałowego).
 
-**Wpis do rejestru**: Tadeusz zapisuje w zakładowym zeszycie wymian (ten sam, o którym uczyłeś się w lekcji 5 tygodnia 4 modułu pierwszego): „07:22–07:54, pilarka #2, taśma Wood-Mizer Silvertip seria 2026-02-14, przyczyna: pęknięcie gardzieli 3 mm (wykryła: Maricel S., obchód poranny), wymienił: Tadeusz K., asystowała: Maricel S., napięcie: 2300 PSI, rolki: 3,2 / 3,1 / 3,4 / 3,3 mm, rzaz testowy: OK."
+**Wpis do rejestru**: Tadeusz zapisuje w zakładowym zeszycie wymian (ten sam, o którym uczyłeś się w lekcji 5 tygodnia 4 modułu pierwszego): „07:22–07:54, pilarka #2, taśma Wood-Mizer Silvertip seria 2026-02-14, przyczyna: pęknięcie gardzieli 3 mm (wykryła: Sofía S., obchód poranny), wymienił: Tadeusz K., asystowała: Sofía S., napięcie: 2300 PSI, rolki: 3,2 / 3,1 / 3,4 / 3,3 mm, rzaz testowy: OK."
 
 ### Parametry zawodowe – zapamiętaj trzy liczby
 
@@ -122,16 +122,16 @@ Brygadzista sprawdza znajomość tych liczb na wewnętrznym teście kompetencji 
 
 **Cel pedagogiczny**: pierwsza maszynowa interakcja kursanta w M2. Nie wykonanie, tylko asysta świadka + podawanie narzędzi. Cel: **oswoić parametry liczbowe** (2200–2400 PSI, 3–4 mm, 30 s) i **rolę asystencką** jako etap drogi do samodzielności. Mantra „nigdy nie wymieniasz sam" jest kompasem bezpieczeństwa wykraczającym poza moduł drugi.
 
-**Klamra tygodnia 2**: Maricel otwiera tydzień w l1 (wilgotność, poniedziałek 7:30), zamyka w l8 (wymiana taśmy, poniedziałek 7:20 następnego tygodnia). Osiem lekcji, jeden łuk narracyjny: obserwacja materiału → obserwacja narzędzia → asysta przy maszynie. Pedagogicznie mocne – kursant widzi spójność kursu, nie zbiór epizodów.
+**Klamra tygodnia 2**: Sofía otwiera tydzień w l1 (wilgotność, poniedziałek 7:30), zamyka w l8 (wymiana taśmy, poniedziałek 7:20 następnego tygodnia). Osiem lekcji, jeden łuk narracyjny: obserwacja materiału → obserwacja narzędzia → asysta przy maszynie. Pedagogicznie mocne – kursant widzi spójność kursu, nie zbiór epizodów.
 
-**Trzy liczby zawodu**: 2200–2400 PSI, 3–4 mm, 30 s. Powtórz je w lekcji trzykrotnie (w celach, w kroku 5–7, w tabeli). To nie jest redundancja dydaktyczna, to **wdrukowanie automatyzmu**. Kursanci z kultur hierarchicznych (Filipiny, Wietnam, Azja Środkowa) często nie dopytują, jeśli coś im ucieknie – dlatego kluczowe liczby muszą być w lekcji wielokrotnie, nie raz.
+**Trzy liczby zawodu**: 2200–2400 PSI, 3–4 mm, 30 s. Powtórz je w lekcji trzykrotnie (w celach, w kroku 5–7, w tabeli). To nie jest redundancja dydaktyczna, to **wdrukowanie automatyzmu**. Kursanci z kultur, w których „nie dopytuje się zwierzchnika" (część Ameryki Łacińskiej z relacją „usted" do brygadzisty, część regionów Ukrainy), często nie dopytują, jeśli coś im ucieknie – dlatego kluczowe liczby muszą być w lekcji wielokrotnie, nie raz.
 
 **Pułapki prowadzenia**:
 1. Bez fizyki napięcia (moduł Younga, teoria zmęczenia). Junior musi znać „2200–2400 PSI, manometr, środek pasma 2300" – nie więcej.
 2. Nie bagatelizować LOTO. Dla kursantów z krajów o niższych standardach BHP kłódka na wyłączniku brzmi jak biurokracja. Pokaż, że to mechaniczna gwarancja, nie formalność.
 3. Nie mylić „asysta" z „wykonanie". Kursant po l8 nie umie wymienić taśmy – umie ją widzieć, znać parametry, podać narzędzie.
 
-**Integracja z lekcjami poprzednimi**: l2 T1 (zakaz rękawic) → Tadeusz zdejmuje rękawice przed uruchomieniem. l3 T1 (STOP, grzybek) → krok 1. l7 T1 (5-krokowy protokół awarii) → l8 inny protokół, 7-krokowa procedura planowa. l5 T4 M1 (dokumentacja) → krok 7 wpis do rejestru. l7 T2 M2 → Maricel wykryła → Tadeusz wymienia, klamra.
+**Integracja z lekcjami poprzednimi**: l2 T1 (zakaz rękawic) → Tadeusz zdejmuje rękawice przed uruchomieniem. l3 T1 (STOP, grzybek) → krok 1. l7 T1 (5-krokowy protokół awarii) → l8 inny protokół, 7-krokowa procedura planowa. l5 T4 M1 (dokumentacja) → krok 7 wpis do rejestru. l7 T2 M2 → Sofía wykryła → Tadeusz wymienia, klamra.
 
 **Zapowiedź M3**: w M3 tygodniu 2 kursant uczy się samodzielnej wymiany (te same 7 kroków, teraz on wykonuje pod aktywnym nadzorem). Plus zgrzewanie pękniętej taśwy zgrzewarką Brazilon.
 

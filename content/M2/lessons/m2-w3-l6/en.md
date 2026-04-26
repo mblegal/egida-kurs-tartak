@@ -6,11 +6,11 @@ czas: 120
 
 ## Introduction
 
-Monday, 7:00 a.m., the sorting yard of the EGIDA Foundation sawmill: an open covered area of 400 m², 15 m from the saw hall, with 12 marked stack stations. Each station has a board with a code: "A-25-150-3000" (class A, thickness 25 mm, width 150 mm, length 3000 mm), "B-30-180-2500", "C-45-95-2500". Oleksii is here as the executor for the first time: over the previous three weeks he watched the sorting from the side, performed by Tadeusz Kowalski and Maricel. Today Marek says: "You have 30 boards from Friday's planer today: pine, mixed thicknesses from 25 to 45 mm, lengths 2500 and 3000 mm, classes A, B, C. Sort them onto the correct stacks. Tadeusz helps with transport, but you decide where each one goes."
+Monday, 7:00 a.m., the sorting yard of the EGIDA Foundation sawmill: an open covered area of 400 m², 15 m from the saw hall, with 12 marked stack stations. Each station has a board with a code: "A-25-150-3000" (class A, thickness 25 mm, width 150 mm, length 3000 mm), "B-30-180-2500", "C-45-95-2500". Oleksij is here as the executor for the first time: over the previous three weeks he watched the sorting from the side, performed by Tadeusz Kowalski and Sofía. Today Marek says: "You have 30 boards from Friday's planer today: pine, mixed thicknesses from 25 to 45 mm, lengths 2500 and 3000 mm, classes A, B, C. Sort them onto the correct stacks. Tadeusz helps with transport, but you decide where each one goes."
 
 Sorting is the **last stage of the process** before shipment to the customer. The band saw divides the log into a cant and unedged lumber (week 2 lesson 5), the circular saw edges the sides (this week, lesson 4), the planer finishes the surface (this week, lesson 5). Between these stages the board has the identity "board in production", meaning it is still an anonymous piece moving along the workflow. After sorting, the board has the identity **"board in a batch"**: with a code, date, class, species and dimensions, ready for shipment or storage. This change of identity is not merely administrative, it is the single moment at which the board becomes a commercial product with a clear price and a clear customer expectation.
 
-The week 3 mantra from lesson 1 reads: **"I start up, I adjust, I cut, I sort, but always under the supervision of the foreman or a senior"**. Today you learn the fourth activity: **I sort**. This is not work at a machine, it is not cutting, it is not cutter processing: it is a **classification decision** ("where does this specific board go"). A decision based on criteria: thickness, length, species, quality class. A classification error = the board ends up in a batch with the wrong intended use = the customer returns the batch = the sawmill loses its margin. Good classification = a homogeneous batch = the customer pays a premium for certainty. In Oleksii's case today, a batch of 12 class A boards at 30 × 150 × 3000 mm may be worth 150 PLN; a single misclassified board in that batch can cancel the entire premium, which is why sorting, despite looking static and slow, carries the same economic weight as any of the machine operations he has already learned.
+The week 3 mantra from lesson 1 reads: **"I start up, I adjust, I cut, I sort, but always under the supervision of the foreman or a senior"**. Today you learn the fourth activity: **I sort**. This is not work at a machine, it is not cutting, it is not cutter processing: it is a **classification decision** ("where does this specific board go"). A decision based on criteria: thickness, length, species, quality class. A classification error = the board ends up in a batch with the wrong intended use = the customer returns the batch = the sawmill loses its margin. Good classification = a homogeneous batch = the customer pays a premium for certainty. In Oleksij's case today, a batch of 12 class A boards at 30 × 150 × 3000 mm may be worth 150 PLN; a single misclassified board in that batch can cancel the entire premium, which is why sorting, despite looking static and slow, carries the same economic weight as any of the machine operations he has already learned.
 
 ## Objectives
 
@@ -50,7 +50,7 @@ Species:     pine (Pinus sylvestris)
 Class:       A (PN-EN 1611-1)
 Dimensions:  30 × 150 × 3000 mm
 Mass:        0.95 m³ (70 boards)
-Operator:    O.B. (Oleksii Bohdaniuk)
+Operator:    O.B. (Oleksij Bohdaniuk)
 Foreman:     M.K.
 ```
 
@@ -64,20 +64,20 @@ A duplicate of the label hangs on the **station board** (a plastic board 200 × 
 
 **Rule 2: A 1 m gap between stacks.** The minimum passage for a manual transport trolley and for safe movement of a second operator. If two stacks are closer than 1 m, the loader hits the second stack with its forks while lifting the first, and the entire sorting yard destabilises. In large sawmills (more than 20 employees) the gaps are 1.5–2 m due to forklift traffic with 1.2 m width. At the EGIDA Foundation (8 employees, manual trolley) a 1 m gap is enough.
 
-**Rule 3: You hand over in two steps, never by throwing.** A board placed on the stack is **never thrown from a height**: always in **two steps**: (1) tilt the board over the stack with the hands low at the edge, (2) carefully lower it into contact. A throw from a height = impact on the top layer with a force of 200–500 N = destabilisation of the stack, a possible board fall on the other side, a risk of hitting a colleague on the other side of the stack. Oleksii places the first 5 boards too quickly (the natural reflex of "haste"), Marek stops him: "Slower. Two steps. Tilt, lower. Always."
+**Rule 3: You hand over in two steps, never by throwing.** A board placed on the stack is **never thrown from a height**: always in **two steps**: (1) tilt the board over the stack with the hands low at the edge, (2) carefully lower it into contact. A throw from a height = impact on the top layer with a force of 200–500 N = destabilisation of the stack, a possible board fall on the other side, a risk of hitting a colleague on the other side of the stack. Oleksij places the first 5 boards too quickly (the natural reflex of "haste"), Marek stops him: "Slower. Two steps. Tilt, lower. Always."
 
-### Oleksii's case – 30 boards onto 4 stacks
+### Oleksij's case – 30 boards onto 4 stacks
 
-30 pine boards from Friday's planer are waiting on a pallet. A mixed set: thicknesses 25, 30, 45 mm, lengths 2500 and 3000 mm, classes A, B, C (Oleksii assesses each board separately, looking at knots, end cracks, curvatures). Tadeusz transports 5 boards at a time on a manual trolley to the assessment zone.
+30 pine boards from Friday's planer are waiting on a pallet. A mixed set: thicknesses 25, 30, 45 mm, lengths 2500 and 3000 mm, classes A, B, C (Oleksij assesses each board separately, looking at knots, end cracks, curvatures). Tadeusz transports 5 boards at a time on a manual trolley to the assessment zone.
 
-Oleksii sorts for 25 minutes. From the 30 boards come **4 stacks**:
+Oleksij sorts for 25 minutes. From the 30 boards come **4 stacks**:
 
 - **SO-A-260420-012**: pine class A, 30 × 150 × 3000 mm, 12 boards, 0.16 m³
 - **SO-A-260420-013**: pine class A, 25 × 150 × 2500 mm, 8 boards, 0.075 m³
 - **SO-B-260420-004**: pine class B, 45 × 150 × 3000 mm, 6 boards, 0.12 m³
 - **SO-C-260420-002**: pine class C, 30 × 150 × 2500 mm, 4 boards, 0.045 m³
 
-**One mistake**: board 29 has a loose knot of 35 mm, Oleksii places it on stack A (he overlooked it, because the knot is on the side, not on the face). During inspection Marek takes the board out, shows the knot: "Loose, 35 mm. Class B, the 30 mm threshold exceeded. We move it." Oleksii moves the board to stack B, updates the label of stack A (12 → 11 boards) and of stack B (6 → 7). The label has the update date added in pencil.
+**One mistake**: board 29 has a loose knot of 35 mm, Oleksij places it on stack A (he overlooked it, because the knot is on the side, not on the face). During inspection Marek takes the board out, shows the knot: "Loose, 35 mm. Class B, the 30 mm threshold exceeded. We move it." Oleksij moves the board to stack B, updates the label of stack A (12 → 11 boards) and of stack B (6 → 7). The label has the update date added in pencil.
 
 **Lesson of the day**: sorting requires **viewing the board from all sides**, not only from above. Loose knots are often on the side (visible only when the board lies on its side). The EGIDA Foundation 80/20 rule (from week 2 lesson 6): after 3 months the operator sorts 80% correctly on their own, 20% is checked by the supervisor. After 6 months 90/10. After a year 95/5.
 
@@ -138,4 +138,4 @@ After this lesson, in the sorting yard:
 
 **Most frequent trainee mistakes in this lesson**: (1) assessing the board **only from above**, not from 4 sides; loose knots and end cracks are often on the side. Teach "board rotation": each board turned 4 times, one glance at each side. (2) **Averaging classes** instead of the weakest-criterion rule. The trainee sees a board "80% class A, 20% class B" and wants to give "A minus" or "B plus". Teach: the class is one, it is the lowest of the criteria. (3) **Throwing the board onto the stack**, the natural reflex of speeding up work. Requires a firm reminder at the first 10 boards of a new trainee.
 
-**Bridge to week 3 block 3**: lessons 7–8 (chamber drying) will introduce the last element of the processing chain before shipment: the drying chamber. Oleksii continues through the whole of week 3 (8 lessons, the Maricel narrative pattern in blocks 1+3 of W2). Lesson 7: the role of the chamber loader (species parameters 35–70 °C pine, 30–60 °C oak/beech, cooling ≤6 °C/h). Lesson 8: the protocol for taking the batch out after drying and crack inspection. The sorter's role from today's lesson links to the chamber loader's role: the same batch codes, the same board identity; only the material state changes (moisture 30% → 15%).
+**Bridge to week 3 block 3**: lessons 7–8 (chamber drying) will introduce the last element of the processing chain before shipment: the drying chamber. Oleksij continues through the whole of week 3 (8 lessons, the Sofía narrative pattern in blocks 1+3 of W2). Lesson 7: the role of the chamber loader (species parameters 35–70 °C pine, 30–60 °C oak/beech, cooling ≤6 °C/h). Lesson 8: the protocol for taking the batch out after drying and crack inspection. The sorter's role from today's lesson links to the chamber loader's role: the same batch codes, the same board identity; only the material state changes (moisture 30% → 15%).

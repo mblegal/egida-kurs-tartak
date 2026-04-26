@@ -8,7 +8,7 @@ czas: 120
 
 Poniedziałek, 2026-06-08, godzina 6:55. Ostatni dzień cyklu dębu szypułkowego w komorze BH-50. Dwadzieścia dwa dni od startu 17.05, dziesięć dni po alarmie termostatu (30.05 z l4), sześć dni po wymianie termostatu GH-67 przez BTM (pon 02.06), po fazie kondycjonowania (01-04.06) i fazie chłodzenia (05-07.06). Drewno w komorze ma **temperaturę 25°C, wilgotność docelową 14%**, gotowe do rozładunku.
 
-Rustam przychodzi dziś do hali suszarni **na pełną zmianę szkoleniową** (Marek zaplanował to w piątek, w ramach bloku procesowego M3, l5 kursu). Wahan obecny jako pomocnik rozładunkowy (nie na P3 dziś, tylko hala suszarni). Maciek Wiśniewski już w hali sterowania od 6:45, odbiera zmianę nocną (panel czysty, żaden alarm nie dzwonił w weekend).
+Mykoła przychodzi dziś do hali suszarni **na pełną zmianę szkoleniową** (Marek zaplanował to w piątek, w ramach bloku procesowego M3, l5 kursu). Wasyl obecny jako pomocnik rozładunkowy (nie na P3 dziś, tylko hala suszarni). Maciek Wiśniewski już w hali sterowania od 6:45, odbiera zmianę nocną (panel czysty, żaden alarm nie dzwonił w weekend).
 
 Pan Henryk przychodzi o 7:00 w roboczym kombinezonie, z czarną podręczną torbą: **wilgotnościomierz Tanel ET-6** (ten sam model co w M2 l5), **piła próbnikowa ręczna** (mała tarczowa akumulatorowa 100 mm do wycinania próbek kontrolnych), **linijka aluminiowa 1 m**, **kątownik stalowy**, **lupa 10×**, **notatnik roboczy**, **ołówek tłusty techniczny**.
 
@@ -29,9 +29,9 @@ RH powietrza:              72%  (po kondycjonowaniu)
 EMC:                       14,5%  (bliskie wilgotności drewna)
 ```
 
-*„Rustam, widzisz? EMC 14,5%, drewno 14,1%. Prawie równowaga. **Drewno już nie oddaje wody ani jej nie przyjmuje**. Gotowe do wyjścia."*
+*„Mykoła, widzisz? EMC 14,5%, drewno 14,1%. Prawie równowaga. **Drewno już nie oddaje wody ani jej nie przyjmuje**. Gotowe do wyjścia."*
 
-Rustam zapisuje.
+Mykoła zapisuje.
 
 ### 7:15, otwarcie drzwi komory
 
@@ -49,9 +49,9 @@ Anton manewruje wózkiem, wjeżdża widłami pod stos nr 1, podnosi 1,5 m, wycof
 
 ### 8:00, pomiar wilgotności w 5 punktach stosu
 
-Pan Henryk pokazuje Rustamowi **pięć kroków inspekcji po cyklu**: 1) pomiar wilgotności końcowej w min. 5 punktach; 2) oględziny czołowe i powierzchniowe; 3) diagnoza pęknięć wewnętrznych (checker); 4) diagnoza paczenia i skrętu; 5) klasyfikacja (Pani Ania o 10:00).
+Pan Henryk pokazuje Mykole **pięć kroków inspekcji po cyklu**: 1) pomiar wilgotności końcowej w min. 5 punktach; 2) oględziny czołowe i powierzchniowe; 3) diagnoza pęknięć wewnętrznych (checker); 4) diagnoza paczenia i skrętu; 5) klasyfikacja (Pani Ania o 10:00).
 
-*„Rustam, kroki 1-4 robisz dziś pod moim nadzorem. Klasyfikacja to uprawnienie Pani Ani, ISO wymóg."*
+*„Mykoła, kroki 1-4 robisz dziś pod moim nadzorem. Klasyfikacja to uprawnienie Pani Ani, ISO wymóg."*
 
 Wilgotnościomierz kalibrowany (bateria OK, zerowanie na próbce kontrolnej z laboratorium). Pan Henryk wybiera 5 punktów pomiarowych dla **stosu nr 1** (49 desek, 10 warstw × 5 desek na warstwę):
 
@@ -86,7 +86,7 @@ Oględziny **czołowe** stosu nr 1, czoło przednie (widok na 49 przekrojów des
 
 **Szukamy**: pęknięcia czołowe (end checks), pęknięcia rdzeniowe widoczne czołowo (pith checks), nierówny kolor powierzchni czołowej, wybrzuszenia/wgłębienia.
 
-Pan Henryk przegląda 20 pierwszych desek przodu, Rustam zapisuje:
+Pan Henryk przegląda 20 pierwszych desek przodu, Mykoła zapisuje:
 - 2 drobne end check (<3 cm, w tolerancji C24, limit 10% długości czoła)
 - 1 pith check 4 cm (dopuszczalny dla desek z rdzeniem, C24 toleruje)
 - 17 desek czystych
@@ -103,7 +103,7 @@ Pan Henryk wyjmuje deski z wierzchniej warstwy stosu 1, układa płasko na łó�
 
 Pan Henryk wącha, obracając deskę pod nosem. *„Zapach suchy, kwaśny naturalny od garbników dębu. **Bez stęchlizny**, bez pleśni. Kolor równomierny."*
 
-Wahan uczy się wąchać. Po pierwszej desce: *„Panie Henryku, czuję jakąś stęchliznę?"* Pan Henryk wącha ponownie: *„Nie, to naturalny zapach garbników. **Pleśń jest mdlała, słodkawa**, inaczej. Zapamiętaj różnicę."* Wahan zapisuje: *„Kwaśny naturalny OK. Słodkawy mdlący = pleśń."*
+Wasyl uczy się wąchać. Po pierwszej desce: *„Panie Henryku, czuję jakąś stęchliznę?"* Pan Henryk wącha ponownie: *„Nie, to naturalny zapach garbników. **Pleśń jest mdlała, słodkawa**, inaczej. Zapamiętaj różnicę."* Wasyl zapisuje: *„Kwaśny naturalny OK. Słodkawy mdlący = pleśń."*
 
 Wśród 10 przeglądanych desek: **wszystkie czyste**, jedna z drobną żywiczną smugą 10 cm (naturalne, C24 OK).
 
@@ -118,9 +118,9 @@ Ogląda lupą 10× każdy przekrój:
 - **Deska 20 stosu 2**: brak pęknięć, struktura jednolita. **Bez checker.**
 - **Deska 35 stosu 3**: bez pęknięć promienistych, struktura jednolita. **Bez checker.**
 
-*„Rustam, próbki z 3 desek reprezentatywnych, wszystkie bez checker. **Cykl kondycjonowania (3 dni, 01-04.06) wyrównał naprężenia**. To jest potwierdzenie, że cykl wyszedł dobrze."*
+*„Mykoła, próbki z 3 desek reprezentatywnych, wszystkie bez checker. **Cykl kondycjonowania (3 dni, 01-04.06) wyrównał naprężenia**. To jest potwierdzenie, że cykl wyszedł dobrze."*
 
-Rustam zapisuje. Pan Henryk wkłada próbki do torby (pójdą do archiwum laboratoryjnego EGIDA jako próbki kontrolne wsadki ZLE-075 dąb, retencja 1 rok).
+Mykoła zapisuje. Pan Henryk wkłada próbki do torby (pójdą do archiwum laboratoryjnego EGIDA jako próbki kontrolne wsadki ZLE-075 dąb, retencja 1 rok).
 
 ### 10:00, Pani Ania przychodzi
 
@@ -128,9 +128,9 @@ Rustam zapisuje. Pan Henryk wkłada próbki do torby (pójdą do archiwum labora
 
 Pan Henryk krótko: *„Cykl dobry, 14,1% średnia, rozrzut 0,9%, 3 próbki checker negatywne, 1 deska duży end check 12 cm na czole tylnym stosu 1 (nr 38). Dla ciebie: klasyfikacja wizualna i wytrzymałościowa, 145 desek."*
 
-Pani Ania do Rustama: *„Rustam, ucz się, ale **nie klasyfikujesz ty**. Klasyfikacja to moje uprawnienie, wymóg ISO. Ty asystujesz, oznaczasz deski po mojej decyzji i wpisujesz do karty klasyfikatora."*
+Pani Ania do Mykoły: *„Mykoła, ucz się, ale **nie klasyfikujesz ty**. Klasyfikacja to moje uprawnienie, wymóg ISO. Ty asystujesz, oznaczasz deski po mojej decyzji i wpisujesz do karty klasyfikatora."*
 
-Rustam potwierdza: *„Rozumiem, dziś asystent."*
+Mykoła potwierdza: *„Rozumiem, dziś asystent."*
 
 Narzędzia Pani Ani: ten sam wilgotnościomierz, linijka aluminiowa, kątownik stalowy, stemple klas (C16, C24, C30, odrzut), ołówek tłusty, **karta klasyfikatora** (formularz A3, 145 wierszy, jeden na deskę).
 
@@ -160,7 +160,7 @@ Pani Ania bierze deskę nr 1 ze stosu 1. Kładzie na łóżku próbnikowym. **Pi
 
 **Decyzja Pani Ani**: *„Deska 1 stosu 1: **C24, czysta, żadnych defektów poza normą**."*
 
-Stempluje „C24" na brzegu deski. Rustam zapisuje do karty klasyfikatora.
+Stempluje „C24" na brzegu deski. Mykoła zapisuje do karty klasyfikatora.
 
 ### 10:30, tempo klasyfikacji
 
@@ -176,7 +176,7 @@ Pani Ania dochodzi do deski nr 38 (oznaczonej przez Pana Henryka rano). Mierzy g
 
 Pan Henryk (obok): *„Klient ma też ofertę boazerii. Oznacz 'skrócenie 20 cm, sortyment boazeryjny, C16'."*
 
-Pani Ania stempluje „C16" i dopisuje ołówkiem „**SKRÓCIĆ 20 CM, BOAZERIA**". Rustam wpisuje w karcie:
+Pani Ania stempluje „C16" i dopisuje ołówkiem „**SKRÓCIĆ 20 CM, BOAZERIA**". Mykoła wpisuje w karcie:
 
 ```
 Deska 38 stosu 1: C16 po skróceniu o 20 cm, sortyment boazeryjny
@@ -189,7 +189,7 @@ Deska 67 stosu 2, paczenie wzdłużne **9 mm na 4 m długości**. Limit C24: 6 m
 
 Pani Ania: *„Deska 67: paczenie 9 mm, poza tolerancją nawet dla C16. **Odrzut**. Sprzedaż na opał 50 zł/m³ lub na zrębki."*
 
-Stempluje „odrzut". Rustam wpisuje: *„Deska 67 stosu 2: odrzut, paczenie 9 mm (poza tolerancją C24/C16). Opał/zrębki."*
+Stempluje „odrzut". Mykoła wpisuje: *„Deska 67 stosu 2: odrzut, paczenie 9 mm (poza tolerancją C24/C16). Opał/zrębki."*
 
 ### 12:30, Marek przychodzi, podsumowanie śródokresowe
 
@@ -207,9 +207,9 @@ Marek: *„Ok, kończcie. O 15:00 podpiszę raport. Pani Aniu, kartę WZ zrobisz
 
 ### 13:00-14:00, przerwa obiadowa
 
-Rustam, Wahan, Maciek idą na obiad (stołówka EGIDA 50 m od hali suszarni, obiad 12:30-13:30). Pani Ania i Pan Henryk zostają, Pani Ania nadal klasyfikuje w tempie rutynowym.
+Mykoła, Wasyl, Maciek idą na obiad (stołówka EGIDA 50 m od hali suszarni, obiad 12:30-13:30). Pani Ania i Pan Henryk zostają, Pani Ania nadal klasyfikuje w tempie rutynowym.
 
-Rustam notuje w kalendarzyku:
+Mykoła notuje w kalendarzyku:
 ```
 Klasyfikacja C24/C16/odrzut – precyzja tolerancji:
   C24: paczenie <6 mm, end check <10 cm, sęki <52 mm, oblina <38 mm
@@ -256,8 +256,8 @@ Pan Henryk bierze **kartę KS-001 wsadki bieżącej** (z biurka suszarni, zeszyt
   Klasyfikacja (Pani Ania): 125 C24 + 15 C16 + 3 skrócenie + 2 odrzut.
   Objętość gotowa: 2,462 m³ sprawnego sortymentu + 0,035 m³ odrzut.
   Alarm 30.05 nie wpłynął na jakość (kondycjonowanie zrównało naprężenia).
-  Obecni: Pan Henryk (mistrz), Pani Ania (klasyfikator), Rustam Nazarov
-    (M3 szkolenie), Wahan Petrosjan (M1 pomocnik), Maciek Wiśniewski
+  Obecni: Pan Henryk (mistrz), Pani Ania (klasyfikator), Mykoła Hrycenko
+    (M3 szkolenie), Wasyl Melnyk (M1 pomocnik), Maciek Wiśniewski
     (M1 suszarnia), Anton Bondarenko (wózek widłowy).
 ```
 
@@ -267,7 +267,7 @@ W **sekcji 4 (Podpisy końcowe)** Pan Henryk wpisuje swoje imię i godzinę (14:
 
 Marek ogląda kartę klasyfikatora i wpis w KS-001. *„Dobra robota. Karta WZ na partię wygotujesz, Pani Aniu, do wtorku rano. Antoni, partia C24 i C16 sprawna na magazyn tarcicy gotowej, odrzut osobno na plac opałowy. Skrócenie boazeryjne na półkę Stolarza Meblowego, oznaczyć ołówkiem na końcu stosu 'ZLE-081 boazeria 3 szt.'."*
 
-Marek podpisuje KS-001 sekcja 4. Karta zamknięta. Pan Henryk przekazuje Rustamowi kartę klasyfikatora (do kopii na OneDrive we wtorek rano, retencja 3 lata papier + 5 lat skan).
+Marek podpisuje KS-001 sekcja 4. Karta zamknięta. Pan Henryk przekazuje Mykole kartę klasyfikatora (do kopii na OneDrive we wtorek rano, retencja 3 lata papier + 5 lat skan).
 
 Anton wjeżdża wózkiem widłowym, zabiera stos C24 + C16 + skrócenie do magazynu tarcicy gotowej (sąsiedni budynek 40 m dalej). Odrzut (2 deski) idzie na osobny plac opałowy na tyłach hali.
 
@@ -411,23 +411,23 @@ Cennik EGIDA 2026 dla dębu szypułkowego wysuszonego do 14%, deski 28 × 155 ×
 
 O 15:30 partia dębu jest na magazynie tarcicy gotowej (125 C24 + 15 C16 + 3 skrócenie boazeryjne, łącznie 2,512 m³ sprawnego sortymentu). Odrzut (2 deski, 0,035 m³) na osobnym placu opałowym na tyłach. Karta klasyfikatora podpisana przez Panią Anię, karta KS-001 sekcja 4 podpisana przez Pana Henryka i Marka Kowalskiego. Kartę WZ Pani Ania wypisze jutro rano (wtorek 09.06) przed wydaniem klientowi.
 
-Rustam i Wahan pakują narzędzia Pana Henryka z powrotem do torby (wilgotnościomierz, piła próbnikowa, linijka, lupa). Maciek idzie do hali sterowania zamknąć zeszyt cyklu, przygotować panel na nową wsadkę (wtorek 09.06 sosna 2,2 m³ z Nadleśnictwa Strzałowa, nowa kampania).
+Mykoła i Wasyl pakują narzędzia Pana Henryka z powrotem do torby (wilgotnościomierz, piła próbnikowa, linijka, lupa). Maciek idzie do hali sterowania zamknąć zeszyt cyklu, przygotować panel na nową wsadkę (wtorek 09.06 sosna 2,2 m³ z Nadleśnictwa Strzałowa, nowa kampania).
 
-### Rozmowa Pan Henryk – Rustam
+### Rozmowa Pan Henryk – Mykoła
 
-Pan Henryk: *„Rustam, co zrozumiałeś dzisiaj?"*
+Pan Henryk: *„Mykoła, co zrozumiałeś dzisiaj?"*
 
-Rustam: *„Cztery rzeczy. Po pierwsze, **inspekcja jest sekwencyjna** od najtańszej do najdroższej (wilgotność, oględziny, checker, klasyfikacja). Po drugie, **rozrzut jest ważniejszy od średniej** – nasza średnia 14,1% to nic, jeśli rozrzut byłby 4%. Po trzecie, **klasyfikacja to uprawnienie, nie tylko umiejętność** – Pani Ania jest certyfikowana przez ITB, ja widzę co robi, ale stempeli nie dotykam. Po czwarte, **dokumenty są prawdą partii**: karta klasyfikatora, KS-001, karta WZ, każda ma swoje miejsce i zadanie, żaden z nich nie może być pominięty."*
+Mykoła: *„Cztery rzeczy. Po pierwsze, **inspekcja jest sekwencyjna** od najtańszej do najdroższej (wilgotność, oględziny, checker, klasyfikacja). Po drugie, **rozrzut jest ważniejszy od średniej** – nasza średnia 14,1% to nic, jeśli rozrzut byłby 4%. Po trzecie, **klasyfikacja to uprawnienie, nie tylko umiejętność** – Pani Ania jest certyfikowana przez ITB, ja widzę co robi, ale stempeli nie dotykam. Po czwarte, **dokumenty są prawdą partii**: karta klasyfikatora, KS-001, karta WZ, każda ma swoje miejsce i zadanie, żaden z nich nie może być pominięty."*
 
 *„Dobrze. Piątą rzecz, o której nie wspomniałeś?"*
 
-Rustam myśli. *„Operator M3 w komorze i w klasyfikacji **nie decyduje, ale rozumie**. Za 6 miesięcy, po szkoleniu suszarniczym pomocniczym, będę mógł asystować klasyfikatorowi samodzielnie (nie klasyfikować, ale prowadzić procedurę 5 kroków bez nadzoru Pana Henryka). To jest ścieżka do rozwoju."*
+Mykoła myśli. *„Operator M3 w komorze i w klasyfikacji **nie decyduje, ale rozumie**. Za 6 miesięcy, po szkoleniu suszarniczym pomocniczym, będę mógł asystować klasyfikatorowi samodzielnie (nie klasyfikować, ale prowadzić procedurę 5 kroków bez nadzoru Pana Henryka). To jest ścieżka do rozwoju."*
 
 *„Tak. Dziś dobrze się uczyłeś. Wpisuję do akt osobowych drugą obecność szkoleniową (pierwszą była narada planistyczna 29.05 z l3, drugą dzisiaj rozładunek). Jeśli dołączysz trzecią w sierpniu, będziesz kwalifikowany do kursu suszarniczego pomocniczego w październiku."*
 
 ### 16:00, droga do domu
 
-Rustam wraca do szatni, przebiera się, wychodzi z hali. Dzień jutro wróci na P3 (sosna z nowej kampanii Strzałowskiej, ZLE-2026-06-001, pierwsza wsadka czerwcowa). Wahan będzie z nim jako pomocnik stacjonarny. Suszarnia to teraz historia dla Rustama do następnej obecności szkoleniowej (sierpień, planowo).
+Mykoła wraca do szatni, przebiera się, wychodzi z hali. Dzień jutro wróci na P3 (sosna z nowej kampanii Strzałowskiej, ZLE-2026-06-001, pierwsza wsadka czerwcowa). Wasyl będzie z nim jako pomocnik stacjonarny. Suszarnia to teraz historia dla Mykoły do następnej obecności szkoleniowej (sierpień, planowo).
 
 ## Kluczowe terminy
 

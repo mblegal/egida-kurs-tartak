@@ -132,7 +132,7 @@ Każdy tartak ma kilka **własnych gestów**, wymienionych na odprawie pierwszeg
 Nie ucz się ich na zapas. Brygadzista ci pokaże pierwszego dnia. Jeśli zapomnisz – pytasz kolegi z brygady w przerwie: „a co znaczy, jak Maciej tak palcem kręci?". Nigdy nie wstyd dopytać.
 
 ::: example
-**Z życia**: pomocnik z Gruzji, tartak pod Lublinem, drugi dzień pracy. Operator pilarki tarczowej daje mu gest ODSUŃ SIĘ z powtarzanym ruchem w lewo. Gruzin nie zrozumiał – **w gruzińskiej kulturze gest machnięcia dłonią w bok czasem znaczy „wszystko w porządku"**. Stał dalej. Operator krzyczał (przez ochronniki, Gruzin nie słyszał), potem **sam wybił wyłącznik awaryjny**. Okazało się, że pilarka miała luźną tarczę i gdyby w następnej sekundzie pilarka ruszyła, tarcza mogła się rozerwać i uderzyć Gruzina. **Wniosek**: gesty nie są uniwersalne między kulturami. Jeśli coś widzisz i nie rozumiesz – reaguj ostrożnie (odsuń się ZAWSZE, pytaj potem). Lepiej przesadna reakcja niż zignorowany gest.
+**Z życia**: pomocnik z Kolumbii, tartak pod Lublinem, drugi dzień pracy. Operator pilarki tarczowej daje mu gest ODSUŃ SIĘ z powtarzanym ruchem w lewo. Kolumbijczyk nie zrozumiał – **w kulturze latynoamerykańskiej gest machnięcia dłonią w bok często znaczy „chodź bliżej", a nie „odsuń się"**. Stał dalej. Operator krzyczał (przez ochronniki, kursant nie słyszał), potem **sam wybił wyłącznik awaryjny**. Okazało się, że pilarka miała luźną tarczę i gdyby w następnej sekundzie pilarka ruszyła, tarcza mogła się rozerwać i uderzyć kursanta. **Wniosek**: gesty nie są uniwersalne między kulturami. Jeśli coś widzisz i nie rozumiesz – reaguj ostrożnie (odsuń się ZAWSZE, pytaj potem). Lepiej przesadna reakcja niż zignorowany gest.
 :::
 
 ### Gesty pilne: 2 sekundy decyzji
@@ -214,7 +214,7 @@ W następnej lekcji (l4) przejdziemy do **słów polskich** – bo kiedy maszyny
 - **30–70 min**: **5 gestów podstawowych**. Trener pokazuje pierwszy (STOP), kursanci powtarzają. Rotacja w parach: jeden pokazuje, drugi nazywa; jeden nazywa, drugi pokazuje. **Każdy gest × 5 powtórzeń × 2 kierunki**. Po 5 gestach: test – trener pokazuje losowy gest, kursanci nazywają jednocześnie (kto się pomyli, krzyczy się „uwaga!" jak w zabawie). Żywe, głośne, zapamiętywalne.
 - **70–85 min**: **gesty dodatkowe** (UWAGA, DOBRZE, POTRZEBUJĘ POMOCY). Ćwiczenie w parach: „operator" daje sekwencję 3 gestów, „pomocnik" reaguje kolejno. Np. PODAJ → (pomocnik symuluje podanie + wysyła DOBRZE) → CZEKAJ → STOP. Uczymy **rytmu** komunikacji.
 - **85–105 min**: **gesty pilne**. Trener nagle daje gest STOP albo ODSUŃ SIĘ, kursanci muszą zareagować w 2 sekundy (odsunąć się fizycznie, albo zatrzymać się). Mierzenie czasu. Powtarzamy 10 razy. **Cel**: reakcja automatyczna, nie świadoma.
-- **105–120 min**: case z Gruzinem (z lekcji) – dyskusja „dlaczego gesty nie są uniwersalne", jak pytać brygadzistę pierwszego dnia, wnioski. Kluczowe terminy. Zapowiedź l4 (słowa polskie).
+- **105–120 min**: case z Kolumbijczykiem (z lekcji) – dyskusja „dlaczego gesty nie są uniwersalne", jak pytać brygadzistę pierwszego dnia, wnioski. Kluczowe terminy. Zapowiedź l4 (słowa polskie).
 
 **Częsty błąd**: kursanci wykonują gesty **niewyraźnie** (mała amplituda, niedokończone ruchy). Z odległości 10 m taki gest jest niewidoczny. **Korekta**: „**wyraźnie, jak na teatrze**". Ręka w górę = **prosta**, nie zgięta w łokciu. Dłoń otwarta = **wszystkie palce widoczne**, nie zaciśnięte. Trener dwukrotnie korygował formę, zanim kursant dostanie „zaliczone".
 

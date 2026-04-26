@@ -6,9 +6,9 @@ czas: 120
 
 ## Introducción
 
-Miércoles, 2026-05-13, 7:20. En la zona de las cámaras de secado de EGIDA (la zona detrás de la nave de las sierras de cinta, cinco cámaras Brunner-Hildebrand marcadas como P1-P6 más una cámara de vacío P7). Rustam y Wahan sacan pino de la P3 tras un ciclo de secado de tres semanas. Lote: 4,8 m³ de pino silvestre de la Inspección Forestal de Drawno, sección 32 × 150 mm, longitud 4 m, **encargado por la empresa de carpintería „Dąb-Meble" de Piaseczno** (muebles residenciales de gama media, mesas, armarios, cómodas). El pedido exige una humedad objetivo del **8-10%** (carpintería de muebles, interior de local con calefacción). El lote debe medirse antes de la salida, con registro en la ficha WSP-002 (humedad del lote, retención de 3 años).
+Miércoles, 2026-05-13, 7:20. En la zona de las cámaras de secado de EGIDA (la zona detrás de la nave de las sierras de cinta, cinco cámaras Brunner-Hildebrand marcadas como P1-P6 más una cámara de vacío P7). Mykoła y Wasyl sacan pino de la P3 tras un ciclo de secado de tres semanas. Lote: 4,8 m³ de pino silvestre de la Inspección Forestal de Drawno, sección 32 × 150 mm, longitud 4 m, **encargado por la empresa de carpintería „Dąb-Meble" de Piaseczno** (muebles residenciales de gama media, mesas, armarios, cómodas). El pedido exige una humedad objetivo del **8-10%** (carpintería de muebles, interior de local con calefacción). El lote debe medirse antes de la salida, con registro en la ficha WSP-002 (humedad del lote, retención de 3 años).
 
-Rustam y Wahan llevan consigo dos instrumentos. El primero: **higrómetro de punzones IRI-5P** (empresa Chabros International, Polonia, calibrado para madera de conífera y de frondosa, profundidad de clavado de la aguja 30 mm, rango de medición 5-50%). El segundo: **higrómetro sin punzones Gann RTU 600** (Alemania, sin penetración de la superficie, medición profunda hasta 40 mm, rango 4-50%). Dos instrumentos, porque la Señora Ania enseñó a Rustam ayer (por la tarde, antes de la medición de hoy) el principio de verificación cruzada: **dos instrumentos independientes minimizan el riesgo de error de calibración**. Si IRI-5P muestra 9,8% y Gann 9,7%, la confianza es alta. Si muestran diferencias superiores a 1 punto porcentual, alguno de los instrumentos está desajustado.
+Mykoła y Wasyl llevan consigo dos instrumentos. El primero: **higrómetro de punzones IRI-5P** (empresa Chabros International, Polonia, calibrado para madera de conífera y de frondosa, profundidad de clavado de la aguja 30 mm, rango de medición 5-50%). El segundo: **higrómetro sin punzones Gann RTU 600** (Alemania, sin penetración de la superficie, medición profunda hasta 40 mm, rango 4-50%). Dos instrumentos, porque la Señora Ania enseñó a Mykoła ayer (por la tarde, antes de la medición de hoy) el principio de verificación cruzada: **dos instrumentos independientes minimizan el riesgo de error de calibración**. Si IRI-5P muestra 9,8% y Gann 9,7%, la confianza es alta. Si muestran diferencias superiores a 1 punto porcentual, alguno de los instrumentos está desajustado.
 
 Sobre la zona de medición cuelga un cartel de Eko-Drewno con los umbrales objetivo memorizados:
 
@@ -17,7 +17,7 @@ Sobre la zona de medición cuelga un cartel de Eko-Drewno con los umbrales objet
 - **18% ± 2%** (cerchas de cubierta, estructuras exteriores cubiertas)
 - **20-25%** (madera fresca tras el aserrado, solo para estructuras temporales)
 
-Wahan (ayudante fijo de Rustam desde el 4 de mayo, tras la instrucción en el puesto de m2-w4-l8) pregunta: *„Rustam, ¿entonces al final medimos con la aguja o con esa caja eléctrica sin aguja?"*. Rustam responde: *„Con los dos. Con la aguja IRI-5P primero, después con el Gann. Cinco puntos de medición: cuatro esquinas de la pila más el centro. Promediamos, comprobamos la desviación. Si los cinco puntos dan entre 8 y 10%, el lote va a la salida. Si alguno supera el 10%, volvemos a la P6 para resecar."*
+Wasyl (ayudante fijo de Mykoła desde el 4 de mayo, tras la instrucción en el puesto de m2-w4-l8) pregunta: *„Mykoła, ¿entonces al final medimos con la aguja o con esa caja eléctrica sin aguja?"*. Mykoła responde: *„Con los dos. Con la aguja IRI-5P primero, después con el Gann. Cinco puntos de medición: cuatro esquinas de la pila más el centro. Promediamos, comprobamos la desviación. Si los cinco puntos dan entre 8 y 10%, el lote va a la salida. Si alguno supera el 10%, volvemos a la P6 para resecar."*
 
 ## Objetivos
 
@@ -166,19 +166,19 @@ La madera se ajusta a la EMC media en un **ciclo anual** (invierno más seco, ve
 
 ### Escena de medición: pino para carpintería de muebles, 7:20-7:50
 
-Rustam y Wahan están junto a la cámara P3. Pila de pino 32 × 150 × 4000, dispuesta en 30 capas de 6 tablas. Lote de 4,8 m³ para „Dąb-Meble" de Piaseczno, umbral objetivo 8-10%. Programa de secado desde el lunes 20 de abril hasta el martes 12 de mayo (22 días, ciclo lento para carpintería de muebles).
+Mykoła y Wasyl están junto a la cámara P3. Pila de pino 32 × 150 × 4000, dispuesta en 30 capas de 6 tablas. Lote de 4,8 m³ para „Dąb-Meble" de Piaseczno, umbral objetivo 8-10%. Programa de secado desde el lunes 20 de abril hasta el martes 12 de mayo (22 días, ciclo lento para carpintería de muebles).
 
-> **Rustam:** „Wahan, sacamos del punto 1. Esquina delantera izquierda, capa 3 desde arriba. Coge una tabla, mejor la tercera desde el borde de la pila."
+> **Mykoła:** „Wasyl, sacamos del punto 1. Esquina delantera izquierda, capa 3 desde arriba. Coge una tabla, mejor la tercera desde el borde de la pila."
 >
-> **Wahan:** „La tengo. Tabla sacada, en la mesa de medición."
+> **Wasyl:** „La tengo. Tabla sacada, en la mesa de medición."
 >
-> **Rustam:** „Primer instrumento: de punzones IRI-5P. Especie seleccionada: pino silvestre. Temperatura de la madera 16°C (la medí antes)." Rustam clava las agujas, lee: „Extremo izquierdo 8,8%. Centro 9,0%. Extremo derecho 8,9%. Media 8,9%."
+> **Mykoła:** „Primer instrumento: de punzones IRI-5P. Especie seleccionada: pino silvestre. Temperatura de la madera 16°C (la medí antes)." Mykoła clava las agujas, lee: „Extremo izquierdo 8,8%. Centro 9,0%. Extremo derecho 8,9%. Media 8,9%."
 >
-> **Wahan:** „¿Ahora el segundo, Gann?"
+> **Wasyl:** „¿Ahora el segundo, Gann?"
 >
-> **Rustam:** „Sí." Rustam pasa el Gann por la tabla en tres lugares: „Extremo izquierdo 9,0%. Centro 8,9%. Extremo derecho 9,0%. Media 9,0%."
+> **Mykoła:** „Sí." Mykoła pasa el Gann por la tabla en tres lugares: „Extremo izquierdo 9,0%. Centro 8,9%. Extremo derecho 9,0%. Media 9,0%."
 >
-> **Rustam** (anota en la ficha WSP-002): „Punto 1: IRI 8,9%, Gann 9,0%. Diferencia de 0,1 punto porcentual, dentro de lo aceptable. Devolvemos la tabla a la pila."
+> **Mykoła** (anota en la ficha WSP-002): „Punto 1: IRI 8,9%, Gann 9,0%. Diferencia de 0,1 punto porcentual, dentro de lo aceptable. Devolvemos la tabla a la pila."
 
 Repiten el procedimiento para los cuatro puntos restantes:
 
@@ -189,17 +189,17 @@ Repiten el procedimiento para los cuatro puntos restantes:
 
 La medición dura 30 minutos (6 minutos por punto: sacar la tabla, medir con ambos instrumentos, devolverla, apuntar).
 
-> **Rustam** (calcula en el cuaderno): „Media IRI = (8,9 + 9,2 + 9,8 + 9,5 + 9,3) / 5 = **9,34%**. Media Gann = (9,0 + 9,1 + 9,7 + 9,4 + 9,2) / 5 = **9,28%**. Diferencia entre instrumentos 0,06 puntos porcentuales, confianza alta."
+> **Mykoła** (calcula en el cuaderno): „Media IRI = (8,9 + 9,2 + 9,8 + 9,5 + 9,3) / 5 = **9,34%**. Media Gann = (9,0 + 9,1 + 9,7 + 9,4 + 9,2) / 5 = **9,28%**. Diferencia entre instrumentos 0,06 puntos porcentuales, confianza alta."
 >
-> **Wahan:** „¿Y la desviación?"
+> **Wasyl:** „¿Y la desviación?"
 >
-> **Rustam:** „Máx − mín para IRI es 9,8 − 8,9 = 0,9 punto porcentual. Para Gann 9,7 − 9,0 = 0,7%. Los dos por debajo del 2%, **clase A** de homogeneidad."
+> **Mykoła:** „Máx − mín para IRI es 9,8 − 8,9 = 0,9 punto porcentual. Para Gann 9,7 − 9,0 = 0,7%. Los dos por debajo del 2%, **clase A** de homogeneidad."
 >
-> **Wahan:** „¿Entonces la sacamos?"
+> **Wasyl:** „¿Entonces la sacamos?"
 >
-> **Rustam:** „Media 9,3%, dentro del umbral 8-10%, desviación 0,9% (clase A). **Decisión: salida**. Relleno la WSP-002, firmo, lote listo para el envío. Escribo en la pila una placa: KT-I, pino, 9,3% ±0,9%, 4,8 m³, fecha 2026-05-13, lote n.º SO-STM-0513-03."
+> **Mykoła:** „Media 9,3%, dentro del umbral 8-10%, desviación 0,9% (clase A). **Decisión: salida**. Relleno la WSP-002, firmo, lote listo para el envío. Escribo en la pila una placa: KT-I, pino, 9,3% ±0,9%, 4,8 m³, fecha 2026-05-13, lote n.º SO-STM-0513-03."
 
-Rustam rellena la ficha WSP-002: fecha, tipo de instrumento (IRI-5P n.º de serie, Gann RTU 600 n.º de serie), resultados de 5 puntos (ambos instrumentos), media, desviación, decisión **„salida"**, firma. La ficha va al expediente del lote junto con la ficha KLW-001 (clasificación visual, firmada por la Señora Grażyna hace una semana). Retención 3 años.
+Mykoła rellena la ficha WSP-002: fecha, tipo de instrumento (IRI-5P n.º de serie, Gann RTU 600 n.º de serie), resultados de 5 puntos (ambos instrumentos), media, desviación, decisión **„salida"**, firma. La ficha va al expediente del lote junto con la ficha KLW-001 (clasificación visual, firmada por la Señora Grażyna hace una semana). Retención 3 años.
 
 ### Segunda escena: abeto para carpintería de muebles, 8:00-8:30
 
@@ -219,17 +219,17 @@ Media IRI: (11,8 + 11,5 + 12,4 + 12,1 + 11,9) / 5 = **11,94%**.
 Media Gann: 11,78%.
 Desviación IRI: 12,4 − 11,5 = 0,9 punto porcentual. Clase A de homogeneidad, pero **media fuera del umbral objetivo** (8-10% para carpintería de muebles; tenemos 11,9%).
 
-> **Rustam:** „Media casi 12%. El cliente quiere 8-10%. **Demasiado húmedo.**"
+> **Mykoła:** „Media casi 12%. El cliente quiere 8-10%. **Demasiado húmedo.**"
 >
-> **Wahan:** „Pero por encima del 10%, y no mucho. ¿Sacamos con nota o devolvemos?"
+> **Wasyl:** „Pero por encima del 10%, y no mucho. ¿Sacamos con nota o devolvemos?"
 >
-> **Rustam:** „Devolvemos. El requisito de KT-I es 8-10%, tolerancia ±1%. Tenemos 11,9%. Fuera de la tolerancia. El cliente reclama si tras 3 meses un cajón del mueble se alabea. **Resecado en P6.**"
+> **Mykoła:** „Devolvemos. El requisito de KT-I es 8-10%, tolerancia ±1%. Tenemos 11,9%. Fuera de la tolerancia. El cliente reclama si tras 3 meses un cajón del mueble se alabea. **Resecado en P6.**"
 >
-> **Wahan:** „¿Cuántos días?"
+> **Wasyl:** „¿Cuántos días?"
 >
-> **Rustam:** „P6 es la cámara complementaria, programa más suave. Del 12% al 9% son 3 puntos porcentuales, estimación 7-10 días a 75°C y RH 40%. La Señora Ania firmará la orden. De momento trasladamos la pila a la P6 con la carretilla, Wahan."
+> **Mykoła:** „P6 es la cámara complementaria, programa más suave. Del 12% al 9% son 3 puntos porcentuales, estimación 7-10 días a 75°C y RH 40%. La Señora Ania firmará la orden. De momento trasladamos la pila a la P6 con la carretilla, Wasyl."
 
-Rustam rellena la segunda ficha WSP-002: resultado de la medición, **decisión „resecado P6"**, tiempo previsto 10 días, próxima medición el 2026-05-23. El lote queda en cola para la salida, se informa al cliente del retraso (el comercial de EGIDA llama a „Dąb-Meble" con la información: lote de abeto de 6,2 m³ retrasado 10 días, motivo técnico, sin recargo; el lote de pino de 4,8 m³ sale hoy según lo planificado).
+Mykoła rellena la segunda ficha WSP-002: resultado de la medición, **decisión „resecado P6"**, tiempo previsto 10 días, próxima medición el 2026-05-23. El lote queda en cola para la salida, se informa al cliente del retraso (el comercial de EGIDA llama a „Dąb-Meble" con la información: lote de abeto de 6,2 m³ retrasado 10 días, motivo técnico, sin recargo; el lote de pino de 4,8 m³ sale hoy según lo planificado).
 
 ### Decisiones del operador en la medición: diagrama
 
@@ -277,7 +277,7 @@ El contenido de humedad de equilibrio (EMC) de la madera depende de la temperatu
 
 La decisión del operador depende de la comparación de la media con el umbral y de la desviación. Salida cuando está en el umbral y la desviación es de clase A/B. Resecado P6 (5-14 días) cuando está por encima del umbral en 1,5-3%. Segundo ciclo completo cuando está por encima en más del 3%. Separación de la pila cuando la desviación es de clase C. Documentación en la ficha WSP-002 (retención de 3 años, prueba frente a reclamaciones).
 
-Hoy Rustam ha aprendido que dos lotes casi idénticos (pino de 4,8 m³ y abeto de 6,2 m³ para el mismo cliente „Dąb-Meble") han dado dos decisiones diferentes: pino a la salida (9,3% en umbral), abeto a resecado (11,9% por encima del umbral). La diferencia venía del programa de secado: pino 22 días (lento), abeto 14 días (medio). Programa más corto, efecto de secado menor, madera húmeda. La planificación de la campaña de secado (tema m3-w3-l3) es una **decisión consciente sobre la duración del ciclo** según especie y umbral objetivo.
+Hoy Mykoła ha aprendido que dos lotes casi idénticos (pino de 4,8 m³ y abeto de 6,2 m³ para el mismo cliente „Dąb-Meble") han dado dos decisiones diferentes: pino a la salida (9,3% en umbral), abeto a resecado (11,9% por encima del umbral). La diferencia venía del programa de secado: pino 22 días (lento), abeto 14 días (medio). Programa más corto, efecto de secado menor, madera húmeda. La planificación de la campaña de secado (tema m3-w3-l3) es una **decisión consciente sobre la duración del ciclo** según especie y umbral objetivo.
 
 En la próxima lección (m3-w2-l6) pasamos a las **cintas y sierras**: elección del tipo de cinta y la geometría del diente según la especie de madera y el surtido del pedido. Acero estelita para roble seco, aleado para pino fresco, tres pasos de diente, anchura de la cinta para P3 frente a P1.
 

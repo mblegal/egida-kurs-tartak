@@ -8,9 +8,9 @@ czas: 120
 
 Jueves, noveno día de la semana 1. Lunes: Oleh y el derecho. Martes: Andrei y el polvo. Miércoles: Siarhei y los cinco pasos ante la avería. Hoy cerramos la semana con una lección que es la más dura y la más sencilla al mismo tiempo. La más dura, porque describe una situación en la que nadie quiere pensar. La más sencilla, porque en esa situación no hay tiempo para pensar, solo hay un ritual.
 
-**El protagonista de la lección de hoy es Hai**, el vietnamita de la lección 1 de la semana 1, el mismo que el lunes se puso por primera vez solo ante la sierra de cinta. A las 10:23 Hai lleva un saco de serrín de la nave de aspiración al contenedor que está en el patio. Pasa por la nave 1. Sierra de cinta n.º 4. Operario: **Paweł Nowak, 52 años, quince años en el aserradero**. Paweł es un veterano. Paweł conoce la máquina de memoria. Paweł aquella mañana iba con prisa, porque un proveedor le esperaba en la oficina para su firma. Paweł tuvo un atasco a las 10:22. Paweł se saltó el paso tres (ANCLAR) de la lección 7, porque "ya se ha parado, lo saco rápido y sigo". Paweł tiró de la tabla con la mano izquierda. El par residual de la cinta (40 Nm, ¿lo recuerdas?) dio un tirón al disco. **A las 10:23:08, el dedo índice de la mano izquierda de Paweł está junto a la tabla, sobre la mesa. Del muñón brota sangre de color rojo vivo en un chorro pulsante.**
+**El protagonista de la lección de hoy es Andrij**, el ucraniano de la lección 1 de la semana 1, el mismo que el lunes se puso por primera vez solo ante la sierra de cinta. A las 10:23 Andrij lleva un saco de serrín de la nave de aspiración al contenedor que está en el patio. Pasa por la nave 1. Sierra de cinta n.º 4. Operario: **Paweł Nowak, 52 años, quince años en el aserradero**. Paweł es un veterano. Paweł conoce la máquina de memoria. Paweł aquella mañana iba con prisa, porque un proveedor le esperaba en la oficina para su firma. Paweł tuvo un atasco a las 10:22. Paweł se saltó el paso tres (ANCLAR) de la lección 7, porque "ya se ha parado, lo saco rápido y sigo". Paweł tiró de la tabla con la mano izquierda. El par residual de la cinta (40 Nm, ¿lo recuerdas?) dio un tirón al disco. **A las 10:23:08, el dedo índice de la mano izquierda de Paweł está junto a la tabla, sobre la mesa. Del muñón brota sangre de color rojo vivo en un chorro pulsante.**
 
-Hai entra a las 10:23:15. **Tiene tres minutos para que Paweł no se desangre.** En la l7 había cinco pasos, porque la máquina puede esperar. Aquí hay **cuatro pasos, porque la sangre no espera**: **ASEGURAR – DETENER – LLAMAR – CONSERVAR**. Los aprenderás hoy, los repetirás mañana y pasado mañana. No cuentes con no necesitarlos nunca. Cuenta con que, cuando llegue tu momento, los tengas en los dedos, no en la cabeza.
+Andrij entra a las 10:23:15. **Tiene tres minutos para que Paweł no se desangre.** En la l7 había cinco pasos, porque la máquina puede esperar. Aquí hay **cuatro pasos, porque la sangre no espera**: **ASEGURAR – DETENER – LLAMAR – CONSERVAR**. Los aprenderás hoy, los repetirás mañana y pasado mañana. No cuentes con no necesitarlos nunca. Cuenta con que, cuando llegue tu momento, los tengas en los dedos, no en la cabeza.
 
 ## Objetivos
 
@@ -33,13 +33,13 @@ La presión directa en el primer minuto detiene la hemorragia venosa en el 90 % 
 
 ### Paso 1: ASEGURAR (segundos 0-20)
 
-Hai entra corriendo. Ve a Paweł junto a la sierra, la sangre brota, Paweł está pálido. El primer impulso del testigo inexperto: correr hacia el herido. **Mal impulso.** Si la máquina está trabajando, puedes convertirte en el segundo herido.
+Andrij entra corriendo. Ve a Paweł junto a la sierra, la sangre brota, Paweł está pálido. El primer impulso del testigo inexperto: correr hacia el herido. **Mal impulso.** Si la máquina está trabajando, puedes convertirte en el segundo herido.
 
-**Qué hace Hai**:
+**Qué hace Andrij**:
 
-1. **Comprueba la máquina**. La sierra n.º 4 está parada (Paweł ha llegado a pulsar el STOP). Si la cinta estuviera en marcha, Hai **primero** pulsaría la seta.
+1. **Comprueba la máquina**. La sierra n.º 4 está parada (Paweł ha llegado a pulsar el STOP). Si la cinta estuviera en marcha, Andrij **primero** pulsaría la seta.
 2. **Comprueba el entorno**. No hay charco de aceite, no hay tabla suelta. Se puede acercar.
-3. **Grita fuerte**. "CAPATAZ, AYUDA, NAVE 1, SIERRA 4". Corto y concreto. El operario de la nave 2 sale corriendo a avisar. **Hai no va él mismo a buscar al capataz**: se queda con Paweł.
+3. **Grita fuerte**. "CAPATAZ, AYUDA, NAVE 1, SIERRA 4". Corto y concreto. El operario de la nave 2 sale corriendo a avisar. **Andrij no va él mismo a buscar al capataz**: se queda con Paweł.
 4. **Se acerca con paso firme**, no corriendo (correr + sangre en el suelo = caída).
 
 ::: warning
@@ -48,11 +48,11 @@ Hai entra corriendo. Ve a Paweł junto a la sierra, la sangre brota, Paweł est�
 
 ### Paso 2: DETENER (segundos 20-120)
 
-Paweł está sentado en el suelo. La mano derecha aprieta la izquierda, la sangre corre entre los dedos. Hai se arrodilla a su lado.
+Paweł está sentado en el suelo. La mano derecha aprieta la izquierda, la sangre corre entre los dedos. Andrij se arrodilla a su lado.
 
 **2a. Presión directa (segundos 20-60)**
 
-Hai coge el **rollo de papel de cocina de la sierra** (cada máquina los tiene para la resina). No va al botiquín, porque está en el pasillo y la sangre es ahora. Forma un tampón grueso, presiona **fuerte y de forma continua** directamente sobre el muñón. Nada de "con suavidad". Con la otra mano eleva el antebrazo de Paweł por encima del nivel del corazón.
+Andrij coge el **rollo de papel de cocina de la sierra** (cada máquina los tiene para la resina). No va al botiquín, porque está en el pasillo y la sangre es ahora. Forma un tampón grueso, presiona **fuerte y de forma continua** directamente sobre el muñón. Nada de "con suavidad". Con la otra mano eleva el antebrazo de Paweł por encima del nivel del corazón.
 
 ::: info
 **Por qué elevar el brazo**: la gravedad trabaja contra la hemorragia y reduce el flujo en un 15-25 %. Combinado con la presión, suele bastar para una hemorragia venosa.
@@ -79,17 +79,17 @@ El botiquín tipo K (norma DIN 13169, obligatorio según el Reglamento del Minis
 
 ### Paso 3: LLAMAR (segundos 120-180)
 
-La hemorragia está controlada. Hai saca el teléfono.
+La hemorragia está controlada. Andrij saca el teléfono.
 
 **112. Guion de la llamada**:
 
 > **Operador**: "Número de emergencias 112, dígame".
 >
-> **Hai**: "Accidente laboral. Aserradero Fundación EGIDA, ul. Dębowa 12, Dębowa Góra. Nave n.º 1, sierra de cinta. Amputación del dedo índice de la mano izquierda. Herido Paweł Nowak, 52 años, consciente. He colocado un torniquete a las 10:25. Necesitamos una ambulancia".
+> **Andrij**: "Accidente laboral. Aserradero Fundación EGIDA, ul. Dębowa 12, Dębowa Góra. Nave n.º 1, sierra de cinta. Amputación del dedo índice de la mano izquierda. Herido Paweł Nowak, 52 años, consciente. He colocado un torniquete a las 10:25. Necesitamos una ambulancia".
 >
 > **Operador**: "No cuelgue, la ayuda ya está en camino. ¿Se ve el fragmento amputado?".
 >
-> **Hai**: "Sí, está en la mesa de la sierra".
+> **Andrij**: "Sí, está en la mesa de la sierra".
 >
 > **Operador**: "Le indico cómo preservarlo. Que alguien espere en la puerta con la puerta abierta, la ambulancia llega en 11 minutos".
 
@@ -138,19 +138,19 @@ La ambulancia se lleva a Paweł y el dedo a las 10:34. La amputación de un dedo
 - **Notificación a la Inspección de Trabajo del Estado (PIP) y a la fiscalía** sin demora (art. 234 § 2 del Código del Trabajo polaco, por teléfono en 2-4 horas, por escrito en 24 horas).
 - **Tarjeta de accidente** elaborada por el **equipo de investigación** (técnico de seguridad y salud laboral más inspector social de trabajo), plazo de **14 días** desde el accidente (Reglamento del Consejo de Ministros polaco de 1 de julio de 2009).
 
-**Papel de Hai como testigo**: será interrogado por el equipo de investigación. Describirá con detalle qué vio y qué pasos dio. Tiene derecho a **asistencia psicológica** (ver una amputación es un trauma; una reacción de estrés durante días o semanas es normal).
+**Papel de Andrij como testigo**: será interrogado por el equipo de investigación. Describirá con detalle qué vio y qué pasos dio. Tiene derecho a **asistencia psicológica** (ver una amputación es un trauma; una reacción de estrés durante días o semanas es normal).
 
-### Case Hai: tres minutos que se quedan
+### Case Andrij: tres minutos que se quedan
 
 **Cronograma 10:23-10:34**:
 
 - **10:23:00**: Paweł saca la tabla con la mano, el disco da un tirón, amputación.
-- **10:23:15**: Hai entra, comprueba la máquina (parada) y el entorno.
-- **10:23:20**: Hai pide ayuda. El operario de la nave 2 sale corriendo.
-- **10:23:35**: Hai se arrodilla, coge el rollo de papel, presiona.
-- **10:24:30**: La sangre sigue brotando. Hai abre el botiquín K, saca el CAT.
+- **10:23:15**: Andrij entra, comprueba la máquina (parada) y el entorno.
+- **10:23:20**: Andrij pide ayuda. El operario de la nave 2 sale corriendo.
+- **10:23:35**: Andrij se arrodilla, coge el rollo de papel, presiona.
+- **10:24:30**: La sangre sigue brotando. Andrij abre el botiquín K, saca el CAT.
 - **10:25:00**: Torniquete colocado, 4 vueltas de varilla, rotulador: **T = 10:25**.
-- **10:25:30**: Hai llama al 112.
+- **10:25:30**: Andrij llama al 112.
 - **10:26:00**: El capataz Marek en la nave.
 - **10:27:00**: Marek prepara el dedo: gasa, bolsa, recipiente con hielo, etiqueta 10:28.
 - **10:34:00**: Ambulancia. Paweł y el dedo viajan juntos a Urgencias del hospital comarcal. Reimplante el mismo día, dedo salvado.
@@ -158,7 +158,7 @@ La ambulancia se lleva a Paweł y el dedo a las 10:34. La amputación de un dedo
 **Once minutos desde el accidente hasta la ambulancia, tres minutos desde el accidente hasta el torniquete.** Esa es la diferencia entre "Paweł sobrevivió con una amputación" y "Paweł murió de choque hipovolémico".
 
 ::: tip
-**Lo que enseña el case**: Hai hizo una formación de primeros auxilios en la empresa (8 horas, Cruz Roja Polaca (PCK)) medio año antes de ese día. Entonces decía: "Es perder el tiempo, a mí no me va a pasar nada". Los tres minutos de ritual que salvaron la mano de Paweł eran 8 horas de entrenamiento medio año antes. **El art. 237³ § 2 del Código del Trabajo polaco** exige formación de primeros auxilios una vez cada 5 años. No es un papel, es Paweł con dedo o Paweł sin dedo.
+**Lo que enseña el case**: Andrij hizo una formación de primeros auxilios en la empresa (8 horas, Cruz Roja Polaca (PCK)) medio año antes de ese día. Entonces decía: "Es perder el tiempo, a mí no me va a pasar nada". Los tres minutos de ritual que salvaron la mano de Paweł eran 8 horas de entrenamiento medio año antes. **El art. 237³ § 2 del Código del Trabajo polaco** exige formación de primeros auxilios una vez cada 5 años. No es un papel, es Paweł con dedo o Paweł sin dedo.
 :::
 
 ## Términos clave

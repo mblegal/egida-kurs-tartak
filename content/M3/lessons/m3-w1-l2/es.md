@@ -10,7 +10,7 @@ En la l1 cruzaste el umbral del M3: «informe después del hecho, no antes de la
 
 En el M2 el *brygadzista* (capataz) Marek dirigía la charla, y tú estabas en el círculo escuchando. En el M3 el círculo sigue siendo el mismo, pero **tú estás en el centro**. El ayudante de la nueva cohorte te escucha a ti. El operador junior del M2 te escucha a ti. Marek, el *brygadzista* (capataz), está detrás de ti y da fe de que la charla se celebró. Tu firma en el *dziennik odpraw* (diario de charlas) cierra los cinco minutos. El resto del día va bajo la firma de ese apunte.
 
-La lección de hoy muestra cuatro cosas: por qué un **operador autónomo** tiene la obligación de dirigir una *odprawa stanowiskowa* (charla de seguridad del puesto), y no solo la charla general de la empresa; cómo construir un formato de cinco minutos sin retórica; cómo elegir el tema para un día concreto y un equipo concreto; y cómo apuntar la charla en el diario para que sobreviva a una inspección de la *PIP* (Inspección Estatal de Trabajo, Państwowa Inspekcja Pracy). Rustam va a dirigir hoy la primera de su vida. A las 6:55, junto a la sierra P3, dos minutos después de que Wahan y Murat dejen las cazadoras. Vamos a estar con él los cinco minutos completos.
+La lección de hoy muestra cuatro cosas: por qué un **operador autónomo** tiene la obligación de dirigir una *odprawa stanowiskowa* (charla de seguridad del puesto), y no solo la charla general de la empresa; cómo construir un formato de cinco minutos sin retórica; cómo elegir el tema para un día concreto y un equipo concreto; y cómo apuntar la charla en el diario para que sobreviva a una inspección de la *PIP* (Inspección Estatal de Trabajo, Państwowa Inspekcja Pracy). Mykoła va a dirigir hoy la primera de su vida. A las 6:55, junto a la sierra P3, dos minutos después de que Wasyl y Murat dejen las cazadoras. Vamos a estar con él los cinco minutos completos.
 
 ## Objetivos
 
@@ -56,7 +56,7 @@ La charla tiene que mantener ritmo. Cinco bloques de 60 segundos cada uno. Ni cu
 
 **Bloque 1 (0:00 a 1:00): apertura.** Saludas por el nombre. Dos datos de contexto: qué día es (lunes, martes...) y qué procesas hoy (pino partida 47, roble partida 12, lo que sea). Cero comentarios personales del tipo «qué tal el fin de semana». La charla no es cotilleo.
 
-> «Buenos días, Wahan; buenos días, Murat. Hoy es lunes, 21 de abril. En la P3 entra pino, partida 47, primer turno después del fin de semana.»
+> «Buenos días, Wasyl; buenos días, Murat. Hoy es lunes, 21 de abril. En la P3 entra pino, partida 47, primer turno después del fin de semana.»
 
 **Bloque 2 (1:00 a 2:00): tema del día.** Una frase que dice qué es lo inusual de hoy. Es el corazón de la charla. El tema lo eliges de cinco fuentes (ver más abajo). Sin tema, la charla no existe.
 
@@ -64,18 +64,18 @@ La charla tiene que mantener ritmo. Cinco bloques de 60 segundos cada uno. Ni cu
 
 **Bloque 3 (2:00 a 3:00): concreto del puesto.** Una tarea concreta que hoy hacéis de otra manera. Nada de filosofía, solo un gesto.
 
-> «Marcha en vacío hoy 3 minutos en lugar de 1, antes de que entre el primer tronco. Murat, tú compruebas la temperatura de la cinta con la mano cada 5 minutos durante la primera media hora. Wahan, tú mantienes una distancia de 4 metros en lugar de 3 durante la primera hora, porque todavía no conocemos el rechazo de la cinta después de la soldadura.»
+> «Marcha en vacío hoy 3 minutos en lugar de 1, antes de que entre el primer tronco. Murat, tú compruebas la temperatura de la cinta con la mano cada 5 minutos durante la primera media hora. Wasyl, tú mantienes una distancia de 4 metros en lugar de 3 durante la primera hora, porque todavía no conocemos el rechazo de la cinta después de la soldadura.»
 
 **Bloque 4 (3:00 a 4:00): pregunta de control.** Una cosa concreta para que la repita alguien del equipo. Nada de «¿queda claro?». Pregunta concreta.
 
-> «Wahan, ¿qué distancia mantienes hoy?»
+> «Wasyl, ¿qué distancia mantienes hoy?»
 > «Cuatro metros durante la primera hora.»
 > «Murat, ¿qué compruebas con la mano cada 5 minutos?»
 > «La temperatura de la cinta durante media hora.»
 
-**Bloque 5 (4:00 a 5:00): firma.** Firma en el diario. Apunte corto: tema, presentes, tu firma. Wahan y Murat no firman (están más abajo en la jerarquía del puesto), pero tú confirmas su presencia.
+**Bloque 5 (4:00 a 5:00): firma.** Firma en el diario. Apunte corto: tema, presentes, tu firma. Wasyl y Murat no firman (están más abajo en la jerarquía del puesto), pero tú confirmas su presencia.
 
-> (apuntas en la tableta de la P3) *«Charla del puesto 21.04, 6:55 a 7:00. Tema: calentamiento de la cinta después del cambio. Presentes: R. Nazarov (responsable), W. Petrosjan (ayudante), M. Kaya (operador junior). Firma: R. Nazarov.»*
+> (apuntas en la tableta de la P3) *«Charla del puesto 21.04, 6:55 a 7:00. Tema: calentamiento de la cinta después del cambio. Presentes: R. Hrycenko (responsable), W. Melnyk (ayudante), M. Kaya (operador junior). Firma: R. Hrycenko.»*
 
 ::: tip
 ¿Por qué exactamente 5 minutos, y no 3 ni 10? Cinco minutos tiene fronteras: permite lo concreto sin irse por las ramas, pero es lo bastante corto para no agotar la atención del ayudante cuyo segundo idioma es el polaco. Menos de 3 minutos = no cabe la pregunta de control. Más de 7 minutos = el equipo deja de escuchar y empieza a pensar en la máquina. Cinco minutos es el único ritmo que funciona, confirmado en la práctica por 15 años de formadores EGIDA y por los estudios de la *PIP* de 2019 sobre la eficacia de los instructivos del puesto.
@@ -91,7 +91,7 @@ Sin tema la charla está vacía. Con tema es prueba de que miraste el puesto ant
 
 **3. Avería del turno anterior.** Ayer en la P3 se cambió la cinta tras una soldadura que se desprendió a los 40 minutos. Hoy la P3 arranca después de ese cambio. Tema: «qué cambiamos, por qué lo cambiamos, cómo lo controlamos los primeros 30 minutos». La avería de ayer es tema obligatorio de la charla de hoy, no opcional.
 
-**4. Persona nueva en el equipo.** El ayudante Wahan ha empezado hoy. El operador junior Murat ha vuelto de dos semanas de vacaciones. Cada cambio de composición del equipo exige una charla con tema «quién no sabe qué, qué le enseñamos hoy». No se humilla al nuevo, solo se nombran las lagunas abiertamente.
+**4. Persona nueva en el equipo.** El ayudante Wasyl ha empezado hoy. El operador junior Murat ha vuelto de dos semanas de vacaciones. Cada cambio de composición del equipo exige una charla con tema «quién no sabe qué, qué le enseñamos hoy». No se humilla al nuevo, solo se nombran las lagunas abiertamente.
 
 **5. Pedido especial.** Hoy partida para un cliente que pide 47 mm en vez de los 50 mm estándar. O corte para documentación *FSC*. O madera de construcción con exigencia de documentación de resistencia. Pedido especial = paso adicional en el procedimiento, que hay que recordarle al equipo.
 
@@ -99,48 +99,48 @@ Sin tema la charla está vacía. Con tema es prueba de que miraste el puesto ant
 En la práctica del primer mes de M3 la elección del tema es el mayor problema. Los operadores eligen un «genérico» (cuidado hoy con la máquina) en lugar del concreto (cinta después de soldadura, 15 minutos sin carga). Regla: **si el tema de la charla se puede decir con la misma frase todos los días, el tema está vacío**. Un buen tema es **hoy distinto de mañana**. Si tu tema del lunes suena igual que el del miércoles, se te ha pasado algo al observar el puesto.
 :::
 
-### Escena: Rustam dirige la primera charla
+### Escena: Mykoła dirige la primera charla
 
-Son las 6:54. Rustam está junto a la sierra P3. En la mano sostiene una tableta, en la pantalla tiene abierto el *dziennik odpraw* (diario de charlas) con el campo «tema» en blanco. El primer día no confía en la memoria; apuntó el tema anoche, cuando Marek le dijo: «mañana la P3 arranca primera tras el cambio de cinta, tú diriges la charla». Rustam apuntó dos palabras: *taśma, rozgrzanie* (cinta, calentamiento). Es su salvavidas.
+Son las 6:54. Mykoła está junto a la sierra P3. En la mano sostiene una tableta, en la pantalla tiene abierto el *dziennik odpraw* (diario de charlas) con el campo «tema» en blanco. El primer día no confía en la memoria; apuntó el tema anoche, cuando Marek le dijo: «mañana la P3 arranca primera tras el cambio de cinta, tú diriges la charla». Mykoła apuntó dos palabras: *taśma, rozgrzanie* (cinta, calentamiento). Es su salvavidas.
 
-Wahan Petrosjan se acerca el primero. 22 años, Armenia, en Polonia desde hace 3 meses, hoy primer día en el aserradero como ayudante M1. Se ha quitado el casco, está de pie con la cazadora al brazo, mira a Rustam a los ojos. Rustam ve en su mirada algo que él mismo recuerda de hace un año: *no sé qué estoy aprendiendo*.
+Wasyl Melnyk se acerca el primero. 22 años, Ucrania de Ternópil, en Polonia desde hace 3 meses, hoy primer día en el aserradero como ayudante M1. Se ha quitado el casco, está de pie con la cazadora al brazo, mira a Mykoła a los ojos. Mykoła ve en su mirada algo que él mismo recuerda de hace un año: *no sé qué estoy aprendiendo*.
 
-Murat Kaya llega el segundo. 26 años, Turquía, en Polonia desde hace año y medio, operador junior M2, hace tres semanas volvió de dos semanas de vacaciones en Estambul. Murat se ha colocado a la derecha de Rustam, conoce el protocolo, sabe dónde ponerse en el círculo de la charla.
+Murat Kaya llega el segundo. 26 años, Turquía, en Polonia desde hace año y medio, operador junior M2, hace tres semanas volvió de dos semanas de vacaciones en Estambul. Murat se ha colocado a la derecha de Mykoła, conoce el protocolo, sabe dónde ponerse en el círculo de la charla.
 
-Detrás de Rustam, a 3 metros de distancia, está Marek. No interrumpe, no apunta. Observa y dará fe de que la charla se celebró. Su papel hoy termina en la presencia.
+Detrás de Mykoła, a 3 metros de distancia, está Marek. No interrumpe, no apunta. Observa y dará fe de que la charla se celebró. Su papel hoy termina en la presencia.
 
-6:55. Rustam toma aire.
+6:55. Mykoła toma aire.
 
-> **Rustam:** «Buenos días, Wahan. Buenos días, Murat. Hoy es lunes, 21 de abril. En la P3 entra pino, partida 47, primer turno después del fin de semana.»
+> **Mykoła:** «Buenos días, Wasyl. Buenos días, Murat. Hoy es lunes, 21 de abril. En la P3 entra pino, partida 47, primer turno después del fin de semana.»
 
-Pausa de dos segundos. Rustam mira la tableta. *Taśma, rozgrzanie.*
+Pausa de dos segundos. Mykoła mira la tableta. *Taśma, rozgrzanie.*
 
-> **Rustam:** «El sábado se cambió la cinta. Soldadura nueva. Hoy arranca el primer turno después del cambio. La cinta está fría y todavía no sabemos cómo se va a comportar la soldadura a plena carga. Los primeros 15 minutos trabajamos sin prisa.»
+> **Mykoła:** «El sábado se cambió la cinta. Soldadura nueva. Hoy arranca el primer turno después del cambio. La cinta está fría y todavía no sabemos cómo se va a comportar la soldadura a plena carga. Los primeros 15 minutos trabajamos sin prisa.»
 
-Pausa. Wahan asiente. Murat mira la P3, como si la comprobara con su propio ojo.
+Pausa. Wasyl asiente. Murat mira la P3, como si la comprobara con su propio ojo.
 
-> **Rustam:** «Lo concreto. Marcha en vacío hoy 3 minutos en lugar de 1, antes de que entre el primer tronco. Murat, tú compruebas la temperatura de la cinta con la mano enguantada cada 5 minutos durante la primera media hora. Wahan, tú mantienes una distancia de 4 metros en lugar de 3 durante la primera hora, porque el rechazo después de la soldadura puede ser mayor de lo normal.»
+> **Mykoła:** «Lo concreto. Marcha en vacío hoy 3 minutos en lugar de 1, antes de que entre el primer tronco. Murat, tú compruebas la temperatura de la cinta con la mano enguantada cada 5 minutos durante la primera media hora. Wasyl, tú mantienes una distancia de 4 metros en lugar de 3 durante la primera hora, porque el rechazo después de la soldadura puede ser mayor de lo normal.»
 
-Pausa. Rustam mira por orden a cada uno de ellos.
+Pausa. Mykoła mira por orden a cada uno de ellos.
 
-> **Rustam:** «Wahan, ¿qué distancia mantienes hoy?»
+> **Mykoła:** «Wasyl, ¿qué distancia mantienes hoy?»
 >
-> **Wahan:** «Cuatro metros. Primera hora.»
+> **Wasyl:** «Cuatro metros. Primera hora.»
 >
-> **Rustam:** «Bien. Murat, ¿qué compruebas cada cinco minutos?»
+> **Mykoła:** «Bien. Murat, ¿qué compruebas cada cinco minutos?»
 >
 > **Murat:** «Temperatura de la cinta. Mano. Guante. Media hora.»
 >
-> **Rustam:** «Bien.»
+> **Mykoła:** «Bien.»
 
-Rustam apunta en la tableta. Cuatro líneas, tres apellidos, una fecha. Pulsa «guardar». Deja la tableta en el soporte. Marek se acerca, echa un vistazo a la pantalla, asiente.
+Mykoła apunta en la tableta. Cuatro líneas, tres apellidos, una fecha. Pulsa «guardar». Deja la tableta en el soporte. Marek se acerca, echa un vistazo a la pantalla, asiente.
 
 > **Marek:** «Charla aceptada. Arrancamos.»
 
-Duró cuatro minutos y cuarenta y dos segundos. Rustam miró el reloj. Por primera vez en su vida había dirigido una charla del puesto en un aserradero polaco. El corazón le latió fuerte solo los primeros diez segundos, después entró la memoria muscular.
+Duró cuatro minutos y cuarenta y dos segundos. Mykoła miró el reloj. Por primera vez en su vida había dirigido una charla del puesto en un aserradero polaco. El corazón le latió fuerte solo los primeros diez segundos, después entró la memoria muscular.
 
 ::: tip
-Fíjate en seis cosas de la charla de Rustam. Primero, **no leyó la charla entera de la tableta**. Dos palabras ancla (*taśma, rozgrzanie*) fueron suficientes. Segundo, **la distancia de 3 metros** entre Rustam y el equipo es la distancia estándar de charla en el aserradero (para oírse sin gritar). Tercero, **Marek no interrumpió**, ni siquiera cuando Wahan dijo «cuatro metros. primera hora» en modo telegráfico. Las frases completas son para lo escrito, no para la nave. Cuarto, **la pregunta de control no fue «¿queda claro?»**. Fue concreta. Quinto, **la firma fue a la tableta, no solo a la cabeza**. Sin firma la charla no existe. Sexto, **4:42 es un tiempo normal**. No forzó para llegar a los cinco, terminó cuando terminó el tema.
+Fíjate en seis cosas de la charla de Mykoła. Primero, **no leyó la charla entera de la tableta**. Dos palabras ancla (*taśma, rozgrzanie*) fueron suficientes. Segundo, **la distancia de 3 metros** entre Mykoła y el equipo es la distancia estándar de charla en el aserradero (para oírse sin gritar). Tercero, **Marek no interrumpió**, ni siquiera cuando Wasyl dijo «cuatro metros. primera hora» en modo telegráfico. Las frases completas son para lo escrito, no para la nave. Cuarto, **la pregunta de control no fue «¿queda claro?»**. Fue concreta. Quinto, **la firma fue a la tableta, no solo a la cabeza**. Sin firma la charla no existe. Sexto, **4:42 es un tiempo normal**. No forzó para llegar a los cinco, terminó cuando terminó el tema.
 :::
 
 ### Cómo apuntar la charla en el diario
@@ -149,7 +149,7 @@ El formato del apunte es sencillo, pero tiene cinco elementos obligatorios. La a
 
 1. **Fecha y hora** (DD.MM, inicio y fin, por ejemplo 21.04, 6:55 a 7:00).
 2. **Tema en una frase** (por ejemplo «calentamiento de la cinta después del cambio, primeros 15 minutos sin carga»).
-3. **Presentes con función** (R. Nazarov, operador autónomo / responsable; W. Petrosjan, ayudante; M. Kaya, operador junior).
+3. **Presentes con función** (R. Hrycenko, operador autónomo / responsable; W. Melnyk, ayudante; M. Kaya, operador junior).
 4. **Tu firma** (en la tableta es la validación por el inicio de sesión, en el diario en papel la firma manuscrita más la fecha).
 5. **Sin desfase** entre la charla y el apunte. Apuntas enseguida, no después del almuerzo.
 
@@ -170,7 +170,7 @@ De la observación de los formadores EGIDA durante los últimos 5 años se desti
 5. **Parafrasear.** El operador repite el tema general del *mistrz zmiany* en vez de hablar de su puesto. «Hoy hace fresco» no es tema de la P3. «Cinta fría tras el cambio, 15 minutos sin carga» sí lo es. Regla: **el tema de la charla del puesto está siempre ligado a tu máquina, no al tiempo ni al ambiente**.
 
 ::: warning
-La trampa n.º 5 (parafrasear) es señal de que no miraste el puesto antes de la charla. Regla para el primer mes de M3: **cada tarde, antes de salir de la nave, apuntas en la libreta dos palabras ancla para la charla del día siguiente**. Wahan-distancia. Cinta-calentamiento. Materia prima-fresca. Son treinta segundos de tu día. Te protegen durante los cinco años de archivo del diario.
+La trampa n.º 5 (parafrasear) es señal de que no miraste el puesto antes de la charla. Regla para el primer mes de M3: **cada tarde, antes de salir de la nave, apuntas en la libreta dos palabras ancla para la charla del día siguiente**. Wasyl-distancia. Cinta-calentamiento. Materia prima-fresca. Son treinta segundos de tu día. Te protegen durante los cinco años de archivo del diario.
 :::
 
 ### Qué haces cuando no tienes tema del día
@@ -194,7 +194,7 @@ Uno de los diez temas de reserva se repite cada semana o cada dos semanas. No es
 
 ### Resumen de la lección segunda
 
-La charla de seguridad en el M3 pasa de «escuchar a Marek» a «dirigir para Wahan y Murat». Cinco minutos, cinco bloques de un minuto, un tema de cinco posibles fuentes, apunte inmediato en el diario con tu firma. Cinco errores del primer mes (demasiado larga, sin tema, monólogo, sin firma, parafrasear) agotan la mayoría de los tropiezos. Si no tienes tema del día, tienes diez temas de reserva.
+La charla de seguridad en el M3 pasa de «escuchar a Marek» a «dirigir para Wasyl y Murat». Cinco minutos, cinco bloques de un minuto, un tema de cinco posibles fuentes, apunte inmediato en el diario con tu firma. Cinco errores del primer mes (demasiado larga, sin tema, monólogo, sin firma, parafrasear) agotan la mayoría de los tropiezos. Si no tienes tema del día, tienes diez temas de reserva.
 
 En la l3 entramos en el *art. 210 y 220 Kodeksu pracy* (artículos 210 y 220 del Código de Trabajo polaco). Verás el texto de la ley, conocerás el protocolo de la *notatka służbowa* (nota de servicio) en un conflicto con el *brygadzista*, verás un ejemplo real de la *PIP*. Va a ser una lección jurídica, con peso.
 
@@ -239,7 +239,7 @@ En la l3 entramos en el *art. 210 y 220 Kodeksu pracy* (artículos 210 y 220 del
 
 1. Hoy llega una partida de roble seco de secadero de 18 meses, en vez del pino fresco habitual.
 2. Ayer en la P3 se rompió la cinta, se cambió antes del fin del turno, hoy primer arranque.
-3. Wahan empieza su primer día en el aserradero.
+3. Wasyl empieza su primer día en el aserradero.
 4. Hoy corte a 47 mm para un cliente en vez de los 50 mm estándar, exige documentación.
 5. La noche ha sido de tormenta, ha habido corte eléctrico, el controlador de la P3 se ha reiniciado por la mañana.
 6. Murat ha vuelto tras 2 semanas de vacaciones, el último ciclo en la P3 lo hizo hace tres semanas.
@@ -250,7 +250,7 @@ En la l3 entramos en el *art. 210 y 220 Kodeksu pracy* (artículos 210 y 220 del
 2. Indica las cinco fuentes del tema del día. ¿Cuál es la más fácil de pasar por alto en la primera semana y por qué?
 3. ¿Cuál es la diferencia entre la charla general de la empresa y la charla del puesto? ¿Quién dirige cada una y quién da fe de qué?
 4. Enumera los cinco errores del primer mes de M3. ¿Cuál te amenaza más **a ti personalmente** y qué vas a hacer para evitarlo?
-5. Escribe el apunte completo del diario para una charla hipotética tuya de hoy (formato de Rustam, los cinco elementos obligatorios).
+5. Escribe el apunte completo del diario para una charla hipotética tuya de hoy (formato de Mykoła, los cinco elementos obligatorios).
 
 **Parte C. Representación por parejas.** Busca a una persona en el grupo del curso. Ella hace de ayudante, tú haces de operador autónomo. Representa una charla completa de cinco minutos con el tema: «hoy partida de pino con humedad del 55% en vez del 40% habitual, primer turno». El formador mide el tiempo. Si pasas de 7 minutos o terminas por debajo de 3 minutos, lo repites.
 
@@ -266,10 +266,10 @@ Para la l3 trae la libreta con tres temas, tres comentarios de Marek y una medic
 
 ## Notas para el formador
 
-- **Ritmo de 120 min (propuesto):** 15 min Introducción + Objetivos; 15 min «Para qué sirve la charla del puesto» + *art. 237³ KP* (sin entrar en el detalle del 210/220, eso queda para la l3); 20 min «Formato de cinco minutos» (representación por el formador con dos cursillistas haciendo de equipo); 15 min «Cinco fuentes del tema» (lluvia de ideas, casos de la realidad de los cursillistas); 20 min narración Rustam-Wahan-Murat (lectura con pausas, debate tras cada bloque); 15 min «Cinco errores típicos» (ronda: cada cursillista señala el que más le amenaza); 15 min Parte C de Comprueba tu conocimiento (representación por parejas con medición de tiempo); 5 min términos clave + tarea de casa.
-- **Trampa pedagógica n.º 1:** los cursillistas que antes trabajaron en países sin sistema de charlas SSL (Tayikistán, Uzbekistán, Ucrania antes de 2014) pueden tratar la charla como «papel por el papel». Contrarresta mostrando una sentencia concreta de la jurisprudencia (sin citar, basta con: «en 2019 el tribunal laboral de Łódź concedió 80.000 zł de indemnización porque faltaba el apunte de la charla en un accidente»). Las cifras funcionan.
+- **Ritmo de 120 min (propuesto):** 15 min Introducción + Objetivos; 15 min «Para qué sirve la charla del puesto» + *art. 237³ KP* (sin entrar en el detalle del 210/220, eso queda para la l3); 20 min «Formato de cinco minutos» (representación por el formador con dos cursillistas haciendo de equipo); 15 min «Cinco fuentes del tema» (lluvia de ideas, casos de la realidad de los cursillistas); 20 min narración Mykoła-Wasyl-Murat (lectura con pausas, debate tras cada bloque); 15 min «Cinco errores típicos» (ronda: cada cursillista señala el que más le amenaza); 15 min Parte C de Comprueba tu conocimiento (representación por parejas con medición de tiempo); 5 min términos clave + tarea de casa.
+- **Trampa pedagógica n.º 1:** los cursillistas que antes trabajaron en países sin sistema formalizado de charlas SSL (Ucrania antes de 2014, Colombia, Venezuela) pueden tratar la charla como «papel por el papel». Contrarresta mostrando una sentencia concreta de la jurisprudencia (sin citar, basta con: «en 2019 el tribunal laboral de Łódź concedió 80.000 zł de indemnización porque faltaba el apunte de la charla en un accidente»). Las cifras funcionan.
 - **Trampa pedagógica n.º 2:** la Parte C (representación por parejas) es estresante para algunos cursillistas, sobre todo cuando el polaco es segundo idioma. No trates la actuación como un examen. Permite repetir si alguien «pierde el ritmo» por el estrés. El objetivo no es una actuación perfecta, sino **la experiencia de la propia voz en el papel de responsable**. Los primeros 30 segundos de estrés son la norma, no un error.
 - **Trampa pedagógica n.º 3:** elegir el tema del día es la habilidad más difícil. En la primera ronda los cursillistas eligen con frecuencia «genéricos» (cuidado hoy con la máquina). No avergüences. Pregunta: «¿qué es hoy concretamente distinto que ayer?». Si no contestan, ofrece un ejemplo de la realidad de los aserraderos polacos (vuelta tras el fin de semana, primer turno después del cambio de cinta, materia prima fresca tras la lluvia). Después pide que reformulen el tema.
 - **Anticipación de la l3 (*art. 210/220 KP*):** la lección de mañana es jurídica y pesada. Hoy puedes anunciarla en una frase: «mañana el texto de la ley en la mano, conocerás dos números que te protegen frente a la acusación de insubordinación». Construyes expectativa.
-- **Wahan y Murat como personajes:** el ayudante de Armenia y el operador junior de Turquía son personajes secundarios de todo el M3; vuelven en la l5 (procedimiento tras un incidente), la l8 (instructivo del puesto para el ayudante) y en T3 l7 (supervisión del ayudante). Sus trasfondos nacionales representan **la segunda y tercera ola de migración** en los aserraderos polacos (Armenia, Turquía después de 2020, con independencia de la ola ucraniana y la asiática). Lo dices en una frase si el grupo pregunta.
+- **Wasyl y Murat como personajes:** el ayudante de Ucrania (Ternópil) y el operador junior de Turquía son personajes secundarios de todo el M3; vuelven en la l5 (procedimiento tras un incidente), la l8 (instructivo del puesto para el ayudante) y en T3 l7 (supervisión del ayudante). Sus trasfondos nacionales representan **las dos corrientes más fuertes de migración laboral** hacia los aserraderos polacos tras 2022 (Ucrania dominante, Turquía como fenómeno regional). Lo dices en una frase si el grupo pregunta.
 - **Hora del retorno a esta lección:** en cada lección del T1 enlaza con el formato de cinco minutos de la charla y con las cinco fuentes del tema. En la l5 (procedimiento tras un incidente) pregunta de control: «si el incidente ocurrió hoy por la mañana, ¿cuál es el tema de la charla de mañana?».

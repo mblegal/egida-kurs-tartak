@@ -6,11 +6,11 @@ czas: 120
 
 ## Introduction
 
-Thursday, 2026-05-29, 2:00 p.m. Rustam stands in EGIDA's **kiln hall**, a separate 12 by 8 by 4.5 m building separated from the sawmill hall by a 30 m storage yard. The interior is hot (28-30 °C, even though the kiln is running, the hall gets heat through the insulation), the air has the characteristic smell of wet oak (day 12 of the cycle), the noise of the exhaust fans is steady, 55-60 dB. Today's task: a **planning meeting** for the next kiln charge: when, what, under which program, for how long.
+Thursday, 2026-05-29, 2:00 p.m. Mykoła stands in EGIDA's **kiln hall**, a separate 12 by 8 by 4.5 m building separated from the sawmill hall by a 30 m storage yard. The interior is hot (28-30 °C, even though the kiln is running, the hall gets heat through the insulation), the air has the characteristic smell of wet oak (day 12 of the cycle), the noise of the exhaust fans is steady, 55-60 dB. Today's task: a **planning meeting** for the next kiln charge: when, what, under which program, for how long.
 
-There are three people in the hall: **Mr. Henryk** (62 years old, EGIDA's *mistrz suszarni* (kiln master), a seasonal retiree, working at EGIDA from March to November and wintering at his house near Ełk from December to February; 38 years of experience in kiln drying, of which 22 in Masurian sawmills), **Marek Kowalski** (the foreman) and **Rustam Nazarov** (independent M3 operator; his presence at this meeting is a planned part of his M3 training, the final part of the process block). Wahan is not here (M1, today on a maintenance shift in the sawmill hall, no kiln drying training scheduled).
+There are three people in the hall: **Mr. Henryk** (62 years old, EGIDA's *mistrz suszarni* (kiln master), a seasonal retiree, working at EGIDA from March to November and wintering at his house near Ełk from December to February; 38 years of experience in kiln drying, of which 22 in Masurian sawmills), **Marek Kowalski** (the foreman) and **Mykoła Hrycenko** (independent M3 operator; his presence at this meeting is a planned part of his M3 training, the final part of the process block). Wasyl is not here (M1, today on a maintenance shift in the sawmill hall, no kiln drying training scheduled).
 
-Planning the drying campaign is not an M3 operator's competence in the "decision-making" sense. **The kiln master decides.** The M3 operator **participates, supplies information, documents**. This is the difference Rustam is learning to live today: **not every production decision in which the independent operator participates is an independent operator's decision**. In certain areas (drying, electrical regulation, changes to the controller program) the operator **assists the specialist**, they do not lead.
+Planning the drying campaign is not an M3 operator's competence in the "decision-making" sense. **The kiln master decides.** The M3 operator **participates, supplies information, documents**. This is the difference Mykoła is learning to live today: **not every production decision in which the independent operator participates is an independent operator's decision**. In certain areas (drying, electrical regulation, changes to the controller program) the operator **assists the specialist**, they do not lead.
 
 ### 2:05 p.m., current kiln state
 
@@ -32,15 +32,15 @@ EMC (equilibrium moisture):    7.1%  (final oak target: 14%)
 Planned end: Saturday 2026-06-07, discharge Monday 2026-06-09.
 ```
 
-Mr. Henryk comments out loud, half to Marek, half to Rustam:
+Mr. Henryk comments out loud, half to Marek, half to Mykoła:
 
 *"The oak is going normally. Moisture is dropping as it should. 28% on day 11 is within plan; we will reach 14% in 9 days. No weekend intervention, the chamber runs on its own, the controller on auto. On Saturday and Sunday Maciek will come in to take the readings and write them down in the log, as every weekend."*
 
-Maciek is the kiln assistant, M1 at EGIDA, learning under Mr. Henryk (not Maciek Petrosyan, a different Maciek, Maciej Wiśniewski, 19 years old, second grade of the Ostróda wood technical school, work placement at EGIDA).
+Maciek is the kiln assistant, M1 at EGIDA, learning under Mr. Henryk (not Maciek Melnyk, a different Maciek, Maciej Wiśniewski, 19 years old, second grade of the Ostróda wood technical school, work placement at EGIDA).
 
 *"On Monday the 9th we discharge the oak, the stack goes to the cooling section, then classification. Tuesday the 10th the chamber is **empty**. From Tuesday a new program."*
 
-Marek nods. Rustam looks at the panel and notes the data in his pocket calendar (for himself, not in the KDP-001, because this is not a production document, it is planning).
+Marek nods. Mykoła looks at the panel and notes the data in his pocket calendar (for himself, not in the KDP-001, because this is not a production document, it is planning).
 
 ### 2:15 p.m., what is available for the charge
 
@@ -50,14 +50,14 @@ Marek takes out his foreman's notebook and reads the list of fresh sawn timber i
 Fresh sawn timber awaiting in the drying store (from the WZ cards from the classifiers):
 
 A. Scots pine, boards 28 × 155 × 4050 mm, fresh 28-32%:
-   - ZLE-2026-05-077 (Rustam, internal ZLE-077): 0.58 m³
+   - ZLE-2026-05-077 (Mykoła, internal ZLE-077): 0.58 m³
    - ZLE-2026-05-079 (Damian, Friday 23.05): 0.72 m³
    - Store surplus (material cut in spring for classification): 1.12 m³
    Pine total: 2.42 m³
 
 B. Pedunculate oak, boards 28 × 155 × 4050 mm, fresh 35-38%:
-   - ZLE-2026-05-081 (Rustam, Monday 26.05 new oak campaign): 0.38 m³
-   - ZLE-2026-05-075 (Rustam, 12-14.05 from Part 25, timber in store since 15.05): 1.84 m³
+   - ZLE-2026-05-081 (Mykoła, Monday 26.05 new oak campaign): 0.38 m³
+   - ZLE-2026-05-075 (Mykoła, 12-14.05 from Part 25, timber in store since 15.05): 1.84 m³
    Oak total: 2.22 m³
 
 C. Common beech, boards 25 × 130 × 4000 mm, fresh 32%:
@@ -78,7 +78,7 @@ Here the main problem of the meeting begins. The BH-50 kiln is designed to run a
 - Energy consumption per cubic metre is 3-4 times higher (electricity, gas for the heaters, servicing)
 - The drying program (calibrated for a full charge) gives non-standard results, the risk of core cracks in the board rises
 
-Mr. Henryk continues: *"We have three options. Listen, Rustam, because this is exactly what you will one day have to judge yourself as a future kiln master, if you take that path."*
+Mr. Henryk continues: *"We have three options. Listen, Mykoła, because this is exactly what you will one day have to judge yourself as a future kiln master, if you take that path."*
 
 ### 2:25 p.m., three options and trade-offs
 
@@ -114,7 +114,7 @@ Mr. Henryk quickly in his head: *"Selling price of pine C24 25 × 150 boards aft
 
 *"Accepted,"* says Marek. *"Option B. Tomorrow morning I call Drew-Sus, I arrange Tuesday 3 June for loading, an order for all the pine from the store, 2.42 m³. We leave our chamber empty until mid-June, then we start a full oak charge."*
 
-Mr. Henryk nods, goes to the desk in the corner of the control room, fills in the **KS-001 card** (kiln log card, A4 format, dedicated to each charge decision). Rustam looks over his shoulder.
+Mr. Henryk nods, goes to the desk in the corner of the control room, fills in the **KS-001 card** (kiln log card, A4 format, dedicated to each charge decision). Mykoła looks over his shoulder.
 
 ### 2:55 p.m., the KS-001 card being filled in
 
@@ -148,7 +148,7 @@ Current charge (oak from 17.05) is going normally, discharge plan 07.06.
 Next oak campaign from Strzałowo Forest District planned for 08-15.06.
 Mr. Henryk is on holiday 2 weeks 20.06-04.07, Maciek alone with the chamber,
    in case of problem escalation Marek -> BTM (Polish kiln service).
-Rustam Nazarov is participating in the meeting (M3 training, process block, l3).
+Mykoła Hrycenko is participating in the meeting (M3 training, process block, l3).
 ```
 
 **Signature**: Mr. Henryk, date, time.
@@ -432,19 +432,19 @@ EGIDA offers M3 operators **an additional kiln drying training module** (optiona
 4. **Day 4**: fault diagnosis (faults introduced, the operator tries to recognise them).
 5. **Day 5**: examination (written plus practical, 80% pass mark). Passing gives the qualification **"assistant kiln drying operator"** (can stand in for the master for 1-2 days, e.g. a weekend), but is **not a master** (that requires a 3-year apprenticeship and a BTM course).
 
-Rustam signals his interest in this course to Mr. Henryk. Mr. Henryk: *"Finish M3, then we will talk. Too early, you still have 13 lessons in the process and organisational blocks. If it interests you, in October we will start the training."*
+Mykoła signals his interest in this course to Mr. Henryk. Mr. Henryk: *"Finish M3, then we will talk. Too early, you still have 13 lessons in the process and organisational blocks. If it interests you, in October we will start the training."*
 
-Rustam notes in his calendar: "*October 2026, assistant kiln drying module, 5 days.*"
+Mykoła notes in his calendar: "*October 2026, assistant kiln drying module, 5 days.*"
 
 ## Closing scene, 3:30 p.m., leaving the kiln hall
 
-Rustam, Marek and Mr. Henryk leave the control room. Mr. Henryk stays by the chamber (will check the probes once more, have some water, drive home at 5:00 p.m.); Marek and Rustam walk through the storage yard to the sawmill hall.
+Mykoła, Marek and Mr. Henryk leave the control room. Mr. Henryk stays by the chamber (will check the probes once more, have some water, drive home at 5:00 p.m.); Marek and Mykoła walk through the storage yard to the sawmill hall.
 
-### 3:35 p.m., Marek's conversation with Rustam
+### 3:35 p.m., Marek's conversation with Mykoła
 
-Marek, walking: *"Rustam, what did you understand from today's meeting?"*
+Marek, walking: *"Mykoła, what did you understand from today's meeting?"*
 
-Rustam: *"Three things. First, drying is **not a question of the machine but of time**. 22 days for oak, 9 days for pine, nothing will shorten that except jumping to a worse quality. Second, **a uniform charge** is the basis, mixing species is a risk. Third, **the kiln master decides, the M3 operator documents**. It is not like on the sawmill where I decide myself."*
+Mykoła: *"Three things. First, drying is **not a question of the machine but of time**. 22 days for oak, 9 days for pine, nothing will shorten that except jumping to a worse quality. Second, **a uniform charge** is the basis, mixing species is a risk. Third, **the kiln master decides, the M3 operator documents**. It is not like on the sawmill where I decide myself."*
 
 *"Good. What about the fourth thing?"*
 
@@ -452,19 +452,19 @@ Rustam: *"Three things. First, drying is **not a question of the machine but of 
 
 *"External drying as an option. For client ZLE-077 Drew-Sus costs us 512 zł extra, but saves the deadline. **The deadline is more important than the margin**, because a client who gets goods on time orders the next job. A client who gets 3 days late looks for a different sawmill. Long-term profit is measured by order continuity, not by the margin of a single order."*
 
-Rustam writes in his calendar: *"Deadline > margin. External drying as a strategic option, not an emergency one."*
+Mykoła writes in his calendar: *"Deadline > margin. External drying as a strategic option, not an emergency one."*
 
 ### 3:45 p.m., planning the near future
 
-Marek: *"Tomorrow Friday, a routine day with no unusual tasks. On Monday 2 June the Drew-Sus loading 8:00-10:00, you and Wahan help the yard foreman, we have to move the stacks from the drying store to the truck. After loading, a normal shift on P3 from 10:15. A week from Monday, on 9 June, oak discharge from the chamber, new classification (Mrs. Ania), you assist Wahan with the sorting. That is the l5 block of your course, unloading the chamber; leaving l3."*
+Marek: *"Tomorrow Friday, a routine day with no unusual tasks. On Monday 2 June the Drew-Sus loading 8:00-10:00, you and Wasyl help the yard foreman, we have to move the stacks from the drying store to the truck. After loading, a normal shift on P3 from 10:15. A week from Monday, on 9 June, oak discharge from the chamber, new classification (Mrs. Ania), you assist Wasyl with the sorting. That is the l5 block of your course, unloading the chamber; leaving l3."*
 
-Rustam nods. Writes in his calendar: *"02.06 Drew-Sus loading, 09.06 oak discharge from the chamber."*
+Mykoła nods. Writes in his calendar: *"02.06 Drew-Sus loading, 09.06 oak discharge from the chamber."*
 
 ### 3:50 p.m., return to the sawmill hall
 
-Marek goes back to the foreman's office, Rustam to P3. On P3 the band welded fresh yesterday is still on, order ZLE-2026-05-079 (Damian in the morning, now Rustam finishes in the afternoon), pine boards 25 × 130 mm. A different assortment than yesterday (narrower, thinner), but the parameters do not need to be changed (same pine, thickness only 3 mm different), **feed rate 34 st/min** (thinner pine cuts faster), **tension 2200 PSI**, no band change.
+Marek goes back to the foreman's office, Mykoła to P3. On P3 the band welded fresh yesterday is still on, order ZLE-2026-05-079 (Damian in the morning, now Mykoła finishes in the afternoon), pine boards 25 × 130 mm. A different assortment than yesterday (narrower, thinner), but the parameters do not need to be changed (same pine, thickness only 3 mm different), **feed rate 34 st/min** (thinner pine cuts faster), **tension 2200 PSI**, no band change.
 
-Rustam fills in a new KDP-001 for ZLE-079 (first section: raw material; second: the band is already on the machine, number known; sections 3-4: parameters). 10 minutes of filling in. He starts the cut at 4:02 p.m. Day works through to the end of the shift at 5:00 p.m. Wahan on the feed table.
+Mykoła fills in a new KDP-001 for ZLE-079 (first section: raw material; second: the band is already on the machine, number known; sections 3-4: parameters). 10 minutes of filling in. He starts the cut at 4:02 p.m. Day works through to the end of the shift at 5:00 p.m. Wasyl on the feed table.
 
 ## Key Terms
 

@@ -6,17 +6,17 @@ czas: 120
 
 ## Introducción
 
-Jueves, 2026-05-07, 9:10. Segundo día de prácticas de clasificación de Rustam. Ayer repasó con la Señora Ania 60 tablas de abeto según PN-EN 1611-1 (clasificación visual, criterios estéticos y geométricos: nudos, fendas, gema, curvatura, defectos biológicos). Hoy la Señora Ania tiene para él **otra conversación**: la clasificación por resistencia. Otros criterios, otra norma, otra acreditación.
+Jueves, 2026-05-07, 9:10. Segundo día de prácticas de clasificación de Mykoła. Ayer repasó con la Señora Ania 60 tablas de abeto según PN-EN 1611-1 (clasificación visual, criterios estéticos y geométricos: nudos, fendas, gema, curvatura, defectos biológicos). Hoy la Señora Ania tiene para él **otra conversación**: la clasificación por resistencia. Otros criterios, otra norma, otra acreditación.
 
 Box de la clasificadora, 9:10. Sobre la mesa hay **una sola tabla**, no sesenta. Pino silvestre (*Pinus sylvestris*), sección 50 × 150 mm, longitud 4,2 m, tras el secado previo al 18% de humedad. La tabla está destinada a una viga de forjado residencial (vivienda unifamiliar en Piaseczno, encargo para la empresa „Dom-Bud" con entrega la próxima semana). El cliente ha pedido **clase C24** (resistencia característica a flexión mínimo 24 N/mm²). La Señora Ania tiene que evaluar si esta tabla cumple esa clase.
 
-> **La Señora Ania:** „Buenos días, Rustam. Ayer clasificamos visualmente. Yo evaluaba cómo **se ve** la tabla: nudos, fendas, curvatura. Hoy evalúo cuánto **soporta** la tabla: resistencia, rigidez, densidad. Otro asunto. Para esta tabla el cliente no compra apariencia, compra una viga que soporte 24 N/mm² a flexión, sin rotura. El carpintero de obra verá la viga en el forjado, pero la viga tiene que sobre todo **soportar el techo**, el suelo de la planta superior, los muebles, a las personas. Es una tarea de resistencia."
+> **La Señora Ania:** „Buenos días, Mykoła. Ayer clasificamos visualmente. Yo evaluaba cómo **se ve** la tabla: nudos, fendas, curvatura. Hoy evalúo cuánto **soporta** la tabla: resistencia, rigidez, densidad. Otro asunto. Para esta tabla el cliente no compra apariencia, compra una viga que soporte 24 N/mm² a flexión, sin rotura. El carpintero de obra verá la viga en el forjado, pero la viga tiene que sobre todo **soportar el techo**, el suelo de la planta superior, los muebles, a las personas. Es una tarea de resistencia."
 >
-> **Rustam:** „Pero se ve igual, tabla de pino 50 × 150 × 4200 mm. ¿Cuál es la diferencia?"
+> **Mykoła:** „Pero se ve igual, tabla de pino 50 × 150 × 4200 mm. ¿Cuál es la diferencia?"
 >
 > **La Señora Ania:** „La diferencia: ayer miraba con la norma PN-EN 1611-1, clases G2-0 a G2-3. Hoy miro con la norma PN-EN 14081-3, clases C16, C24, C30, C35. Las clases C son la resistencia a flexión en N/mm². C16 = mínimo 16, C24 = mínimo 24, C30 = mínimo 30. La cifra en el código de la clase es el valor característico de la resistencia a flexión, con garantía del 95% (es decir, 95 tablas de 100 en esa clase superan ese umbral, una o dos pueden ser algo más débiles, pero el promedio está garantizado)."
 
-Rustam asiente, abre un cuaderno nuevo. Hoy jueves, nueve de la mañana, cuatro y diez. Aprenderá la segunda norma, el segundo idioma de la clasificación. En un momento la Señora Ania le mostrará por qué tiene un **segundo certificado** (acreditación ITB de 2020 colgada en la pared del box), y por qué ni siquiera otros clasificadores visuales de EGIDA (la Señora Grażyna, el Señor Mirosław) pueden firmar clases C sin esa acreditación adicional.
+Mykoła asiente, abre un cuaderno nuevo. Hoy jueves, nueve de la mañana, cuatro y diez. Aprenderá la segunda norma, el segundo idioma de la clasificación. En un momento la Señora Ania le mostrará por qué tiene un **segundo certificado** (acreditación ITB de 2020 colgada en la pared del box), y por qué ni siquiera otros clasificadores visuales de EGIDA (la Señora Grażyna, el Señor Mirosław) pueden firmar clases C sin esa acreditación adicional.
 
 ## Objetivos
 
@@ -113,7 +113,7 @@ Peso de la madera por unidad de volumen, en kg/m³, a la humedad estándar del 1
 
 Cómo aumenta la densidad: (a) con la edad del árbol (los árboles más viejos producen madera más densa), (b) con condiciones de crecimiento más duras (un árbol en suelo arenoso, de crecimiento lento, da madera más densa que en suelo fértil; de ahí que el pino de los Bosques de Tuchola sea más denso que el de la Gran Polonia), (c) con la localización en el tronco (madera baja, el llamado *twardziel* (duramen), más densa que la *biel* (albura) superior).
 
-El clasificador evalúa la densidad **visualmente** mediante tres indicadores: (i) anchura del anillo anual (más estrecho = más denso), (ii) proporción de duramen en la sección (más madera oscura de duramen = más densa), (iii) peso de la tabla en la mano (más pesada al mismo tamaño = más densa). Los clasificadores experimentados son capaces de estimar la densidad con un error del 5-10% solo con coger la tabla en la mano y mirar la testa. La Señora Ania suele decir a Rustam: „pesa la tabla un segundo antes de mirarla. Si te parece ligera para el tamaño, ya sospecha que va por debajo de C24. Si te sorprende el peso, apuesta a C30."
+El clasificador evalúa la densidad **visualmente** mediante tres indicadores: (i) anchura del anillo anual (más estrecho = más denso), (ii) proporción de duramen en la sección (más madera oscura de duramen = más densa), (iii) peso de la tabla en la mano (más pesada al mismo tamaño = más densa). Los clasificadores experimentados son capaces de estimar la densidad con un error del 5-10% solo con coger la tabla en la mano y mirar la testa. La Señora Ania suele decir a Mykoła: „pesa la tabla un segundo antes de mirarla. Si te parece ligera para el tamaño, ya sospecha que va por debajo de C24. Si te sorprende el peso, apuesta a C30."
 
 Los tres parámetros están interrelacionados: una tabla con MOR alto casi siempre tiene MOE alto y densidad alta. Pero la correlación no es perfecta. Hay tablas con densidad alta (400 kg/m³) y MOR bajo (20 N/mm²), si tienen muchos nudos o desviación de la fibra grande. Y tablas con densidad moderada (340 kg/m³) y MOR sorprendentemente alto (30 N/mm²), si están limpias de defectos y la fibra corre recta. Por eso la clasificación por resistencia no se hace con una sola magnitud, se integra la información de los tres parámetros mediante los cinco indicadores visuales.
 
@@ -206,46 +206,46 @@ El **Instytut Techniki Budowlanej (ITB)** en Varsovia es el principal centro de 
 **En Polonia la acreditación ITB la tienen unas 2400 personas** (dato de 2024 según el registro de PCA). Para comparar, el certificado visual PN-EN 1611-1 lo tienen unas 8500 personas. La proporción 1:3,5 indica que los clasificadores por resistencia son **más difíciles de formar** (exigen conocimiento matemático-ingenieril más profundo) y más escasos en el mercado.
 
 ::: tip
-La Señora Ania obtuvo la acreditación ITB en 2020, tras 6 años trabajando como clasificadora visual en EGIDA. La renovó en 2023 (con margen), renovación prevista para 2026. En EGIDA tienen acreditación ITB: la Señora Ania (principal), el Señor Mirosław (consultor jubilado) y un clasificador adicional de la vecina Ośno Lubuskie (por acuerdo de suplencia). La Señora Grażyna (clasificadora visual) está en fase de preparación para la acreditación ITB, con examen previsto para septiembre de 2026. Cuando Rustam obtenga el certificado visual en 2030, la acreditación ITB la podrá plantearse hacia 2032 (dos años de práctica más formación). El camino desde operador ayudante (M1) hasta clasificador por resistencia pleno son unos 8-10 años.
+La Señora Ania obtuvo la acreditación ITB en 2020, tras 6 años trabajando como clasificadora visual en EGIDA. La renovó en 2023 (con margen), renovación prevista para 2026. En EGIDA tienen acreditación ITB: la Señora Ania (principal), el Señor Mirosław (consultor jubilado) y un clasificador adicional de la vecina Ośno Lubuskie (por acuerdo de suplencia). La Señora Grażyna (clasificadora visual) está en fase de preparación para la acreditación ITB, con examen previsto para septiembre de 2026. Cuando Mykoła obtenga el certificado visual en 2030, la acreditación ITB la podrá plantearse hacia 2032 (dos años de práctica más formación). El camino desde operador ayudante (M1) hasta clasificador por resistencia pleno son unos 8-10 años.
 :::
 
 ### Escena de clasificación por resistencia: pino de Piaseczno, 9:40-10:30
 
 La Señora Ania coge la tabla de pino. La pone sobre la mesa. Enciende la lámpara cenital, coge una regla de 1 m, un calibre, la aguja para la desviación de la fibra.
 
-> **La Señora Ania:** „Primer indicador: anchura del anillo. Mira la testa de la tabla, Rustam. Cuento 10 anillos consecutivos en la zona dominante."
+> **La Señora Ania:** „Primer indicador: anchura del anillo. Mira la testa de la tabla, Mykoła. Cuento 10 anillos consecutivos en la zona dominante."
 
-Rustam observa. La Señora Ania mide con la regla 10 anillos, dice: „38 mm en 10 anillos = 3,8 mm/anillo. Madera densa, apta para clase C24 o superior."
+Mykoła observa. La Señora Ania mide con la regla 10 anillos, dice: „38 mm en 10 anillos = 3,8 mm/anillo. Madera densa, apta para clase C24 o superior."
 
 > **La Señora Ania:** „Segundo indicador: desviación de la fibra. Coge esta aguja. La clavamos a lo largo de la fibra 100 mm de profundidad. Mira cómo la aguja se desvía respecto al eje de la tabla."
 
-Rustam clava la aguja. Tras 100 mm de profundidad la aguja se desvía 8 mm respecto a la vertical. La Señora Ania calcula: „8 mm de desviación en 100 mm de profundidad, es decir desviación 1:12,5. El umbral para C24 es 1:10, entramos. Aún aceptable para C30 (umbral 1:14 no alcanzado)."
+Mykoła clava la aguja. Tras 100 mm de profundidad la aguja se desvía 8 mm respecto a la vertical. La Señora Ania calcula: „8 mm de desviación en 100 mm de profundidad, es decir desviación 1:12,5. El umbral para C24 es 1:10, entramos. Aún aceptable para C30 (umbral 1:14 no alcanzado)."
 
 > **La Señora Ania:** „Tercero: nudos. Mide todos los de más de 5 mm de diámetro, localización en la sección."
 
-Rustam mide: „Nudo 1 en zona central, 18 mm. Nudo 2 en el canto superior (compresión), 32 mm. Nudo 3 en zona central, 12 mm. Nudo 4 en el canto inferior (tracción), 18 mm. Nudo 5 en el canto superior, 25 mm."
+Mykoła mide: „Nudo 1 en zona central, 18 mm. Nudo 2 en el canto superior (compresión), 32 mm. Nudo 3 en zona central, 12 mm. Nudo 4 en el canto inferior (tracción), 18 mm. Nudo 5 en el canto superior, 25 mm."
 
 > **La Señora Ania:** „El más importante: nudo 4, en zona de tracción, 18 mm. Sección de la tabla 50 × 150, la zona de tracción es el tercio inferior = 50 mm. Nudo de 18 mm sobre 50 mm de altura de zona = 36%. El umbral para C24 es 1/3 = 33%. Lo rebasamos. **Baja a C16.**"
 
-Rustam mira sin entender: „¿Toda la tabla por un solo nudo de 18 mm?"
+Mykoła mira sin entender: „¿Toda la tabla por un solo nudo de 18 mm?"
 
 > **La Señora Ania:** „Sí. En la clasificación por resistencia la localización es **crítica**. Un nudo en la zona de tracción concentra tensiones. Si ese nudo estuviera desplazado 20 mm hacia arriba (hacia la zona neutra), tendríamos C24. Pero está en la zona de tracción, en el tercio inferior de la sección. Clase rebajada a C16."
 >
-> **Rustam:** „¿Y si cambiamos la orientación de la tabla? El canto traccionado hacia arriba, el comprimido hacia abajo."
+> **Mykoła:** „¿Y si cambiamos la orientación de la tabla? El canto traccionado hacia arriba, el comprimido hacia abajo."
 >
 > **La Señora Ania:** „Buena pregunta. Para esta tabla en un forjado efectivamente se podría hacer, porque el nudo es único. Pero entonces los nudos 2 y 5 (25 y 32 mm) quedan en zona de tracción (al invertirla), y también rebasan 1/3 = 50 mm de altura, 25 y 32 mm son el 50% y el 64%. Rebasamos el umbral. Cae por debajo de C16. En esa orientación aún peor."
 >
-> **Rustam:** „Entonces la tabla tiene que ir como C16, si conservamos la orientación original."
+> **Mykoła:** „Entonces la tabla tiene que ir como C16, si conservamos la orientación original."
 >
 > **La Señora Ania:** „Sí. Anotamos **C16** con nota del canto inferior de tracción (marca C16↓)."
 
 La Señora Ania rellena el formulario. Clase C16. La tabla **no cumple** el pedido del cliente (C24). Va al montón de tablas C16 (otros encargos, por ejemplo cubierta económica). Para el pedido del cliente de Piaseczno la clasificadora tiene que buscar otra tabla.
 
-> **La Señora Ania** (a Rustam): „Esta es la lección de hoy. Por aspecto la tabla parece una C24 decente. Tras las mediciones sale C16. La clasificación por resistencia **no perdona**. Un nudo en la localización equivocada, la clase baja. Por eso el cliente de C24 paga más: no por la tabla, sino por la **selección**. Nosotros aserramos y clasificamos 100 tablas para encontrar 40 C24 (más 45 C16, 10 por debajo, 5 de descarte). El precio de C24 incluye el coste de esa selección."
+> **La Señora Ania** (a Mykoła): „Esta es la lección de hoy. Por aspecto la tabla parece una C24 decente. Tras las mediciones sale C16. La clasificación por resistencia **no perdona**. Un nudo en la localización equivocada, la clase baja. Por eso el cliente de C24 paga más: no por la tabla, sino por la **selección**. Nosotros aserramos y clasificamos 100 tablas para encontrar 40 C24 (más 45 C16, 10 por debajo, 5 de descarte). El precio de C24 incluye el coste de esa selección."
 
-Rustam lo apunta todo en el cuaderno. Segunda lección de prácticas. La primera tabla del día ha terminado con **rebaja de clase por debajo del pedido**. Para el cliente de Piaseczno la Señora Ania cogerá la siguiente tabla, y la siguiente, hasta encontrar 40 tablas que cumplan C24 de la partida de 60 tablas.
+Mykoła lo apunta todo en el cuaderno. Segunda lección de prácticas. La primera tabla del día ha terminado con **rebaja de clase por debajo del pedido**. Para el cliente de Piaseczno la Señora Ania cogerá la siguiente tabla, y la siguiente, hasta encontrar 40 tablas que cumplan C24 de la partida de 60 tablas.
 
-### Qué registra Rustam en la documentación
+### Qué registra Mykoła en la documentación
 
 Formulario EGIDA KLS-001 (ficha de clasificación estructural) para cada tabla de clase C:
 
@@ -258,7 +258,7 @@ Formulario EGIDA KLS-001 (ficha de clasificación estructural) para cada tabla d
 - **Clase final:** C16, C24, C30, C35, o „descarte" (por debajo de C16).
 - **Marca de orientación:** flecha que indica el canto inferior (tracción) para vigas de forjado.
 - **Firma del clasificador por resistencia** (obligatoriamente con número de acreditación ITB).
-- **Firma del asistente:** Rustam firma como confirmación de participación en las mediciones.
+- **Firma del asistente:** Mykoła firma como confirmación de participación en las mediciones.
 
 La ficha KLS-001 va al expediente de la partida, retención **10 años** (más larga que la de la clasificación visual, porque las reclamaciones estructurales aparecen a menudo 5-8 años después de la obra, cuando la estructura trabaja bajo cargas variables).
 
@@ -274,7 +274,7 @@ Acreditación ITB para clasificadores por resistencia: formación de 14 días, e
 
 La Señora Ania en EGIDA tiene ambos: certificado PN-EN 1611-1 (visual, desde 2014) y acreditación ITB para PN-EN 14081 (por resistencia, desde 2020, renovada en 2023). Clasifica ambos aspectos de la madera (apariencia + capacidad portante) dentro de una misma partida.
 
-Hoy Rustam ha aprendido que **un solo nudo en el lugar equivocado** rebaja la clase de C24 a C16. Una tabla que parecía decente, tras las mediciones ha salido C16. El cliente de C24 paga más por la **selección**, no por la tabla en sí. La selección exige un clasificador con acreditación ITB que mida objetivamente.
+Hoy Mykoła ha aprendido que **un solo nudo en el lugar equivocado** rebaja la clase de C24 a C16. Una tabla que parecía decente, tras las mediciones ha salido C16. El cliente de C24 paga más por la **selección**, no por la tabla en sí. La selección exige un clasificador con acreditación ITB que mida objetivamente.
 
 En la próxima lección (m3-w2-l4) pasamos de los criterios de clasificación a las **aplicaciones de las clases en el cliente**: qué significan C16, C24, C30, C35 para el carpintero, el constructor, el arquitecto. Por qué el cliente de un proyecto acepta C24 y otro exige C30.
 

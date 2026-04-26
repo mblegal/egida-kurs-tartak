@@ -6,9 +6,9 @@ czas: 120
 
 ## Introduction
 
-Tuesday, day seven of week two. Yesterday Maricel understood **what the number 38% means**. Today she will learn **how to get that number so it is true**. Measuring moisture sounds like "stick something into the wood and read it off". Reality is more interesting: the same board, measured at three spots, gives three different results, all correct at once. The question is **which result is your decision**.
+Tuesday, day seven of week two. Yesterday Sofía understood **what the number 38% means**. Today she will learn **how to get that number so it is true**. Measuring moisture sounds like "stick something into the wood and read it off". Reality is more interesting: the same board, measured at three spots, gives three different results, all correct at once. The question is **which result is your decision**.
 
-At 7:30 foreman Marek puts two instruments on the table. The first is a **Brookhuis FMC** resistance moisture meter with two pin electrodes and a digital display. The second is a **Merlin HM8-WS25** capacitive moisture meter, the size of a powder compact, with no pins, just a round plate you press against the board. Marek hands Maricel the first one: "Start with the resistance meter. In two months I will give you the capacitive one for export-grade sawn timber, but first you must understand what the two electrodes are for and why you always measure in two places."
+At 7:30 foreman Marek puts two instruments on the table. The first is a **Brookhuis FMC** resistance moisture meter with two pin electrodes and a digital display. The second is a **Merlin HM8-WS25** capacitive moisture meter, the size of a powder compact, with no pins, just a round plate you press against the board. Marek hands Sofía the first one: "Start with the resistance meter. In two months I will give you the capacitive one for export-grade sawn timber, but first you must understand what the two electrodes are for and why you always measure in two places."
 
 This lesson is about **how to get a trustworthy value out of a moisture meter**, and how to recognise situations where even a correctly taken reading tells you something different from what you think.
 
@@ -38,7 +38,7 @@ The moisture meter passes a small test current (microamps) through the electrode
 
 ### Electrodes: which kind, how deep, which direction
 
-The Brookhuis FMC that Maricel is holding has two **pin electrodes** (insulated along the part nearer the handle, uninsulated at the tip). The insulation matters: without it the current would flow through the surface layer (always damper or drier than the interior), falsifying the measurement.
+The Brookhuis FMC that Sofía is holding has two **pin electrodes** (insulated along the part nearer the handle, uninsulated at the tip). The insulation matters: without it the current would flow through the surface layer (always damper or drier than the interior), falsifying the measurement.
 
 **Driving depth**: for a 50 mm board you drive the pins to **12 to 17 mm** (1/4 to 1/3 of the thickness). For a 25 mm board, to 6 to 8 mm. For a heavy 100 mm timber, to 25 to 30 mm. Rule of thumb: **the tip of the pin sits in the core of the board, not in the surface layer**.
 
@@ -54,7 +54,7 @@ The Brookhuis FMC that Maricel is holding has two **pin electrodes** (insulated 
 
 ### Why from two sides of the board: the moisture gradient
 
-This is where the art begins. Maricel takes a 50 mm thick pine board, fresh off the saw, still warm. She measures from the top: **36%**. She flips the board and measures from the bottom: **41%**. Which value is true?
+This is where the art begins. Sofía takes a 50 mm thick pine board, fresh off the saw, still warm. She measures from the top: **36%**. She flips the board and measures from the bottom: **41%**. Which value is true?
 
 **Both are true. The board has a moisture gradient.**
 
@@ -63,7 +63,7 @@ In freshly sawn, unseasoned wood, water is spread out unevenly:
 - **Outer sapwood** (surface and 5 to 10 mm inwards): the lowest moisture, because water evaporates from the surface first.
 - **The face lying on the ground or a sticker**: wetter, because gravity pulls water downward and it does not evaporate as fast as from the top.
 
-**Rule**: you measure **from the top and from the bottom**, and take the average. If the difference exceeds 5 percentage points (in Maricel's example: 36% vs 41%, a difference of 5), you record this as "high gradient" and report it to the foreman. This is a sign that the board needs air-seasoning, **it should not go straight into the kiln** (it would crack from the stress difference).
+**Rule**: you measure **from the top and from the bottom**, and take the average. If the difference exceeds 5 percentage points (in Sofía's example: 36% vs 41%, a difference of 5), you record this as "high gradient" and report it to the foreman. This is a sign that the board needs air-seasoning, **it should not go straight into the kiln** (it would crack from the stress difference).
 
 ### Why at two points along the length: endgrain vs centre
 
@@ -99,7 +99,7 @@ A modern moisture meter (Brookhuis, Exotek, Delmhorst) has **30 to 50 species cu
 
 The **temperature correction** is the second dimension. The calibration is at 20°C. In winter, in a hall at 0 to 5°C, **the wood has a higher resistance at the same moisture, so the meter shows a value lower than the real one**, you have to add 1 to 3 percentage points. In summer at 30°C the resistance is lower, so you subtract 1 to 2 points. Better instruments have a temperature sensor and do this automatically; in cheaper ones you use the table.
 
-Maricel works in a hall heated to 16°C. The temperature correction is small (-0.5 pp). The species correction for pine is -1.5 pp. Her raw reading of 38% becomes, after corrections, **about 36%**. It is still fresh wood, still above the FSP, and the commercial decision does not change. But now Maricel knows that the number is true.
+Sofía works in a hall heated to 16°C. The temperature correction is small (-0.5 pp). The species correction for pine is -1.5 pp. Her raw reading of 38% becomes, after corrections, **about 36%**. It is still fresh wood, still above the FSP, and the commercial decision does not change. But now Sofía knows that the number is true.
 
 ### The physical limit of resistance measurement, and when to reach for capacitive
 
@@ -123,7 +123,7 @@ A **capacitive (pinless) moisture meter** works on a different principle: it mea
 A number in a notebook with no context is worth nothing. The standard format:
 
 ::: example
-**Log 14, pine, delivered 04.04, measured 11.04 07:45, Maricel**
+**Log 14, pine, delivered 04.04, measured 11.04 07:45, Sofía**
 - Position A (bottom endgrain, 20 cm from the end, top face): 32%
 - Position B (centre of length, top face): 38%
 - Position C (centre of length, bottom face): 41%
@@ -133,7 +133,7 @@ A number in a notebook with no context is worth nothing. The standard format:
 - Signature: M. Santos
 :::
 
-Maricel copies this data into the measurement logbook and signs it. The measurement logbook is a **plant document**, it comes back in m2-w4-l5 (workstation documentation). Without a signature the entry is worthless. With a signature, it becomes part of the quality trail: if the board goes to a customer and comes back with a complaint of "it was too wet", the measurement logbook shows that the sawmill knew and took the decision knowingly.
+Sofía copies this data into the measurement logbook and signs it. The measurement logbook is a **plant document**, it comes back in m2-w4-l5 (workstation documentation). Without a signature the entry is worthless. With a signature, it becomes part of the quality trail: if the board goes to a customer and comes back with a complaint of "it was too wet", the measurement logbook shows that the sawmill knew and took the decision knowingly.
 
 ## Key terms
 
@@ -178,6 +178,6 @@ Tomorrow (lesson 3) you will learn about **log handling and bucking**: why a who
 - Confusing the gradient with a measurement error: a 3 to 5 pp difference is information, not a flaw. The foreman wants to see it.
 - Writing down a result without a signature, "because no one will check": someone will check, if there is a complaint. A signature is professionalism.
 
-**The Maricel case, to expand**: why does the foreman give her the resistance meter first, and the capacitive one only after two months? Because the resistance meter forces thinking about the structure of the wood (gradient, depth). The capacitive one gives a "comfortable number" and the trainee may never learn why that number is where it is. This is didactic order, not a financial one.
+**The Sofía case, to expand**: why does the foreman give her the resistance meter first, and the capacitive one only after two months? Because the resistance meter forces thinking about the structure of the wood (gradient, depth). The capacitive one gives a "comfortable number" and the trainee may never learn why that number is where it is. This is didactic order, not a financial one.
 
 **Polish phonetic note**: "wilgotnościomierz" is one of the longest trade words in Polish. Accept shortening to "miernik", "przyrząd", "higrometr" (strictly, a higrometr is a broader term that also covers air). In print materials keep the full name. In the hall the short forms are normal and do not jar.

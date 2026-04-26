@@ -6,21 +6,21 @@ czas: 120
 
 ## Wprowadzenie
 
-Środa, 2026-05-06, godzina 10:15. Rustam właśnie skończył przetarcie trzeciej kłody z szarży świerku pospolitego (gatunek *Picea abies*, dostawa z Nadleśnictwa Drawno, 16 kłód średnicy 280-340 mm, długość 4,2 m, zlecenie na deski konstrukcyjne dla firmy budowlanej z Torunia). Wahan sortuje tarcicę, Rustam wyłącza taśmę na chwilę przerwy. Dzwoni telefon stanowiskowy. Pani Ania:
+Środa, 2026-05-06, godzina 10:15. Mykoła właśnie skończył przetarcie trzeciej kłody z szarży świerku pospolitego (gatunek *Picea abies*, dostawa z Nadleśnictwa Drawno, 16 kłód średnicy 280-340 mm, długość 4,2 m, zlecenie na deski konstrukcyjne dla firmy budowlanej z Torunia). Wasyl sortuje tarcicę, Mykoła wyłącza taśmę na chwilę przerwy. Dzwoni telefon stanowiskowy. Pani Ania:
 
-> **Pani Ania:** „Rustam, przyjdź na stanowisko klasyfikatora za 15 minut. Ta partia świerku z Drawna. Będę klasyfikowała wizualnie według PN-EN 1611-1. Potrzebuję asystenta. Wahan może zostać przy P3, Marek obejmie nadzór."
+> **Pani Ania:** „Mykoła, przyjdź na stanowisko klasyfikatora za 15 minut. Ta partia świerku z Drawna. Będę klasyfikowała wizualnie według PN-EN 1611-1. Potrzebuję asystenta. Wasyl może zostać przy P3, Marek obejmie nadzór."
 >
-> **Rustam:** „Co mam zabrać?"
+> **Mykoła:** „Co mam zabrać?"
 >
 > **Pani Ania:** „Przymiar metalowy 5 m, suwmiarkę cyfrową, zeszyt obserwacji, długopis. Reszta u mnie. Przyjdziesz, obejrzysz każdą deskę z partii, nauczysz się na czym ja patrzę."
 
-O 10:32 Rustam wchodzi do boksu klasyfikacji. Boks to wydzielona strefa 8×4 m w zachodniej części hali, z dobrym oświetleniem dziennym (dwa świetliki dachowe + lampy LED 6000 K do pracy w pochmurne dni), stołem przymiarowym 3 m długości z wkładem z twardego drewna (dąb), regałem na próbki wzorcowe dziesięciu gatunków i klas (dla porównania wizualnego), ścianą z tablicami norm (wydrukowane schematy PN-EN 1611-1 dla drewna iglastego i PN-EN 975-1 dla drewna liściastego, oba w polskich tłumaczeniach PKN). Na stole 48 desek świerku z pierwszych trzech kłód już posortowanych. Pani Ania w białym fartuchu roboczym z logiem EGIDA, z imiennikiem „Anna Kowalczyk, klasyfikator tarcicy, certyfikat PN-EN 1611-1 nr 2014/ITD/312, akredytacja ITB PN-EN 14081 nr 2020/ITB/087".
+O 10:32 Mykoła wchodzi do boksu klasyfikacji. Boks to wydzielona strefa 8×4 m w zachodniej części hali, z dobrym oświetleniem dziennym (dwa świetliki dachowe + lampy LED 6000 K do pracy w pochmurne dni), stołem przymiarowym 3 m długości z wkładem z twardego drewna (dąb), regałem na próbki wzorcowe dziesięciu gatunków i klas (dla porównania wizualnego), ścianą z tablicami norm (wydrukowane schematy PN-EN 1611-1 dla drewna iglastego i PN-EN 975-1 dla drewna liściastego, oba w polskich tłumaczeniach PKN). Na stole 48 desek świerku z pierwszych trzech kłód już posortowanych. Pani Ania w białym fartuchu roboczym z logiem EGIDA, z imiennikiem „Anna Kowalczyk, klasyfikator tarcicy, certyfikat PN-EN 1611-1 nr 2014/ITD/312, akredytacja ITB PN-EN 14081 nr 2020/ITB/087".
 
-Pani Ania uśmiecha się do Rustama.
+Pani Ania uśmiecha się do Mykoły.
 
-> **Pani Ania:** „Dzień dobry, Rustam. Dzisiaj nauczę cię, jak czytam deskę. Nie będziesz klasyfikował sam, tego nie wolno ci jeszcze, ale nauczysz się mierzyć, notować, przygotowywać moją pracę. To jest dwuosobowa operacja: ja patrzę, ty mierzysz, razem dochodzimy do klasy. Za 60 desek, dwa razy w tygodniu przez rok, staniesz się bardzo dobrym asystentem. I za pięć do siedmiu lat, jeżeli zechcesz, pójdziesz na szkolenie w Instytucie Technologii Drewna w Poznaniu, zdobędziesz certyfikat, i wtedy będziesz klasyfikował sam. Dziś jesteś na pierwszym dniu tej drogi."
+> **Pani Ania:** „Dzień dobry, Mykoła. Dzisiaj nauczę cię, jak czytam deskę. Nie będziesz klasyfikował sam, tego nie wolno ci jeszcze, ale nauczysz się mierzyć, notować, przygotowywać moją pracę. To jest dwuosobowa operacja: ja patrzę, ty mierzysz, razem dochodzimy do klasy. Za 60 desek, dwa razy w tygodniu przez rok, staniesz się bardzo dobrym asystentem. I za pięć do siedmiu lat, jeżeli zechcesz, pójdziesz na szkolenie w Instytucie Technologii Drewna w Poznaniu, zdobędziesz certyfikat, i wtedy będziesz klasyfikował sam. Dziś jesteś na pierwszym dniu tej drogi."
 
-Rustam kiwa głową, otwiera zeszyt. Na górze strony pisze: „PN-EN 1611-1, asysta klasyfikatora. Środa 6 maja 2026. Partia świerk Drawno, 16 kłód, 60 desek." Pani Ania bierze pierwszą deskę, kładzie na stole, włącza górną lampę. Zaczyna się lekcja druga.
+Mykoła kiwa głową, otwiera zeszyt. Na górze strony pisze: „PN-EN 1611-1, asysta klasyfikatora. Środa 6 maja 2026. Partia świerk Drawno, 16 kłód, 60 desek." Pani Ania bierze pierwszą deskę, kładzie na stole, włącza górną lampę. Zaczyna się lekcja druga.
 
 ## Cele
 
@@ -157,33 +157,33 @@ Wszystkie trzy wymiary mierzy się **po dosuszeniu** do docelowej wilgotności (
 - **Żywica** (*resin*): przezroczysta albo bursztynowa substancja wypełniająca nacieki albo sęki. Klasyfikator ocenia wielkość pojedynczych nacieków plus liczbę na 1 m.
 
 ::: example
-**Pani Ania i Rustam, deska 17, 11:03.**
+**Pani Ania i Mykoła, deska 17, 11:03.**
 
-Deska świerk, długość 4,2 m, szerokość 150 mm, grubość 25 mm. Pani Ania kładzie deskę na stole licem do góry, włącza górną lampę, obraca w stronę okna (światło dzienne ze świetlika). Rustam stoi z prawej strony, z przymiarem i suwmiarką.
+Deska świerk, długość 4,2 m, szerokość 150 mm, grubość 25 mm. Pani Ania kładzie deskę na stole licem do góry, włącza górną lampę, obraca w stronę okna (światło dzienne ze świetlika). Mykoła stoi z prawej strony, z przymiarem i suwmiarką.
 
-> **Pani Ania:** „Sęki, Rustam, od początku deski."
+> **Pani Ania:** „Sęki, Mykoła, od początku deski."
 >
-> **Rustam** (idzie wzdłuż deski od lewej do prawej, mierzy): „Sęk 1 na 320 mm od końca, średnica 18 mm, zdrowy, słój otaczający ciągły. Sęk 2 na 780 mm, średnica 14 mm, zdrowy. Sęk 3 na 1620 mm, 22 mm, zdrowy. Sęk 4 na 2100 mm, 12 mm, zdrowy. Sęk 5 na 2950 mm, 38 mm, wypadający. Sęk 6 na 3680 mm, 16 mm, zdrowy. Razem 6 sęków, największy 38 mm wypadający."
+> **Mykoła** (idzie wzdłuż deski od lewej do prawej, mierzy): „Sęk 1 na 320 mm od końca, średnica 18 mm, zdrowy, słój otaczający ciągły. Sęk 2 na 780 mm, średnica 14 mm, zdrowy. Sęk 3 na 1620 mm, 22 mm, zdrowy. Sęk 4 na 2100 mm, 12 mm, zdrowy. Sęk 5 na 2950 mm, 38 mm, wypadający. Sęk 6 na 3680 mm, 16 mm, zdrowy. Razem 6 sęków, największy 38 mm wypadający."
 >
 > **Pani Ania:** „Dobrze. Sęk 5 dyskwalifikuje z G2-1 (dopuszczalne wypadające do 10 mm). Zostaje G2-2 albo G2-3. Sprawdź pęknięcia."
 >
-> **Rustam** (obraca deskę, patrzy na czoła): „Czoło lewe: pęknięcie czołowe 4 mm szerokości, 65 mm długości. Czoło prawe: pęknięcie 2 mm × 40 mm. Lico widoczne: pęknięcie wzdłużne na wysokości sęka 5, szerokość 2 mm, długość 180 mm. Lico dolne: dwa mniejsze pęknięcia, 1 mm szerokości każde, po 80 mm długości."
+> **Mykoła** (obraca deskę, patrzy na czoła): „Czoło lewe: pęknięcie czołowe 4 mm szerokości, 65 mm długości. Czoło prawe: pęknięcie 2 mm × 40 mm. Lico widoczne: pęknięcie wzdłużne na wysokości sęka 5, szerokość 2 mm, długość 180 mm. Lico dolne: dwa mniejsze pęknięcia, 1 mm szerokości każde, po 80 mm długości."
 >
 > **Pani Ania:** „Pęknięcia mieszczą się w G2-2. Oblina?"
 >
-> **Rustam** (obraca deskę na boki): „Krawędź lewa czysta. Krawędź prawa: oblina długość 240 mm, szerokość 12 mm w najszerszym miejscu."
+> **Mykoła** (obraca deskę na boki): „Krawędź lewa czysta. Krawędź prawa: oblina długość 240 mm, szerokość 12 mm w najszerszym miejscu."
 >
 > **Pani Ania:** „G2-2 (do 20 mm × 300 mm). Krzywizna?"
 >
-> **Rustam** (kładzie deskę płasko): „Sweep: 5 mm na środku. Spring: 3 mm. Twist: jeden koniec 2 mm nad stołem."
+> **Mykoła** (kładzie deskę płasko): „Sweep: 5 mm na środku. Spring: 3 mm. Twist: jeden koniec 2 mm nad stołem."
 >
 > **Pani Ania:** „G2-2 (sweep do 10 mm). Wady biologiczne?"
 >
-> **Rustam:** „Sinizna na bielu, około 8% powierzchni, powierzchowna. Bez pleśni, bez zgnilizny. Żywica: jeden naciek 18 mm przy sęku 3."
+> **Mykoła:** „Sinizna na bielu, około 8% powierzchni, powierzchowna. Bez pleśni, bez zgnilizny. Żywica: jeden naciek 18 mm przy sęku 3."
 >
 > **Pani Ania:** „Sinizna 8% mieści się w G2-2 (do 100% powierzchowna). Deska finalna: **G2-2**. Zapisz."
 
-Rustam zapisuje: „Deska 17: G2-2. Uzasadnienie: sęk 5 wypadający 38 mm, oblina 12×240, sinizna 8% powierzchowna". Odkłada deskę na stos G2-2 (drugi od prawej).
+Mykoła zapisuje: „Deska 17: G2-2. Uzasadnienie: sęk 5 wypadający 38 mm, oblina 12×240, sinizna 8% powierzchowna". Odkłada deskę na stos G2-2 (drugi od prawej).
 :::
 
 ### Rola asystenta operatora, co wolno i czego nie wolno
@@ -220,19 +220,19 @@ Warunki wstępne: co najmniej 3 lata pracy w tartaku w bezpośrednim kontakcie z
 
 Certyfikat ważny jest **5 lat**, po tym okresie wymagane odświeżające szkolenie (2 dni). Klasyfikatorzy EGIDA odświeżają co 4 lata, z marginesem bezpieczeństwa.
 
-Rustam dziś jest w pierwszym roku pracy samodzielnej. Jeżeli zdecyduje się na drogę klasyfikatora, kurs będzie mógł podjąć najwcześniej w 2029 r. (po trzech latach doświadczenia plus sześciu miesiącach asysty). Certyfikat zdobyłby około 2029-2030.
+Mykoła dziś jest w pierwszym roku pracy samodzielnej. Jeżeli zdecyduje się na drogę klasyfikatora, kurs będzie mógł podjąć najwcześniej w 2029 r. (po trzech latach doświadczenia plus sześciu miesiącach asysty). Certyfikat zdobyłby około 2029-2030.
 
 ::: tip
-W EGIDA sześciu pracowników ma certyfikat klasyfikacji wizualnej: Pani Ania (główna, 12 lat), Pani Grażyna (9 lat), Pan Mirosław (emerytowany, obsługuje rezerwowo), trzech operatorów z M3 po szkoleniu z lat 2021-2024. Skład tygodniowy: Ania cztery dni, Grażyna dwa dni, Mirosław zastępczo. Klasyfikacja obsługuje 5 zmian tygodniowo. Jeżeli Rustam uzyska certyfikat w 2030, stanie się siódmym klasyfikatorem, co pozwoli EGIDA na dodatkową zmianę klasyfikacyjną (obecnie pojemność 60 m³ dziennie, po dodaniu siódmej osoby 75 m³). Decyzja o inwestycji w certyfikację pracownika jest bezpośrednio przeliczalna na wzrost przerobu.
+W EGIDA sześciu pracowników ma certyfikat klasyfikacji wizualnej: Pani Ania (główna, 12 lat), Pani Grażyna (9 lat), Pan Mirosław (emerytowany, obsługuje rezerwowo), trzech operatorów z M3 po szkoleniu z lat 2021-2024. Skład tygodniowy: Ania cztery dni, Grażyna dwa dni, Mirosław zastępczo. Klasyfikacja obsługuje 5 zmian tygodniowo. Jeżeli Mykoła uzyska certyfikat w 2030, stanie się siódmym klasyfikatorem, co pozwoli EGIDA na dodatkową zmianę klasyfikacyjną (obecnie pojemność 60 m³ dziennie, po dodaniu siódmej osoby 75 m³). Decyzja o inwestycji w certyfikację pracownika jest bezpośrednio przeliczalna na wzrost przerobu.
 :::
 
 ### Tempo i rytm asysty: 25 desek na godzinę
 
-Pani Ania z Rustamem klasyfikuje świerk z Drawna w tempie:
+Pani Ania z Mykołą klasyfikuje świerk z Drawna w tempie:
 
-- **Pierwsza deska:** 5 minut (Rustam uczy się, Pani Ania wyjaśnia każde kryterium, razem mierzą powoli).
-- **Deski 2-10:** 4 minuty na deskę (Rustam jeszcze uczy się, ale szybciej).
-- **Deski 11-30:** 3 minuty na deskę (Rustam już płynnie mierzy, Pani Ania decyduje szybko).
+- **Pierwsza deska:** 5 minut (Mykoła uczy się, Pani Ania wyjaśnia każde kryterium, razem mierzą powoli).
+- **Deski 2-10:** 4 minuty na deskę (Mykoła jeszcze uczy się, ale szybciej).
+- **Deski 11-30:** 3 minuty na deskę (Mykoła już płynnie mierzy, Pani Ania decyduje szybko).
 - **Deski 31-60:** 2,5 minuty na deskę (rytm ustalony, niewielkie pytania).
 
 Średnio 2,5-3 minut na deskę = 20-24 desek na godzinę. Pani Ania bez asysty zrobiłaby 15 desek na godzinę (musi sama mierzyć, notować, odkładać). Różnica 60% na korzyść pary.
@@ -246,9 +246,9 @@ W ciągu 60-deskowej partii (około 3 godziny pracy):
 
 Rozkład typowy dla dostawy z Nadleśnictwa Drawno (dobre warunki wzrostu świerka, słabsza pleśniowa presja niż Pomorze).
 
-### Co Rustam zapisuje i co zostaje na karcie
+### Co Mykoła zapisuje i co zostaje na karcie
 
-Rustam w zeszycie zapisuje każdą deskę: numer, klasa, 2-3 uzasadnienia najważniejszych wad. Po 60 deskach (godzina 13:30) Pani Ania przepisuje dane z zeszytu Rustama do formularza **EGIDA KLW-001** (karta klasyfikacji wizualnej), jednej dla całej partii. Formularz zawiera:
+Mykoła w zeszycie zapisuje każdą deskę: numer, klasa, 2-3 uzasadnienia najważniejszych wad. Po 60 deskach (godzina 13:30) Pani Ania przepisuje dane z zeszytu Mykoły do formularza **EGIDA KLW-001** (karta klasyfikacji wizualnej), jednej dla całej partii. Formularz zawiera:
 
 - **Dane partii**: numer, dostawa, gatunek, liczba desek, wymiary standardowe.
 - **Rozkład klas**: liczba desek w każdej klasie plus procent.
@@ -259,24 +259,24 @@ Rustam w zeszycie zapisuje każdą deskę: numer, klasa, 2-3 uzasadnienia najwa�
 
 Karta KLW-001 trafia do akt partii (plus skan do systemu ERP), retencja 5 lat, dostępna w razie reklamacji klienta.
 
-### Druga scena: Rustam sam rozpoznaje klasę G2-3, 13:45
+### Druga scena: Mykoła sam rozpoznaje klasę G2-3, 13:45
 
-O 13:45, pod koniec partii świerku, Pani Ania bierze deskę 58. Patrzy krótko, mówi: „Rustam, ty spróbuj ocenić. Nie mów mi od razu klasy, tylko mierz i opisuj. Ja powiem potem, czy zgadzasz się z moim ocenianiem."
+O 13:45, pod koniec partii świerku, Pani Ania bierze deskę 58. Patrzy krótko, mówi: „Mykoła, ty spróbuj ocenić. Nie mów mi od razu klasy, tylko mierz i opisuj. Ja powiem potem, czy zgadzasz się z moim ocenianiem."
 
-Rustam bierze deskę. Widać liczne sęki (co najmniej 10 na deskę długości 4,2 m), dwa wypadające po 25 mm, pęknięcie wzdłużne widoczne 4 mm × 600 mm, oblina na krawędzi 25 mm × 400 mm, skręt 5 mm na koniec. Sinizna rozległa, 40% powierzchni, głęboka do 3 mm.
+Mykoła bierze deskę. Widać liczne sęki (co najmniej 10 na deskę długości 4,2 m), dwa wypadające po 25 mm, pęknięcie wzdłużne widoczne 4 mm × 600 mm, oblina na krawędzi 25 mm × 400 mm, skręt 5 mm na koniec. Sinizna rozległa, 40% powierzchni, głęboka do 3 mm.
 
-Rustam mierzy, notuje, podlicza w głowie:
+Mykoła mierzy, notuje, podlicza w głowie:
 - Sęki wypadające 25 mm = przekraczają G2-2 (do 20 mm), idą do G2-3.
 - Pęknięcie wzdłużne 4 mm × 600 mm = przekracza G2-2 (do 3 mm × 800 mm pod kątem szerokości, mieści się jednak, 4 mm jest za dużo), G2-3.
 - Oblina 25 mm × 400 mm = przekracza G2-2 (20 × 300), G2-3.
 - Skręt 5 mm = G2-3 (G2-2 do granicy).
 - Sinizna 40% głęboka = przekracza G2-2 (do 2 mm w głąb, tutaj 3 mm), G2-3.
 
-Pięć wad wskazuje G2-3. Rustam mówi: „Moim zdaniem G2-3. Pięć kryteriów ponad G2-2."
+Pięć wad wskazuje G2-3. Mykoła mówi: „Moim zdaniem G2-3. Pięć kryteriów ponad G2-2."
 
-Pani Ania kiwa głową. „Zgadzam się. Deska 58: G2-3. Dobrze, Rustam. Nauczyłeś się tego w pierwszej partii, w której asystujesz. To jest dobry znak."
+Pani Ania kiwa głową. „Zgadzam się. Deska 58: G2-3. Dobrze, Mykoła. Nauczyłeś się tego w pierwszej partii, w której asystujesz. To jest dobry znak."
 
-Rustam odkłada deskę na stos G2-3. Zapisuje w zeszycie, notuje dla siebie mały check: „pierwsza samodzielna propozycja klasy, zgodna z klasyfikatorką".
+Mykoła odkłada deskę na stos G2-3. Zapisuje w zeszycie, notuje dla siebie mały check: „pierwsza samodzielna propozycja klasy, zgodna z klasyfikatorką".
 
 ### Podsumowanie lekcji drugiej
 
@@ -288,7 +288,7 @@ Rola asystenta operatora: mierzy, notuje, pyta, uczy się. **Nie podpisuje**, ni
 
 Ścieżka do certyfikatu PN-EN 1611-1: kurs 5 dni w ITD Poznań, egzamin, warunek wstępny 3 lata doświadczenia plus 6 miesięcy asysty. Ważność 5 lat. Koszt 3500 zł netto, finansowany przez EGIDA dla chętnych pracowników.
 
-Dzisiaj Rustam przeszedł pierwszą partię asysty (60 desek świerku z Drawna, 3 godziny). Rozkład klas: G2-0 dwa, G2-1 dwanaście, G2-2 trzydzieści, G2-3 czternaście, wybrak dwa. Karta KLW-001 podpisana przez Panią Anię, Rustama, Marka. Pierwsza samodzielna propozycja klasy (deska 58, G2-3) zgodna z klasyfikatorką.
+Dzisiaj Mykoła przeszedł pierwszą partię asysty (60 desek świerku z Drawna, 3 godziny). Rozkład klas: G2-0 dwa, G2-1 dwanaście, G2-2 trzydzieści, G2-3 czternaście, wybrak dwa. Karta KLW-001 podpisana przez Panią Anię, Mykoły, Marka. Pierwsza samodzielna propozycja klasy (deska 58, G2-3) zgodna z klasyfikatorką.
 
 W następnej lekcji (m3-w2-l3) przechodzimy od klasyfikacji wizualnej do **klasyfikacji wytrzymałościowej zgodnej z PN-EN 14081**: dlaczego mamy dwie różne normy, co to jest moduł sprężystości, dlaczego klasyfikator wytrzymałościowy potrzebuje dodatkowej akredytacji ITB.
 

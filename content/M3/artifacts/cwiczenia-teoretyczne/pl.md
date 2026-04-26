@@ -41,7 +41,7 @@ Wtorek 18.06.2026, 9:45. Jesteś na P3 LT70 (dąb C30 5 m³ dla Stolarz Meblowy 
 
 O 9:45 **dwie rzeczy jednocześnie**:
 1. W **twojej** głowicy LT70 po 40 sekundach cięcia czujesz wibrację 8-10 Hz w rączce + słyszysz rytmiczny stuk co 0,5 s. Powierzchnia rzazu lekko falista. To bicie koła dolnego (tabela 7 usterek EGIDA pozycja 4).
-2. **Adrian** z 8 m odległości krzyczy: „Rustam, mam fale na trzeciej desce, amperomierz podnosi". Ty widzisz jego pilarkę, powierzchnia rzazu wyraźnie falista.
+2. **Adrian** z 8 m odległości krzyczy: „Mykoła, mam fale na trzeciej desce, amperomierz podnosi". Ty widzisz jego pilarkę, powierzchnia rzazu wyraźnie falista.
 
 Marek (brygadzista) na naradzie z Anną Kwiatkowską do 10:30, telefon wyciszony.
 
@@ -58,7 +58,7 @@ Aktywują się **3 zasady M3**: **Z1 granica** (twoja LT70 = granica zewnętrzna
 
 **Priorytet: Adrian**, nie twoja LT70. Twoja LT70 już wymaga STOP (bicie koła > 0,5 mm nie pozwala kontynuować bez ryzyka uszkodzenia maszyny + gwarancji), więc STOP naturalny. Adrian czeka na decyzję w trakcie cięcia, aktywna sytuacja.
 
-**Kolejność 10 min**: (1) STOP LT70 pierwsze, zatrzymaj głowicę + wyłącznik awaryjny, wpis do KKS-001 „9:45, bicie koła ~10 Hz, STOP, oczekiwanie Marka + serwis"; (2) podejdź do Adriana 8 m, oceń wizualnie fale – jeśli drobne i pojawiły się w trzeciej desce (wcześniej nie było), prawdopodobnie stępienie taśmy lub spadek napięcia; (3) zleć Adrianowi pod obserwacją: STOP, sprawdź amperomierz (żółty/czerwony?), sprawdź napięcie, w razie konieczności wymień taśmę (operator-level, Adrian ma kompetencję M2 samodzielną przy wymianie); (4) wpis do jego KS-001 „9:50, fale na 3. desce, wymiana taśmy 10 zamiast taśmy 7, zgoda Rustam nadzór"; (5) wróć do LT70 i dzwoń do Marka format 4W + SMS („Marek, Rustam, P3, 9:45, bicie koła, STOP, zgłoszenie serwisu Wood-Mizer, oczekuję autoryzacji").
+**Kolejność 10 min**: (1) STOP LT70 pierwsze, zatrzymaj głowicę + wyłącznik awaryjny, wpis do KKS-001 „9:45, bicie koła ~10 Hz, STOP, oczekiwanie Marka + serwis"; (2) podejdź do Adriana 8 m, oceń wizualnie fale – jeśli drobne i pojawiły się w trzeciej desce (wcześniej nie było), prawdopodobnie stępienie taśmy lub spadek napięcia; (3) zleć Adrianowi pod obserwacją: STOP, sprawdź amperomierz (żółty/czerwony?), sprawdź napięcie, w razie konieczności wymień taśmę (operator-level, Adrian ma kompetencję M2 samodzielną przy wymianie); (4) wpis do jego KS-001 „9:50, fale na 3. desce, wymiana taśmy 10 zamiast taśmy 7, zgoda Mykoła nadzór"; (5) wróć do LT70 i dzwoń do Marka format 4W + SMS („Marek, Mykoła, P3, 9:45, bicie koła, STOP, zgłoszenie serwisu Wood-Mizer, oczekuję autoryzacji").
 
 **Formularze**: twoja KKS-001 (usterka + czas + opis trzema zmysłami) + KS-001 Adriana (wpis nadzorczy z twoją parafą) + ewentualnie KS-001 własna (postój z powodu usterki).
 
@@ -72,7 +72,7 @@ Aktywują się **3 zasady M3**: **Z1 granica** (twoja LT70 = granica zewnętrzna
 
 Piątek 19.06.2026, 14:15. Kończysz na P3 LT70 ostatnie cięcia zlecenia ZLE-2026-06-023 (dąb FSC C30 8 m³ dla Natalii Stolarz Meblowy Szczytno, termin sobota 10:00). Raport zmianowy EGIDA-RZ-001 wygląda świetnie: marża +2180 zł, yield 58%, 0 reklamacji klasyfikatora Pani Ani.
 
-**Dzwoni Jacek Wesołowski, Dom-Bud Mrągowo** (klient poprzedniego zlecenia ZLE-2026-06-015, sosna C24, partia wydana 12.06.2026, tydzień temu): „Rustam, mamy problem. Deski z waszej partii mają tolerancję 174 mm zamiast 175. Muszę odstąpić od umowy i zwrócić 3200 zł". Telefon trwa 4 minuty. Klient emocjonalny, ale nie agresywny. Rustam, brygadzista Marek na urlopie do poniedziałku (piątek 14:00 już wyszedł).
+**Dzwoni Jacek Wesołowski, Dom-Bud Mrągowo** (klient poprzedniego zlecenia ZLE-2026-06-015, sosna C24, partia wydana 12.06.2026, tydzień temu): „Mykoła, mamy problem. Deski z waszej partii mają tolerancję 174 mm zamiast 175. Muszę odstąpić od umowy i zwrócić 3200 zł". Telefon trwa 4 minuty. Klient emocjonalny, ale nie agresywny. Mykoła, brygadzista Marek na urlopie do poniedziałku (piątek 14:00 już wyszedł).
 
 Partia 5 m³ × 640 zł/m³ sosny C24 = 3200 zł wartości. Na raporcie zmianowym ZLE-2026-06-015: marża minus 529 zł (znana problemowa partia z małych pni).
 
@@ -102,15 +102,15 @@ Aktywują się **3 zasady M3**: **Z5 reklamacja** (KC 556-563 + Wyrok SN + szabl
 
 ---
 
-## Ćwiczenie 3: „Audyt FSC pan Krzysztof Kowalski + Adrian mówi źle o Rustamie"
+## Ćwiczenie 3: „Audyt FSC pan Krzysztof Kowalski + Adrian mówi źle o Mykole"
 
 ### Kontekst
 
-Czwartek 18.06.2026, 7:30. Przyjeżdża **audytor NEPCon Krzysztof Kowalski** (audyt roczny FSC-C112233, standardowa procedura). Siedzi w sali konferencyjnej EGIDA z Markiem, Anną Kwiatkowską, oraz **Adrianem Kowalem** (twój podopieczny M2). Ty na hali P3 LT70, zaczynasz zlecenie ZLE-2026-06-024 (buk 4 m³ FSC dla MebelPro Warszawa). Marek pisze SMS: „Rustam, za 40 min audytor chce rozmawiać z tobą o chain of custody i o Adriana szkoleniu". O 8:10 przychodzi Adrian z audytorem.
+Czwartek 18.06.2026, 7:30. Przyjeżdża **audytor NEPCon Krzysztof Kowalski** (audyt roczny FSC-C112233, standardowa procedura). Siedzi w sali konferencyjnej EGIDA z Markiem, Anną Kwiatkowską, oraz **Adrianem Kowalem** (twój podopieczny M2). Ty na hali P3 LT70, zaczynasz zlecenie ZLE-2026-06-024 (buk 4 m³ FSC dla MebelPro Warszawa). Marek pisze SMS: „Mykoła, za 40 min audytor chce rozmawiać z tobą o chain of custody i o Adriana szkoleniu". O 8:10 przychodzi Adrian z audytorem.
 
-**Zanim wchodzą na halę**, Adrian w sali powiedział Kowalskiemu (niechcący, myślał że prywatnie): „Pan Rustam to dobry operator, ale czasem za mocno mnie koryguje, raz mi powiedział że prowadnice 4,2 mm zamiast 3 to błąd, a to byłem tylko zmęczony". Audytor Kowalski to słyszał. Teraz wchodzą na halę.
+**Zanim wchodzą na halę**, Adrian w sali powiedział Kowalskiemu (niechcący, myślał że prywatnie): „Pan Mykoła to dobry operator, ale czasem za mocno mnie koryguje, raz mi powiedział że prowadnice 4,2 mm zamiast 3 to błąd, a to byłem tylko zmęczony". Audytor Kowalski to słyszał. Teraz wchodzą na halę.
 
-Audytor pyta ciebie przy maszynie: „Pan Rustam, proszę pokazać chain of custody tego zlecenia. I przy okazji: pan Adrian mówił coś o pana metodach nadzorczych, chciałbym rozumieć strukturę pana autorytetu".
+Audytor pyta ciebie przy maszynie: „Pan Mykoła, proszę pokazać chain of custody tego zlecenia. I przy okazji: pan Adrian mówił coś o pana metodach nadzorczych, chciałbym rozumieć strukturę pana autorytetu".
 
 ### Pytania
 
@@ -144,7 +144,7 @@ Dostępność 15 min (ISO 9001). Wszystko w teczce ZLE-024 + w TartakERP + kopia
 
 **Regulamin § 8 ust. 3**: „koryguję gdy błędne, nie gdy inne niż moje". Kluczowy bo chroni zarówno podopiecznego (przed arbitralną kontrolą) jak i nadzorującego (przed odpowiedzialnością za niezgłoszone błędy).
 
-**Dlaczego audytor pyta o to**. FSC-C112233 zawiera wymóg szkolenia operatorów (klauzula 7.3 FSC STD-40-004). Audytor sprawdza, czy system szkoleniowy EGIDA działa. Rozmowa Rustam-Adrian-Krzysztof to **test** procedur, nie atak na Rustama. Spokojna, faktyczna odpowiedź zadowala.
+**Dlaczego audytor pyta o to**. FSC-C112233 zawiera wymóg szkolenia operatorów (klauzula 7.3 FSC STD-40-004). Audytor sprawdza, czy system szkoleniowy EGIDA działa. Rozmowa Mykoła-Adrian-Krzysztof to **test** procedur, nie atak na Mykołę. Spokojna, faktyczna odpowiedź zadowala.
 
 **Częsty błąd juniora M3**: reaguje emocjonalnie („Adrian kłamie, nie byłem za mocny, wszystko zapisane"). Konsekwencja: audytor widzi nerwy, podejrzewa inne problemy, pogłębia audyt, znajduje inne luki. Zasada: **w audycie jesteś spokojny i faktyczny, emocje dopiero po**.
 
@@ -157,8 +157,8 @@ Dostępność 15 min (ISO 9001). Wszystko w teczce ZLE-024 + w TartakERP + kopia
 Poniedziałek 22.06.2026, 6:45. Wchodzisz na halę, 15 minut do startu zmiany 7:00. Trzy sprawy oczekują:
 
 1. **Dyspozycja DP-2026-06-026** od Marka na biurku. Dąb FSC 6 m³ dla Bouwhout van Doorn (klient eksportowy Holandia, pierwszy raz dla ciebie solo), priorytet A, termin czwartek 14:00, wymagane ±1 mm tolerancja (nie standardowe ±2). Musisz wypełnić KDP-001 przed startem.
-2. **Pani Ania klasyfikator** czeka w pokoju narad z raportem z soboty: „Rustam, 4 deski z piątkowej partii ZLE-023 (buk) są granica C24/C16. Potrzebuję twojej decyzji przed zamknięciem KEP-001". Odkłada kartę na twoje biurko z zaznaczeniem „PILNE przed startem".
-3. **Adrian** SMS-uje o 6:40: „Rustam, jestem spóźniony do 7:15, problem z busem. Co z moim LT30 (ZLE-025 sosna)? Zacząć bez ciebie czy czekać?".
+2. **Pani Ania klasyfikator** czeka w pokoju narad z raportem z soboty: „Mykoła, 4 deski z piątkowej partii ZLE-023 (buk) są granica C24/C16. Potrzebuję twojej decyzji przed zamknięciem KEP-001". Odkłada kartę na twoje biurko z zaznaczeniem „PILNE przed startem".
+3. **Adrian** SMS-uje o 6:40: „Mykoła, jestem spóźniony do 7:15, problem z busem. Co z moim LT30 (ZLE-025 sosna)? Zacząć bez ciebie czy czekać?".
 
 Marek na naradzie poniedziałkowej kierownictwa 6:30-7:30.
 
@@ -181,11 +181,11 @@ Aktywują się **4 zasady M3**: **Z2 KDP-001 przed startem** (dyspozycja Bouwhou
 **Start LT70 o 7:00 czy później?** Jeśli KDP-001 gotowa i Pani Ania załatwiona do 7:00 = start o czasie. Jeśli KDP-001 niekompletna lub Pani Ania wymaga dłuższej konsultacji = **start 7:10-7:20, wpis do KS-001 „7:10 start, opóźnienie z powodu pełnej KDP-001 dla klienta eksportowego"**. Bouwhout = klient eksportowy, ±1 mm = nieistotne dla klienta czy zaczniesz 7:00 czy 7:15, istotne czy parametry KDP są poprawne. Zasada Z2: **decyzja parametryczna zawsze przed cięciem, nie w trakcie**.
 
 **Ryzyka opcji**:
-- Opcja A (zignorować Adriana, zacząć LT70 o 7:00): Adrian może zacząć LT30 sam bez nadzoru, ryzyko wypadku + łamanie autoryzacji M2 samodzielnej (Adrian ma autoryzację pełną 30 dni, ale bez nadzoru w dniach oznaczonych jako „pod Rustamem").
+- Opcja A (zignorować Adriana, zacząć LT70 o 7:00): Adrian może zacząć LT30 sam bez nadzoru, ryzyko wypadku + łamanie autoryzacji M2 samodzielnej (Adrian ma autoryzację pełną 30 dni, ale bez nadzoru w dniach oznaczonych jako „pod Mykołą").
 - Opcja B (zignorować Panią Anię): KEP-001 zamknięty bez klasyfikacji granicy, ryzyko reklamacji klienta Natalii Stolarz Meblowy (klasa C24 vs C16 = różnica cenowa 200-400 zł na m³).
 - Opcja C (zignorować dyspozycję Bouwhout, zacząć LT70 z parametrami „na oko"): ryzyko tolerancji ±2 mm zamiast ±1 mm = reklamacja klienta eksportowego wada istotna + utrata 3 lat współpracy z Bouwhout (obrót 800 tys. zł/rok).
 
-**Informacja do Marka**: SMS o 7:05 format 4W: „Marek, Rustam, P3, 7:05, start o 7:10-7:15 po konsultacji Pani Ania (KEP-023 zamknięty 2 C24 + 2 C16) + wypełnienie KDP-001 dla Bouwhout ZLE-026 (±1 mm, schemat B). Adrian spóźniony do 7:15, kazałem mu czekać. Wszystko pod kontrolą, ale opóźnienie 10-15 min dla Bouwhout udokumentowane w KS-001".
+**Informacja do Marka**: SMS o 7:05 format 4W: „Marek, Mykoła, P3, 7:05, start o 7:10-7:15 po konsultacji Pani Ania (KEP-023 zamknięty 2 C24 + 2 C16) + wypełnienie KDP-001 dla Bouwhout ZLE-026 (±1 mm, schemat B). Adrian spóźniony do 7:15, kazałem mu czekać. Wszystko pod kontrolą, ale opóźnienie 10-15 min dla Bouwhout udokumentowane w KS-001".
 
 **Częsty błąd juniora M3**: zaczyna LT70 o 7:00 pod presją „termin", pomija klasyfikację Pani Ani, pomija Adriana, wypełnia KDP-001 „w biegu". Konsekwencje kumulatywne: (a) reklamacja Bouwhout za 1 mm tolerancji, (b) reklamacja Stolarz Meblowy za klasyfikację, (c) Adrian w wypadku bez nadzoru. Zasada Z2 mantra: **przed, nie w trakcie**.
 
@@ -195,7 +195,7 @@ Aktywują się **4 zasady M3**: **Z2 KDP-001 przed startem** (dyspozycja Bouwhou
 
 ### Kontekst
 
-Poniedziałek 22.06.2026, 15:45, koniec zmiany. Pan Henryk Domański (62 l., mistrz suszarni BTM 38 lat, mentor EGIDA) zatrzymuje cię przy wyjściu: „Rustam, rozmawiałem z Gdańskiem w BTM. Wiesz, że za rok planuje się staż mistrza suszarni, 6 miesięcy, 14000 zł kurs, dojazd dwa razy w tygodniu, docelowa pensja 8500 zł brutto w BTM jako mistrz komorowy. Jesteś kandydatem. Mogę cię rekomendować. Co ty na to?".
+Poniedziałek 22.06.2026, 15:45, koniec zmiany. Pan Henryk Domański (62 l., mistrz suszarni BTM 38 lat, mentor EGIDA) zatrzymuje cię przy wyjściu: „Mykoła, rozmawiałem z Gdańskiem w BTM. Wiesz, że za rok planuje się staż mistrza suszarni, 6 miesięcy, 14000 zł kurs, dojazd dwa razy w tygodniu, docelowa pensja 8500 zł brutto w BTM jako mistrz komorowy. Jesteś kandydatem. Mogę cię rekomendować. Co ty na to?".
 
 Obecnie: stawka M3 55 zł brutto/h × 168 h/mies. = **9240 zł brutto** (z dodatkiem nadzorczym 15% gdy nadzorujesz M2, to ok. +500-800 zł mies. średnio = **9800-10000 zł brutto razem**). Po UDT+SEP planowanym wrzesień: +500 zł/mies. = **10500 zł**.
 
@@ -220,18 +220,18 @@ Aktywują się **3 zasady M3**: **Z8 zasoby zawodowe** (planowanie kariery liczb
 - ROI BTM: pensja minus 2000 zł × 12 mies. = minus 24000 zł/rok pierwszy. Po awansie rok 3: +3000-5000 zł/mies. × 12 = +36000-60000 zł/rok. **ROI 2-3 lata jeśli awans, 5+ lat jeśli bez awansu**.
 
 **Kryteria niefinansowe**:
-- **Satysfakcja zawodowa**. Suszarnictwo to specjalizacja, mniej operatorska, więcej procesowa. Ktoś lubi, ktoś nie. Rustam w M3 lubi bezpośredni kontakt z maszyną i podopiecznym, suszarnictwo to siedzenie przy panelu + monitoring.
-- **Lokalizacja**. Gdańsk vs Kętrzyn. Rustam osiedlony w Kętrzynie (karta pobytu, mieszkanie wynajęte 2 lata). Gdańsk = przeprowadzka lub podróż. Przeprowadzka = nowy start w mieście 3× większym, anonimowość.
-- **Rodzina i kultura**. Rustam samotny w Polsce, brak rodziny tu. Gdańsk = nowy krąg znajomych. Kętrzyn = znajomi z kursu + EGIDA.
+- **Satysfakcja zawodowa**. Suszarnictwo to specjalizacja, mniej operatorska, więcej procesowa. Ktoś lubi, ktoś nie. Mykoła w M3 lubi bezpośredni kontakt z maszyną i podopiecznym, suszarnictwo to siedzenie przy panelu + monitoring.
+- **Lokalizacja**. Gdańsk vs Kętrzyn. Mykoła osiedlony w Kętrzynie (karta pobytu, mieszkanie wynajęte 2 lata). Gdańsk = przeprowadzka lub podróż. Przeprowadzka = nowy start w mieście 3× większym, anonimowość.
+- **Rodzina i kultura**. Mykoła samotny w Polsce, brak rodziny tu. Gdańsk = nowy krąg znajomych. Kętrzyn = znajomi z kursu + EGIDA.
 - **Ścieżka rozwoju długoterminowa**. BTM specjalizacja = ryzyko „zamknięcia" w suszarnictwie (trudniej wrócić do operatorki M3 po 3 latach). M3 EGIDA + kursy = szersze możliwości.
 - **Relacje**. Pan Henryk rekomenduje z miłością (widzi w tobie potencjał mistrza), Marek = ryzyko stracić dobrego M3, Pani Ania = neutralnie, Damian = prawdopodobnie powie „nie spiesz się, M3 jest dobry".
 
 **Co by doradzili**:
-- **Marek**: „Rustam, jesteś świetnym M3, nie spiesz się. Może za 2-3 lata". Perspektywa brygadzisty, chce zatrzymać.
+- **Marek**: „Mykoła, jesteś świetnym M3, nie spiesz się. Może za 2-3 lata". Perspektywa brygadzisty, chce zatrzymać.
 - **Pani Ania**: „Czy lubisz siedzieć przy komputerze 8 h, czy wolisz narzędzie?". Pytanie o preferencje.
 - **Damian**: „Ja jestem M3 4 lata, nigdzie się nie spieszyłem. BTM to dla ludzi, którzy naprawdę lubią suszenie. Ty lubisz pilarkę. Zostaw suszenie Panu Henrykowi, on kocha to".
 
-**Wybór**: brak obiektywnie „dobrej" odpowiedzi. Case uczy **procesu decyzji** (liczby + niefinansowe + rozmowy + czas na przemyślenie), nie **wyniku**. Prawdopodobny wybór Rustama: **nie teraz**, ale zachować kontakt z Panem Henrykiem (propozycja wraca za 2 lata), w międzyczasie zrobić UDT+SEP wrzesień + pomyśleć o UPP za 12 miesięcy.
+**Wybór**: brak obiektywnie „dobrej" odpowiedzi. Case uczy **procesu decyzji** (liczby + niefinansowe + rozmowy + czas na przemyślenie), nie **wyniku**. Prawdopodobny wybór Mykoły: **nie teraz**, ale zachować kontakt z Panem Henrykiem (propozycja wraca za 2 lata), w międzyczasie zrobić UDT+SEP wrzesień + pomyśleć o UPP za 12 miesięcy.
 
 **Częsty błąd juniora M3**: patrzy tylko na pierwszą liczbę (BTM 8500 < M3 10000 = „nie opłaca się"). Brak analizy trajektorii. Lub przeciwnie: patrzy tylko na „mistrz" (ego) i ignoruje spadek pensji pierwszego roku. Zasada Z8: **karierę planujemy w tabelach, nie w odczuciach**.
 
@@ -272,7 +272,7 @@ Aktywują się **3 zasady M3**: **Z1 granica zewnętrzna vs wewnętrzna** (komor
 
 **Kolejność 10 min**:
 - **0-1 min**: STOP komory 3 (przycisk awaryjny na panelu). Obserwacja spadku temperatury (jeśli spada = wyłączenie działa; jeśli nie spada = awaria elementu grzewczego, cykl zatrzymany ale temperatura rośnie inaczej → otwarcie drzwi komory z UR).
-- **1-3 min**: eskalacja triple: (a) telefon do Marka 4W „Marek, Rustam, komora 3, 10:30, alarm 82°C w cyklu dębu, STOP awaryjny, proszę do komór"; (b) SMS do Anny Kwiatkowskiej: „Pani Anno, komora 3 alarm 82°C, STOP, proszę o informację"; (c) telefon do UR EGIDA dyżurnego: „komora 3, alarm 82°C w dębie, STOP awaryjny, proszę o diagnozę elementu grzewczego".
+- **1-3 min**: eskalacja triple: (a) telefon do Marka 4W „Marek, Mykoła, komora 3, 10:30, alarm 82°C w cyklu dębu, STOP awaryjny, proszę do komór"; (b) SMS do Anny Kwiatkowskiej: „Pani Anno, komora 3 alarm 82°C, STOP, proszę o informację"; (c) telefon do UR EGIDA dyżurnego: „komora 3, alarm 82°C w dębie, STOP awaryjny, proszę o diagnozę elementu grzewczego".
 - **3-5 min**: wpis do KKS-001 komory 3: „23.06.2026 10:30, alarm 82°C w cyklu dębu ZLE-027 dzień 8., STOP awaryjny operatora, eskalacja Marek + Kwiatkowska + UR". Pełne 3 zmysły: wzrok (panel), słuch (wentylatory), dotyk (drzwi komory czy ciepłe bardzo).
 - **5-10 min**: Marek przychodzi (do 5 min), wspólna decyzja: czy otwierać drzwi komory (jeśli temperatura nie spada), czy czekać na UR (jeśli spada poniżej 70°C). Decyzja o kontakcie z BTM Polska (serwis zewnętrzny, pan Grzegorz Mazur) jeśli UR nie rozwiąże w 30 min.
 
@@ -303,7 +303,7 @@ Piątek 26.06.2026, 14:30. Kończysz 5. zmianę nadzorczą nad Adrianem Kowalem 
 
 Adrian ma dwa kryteria = 3 (parametry KDP i dokumentacja), oba są na granicy (3, nie <3). Suma 18 = zakres warunkowej (17-19).
 
-Adrian prosi: „Rustam, proszę o pełną. Następne 30 dni obiecuję poprawić. Odmowa załamie mi karierę". Marek (brygadzista) przechodzi i mówi: „Rustam, twoja decyzja. Regulamin regulaminem, ale ty widzisz chłopaka, ja widzę ostatni miesiąc. Co myślisz?".
+Adrian prosi: „Mykoła, proszę o pełną. Następne 30 dni obiecuję poprawić. Odmowa załamie mi karierę". Marek (brygadzista) przechodzi i mówi: „Mykoła, twoja decyzja. Regulamin regulaminem, ale ty widzisz chłopaka, ja widzę ostatni miesiąc. Co myślisz?".
 
 ### Pytania
 
@@ -326,7 +326,7 @@ Adrian: 18/25, wszystkie kryteria ≥ 3 = **warunkowa 15 dni**. Jednoznaczna int
 
 **Argumenty za pełną** (przeciw regulaminowi): (a) tendencja pozytywna (ostatnia zmiana 4/4/5/5/4 = 22); (b) trzy błędy parametrowe były w pierwszej zmianie tygodnia, potem nie powtórzył; (c) Adrian ma dobry charakter, chętny do nauki; (d) brygadzista Marek nieformalnie popiera.
 
-**Argumenty za warunkową** (zgodnie z regulaminem): (a) regulamin to nie sugestia, ale norma; (b) pełna autoryzacja z 18/25 tworzy precedens dla innych M2 (każdy może prosić o „odstępstwo", system traci integralność); (c) 15 dni warunkowej to nie kara, ale okres weryfikacji, Adrian jeśli rzeczywiście lepszy skończy z 22/25 za 2 tygodnie i dostanie pełną; (d) dokumentacja z mocą dowodową – KAO-001 trafia do akt osobowych Adriana na 10 lat, w razie incydentu audytor (PIP, klient, ubezpieczyciel) czyta; (e) KP art. 120 § 1 – pełna autoryzacja z 18 = częściowa odpowiedzialność Rustama za ewentualne błędy Adriana w 30 dni.
+**Argumenty za warunkową** (zgodnie z regulaminem): (a) regulamin to nie sugestia, ale norma; (b) pełna autoryzacja z 18/25 tworzy precedens dla innych M2 (każdy może prosić o „odstępstwo", system traci integralność); (c) 15 dni warunkowej to nie kara, ale okres weryfikacji, Adrian jeśli rzeczywiście lepszy skończy z 22/25 za 2 tygodnie i dostanie pełną; (d) dokumentacja z mocą dowodową – KAO-001 trafia do akt osobowych Adriana na 10 lat, w razie incydentu audytor (PIP, klient, ubezpieczyciel) czyta; (e) KP art. 120 § 1 – pełna autoryzacja z 18 = częściowa odpowiedzialność Mykoły za ewentualne błędy Adriana w 30 dni.
 
 **Perswazja Adriana**: NIE wpływa na decyzję. Emocje podopiecznego ≠ kryterium oceny. Pedagogika: „Adrian, rozumiem twoje uczucia, ale regulamin jest takim samym zabezpieczeniem dla ciebie jak dla mnie. 18/25 warunkowa nie jest karą, jest rytmem weryfikacji. Za 2 tygodnie oceniam ponownie, jeśli trend jak w ostatniej zmianie, pełna".
 
@@ -336,7 +336,7 @@ Adrian: 18/25, wszystkie kryteria ≥ 3 = **warunkowa 15 dni**. Jednoznaczna int
 
 > „Suma 18/25. Kryteria 2 (parametry KDP) i 5 (dokumentacja) = 3 (granica dolna). Zgodnie z regulaminem EGIDA § 8 ust. 3 i skalą autoryzacji: warunkowa 15 dni. Tendencja pozytywna ostatnich 2 zmian (22/25 i 20/25), kursant chętny do poprawy. Plan weryfikacji: 7 i 14 dni ponowna KAO-001. Oczekiwane przejście na pełną jeśli utrzymanie ≥ 20/25 przez kolejne 2 zmiany nadzorcze. W razie utrzymania 17-19 lub spadku: kontynuacja warunkowej + plan poprawczy z Markiem i kursantem".
 
-**Częsty błąd juniora M3**: ulega perswazji ADR + wpływowi Marka + własnej sympatii + daje pełną. Skutki: (a) jeśli Adrian błąd w 30 dni, Rustam współodpowiedzialny; (b) Bekzod (inny M2) pyta „dlaczego Adrian dostał pełną z 18, ja dostałem warunkową z 19?" = niekonsystencja systemu; (c) regulamin § 8 złamany, audyt wewnętrzny wykrywa, Anna Kwiatkowska rozmawia z Rustamem. Zasada Z6: **pedagogika twarda + ton miękki**.
+**Częsty błąd juniora M3**: ulega perswazji ADR + wpływowi Marka + własnej sympatii + daje pełną. Skutki: (a) jeśli Adrian błąd w 30 dni, Mykoła współodpowiedzialny; (b) Diego (inny M2) pyta „dlaczego Adrian dostał pełną z 18, ja dostałem warunkową z 19?" = niekonsystencja systemu; (c) regulamin § 8 złamany, audyt wewnętrzny wykrywa, Anna Kwiatkowska rozmawia z Mykołą. Zasada Z6: **pedagogika twarda + ton miękki**.
 
 ---
 
@@ -399,7 +399,7 @@ Aktywują się **2 zasady M3**: **Z8 zasoby zawodowe** (planowanie w tabelach) +
 - **A jako baza** + potem wybór B lub C = najbardziej strategiczne.
 
 **Opinie**:
-- **Pan Henryk** (62 l., mistrz suszarni): „Rustam, BTM to mój chleb 38 lat. Jeśli ty lubisz komputer + monitoring 8 h, idziesz. Jeśli lubisz pilarkę, zostań M3, dodaj UDT+SEP, pomyśl o UPP za 2 lata".
+- **Pan Henryk** (62 l., mistrz suszarni): „Mykoła, BTM to mój chleb 38 lat. Jeśli ty lubisz komputer + monitoring 8 h, idziesz. Jeśli lubisz pilarkę, zostań M3, dodaj UDT+SEP, pomyśl o UPP za 2 lata".
 - **Marek** (42 l., brygadzista): „Nie spiesz się. UDT+SEP na start jesienią, to ma sens. BTM i UPP to za rok, za dwa. Teraz stabilizuj się jako operator M3 z uprawnieniami".
 - **Damian** (35 l., M3 4 lata): „Ja zrobiłem tylko UDT+SEP przed 2 laty. Nie żałuję. Mogę myśleć o UPP za 5 lat, może. M3 z uprawnieniami to solidna pozycja, bez presji".
 
@@ -426,9 +426,9 @@ Aktywują się **2 zasady M3**: **Z8 zasoby zawodowe** (planowanie w tabelach) +
 **Ćwiczenia strategiczne 5, 8**. Te mają **mniej jednoznacznych odpowiedzi** niż 1-4. Trener nie narzuca wyniku, ale dba o **jakość procesu decyzyjnego** (tabele + niefinansowe + opinie + własny wybór). Wyniki różnych kursantów mogą być różne, to OK.
 
 **Kultury**.
-- Ukraińcy i Białorusini chętnie dyskutują strategicznie (ćw. 5, 8), są realistami.
-- Uzbekowie, Tadżycy często zaskakująco dojrzali w ćw. 3 (audyt FSC), bo wywodzą się z kultur szanujących formalne procedury.
-- Wietnamczycy, Filipińczycy mogą być zbyt „zgadzający się" w ćw. 7 (Adrian) – trener pcha do jasnej decyzji, nie kompromisu.
-- Latynosi (Peru, Kolumbia) bardzo emocjonalnie reagują na ćw. 2 (reklamacja klienta) – trener odkleja emocje od KC.
+- Ukraińcy (zwłaszcza z Charkowa, Kijowa, Lwowa) chętnie dyskutują strategicznie (ćw. 5, 8), są realistami, mają za sobą doświadczenie wolnego rynku oraz „szarej strefy".
+- Kursanci z Ukrainy zachodniej (Lwów, Tarnopol, Czerniowce) bywają zaskakująco dojrzali w ćw. 3 (audyt FSC), bo w ich regionach rozwinęła się silna kultura drobnej przedsiębiorczości i formalnych procedur unijnych po 2014 r.
+- Kolumbijczycy bywają zbyt „zgadzający się" w ćw. 7 (Adrian) z uwagi na dziedziczony formalizm „usted" wobec przełożonego – trener pcha do jasnej decyzji, nie kompromisu.
+- Latynosi (Peru, Kolumbia, Wenezuela, Boliwia, Honduras) bardzo emocjonalnie reagują na ćw. 2 (reklamacja klienta) – trener odkleja emocje od KC.
 
-**Mieszanie par w dyskusji**. Co ćwiczenie zmieniaj układy („dzisiaj ćw. 3 w parze Ukrainiec + Uzbek, ćw. 4 Wietnamczyk + Peruwiańczyk"), żeby kulturowe perspektywy się przeplatały. Nie zostawiaj „mono-kulturowych" stolików na cały tydzień 4.
+**Mieszanie par w dyskusji**. Co ćwiczenie zmieniaj układy („dzisiaj ćw. 3 w parze Ukrainiec z Charkowa + Kolumbijczyk, ćw. 4 Ukrainiec z Lwowa + Peruwiańczyk"), żeby kulturowe perspektywy się przeplatały. Nie zostawiaj „mono-kulturowych" stolików na cały tydzień 4.

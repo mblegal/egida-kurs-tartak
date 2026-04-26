@@ -6,41 +6,41 @@ czas: 120
 
 ## Introduction
 
-Thursday, 2026-06-25, 14:25. EGIDA Kętrzyn sawmill floor, station P3 Wood-Mizer LT70. Rustam Nazarov is finishing his **second day of foreman's proxy authority on the floor** (Marek Kowalski returned yesterday evening from Olsztyn, is on duty from this morning as usual, but Rustam's coordination duties continue – Marek is experimenting with the model "Rustam runs operations, I supervise strategically"). The EGIDA day shift is standardly 7:00-15:00 (8 hours with a 30-minute lunch break counted into working time under EGIDA regulation § 6 sec. 4). Today is a routine day: order **ZLE-2026-06-023** common beech (*Fagus sylvatica*), 2 logs 3.10 m, target product **floorboards 22 × 140 × 2000 mm** for **ParkiętMaster Kraków** (a new client, first test order, a one-off contract, not a framework one). Rustam and Wahan have been at P3 since 7:00, lunch break 12:00-12:30, and are currently finishing the second log (log 1 done at 10:30, log 2 half-done).
+Thursday, 2026-06-25, 14:25. EGIDA Kętrzyn sawmill floor, station P3 Wood-Mizer LT70. Mykoła Hrycenko is finishing his **second day of foreman's proxy authority on the floor** (Marek Kowalski returned yesterday evening from Olsztyn, is on duty from this morning as usual, but Mykoła's coordination duties continue – Marek is experimenting with the model "Mykoła runs operations, I supervise strategically"). The EGIDA day shift is standardly 7:00-15:00 (8 hours with a 30-minute lunch break counted into working time under EGIDA regulation § 6 sec. 4). Today is a routine day: order **ZLE-2026-06-023** common beech (*Fagus sylvatica*), 2 logs 3.10 m, target product **floorboards 22 × 140 × 2000 mm** for **ParkiętMaster Kraków** (a new client, first test order, a one-off contract, not a framework one). Mykoła and Wasyl have been at P3 since 7:00, lunch break 12:00-12:30, and are currently finishing the second log (log 1 done at 10:30, log 2 half-done).
 
-### Yesterday's announcement: new shift substitute Oleksij
+### Yesterday's announcement: new shift substitute Bohdan
 
-Yesterday (Wednesday 24.06) after Marek's return at 17:00, the foreman briefed Rustam on the Thursday plan:
+Yesterday (Wednesday 24.06) after Marek's return at 17:00, the foreman briefed Mykoła on the Thursday plan:
 
-*"Rustam, tomorrow is Thursday, 25.06 – **Oleksij Tarasenko's first afternoon shift on P3 solo**. Oleksij has been with us since May 2026, so far 8 shifts on P1 under Damian's supervision. On Friday of last week he passed the M3 authorisation card (document KAO-003, equivalent to Adrian's KAO-001 from Part 29, only M3 not M2). Tomorrow his first solo shift, on P3 – not on P1 where he trained under Damian. **P3 is a different machine: Wood-Mizer LT70 hydraulic, not Serra SM40 mechanical.** Wahan has no experience with Oleksij, because when Wahan was in Armenia 07-14.06, Oleksij trained under Damian. **You run the on-the-job briefing**, Oleksij's first solo shift right after yours. Handover time 14:30-15:00, **30 minutes in detail**, because it is his first solo afternoon. Form EGIDA-PZ-001. Agreed?"*
+*"Mykoła, tomorrow is Thursday, 25.06 – **Bohdan Szewczenko's first afternoon shift on P3 solo**. Bohdan has been with us since May 2026, so far 8 shifts on P1 under Damian's supervision. On Friday of last week he passed the M3 authorisation card (document KAO-003, equivalent to Adrian's KAO-001 from Part 29, only M3 not M2). Tomorrow his first solo shift, on P3 – not on P1 where he trained under Damian. **P3 is a different machine: Wood-Mizer LT70 hydraulic, not Serra SM40 mechanical.** Wasyl has no experience with Bohdan, because when Wasyl was in Armenia 07-14.06, Bohdan trained under Damian. **You run the on-the-job briefing**, Bohdan's first solo shift right after yours. Handover time 14:30-15:00, **30 minutes in detail**, because it is his first solo afternoon. Form EGIDA-PZ-001. Agreed?"*
 
-Rustam nodded: *"Agreed, Marek. I will brief him properly."*
+Mykoła nodded: *"Agreed, Marek. I will brief him properly."*
 
-So today Rustam knows that **he finishes his shift at 15:00 with a 30-minute handover**, which means **end of work at 15:00 plus 30 min of briefing – until 15:30**. Marek also explained the pay question: *"15 minutes over norm is unpaid (art. 151 KP minor overtime), from the 16th minute onwards – overtime with a 50% premium, i.e. 25 zł gross for 15 extra minutes (rate 50 zł/hour × 0.25 hour × 1.5). I will register it in the CRM."*
+So today Mykoła knows that **he finishes his shift at 15:00 with a 30-minute handover**, which means **end of work at 15:00 plus 30 min of briefing – until 15:30**. Marek also explained the pay question: *"15 minutes over norm is unpaid (art. 151 KP minor overtime), from the 16th minute onwards – overtime with a 50% premium, i.e. 25 zł gross for 15 extra minutes (rate 50 zł/hour × 0.25 hour × 1.5). I will register it in the CRM."*
 
 ### 14:25, finishing the cut of beech log 2
 
-Rustam closes with the weight the last board's kerf from log 2. Log 2 yielded **18 floorboards 22 × 140 × 2000 mm** (together with log 1 = 38 boards). The client ordered 40 – **minus 2 boards**, which Rustam notes for the evening report EGIDA-RZ-001. Additionally **3 boards off-size** (minor frost crack in log 2, the client will not accept them). Plan: tomorrow, Friday morning, recut from the spare beech batch (Anton has BU-ZW-06 on the yard since Wednesday) 2 missing + 1 spare.
+Mykoła closes with the weight the last board's kerf from log 2. Log 2 yielded **18 floorboards 22 × 140 × 2000 mm** (together with log 1 = 38 boards). The client ordered 40 – **minus 2 boards**, which Mykoła notes for the evening report EGIDA-RZ-001. Additionally **3 boards off-size** (minor frost crack in log 2, the client will not accept them). Plan: tomorrow, Friday morning, recut from the spare beech batch (Anton has BU-ZW-06 on the yard since Wednesday) 2 missing + 1 spare.
 
-Rustam switches off P3. Wahan starts cleaning up the sawdust, sweeping the bucket. Clock 14:28. Two minutes to the break for Oleksij.
+Mykoła switches off P3. Wasyl starts cleaning up the sawdust, sweeping the bucket. Clock 14:28. Two minutes to the break for Bohdan.
 
-### 14:30, Oleksij's arrival
+### 14:30, Bohdan's arrival
 
-From the office hall walks in **Oleksij Tarasenko** (28 years old, Ukrainian from Lviv, in Poland since 10.2024, in EGIDA since 05.2026 as an M3 operator trainee, after 8 training shifts under Damian on P1 authorised to work independently on P3). Tall, slim, short-cropped dark hair, an EGIDA work jacket (fresh, picked up 2 weeks ago), ID "Tarasenko O. / M3 / since 2026-05" on a lanyard. In his hand he holds his own notebook (an A5 diary, Ukrainian, last year's gift from his mother in Lviv). On his right ring finger a wedding band (wife Kateryna, daughter Daryna 2 years old, who stayed in Lviv until December 2026 until Kateryna finishes her medical studies).
+From the office hall walks in **Bohdan Szewczenko** (28 years old, Ukrainian from Lviv, in Poland since 10.2024, in EGIDA since 05.2026 as an M3 operator trainee, after 8 training shifts under Damian on P1 authorised to work independently on P3). Tall, slim, short-cropped dark hair, an EGIDA work jacket (fresh, picked up 2 weeks ago), ID "Szewczenko B. / M3 / since 2026-05" on a lanyard. In his hand he holds his own notebook (an A5 diary, Ukrainian, last year's gift from his mother in Lviv). On his right ring finger a wedding band (wife Kateryna, daughter Daryna 2 years old, who stayed in Lviv until December 2026 until Kateryna finishes her medical studies).
 
-*"Rustam, pryvit. Ready to take the shift."* – Oleksij says in Polish with a distinct Ukrainian accent, words correct, East Slavic intonation.
+*"Mykoła, pryvit. Ready to take the shift."* – Bohdan says in Polish with a distinct Ukrainian accent, words correct, East Slavic intonation.
 
-Rustam greets him: *"Hi Oleksij. Wahan, leave the sawdust for a moment – Oleksij needs to see the floor clean. Oleksij, **30 minutes of on-the-job briefing**, Marek said yesterday. Sit on the stool next to P3, I will pull out the form."*
+Mykoła greets him: *"Hi Bohdan. Wasyl, leave the sawdust for a moment – Bohdan needs to see the floor clean. Bohdan, **30 minutes of on-the-job briefing**, Marek said yesterday. Sit on the stool next to P3, I will pull out the form."*
 
-Oleksij sits down. Wahan puts down the broom. Rustam pulls out of the foreman's cabinet the **form EGIDA-PZ-001 "Shift Handover"** (A5 double-sided, cream cardboard, 5 sections, introduced 04.2026 together with KEP-001 and EGIDA-RZ-001 as part of the M3 documentation modernisation package).
+Bohdan sits down. Wasyl puts down the broom. Mykoła pulls out of the foreman's cabinet the **form EGIDA-PZ-001 "Shift Handover"** (A5 double-sided, cream cardboard, 5 sections, introduced 04.2026 together with KEP-001 and EGIDA-RZ-001 as part of the M3 documentation modernisation package).
 
 ```
 FORM EGIDA-PZ-001 "SHIFT HANDOVER"
 no: PZ/2026/06/042
 date: 2026-06-25   handover time: 14:30-15:00
 station: P3 Wood-Mizer LT70
-outgoing operator: Rustam Nazarov (M3)
-incoming operator: Oleksij Tarasenko (M3, first solo afternoon shift)
+outgoing operator: Mykoła Hrycenko (M3)
+incoming operator: Bohdan Szewczenko (M3, first solo afternoon shift)
 supervisor: Marek Kowalski (foreman, accepts the briefing)
 
 SECTION 1 – P3 MACHINE STATUS:
@@ -70,7 +70,7 @@ SECTION 2 – CURRENT ORDER:
 SECTION 3 – REPORTED FAULTS:
   NO critical ones.
   NOTE: blade ST-28-8-S05 has 540 min of run time, to be replaced
-  before tomorrow's morning cycle (tomorrow not you, Rustam will do it
+  before tomorrow's morning cycle (tomorrow not you, Mykoła will do it
   in the morning 7:00-7:30 together with Damian on P1).
 
 SECTION 4 – OPEN OH&S POINTS FROM MORNING BRIEFING:
@@ -79,17 +79,17 @@ SECTION 4 – OPEN OH&S POINTS FROM MORNING BRIEFING:
   Kenwood TK-3401 channel 2 night: same frequency,
   but fewer users (you + Maciek Wiśniewski drying
   + Anton sometimes if he is around).
-  Magnetic board: updated until 14:30 Rustam.
+  Magnetic board: updated until 14:30 Mykoła.
 
 SECTION 5 – TECHNICAL AND PERSONAL NOTES:
-  Night helper: Wahan finishes shift 15:00 (goes home),
-  on the afternoon NO-ONE has a helper – Oleksij works alone
+  Night helper: Wasyl finishes shift 15:00 (goes home),
+  on the afternoon NO-ONE has a helper – Bohdan works alone
   from 15:00 to 23:00 (8 afternoon hours, with a break 19:00-19:30).
   Birch specifics: soft, cut feed rate 5 m/min (not 4 as for oak).
   Birch client: contract MebelPro Olsztyn (UR/2025/108), deadline Friday 26.06.
 
   PERSONAL:
-  Oleksij, first solo afternoon shift on P3. Marek online
+  Bohdan, first solo afternoon shift on P3. Marek online
   on WhatsApp until 22:00 (Marek lives in Kętrzyn, easy to call
   in a critical case). Mr Henryk night drying master from 23:00
   (night shift, handover from you to Mr Henryk 22:50-23:00
@@ -102,22 +102,22 @@ SECTION 5 – TECHNICAL AND PERSONAL NOTES:
   voltage surge): STOP P3 mushroom button, LOTO, 112 (emergency),
   then Marek phone.
 
-outgoing signature:             Nazarov R.    14:57
-incoming signature:             Tarasenko O.  14:57
+outgoing signature:             Hrycenko R.    14:57
+incoming signature:             Szewczenko B.  14:57
 supervisor Marek's signature:    _______ (to be filled in in the evening)
 ```
 
-Rustam shows the form to Oleksij. *"One by one. Do not rush. If something is unclear – ask."*
+Mykoła shows the form to Bohdan. *"One by one. Do not rush. If something is unclear – ask."*
 
 ### 14:32-14:45, sections 1 and 2 (machine status + order)
 
-Rustam physically walks Oleksij around P3. **He does not only speak, he points with a finger**.
+Mykoła physically walks Bohdan around P3. **He does not only speak, he points with a finger**.
 
 *"Seal WM-LT70-BB-2026-0142, you see – red, here on the side of the lower wheel housing, intact. Every morning you check the seal. If broken – DO NOT START the machine, call Marek immediately, because it means someone opened the housing at night (theoretically impossible, but that is the procedure)."*
 
-*"Blade ST-28-8-S05 – the marking is visible on the plastic plate next to the saw. The S05 number means 'stellite 05 from 2026', you will see in the blade store ST-28-8-S06, S07 in cabinet B-3. Today it ran for 540 min – this is exceptionally long because oak ran a lot yesterday. Replacement tomorrow morning, not you – Rustam will do it."*
+*"Blade ST-28-8-S05 – the marking is visible on the plastic plate next to the saw. The S05 number means 'stellite 05 from 2026', you will see in the blade store ST-28-8-S06, S07 in cabinet B-3. Today it ran for 540 min – this is exceptionally long because oak ran a lot yesterday. Replacement tomorrow morning, not you – Mykoła will do it."*
 
-Oleksij nods. Writes in the notebook: "Red seal, check every morning, if broken – stop and Marek."
+Bohdan nods. Writes in the notebook: "Red seal, check every morning, if broken – stop and Marek."
 
 *"Tension 2280 PSI – pressure gauge at the front right. Beech works at 2250-2350. If it drops below 2200 – stop, hydraulics problem. If it rises above 2400 – stop, blocked valve."*
 
@@ -131,86 +131,86 @@ Oleksij nods. Writes in the notebook: "Red seal, check every morning, if broken 
 
 *"Electrical cabinet KEP-3 – here, high voltage, DO NOT OPEN. Voltage surge? Anton has SEP G1-E, call Anton, or if it is the night – Marek will come over. You cannot open it."*
 
-Oleksij writes down: "KEP-3 do not open, voltage surge = Anton or Marek".
+Bohdan writes down: "KEP-3 do not open, voltage surge = Anton or Marek".
 
 *"LED lighting 100%, check with the switch at the entrance. If a lamp does not work – a note to maintenance in the morning, you do not replace it (you work under SEP G1-D supervision)."*
 
 Section 1 closed. Section 2 order:
 
-*"Beech ZLE-023 I finished today, 38 of 40, two missing – Rustam will recut tomorrow morning. Today you have the NIGHT birch ZLE-021, instructions in Marek's binder. A silver birch shipment, 3 logs 3.5 m, fresh moisture 38%, target battens 20 × 80 × 3500 for **DOM-BUD Mrągowo** (Jacek Wesołowski, framework contract since 2024). Expected class C16. Mrs Ania classifies the batch tomorrow morning 7:30 after drying in BH-50 by Mr Henryk 26-29.06."*
+*"Beech ZLE-023 I finished today, 38 of 40, two missing – Mykoła will recut tomorrow morning. Today you have the NIGHT birch ZLE-021, instructions in Marek's binder. A silver birch shipment, 3 logs 3.5 m, fresh moisture 38%, target battens 20 × 80 × 3500 for **DOM-BUD Mrągowo** (Jacek Wesołowski, framework contract since 2024). Expected class C16. Mrs Ania classifies the batch tomorrow morning 7:30 after drying in BH-50 by Mr Henryk 26-29.06."*
 
 ### 14:46-14:52, sections 3, 4, 5
 
 Section 3 faults quickly: none critical. Blade extended to 540 min but replaced tomorrow.
 
-Section 4 OH&S: **Rustam pulls the briefing log out of the cabinet**. Shows the 7:08 morning entry:
-*"Today's briefing 7:00 – oak hard, watch for splinters, ear protectors mandatory, safety glasses. Wahan cleaning. Adrian blade change on P2. **Same for beech and your night birch – beech yesterday, birch tonight**. Mandatory: ear protectors, safety glasses, anti-slip gloves. If alone – **first aid: 112 emergency, Marek phone**. First-aid kit by the office, key only you (you get a copy from Marek) and Mr Henryk at night."*
+Section 4 OH&S: **Mykoła pulls the briefing log out of the cabinet**. Shows the 7:08 morning entry:
+*"Today's briefing 7:00 – oak hard, watch for splinters, ear protectors mandatory, safety glasses. Wasyl cleaning. Adrian blade change on P2. **Same for beech and your night birch – beech yesterday, birch tonight**. Mandatory: ear protectors, safety glasses, anti-slip gloves. If alone – **first aid: 112 emergency, Marek phone**. First-aid kit by the office, key only you (you get a copy from Marek) and Mr Henryk at night."*
 
 Section 5 personal:
 
-*"You work ALONE on P3 from 15:00 until 23:00. No helper. Wahan finishes at 15:00, goes home. Anton is sometimes on the yard until 17:00, but not always. Mr Henryk will come at 23:00 night shift. If anything unusual happens – radio channel 2 you call Marek (online until 22:00) or 112. Break 19:00-19:30, coffee, tea in the canteen."*
+*"You work ALONE on P3 from 15:00 until 23:00. No helper. Wasyl finishes at 15:00, goes home. Anton is sometimes on the yard until 17:00, but not always. Mr Henryk will come at 23:00 night shift. If anything unusual happens – radio channel 2 you call Marek (online until 22:00) or 112. Break 19:00-19:30, coffee, tea in the canteen."*
 
 *"Birch – soft, cut at feed rate 5 m/min, not 4. Oak 4, beech 4, birch 5. Pine 6. Remember."*
 
-### 14:53, Oleksij's questions
+### 14:53, Bohdan's questions
 
-Oleksij finishes writing. Raises his eyes:
+Bohdan finishes writing. Raises his eyes:
 
-*"Rustam, a few questions."*
+*"Mykoła, a few questions."*
 
 *"Ask."*
 
 Question 1: *"Tension for birch? I do not know, you did not say."*
 
-Rustam: *"Beech 2280. Birch 2250 (soft). In cabinet B-3 there is a card 'Tensions per species' – posted, check before every night shift. Pine 2200, birch 2250, beech 2280, oak 2380."*
+Mykoła: *"Beech 2280. Birch 2250 (soft). In cabinet B-3 there is a card 'Tensions per species' – posted, check before every night shift. Pine 2200, birch 2250, beech 2280, oak 2380."*
 
 Question 2: *"Guides for birch?"*
 
-Rustam: *"3.0 upper, 3.3 lower for everything hard. Pine 3.0 and 3.5. The only difference is pine – soft. Birch harder, so 3.3."*
+Mykoła: *"3.0 upper, 3.3 lower for everything hard. Pine 3.0 and 3.5. The only difference is pine – soft. Birch harder, so 3.3."*
 
 Question 3: *"Extractor filter every 4 h – you said. What if birch produces less dust than oak?"*
 
-Rustam: *"Good question. Nestro filter you clean EVERY 4 hours regardless of the amount of dust – it is a procedure. If the filter clogs faster (heavy dust), you may clean every 3 – you note it down, inform Marek the next morning. But never less often than every 4."*
+Mykoła: *"Good question. Nestro filter you clean EVERY 4 hours regardless of the amount of dust – it is a procedure. If the filter clogs faster (heavy dust), you may clean every 3 – you note it down, inform Marek the next morning. But never less often than every 4."*
 
 Question 4: *"Cabinet KEP-001 where?"*
 
-Rustam: *"KEP-001 is the Batch Record Card form – A4 cream, sections 'batch data', 'moisture measurements', 'list of boards with defects'. Foreman's cabinet, second drawer. KDP-001 is the Batch Data Card – closer to production. Difference: KEP for classifier Mrs Ania, KDP for the operator's personal notebook. You do both – KDP for yourself, KEP for Mrs Ania in the morning."*
+Mykoła: *"KEP-001 is the Batch Record Card form – A4 cream, sections 'batch data', 'moisture measurements', 'list of boards with defects'. Foreman's cabinet, second drawer. KDP-001 is the Batch Data Card – closer to production. Difference: KEP for classifier Mrs Ania, KDP for the operator's personal notebook. You do both – KDP for yourself, KEP for Mrs Ania in the morning."*
 
 Question 5: *"LOTO – I remember the word, but show me physically."*
 
-Rustam pulls out of the cabinet the **EGIDA LOTO kit**: 3 numbered padlocks (EGIDA-LOTO-012, 013, 014 assigned to Rustam, newly assigned to Oleksij also 3 padlocks EGIDA-LOTO-021, 022, 023), a paper tag with the name, a linker for the handle of the P3 main switch. Shows physically: *"If you have to intervene in the electrical cabinet (only if you hold SEP G1-E, and you do not yet), or you replace a blade, or service – you switch off the main switch, put on the LOTO padlock, and only then touch. Without LOTO – absolute prohibition."*
+Mykoła pulls out of the cabinet the **EGIDA LOTO kit**: 3 numbered padlocks (EGIDA-LOTO-012, 013, 014 assigned to Mykoła, newly assigned to Bohdan also 3 padlocks EGIDA-LOTO-021, 022, 023), a paper tag with the name, a linker for the handle of the P3 main switch. Shows physically: *"If you have to intervene in the electrical cabinet (only if you hold SEP G1-E, and you do not yet), or you replace a blade, or service – you switch off the main switch, put on the LOTO padlock, and only then touch. Without LOTO – absolute prohibition."*
 
 Question 6: *"Magnetic board, I saw it. You update it in the morning?"*
 
-Rustam: *"In the morning yes, plus any significant changes during the day – new ZLE, breakdown, schedule change. **On the night shift you update for yourself** – there are white fields 'P3 night shift' on the board. Write to the incoming morning operator (me or Damian) what happened during the night. Always."*
+Mykoła: *"In the morning yes, plus any significant changes during the day – new ZLE, breakdown, schedule change. **On the night shift you update for yourself** – there are white fields 'P3 night shift' on the board. Write to the incoming morning operator (me or Damian) what happened during the night. Always."*
 
 Question 7: *"WhatsApp – I am in the 'EGIDA day shift' group. And the night one?"*
 
-Rustam: *"**There is a second group 'EGIDA night shift'** – Marek added you yesterday. Members: you (from today), Mr Henryk, Maciek Wiśniewski (night drying helper), Marek (offline at night, reads in the morning), Anton (sometimes if there is a night delivery). During the night you work with the second group, the day one will not help you."*
+Mykoła: *"**There is a second group 'EGIDA night shift'** – Marek added you yesterday. Members: you (from today), Mr Henryk, Maciek Wiśniewski (night drying helper), Marek (offline at night, reads in the morning), Anton (sometimes if there is a night delivery). During the night you work with the second group, the day one will not help you."*
 
 ### 14:55, signatures + copy to Marek
 
-Rustam and Oleksij sign PZ-001. Rustam takes a photo with his phone, sends it to Marek via WhatsApp. A copy stays on the magnetic board (where the shift report is) until the evening. The original goes into the foreman's folder "PZ 2026-06" (retention 5 years).
+Mykoła and Bohdan sign PZ-001. Mykoła takes a photo with his phone, sends it to Marek via WhatsApp. A copy stays on the magnetic board (where the shift report is) until the evening. The original goes into the foreman's folder "PZ 2026-06" (retention 5 years).
 
-**Time**: 14:57. **The handover took 27 minutes**. Rustam on his normal shift finishes at 15:00, so he is 3 minutes ahead of the end. Within the 8-hour working day.
+**Time**: 14:57. **The handover took 27 minutes**. Mykoła on his normal shift finishes at 15:00, so he is 3 minutes ahead of the end. Within the 8-hour working day.
 
-*"Oleksij, ready?"*
+*"Bohdan, ready?"*
 
-*"Ready. Thank you, Rustam. First time so detailed."*
+*"Ready. Thank you, Mykoła. First time so detailed."*
 
 *"Remember – radio channel 2 Marek until 22:00, 112 always. Tomorrow morning 7:00 Marek will see you, will ask questions. **Most important**: do not pretend you know if you do not know. Asking – better than guessing and breaking something."*
 
 *"Understood."*
 
-Rustam offers him his hand. Oleksij smiles, leaves to change in the locker room (he left his jacket from the morning there, now he puts on the night work jacket). Wahan is also already in the locker room (leaving at 15:00). Rustam stays on the floor a bit longer – tidies his desk, locks the foreman's cabinet, puts on his jacket.
+Mykoła offers him his hand. Bohdan smiles, leaves to change in the locker room (he left his jacket from the morning there, now he puts on the night work jacket). Wasyl is also already in the locker room (leaving at 15:00). Mykoła stays on the floor a bit longer – tidies his desk, locks the foreman's cabinet, puts on his jacket.
 
 ### "Incomplete handover" scenario from theory
 
-Marek, before he left yesterday for Olsztyn, reminded Rustam: *"Remember the March incident – Damian incompletely handed over P3 back then morning. Repeat to Oleksij why PZ-001 is important."* Rustam remembers. Here is what happened:
+Marek, before he left yesterday for Olsztyn, reminded Mykoła: *"Remember the March incident – Damian incompletely handed over P3 back then morning. Repeat to Bohdan why PZ-001 is important."* Mykoła remembers. Here is what happened:
 
-**March 2026, P3 incident Damian-Rustam** (Rustam was then the morning shift, after Damian on the night). Damian worked on P3 on the night of 05-06.03 (a year ago), noticed **slight vibration of the lower wheel** (0.3 mm runout). Did not report it. Did not write it on PZ-001. Morning 06.03 7:00 Rustam takes over P3 from Damian. Damian says verbally "all OK, nothing happened". Rustam signs. Damian leaves to sleep.
+**March 2026, P3 incident Damian-Mykoła** (Mykoła was then the morning shift, after Damian on the night). Damian worked on P3 on the night of 05-06.03 (a year ago), noticed **slight vibration of the lower wheel** (0.3 mm runout). Did not report it. Did not write it on PZ-001. Morning 06.03 7:00 Mykoła takes over P3 from Damian. Damian says verbally "all OK, nothing happened". Mykoła signs. Damian leaves to sleep.
 
-Rustam starts cutting pine. After 40 minutes of work **the vibration gets worse** (runout 0.8 mm, already audible), Rustam feels resonance in the P3 frame. Stop, call to Marek, call to Wood-Mizer Polska. Mr Krzysztof arrives at 11:00, diagnosis: **lower wheel runout = bearing micro-crack, emergency maintenance**. Cost: **2100 zł** (labour + bearing + emergency transport). Rustam's morning shift interrupted until 14:00 (4 hours of downtime, production loss 1800 zł).
+Mykoła starts cutting pine. After 40 minutes of work **the vibration gets worse** (runout 0.8 mm, already audible), Mykoła feels resonance in the P3 frame. Stop, call to Marek, call to Wood-Mizer Polska. Mr Krzysztof arrives at 11:00, diagnosis: **lower wheel runout = bearing micro-crack, emergency maintenance**. Cost: **2100 zł** (labour + bearing + emergency transport). Mykoła's morning shift interrupted until 14:00 (4 hours of downtime, production loss 1800 zł).
 
 **Marek's investigation**: check Damian's night PZ-001. Section 3 "reported faults" = "none" (Damian did not write it). But Damian over coffee admitted that he "heard something" at 4 a.m. Marek opened the EGIDA regulation **reg.wew.05/2024 § 9 sec. 3**:
 
@@ -261,10 +261,10 @@ Section 5 is the most extensive and the least formal. It is "the dictionary insi
 ### Supervisory signature of the foreman
 
 **The third signature** on PZ-001 – the foreman's. It is not required at every handover (two signatures, outgoing and incoming, are enough for validity), but in **two situations Marek signs additionally**:
-1. **First solo shift of the incoming operator** (like Oleksij today – first night solo on P3). Marek's signature = acceptance of the briefing, full responsibility for the further course.
+1. **First solo shift of the incoming operator** (like Bohdan today – first night solo on P3). Marek's signature = acceptance of the briefing, full responsibility for the further course.
 2. **Incident or fault in section 3 marked as "critical"** – the foreman must see the PZ and confirm that he knows about the matter.
 
-Marek's signature under Oleksij's PZ this evening means that Marek **takes over the coordination responsibility** for the course of the night shift. If Oleksij makes a mistake, Marek will not be able to say "I did not know who was on P3" – he knew, he approved, he supervised.
+Marek's signature under Bohdan's PZ this evening means that Marek **takes over the coordination responsibility** for the course of the night shift. If Bohdan makes a mistake, Marek will not be able to say "I did not know who was on P3" – he knew, he approved, he supervised.
 
 ### The overtime question after the handover
 
@@ -276,35 +276,35 @@ Explanatory translation: Work performed beyond the working time norms applicable
 
 EGIDA regulation § 8 sec. 2 clarifies: **15 minutes of exceeding the working time norm is minor unpaid work** (accepted by the employee within the duty of care, art. 100 § 1 KP). From **the 16th minute onwards** – overtime with a 50% premium (in line with art. 151¹ § 1 point 2 KP).
 
-Rustam today finished at 15:00, briefing until 14:57. He did not exceed even a minute of overtime. But if the briefing were to last until 15:20, it would be **20 minutes**: 15 minutes unpaid + 5 minutes of overtime × rate 50 zł/hour × 1.5 = **6.25 zł gross**. If until 15:45 – 30 minutes of overtime = 25 zł gross.
+Mykoła today finished at 15:00, briefing until 14:57. He did not exceed even a minute of overtime. But if the briefing were to last until 15:20, it would be **20 minutes**: 15 minutes unpaid + 5 minutes of overtime × rate 50 zł/hour × 1.5 = **6.25 zł gross**. If until 15:45 – 30 minutes of overtime = 25 zł gross.
 
-**Pedagogy**: the outgoing operator, who knows that the substitute is new, **prepares the briefing in a compact way** – does not ramble, but also does not leave gaps. Rustam today fit within 27 minutes with a full briefing, because earlier he had prepared the PZ-001 form (he filled in sections 1-2 on the fly during the shift, not at the end). **Planning saves overtime** without compromising completeness.
+**Pedagogy**: the outgoing operator, who knows that the substitute is new, **prepares the briefing in a compact way** – does not ramble, but also does not leave gaps. Mykoła today fit within 27 minutes with a full briefing, because earlier he had prepared the PZ-001 form (he filled in sections 1-2 on the fly during the shift, not at the end). **Planning saves overtime** without compromising completeness.
 
 ### Cultural aspect of the handover to a new employee
 
-Oleksij is a **Ukrainian with a distinct accent**, second language – Polish from October 2024 (2 years in Poland). Rustam is an **Uzbek, Russian-speaking**, in Poland 7 years, fluent Polish. Wahan (day-time helper) is an **Armenian**, basic Polish.
+Bohdan is a **Ukrainian from Chernivtsi with a distinct accent**, second language – Polish from October 2024 (2 years in Poland). Mykoła is a **Ukrainian from Poltava, Russian-speaking at home**, in Poland 7 years, fluent Polish. Wasyl (day-time helper) is a **Ukrainian from Ternopil**, basic Polish.
 
-**Cultural communication**: at the moment of the briefing Rustam deliberately:
+**Cultural communication**: at the moment of the briefing Mykoła deliberately:
 1. **Uses simple sentences**, avoids Polish idioms ("wychodzi mi" – he avoids it, says "udaje się").
 2. **Shows physically**, not only talks – "here, you see" instead of "in the intermediate cabinet under the desk".
-3. **Asks Oleksij whether he understands** – not "do you understand?" (forces him to admit), only "anything unclear?" (invites a question).
-4. **Oleksij writes questions in the notebook in Ukrainian**, replies in Polish – **Rustam does not force full Polish**, because Ukrainian is natural for Oleksij to understand the concept, and Polish to perform.
+3. **Asks Bohdan whether he understands** – not "do you understand?" (forces him to admit), only "anything unclear?" (invites a question).
+4. **Bohdan writes questions in the notebook in Ukrainian**, replies in Polish – **Mykoła does not force full Polish**, because Ukrainian is natural for Bohdan to understand the concept, and Polish to perform.
 
-This **shared migrant culture** (Uzbek, Ukrainian, Armenian together on the floor) is at EGIDA **an asset, not an obstacle**. Paweł Witkowski (director) deliberately hires migrants from former USSR countries – a shared Russian language (second for all) allows for quick resolution of emergency situations when Polish turns out to be too slow. Today Rustam and Oleksij spoke in Polish, but during question 4 Oleksij used the Russian word "shkafchik" (cabinet), Rustam understood and replied in Polish "foreman's cabinet, second drawer". **Without stress, without discrimination, without extra time.**
+This **shared Ukrainian migrant culture** (three Ukrainians from different regions together on the floor) is at EGIDA **an asset, not an obstacle**. Paweł Witkowski (director) deliberately hires migrants from Ukraine and Colombia – a shared native language allows for quick resolution of emergency situations when Polish turns out to be too slow. Today Mykoła and Bohdan spoke in Polish, but during question 4 Bohdan switched briefly to Ukrainian for the word "shafka" (cabinet), Mykoła understood and replied in Polish "foreman's cabinet, second drawer". **Without stress, without discrimination, without extra time.**
 
 ## Closing scene, 15:00 end of shift
 
-Rustam leaves the floor, parking lot. Oleksij will come back from the locker room in a moment, walks to P3 – **his first solo afternoon starts at 15:00 sharp**. Mr Henryk is already in the drying room, the day shift ends, the night shift (Oleksij + Mr Henryk + sometimes Anton) begins.
+Mykoła leaves the floor, parking lot. Bohdan will come back from the locker room in a moment, walks to P3 – **his first solo afternoon starts at 15:00 sharp**. Mr Henryk is already in the drying room, the day shift ends, the night shift (Bohdan + Mr Henryk + sometimes Anton) begins.
 
-Rustam sits down in his Skoda Fabia, breathes in. **For the first time in his career** he handed over the shift to a new operator on his own. Three months ago he would have been under Marek's supervision. Today alone.
+Mykoła sits down in his Skoda Fabia, breathes in. **For the first time in his career** he handed over the shift to a new operator on his own. Three months ago he would have been under Marek's supervision. Today alone.
 
 The phone vibrates – Marek on WhatsApp:
 
-*"Rustam, I saw the photo of PZ-001. Complete. I will sign in the evening. Oleksij in good hands – he replied to me on WhatsApp that 'Rustam instructor decent, I learned a lot'. You start your day off on Friday – I want to talk tomorrow after 15:00 in the Mazurska café, about career development. I will let you know."*
+*"Mykoła, I saw the photo of PZ-001. Complete. I will sign in the evening. Bohdan in good hands – he replied to me on WhatsApp that 'Mykoła instructor decent, I learned a lot'. You start your day off on Friday – I want to talk tomorrow after 15:00 in the Mazurska café, about career development. I will let you know."*
 
-Rustam smiles. **Tomorrow a talk about development** – Marek said yesterday that he wants to show him "8 career paths". Tomorrow Friday 26.06, Mazurska café, 15:30. **An interesting afternoon is shaping up**.
+Mykoła smiles. **Tomorrow a talk about development** – Marek said yesterday that he wants to show him "8 career paths". Tomorrow Friday 26.06, Mazurska café, 15:30. **An interesting afternoon is shaping up**.
 
-Rustam starts the Skoda's engine, drives out of the EGIDA car park. Day two of the proxy authority ended. Oleksij's afternoon shift in progress.
+Mykoła starts the Skoda's engine, drives out of the EGIDA car park. Day two of the proxy authority ended. Bohdan's afternoon shift in progress.
 
 ## Self-check
 
@@ -322,7 +322,7 @@ Rustam starts the Skoda's engine, drives out of the EGIDA car park. Day two of t
 12. How do you act as the outgoing operator when the substitute is a foreigner with limited Polish?
 13. Why should the outgoing operator **not** use idioms and complex sentences in the on-the-job briefing?
 14. What are the legal consequences of a third repetition of a breach of reg.wew.05/2024 within 24 months?
-15. Why is the shared migrant culture Uzbek-Ukrainian-Armenian an asset at EGIDA, not an obstacle?
+15. Why is the shared migrant culture of three Ukrainians from different regions an asset at EGIDA, not an obstacle?
 
 ## Key terms
 
@@ -339,6 +339,6 @@ Rustam starts the Skoda's engine, drives out of the EGIDA car park. Day two of t
 - **Drobny nadliczbowy 15 min** (PL) / **Minor overtime 15 min** (EN) / **Horas extras menores 15 min** (ES) / **Дрібна понаднормова праця 15 хв** (UK) – unpaid exceeding of the norm up to 15 minutes, EGIDA regulation § 8 sec. 2.
 - **LOTO** (PL) / **LOTO (Lockout/Tagout)** (EN) / **LOTO (Bloqueo/Etiquetado)** (ES) / **LOTO (Блокування/Маркування)** (UK) – procedure of securing an energy source with a named padlock before intervening in a machine.
 - **KKS-001** (PL) / **KKS-001 (Correction Card)** (EN) / **KKS-001 (Tarjeta de Corrección)** (ES) / **KKS-001 (Картка корекції)** (UK) – Service Correction Registry, number of a reported fault entry.
-- **Oleksij Tarasenko** (PL) / **Oleksij Tarasenko** (EN) / **Oleksij Tarasenko** (ES) / **Олексій Тарасенко** (UK) – M3 operator at EGIDA since 05.2026, Ukrainian from Lviv, P3 afternoon shift.
+- **Bohdan Szewczenko** (PL) / **Bohdan Szewczenko** (EN) / **Bohdan Szewczenko** (ES) / **Богдан Шевченко** (UK) – M3 operator at EGIDA since 05.2026, Ukrainian from Lviv, P3 afternoon shift.
 - **Drugi podpis przyjmującego** (PL) / **Incoming operator's countersignature** (EN) / **Segunda firma del entrante** (ES) / **Другий підпис приймаючого** (UK) – condition of formal validity of PZ-001, without which the document is only a note.
 - **Komunikacja kulturowa w instruktażu** (PL) / **Cross-cultural communication in briefing** (EN) / **Comunicación intercultural en la instrucción** (ES) / **Міжкультурна комунікація в інструктажі** (UK) – simple sentences, physical demonstration, encouragement of questions, tolerance of multilingualism.

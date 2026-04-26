@@ -12,7 +12,7 @@ język: pl
 **Adresat**: migrant zarobkowy w Polsce, planujący zatrudnienie w przemyśle tartacznym i stolarskim
 **Język nauczania**: polski (A2 wymagany na wejściu, B1 osiągany na wyjściu); materiały w czterech językach: polski, angielski, hiszpański, ukraiński
 **Cykl**: 12 tygodni (3 moduły × 4 tygodnie), łącznie 316 godzin dydaktycznych + egzaminy końcowe
-**Finansowanie**: projekt „Smart_Egida" (EFS+ 2026-2027, wniosek 2026_004), udział kursanta bezpłatny
+**Finansowanie**: warunki udziału ustala Fundacja EGIDA; kurs jest udostępniany niezależnie od środków projektowych
 **Dokument źródłowy**: specyfikacja `docs/superpowers/specs/2026-04-16-kurs-tartak-design.md`
 
 ## 1. Cel kursu
@@ -81,17 +81,13 @@ Dodatkowe ścieżki rozwoju po M3 (poza programem kursu):
 
 Fundacja EGIDA prowadzi kurs w trzech cyklach rocznych, każdy obejmuje pełny ciąg M1 + M2 + M3. Grupa liczy 8-12 kursantów.
 
-| Cykl | Rekrutacja | M1 | Przerwa międzymodułowa | M2 | Przerwa międzymodułowa | M3 | Egzaminy |
-|------|------------|-----|-----|-----|-----|-----|-----|
-| Jesień 2026 | sierpień 2026 | wrzesień 2026 | 1 tydzień | październik 2026 | 1 tydzień | listopad 2026 | grudzień 2026 |
-| Zima 2026/27 | listopad 2026 | grudzień 2026 | 1 tydzień | styczeń 2027 | 1 tydzień | luty 2027 | marzec 2027 |
-| Wiosna 2027 | luty 2027 | marzec 2027 | 1 tydzień | kwiecień 2027 | 1 tydzień | maj 2027 | czerwiec 2027 |
+Fundacja EGIDA uruchamia kurs w kilku cyklach rocznie, każdy obejmujący pełny ciąg M1 + M2 + M3 oraz dwie przerwy międzymodułowe na staż u partnera tartacznego. Konkretny kalendarz bieżącego cyklu (daty rekrutacji, startu poszczególnych modułów, stażu i egzaminów) przygotowuje i komunikuje koordynator Fundacji.
 
-Przerwa międzymodułowa przeznaczona jest na nieformalny staż u partnera tartacznego (minimum 5 dni roboczych w roli właściwej dla ukończonego modułu). Staż jest finansowany z projektu EFS+ i stanowi warunek dopuszczenia do kolejnego modułu.
+Przerwa międzymodułowa przeznaczona jest na nieformalny staż u partnera tartacznego (minimum 5 dni roboczych w roli właściwej dla ukończonego modułu) i stanowi warunek dopuszczenia do kolejnego modułu.
 
 ## 3. Finansowanie i koszty
 
-Udział kursanta w kursie jest **bezpłatny**. Wszystkie koszty pokrywa projekt „Smart_Egida" (EFS+ 2026-2027), zarządzany przez Fundację EGIDA we współpracy z Ministerstwem Funduszy i Polityki Regionalnej (MFiPR). Budżet projektowy obejmuje:
+Udział kursanta w kursie jest **bezpłatny**. Kurs powstał jako owoc potencjału integracyjnego Fundacji EGIDA i jest finansowany ze środków własnych Fundacji oraz darowizn celowych partnerów. Pełen pakiet kosztowy obejmuje:
 
 - wynagrodzenia trenerów i koordynatora,
 - materiały dydaktyczne (drewno, ŚOI, narzędzia, dostęp do maszyn u partnerów tartacznych),
@@ -132,7 +128,7 @@ Pełna dokumentacja kursanta jest archiwizowana w Fundacji EGIDA przez 10 lat zg
 ## 6. Kontakt
 
 **Fundacja EGIDA**
-biuro projektu „Smart_Egida"
+biuro Fundacji EGIDA
 adres, telefon, e-mail: zgodnie z danymi w prospekcie rekrutacyjnym (dokument D3) oraz na stronie internetowej Fundacji.
 
 Koordynator kursu odpowiada na zapytania dotyczące rekrutacji, harmonogramu i finansowania. Trener prowadzący moduł odpowiada na zapytania merytoryczne dotyczące treści lekcji.
