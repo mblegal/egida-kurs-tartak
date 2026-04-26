@@ -1,5 +1,5 @@
 /* ==========================================================================
-   prezentacja.css — theme Reveal.js dla kursu tartakowego
+   prezentacja.css: theme Reveal.js dla kursu tartakowego
    Nadpisuje bazowy `white.css` naszymi design-tokens (brąz + zieleń + BHP).
    Slajdy 1920×1080, duża typografia (Reveal auto-scaling).
    ========================================================================== */
@@ -7,15 +7,28 @@
 /* --- Reveal container + global typography ------------------------------- */
 .reveal {
   font-family: var(--font-sans);
-  font-size: 36px;
+  font-size: 30px;
   color: var(--text-primary);
   background: var(--bg-primary);
 }
 
 .reveal .slides section {
   text-align: left;
-  padding: 2rem 3rem;
+  padding: 1.5rem 3rem;
   box-sizing: border-box;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: var(--rule, #d9d4c5) transparent;
+}
+.reveal .slides section::-webkit-scrollbar {
+  width: 8px;
+}
+.reveal .slides section::-webkit-scrollbar-thumb {
+  background: var(--rule, #d9d4c5);
+  border-radius: 4px;
+}
+.reveal .slides section::-webkit-scrollbar-track {
+  background: transparent;
 }
 
 /* --- Nagłówki ------------------------------------------------------------ */
@@ -31,10 +44,10 @@
   font-weight: 700;
 }
 
-.reveal h1 { font-size: 3.5em; line-height: 1.05; }
-.reveal h2 { font-size: 2.4em; line-height: 1.1; }
-.reveal h3 { font-size: 1.6em; line-height: 1.2; }
-.reveal h4 { font-size: 1.2em; }
+.reveal h1 { font-size: 2.8em; line-height: 1.05; }
+.reveal h2 { font-size: 2.0em; line-height: 1.1; }
+.reveal h3 { font-size: 1.4em; line-height: 1.2; }
+.reveal h4 { font-size: 1.1em; }
 
 .reveal p,
 .reveal li {
@@ -66,7 +79,7 @@
 
 /* --- Warianty slajdów --------------------------------------------------- */
 
-/* Slajd tytułowy (hero) — gradient brąz→zieleń */
+/* Slajd tytułowy (hero): gradient brąz do zieleń */
 .reveal .slide-title {
   background: linear-gradient(135deg, var(--bg-dark) 0%, var(--accent-primary-dark) 100%);
   color: var(--text-on-dark);
@@ -173,7 +186,7 @@
   display: inline-block;
 }
 
-/* Slajd placeholder — dla lekcji bez .md */
+/* Slajd placeholder: dla lekcji bez .md */
 .reveal .slide-placeholder {
   background: var(--bg-muted);
 }
@@ -218,7 +231,7 @@
   font-size: 1.3em;
 }
 
-/* --- Karty BHP (info/warning/tip/example) — przewymiarowanie dla slajdu --- */
+/* --- Karty BHP (info/warning/tip/example): przewymiarowanie dla slajdu --- */
 .reveal .info-card,
 .reveal .warning-card,
 .reveal .tip-card,
@@ -271,7 +284,7 @@
   margin-left: 0.5em;
 }
 
-/* --- Language switcher — fixed top-right ------------------------------- */
+/* --- Language switcher: fixed top-right ------------------------------- */
 .lang-switcher--presentation {
   position: fixed;
   top: 1rem;
@@ -308,9 +321,9 @@
   color: var(--text-on-dark);
 }
 
-/* --- Elementy hidden dla not-aktywnych języków — Reveal nie pokazuje ukrytego --- */
+/* --- Elementy hidden dla not-aktywnych języków: Reveal nie pokazuje ukrytego --- */
 [data-lang][hidden] {
   display: none !important;
 }
 
-/* Speaker notes są ukryte natywnie przez Reveal.js — nie ruszamy */
+/* Speaker notes są ukryte natywnie przez Reveal.js, nie ruszamy */

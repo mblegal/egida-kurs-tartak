@@ -5,3 +5,9 @@ dist/
 ._*
 podprojekt-b/.iura-queries/
 __pycache__/
+
+# Lokalny stan skilla `remember` (logs/, tmp/, daily files)
+.remember/
+
+# Workfile dla zapytan IURA przez curl JSONRPC (lokalne payloady, nie do repo)
+scripts/_iura_*.json
