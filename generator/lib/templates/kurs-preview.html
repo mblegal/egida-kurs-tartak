@@ -1,0 +1,2629 @@
+<!DOCTYPE html>
+<!--
+  Kurs tartakowy EGIDA — template główny kursu self-study.
+  Wersja: beta (Task 3.7 Step 1: szkielet HTML + grid layout).
+  Placeholdery {{VAR_NAME}} zostaną wprowadzone w Step 5.
+  Języki: ES (default widoczny), UK, EN, PL (na razie hidden przez atrybut `hidden`).
+-->
+<html lang="es" data-current-lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Curso de aserradero — Módulo 1</title>
+
+  <!-- Google Fonts: Inter (sans) + Plus Jakarta Sans (display). Inter ma cyrylicę — wystarcza dla UK. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+
+  <!-- CSS modułowo: design tokens + karty + style kursu. W finalnej wersji standalone (dist/) wszystko pójdzie inline. -->
+  <style>
+/* ==========================================================================
+   Design tokens — kurs tartakowy EGIDA
+   Paleta: brąz (kość słoniowa) + zielone drewno + pomarańcz BHP
+   Branding celowo inny niż MAG Welding (turkus) i EGIDA.html (gold+navy)
+   ========================================================================== */
+
+:root {
+  /* --- Tła --- */
+  --bg-primary: #FAFAF5;              /* kość słoniowa — główne tło */
+  --bg-card: #FFFFFF;                 /* karty i sekcje treści */
+  --bg-dark: #2A1F17;                 /* ciemny brąz — nagłówki, sidebar */
+  --bg-muted: #F5EFE6;                /* lekko ciepły szary dla podziałów */
+
+  /* --- Tekst --- */
+  --text-primary: #2A1F17;            /* główny, ciemny brąz na jasnym tle */
+  --text-muted: #6B5D52;              /* drugorzędny, szary-beż */
+  --text-on-dark: #FAFAF5;            /* tekst na ciemnym tle */
+  --text-link: #4E6A38;               /* linki — ciemna zieleń */
+
+  /* --- Akcent główny (zielone drewno) --- */
+  --accent-primary: #6B8E4E;
+  --accent-primary-dark: #4E6A38;
+  --accent-primary-light: #E8EFDE;
+
+  /* --- Akcent BHP / uwaga (pomarańcz) --- */
+  --accent-warning: #D97706;
+  --accent-warning-bg: #FFF7ED;
+  --accent-warning-border: #FDBA74;
+
+  /* --- Success (ciemna zieleń, inna niż primary) --- */
+  --accent-success: #059669;
+  --accent-success-bg: #ECFDF5;
+  --accent-success-border: #6EE7B7;
+
+  /* --- Danger (czerwony, dla zagrożeń) --- */
+  --accent-danger: #DC2626;
+  --accent-danger-bg: #FEF2F2;
+  --accent-danger-border: #FCA5A5;
+
+  /* --- Info (chłodny niebieski, kontrast do ciepłych tonów) --- */
+  --accent-info: #0369A1;
+  --accent-info-bg: #F0F9FF;
+  --accent-info-border: #7DD3FC;
+
+  /* --- Borders --- */
+  --border: #E7E0D5;
+  --border-light: #F5EFE6;
+
+  /* --- Shadows (ciepły cień zamiast neutralnego) --- */
+  --shadow-sm: 0 1px 2px rgba(42, 31, 23, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(42, 31, 23, 0.07);
+  --shadow-lg: 0 10px 15px -3px rgba(42, 31, 23, 0.08);
+
+  /* --- Radius --- */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+
+  /* --- Fonts --- */
+  --font-sans: 'Inter', -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Plus Jakarta Sans', var(--font-sans);
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+
+  /* --- Font sizes --- */
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.25rem;
+  --fs-2xl: 1.5rem;
+  --fs-3xl: 2rem;
+  --fs-4xl: 2.5rem;
+
+  /* --- Layout --- */
+  --sidebar-width: 320px;
+  --header-height: 64px;
+  --content-max-width: 768px;
+}
+
+/* ==========================================================================
+   Semantyczne karty — zgodne z md-to-html.mjs (containers: info/warning/tip/example/formula)
+   Każda karta renderowana jako <div class="{name}-card">...</div>
+   ========================================================================== */
+
+.info-card,
+.warning-card,
+.tip-card,
+.example-card,
+.formula-card {
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+  border-left: 4px solid;
+  box-shadow: var(--shadow-sm);
+}
+
+.info-card {
+  background: var(--accent-info-bg);
+  border-color: var(--accent-info);
+  color: var(--text-primary);
+}
+
+.warning-card {
+  background: var(--accent-warning-bg);
+  border-color: var(--accent-warning);
+  color: var(--text-primary);
+}
+
+.tip-card {
+  background: var(--accent-success-bg);
+  border-color: var(--accent-success);
+  color: var(--text-primary);
+}
+
+.example-card {
+  background: var(--accent-primary-light);
+  border-color: var(--accent-primary-dark);
+  color: var(--text-primary);
+}
+
+.formula-card {
+  background: var(--bg-muted);
+  border-color: var(--text-muted);
+  font-family: var(--font-mono);
+  font-size: var(--fs-sm);
+  color: var(--text-primary);
+}
+
+/* Nagłówki wewnątrz kart — lżejsza hierarchia niż główne h2/h3 */
+.info-card h3,
+.warning-card h3,
+.tip-card h3,
+.example-card h3,
+.formula-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: var(--fs-lg);
+  font-family: var(--font-sans);
+}
+
+.info-card p:last-child,
+.warning-card p:last-child,
+.tip-card p:last-child,
+.example-card p:last-child,
+.formula-card p:last-child {
+  margin-bottom: 0;
+}
+
+/* ==========================================================================
+   kurs.css — style specyficzne dla kursu tartakowego (layout, typografia)
+   Uzupełnia: design-tokens.css (zmienne) + cards.css (karty info/warning/tip/example/formula)
+   Nie duplikuj tu kolorów — wszystko leci z custom properties z :root.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Step 1: reset + typografia bazowa + grid layout
+   -------------------------------------------------------------------------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  color: var(--text-primary);
+  line-height: 1.25;
+  margin: 0 0 0.75em 0;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+ul, ol {
+  margin: 0 0 1em 0;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.35em;
+}
+
+/* Elementy z atrybutem `hidden` — domyślnie niewidoczne (standardowe, ale wzmacniamy). */
+[hidden] {
+  display: none !important;
+}
+
+/* --- Layout grid --- */
+.app-container {
+  display: grid;
+  grid-template-columns: var(--sidebar-width) 1fr;
+  min-height: 100vh;
+}
+
+/* Hamburger (Step 7) — domyślnie niewidoczny, pokazywany w media query */
+.menu-toggle {
+  display: none;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.3rem 0.65rem;
+  font-size: 1.3rem;
+  line-height: 1;
+  color: var(--text-primary);
+  cursor: pointer;
+  margin-right: 0.75rem;
+  transition: background 120ms ease, border-color 120ms ease;
+}
+
+.menu-toggle:hover {
+  background: var(--bg-muted);
+  border-color: var(--accent-primary);
+}
+
+.content-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+/* Sidebar overlay — niewidoczny dopóki .sidebar-overlay--visible nie doda opacity */
+.sidebar-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 300ms ease;
+  z-index: 99;
+}
+
+.sidebar {
+  background: var(--bg-dark);
+  color: var(--text-on-dark);
+  padding: 1.5rem 1.25rem;
+  overflow-y: auto;
+  position: sticky;
+  top: 0;
+  height: 100vh;
+}
+
+.main-content {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 2rem 2rem 4rem;
+  width: 100%;
+}
+
+/* --------------------------------------------------------------------------
+   Step 2: sidebar — logo, lang-switcher, progress, nawigacja tygodni
+   -------------------------------------------------------------------------- */
+
+/* --- Logo --- */
+.sidebar__logo {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid rgba(250, 250, 245, 0.12);
+}
+
+.sidebar__logo-mark {
+  display: inline-block;
+  padding: 0.5rem 0.85rem;
+  background: var(--accent-primary);
+  color: var(--text-on-dark);
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: var(--fs-lg);
+  letter-spacing: 0.12em;
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow-sm);
+}
+
+.sidebar__logo-subtitle {
+  margin-top: 0.5rem;
+  font-size: var(--fs-sm);
+  color: var(--text-on-dark);
+  opacity: 0.8;
+}
+
+/* --- Language switcher --- */
+.lang-switcher {
+  display: flex;
+  gap: 0.35rem;
+  margin-bottom: 1.5rem;
+}
+
+.lang-btn {
+  flex: 1;
+  padding: 0.4rem 0;
+  background: transparent;
+  color: var(--text-on-dark);
+  border: 1px solid rgba(250, 250, 245, 0.25);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-sans);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+  transition: background 120ms ease, border-color 120ms ease;
+}
+
+.lang-btn:hover {
+  background: rgba(250, 250, 245, 0.08);
+  border-color: rgba(250, 250, 245, 0.45);
+}
+
+.lang-btn--active {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: var(--text-on-dark);
+}
+
+/* --- Progress bar --- */
+.progress {
+  margin-bottom: 1.5rem;
+}
+
+.progress__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.45rem;
+  font-size: var(--fs-sm);
+}
+
+.progress__label {
+  color: var(--text-on-dark);
+  opacity: 0.75;
+}
+
+.progress__value {
+  color: var(--text-on-dark);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.progress__bar {
+  height: 6px;
+  background: rgba(250, 250, 245, 0.12);
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.progress__fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-primary), var(--accent-success));
+  border-radius: 999px;
+  transition: width 300ms ease;
+}
+
+/* --- Nawigacja tygodni --- */
+.weeks-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.week__header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid rgba(250, 250, 245, 0.1);
+}
+
+.week__label {
+  font-size: var(--fs-xs);
+  color: var(--accent-primary);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.week__title {
+  font-family: var(--font-display);
+  font-size: var(--fs-base);
+  color: var(--text-on-dark);
+  font-weight: 700;
+  margin-top: 0.1rem;
+}
+
+.lessons {
+  list-style: decimal inside;
+  margin: 0;
+  padding: 0;
+  color: var(--text-on-dark);
+}
+
+.lesson-item {
+  padding: 0.45rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-sm);
+  line-height: 1.4;
+  color: rgba(250, 250, 245, 0.78);
+  cursor: pointer;
+  transition: background 120ms ease, color 120ms ease;
+  margin-bottom: 0.1rem;
+}
+
+.lesson-item:hover {
+  background: rgba(250, 250, 245, 0.06);
+  color: var(--text-on-dark);
+}
+
+.lesson-item--active {
+  background: var(--accent-primary-dark);
+  color: var(--text-on-dark);
+  font-weight: 600;
+}
+
+.lesson-item--active::marker {
+  color: var(--accent-primary);
+  font-weight: 700;
+}
+
+/* Lekcja ukończona — znacznik ✓ przed tekstem */
+.lesson-item--completed {
+  color: rgba(250, 250, 245, 0.92);
+}
+
+.lesson-item--completed::before {
+  content: '✓ ';
+  color: var(--accent-success);
+  font-weight: 700;
+  margin-right: 0.1em;
+}
+
+/* --------------------------------------------------------------------------
+   Step 3: main content — nagłówek, tytuł lekcji, sekcje, quiz, nawigacja
+   -------------------------------------------------------------------------- */
+
+/* --- Header + breadcrumb --- */
+.content-header {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.breadcrumb {
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
+/* --- Tytuł lekcji + meta --- */
+.lesson-title {
+  font-size: var(--fs-3xl);
+  font-weight: 800;
+  margin: 0.5rem 0 0.35rem 0;
+  color: var(--text-primary);
+  letter-spacing: -0.02em;
+}
+
+.lesson-meta {
+  font-size: var(--fs-sm);
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+}
+
+.lesson-meta__separator {
+  margin: 0 0.5rem;
+}
+
+/* --- Sekcje lekcji (karty z cieniem) --- */
+.lesson-section {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 1.75rem 1.75rem 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.lesson-section__title {
+  font-size: var(--fs-2xl);
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+  border-bottom: 2px solid var(--accent-primary-light);
+  padding-bottom: 0.5rem;
+}
+
+.lesson-section h3 {
+  font-size: var(--fs-xl);
+  font-weight: 700;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: var(--accent-primary-dark);
+}
+
+.lesson-section p + h3 {
+  margin-top: 1.5rem;
+}
+
+/* Elementy inline — linki, akcentowanie */
+.lesson-section a {
+  color: var(--text-link);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.lesson-section strong {
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+/* --- Listy objetivos --- */
+.objectives {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.objectives li {
+  margin-bottom: 0.5rem;
+  line-height: 1.55;
+}
+
+/* --- Kluczowe terminy --- */
+.key-terms__intro {
+  font-size: var(--fs-base);
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+}
+
+.key-terms {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.key-terms li {
+  padding: 0.75rem 1rem;
+  background: var(--bg-muted);
+  border-left: 3px solid var(--accent-primary);
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-base);
+  line-height: 1.5;
+}
+
+.key-terms li strong {
+  color: var(--accent-primary-dark);
+  font-family: var(--font-display);
+}
+
+.key-terms li em {
+  font-style: normal;
+  color: var(--text-muted);
+}
+
+/* --- Mini quiz --- */
+.mini-quiz {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.mini-quiz__question {
+  padding: 1rem 1.25rem;
+  background: var(--bg-muted);
+  border-radius: var(--radius-md);
+}
+
+.mini-quiz__prompt {
+  margin: 0 0 0.75rem 0;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.mini-quiz__options {
+  margin: 0;
+  padding-left: 1.5em;
+}
+
+.mini-quiz__option {
+  position: relative;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 0.35rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: border-color 120ms ease, background 120ms ease;
+}
+
+.mini-quiz__option:hover {
+  border-color: var(--accent-primary);
+}
+
+.mini-quiz__option--correct {
+  background: var(--accent-success-bg);
+  border-color: var(--accent-success);
+  color: var(--accent-success);
+  font-weight: 600;
+}
+
+.mini-quiz__option--correct::after {
+  content: ' ✓';
+  color: var(--accent-success);
+  font-weight: 700;
+  margin-left: 0.35em;
+}
+
+.mini-quiz__option--incorrect {
+  background: var(--accent-danger-bg);
+  border-color: var(--accent-danger);
+  color: var(--accent-danger);
+  font-weight: 600;
+}
+
+.mini-quiz__option--incorrect::after {
+  content: ' ✕';
+  color: var(--accent-danger);
+  font-weight: 700;
+  margin-left: 0.35em;
+}
+
+.mini-quiz__option--locked {
+  cursor: default;
+  pointer-events: none;
+}
+
+.mini-quiz__feedback {
+  margin-top: 0.75rem;
+  padding: 0.6rem 0.85rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  font-size: var(--fs-sm);
+  transition: opacity 200ms ease;
+}
+
+.mini-quiz__feedback--correct {
+  background: var(--accent-success-bg);
+  color: var(--accent-success);
+  border: 1px solid var(--accent-success-border);
+}
+
+.mini-quiz__feedback--incorrect {
+  background: var(--accent-danger-bg);
+  color: var(--accent-danger);
+  border: 1px solid var(--accent-danger-border);
+}
+
+/* --- Placeholder dla lekcji jeszcze niewygenerowanych (Task 3.8) --- */
+.lesson-placeholder {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  background: var(--bg-muted);
+  border: 1px dashed var(--border);
+  border-radius: var(--radius-lg);
+  color: var(--text-muted);
+}
+
+.lesson-placeholder h1.lesson-title {
+  color: var(--text-primary);
+  font-size: var(--fs-2xl);
+  margin-bottom: 0.75rem;
+}
+
+.lesson-placeholder p {
+  margin: 0;
+  font-size: var(--fs-base);
+}
+
+.mini-quiz__badge {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.5rem;
+  background: var(--accent-success);
+  color: #fff;
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  border-radius: 999px;
+  font-style: normal;
+}
+
+/* --- Sekcja trainer-notes-only (dla prezentacji trenera) --- */
+/* Ukryta w self-study kursie. Wersja trenera zdejmie tę klasę przez inny build. */
+.trainer-notes-only {
+  display: none !important;
+}
+
+/* --- Nawigacja między lekcjami --- */
+.lesson-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.lesson-nav__btn {
+  flex: 1;
+  padding: 0.85rem 1.25rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  font-weight: 600;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: background 120ms ease, border-color 120ms ease, transform 120ms ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.lesson-nav__btn:hover:not(:disabled) {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: var(--text-on-dark);
+}
+
+.lesson-nav__btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.lesson-nav__btn--next {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: var(--text-on-dark);
+}
+
+.lesson-nav__btn--next:hover {
+  background: var(--accent-primary-dark);
+  border-color: var(--accent-primary-dark);
+  transform: translateX(2px);
+}
+
+/* --------------------------------------------------------------------------
+   Step 6: widok końcowego quizu modułu
+   -------------------------------------------------------------------------- */
+
+/* Przycisk otwierający quiz — w sidebarze, poniżej listy tygodni */
+.final-quiz-open {
+  margin-top: 1.5rem;
+  width: 100%;
+  padding: 0.85rem 1rem;
+  background: linear-gradient(135deg, var(--accent-warning), #B45309);
+  color: var(--text-on-dark);
+  border: none;
+  border-radius: var(--radius-md);
+  font-family: var(--font-display);
+  font-size: var(--fs-base);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.final-quiz-open:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Kontener widoku */
+.final-quiz-view {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 2rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.final-quiz-header {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--accent-warning);
+}
+
+.final-quiz-title {
+  font-size: var(--fs-3xl);
+  font-weight: 800;
+  margin: 0 0 0.35rem 0;
+  color: var(--text-primary);
+  letter-spacing: -0.02em;
+}
+
+.final-quiz-info {
+  margin: 0;
+  font-size: var(--fs-base);
+  color: var(--text-muted);
+}
+
+.final-quiz-questions {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.final-quiz-question {
+  padding: 1.1rem 1.25rem;
+  background: var(--bg-muted);
+  border-radius: var(--radius-md);
+}
+
+.final-quiz-question__prompt {
+  margin: 0 0 0.75rem 0;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.final-quiz-options {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.final-quiz-options label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 0.5rem 0.7rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: border-color 120ms ease;
+}
+
+.final-quiz-options label:hover {
+  border-color: var(--accent-primary);
+}
+
+.final-quiz-options input[type="radio"] {
+  margin-top: 0.2em;
+  accent-color: var(--accent-primary);
+}
+
+/* Akcje (submit + back) */
+.final-quiz-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.final-quiz-submit,
+.final-quiz-back {
+  padding: 0.85rem 1.5rem;
+  border-radius: var(--radius-md);
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: background 120ms ease, transform 120ms ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.final-quiz-submit {
+  background: var(--accent-primary);
+  color: var(--text-on-dark);
+  border-color: var(--accent-primary);
+}
+
+.final-quiz-submit:hover {
+  background: var(--accent-primary-dark);
+  border-color: var(--accent-primary-dark);
+  transform: translateY(-1px);
+}
+
+.final-quiz-back {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border-color: var(--border);
+}
+
+.final-quiz-back:hover {
+  background: var(--bg-muted);
+  border-color: var(--accent-primary);
+}
+
+/* Wynik */
+.final-quiz-result {
+  padding: 1.75rem;
+  background: var(--bg-muted);
+  border-radius: var(--radius-md);
+  text-align: center;
+}
+
+.final-quiz-result__title {
+  font-family: var(--font-display);
+  font-size: var(--fs-2xl);
+  font-weight: 800;
+  margin: 0 0 0.5rem 0;
+}
+
+.final-quiz-result__title--passed {
+  color: var(--accent-success);
+}
+
+.final-quiz-result__title--failed {
+  color: var(--accent-danger);
+}
+
+.final-quiz-result__score {
+  font-size: var(--fs-lg);
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 1.25rem;
+}
+
+.final-quiz-result__actions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.final-quiz-result__btn {
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-md);
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--text-primary);
+  transition: background 120ms ease, border-color 120ms ease;
+}
+
+.final-quiz-result__btn--retake {
+  background: var(--accent-primary);
+  color: var(--text-on-dark);
+  border-color: var(--accent-primary);
+}
+
+.final-quiz-result__btn--retake:hover {
+  background: var(--accent-primary-dark);
+  border-color: var(--accent-primary-dark);
+}
+
+.final-quiz-result__btn--back:hover {
+  border-color: var(--accent-primary);
+  background: var(--bg-muted);
+}
+
+/* --------------------------------------------------------------------------
+   Step 7: responsywność ≤1024px — sidebar wysuwany (hamburger) + overlay
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 1024px) {
+  .app-container {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: min(85vw, 320px);
+    height: 100vh;
+    transform: translateX(-100%);
+    transition: transform 300ms ease;
+    z-index: 100;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .sidebar--open {
+    transform: translateX(0);
+  }
+
+  .menu-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .sidebar-overlay {
+    display: block; /* faktyczna widoczność sterowana przez opacity */
+  }
+
+  .sidebar-overlay--visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  /* Main content zajmuje całą szerokość (bez marginesu na sidebar) */
+  .main-content {
+    padding: 1.25rem 1rem 3rem;
+  }
+
+  /* Mniej oddechów w nagłówkach lekcji na wąskich ekranach */
+  .lesson-title {
+    font-size: var(--fs-2xl);
+  }
+
+  .lesson-section {
+    padding: 1.25rem 1.1rem 1rem;
+  }
+
+  .final-quiz-view {
+    padding: 1.25rem;
+  }
+
+  .final-quiz-title {
+    font-size: var(--fs-2xl);
+  }
+}
+
+  </style>
+</head>
+<body>
+  <!-- TEMPLATE: replace with {{COURSE_TITLE}} / {{MODULE_TITLE}} in Step 5 -->
+
+  <!-- Overlay mobilny (Step 7) — widoczny tylko gdy sidebar jest otwarty na ≤1024px -->
+  <div class="sidebar-overlay" aria-hidden="true"></div>
+
+  <div class="app-container">
+
+    <!-- =====================================================================
+         SIDEBAR — logo, language switcher, progress, nawigacja tygodni
+         ===================================================================== -->
+    <aside id="course-sidebar" class="sidebar" aria-label="Navegación del curso">
+
+      <!-- Logo blok -->
+      <div class="sidebar__logo">
+        <div class="sidebar__logo-mark" aria-hidden="true">TARTAK</div>
+        <div class="sidebar__logo-subtitle">
+          <span data-lang="es">Curso de aserradero</span>
+          <span data-lang="uk" hidden>Курс лісопильника</span>
+          <span data-lang="en" hidden>Sawmill Course</span>
+          <span data-lang="pl" hidden>Kurs tartakowy</span>
+        </div>
+      </div>
+
+      <!-- Language switcher — statyczny wygląd. Interakcja = Step 4. -->
+      <!-- TODO Step 4: podłączyć onclick -> toggle hidden po data-lang, set html[lang] i data-current-lang -->
+      <nav class="lang-switcher" aria-label="Language selector">
+        <button type="button" class="lang-btn lang-btn--active" data-lang-target="es" aria-pressed="true">ES</button>
+        <button type="button" class="lang-btn" data-lang-target="uk" aria-pressed="false">UK</button>
+        <button type="button" class="lang-btn" data-lang-target="en" aria-pressed="false">EN</button>
+        <button type="button" class="lang-btn" data-lang-target="pl" aria-pressed="false">PL</button>
+      </nav>
+
+      <!-- Progress bar — statycznie 0%. Podłączenie logiki = Step 5. -->
+      <!-- TODO Step 5: procent i width fill liczone z COURSE.progress w localStorage -->
+      <div class="progress">
+        <div class="progress__header">
+          <span class="progress__label">
+            <span data-lang="es">Progreso</span>
+            <span data-lang="uk" hidden>Прогрес</span>
+            <span data-lang="en" hidden>Progress</span>
+            <span data-lang="pl" hidden>Postęp</span>
+          </span>
+          <span class="progress__value">0%</span>
+        </div>
+        <div class="progress__bar" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">
+          <div class="progress__fill" style="width: 0%;"></div>
+        </div>
+      </div>
+
+      <!-- Nawigacja 4 tygodni -->
+      <nav class="weeks-nav" aria-label="Lista de lecciones">
+
+        <!-- =========================================================
+             Semana 1 — Seguridad (blok: bezpieczenstwo)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 1</span>
+              <span data-lang="uk" hidden>Тиждень 1</span>
+              <span data-lang="en" hidden>Week 1</span>
+              <span data-lang="pl" hidden>Tydzień 1</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Seguridad</span>
+              <span data-lang="uk" hidden>Безпека</span>
+              <span data-lang="en" hidden>Safety</span>
+              <span data-lang="pl" hidden>Bezpieczeństwo</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item lesson-item--active" data-lesson-id="m1-w1-l1" aria-current="page">
+              <span data-lang="es">Por qué un aserradero es diferente</span>
+              <span data-lang="uk" hidden>Чому лісопилка — особливе місце</span>
+              <span data-lang="en" hidden>Why a Sawmill Is Different</span>
+              <span data-lang="pl" hidden>Dlaczego tartak jest inny</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l2">
+              <span data-lang="es">Riesgos mecánicos a tu alrededor</span>
+              <span data-lang="uk" hidden>Механічні небезпеки навколо тебе</span>
+              <span data-lang="en" hidden>Mechanical Hazards Around You</span>
+              <span data-lang="pl" hidden>Zagrożenia mechaniczne wokół ciebie</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l3">
+              <span data-lang="es">Polvo de madera y ruido — riesgos silenciosos</span>
+              <span data-lang="uk" hidden>Деревний пил і шум — тихі небезпеки</span>
+              <span data-lang="en" hidden>Wood Dust and Noise — Silent Hazards</span>
+              <span data-lang="pl" hidden>Pył drzewny i hałas — ciche zagrożenia</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l4">
+              <span data-lang="es">Riesgos de incendio en el aserradero</span>
+              <span data-lang="uk" hidden>Пожежні небезпеки на лісопилці</span>
+              <span data-lang="en" hidden>Fire Hazards in the Sawmill</span>
+              <span data-lang="pl" hidden>Zagrożenia pożarowe w tartaku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l5">
+              <span data-lang="es">Ropa de protección y EPP</span>
+              <span data-lang="uk" hidden>Захисний одяг та ЗІЗ</span>
+              <span data-lang="en" hidden>Protective Clothing and PPE</span>
+              <span data-lang="pl" hidden>Odzież ochronna i ŚOI</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l6">
+              <span data-lang="es">Zonas de trabajo y señalización</span>
+              <span data-lang="uk" hidden>Робочі зони і розмітка у цеху</span>
+              <span data-lang="en" hidden>Work Zones and Floor Markings</span>
+              <span data-lang="pl" hidden>Strefy pracy w hali i oznaczenia</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l7">
+              <span data-lang="es">Primeros auxilios ante un accidente</span>
+              <span data-lang="uk" hidden>Перша допомога при нещасному випадку</span>
+              <span data-lang="en" hidden>First Aid After an Accident</span>
+              <span data-lang="pl" hidden>Pierwsza pomoc przy wypadku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w1-l8">
+              <span data-lang="es">Evacuación, alarma y PARO de emergencia</span>
+              <span data-lang="uk" hidden>Евакуація, тривога і аварійний СТОП</span>
+              <span data-lang="en" hidden>Evacuation, Alarm, and Emergency STOP</span>
+              <span data-lang="pl" hidden>Ewakuacja, alarm i STOP awaryjny</span>
+            </li>
+          </ol>
+        </section>
+
+        <!-- =========================================================
+             Semana 2 — Material (blok: material)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 2</span>
+              <span data-lang="uk" hidden>Тиждень 2</span>
+              <span data-lang="en" hidden>Week 2</span>
+              <span data-lang="pl" hidden>Tydzień 2</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Material</span>
+              <span data-lang="uk" hidden>Матеріал</span>
+              <span data-lang="en" hidden>Material</span>
+              <span data-lang="pl" hidden>Materiał</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item" data-lesson-id="m1-w2-l1">
+              <span data-lang="es">La madera como materia prima — estructura del tronco</span>
+              <span data-lang="uk" hidden>Деревина як сировина — будова колоди</span>
+              <span data-lang="en" hidden>Wood as a Raw Material — Log Structure</span>
+              <span data-lang="pl" hidden>Drewno jako surowiec — budowa kłody</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l2">
+              <span data-lang="es">Especies locales — pino, abeto, roble, haya, abedul</span>
+              <span data-lang="uk" hidden>Місцеві породи — сосна, ялина, дуб, бук, береза</span>
+              <span data-lang="en" hidden>Local Species — Pine, Spruce, Oak, Beech, Birch</span>
+              <span data-lang="pl" hidden>Gatunki krajowe — sosna, świerk, dąb, buk, brzoza</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l3">
+              <span data-lang="es">Del rollizo a la madera aserrada — terminología del patio</span>
+              <span data-lang="uk" hidden>Від кругляка до пиломатеріалів — термінологія майданчика</span>
+              <span data-lang="en" hidden>From Log Length to Lumber — Yard Terminology</span>
+              <span data-lang="pl" hidden>Od dłużycy do tarcicy — terminologia placu</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l4">
+              <span data-lang="es">Defectos de la madera visibles a simple vista</span>
+              <span data-lang="uk" hidden>Вади деревини, помітні неозброєним оком</span>
+              <span data-lang="en" hidden>Wood Defects Visible to the Naked Eye</span>
+              <span data-lang="pl" hidden>Wady drewna widoczne gołym okiem</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l5">
+              <span data-lang="es">Herramientas manuales en el aserradero</span>
+              <span data-lang="uk" hidden>Ручні інструменти на лісопилці</span>
+              <span data-lang="en" hidden>Hand Tools in the Sawmill</span>
+              <span data-lang="pl" hidden>Narzędzia ręczne w tartaku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l6">
+              <span data-lang="es">Máquinas «desde fuera» — sierra de bastidor, de cinta y circular</span>
+              <span data-lang="uk" hidden>Машини «ззовні» — рамна, стрічкова і дискова пилки</span>
+              <span data-lang="en" hidden>Machines "From the Outside" — Frame, Band, and Circular Saws</span>
+              <span data-lang="pl" hidden>Maszyny „z zewnątrz" — pilarki ramowa, taśmowa, tarczowa</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l7">
+              <span data-lang="es">Maquinaria auxiliar y de transporte</span>
+              <span data-lang="uk" hidden>Допоміжні і транспортні машини</span>
+              <span data-lang="en" hidden>Support and Transport Machinery</span>
+              <span data-lang="pl" hidden>Maszyny pomocnicze i transportowe</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w2-l8">
+              <span data-lang="es">Madera seca vs. húmeda — qué significa para ti</span>
+              <span data-lang="uk" hidden>Суха і волога деревина — що це означає для тебе</span>
+              <span data-lang="en" hidden>Dry vs. Wet Wood — What It Means for You</span>
+              <span data-lang="pl" hidden>Drewno suche vs mokre — co to dla ciebie znaczy</span>
+            </li>
+          </ol>
+        </section>
+
+        <!-- =========================================================
+             Semana 3 — Procesos (blok: procesy)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 3</span>
+              <span data-lang="uk" hidden>Тиждень 3</span>
+              <span data-lang="en" hidden>Week 3</span>
+              <span data-lang="pl" hidden>Tydzień 3</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Procesos</span>
+              <span data-lang="uk" hidden>Процеси</span>
+              <span data-lang="en" hidden>Processes</span>
+              <span data-lang="pl" hidden>Procesy</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item" data-lesson-id="m1-w3-l1">
+              <span data-lang="es">El papel del ayudante en la línea de producción</span>
+              <span data-lang="uk" hidden>Роль помічника у виробничому процесі</span>
+              <span data-lang="en" hidden>The Helper's Role in the Production Line</span>
+              <span data-lang="pl" hidden>Rola pomocnika w ciągu produkcyjnym</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l2">
+              <span data-lang="es">Transporte manual de madera — reglas y límites</span>
+              <span data-lang="uk" hidden>Ручне перенесення деревини — правила і ліміти</span>
+              <span data-lang="en" hidden>Manual Wood Handling — Rules and Limits</span>
+              <span data-lang="pl" hidden>Transport ręczny drewna — zasady i limity</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l3">
+              <span data-lang="es">Descarga y almacenamiento de troncos en el patio</span>
+              <span data-lang="uk" hidden>Розвантаження і складування колод на майданчику</span>
+              <span data-lang="en" hidden>Unloading and Storing Logs in the Yard</span>
+              <span data-lang="pl" hidden>Rozładunek i składowanie kłód na placu</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l4">
+              <span data-lang="es">Apilado de madera con separadores</span>
+              <span data-lang="uk" hidden>Укладання пиломатеріалів у штабелі з прокладками</span>
+              <span data-lang="en" hidden>Stacking Lumber with Stickers</span>
+              <span data-lang="pl" hidden>Układanie tarcicy w stosy z przekładkami</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l5">
+              <span data-lang="es">Dar y recibir material al operador</span>
+              <span data-lang="uk" hidden>Подавання і прийом матеріалу від оператора</span>
+              <span data-lang="en" hidden>Feeding and Receiving Material with the Operator</span>
+              <span data-lang="pl" hidden>Podawanie i odbieranie materiału operatorowi</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l6">
+              <span data-lang="es">Serrado, cepillado y medición manuales</span>
+              <span data-lang="uk" hidden>Ручне пиляння, стругання, вимірювання</span>
+              <span data-lang="en" hidden>Hand Sawing, Planing, and Measuring</span>
+              <span data-lang="pl" hidden>Ręczne piłowanie, struganie, pomiar</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l7">
+              <span data-lang="es">Orden en el puesto — serrín, virutas, residuos</span>
+              <span data-lang="uk" hidden>Порядок на робочому місці — тирса, стружка, відходи</span>
+              <span data-lang="en" hidden>Workstation Housekeeping — Sawdust, Chips, Waste</span>
+              <span data-lang="pl" hidden>Porządek stanowiska — trociny, wióry, odpad</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w3-l8">
+              <span data-lang="es">Marcado e identificación del material</span>
+              <span data-lang="uk" hidden>Маркування та ідентифікація матеріалу</span>
+              <span data-lang="en" hidden>Material Marking and Identification</span>
+              <span data-lang="pl" hidden>Oznaczanie i identyfikacja materiału</span>
+            </li>
+          </ol>
+        </section>
+
+        <!-- =========================================================
+             Semana 4 — Organización (blok: organizacja)
+             ========================================================= -->
+        <section class="week">
+          <header class="week__header">
+            <span class="week__label">
+              <span data-lang="es">Semana 4</span>
+              <span data-lang="uk" hidden>Тиждень 4</span>
+              <span data-lang="en" hidden>Week 4</span>
+              <span data-lang="pl" hidden>Tydzień 4</span>
+            </span>
+            <span class="week__title">
+              <span data-lang="es">Organización</span>
+              <span data-lang="uk" hidden>Організація</span>
+              <span data-lang="en" hidden>Organization</span>
+              <span data-lang="pl" hidden>Organizacja</span>
+            </span>
+          </header>
+          <ol class="lessons">
+            <li class="lesson-item" data-lesson-id="m1-w4-l1">
+              <span data-lang="es">El ritmo de la jornada en el aserradero</span>
+              <span data-lang="uk" hidden>Ритм дня на лісопилці</span>
+              <span data-lang="en" hidden>The Rhythm of a Sawmill Day</span>
+              <span data-lang="pl" hidden>Rytm dnia w tartaku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l2">
+              <span data-lang="es">Preparar tu propio puesto de trabajo</span>
+              <span data-lang="uk" hidden>Підготовка власного робочого місця</span>
+              <span data-lang="en" hidden>Preparing Your Own Workstation</span>
+              <span data-lang="pl" hidden>Przygotowanie własnego stanowiska pracy</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l3">
+              <span data-lang="es">Comunicación en la brigada con ruido</span>
+              <span data-lang="uk" hidden>Спілкування в бригаді в умовах шуму</span>
+              <span data-lang="en" hidden>Crew Communication in Noise</span>
+              <span data-lang="pl" hidden>Komunikacja w brygadzie przy hałasie</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l4">
+              <span data-lang="es">Términos y órdenes clave en polaco</span>
+              <span data-lang="uk" hidden>Ключові польські терміни і команди</span>
+              <span data-lang="en" hidden>Key Polish Terms and Commands</span>
+              <span data-lang="pl" hidden>Kluczowe polskie terminy i komunikaty</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l5">
+              <span data-lang="es">Documentación básica en el puesto</span>
+              <span data-lang="uk" hidden>Базова документація на робочому місці</span>
+              <span data-lang="en" hidden>Basic Workstation Paperwork</span>
+              <span data-lang="pl" hidden>Podstawowa dokumentacja na stanowisku</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l6">
+              <span data-lang="es">Reporte de incidentes, averías y peligros</span>
+              <span data-lang="uk" hidden>Повідомлення про події, несправності та небезпеки</span>
+              <span data-lang="en" hidden>Reporting Incidents, Faults, and Hazards</span>
+              <span data-lang="pl" hidden>Raportowanie zdarzeń, usterek i niebezpieczeństw</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l7">
+              <span data-lang="es">Resumen de M1 — qué has aprendido</span>
+              <span data-lang="uk" hidden>Підсумок М1 — чого ти навчився</span>
+              <span data-lang="en" hidden>M1 Recap — What You've Learned</span>
+              <span data-lang="pl" hidden>Podsumowanie M1 — czego się nauczyłeś</span>
+            </li>
+            <li class="lesson-item" data-lesson-id="m1-w4-l8">
+              <span data-lang="es">Examen teórico + preparación para la práctica</span>
+              <span data-lang="uk" hidden>Теоретичний тест + підготовка до практики</span>
+              <span data-lang="en" hidden>Theory Test + Practical Prep</span>
+              <span data-lang="pl" hidden>Sprawdzian teoretyczny + przygotowanie do praktyki</span>
+            </li>
+          </ol>
+        </section>
+
+      </nav>
+
+      <!-- Przycisk otwierający końcowy quiz modułu (Step 6) -->
+      <button type="button" class="final-quiz-open">
+        <span data-lang="es">🏆 Examen final del módulo</span>
+        <span data-lang="uk" hidden>🏆 Підсумковий іспит модуля</span>
+        <span data-lang="en" hidden>🏆 Final module exam</span>
+        <span data-lang="pl" hidden>🏆 Egzamin końcowy modułu</span>
+      </button>
+
+    </aside>
+
+    <!-- =====================================================================
+         MAIN CONTENT — lekcja m1-w1-l1 „Por qué un aserradero es diferente"
+         ===================================================================== -->
+    <main class="main-content" aria-label="Contenido de la lección">
+
+      <!-- Breadcrumb / nagłówek pasek -->
+      <header class="content-header">
+        <!-- Hamburger mobile (Step 7) — widoczny tylko na ≤1024px -->
+        <button type="button" class="menu-toggle" aria-label="Menú" aria-controls="course-sidebar" aria-expanded="false">☰</button>
+        <div class="breadcrumb" aria-label="breadcrumb">
+          <span data-lang="es">Módulo 1 / Semana 1 / Lección 1</span>
+          <span data-lang="uk" hidden>Модуль 1 / Тиждень 1 / Урок 1</span>
+          <span data-lang="en" hidden>Module 1 / Week 1 / Lesson 1</span>
+          <span data-lang="pl" hidden>Moduł 1 / Tydzień 1 / Lekcja 1</span>
+        </div>
+      </header>
+
+      <!-- =====================================================================
+           Wrapper treści lekcji. Jedna <article.lesson> na każdą lekcję;
+           widoczna jest tylko ta z data-lesson-id pasującym do aktywnej pozycji
+           w sidebarze. Dla Step 5 mamy rozpisaną jedną lekcję (m1-w1-l1) +
+           placeholder dla pozostałych 31 (finalne treści wygenerują się w Task 3.8).
+           ===================================================================== -->
+      <div class="lesson-content-wrapper">
+
+      <!-- ============ Lekcja m1-w1-l1 — „Por qué un aserradero es diferente" ============ -->
+      <article class="lesson" data-lesson-id="m1-w1-l1">
+
+      <!-- Tytuł lekcji -->
+      <h1 class="lesson-title">
+        <span data-lang="es">Por qué un aserradero es diferente</span>
+        <span data-lang="uk" hidden>Чому лісопилка — особливе місце</span>
+        <span data-lang="en" hidden>Why a Sawmill Is Different</span>
+        <span data-lang="pl" hidden>Dlaczego tartak jest inny</span>
+      </h1>
+
+      <!-- Meta info -->
+      <div class="lesson-meta">
+        <span class="lesson-meta__item">
+          <span data-lang="es">Duración: 120 min</span>
+          <span data-lang="uk" hidden>Тривалість: 120 хв</span>
+          <span data-lang="en" hidden>Duration: 120 min</span>
+          <span data-lang="pl" hidden>Czas: 120 min</span>
+        </span>
+        <span class="lesson-meta__separator" aria-hidden="true">·</span>
+        <span class="lesson-meta__item">
+          <span data-lang="es">Bloque: Seguridad</span>
+          <span data-lang="uk" hidden>Блок: Безпека</span>
+          <span data-lang="en" hidden>Block: Safety</span>
+          <span data-lang="pl" hidden>Blok: Bezpieczeństwo</span>
+        </span>
+      </div>
+
+      <!-- =====================================================================
+           7 sekcji lekcji (widocznych). 8-ma (notas para el formador) UKRYTA przez .trainer-notes-only.
+           ===================================================================== -->
+
+      <!-- Sekcja 1: Introducción -->
+      <section class="lesson-section">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">1. Introducción</span>
+          <span data-lang="uk" hidden>1. Вступ</span>
+          <span data-lang="en" hidden>1. Introduction</span>
+          <span data-lang="pl" hidden>1. Wprowadzenie</span>
+        </h2>
+
+        <div data-lang="es">
+          <p>Un aserradero no es una fábrica común. Aquí trabajas rodeado de troncos pesados, máquinas que cortan madera en décimas de segundo y polvo fino que no siempre se ve. Las lesiones más frecuentes en este sector no son pequeños cortes, sino amputaciones, golpes por rechazo y pérdida auditiva.</p>
+          <p>Por eso este curso empieza por la seguridad, y no por el manejo de máquinas. Antes de tocar nada, necesitas entender por qué el aserradero es diferente de otros lugares de trabajo y qué peligros debes reconocer desde el primer día.</p>
+        </div>
+        <div data-lang="uk" hidden>
+          <p>Лісопилка — це не звичайна фабрика. Тут ти працюєш серед важких колод, машин, що розрізають деревину за десяті частки секунди, і дрібного пилу, який не завжди видно. Найчастіші травми у цій галузі — це не дрібні порізи, а ампутації, удари від віддачі та втрата слуху.</p>
+          <p>Саме тому цей курс починається з безпеки, а не з роботи на машинах. Перш ніж торкнутися чогось, ти маєш зрозуміти, чим лісопилка відрізняється від інших робочих місць і які небезпеки мусиш розпізнавати від першого дня.</p>
+        </div>
+        <div data-lang="en" hidden>
+          <p>A sawmill is not an ordinary factory. You work surrounded by heavy logs, machines that cut wood in fractions of a second, and fine dust that isn't always visible. The most common injuries in this sector are not small cuts — they are amputations, kickback impacts, and hearing loss.</p>
+          <p>That's why this course starts with safety, not with operating machines. Before you touch anything, you need to understand how a sawmill differs from other workplaces and which hazards you must recognize from day one.</p>
+        </div>
+        <div data-lang="pl" hidden>
+          <p>Tartak to nie zwykła fabryka. Pracujesz tu wśród ciężkich kłód, maszyn, które tną drewno w ułamkach sekundy, i drobnego pyłu, którego nie zawsze widać. Najczęstsze urazy w tej branży to nie drobne skaleczenia, lecz amputacje, uderzenia od odrzutu i utrata słuchu.</p>
+          <p>Dlatego ten kurs zaczyna się od BHP, a nie od obsługi maszyn. Zanim czegokolwiek dotkniesz, musisz zrozumieć, czym tartak różni się od innych zakładów pracy i jakie zagrożenia masz rozpoznać od pierwszego dnia.</p>
+        </div>
+      </section>
+
+      <!-- Sekcja 2: Objetivos -->
+      <section class="lesson-section">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">2. Objetivos</span>
+          <span data-lang="uk" hidden>2. Цілі</span>
+          <span data-lang="en" hidden>2. Objectives</span>
+          <span data-lang="pl" hidden>2. Cele</span>
+        </h2>
+
+        <ul class="objectives" data-lang="es">
+          <li>Explicas con tus palabras tres razones por las que un aserradero es más peligroso que un almacén o una oficina.</li>
+          <li>Nombras los cuatro grupos principales de riesgos de un aserradero: mecánicos, polvo y ruido, incendio, caídas y golpes.</li>
+          <li>Entiendes por qué la formación de seguridad va antes que la formación en el manejo de máquinas.</li>
+        </ul>
+        <ul class="objectives" data-lang="uk" hidden>
+          <li>Поясниш своїми словами три причини, чому лісопилка небезпечніша за склад чи офіс.</li>
+          <li>Назвеш чотири основні групи ризиків на лісопилці: механічні, пил і шум, пожежа, падіння та удари.</li>
+          <li>Розумієш, чому навчання з безпеки передує навчанню роботі на машинах.</li>
+        </ul>
+        <ul class="objectives" data-lang="en" hidden>
+          <li>Explain in your own words three reasons why a sawmill is more dangerous than a warehouse or an office.</li>
+          <li>Name the four main hazard groups in a sawmill: mechanical, dust and noise, fire, falls and impacts.</li>
+          <li>Understand why safety training comes before training in machine operation.</li>
+        </ul>
+        <ul class="objectives" data-lang="pl" hidden>
+          <li>Potrafisz własnymi słowami podać trzy powody, dla których tartak jest bardziej niebezpieczny niż magazyn albo biuro.</li>
+          <li>Nazywasz cztery główne grupy zagrożeń w tartaku: mechaniczne, pył i hałas, pożar, upadki i uderzenia.</li>
+          <li>Rozumiesz, dlaczego szkolenie BHP idzie przed szkoleniem z obsługi maszyn.</li>
+        </ul>
+      </section>
+
+      <!-- Sekcja 3: Contenido — tu demonstrujemy wszystkie 4 karty (info, warning, tip, example) -->
+      <section class="lesson-section">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">3. Contenido</span>
+          <span data-lang="uk" hidden>3. Зміст</span>
+          <span data-lang="en" hidden>3. Content</span>
+          <span data-lang="pl" hidden>3. Treść</span>
+        </h2>
+
+        <div data-lang="es">
+          <h3>¿Qué hace que un aserradero sea distinto?</h3>
+          <p>En una fábrica de metal, los peligros están concentrados en máquinas individuales y casi siempre están cercados. En un almacén, la mayor parte del riesgo viene del tráfico de carretillas y de las caídas desde altura. En un aserradero tienes <strong>todo eso a la vez</strong> — más cuatro peligros que son específicos de la madera.</p>
+
+          <div class="info-card">
+            <h3>Cuatro grupos de riesgo específicos del aserradero</h3>
+            <p><strong>1. Mecánicos:</strong> cortes, amputaciones y golpes por rechazo de la madera (el tronco sale disparado de la sierra a gran velocidad). <strong>2. Polvo y ruido:</strong> el polvo de roble y haya es cancerígeno, el ruido diario por encima de 85 dB daña el oído de forma permanente. <strong>3. Incendio:</strong> el polvo de madera es explosivo cuando se acumula y las virutas prenden con una sola chispa. <strong>4. Caídas y cargas:</strong> pilas mal apiladas que se derrumban, troncos que ruedan, tablas que golpean.</p>
+          </div>
+
+          <h3>La ilusión del trabajo «fácil»</h3>
+          <p>La madera parece un material «blando» comparado con el acero o la piedra. Esto es una trampa: un tronco de roble de 3 metros pesa unos 200 kg, una tabla de pino húmeda puede pesar el doble que seca, y el borde recién aserrado de una tabla corta como un cuchillo. La sensación de estar en un entorno «natural» baja la guardia — y bajar la guardia en un aserradero cuesta dedos.</p>
+
+          <div class="warning-card">
+            <h3>Riesgo específico: el rechazo (kickback)</h3>
+            <p>Cuando la madera queda atrapada entre la sierra y la guía, puede salir disparada hacia el operador o hacia quien esté detrás a más de 30 m/s. A esa velocidad, una tabla de 2 kg tiene la energía de una bala. Por eso <strong>nunca te colocas en la línea de corte, ni siquiera detrás del operador</strong>. En M1 aprenderás a identificar esta línea en cada máquina del taller.</p>
+          </div>
+
+          <h3>El polvo que no ves</h3>
+          <p>El polvo fino de madera (menor que 5 µm) no se posa rápido — se queda flotando durante horas y entra a los pulmones. El roble y el haya están clasificados como cancerígenos del Grupo 1 por la IARC, al mismo nivel que el amianto. No verás el daño hoy ni mañana, pero se acumula con cada turno sin mascarilla adecuada.</p>
+
+          <div class="tip-card">
+            <h3>Consejo práctico</h3>
+            <p>Si al final del turno te suenas la nariz y el pañuelo sale del color de la madera con la que trabajaste ese día, tu mascarilla <strong>no es suficiente</strong>. Ese polvo debería quedar atrapado en el filtro, no en tu cuerpo. Pide al capataz una mascarilla FFP3 y asegúrate de que la colocas ajustada a la cara, sin barba de por medio.</p>
+          </div>
+
+          <h3>Ritmo y fatiga</h3>
+          <p>Una jornada típica en un aserradero polaco dura 8 horas con una pausa corta. El ruido y la concentración visual constante cansan más rápido que el esfuerzo físico. Los accidentes no ocurren en la primera hora — ocurren en la séptima, cuando reaccionas 0,5 segundos tarde al gesto del operador.</p>
+
+          <div class="example-card">
+            <h3>Ejemplo real (anonimizado, aserradero de Pomerania, 2024)</h3>
+            <p>Un trabajador auxiliar con dos semanas en el puesto pasó por detrás de una sierra de cinta «un momento» para coger una herramienta. El operador estaba terminando un corte y no lo vio. La tabla salió rechazada y le golpeó el hombro. Resultado: clavícula rota, 6 semanas de baja. Lección: <strong>nunca se cruza por detrás de una máquina en marcha</strong> — se rodea por la ruta marcada, aunque sean 15 segundos más.</p>
+          </div>
+
+          <h3>Lo que vamos a cubrir en la Semana 1</h3>
+          <p>En las ocho lecciones de esta semana aprenderás a reconocer los riesgos mecánicos, el polvo y el ruido, los peligros de incendio, a elegir tu equipo de protección (EPP), a leer la señalización del suelo, los primeros auxilios básicos y cómo reaccionar ante una alarma. Al final de la semana sabrás estar en el taller sin ser un peligro para ti ni para los demás — aunque todavía no sepas operar ni una sola máquina.</p>
+        </div>
+
+        <div data-lang="uk" hidden>
+          <h3>Чим лісопилка відрізняється від інших місць роботи?</h3>
+          <p>На металевому заводі небезпеки зосереджені на окремих машинах і майже завжди огороджені. На складі більшість ризику пов'язана з рухом навантажувачів і падіннями з висоти. На лісопилці ти маєш <strong>усе це одночасно</strong> — плюс чотири небезпеки, характерні для деревини.</p>
+          <div class="info-card">
+            <h3>Чотири групи ризиків, характерних для лісопилки</h3>
+            <p><strong>1. Механічні:</strong> порізи, ампутації та удари від віддачі деревини (колода вилітає з пилки з великою швидкістю). <strong>2. Пил і шум:</strong> пил з дуба і бука є канцерогенним, щоденний шум понад 85 дБ безповоротно пошкоджує слух. <strong>3. Пожежа:</strong> деревний пил вибухонебезпечний при накопиченні, а стружка займається від однієї іскри. <strong>4. Падіння і вантажі:</strong> погано складені штабелі обвалюються, колоди котяться, дошки б'ють.</p>
+          </div>
+          <div class="warning-card">
+            <h3>Характерний ризик — віддача (kickback)</h3>
+            <p>Коли деревина застряє між пилкою і напрямною, вона може вилетіти в бік оператора або того, хто стоїть позаду, зі швидкістю понад 30 м/с. При такій швидкості дошка вагою 2 кг має енергію кулі. Тому <strong>ти ніколи не стаєш у лінії різу, навіть за спиною оператора</strong>.</p>
+          </div>
+          <div class="tip-card">
+            <h3>Практична порада</h3>
+            <p>Якщо в кінці зміни ти висякнеш ніс і на хустці залишається колір деревини, з якою ти сьогодні працював — твоя маска <strong>недостатня</strong>. Попроси бригадира маску FFP3 і одягай її щільно, без бороди.</p>
+          </div>
+          <div class="example-card">
+            <h3>Реальний приклад (анонімізований, лісопилка в Помор'ї, 2024)</h3>
+            <p>Помічник з двотижневим стажем пройшов за стрічковою пилкою «на секунду», щоб узяти інструмент. Оператор не бачив його. Дошка вилетіла і вдарила в плече. Результат — зламана ключиця, 6 тижнів лікарняного. Висновок: <strong>ніколи не обходь машину в роботі ззаду</strong>.</p>
+          </div>
+        </div>
+
+        <div data-lang="en" hidden>
+          <h3>What makes a sawmill different?</h3>
+          <p>In a steel factory, hazards are concentrated on individual machines and are almost always fenced off. In a warehouse, most of the risk comes from forklift traffic and falls from height. In a sawmill you get <strong>all of that at once</strong> — plus four wood-specific hazards.</p>
+          <div class="info-card">
+            <h3>Four risk groups specific to a sawmill</h3>
+            <p><strong>1. Mechanical:</strong> cuts, amputations, and kickback impacts (the log flies off the saw at high speed). <strong>2. Dust and noise:</strong> oak and beech dust is carcinogenic; daily noise above 85 dB permanently damages hearing. <strong>3. Fire:</strong> wood dust is explosive when it accumulates, and chips ignite from a single spark. <strong>4. Falls and loads:</strong> badly stacked piles collapse, logs roll, boards strike.</p>
+          </div>
+          <div class="warning-card">
+            <h3>Sawmill-specific hazard: kickback</h3>
+            <p>When wood jams between the blade and the guide, it can fly toward the operator or whoever stands behind at over 30 m/s. At that speed, a 2 kg board carries the energy of a bullet. That's why <strong>you never stand in the line of cut, not even behind the operator</strong>.</p>
+          </div>
+          <div class="tip-card">
+            <h3>Practical tip</h3>
+            <p>If, at the end of your shift, you blow your nose and the tissue comes out the color of the wood you worked with today, your mask is <strong>not enough</strong>. Ask the foreman for an FFP3 mask and make sure it seals against your face — no beard in between.</p>
+          </div>
+          <div class="example-card">
+            <h3>Real example (anonymized, Pomeranian sawmill, 2024)</h3>
+            <p>A helper with two weeks on the job walked behind a bandsaw "for a second" to grab a tool. The operator didn't see him. The board kicked back and hit his shoulder. Result: broken collarbone, 6 weeks off. Lesson: <strong>never cross behind a running machine</strong> — walk around by the marked route, even if it takes 15 extra seconds.</p>
+          </div>
+        </div>
+
+        <div data-lang="pl" hidden>
+          <h3>Czym tartak różni się od innych miejsc pracy?</h3>
+          <p>W fabryce metalu zagrożenia są skupione na pojedynczych maszynach i prawie zawsze są ogrodzone. W magazynie większość ryzyka pochodzi z ruchu wózków widłowych i upadków z wysokości. W tartaku masz <strong>wszystko to naraz</strong> — plus cztery zagrożenia specyficzne dla drewna.</p>
+          <div class="info-card">
+            <h3>Cztery grupy zagrożeń specyficznych dla tartaku</h3>
+            <p><strong>1. Mechaniczne:</strong> skaleczenia, amputacje i uderzenia od odrzutu drewna (kłoda wylatuje z pilarki z dużą prędkością). <strong>2. Pył i hałas:</strong> pył z dębu i buku jest kancerogenny, codzienny hałas powyżej 85 dB trwale uszkadza słuch. <strong>3. Pożar:</strong> pył drzewny jest wybuchowy przy nagromadzeniu, a wióry zapalają się od jednej iskry. <strong>4. Upadki i ciężary:</strong> źle ułożone stosy się walą, kłody się toczą, deski uderzają.</p>
+          </div>
+          <div class="warning-card">
+            <h3>Zagrożenie specyficzne — odrzut (kickback)</h3>
+            <p>Gdy drewno zakleszczy się między piłą a prowadnicą, może wylecieć w stronę operatora albo osoby stojącej z tyłu z prędkością ponad 30 m/s. Przy takiej prędkości deska 2 kg ma energię pocisku. Dlatego <strong>nigdy nie stajesz w linii cięcia, nawet za plecami operatora</strong>.</p>
+          </div>
+          <div class="tip-card">
+            <h3>Wskazówka praktyczna</h3>
+            <p>Jeśli na koniec zmiany wytrzesz nos, a chusteczka zabarwi się na kolor drewna, z którym dziś pracowałeś — twoja maska jest <strong>niewystarczająca</strong>. Poproś brygadzistę o maskę FFP3 i zakładaj ją szczelnie do twarzy, bez brody między filtrem a skórą.</p>
+          </div>
+          <div class="example-card">
+            <h3>Przykład rzeczywisty (zanonimizowany, tartak na Pomorzu, 2024)</h3>
+            <p>Pracownik pomocniczy po dwóch tygodniach pracy przeszedł za pilarką taśmową „na chwilę", żeby wziąć narzędzie. Operator go nie zauważył. Deska wyleciała z odrzutu i uderzyła w bark. Skutek: złamany obojczyk, 6 tygodni L4. Wniosek: <strong>nigdy nie przechodzisz za pracującą maszyną</strong> — obchodzisz ją wyznaczoną trasą, choćby miało to trwać 15 sekund dłużej.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Sekcja 4: Términos clave — misja integracyjna: PL termin + 4 tlumaczenia w KAZDYM wariancie -->
+      <section class="lesson-section">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">4. Términos clave</span>
+          <span data-lang="uk" hidden>4. Ключові терміни</span>
+          <span data-lang="en" hidden>4. Key Terms</span>
+          <span data-lang="pl" hidden>4. Kluczowe terminy</span>
+        </h2>
+
+        <p class="key-terms__intro" data-lang="es">Aprende el término <strong>polaco</strong> (es el que vas a escuchar en el taller) y asócialo con las traducciones que ya conoces. El pictograma te ayuda a recordarlo.</p>
+        <p class="key-terms__intro" data-lang="uk" hidden>Вивчай <strong>польський</strong> термін (саме його ти почуєш у цеху) і пов'язуй його з перекладами, які знаєш. Піктограма допоможе запам'ятати.</p>
+        <p class="key-terms__intro" data-lang="en" hidden>Learn the <strong>Polish</strong> term (that's what you'll hear in the workshop) and link it to the translations you already know. The pictogram helps you remember.</p>
+        <p class="key-terms__intro" data-lang="pl" hidden>Ucz się terminu <strong>polskiego</strong> (tego usłyszysz w hali) i łącz go z tłumaczeniami, które znasz. Piktogram pomaga zapamiętać.</p>
+
+        <ul class="key-terms">
+          <li><strong>tartak</strong> 🏭 — <em>sawmill · aserradero · лісопилка</em></li>
+          <li><strong>odrzut</strong> 💥 — <em>kickback · rechazo · віддача</em></li>
+          <li><strong>pył drzewny</strong> 💨 — <em>wood dust · polvo de madera · деревний пил</em></li>
+          <li><strong>hałas</strong> 🔊 — <em>noise · ruido · шум</em></li>
+          <li><strong>BHP (bezpieczeństwo i higiena pracy)</strong> 🦺 — <em>occupational safety · seguridad laboral · охорона праці</em></li>
+          <li><strong>ŚOI (środki ochrony indywidualnej)</strong> 👷 — <em>PPE · EPP · ЗІЗ</em></li>
+        </ul>
+      </section>
+
+      <!-- Sekcja 5: Comprueba tu conocimiento — mini quiz statyczny -->
+      <section class="lesson-section">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">5. Comprueba tu conocimiento</span>
+          <span data-lang="uk" hidden>5. Перевір свої знання</span>
+          <span data-lang="en" hidden>5. Check Your Knowledge</span>
+          <span data-lang="pl" hidden>5. Sprawdź siebie</span>
+        </h2>
+
+        <!-- TODO Step 5: podłączyć JS scoring + feedback + przechowywanie w localStorage -->
+        <div class="mini-quiz">
+          <!-- Pytanie 1 -->
+          <div class="mini-quiz__question">
+            <p class="mini-quiz__prompt">
+              <span data-lang="es"><strong>1.</strong> ¿Cuál de los siguientes riesgos es específico del trabajo en un aserradero y no aparece en una oficina ni en un almacén típico?</span>
+              <span data-lang="uk" hidden><strong>1.</strong> Який із ризиків характерний саме для лісопилки і не трапляється в офісі чи на звичайному складі?</span>
+              <span data-lang="en" hidden><strong>1.</strong> Which of the following hazards is specific to sawmill work and does not occur in an office or a typical warehouse?</span>
+              <span data-lang="pl" hidden><strong>1.</strong> Które z poniższych zagrożeń jest specyficzne dla pracy w tartaku i nie występuje w biurze ani typowym magazynie?</span>
+            </p>
+            <ol class="mini-quiz__options" type="a">
+              <li class="mini-quiz__option">
+                <span data-lang="es">Resbalón en suelo mojado</span>
+                <span data-lang="uk" hidden>Послизнутися на мокрій підлозі</span>
+                <span data-lang="en" hidden>Slipping on a wet floor</span>
+                <span data-lang="pl" hidden>Poślizgnięcie na mokrej podłodze</span>
+              </li>
+              <li class="mini-quiz__option" data-correct="true">
+                <span data-lang="es">Rechazo (kickback) de la madera desde la sierra</span>
+                <span data-lang="uk" hidden>Віддача (kickback) деревини від пилки</span>
+                <span data-lang="en" hidden>Wood kickback from the saw</span>
+                <span data-lang="pl" hidden>Odrzut (kickback) drewna z pilarki</span>
+              </li>
+              <li class="mini-quiz__option">
+                <span data-lang="es">Fatiga visual por pantallas</span>
+                <span data-lang="uk" hidden>Втома очей від екранів</span>
+                <span data-lang="en" hidden>Eye strain from screens</span>
+                <span data-lang="pl" hidden>Zmęczenie oczu od ekranów</span>
+              </li>
+              <li class="mini-quiz__option">
+                <span data-lang="es">Cortes con papel</span>
+                <span data-lang="uk" hidden>Порізи папером</span>
+                <span data-lang="en" hidden>Paper cuts</span>
+                <span data-lang="pl" hidden>Skaleczenia papierem</span>
+              </li>
+            </ol>
+          </div>
+
+          <!-- Pytanie 2 -->
+          <div class="mini-quiz__question">
+            <p class="mini-quiz__prompt">
+              <span data-lang="es"><strong>2.</strong> ¿Por qué este curso empieza por la seguridad y no por el manejo de máquinas?</span>
+              <span data-lang="uk" hidden><strong>2.</strong> Чому цей курс починається з безпеки, а не з роботи на машинах?</span>
+              <span data-lang="en" hidden><strong>2.</strong> Why does this course start with safety rather than with machine operation?</span>
+              <span data-lang="pl" hidden><strong>2.</strong> Dlaczego ten kurs zaczyna się od BHP, a nie od obsługi maszyn?</span>
+            </p>
+            <ol class="mini-quiz__options" type="a">
+              <li class="mini-quiz__option">
+                <span data-lang="es">Porque es más barato enseñar seguridad primero</span>
+                <span data-lang="uk" hidden>Бо дешевше спершу навчати безпеки</span>
+                <span data-lang="en" hidden>Because it's cheaper to teach safety first</span>
+                <span data-lang="pl" hidden>Bo taniej jest najpierw uczyć BHP</span>
+              </li>
+              <li class="mini-quiz__option">
+                <span data-lang="es">Porque la ley obliga a hacerlo en ese orden</span>
+                <span data-lang="uk" hidden>Бо закон вимагає такого порядку</span>
+                <span data-lang="en" hidden>Because the law requires that order</span>
+                <span data-lang="pl" hidden>Bo prawo wymaga takiej kolejności</span>
+              </li>
+              <li class="mini-quiz__option" data-correct="true">
+                <span data-lang="es">Porque necesitas poder estar en el taller sin ser un peligro antes de tocar una máquina</span>
+                <span data-lang="uk" hidden>Бо ти маєш уміти перебувати у цеху, не створюючи небезпеки, перш ніж торкнешся машини</span>
+                <span data-lang="en" hidden>Because you must be able to be in the workshop without being a danger before you touch any machine</span>
+                <span data-lang="pl" hidden>Bo musisz umieć być w hali nie stanowiąc zagrożenia, zanim dotkniesz jakiejkolwiek maszyny</span>
+              </li>
+              <li class="mini-quiz__option">
+                <span data-lang="es">Porque las máquinas son muy complicadas</span>
+                <span data-lang="uk" hidden>Бо машини дуже складні</span>
+                <span data-lang="en" hidden>Because the machines are very complicated</span>
+                <span data-lang="pl" hidden>Bo maszyny są bardzo skomplikowane</span>
+              </li>
+            </ol>
+          </div>
+
+          <!-- Pytanie 3 -->
+          <div class="mini-quiz__question">
+            <p class="mini-quiz__prompt">
+              <span data-lang="es"><strong>3.</strong> ¿Qué característica del polvo fino de madera lo hace especialmente peligroso?</span>
+              <span data-lang="uk" hidden><strong>3.</strong> Яка властивість дрібного деревного пилу робить його особливо небезпечним?</span>
+              <span data-lang="en" hidden><strong>3.</strong> Which property of fine wood dust makes it especially dangerous?</span>
+              <span data-lang="pl" hidden><strong>3.</strong> Która cecha drobnego pyłu drzewnego czyni go szczególnie niebezpiecznym?</span>
+            </p>
+            <ol class="mini-quiz__options" type="a">
+              <li class="mini-quiz__option">
+                <span data-lang="es">Tiene olor fuerte</span>
+                <span data-lang="uk" hidden>Має сильний запах</span>
+                <span data-lang="en" hidden>It has a strong smell</span>
+                <span data-lang="pl" hidden>Ma silny zapach</span>
+              </li>
+              <li class="mini-quiz__option" data-correct="true">
+                <span data-lang="es">Queda flotando en el aire durante horas y entra a los pulmones sin notarlo</span>
+                <span data-lang="uk" hidden>Тримається в повітрі годинами і потрапляє в легені непомітно</span>
+                <span data-lang="en" hidden>It stays airborne for hours and enters the lungs unnoticed</span>
+                <span data-lang="pl" hidden>Utrzymuje się w powietrzu godzinami i wchodzi do płuc niepostrzeżenie</span>
+              </li>
+              <li class="mini-quiz__option">
+                <span data-lang="es">Cambia de color con la humedad</span>
+                <span data-lang="uk" hidden>Змінює колір від вологи</span>
+                <span data-lang="en" hidden>It changes color with moisture</span>
+                <span data-lang="pl" hidden>Zmienia kolor przy wilgoci</span>
+              </li>
+              <li class="mini-quiz__option">
+                <span data-lang="es">Solo es peligroso en climas fríos</span>
+                <span data-lang="uk" hidden>Небезпечний лише в холодному кліматі</span>
+                <span data-lang="en" hidden>It's only dangerous in cold climates</span>
+                <span data-lang="pl" hidden>Jest niebezpieczny tylko w zimnym klimacie</span>
+              </li>
+            </ol>
+          </div>
+        </div>
+      </section>
+
+      <!-- Sekcja 6: Enlace con la práctica -->
+      <section class="lesson-section">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">6. Enlace con la práctica</span>
+          <span data-lang="uk" hidden>6. Зв'язок з практикою</span>
+          <span data-lang="en" hidden>6. Link to Practice</span>
+          <span data-lang="pl" hidden>6. Link do praktyki</span>
+        </h2>
+
+        <div data-lang="es">
+          <p>En la semana de prácticas, tu capataz te hará caminar por el taller <strong>sin tocar ninguna máquina</strong>. Te va a pedir que señales en voz alta: «aquí hay polvo acumulado», «aquí pasa la línea de corte», «aquí tendría que ponerme mascarilla». Lo que hoy parece teoría será mañana la diferencia entre volver a casa entero o con una venda.</p>
+        </div>
+        <div data-lang="uk" hidden>
+          <p>На тижні практики бригадир проведе тебе цехом <strong>без того, щоб ти торкався машин</strong>. Він попросить тебе голосом позначати: «тут накопичений пил», «тут проходить лінія різу», «тут я мав би надіти маску». Те, що сьогодні здається теорією, завтра стане різницею між тим, щоб повернутися додому цілим або з пов'язкою.</p>
+        </div>
+        <div data-lang="en" hidden>
+          <p>During the practical week, your foreman will walk you through the workshop <strong>without touching any machine</strong>. He'll ask you to call out loud: "here there's accumulated dust", "here runs the line of cut", "here I would need to put on a mask". What looks like theory today will be tomorrow the difference between going home whole or with a bandage.</p>
+        </div>
+        <div data-lang="pl" hidden>
+          <p>W tygodniu praktycznym brygadzista przeprowadzi cię przez halę <strong>bez dotykania żadnej maszyny</strong>. Poprosi cię, żebyś głośno wskazywał: „tu jest nagromadzony pył", „tu biegnie linia cięcia", „tu musiałbym założyć maskę". To, co dziś wygląda na teorię, jutro będzie różnicą między wróceniem do domu w całości a z bandażem.</p>
+        </div>
+      </section>
+
+      <!-- Sekcja 7: Notas para el formador — UKRYTA w self-study (widoczna tylko w wersji trenerskiej) -->
+      <section class="lesson-section trainer-notes-only" aria-hidden="true">
+        <h2 class="lesson-section__title">
+          <span data-lang="es">7. Notas para el formador</span>
+          <span data-lang="uk" hidden>7. Нотатки для викладача</span>
+          <span data-lang="en" hidden>7. Notes for the Trainer</span>
+          <span data-lang="pl" hidden>7. Notatki dla trenera</span>
+        </h2>
+        <div data-lang="es">
+          <ul>
+            <li><strong>Tiempo:</strong> 15 min introducción + 30 min contenido + 20 min discusión del ejemplo real + 15 min quiz + 10 min términos + 30 min tareas. Ajustar si el grupo tiene experiencia previa.</li>
+            <li><strong>Dinámica sugerida:</strong> comenzar preguntando «¿en qué otros trabajos habéis estado?» — usar las respuestas para contrastar con el aserradero.</li>
+            <li><strong>Material:</strong> fotos de un accidente por kickback (con consentimiento), muestra de polvo FFP3 vs mascarilla quirúrgica.</li>
+            <li><strong>Señal de alarma:</strong> si un participante dice «pero si en mi pueblo todos cortan madera sin nada», parar y discutir — no ridiculizar.</li>
+          </ul>
+        </div>
+        <div data-lang="uk" hidden>
+          <ul>
+            <li><strong>Час:</strong> 15 хв вступу + 30 хв змісту + 20 хв обговорення реального прикладу + 15 хв тесту + 10 хв термінів + 30 хв завдань.</li>
+            <li><strong>Динаміка:</strong> почати з питання «на яких роботах ви вже були?» — використати відповіді для контрасту з лісопилкою.</li>
+            <li><strong>Сигнал тривоги:</strong> якщо учасник каже «у моєму селі всі ріжуть деревину без нічого» — зупинись і обговори, без насмішок.</li>
+          </ul>
+        </div>
+        <div data-lang="en" hidden>
+          <ul>
+            <li><strong>Timing:</strong> 15 min intro + 30 min content + 20 min real-example discussion + 15 min quiz + 10 min terms + 30 min tasks.</li>
+            <li><strong>Group dynamic:</strong> open by asking "what other jobs have you worked?" — use the answers to contrast with the sawmill.</li>
+            <li><strong>Red flag:</strong> if a participant says "in my village everyone cuts wood without anything", stop and discuss — do not ridicule.</li>
+          </ul>
+        </div>
+        <div data-lang="pl" hidden>
+          <ul>
+            <li><strong>Czas:</strong> 15 min wprowadzenia + 30 min treści + 20 min omówienia realnego przykładu + 15 min quizu + 10 min terminów + 30 min zadań.</li>
+            <li><strong>Dynamika grupy:</strong> zacznij od pytania „w jakich innych zakładach pracowaliście?" — użyj odpowiedzi do porównania z tartakiem.</li>
+            <li><strong>Sygnał alarmowy:</strong> jeśli uczestnik mówi „u mnie we wsi wszyscy tną drewno bez niczego", zatrzymaj się i przedyskutuj — nie wyśmiewaj.</li>
+          </ul>
+        </div>
+      </section>
+
+      </article><!-- /lekcja m1-w1-l1 -->
+
+      <!-- ============ Placeholder dla 31 pozostałych lekcji M1 ============
+           W Task 3.8 (build-kurs.mjs) ten blok zostanie zastąpiony 31 pełnymi
+           <article>-ami wygenerowanymi z content/M1/**.md. Na razie wyświetla
+           komunikat, że lekcja jest w przygotowaniu. ===================== -->
+      <article class="lesson lesson--placeholder" data-lesson-id="__placeholder__" hidden>
+        <div class="lesson-placeholder" data-lang="es">
+          <h1 class="lesson-title">Lección en preparación</h1>
+          <p>Esta lección se generará en el Task 3.8 (build-kurs.mjs). Por ahora estás viendo solo la lección de prueba <strong>m1-w1-l1</strong>.</p>
+        </div>
+        <div class="lesson-placeholder" data-lang="uk" hidden>
+          <h1 class="lesson-title">Урок у підготовці</h1>
+          <p>Цей урок буде згенеровано в Task 3.8 (build-kurs.mjs). Наразі ти бачиш лише тестовий урок <strong>m1-w1-l1</strong>.</p>
+        </div>
+        <div class="lesson-placeholder" data-lang="en" hidden>
+          <h1 class="lesson-title">Lesson in preparation</h1>
+          <p>This lesson will be generated in Task 3.8 (build-kurs.mjs). For now, you are only seeing the sample lesson <strong>m1-w1-l1</strong>.</p>
+        </div>
+        <div class="lesson-placeholder" data-lang="pl" hidden>
+          <h1 class="lesson-title">Lekcja w przygotowaniu</h1>
+          <p>Ta lekcja zostanie wygenerowana w Task 3.8 (build-kurs.mjs). Na razie widzisz tylko przykładową lekcję <strong>m1-w1-l1</strong>.</p>
+        </div>
+      </article>
+
+      </div><!-- /.lesson-content-wrapper -->
+
+      <!-- =====================================================================
+           FINAL QUIZ VIEW (Step 6) — ukryty domyślnie.
+           TEMPLATE: 5 sample pytań, w Task 3.8 będą wstawione z content/M1/quizzes.json.
+           Nagłówek mówi „20 pytań · ≥70%", ale tu jest 5 jako placeholder — pass ≥ 70% (min 4/5).
+           ===================================================================== -->
+      <section class="final-quiz-view" hidden aria-label="Examen final">
+
+        <header class="final-quiz-header">
+          <h1 class="final-quiz-title">
+            <span data-lang="es">Examen final — Módulo 1</span>
+            <span data-lang="uk" hidden>Підсумковий іспит — Модуль 1</span>
+            <span data-lang="en" hidden>Final exam — Module 1</span>
+            <span data-lang="pl" hidden>Egzamin końcowy — Moduł 1</span>
+          </h1>
+          <p class="final-quiz-info">
+            <span data-lang="es">20 preguntas · Aprobado ≥ 70%</span>
+            <span data-lang="uk" hidden>20 питань · Прохідний бал ≥ 70%</span>
+            <span data-lang="en" hidden>20 questions · Pass ≥ 70%</span>
+            <span data-lang="pl" hidden>20 pytań · Zaliczenie ≥ 70%</span>
+          </p>
+        </header>
+
+        <form class="final-quiz-form" novalidate>
+          <ol class="final-quiz-questions">
+
+            <!-- ================ Pytanie 1 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>1.</strong> ¿Cuál de estos es un riesgo específico del aserradero?</span>
+                <span data-lang="uk" hidden><strong>1.</strong> Який із цих ризиків характерний саме для лісопилки?</span>
+                <span data-lang="en" hidden><strong>1.</strong> Which of these is a sawmill-specific hazard?</span>
+                <span data-lang="pl" hidden><strong>1.</strong> Które z poniższych zagrożeń jest specyficzne dla tartaku?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q1" value="a">
+                  <span data-lang="es">Fatiga visual por pantallas</span>
+                  <span data-lang="uk" hidden>Втома очей від екранів</span>
+                  <span data-lang="en" hidden>Eye strain from screens</span>
+                  <span data-lang="pl" hidden>Zmęczenie oczu od ekranów</span>
+                </label></li>
+                <li><label><input type="radio" name="q1" value="b" data-correct="true">
+                  <span data-lang="es">Rechazo (kickback) de la madera</span>
+                  <span data-lang="uk" hidden>Віддача (kickback) деревини</span>
+                  <span data-lang="en" hidden>Wood kickback</span>
+                  <span data-lang="pl" hidden>Odrzut (kickback) drewna</span>
+                </label></li>
+                <li><label><input type="radio" name="q1" value="c">
+                  <span data-lang="es">Cortes con papel</span>
+                  <span data-lang="uk" hidden>Порізи папером</span>
+                  <span data-lang="en" hidden>Paper cuts</span>
+                  <span data-lang="pl" hidden>Skaleczenia papierem</span>
+                </label></li>
+                <li><label><input type="radio" name="q1" value="d">
+                  <span data-lang="es">Electricidad estática</span>
+                  <span data-lang="uk" hidden>Статична електрика</span>
+                  <span data-lang="en" hidden>Static electricity</span>
+                  <span data-lang="pl" hidden>Elektryczność statyczna</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 2 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>2.</strong> ¿A partir de qué nivel de ruido diario se daña el oído de forma permanente?</span>
+                <span data-lang="uk" hidden><strong>2.</strong> З якого рівня щоденного шуму слух пошкоджується назавжди?</span>
+                <span data-lang="en" hidden><strong>2.</strong> Above what daily noise level is hearing damage permanent?</span>
+                <span data-lang="pl" hidden><strong>2.</strong> Od jakiego poziomu codziennego hałasu słuch jest uszkadzany trwale?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q2" value="a">
+                  <span data-lang="es">60 dB</span>
+                  <span data-lang="uk" hidden>60 дБ</span>
+                  <span data-lang="en" hidden>60 dB</span>
+                  <span data-lang="pl" hidden>60 dB</span>
+                </label></li>
+                <li><label><input type="radio" name="q2" value="b">
+                  <span data-lang="es">70 dB</span>
+                  <span data-lang="uk" hidden>70 дБ</span>
+                  <span data-lang="en" hidden>70 dB</span>
+                  <span data-lang="pl" hidden>70 dB</span>
+                </label></li>
+                <li><label><input type="radio" name="q2" value="c" data-correct="true">
+                  <span data-lang="es">85 dB</span>
+                  <span data-lang="uk" hidden>85 дБ</span>
+                  <span data-lang="en" hidden>85 dB</span>
+                  <span data-lang="pl" hidden>85 dB</span>
+                </label></li>
+                <li><label><input type="radio" name="q2" value="d">
+                  <span data-lang="es">120 dB</span>
+                  <span data-lang="uk" hidden>120 дБ</span>
+                  <span data-lang="en" hidden>120 dB</span>
+                  <span data-lang="pl" hidden>120 dB</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 3 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>3.</strong> ¿Qué tipo de mascarilla es adecuado frente al polvo fino de madera?</span>
+                <span data-lang="uk" hidden><strong>3.</strong> Яка маска підходить проти дрібного деревного пилу?</span>
+                <span data-lang="en" hidden><strong>3.</strong> Which mask is suitable against fine wood dust?</span>
+                <span data-lang="pl" hidden><strong>3.</strong> Która maska nadaje się przeciw drobnemu pyłowi drzewnemu?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q3" value="a">
+                  <span data-lang="es">Mascarilla quirúrgica</span>
+                  <span data-lang="uk" hidden>Хірургічна маска</span>
+                  <span data-lang="en" hidden>Surgical mask</span>
+                  <span data-lang="pl" hidden>Maska chirurgiczna</span>
+                </label></li>
+                <li><label><input type="radio" name="q3" value="b">
+                  <span data-lang="es">Bufanda de tela</span>
+                  <span data-lang="uk" hidden>Тканинний шарф</span>
+                  <span data-lang="en" hidden>Fabric scarf</span>
+                  <span data-lang="pl" hidden>Szalik z tkaniny</span>
+                </label></li>
+                <li><label><input type="radio" name="q3" value="c" data-correct="true">
+                  <span data-lang="es">Mascarilla FFP3 ajustada a la cara</span>
+                  <span data-lang="uk" hidden>Маска FFP3, щільно припасована</span>
+                  <span data-lang="en" hidden>FFP3 mask sealed to the face</span>
+                  <span data-lang="pl" hidden>Maska FFP3 szczelnie dopasowana</span>
+                </label></li>
+                <li><label><input type="radio" name="q3" value="d">
+                  <span data-lang="es">Ninguna — el polvo no es peligroso</span>
+                  <span data-lang="uk" hidden>Жодна — пил не небезпечний</span>
+                  <span data-lang="en" hidden>None — dust isn't dangerous</span>
+                  <span data-lang="pl" hidden>Żadna — pył nie jest niebezpieczny</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 4 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>4.</strong> ¿Dónde NO debes colocarte cuando el operador está cortando con una sierra?</span>
+                <span data-lang="uk" hidden><strong>4.</strong> Де НЕ можна стояти, коли оператор ріже на пилці?</span>
+                <span data-lang="en" hidden><strong>4.</strong> Where must you NOT stand while the operator is cutting?</span>
+                <span data-lang="pl" hidden><strong>4.</strong> Gdzie NIE wolno stawać, gdy operator tnie piłą?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q4" value="a">
+                  <span data-lang="es">A un lado de la máquina, fuera de la línea de corte</span>
+                  <span data-lang="uk" hidden>Збоку від машини, поза лінією різу</span>
+                  <span data-lang="en" hidden>Beside the machine, off the line of cut</span>
+                  <span data-lang="pl" hidden>Z boku maszyny, poza linią cięcia</span>
+                </label></li>
+                <li><label><input type="radio" name="q4" value="b" data-correct="true">
+                  <span data-lang="es">En la línea de corte, incluso detrás del operador</span>
+                  <span data-lang="uk" hidden>У лінії різу, навіть за оператором</span>
+                  <span data-lang="en" hidden>In the line of cut, even behind the operator</span>
+                  <span data-lang="pl" hidden>W linii cięcia, nawet za plecami operatora</span>
+                </label></li>
+                <li><label><input type="radio" name="q4" value="c">
+                  <span data-lang="es">En la ruta marcada para peatones</span>
+                  <span data-lang="uk" hidden>На розміченій пішохідній доріжці</span>
+                  <span data-lang="en" hidden>On the marked pedestrian route</span>
+                  <span data-lang="pl" hidden>Na wyznaczonej trasie dla pieszych</span>
+                </label></li>
+                <li><label><input type="radio" name="q4" value="d">
+                  <span data-lang="es">Fuera del taller</span>
+                  <span data-lang="uk" hidden>Поза цехом</span>
+                  <span data-lang="en" hidden>Outside the workshop</span>
+                  <span data-lang="pl" hidden>Poza halą</span>
+                </label></li>
+              </ul>
+            </li>
+
+            <!-- ================ Pytanie 5 ================ -->
+            <li class="final-quiz-question">
+              <p class="final-quiz-question__prompt">
+                <span data-lang="es"><strong>5.</strong> ¿Por qué el curso empieza por seguridad antes que por el manejo de máquinas?</span>
+                <span data-lang="uk" hidden><strong>5.</strong> Чому курс починається з безпеки, а не з роботи на машинах?</span>
+                <span data-lang="en" hidden><strong>5.</strong> Why does the course start with safety before machine operation?</span>
+                <span data-lang="pl" hidden><strong>5.</strong> Dlaczego kurs zaczyna się od BHP, a nie od obsługi maszyn?</span>
+              </p>
+              <ul class="final-quiz-options">
+                <li><label><input type="radio" name="q5" value="a">
+                  <span data-lang="es">Porque así lo exige la ley polaca</span>
+                  <span data-lang="uk" hidden>Бо цього вимагає польський закон</span>
+                  <span data-lang="en" hidden>Because Polish law requires it</span>
+                  <span data-lang="pl" hidden>Bo tak wymaga polskie prawo</span>
+                </label></li>
+                <li><label><input type="radio" name="q5" value="b" data-correct="true">
+                  <span data-lang="es">Para poder estar en el taller sin ser un peligro antes de tocar una máquina</span>
+                  <span data-lang="uk" hidden>Щоб перебувати в цеху, не створюючи небезпеки, перш ніж торкнешся машини</span>
+                  <span data-lang="en" hidden>So you can be in the workshop without being a danger before touching any machine</span>
+                  <span data-lang="pl" hidden>Aby móc być w hali nie stanowiąc zagrożenia, zanim dotkniesz maszyny</span>
+                </label></li>
+                <li><label><input type="radio" name="q5" value="c">
+                  <span data-lang="es">Porque las máquinas son demasiado complicadas</span>
+                  <span data-lang="uk" hidden>Бо машини надто складні</span>
+                  <span data-lang="en" hidden>Because the machines are too complicated</span>
+                  <span data-lang="pl" hidden>Bo maszyny są zbyt skomplikowane</span>
+                </label></li>
+                <li><label><input type="radio" name="q5" value="d">
+                  <span data-lang="es">Porque es más barato</span>
+                  <span data-lang="uk" hidden>Бо це дешевше</span>
+                  <span data-lang="en" hidden>Because it's cheaper</span>
+                  <span data-lang="pl" hidden>Bo jest taniej</span>
+                </label></li>
+              </ul>
+            </li>
+
+          </ol>
+
+          <div class="final-quiz-actions">
+            <button type="submit" class="final-quiz-submit">
+              <span data-lang="es">Enviar</span>
+              <span data-lang="uk" hidden>Надіслати</span>
+              <span data-lang="en" hidden>Submit</span>
+              <span data-lang="pl" hidden>Wyślij</span>
+            </button>
+            <button type="button" class="final-quiz-back">
+              <span data-lang="es">Volver al curso</span>
+              <span data-lang="uk" hidden>Повернутися до курсу</span>
+              <span data-lang="en" hidden>Back to course</span>
+              <span data-lang="pl" hidden>Powrót do kursu</span>
+            </button>
+          </div>
+        </form>
+
+        <!-- Widok wyniku — wypełniany przez JS po submit. -->
+        <div class="final-quiz-result" hidden aria-live="polite"></div>
+      </section>
+
+      <!-- Nawigacja dół lekcji -->
+      <!-- TODO Step 5: podłączyć routing lekcji (prev/next na podstawie indeksu) -->
+      <nav class="lesson-nav" aria-label="Navegación entre lecciones">
+        <button type="button" class="lesson-nav__btn lesson-nav__btn--prev" disabled aria-disabled="true">
+          <span data-lang="es">← Lección anterior</span>
+          <span data-lang="uk" hidden>← Попередній урок</span>
+          <span data-lang="en" hidden>← Previous lesson</span>
+          <span data-lang="pl" hidden>← Poprzednia lekcja</span>
+        </button>
+        <button type="button" class="lesson-nav__btn lesson-nav__btn--next">
+          <span data-lang="es">Lección siguiente →</span>
+          <span data-lang="uk" hidden>Наступний урок →</span>
+          <span data-lang="en" hidden>Next lesson →</span>
+          <span data-lang="pl" hidden>Następna lekcja →</span>
+        </button>
+      </nav>
+
+    </main>
+
+  </div>
+
+  <!-- =====================================================================
+       JS runtime kursu — cały w jednym bloku na końcu <body>, bez zależności.
+       Sekcje: [Step 4] lang-switcher · [Step 5] nav/progress/mini-quiz ·
+       [Step 6] końcowy quiz · [Step 7] hamburger mobile.
+       ===================================================================== -->
+  <script>
+    (function () {
+      'use strict';
+
+      // ---------------------------------------------------------------
+      // Stałe + klucze localStorage (wspólne dla wszystkich sekcji)
+      // ---------------------------------------------------------------
+      var SUPPORTED_LANGS = ['es', 'uk', 'en', 'pl'];
+      var DEFAULT_LANG = 'es';
+      var LS_LANG = 'egida_tartak_lang';
+      var LS_PROGRESS = 'egida_tartak_M1_progress';
+      var LS_QUIZ = 'egida_tartak_M1_quizResult';
+      var TOTAL_LESSONS = 32; // 4 tygodnie × 8 lekcji w M1
+      var PASS_THRESHOLD = 70; // procent
+
+      // Feedback mini-quizu w 4 językach (krótki tekst — reszta UI zostaje w HTML).
+      var UI_FEEDBACK = {
+        es: { correct: '✅ ¡Correcto!', incorrect: '❌ Inténtalo de nuevo' },
+        uk: { correct: '✅ Правильно!', incorrect: '❌ Спробуй ще раз' },
+        en: { correct: '✅ Correct!',   incorrect: '❌ Try again' },
+        pl: { correct: '✅ Dobrze!',    incorrect: '❌ Spróbuj jeszcze raz' }
+      };
+
+      // Teksty wyniku końcowego quizu
+      var UI_RESULT = {
+        es: { passed: '✅ ¡Aprobado!', failed: '❌ No aprobado', scoreLabel: 'Tu puntuación:',
+              retake: 'Intentar de nuevo', backToCourse: 'Volver al curso' },
+        uk: { passed: '✅ Склав!',     failed: '❌ Не склав',    scoreLabel: 'Твій результат:',
+              retake: 'Спробувати знову', backToCourse: 'Повернутися до курсу' },
+        en: { passed: '✅ Passed!',    failed: '❌ Not passed',  scoreLabel: 'Your score:',
+              retake: 'Try again', backToCourse: 'Back to course' },
+        pl: { passed: '✅ Zdane!',     failed: '❌ Niezaliczone', scoreLabel: 'Twój wynik:',
+              retake: 'Spróbuj ponownie', backToCourse: 'Powrót do kursu' }
+      };
+
+      function getCurrentLang() {
+        return document.documentElement.dataset.currentLang || DEFAULT_LANG;
+      }
+
+      // ---------------------------------------------------------------
+      // STEP 4 — Przełącznik języka (UI + persistencja)
+      // ---------------------------------------------------------------
+
+      function setLanguage(lang) {
+        if (SUPPORTED_LANGS.indexOf(lang) === -1) return;
+
+        // Toggle `hidden` na wszystkich elementach treści z data-lang.
+        // Przyciski języka używają `data-lang-target`, więc nie łapią się,
+        // ale dla bezpieczeństwa wykluczamy też `.lang-btn`.
+        var langNodes = document.querySelectorAll('[data-lang]:not(.lang-btn)');
+        langNodes.forEach(function (node) {
+          if (node.getAttribute('data-lang') === lang) {
+            node.removeAttribute('hidden');
+          } else {
+            node.setAttribute('hidden', '');
+          }
+        });
+
+        // Update stanu przycisków lang-switcher
+        document.querySelectorAll('.lang-btn').forEach(function (btn) {
+          var isActive = btn.getAttribute('data-lang-target') === lang;
+          btn.classList.toggle('lang-btn--active', isActive);
+          btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        });
+
+        // Update atrybutów <html>
+        document.documentElement.setAttribute('lang', lang);
+        document.documentElement.dataset.currentLang = lang;
+
+        // Persystencja
+        try { localStorage.setItem(LS_LANG, lang); } catch (e) {}
+      }
+
+      function initLanguageSwitcher() {
+        // Event delegation na całym switcherze — odporne na ewentualną
+        // przyszłą zmianę liczby przycisków (gdyby doszedł np. 5. język).
+        var switcher = document.querySelector('.lang-switcher');
+        if (switcher) {
+          switcher.addEventListener('click', function (e) {
+            var btn = e.target.closest('.lang-btn');
+            if (!btn) return;
+            var lang = btn.getAttribute('data-lang-target');
+            if (lang) setLanguage(lang);
+          });
+        }
+
+        // Init: spróbuj odczytać zapisaną preferencję.
+        // Jeśli brak / nieznany język — zostawiamy stan domyślny z markup'u (ES).
+        var stored = null;
+        try { stored = localStorage.getItem(LS_LANG); } catch (e) {}
+        if (stored && SUPPORTED_LANGS.indexOf(stored) !== -1) {
+          setLanguage(stored);
+        }
+      }
+
+      // ---------------------------------------------------------------
+      // STEP 5 — Nawigacja lekcji + progress + mini-quiz
+      // ---------------------------------------------------------------
+
+      // Lista wszystkich ID lekcji w kolejności sidebara (dla prev/next)
+      function getAllLessonIds() {
+        var items = document.querySelectorAll('.lesson-item[data-lesson-id]');
+        var ids = [];
+        items.forEach(function (item) { ids.push(item.getAttribute('data-lesson-id')); });
+        return ids;
+      }
+
+      function loadProgress() {
+        try {
+          var raw = localStorage.getItem(LS_PROGRESS);
+          return raw ? JSON.parse(raw) : {};
+        } catch (e) { return {}; }
+      }
+
+      function saveProgress(progress) {
+        try { localStorage.setItem(LS_PROGRESS, JSON.stringify(progress)); } catch (e) {}
+      }
+
+      function updateProgressBar() {
+        var progress = loadProgress();
+        var completed = 0;
+        getAllLessonIds().forEach(function (id) { if (progress[id]) completed++; });
+        var pct = Math.round((completed / TOTAL_LESSONS) * 100);
+
+        var fill  = document.querySelector('.progress__fill');
+        var value = document.querySelector('.progress__value');
+        var bar   = document.querySelector('.progress__bar');
+        if (fill)  fill.style.width = pct + '%';
+        if (value) value.textContent = pct + '%';
+        if (bar)   bar.setAttribute('aria-valuenow', String(pct));
+      }
+
+      function refreshSidebarCompletedFlags() {
+        var progress = loadProgress();
+        document.querySelectorAll('.lesson-item[data-lesson-id]').forEach(function (item) {
+          var id = item.getAttribute('data-lesson-id');
+          item.classList.toggle('lesson-item--completed', !!progress[id]);
+        });
+      }
+
+      function markLessonComplete(id) {
+        if (!id) return;
+        var progress = loadProgress();
+        if (progress[id]) return;
+        progress[id] = true;
+        saveProgress(progress);
+        refreshSidebarCompletedFlags();
+        updateProgressBar();
+      }
+
+      // Format data-lesson-id: "m{module}-w{week}-l{lesson}"
+      function parseLessonId(id) {
+        var m = /^m(\d+)-w(\d+)-l(\d+)$/.exec(id || '');
+        if (!m) return null;
+        return { module: +m[1], week: +m[2], lesson: +m[3] };
+      }
+
+      function updateBreadcrumb(id) {
+        var parsed = parseLessonId(id);
+        if (!parsed) return;
+        var labels = {
+          es: 'Módulo '  + parsed.module + ' / Semana '   + parsed.week + ' / Lección ' + parsed.lesson,
+          uk: 'Модуль '  + parsed.module + ' / Тиждень '  + parsed.week + ' / Урок '    + parsed.lesson,
+          en: 'Module '  + parsed.module + ' / Week '     + parsed.week + ' / Lesson '  + parsed.lesson,
+          pl: 'Moduł '   + parsed.module + ' / Tydzień '  + parsed.week + ' / Lekcja '  + parsed.lesson
+        };
+        var bc = document.querySelector('.breadcrumb');
+        if (!bc) return;
+        bc.querySelectorAll('[data-lang]').forEach(function (n) {
+          var lang = n.getAttribute('data-lang');
+          if (labels[lang]) n.textContent = labels[lang];
+        });
+      }
+
+      function goToLesson(id) {
+        if (!id) return;
+
+        // 1. Aktywna pozycja w sidebarze
+        document.querySelectorAll('.lesson-item[data-lesson-id]').forEach(function (item) {
+          var isActive = item.getAttribute('data-lesson-id') === id;
+          item.classList.toggle('lesson-item--active', isActive);
+          if (isActive) item.setAttribute('aria-current', 'page');
+          else          item.removeAttribute('aria-current');
+        });
+
+        // 2. Pokaż właściwy <article> — realna lekcja (m1-w1-l1) lub placeholder
+        var wrapper = document.querySelector('.lesson-content-wrapper');
+        if (!wrapper) return;
+        var articles = wrapper.querySelectorAll('article.lesson');
+        var realMatched = null;
+        var placeholder = null;
+        articles.forEach(function (a) {
+          var aid = a.getAttribute('data-lesson-id');
+          if (aid === '__placeholder__') placeholder = a;
+          else if (aid === id)           realMatched = a;
+        });
+
+        articles.forEach(function (a) { a.setAttribute('hidden', ''); });
+        if (realMatched) {
+          realMatched.removeAttribute('hidden');
+        } else if (placeholder) {
+          placeholder.removeAttribute('hidden');
+        }
+
+        // 3. Breadcrumb + przyciski prev/next
+        updateBreadcrumb(id);
+        updateLessonNavButtons(id);
+
+        // 4. Scroll do góry + zamknij sidebar na mobile (Step 7)
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        closeSidebarMobile();
+      }
+
+      function updateLessonNavButtons(currentId) {
+        var ids = getAllLessonIds();
+        var idx = ids.indexOf(currentId);
+        var prev = document.querySelector('.lesson-nav__btn--prev');
+        var next = document.querySelector('.lesson-nav__btn--next');
+
+        if (prev) {
+          if (idx <= 0) {
+            prev.setAttribute('disabled', '');
+            prev.setAttribute('aria-disabled', 'true');
+          } else {
+            prev.removeAttribute('disabled');
+            prev.removeAttribute('aria-disabled');
+          }
+        }
+        if (next) {
+          if (idx === -1 || idx >= ids.length - 1) {
+            next.setAttribute('disabled', '');
+            next.setAttribute('aria-disabled', 'true');
+          } else {
+            next.removeAttribute('disabled');
+            next.removeAttribute('aria-disabled');
+          }
+        }
+      }
+
+      function getCurrentLessonId() {
+        var active = document.querySelector('.lesson-item.lesson-item--active[data-lesson-id]');
+        return active ? active.getAttribute('data-lesson-id') : null;
+      }
+
+      function initLessonNavigation() {
+        // Event delegation na .weeks-nav — klik w pozycję lekcji
+        var weeksNav = document.querySelector('.weeks-nav');
+        if (weeksNav) {
+          weeksNav.addEventListener('click', function (e) {
+            var item = e.target.closest('.lesson-item[data-lesson-id]');
+            if (!item) return;
+            goToLesson(item.getAttribute('data-lesson-id'));
+          });
+        }
+
+        // Przyciski prev / next (bezpośrednie listenery — są tylko dwa)
+        var prev = document.querySelector('.lesson-nav__btn--prev');
+        var next = document.querySelector('.lesson-nav__btn--next');
+        if (prev) {
+          prev.addEventListener('click', function () {
+            var ids = getAllLessonIds();
+            var idx = ids.indexOf(getCurrentLessonId());
+            if (idx > 0) goToLesson(ids[idx - 1]);
+          });
+        }
+        if (next) {
+          next.addEventListener('click', function () {
+            var ids = getAllLessonIds();
+            var cur = getCurrentLessonId();
+            var idx = ids.indexOf(cur);
+            // Klik „Następna lekcja" = uznaj bieżącą za ukończoną.
+            if (cur) markLessonComplete(cur);
+            if (idx !== -1 && idx < ids.length - 1) goToLesson(ids[idx + 1]);
+          });
+        }
+
+        // Init — progress bar, flagi completed, stan przycisków
+        refreshSidebarCompletedFlags();
+        updateProgressBar();
+        var cur = getCurrentLessonId();
+        if (cur) updateLessonNavButtons(cur);
+      }
+
+      // --- Mini-quiz — inline sprawdzenie pojedynczego pytania ---
+      function initMiniQuiz() {
+        // Event delegation na .main-content — odporne na przełączanie lekcji.
+        var root = document.querySelector('.main-content');
+        if (!root) return;
+
+        root.addEventListener('click', function (e) {
+          var opt = e.target.closest('.mini-quiz__option');
+          if (!opt) return;
+
+          var question = opt.closest('.mini-quiz__question');
+          if (!question) return;
+          if (question.dataset.answered === 'true') return; // pytanie już rozwiązane
+
+          var isCorrect = opt.getAttribute('data-correct') === 'true';
+
+          question.dataset.answered = 'true';
+          question.querySelectorAll('.mini-quiz__option').forEach(function (o) {
+            o.classList.add('mini-quiz__option--locked');
+            // Zawsze podświetl poprawną — żeby user wiedział, która była dobra.
+            if (o.getAttribute('data-correct') === 'true') {
+              o.classList.add('mini-quiz__option--correct');
+            }
+          });
+          if (!isCorrect) opt.classList.add('mini-quiz__option--incorrect');
+
+          // Feedback tekstowy — generujemy spany w 4 językach i pokazujemy
+          // tylko bieżący (pozostałe z `hidden`). Spójne z resztą szablonu.
+          var fb = document.createElement('div');
+          fb.className = 'mini-quiz__feedback ' +
+            (isCorrect ? 'mini-quiz__feedback--correct' : 'mini-quiz__feedback--incorrect');
+          var cur = getCurrentLang();
+          SUPPORTED_LANGS.forEach(function (l) {
+            var s = document.createElement('span');
+            s.setAttribute('data-lang', l);
+            s.textContent = isCorrect ? UI_FEEDBACK[l].correct : UI_FEEDBACK[l].incorrect;
+            if (l !== cur) s.setAttribute('hidden', '');
+            fb.appendChild(s);
+          });
+          question.appendChild(fb);
+        });
+      }
+
+      // ---------------------------------------------------------------
+      // STEP 6 — Końcowy quiz modułu
+      // ---------------------------------------------------------------
+      function showFinalQuiz() {
+        var wrapper = document.querySelector('.lesson-content-wrapper');
+        var quizView = document.querySelector('.final-quiz-view');
+        var nav = document.querySelector('.lesson-nav');
+        if (wrapper)  wrapper.setAttribute('hidden', '');
+        if (nav)      nav.setAttribute('hidden', '');
+        if (quizView) quizView.removeAttribute('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function backToCourse() {
+        var wrapper = document.querySelector('.lesson-content-wrapper');
+        var quizView = document.querySelector('.final-quiz-view');
+        var nav = document.querySelector('.lesson-nav');
+        if (wrapper)  wrapper.removeAttribute('hidden');
+        if (nav)      nav.removeAttribute('hidden');
+        if (quizView) quizView.setAttribute('hidden', '');
+        // Przy wyjściu przywracamy widok pytania/submit (gdyby ktoś wracał po submicie)
+        var resultEl = document.querySelector('.final-quiz-result');
+        if (resultEl) resultEl.setAttribute('hidden', '');
+        var questions = document.querySelector('.final-quiz-questions');
+        var submit = document.querySelector('.final-quiz-submit');
+        if (questions) questions.removeAttribute('hidden');
+        if (submit)    submit.removeAttribute('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function retakeFinalQuiz() {
+        var form = document.querySelector('.final-quiz-form');
+        if (form) form.reset();
+        var resultEl = document.querySelector('.final-quiz-result');
+        if (resultEl) resultEl.setAttribute('hidden', '');
+        var questions = document.querySelector('.final-quiz-questions');
+        var submit = document.querySelector('.final-quiz-submit');
+        if (questions) questions.removeAttribute('hidden');
+        if (submit)    submit.removeAttribute('hidden');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      }
+
+      function submitFinalQuiz() {
+        var form = document.querySelector('.final-quiz-form');
+        if (!form) return;
+        var questions = form.querySelectorAll('.final-quiz-question');
+        var total = questions.length;
+        var correct = 0;
+        questions.forEach(function (q) {
+          var selected = q.querySelector('input[type="radio"]:checked');
+          if (selected && selected.getAttribute('data-correct') === 'true') correct++;
+        });
+        var pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+        var passed = pct >= PASS_THRESHOLD;
+
+        // Zapisz ostatni wynik (bez historii — nadpisuje poprzedni)
+        try {
+          localStorage.setItem(LS_QUIZ, JSON.stringify({
+            score: pct, correct: correct, total: total, passed: passed,
+            date: new Date().toISOString()
+          }));
+        } catch (e) {}
+
+        renderFinalQuizResult(pct, correct, total, passed);
+      }
+
+      function renderFinalQuizResult(pct, correct, total, passed) {
+        var resultEl = document.querySelector('.final-quiz-result');
+        if (!resultEl) return;
+
+        // Schowaj pytania + submit — pokazujemy tylko wynik
+        var questionsBlock = document.querySelector('.final-quiz-questions');
+        var submit = document.querySelector('.final-quiz-submit');
+        if (questionsBlock) questionsBlock.setAttribute('hidden', '');
+        if (submit)         submit.setAttribute('hidden', '');
+        resultEl.removeAttribute('hidden');
+
+        // Zbuduj świeży widok wyniku w 4 językach
+        resultEl.innerHTML = '';
+        var cur = getCurrentLang();
+
+        SUPPORTED_LANGS.forEach(function (l) {
+          var wrap = document.createElement('div');
+          wrap.setAttribute('data-lang', l);
+          if (l !== cur) wrap.setAttribute('hidden', '');
+
+          var h = document.createElement('h2');
+          h.className = 'final-quiz-result__title ' +
+            (passed ? 'final-quiz-result__title--passed' : 'final-quiz-result__title--failed');
+          h.textContent = passed ? UI_RESULT[l].passed : UI_RESULT[l].failed;
+          wrap.appendChild(h);
+
+          var p = document.createElement('p');
+          p.className = 'final-quiz-result__score';
+          p.textContent = UI_RESULT[l].scoreLabel + ' ' + correct + '/' + total + ' (' + pct + '%)';
+          wrap.appendChild(p);
+
+          var actions = document.createElement('div');
+          actions.className = 'final-quiz-result__actions';
+
+          var retakeBtn = document.createElement('button');
+          retakeBtn.type = 'button';
+          retakeBtn.className = 'final-quiz-result__btn final-quiz-result__btn--retake';
+          retakeBtn.textContent = UI_RESULT[l].retake;
+          retakeBtn.addEventListener('click', retakeFinalQuiz);
+          actions.appendChild(retakeBtn);
+
+          var backBtn = document.createElement('button');
+          backBtn.type = 'button';
+          backBtn.className = 'final-quiz-result__btn final-quiz-result__btn--back';
+          backBtn.textContent = UI_RESULT[l].backToCourse;
+          backBtn.addEventListener('click', backToCourse);
+          actions.appendChild(backBtn);
+
+          wrap.appendChild(actions);
+          resultEl.appendChild(wrap);
+        });
+      }
+
+      function initFinalQuiz() {
+        var openBtn = document.querySelector('.final-quiz-open');
+        if (openBtn) {
+          openBtn.addEventListener('click', function () {
+            showFinalQuiz();
+            closeSidebarMobile(); // na mobile po otwarciu quizu chowamy sidebar
+          });
+        }
+
+        var form = document.querySelector('.final-quiz-form');
+        if (form) {
+          form.addEventListener('submit', function (e) {
+            e.preventDefault();
+            submitFinalQuiz();
+          });
+        }
+
+        var backBtn = document.querySelector('.final-quiz-back');
+        if (backBtn) backBtn.addEventListener('click', backToCourse);
+      }
+
+      // ---------------------------------------------------------------
+      // STEP 7 — Hamburger mobile (≤1024px)
+      // ---------------------------------------------------------------
+      function openSidebarMobile() {
+        var sidebar = document.querySelector('.sidebar');
+        var overlay = document.querySelector('.sidebar-overlay');
+        var toggle  = document.querySelector('.menu-toggle');
+        if (sidebar) sidebar.classList.add('sidebar--open');
+        if (overlay) overlay.classList.add('sidebar-overlay--visible');
+        if (toggle)  toggle.setAttribute('aria-expanded', 'true');
+      }
+
+      function closeSidebarMobile() {
+        var sidebar = document.querySelector('.sidebar');
+        var overlay = document.querySelector('.sidebar-overlay');
+        var toggle  = document.querySelector('.menu-toggle');
+        if (sidebar) sidebar.classList.remove('sidebar--open');
+        if (overlay) overlay.classList.remove('sidebar-overlay--visible');
+        if (toggle)  toggle.setAttribute('aria-expanded', 'false');
+      }
+
+      function initMobileMenu() {
+        var toggle = document.querySelector('.menu-toggle');
+        var overlay = document.querySelector('.sidebar-overlay');
+        if (toggle) {
+          toggle.addEventListener('click', function () {
+            var sidebar = document.querySelector('.sidebar');
+            if (!sidebar) return;
+            if (sidebar.classList.contains('sidebar--open')) closeSidebarMobile();
+            else openSidebarMobile();
+          });
+        }
+        if (overlay) overlay.addEventListener('click', closeSidebarMobile);
+      }
+
+      // ---------------------------------------------------------------
+      // Boot
+      // ---------------------------------------------------------------
+      function init() {
+        initLanguageSwitcher();
+        initLessonNavigation();
+        initMiniQuiz();
+        initFinalQuiz();
+        initMobileMenu();
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', init);
+      } else {
+        init();
+      }
+    })();
+  </script>
+</body>
+</html>
