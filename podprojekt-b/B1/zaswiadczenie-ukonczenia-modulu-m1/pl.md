@@ -39,7 +39,7 @@ Zaświadcza się, że Pan/Pani[^3]:
 
 zwany dalej „**Kursantem**",
 
-**ukończył(a) z wynikiem pozytywnym Moduł M1** Kursu praktycznego organizowanego przez Fundację pomocy prawnej EGIDA we współpracy z Przedsiębiorcą wskazanym w pkt III niniejszego zaświadczenia.
+**ukończył(a) Moduł M1** Kursu praktycznego organizowanego przez Fundację pomocy prawnej EGIDA we współpracy z Przedsiębiorcą wskazanym w pkt III niniejszego zaświadczenia.
 
 ---
 
@@ -56,7 +56,7 @@ zwany dalej „**Kursantem**",
 | Wymiar: | 4 tygodnie / 72 godziny dydaktyczne |
 | Zakres kompetencyjny: | rozpoznawanie surowca drzewnego, podstawy BHP w zakładzie tartacznym, znakowanie i przemieszczanie materiału, obsługa pomocnicza prostych operacji manipulacyjno-magazynowych, podstawy komunikacji zawodowej w środowisku polskojęzycznym |
 
-Niniejsze zaświadczenie potwierdza wyłącznie **ukończenie z wynikiem pozytywnym Modułu M1** i nie jest dokumentem potwierdzającym ukończenie całego Kursu „Praca w tartaku" ani nie potwierdza uzyskania kwalifikacji zawodowych w rozumieniu odrębnych przepisów.
+Niniejsze zaświadczenie potwierdza wyłącznie **ukończenie Modułu M1** i nie jest dokumentem potwierdzającym ukończenie całego Kursu „Praca w tartaku" ani nie potwierdza uzyskania kwalifikacji zawodowych w rozumieniu odrębnych przepisów.
 
 ---
 
@@ -125,22 +125,7 @@ Kurs praktyczny jest dla Kursanta nieodpłatny.
 
 ---
 
-## VII. Wynik testu modułowego
-
-Moduł M1 został zakończony pisemnym testem modułowym sprawdzającym opanowanie zakresu kompetencyjnego, o którym mowa w pkt II. **Próg zaliczenia: minimum 70% poprawnych odpowiedzi.**
-
-| Pole | Treść |
-|------|-------|
-| Data testu modułowego: |  |
-| Liczba punktów uzyskanych / liczba punktów możliwych do uzyskania: |  / |
-| Wynik procentowy: |  % |
-| Wynik (zaliczony / niezaliczony)[^6]: |  |
-| Imię i nazwisko egzaminatora (trenera prowadzącego): |  |
-| Podpis egzaminatora: |  |
-
----
-
-## VIII. Cel zaświadczenia
+## VII. Cel zaświadczenia
 
 Niniejsze zaświadczenie wystawia się dla potrzeb:
 
@@ -150,11 +135,11 @@ b) potwierdzenia ukończenia Modułu M1 wobec pracodawców, instytucji rynku pra
 
 c) wewnętrznej dokumentacji Kursu prowadzonej przez Fundację i Przedsiębiorcę.
 
-Zaświadczenie potwierdza ukończenie z wynikiem pozytywnym **wyłącznie Modułu M1** Kursu „Praca w tartaku". **Nie zastępuje** zaświadczenia o ukończeniu całego Kursu, które wystawiane jest osobno po pomyślnym zdaniu testu końcowego całego Kursu (próg zaliczenia: 70%, minimum 76 punktów z 108 możliwych do uzyskania) zgodnie z umową o przeprowadzenie kursu praktycznego.
+Zaświadczenie potwierdza ukończenie **wyłącznie Modułu M1** Kursu „Praca w tartaku". **Nie zastępuje** zaświadczenia o ukończeniu całego Kursu, które wystawiane jest osobno po pomyślnym zdaniu testu końcowego całego Kursu (próg zaliczenia: 70%, minimum 76 punktów z 108 możliwych do uzyskania) zgodnie z umową o przeprowadzenie kursu praktycznego.
 
 ---
 
-## IX. Podpisy
+## VIII. Podpisy
 
 | Podpis i pieczęć Fundacji | Podpis i pieczęć Przedsiębiorcy |
 |---------------------------|----------------------------------|
@@ -169,8 +154,7 @@ Kurs powstał dzięki rozbudowie potencjału Fundacji pomocy prawnej EGIDA w ram
 ---
 
 [^1]: Podać miejscowość, w której wystawione zostało niniejsze zaświadczenie.
-[^2]: Podać datę, w której wystawione zostało niniejsze zaświadczenie. Data wystawienia nie może być wcześniejsza niż data testu modułowego, o którym mowa w pkt VII.
+[^2]: Podać datę, w której wystawione zostało niniejsze zaświadczenie. Data wystawienia nie może być wcześniejsza niż data zakończenia Modułu, o którym mowa w pkt V.
 [^3]: Niepotrzebne skreślić.
 [^4]: Podać pełną firmę Przedsiębiorcy zgodnie z rejestrem (KRS lub CEIDG). Przedsiębiorcą jest podmiot, z którym Fundacja zawarła umowę o współorganizacji kursu praktycznego, niezależnie od tego, czy podmiot ten jest właścicielem zakładu tartacznego, czy działa w nim na podstawie umowy outsourcingowej z właścicielem.
 [^5]: Adres zakładu tartacznego, w którym faktycznie wykonywana była część praktyczna zasadnicza Modułu, może być inny niż siedziba Przedsiębiorcy. Podaje się go odrębnie dla potrzeb identyfikacji miejsca pracy, instruktażu BHP i ewentualnej kontroli zewnętrznej.
-[^6]: Wpisać „zaliczony" tylko w przypadku uzyskania co najmniej 70% poprawnych odpowiedzi w teście modułowym. W przypadku wyniku poniżej progu zaliczenia niniejsze zaświadczenie nie może zostać wystawione, a Kursantowi przysługuje prawo do poprawkowego testu modułowego na zasadach określonych w regulaminie Kursu.

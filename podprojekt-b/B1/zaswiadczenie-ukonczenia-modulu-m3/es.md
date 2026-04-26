@@ -39,7 +39,7 @@ Se certifica que el Sr./Sra.[^3]:
 
 en adelante denominado/a "**Cursillista**",
 
-**ha completado con resultado positivo el Módulo M3** del Curso práctico organizado por la Fundacja pomocy prawnej EGIDA (Fundación de asistencia jurídica EGIDA) en colaboración con el Empresario indicado en el punto III del presente certificado.
+**ha completado el Módulo M3** del Curso práctico organizado por la Fundacja pomocy prawnej EGIDA (Fundación de asistencia jurídica EGIDA) en colaboración con el Empresario indicado en el punto III del presente certificado.
 
 ---
 
@@ -56,7 +56,7 @@ en adelante denominado/a "**Cursillista**",
 | Duración: | 4 semanas / 132 horas didácticas |
 | Ámbito competencial: | operación independiente de un conjunto completo de máquinas de aserradero en modo de producción, optimización del corte en función del rendimiento de la materia prima, planificación de surtidos, control de calidad del producto (clases, defectos, clasificación), cooperación con otras estaciones en la cadena de producción, fundamentos de los sistemas de registro de la producción y de las normas sobre el funcionamiento de las máquinas (UDT, seguridad e higiene laboral) |
 
-El presente certificado acredita exclusivamente la **finalización con resultado positivo del Módulo M3** y no constituye un documento que acredite la finalización del Curso completo "Praca w tartaku" (Trabajo en aserradero) ni acredita la obtención de cualificaciones profesionales en el sentido de las disposiciones específicas.
+El presente certificado acredita exclusivamente la **finalización del Módulo M3** y no constituye un documento que acredite la finalización del Curso completo "Praca w tartaku" (Trabajo en aserradero) ni acredita la obtención de cualificaciones profesionales en el sentido de las disposiciones específicas.
 
 ---
 
@@ -125,22 +125,7 @@ El Curso práctico es gratuito para el Cursillista.
 
 ---
 
-## VII. Resultado de la prueba modular
-
-El Módulo M3 concluyó con una prueba modular escrita que verifica el dominio del ámbito competencial mencionado en el punto II. **Umbral de aprobación: mínimo 70% de respuestas correctas.**
-
-| Campo | Contenido |
-|-------|-----------|
-| Fecha de la prueba modular: |  |
-| Puntos obtenidos / puntos totales posibles: |  / |
-| Resultado porcentual: |  % |
-| Resultado (aprobado / no aprobado)[^6]: |  |
-| Nombre y apellido del examinador (formador a cargo): |  |
-| Firma del examinador: |  |
-
----
-
-## VIII. Finalidad del certificado
+## VII. Finalidad del certificado
 
 El presente certificado se expide a efectos de:
 
@@ -150,11 +135,11 @@ b) acreditación de la finalización del Módulo M3 ante empleadores, institucio
 
 c) documentación interna del Curso llevada por la Fundación y el Empresario.
 
-El certificado acredita la finalización con resultado positivo **exclusivamente del Módulo M3** del Curso "Praca w tartaku" (Trabajo en aserradero). **No sustituye** al certificado de finalización del Curso completo, que se expide por separado tras la superación con éxito de la prueba final del Curso completo (umbral de aprobación: 70%, mínimo 76 puntos de los 108 posibles) conforme al contrato de ejecución del curso práctico.
+El certificado acredita la finalización **exclusivamente del Módulo M3** del Curso "Praca w tartaku" (Trabajo en aserradero). **No sustituye** al certificado de finalización del Curso completo, que se expide por separado tras la superación de la prueba final del Curso completo (umbral de aprobación: 70%, mínimo 76 puntos de los 108 posibles) conforme al contrato de ejecución del curso práctico.
 
 ---
 
-## IX. Firmas
+## VIII. Firmas
 
 | Firma y sello de la Fundación | Firma y sello del Empresario |
 |-------------------------------|------------------------------|
@@ -169,8 +154,7 @@ El curso fue desarrollado gracias al fortalecimiento del potencial de la Fundaci
 ---
 
 [^1]: Indicar la localidad en la que se ha expedido el presente certificado.
-[^2]: Indicar la fecha en la que se ha expedido el presente certificado. La fecha de expedición no puede ser anterior a la fecha de la prueba modular mencionada en el punto VII.
+[^2]: Indicar la fecha en la que se ha expedido el presente certificado. La fecha de expedición no puede ser anterior a la fecha de finalización del Módulo, como se indica en la sección V.
 [^3]: Tachar lo que no proceda.
 [^4]: Indicar la razón social completa del Empresario conforme al registro (KRS o CEIDG). Por Empresario se entiende la entidad con la que la Fundación ha celebrado el convenio de coorganización del curso práctico, con independencia de que dicha entidad sea propietaria del establecimiento del aserradero o actúe en él en virtud de un contrato de externalización (outsourcing) con el propietario.
 [^5]: La dirección del establecimiento del aserradero en el que se ejecutó efectivamente la parte práctica principal del Módulo puede ser distinta del domicilio social del Empresario. Se indica por separado a efectos de identificación del lugar de trabajo, instructaje de seguridad e higiene en el trabajo y eventual control externo.
-[^6]: Indicar "aprobado" únicamente en caso de obtener al menos el 70% de respuestas correctas en la prueba modular. En caso de resultado por debajo del umbral de aprobación, el presente certificado no puede expedirse, y al Cursillista le asiste el derecho a una prueba modular de recuperación según las normas establecidas en el reglamento del Curso.

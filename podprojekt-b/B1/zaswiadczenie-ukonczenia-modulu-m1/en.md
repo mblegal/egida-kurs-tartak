@@ -39,7 +39,7 @@ It is hereby certified that Mr./Ms.[^3]:
 
 hereinafter referred to as the "**Course Participant**",
 
-**has successfully completed Module M1** of the Practical Course organised by Fundacja pomocy prawnej EGIDA (legal aid foundation) in cooperation with the Entrepreneur indicated in section III of this certificate.
+**has completed Module M1** of the Practical Course organised by Fundacja pomocy prawnej EGIDA (legal aid foundation) in cooperation with the Entrepreneur indicated in section III of this certificate.
 
 ---
 
@@ -56,7 +56,7 @@ hereinafter referred to as the "**Course Participant**",
 | Volume: | 4 weeks / 72 teaching hours |
 | Scope of competences: | wood raw material recognition, basics of occupational health and safety in the sawmill, marking and moving of material, auxiliary handling of simple manipulation and warehousing operations, basics of vocational communication in a Polish-speaking environment |
 
-This certificate confirms only the **successful completion of Module M1** and is not a document confirming completion of the entire "Praca w tartaku" Course, nor does it confirm the acquisition of vocational qualifications within the meaning of separate regulations.
+This certificate confirms only the **completion of Module M1** and is not a document confirming completion of the entire "Praca w tartaku" Course, nor does it confirm the acquisition of vocational qualifications within the meaning of separate regulations.
 
 ---
 
@@ -125,22 +125,7 @@ The practical course is free of charge for the Course Participant.
 
 ---
 
-## VII. Module Test Result
-
-Module M1 was concluded with a written module test verifying mastery of the scope of competences referred to in section II. **Passing threshold: a minimum of 70% correct answers.**
-
-| Field | Content |
-|-------|---------|
-| Date of the module test: |  |
-| Number of points obtained / number of points possible: |  / |
-| Percentage result: |  % |
-| Result (passed / failed)[^6]: |  |
-| Name and surname of the examiner (lead trainer): |  |
-| Examiner's signature: |  |
-
----
-
-## VIII. Purpose of the Certificate
+## VII. Purpose of the Certificate
 
 This certificate is issued for the purposes of:
 
@@ -150,11 +135,11 @@ b) confirmation of completion of Module M1 before employers, labour market insti
 
 c) the internal documentation of the Course kept by the Foundation and the Entrepreneur.
 
-The certificate confirms the successful completion of **only Module M1** of the "Praca w tartaku" Course. **It does not replace** the certificate of completion of the entire Course, which is issued separately upon successful passing of the final test of the entire Course (passing threshold: 70%, a minimum of 76 points out of 108 possible) in accordance with the agreement on conducting the practical course.
+The certificate confirms the completion of **only Module M1** of the "Praca w tartaku" Course. **It does not replace** the certificate of completion of the entire Course, which is issued separately upon successful passing of the final test of the entire Course (passing threshold: 70%, a minimum of 76 points out of 108 possible) in accordance with the agreement on conducting the practical course.
 
 ---
 
-## IX. Signatures
+## VIII. Signatures
 
 | Signature and seal of the Foundation | Signature and seal of the Entrepreneur |
 |--------------------------------------|----------------------------------------|
@@ -169,8 +154,7 @@ The course was developed thanks to the strengthening of the institutional capaci
 ---
 
 [^1]: Indicate the locality in which this certificate was issued.
-[^2]: Indicate the date on which this certificate was issued. The date of issue cannot be earlier than the date of the module test referred to in section VII.
+[^2]: Indicate the date on which this certificate was issued. The date of issue cannot be earlier than the date of completion of the Module referred to in section V.
 [^3]: Strike through as appropriate.
 [^4]: Indicate the full business name of the Entrepreneur in accordance with the register (KRS or CEIDG). The Entrepreneur is the entity with which the Foundation has concluded an agreement on co-organisation of the practical course, regardless of whether that entity is the owner of the sawmill facility or operates within it on the basis of an outsourcing agreement with the owner.
 [^5]: The address of the sawmill facility at which the core practical part of the Module was actually performed may be different from the registered office of the Entrepreneur. It is provided separately for the purposes of identifying the place of work, occupational health and safety instruction, and any external inspection.
-[^6]: Enter "passed" only if at least 70% correct answers in the module test have been obtained. In the case of a result below the passing threshold, this certificate cannot be issued, and the Course Participant is entitled to a retake module test on the terms set out in the Course regulations.
