@@ -46,6 +46,8 @@ KLASA_2_TYPES: tuple[TemplateSpec, ...] = (
     TemplateSpec("O2-realizacja/01-harmonogram-szczegolowy", ("pl",), "HSZ-1.0/2026"),
     TemplateSpec("O2-realizacja/04-zbiorcza-karta-obecnosci", ("pl", "en", "es", "uk"), "ZKO-1.0/2026"),
     TemplateSpec("O3-ocena/07-karta-odpowiedzi", ("pl", "en", "es", "uk"), "KO-1.0/2026"),
+    TemplateSpec("O3-ocena/14-protokol-testu-koncowego", ("pl",), "PTK-1.0/2026"),
+    TemplateSpec("O3-ocena/15-karta-postepow-kursanta", ("pl", "en", "es", "uk"), "KP-1.0/2026"),
 )
 
 
@@ -60,7 +62,7 @@ def strip_yaml_frontmatter(md_text: str) -> str:
 
 
 def extract_placeholders(text: str) -> set[str]:
-    return set(re.findall(r"\{\{[A-Z_]+\}\}", text))
+    return set(re.findall(r"\{\{[A-Z0-9_]+\}\}", text))
 
 
 def convert_md_to_docx(md_body: str, output_path: Path) -> None:

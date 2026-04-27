@@ -106,6 +106,37 @@ TYPE_CONFIGS: dict[str, TypeConfig] = {
             "CZAS_TRWANIA_MIN",
         ),
     ),
+    "protokol-testu-koncowego": TypeConfig(
+        slug="protokol-testu-koncowego",
+        typ_path="O3-ocena/14-protokol-testu-koncowego",
+        languages=("pl",),
+        row_id_field="NR_PROTOKOLU",
+        expected_placeholders=(
+            "IMIE_KURSANTA", "NAZWISKO_KURSANTA", "NR_KARTY_UCZESTNIKA",
+            "CYKL_KURSU", "DATA_TESTU", "NR_TESTU", "INSTRUKTOR",
+            "KOORDYNATOR_KURSU", "WYNIK_CZESC_1", "WYNIK_CZESC_2",
+            "WYNIK_CZESC_3", "WYNIK_LACZNY", "PROCENT_LACZNY", "DECYZJA",
+            "UWAGI_INSTRUKTORA", "NR_PROTOKOLU",
+        ),
+    ),
+    "karta-postepow-kursanta": TypeConfig(
+        slug="karta-postepow-kursanta",
+        typ_path="O3-ocena/15-karta-postepow-kursanta",
+        languages=("pl", "en", "es", "uk"),
+        row_id_field="NR_KARTY_POSTEPOW",
+        expected_placeholders=(
+            "IMIE_KURSANTA", "NAZWISKO_KURSANTA", "NR_KARTY_UCZESTNIKA",
+            "CYKL_KURSU", "DATA_GENERACJI",
+            "WYNIK_SPC_M1_T12", "WYNIK_SPC_M1_T34",
+            "WYNIK_QUM_M1", "TRYB_QUM_M1",
+            "WYNIK_QUM_M2", "TRYB_QUM_M2",
+            "WYNIK_QUM_M3", "TRYB_QUM_M3",
+            "WYNIK_TEST_M1", "WYNIK_TEST_M2", "WYNIK_TEST_M3",
+            "WYNIK_TKK", "DECYZJA_TKK",
+            "KOMENTARZ_INSTRUKTORA", "INSTRUKTOR", "KOORDYNATOR_KURSU",
+            "NR_KARTY_POSTEPOW",
+        ),
+    ),
 }
 
 
@@ -165,7 +196,7 @@ def find_remaining_placeholders(doc) -> set[str]:
             for cell in row.cells:
                 for paragraph in cell.paragraphs:
                     text_blob.append(paragraph.text)
-    return set(re.findall(r"\{\{[A-Z_]+\}\}", "\n".join(text_blob)))
+    return set(re.findall(r"\{\{[A-Z0-9_]+\}\}", "\n".join(text_blob)))
 
 
 def generate_for_type(

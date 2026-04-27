@@ -32,7 +32,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 B4_ROOT = REPO_ROOT / "podprojekt-b" / "B4-operacyjne"
 
 EM_DASH = b"\xe2\x80\x94"
-PLACEHOLDER_RE = re.compile(r"\{\{[A-Z_]+\}\}")
+PLACEHOLDER_RE = re.compile(r"\{\{[A-Z0-9_]+\}\}")
 
 
 @dataclass
@@ -60,6 +60,9 @@ KLASA_1: tuple[FileSpec, ...] = (
     FileSpec("O3-ocena/01-quiz-uzupelniajacy-M1", ("pl", "en", "es", "uk"), "QUM-M1-1.0/2026", 1),
     FileSpec("O3-ocena/02-quiz-uzupelniajacy-M2", ("pl", "en", "es", "uk"), "QUM-M2-1.0/2026", 1),
     FileSpec("O3-ocena/03-quiz-uzupelniajacy-M3", ("pl", "en", "es", "uk"), "QUM-M3-1.0/2026", 1),
+    FileSpec("O3-ocena/08-test-koncowy-kursu", ("pl", "en", "es", "uk"), "TKK-1.0/2026", 1),
+    FileSpec("O3-ocena/10-sprawdzian-czastkowy-M1-T12", ("pl", "en", "es", "uk"), "SPC-M1-T12-1.0/2026", 1),
+    FileSpec("O3-ocena/11-sprawdzian-czastkowy-M1-T34", ("pl", "en", "es", "uk"), "SPC-M1-T34-1.0/2026", 1),
 )
 
 KLASA_3: tuple[FileSpec, ...] = (
@@ -69,6 +72,9 @@ KLASA_3: tuple[FileSpec, ...] = (
     FileSpec("O3-ocena/04-klucz-quizu-M1", ("pl",), "KOD-QUM-M1-1.0/2026", 3),
     FileSpec("O3-ocena/05-klucz-quizu-M2", ("pl",), "KOD-QUM-M2-1.0/2026", 3),
     FileSpec("O3-ocena/06-klucz-quizu-M3", ("pl",), "KOD-QUM-M3-1.0/2026", 3),
+    FileSpec("O3-ocena/09-klucz-testu-koncowego", ("pl",), "KOD-TKK-1.0/2026", 3),
+    FileSpec("O3-ocena/12-klucz-sprawdzianu-M1-T12", ("pl",), "KOD-SPC-M1-T12-1.0/2026", 3),
+    FileSpec("O3-ocena/13-klucz-sprawdzianu-M1-T34", ("pl",), "KOD-SPC-M1-T34-1.0/2026", 3),
 )
 
 KLASA_2: tuple[FileSpec, ...] = (
@@ -77,6 +83,8 @@ KLASA_2: tuple[FileSpec, ...] = (
     FileSpec("O2-realizacja/01-harmonogram-szczegolowy", ("pl",), "HSZ-1.0/2026", 2),
     FileSpec("O2-realizacja/04-zbiorcza-karta-obecnosci", ("pl", "en", "es", "uk"), "ZKO-1.0/2026", 2),
     FileSpec("O3-ocena/07-karta-odpowiedzi", ("pl", "en", "es", "uk"), "KO-1.0/2026", 2),
+    FileSpec("O3-ocena/14-protokol-testu-koncowego", ("pl",), "PTK-1.0/2026", 2),
+    FileSpec("O3-ocena/15-karta-postepow-kursanta", ("pl", "en", "es", "uk"), "KP-1.0/2026", 2),
 )
 
 ALL_TYPES: tuple[FileSpec, ...] = KLASA_1 + KLASA_3 + KLASA_2
