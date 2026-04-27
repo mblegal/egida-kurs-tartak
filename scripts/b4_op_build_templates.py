@@ -48,6 +48,15 @@ KLASA_2_TYPES: tuple[TemplateSpec, ...] = (
     TemplateSpec("O3-ocena/07-karta-odpowiedzi", ("pl", "en", "es", "uk"), "KO-1.0/2026"),
     TemplateSpec("O3-ocena/14-protokol-testu-koncowego", ("pl",), "PTK-1.0/2026"),
     TemplateSpec("O3-ocena/15-karta-postepow-kursanta", ("pl", "en", "es", "uk"), "KP-1.0/2026"),
+    TemplateSpec("O3-ocena/19-zestawienie-zbiorcze-ocen", ("pl",), "ZZO-1.0/2026"),
+    TemplateSpec("O4-zamkniecie/01-protokol-zakonczenia-kursu", ("pl",), "PZK-1.0/2026"),
+    TemplateSpec("O4-zamkniecie/02-lista-absolwentow", ("pl",), "LA-1.0/2026"),
+    TemplateSpec("O4-zamkniecie/03-rejestr-wydanych-zaswiadczen", ("pl",), "RWZ-1.0/2026"),
+    TemplateSpec("O4-zamkniecie/04-raport-koncowy-edycji", ("pl",), "RKE-1.0/2026"),
+    TemplateSpec("O4-zamkniecie/05-karta-edycji-kursu", ("pl",), "KEK-1.0/2026"),
+    TemplateSpec("O4-zamkniecie/06-spis-dokumentacji-edycji", ("pl",), "SDE-1.0/2026"),
+    TemplateSpec("O5-incydenty/03-skreslenie-z-listy", ("pl",), "SL-1.0/2026"),
+    TemplateSpec("O5-incydenty/04-protokol-wypadku", ("pl",), "PW-1.0/2026"),
 )
 
 

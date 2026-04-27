@@ -63,6 +63,9 @@ KLASA_1: tuple[FileSpec, ...] = (
     FileSpec("O3-ocena/08-test-koncowy-kursu", ("pl", "en", "es", "uk"), "TKK-1.0/2026", 1),
     FileSpec("O3-ocena/10-sprawdzian-czastkowy-M1-T12", ("pl", "en", "es", "uk"), "SPC-M1-T12-1.0/2026", 1),
     FileSpec("O3-ocena/11-sprawdzian-czastkowy-M1-T34", ("pl", "en", "es", "uk"), "SPC-M1-T34-1.0/2026", 1),
+    FileSpec("O3-ocena/18-ankieta-ewaluacyjna-uczestnika", ("pl", "en", "es", "uk"), "AEU-1.0/2026", 1),
+    FileSpec("O5-incydenty/01-usprawiedliwienie-nieobecnosci", ("pl", "en", "es", "uk"), "UN-1.0/2026", 1),
+    FileSpec("O5-incydenty/02-wniosek-o-powtorzenie", ("pl", "en", "es", "uk"), "WP-1.0/2026", 1),
 )
 
 KLASA_3: tuple[FileSpec, ...] = (
@@ -75,6 +78,8 @@ KLASA_3: tuple[FileSpec, ...] = (
     FileSpec("O3-ocena/09-klucz-testu-koncowego", ("pl",), "KOD-TKK-1.0/2026", 3),
     FileSpec("O3-ocena/12-klucz-sprawdzianu-M1-T12", ("pl",), "KOD-SPC-M1-T12-1.0/2026", 3),
     FileSpec("O3-ocena/13-klucz-sprawdzianu-M1-T34", ("pl",), "KOD-SPC-M1-T34-1.0/2026", 3),
+    FileSpec("O3-ocena/16-arkusz-oceny-instruktora", ("pl",), "AOI-1.0/2026", 3),
+    FileSpec("O3-ocena/17-ankieta-ewaluacyjna-instruktora", ("pl",), "AEI-1.0/2026", 3),
 )
 
 KLASA_2: tuple[FileSpec, ...] = (
@@ -85,6 +90,15 @@ KLASA_2: tuple[FileSpec, ...] = (
     FileSpec("O3-ocena/07-karta-odpowiedzi", ("pl", "en", "es", "uk"), "KO-1.0/2026", 2),
     FileSpec("O3-ocena/14-protokol-testu-koncowego", ("pl",), "PTK-1.0/2026", 2),
     FileSpec("O3-ocena/15-karta-postepow-kursanta", ("pl", "en", "es", "uk"), "KP-1.0/2026", 2),
+    FileSpec("O3-ocena/19-zestawienie-zbiorcze-ocen", ("pl",), "ZZO-1.0/2026", 2),
+    FileSpec("O4-zamkniecie/01-protokol-zakonczenia-kursu", ("pl",), "PZK-1.0/2026", 2),
+    FileSpec("O4-zamkniecie/02-lista-absolwentow", ("pl",), "LA-1.0/2026", 2),
+    FileSpec("O4-zamkniecie/03-rejestr-wydanych-zaswiadczen", ("pl",), "RWZ-1.0/2026", 2),
+    FileSpec("O4-zamkniecie/04-raport-koncowy-edycji", ("pl",), "RKE-1.0/2026", 2),
+    FileSpec("O4-zamkniecie/05-karta-edycji-kursu", ("pl",), "KEK-1.0/2026", 2),
+    FileSpec("O4-zamkniecie/06-spis-dokumentacji-edycji", ("pl",), "SDE-1.0/2026", 2),
+    FileSpec("O5-incydenty/03-skreslenie-z-listy", ("pl",), "SL-1.0/2026", 2),
+    FileSpec("O5-incydenty/04-protokol-wypadku", ("pl",), "PW-1.0/2026", 2),
 )
 
 ALL_TYPES: tuple[FileSpec, ...] = KLASA_1 + KLASA_3 + KLASA_2
