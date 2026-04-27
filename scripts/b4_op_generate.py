@@ -93,6 +93,19 @@ TYPE_CONFIGS: dict[str, TypeConfig] = {
             "DECYZJA_DOPUSZCZENIA", "KOORDYNATOR_KURSU", "NR_KARTY_OBECNOSCI",
         ),
     ),
+    "karta-odpowiedzi": TypeConfig(
+        slug="karta-odpowiedzi",
+        typ_path="O3-ocena/07-karta-odpowiedzi",
+        languages=("pl", "en", "es", "uk"),
+        row_id_field="NR_KARTY",
+        expected_placeholders=(
+            "IMIE_KURSANTA", "NAZWISKO_KURSANTA", "NR_KARTY",
+            "KOD_QUIZU", "NUMER_MODULU", "TRYB_QUIZU", "DATA_QUIZU",
+            "CYKL_KURSU", "KOORDYNATOR_KURSU",
+            "LICZBA_ZAMKNIETYCH", "LICZBA_OTWARTYCH", "LICZBA_CASEOW",
+            "CZAS_TRWANIA_MIN",
+        ),
+    ),
 }
 
 

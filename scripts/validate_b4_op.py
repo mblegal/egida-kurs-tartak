@@ -57,12 +57,18 @@ KLASA_1: tuple[FileSpec, ...] = (
     FileSpec("O1-wejscie/03-ankieta-wstepna", ("pl", "en", "es", "uk"), "AW-1.0/2026", 1),
     FileSpec("O2-realizacja/06-protokol-bhp", ("pl", "en", "es", "uk"), "PIB-1.0/2026", 1),
     FileSpec("O2-realizacja/07-rejestr-materialow", ("pl", "en", "es", "uk"), "RM-1.0/2026", 1),
+    FileSpec("O3-ocena/01-quiz-uzupelniajacy-M1", ("pl", "en", "es", "uk"), "QUM-M1-1.0/2026", 1),
+    FileSpec("O3-ocena/02-quiz-uzupelniajacy-M2", ("pl", "en", "es", "uk"), "QUM-M2-1.0/2026", 1),
+    FileSpec("O3-ocena/03-quiz-uzupelniajacy-M3", ("pl", "en", "es", "uk"), "QUM-M3-1.0/2026", 1),
 )
 
 KLASA_3: tuple[FileSpec, ...] = (
     FileSpec("O2-realizacja/02-dziennik-zajec", ("pl",), "DZ-1.0/2026", 3),
     FileSpec("O2-realizacja/05-konspekt-lekcji", ("pl",), "KL-1.0/2026", 3),
     FileSpec("O2-realizacja/03-lista-obecnosci-dzienna", ("pl", "en", "es", "uk"), "LO-1.0/2026", 3),
+    FileSpec("O3-ocena/04-klucz-quizu-M1", ("pl",), "KOD-QUM-M1-1.0/2026", 3),
+    FileSpec("O3-ocena/05-klucz-quizu-M2", ("pl",), "KOD-QUM-M2-1.0/2026", 3),
+    FileSpec("O3-ocena/06-klucz-quizu-M3", ("pl",), "KOD-QUM-M3-1.0/2026", 3),
 )
 
 KLASA_2: tuple[FileSpec, ...] = (
@@ -70,6 +76,7 @@ KLASA_2: tuple[FileSpec, ...] = (
     FileSpec("O1-wejscie/05-lista-kwalifikowanych", ("pl",), "LK-1.0/2026", 2),
     FileSpec("O2-realizacja/01-harmonogram-szczegolowy", ("pl",), "HSZ-1.0/2026", 2),
     FileSpec("O2-realizacja/04-zbiorcza-karta-obecnosci", ("pl", "en", "es", "uk"), "ZKO-1.0/2026", 2),
+    FileSpec("O3-ocena/07-karta-odpowiedzi", ("pl", "en", "es", "uk"), "KO-1.0/2026", 2),
 )
 
 ALL_TYPES: tuple[FileSpec, ...] = KLASA_1 + KLASA_3 + KLASA_2

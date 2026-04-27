@@ -45,6 +45,7 @@ KLASA_2_TYPES: tuple[TemplateSpec, ...] = (
     TemplateSpec("O1-wejscie/05-lista-kwalifikowanych", ("pl",), "LK-1.0/2026"),
     TemplateSpec("O2-realizacja/01-harmonogram-szczegolowy", ("pl",), "HSZ-1.0/2026"),
     TemplateSpec("O2-realizacja/04-zbiorcza-karta-obecnosci", ("pl", "en", "es", "uk"), "ZKO-1.0/2026"),
+    TemplateSpec("O3-ocena/07-karta-odpowiedzi", ("pl", "en", "es", "uk"), "KO-1.0/2026"),
 )
 
 
