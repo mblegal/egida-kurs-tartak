@@ -92,7 +92,7 @@ k) **cualesquiera otras actuaciones** de la Fundación o del Empresario que teng
 
    a) **por escrito**, mediante carta certificada o personalmente con acuse, en la dirección: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, con la mención «Reclamación»;
 
-   b) **por vía electrónica**, mediante mensaje de correo electrónico a la dirección: **reklamacje@fundacjaegida.eu** (con copia de información al coordinador del Curso, si el Cursante conoce su dirección);
+   b) **por vía electrónica**, mediante mensaje de correo electrónico a la dirección: **sekretariat@fundacjaegida.eu** (con copia de información al coordinador del Curso, si el Cursante conoce su dirección);
 
    c) **personalmente**, en horario de atención de la oficina de la Fundación en Opole (el horario de atención está disponible en el sitio web https://fundacjaegida.eu).
 

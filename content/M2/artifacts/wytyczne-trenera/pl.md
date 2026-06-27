@@ -10,35 +10,7 @@ odbiorca: trener / prowadzący kurs
 
 Metaprzewodnik metodyczny dla trenerów Fundacji EGIDA prowadzących Moduł 2 kursu tartakowego (4 tygodnie, 32 lekcje, grupy migrantów 4-językowych PL/EN/ES/UK, kursanci po ukończonym M1 Pomocnik tartaczny).
 
-## 1. Cel dokumentu i odbiorca
-
-Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M2. Nie zastępuje szczegółowych „Notatek dla trenera" z każdej lekcji (32 pliki PL), tylko **spina je w ramę organizacyjną M2**: paradygmat „operator pod nadzorem", cztery obszary kompetencji, pięć kryteriów Piotra, integrację z egzaminem praktycznym wtorkowym.
-
-**Kto go czyta**. Ten sam trener, który prowadził M1 (polski specjalista BHP lub instruktor branżowy 5+ lat w tartaku), po ukończonym M1 kursu. Dodatkowo: nowy trener, który dołącza do M2 (czyta najpierw wytyczne M1 żeby zrozumieć profil kursanta, potem to).
-
-**Jak się go używa**. Czytasz raz w całości przed pierwszym kursem M2 (2-3 h). Potem wracasz punktowo kiedy napotykasz problem specyficzny dla M2 („kursant nie rozumie różnicy operator-junior" → sekcja 4; „kursant panikuje przed testem l8" → sekcja 9). Dokument żyje: jeśli coś się powtarza a nie jest tu opisane, zgłoś koordynatorowi EGIDA.
-
-**Co M2 zmienia wobec M1**. W M1 paradygmat był „pomagam, ale nie obsługuję" (pomocnik obserwuje, nie dotyka maszyn wirujących). W M2 paradygmat zmienia się na **„pomagam operatorowi, sam uruchamiam pod nadzorem, pod warunkiem że mam uprawnienia stanowiskowe"**. Różnica kluczowa: kursant M2 **uruchamia pilarkę taśmową pod obserwacją seniora**, co wymaga od trenera innych kompetencji niż w M1.
-
-## 2. Profil kursanta M2
-
-### Kursant przychodzi z M1
-
-**Co już wie po ukończonym M1**: 12 zasad M1, 6 zagrożeń tartaku, ŚOI 6 elementów + rękawice, 3 gesty (STOP/COFAJ/GOTOWE z Krzysztofem), format 4W komunikacji, piramida eskalacji 5 szczebli, art. 210 KP + art. 162 KK + Rozp. MG 2000, pierwsza pomoc BLS, 30 polskich terminów tartacznych. **Zaliczony test l8 M1** = 70%+ z 30 pytań zamkniętych.
-
-**Co NIE wie jeszcze**. Fizyka materiału drewna, klasy wytrzymałościowe, parametry maszyn, procedury dokumentacyjne operatorskie, autoregulacja zmęczenia, łańcuch certyfikacji FSC. Wszystko to wchodzi w M2.
-
-**Polski przy starcie M2**: A1-A2 (30-50% rozumienia), podniesiony z A0-A1 dzięki czterem tygodniom intensywnego kontaktu w M1. Niektórzy (zwłaszcza Ukraińcy) wchodzą już na B1 dzięki bliskości językowej. Kursanci z Ameryki Łacińskiej radzą sobie różnie: dla części język polski pozostaje wyzwaniem, dla innych nieoczekiwanie szybko zaczyna „wskakiwać".
-
-**Motywacja**. Wyższa niż w M1 bo widzą światło na końcu tunelu (zatrudnienie w tartakach za 6-8 tygodni od startu M1). Stawka operatora juniora po M2: 40-55 zł brutto/h (M1 pomocnik: 28-35 zł). Po 3 miesiącach w tartaku + UDT kat. II WJO: 55-65 zł. Po roku: 65-80 zł. **Kurs M2 to podwojenie stawki** wobec wchodzenia „z ulicy" w tartak.
-
-**Bariery nowe w M2**. (1) Przeciążenie informacyjne, 32 lekcje × 120 min × 4 obszary kompetencji to dużo; (2) stres egzaminu praktycznego wtorkowego (5 kryteriów Piotra), nowy format, pierwszy raz widziany; (3) wymagania dokumentacji pisemnej, kursanci z A1-A2 polskim piszą dziennik z trudem; (4) relacje z polskimi seniorami (Marek, Tadeusz, Zbigniew, Krzysztof, Piotr, Anna), kursanci muszą nauczyć się komunikować z 6 typami polskich przełożonych, każdy z inną osobowością; (5) odpowiedzialność, w M1 pomocnik nic nie ryzykuje, w M2 junior operator może kosztować tartak 50-500 tys. zł źle posortowanym pakietem lub źle zaprogramowanym cyklem suszenia.
-
-### Zmiana postawy
-
-Trener M2 musi wychować w kursancie **postawę odpowiedzialności** za konkret materialny. W M1 postawa była „bezpieczeństwo ogólne". W M2 postawa to **„za ten pakiet / tę belkę / ten wpis w dzienniku odpowiada moje imię w papierach tartaku"**. To jest zmiana pedagogiczna dużo większa niż dodanie nowej wiedzy.
-
-## 3. Harmonogram 4 tygodni M2
+## 1. Harmonogram 4 tygodni M2
 
 ### Ramy czasowe
 
@@ -118,7 +90,7 @@ Trener M2 musi wychować w kursancie **postawę odpowiedzialności** za konkret 
 
 **Specyfika**. Tydzień 4 jest najbardziej gęsty narracyjnie (Andrij + Oleksij + Sofía + Carlos + 6 polskich seniorów), bo zamyka łuki wszystkich bohaterów. Trener powinien rysować na tablicy **mapę relacji 4 obszarów × 6 seniorów × 4 bohaterów migrantów**, żeby kursanci widzieli spójność całości.
 
-## 4. Paradygmat M2: „operator pod nadzorem"
+## 2. Paradygmat M2: „operator pod nadzorem"
 
 ### Różnice operator-junior (z l7 T4 recap)
 
@@ -142,7 +114,7 @@ M1 nauczył kursanta, że jest pomocnikiem („pomagam nie obsługuję"). M2 ucz
 
 **Błąd typowy**. Kursant po M1 ma nawyk „pytam przed zrobieniem". W M2 to nie wystarczy, bo zadanie jest większe i wymaga propozycji, nie pytania. Trener musi aktywnie odzwyczajać od języka „pytającego-pasywnego" do języka „proponującego-aktywnego".
 
-## 5. 4 obszary kompetencji i ich kalibracja
+## 3. 4 obszary kompetencji i ich kalibracja
 
 M2 uczy 4 obszarów. Test l8 i quiz uzupełniający rozkładają pytania 20/30/20/30%. Praktyczny wtorek ocenia integrację 4 obszarów przez 5 kryteriów Piotra.
 
@@ -178,7 +150,7 @@ M2 uczy 4 obszarów. Test l8 i quiz uzupełniający rozkładają pytania 20/30/2
 
 **Tempo**. Relacje to obszar, w którym scenki w parach sprawdzają się najlepiej. Tydzień 4 powinien mieć **trzy sesje scenek po godzinie** (wtorek po południu, środa po południu, czwartek po południu) z rotacją par.
 
-## 6. Bohaterowie i ich łuki narracyjne
+## 4. Bohaterowie i ich łuki narracyjne
 
 M2 ma **4 głównych bohaterów migrantów** + **6 polskich seniorów**. Trener MUSI rysować na tablicy mapę relacji w każdej lekcji, żeby kursanci widzieli kontekst.
 
@@ -222,7 +194,7 @@ Carlos to **postać dla kursanta o wysokiej energii i ekspresyjnym temperamencie
 
 **Każdy senior reprezentuje inny typ relacji**, której kursant musi się nauczyć. Marek = bliski brygadzista (codzienne). Tadeusz = mentor-mistrz (szacunek + zaufanie). Zbigniew = specjalista techniczny (szacunek + ograniczone spotkania). Krzysztof = partner zawodowy (równoległy, nie przełożony). Piotr = wymagający egzaminator. Anna = dystansowa autorytet.
 
-## 7. Ocenianie M2
+## 5. Ocenianie M2
 
 ### Test teoretyczny l8 (poniedziałek tyg. 5)
 
@@ -263,7 +235,7 @@ Kursant **niezdający testu, zdający praktyczny** = rzadki przypadek, zaliczeni
 
 Kursant **niezdający obu** = tryb poprawkowy 2-3 tyg., ponowny test + quiz uzupełniający + powtórny egzamin wtorkowy.
 
-## 8. Pedagogika dla migrantów w M2
+## 6. Pedagogika dla migrantów w M2
 
 ### Specyfika M2 wobec M1
 
@@ -287,48 +259,7 @@ M2 wymaga **więcej mówienia po polsku** (format 4W przez telefon, rozmowy z w�
 
 **Wszystkie kultury**: **pisanie w języku obcym pod presją czasu**. Stosuj zasadę „zapisz w notesie A6 po swojemu, dopiero potem spokojnie przepisz do dziennika po polsku" (nawyk z l2 T4 Blok 1). Oszczędza stres i eliminuje większość błędów.
 
-## 9. Trudne sytuacje specyficzne dla M2
-
-### „Kursant panikuje przed egzaminem wtorkowym"
-
-Objawy: brak snu niedziela-poniedziałek, drżenie rąk przed etapem A, niemożność czytania dyspozycji. Częste u kursantów, dla których to pierwszy formalny egzamin praktyczny w życiu.
-
-**Reakcja trenera**:
-1. Rozmowa 30 min w poniedziałek 17:00 (po teście teoretycznym, przed wtorkiem).
-2. Przypomnienie: „Piotr Czerwiński ocenia kompetencje, nie osobowość. 3/4 na każdym kryterium wystarczy, nie potrzeba perfekcji".
-3. Wizualizacja: kursant zamyka oczy, trener prowadzi werbalnie przez 4 etapy 2 min każdy. To uspokaja układ nerwowy.
-4. Techniki oddechowe: 4-7-8 (wdech 4 s, zatrzymanie 7 s, wydech 8 s, powtórzyć 3 razy). Można zrobić przed etapem A.
-5. Jeśli kursant nie śpi w poniedziałek: tabletka ziołowa melisowa (za zgodą, nie przepisujemy), **nie silniejsze**. Pilot meldunku: „wtorek 6:00 dzwonię do ciebie, potwierdzisz że jesteś w drodze".
-
-### „Kursant nie potrafi odmówić Krzysztofowi (bariera kulturowa)"
-
-Objawy: scenariusz praktyczny 4 kończy się wynikiem 0/4; kursant bierze pakiet bez etykiety pod presją. Szczególnie często u osób z silnym hierarchicznym wzorcem relacji pracowniczych (np. u części kursantów latynoskich, u których utrwalił się model „patron-pracownik").
-
-**Reakcja**:
-1. Rozmowa 20 min z pokazaniem art. 210 KP w języku ojczystym kursanta (przygotowane dwujęzyczne druki z tłumaczeniem).
-2. Ćwiczenie w parach z trenerem w roli Krzysztofa **przez 30 min**, aż kursant opanuje konkretną frazę („Krzyśku, muszę to zapisać, daj 2 minuty").
-3. Wzmacnianie: „nie odmawiasz Krzysztofowi jako osobie; odmawiasz naruszenia procedury. Krzysztof szanuje cię, gdy jesteś profesjonalny, a nie gdy jesteś miły".
-4. Jeśli po 30 min kursant nadal nie potrafi, powtórz scenariusz 4 za 3-5 dni.
-
-### „Kursant za szybko zgadza się zmiany priorytetu ustnej"
-
-Objawy: scenariusz 8 ćwiczeń = przyjmuje zmianę priorytetu ustnie bez prośby o aktualizację pisemną. Częste u osób z silnym kulturowym szacunkiem do brygadzisty.
-
-**Reakcja**:
-1. Cytat statystyki PIP 4% wypadków tartaku = polecenie ustne niezgodne ze stanem surowca.
-2. Pokaz rzeczywistego wypadku w tartaku partnera EGIDA z 2023 roku (anonimizowany). Klient zmienił priorytet ustnie, brygadzista przekazał, operator pociął inny gatunek, PIP odwiedził tartak, tartak zapłacił 40 tys. kary.
-3. Ćwiczenie: „masz 5 prób powtórzenia prośby 'Marku, proszę o aktualizację pisemną ołówkiem'". Każda z innym tonem.
-
-### „Kursant nie rozróżnia klas wizualnych od wytrzymałościowych"
-
-Objawy: test l8 = miesza PN-EN 1611 (wizualne A-S0) z PN-EN 14081 (wytrzymałościowe C14-D70). Częste u osób bez doświadczenia budowlanego.
-
-**Reakcja**:
-1. Karta A5 drukowana na obie strony: strona 1 = tabela 1611 wizualne z przykładami wad, strona 2 = tabela 14081 wytrzymałościowe z liczbami N/mm².
-2. Ćwiczenie: trener pokazuje 20 kart opisów desek, kursant klasyfikuje na dwie kupki (wizualne vs wytrzymałościowe).
-3. Memotechnika: **„1-6-1-1 to widzę, 1-4-0-8-1 to oblicze"**. 1611 = wizualne (widzę okiem), 14081 = wytrzymałościowe (liczę N/mm²).
-
-## 10. Integracja z artefaktami Fazy 4 M2
+## 7. Integracja z artefaktami Fazy 4 M2
 
 ### Quiz uzupełniający M2
 
@@ -354,7 +285,7 @@ Objawy: test l8 = miesza PN-EN 1611 (wizualne A-S0) z PN-EN 14081 (wytrzymałoś
 
 **Jak prowadzić**: checklista + obserwacja + feedback. Kryteria 0-4 pkt, próg 3/4 per kryterium.
 
-## 11. Przejście M1 → M2 → M3
+## 8. Przejście M1 → M2 → M3
 
 ### M1 → M2 (tydzień 1 M2)
 
@@ -372,7 +303,7 @@ Objawy: test l8 = miesza PN-EN 1611 (wizualne A-S0) z PN-EN 14081 (wytrzymałoś
 
 **Cel briefingu**. Kursant wie, że M2 nie jest końcem, ale szczeblem. Motywacja ciągła. Rekrutacja tych, którzy chcą iść dalej (nie wszyscy; niektórzy zatrudniają się po M2 i wracają do M3 po 6-12 miesiącach pracy).
 
-## 12. Kalibracja trenera i jakość
+## 9. Kalibracja trenera i jakość
 
 ### Przed pierwszym M2
 

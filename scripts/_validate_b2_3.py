@@ -49,8 +49,7 @@ def common_checks(raw: bytes, txt: str, lang: str) -> dict[str, bool]:
         "70_pct": "70%" in txt,
         "75_pct": "75%" in txt,
         "checkbox_30": txt.count("☐") >= 30,
-        "rekrutacja_email": "rekrutacja@fundacjaegida.eu" in txt,
-        "rodo_email": "rodo@fundacjaegida.eu" in txt,
+        "sekretariat_email_x2": txt.count("sekretariat@fundacjaegida.eu") >= 2,
         "EFS_wzmianka": (
             "EFS+" in txt or "ESF+" in txt or "FSE+" in txt or "ЄСФ" in txt
         ),

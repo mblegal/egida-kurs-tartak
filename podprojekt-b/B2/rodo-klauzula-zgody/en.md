@@ -54,7 +54,7 @@ The Entrepreneur processes the Course Participant's personal data **solely** wit
 
 The Foundation has not appointed a Data Protection Officer within the meaning of Article 37 of the GDPR, since it does not meet the conditions for the mandatory appointment of a DPO (Article 37(1)(a), (b), (c) of the GDPR). In any matter concerning the processing of the Course Participant's personal data, including for the purpose of exercising any of the rights referred to in point 7 of this clause, the Course Participant may contact the Foundation by:
 
-- e-mail address: **rodo@fundacjaegida.eu**
+- e-mail address: **sekretariat@fundacjaegida.eu**
 - postal address: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, Poland, with the annotation "RODO"
 - in person, during the office hours of the Foundation in Opole
 
@@ -166,7 +166,7 @@ The Course Participant may grant, in a manner voluntary and independent of parti
 
 ### Consent 1. Newsletter of the Foundation
 
-> I consent to the processing of my personal data (first name, surname, e-mail address) by Fundacja pomocy prawnej EGIDA with its registered seat in Opole for the purpose of receiving by electronic means information about subsequent courses, events and activities of the Foundation (newsletter), on the basis of Article 6(1)(a) of the GDPR and Article 10 of the Act of 18 July 2002 on the Provision of Services by Electronic Means. I am aware that I may withdraw my consent at any time by sending a message to the address rodo@fundacjaegida.eu or by clicking the unsubscribe link included in every newsletter message.
+> I consent to the processing of my personal data (first name, surname, e-mail address) by Fundacja pomocy prawnej EGIDA with its registered seat in Opole for the purpose of receiving by electronic means information about subsequent courses, events and activities of the Foundation (newsletter), on the basis of Article 6(1)(a) of the GDPR and Article 10 of the Act of 18 July 2002 on the Provision of Services by Electronic Means. I am aware that I may withdraw my consent at any time by sending a message to the address sekretariat@fundacjaegida.eu or by clicking the unsubscribe link included in every newsletter message.
 
 | ☐ YES, I grant consent | ☐ NO, I do not grant consent |
 |------------------------|------------------------------|

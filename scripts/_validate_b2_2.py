@@ -69,7 +69,7 @@ def main() -> int:
             "NIP": txt.count("7543348716") >= 1,
             "REGON": txt.count("521360040") >= 1,
             "Ozimska_addr": (txt.count("Ozimska 14-16/314A") + txt.count("Озимська 14-16/314A")) >= 1,
-            "rodo_email_x2": txt.count("rodo@fundacjaegida.eu") >= 2,
+            "sekretariat_email_x2": txt.count("sekretariat@fundacjaegida.eu") >= 2,
             "SMART": txt.count("SMART") >= 1,
             "consent_checkboxes_ge_6": txt.count("☐") >= 6,
         }

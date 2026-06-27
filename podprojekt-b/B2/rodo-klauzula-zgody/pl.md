@@ -54,7 +54,7 @@ Przedsiębiorca przetwarza dane osobowe Kursanta **wyłącznie** w zakresie i ce
 
 Fundacja nie powołała Inspektora ochrony danych w rozumieniu art. 37 RODO, gdyż nie spełnia przesłanek obligatoryjnego powołania IOD (art. 37 ust. 1 lit. a, b, c RODO). W każdej sprawie dotyczącej przetwarzania danych osobowych Kursanta, w tym w celu wykonania któregokolwiek z praw, o których mowa w pkt 7 niniejszej klauzuli, Kursant może skontaktować się z Fundacją przez:
 
-- adres e-mail: **rodo@fundacjaegida.eu**
+- adres e-mail: **sekretariat@fundacjaegida.eu**
 - adres do korespondencji: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, z dopiskiem „RODO"
 - osobiście, w godzinach pracy biura Fundacji w Opolu
 
@@ -166,7 +166,7 @@ Kursant może wyrazić, w sposób dobrowolny i niezależny od udziału w Kursie,
 
 ### Zgoda 1. Newsletter Fundacji
 
-> Wyrażam zgodę na przetwarzanie moich danych osobowych (imię, nazwisko, adres e-mail) przez Fundację pomocy prawnej EGIDA z siedzibą w Opolu w celu otrzymywania drogą elektroniczną informacji o kolejnych kursach, wydarzeniach i działalności Fundacji (newsletter), na podstawie art. 6 ust. 1 lit. a RODO oraz art. 10 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną. Wiem, że mogę cofnąć zgodę w dowolnym momencie przez wysłanie wiadomości na adres rodo@fundacjaegida.eu albo przez kliknięcie w link wypisu zamieszczany w każdej wiadomości newslettera.
+> Wyrażam zgodę na przetwarzanie moich danych osobowych (imię, nazwisko, adres e-mail) przez Fundację pomocy prawnej EGIDA z siedzibą w Opolu w celu otrzymywania drogą elektroniczną informacji o kolejnych kursach, wydarzeniach i działalności Fundacji (newsletter), na podstawie art. 6 ust. 1 lit. a RODO oraz art. 10 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną. Wiem, że mogę cofnąć zgodę w dowolnym momencie przez wysłanie wiadomości na adres sekretariat@fundacjaegida.eu albo przez kliknięcie w link wypisu zamieszczany w każdej wiadomości newslettera.
 
 | ☐ TAK, wyrażam zgodę | ☐ NIE wyrażam zgody |
 |----------------------|----------------------|

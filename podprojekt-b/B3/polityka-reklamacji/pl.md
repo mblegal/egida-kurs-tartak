@@ -92,7 +92,7 @@ k) **wszelkich innych czynności** Fundacji albo Przedsiębiorcy mających wpły
 
    a) **pisemnie**, listem poleconym albo osobiście za pokwitowaniem, na adres: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole (KRS: 0000957190, NIP: 7543348716, REGON: 521360040), z dopiskiem „Reklamacja",
 
-   b) **elektronicznie**, w wiadomości e-mail na adres: **reklamacje@fundacjaegida.eu** (z kopią do informacji koordynatora Kursu, jeżeli Kursant zna jego adres),
+   b) **elektronicznie**, w wiadomości e-mail na adres: **sekretariat@fundacjaegida.eu** (z kopią do informacji koordynatora Kursu, jeżeli Kursant zna jego adres),
 
    c) **osobiście**, w godzinach pracy biura Fundacji w Opolu (godziny urzędowania udostępniane są na stronie https://fundacjaegida.eu).
 

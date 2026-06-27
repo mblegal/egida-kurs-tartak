@@ -264,7 +264,7 @@ Kandydat składa, podpisując niniejszy formularz, następujące oświadczenia.
 >
 > a) niniejsza zgoda jest dobrowolna i jej brak nie wpływa na rozpatrzenie mojej obecnej kandydatury,
 >
-> b) mogę cofnąć zgodę w dowolnym momencie wysyłając wiadomość na adres rodo@fundacjaegida.eu,
+> b) mogę cofnąć zgodę w dowolnym momencie wysyłając wiadomość na adres sekretariat@fundacjaegida.eu,
 >
 > c) cofnięcie zgody skutkuje usunięciem moich danych z bazy kandydatów, ale nie wpływa na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.
 
@@ -273,7 +273,7 @@ Kandydat składa, podpisując niniejszy formularz, następujące oświadczenia.
 
 ### I.5. Zgoda opcjonalna – newsletter Fundacji
 
-> Wyrażam dobrowolną zgodę, w rozumieniu art. 6 ust. 1 lit. a RODO oraz art. 10 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, na przetwarzanie moich danych osobowych (imię, nazwisko, adres e-mail) przez Fundację pomocy prawnej EGIDA w celu otrzymywania drogą elektroniczną informacji o kolejnych kursach, wydarzeniach i działalności Fundacji (newsletter). Mogę cofnąć zgodę w dowolnym momencie wysyłając wiadomość na adres rodo@fundacjaegida.eu albo klikając w link wypisu zamieszczany w każdej wiadomości newslettera.
+> Wyrażam dobrowolną zgodę, w rozumieniu art. 6 ust. 1 lit. a RODO oraz art. 10 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, na przetwarzanie moich danych osobowych (imię, nazwisko, adres e-mail) przez Fundację pomocy prawnej EGIDA w celu otrzymywania drogą elektroniczną informacji o kolejnych kursach, wydarzeniach i działalności Fundacji (newsletter). Mogę cofnąć zgodę w dowolnym momencie wysyłając wiadomość na adres sekretariat@fundacjaegida.eu albo klikając w link wypisu zamieszczany w każdej wiadomości newslettera.
 
 | ☐ TAK, wyrażam zgodę | ☐ NIE wyrażam zgody |
 |----------------------|----------------------|
@@ -318,11 +318,11 @@ Kandydat może złożyć formularz w jeden z trzech sposobów:
 
 a) **osobiście** w siedzibie Fundacji pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, w godzinach pracy biura Fundacji,
 
-b) **pocztą elektroniczną** w postaci wypełnionego i podpisanego skanu na adres: **rekrutacja@fundacjaegida.eu** (akceptowane formaty: PDF, JPG; maksymalny rozmiar wiadomości 25 MB),
+b) **pocztą elektroniczną** w postaci wypełnionego i podpisanego skanu na adres: **sekretariat@fundacjaegida.eu** (akceptowane formaty: PDF, JPG; maksymalny rozmiar wiadomości 25 MB),
 
 c) **pocztą tradycyjną** na adres: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, z dopiskiem „Formularz rekrutacyjny – Kurs Praca w tartaku" (decyduje data wpływu do Fundacji, nie data nadania).
 
-Fundacja potwierdza wpływ formularza w terminie 7 dni od dnia jego otrzymania, sposobem wybranym przez kandydata w części A. Brak potwierdzenia w tym terminie kandydat może wyjaśnić, kontaktując się z Fundacją na adres rekrutacja@fundacjaegida.eu albo telefonicznie na numer wskazany na stronie internetowej Fundacji.
+Fundacja potwierdza wpływ formularza w terminie 7 dni od dnia jego otrzymania, sposobem wybranym przez kandydata w części A. Brak potwierdzenia w tym terminie kandydat może wyjaśnić, kontaktując się z Fundacją na adres sekretariat@fundacjaegida.eu albo telefonicznie na numer wskazany na stronie internetowej Fundacji.
 
 ---
 

@@ -92,7 +92,7 @@ k) **any other actions** of the Foundation or of the Entrepreneur affecting the 
 
    a) **in writing**, by registered letter or in person against acknowledgement of receipt, to the address: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, marked "Complaint" ("Reklamacja"),
 
-   b) **electronically**, in an e-mail message to the address: **reklamacje@fundacjaegida.eu** (with a courtesy copy to the Course coordinator, if the Course Participant knows the coordinator's address),
+   b) **electronically**, in an e-mail message to the address: **sekretariat@fundacjaegida.eu** (with a courtesy copy to the Course coordinator, if the Course Participant knows the coordinator's address),
 
    c) **in person**, during the working hours of the Foundation's office in Opole (the office hours are made available on the website https://fundacjaegida.eu).
 

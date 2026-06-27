@@ -261,7 +261,15 @@
       }
 
       function saveProgress(progress) {
-        try { localStorage.setItem(LS_PROGRESS, JSON.stringify(progress)); } catch (e) {}
+        try {
+          localStorage.setItem(LS_PROGRESS, JSON.stringify(progress));
+          var completed = 0;
+          getAllLessonIds().forEach(function (id) { if (progress[id]) completed++; });
+          localStorage.setItem('egida-progress:{{MODULE_ID}}', JSON.stringify({
+            completed: completed,
+            total: TOTAL_LESSONS
+          }));
+        } catch (e) {}
       }
 
       function updateProgressBar() {
@@ -520,9 +528,11 @@
         var questions = form.querySelectorAll('.final-quiz-question');
         var total = questions.length;
         var correct = 0;
-        questions.forEach(function (q) {
+        var answers = window.__finalQuizAnswers || {};
+        questions.forEach(function (q, idx) {
           var selected = q.querySelector('input[type="radio"]:checked');
-          if (selected && selected.getAttribute('data-correct') === 'true') correct++;
+          var qid = 'q' + (idx + 1);
+          if (selected && selected.value === answers[qid]) correct++;
         });
         var pct = total > 0 ? Math.round((correct / total) * 100) : 0;
         var passed = pct >= PASS_THRESHOLD;

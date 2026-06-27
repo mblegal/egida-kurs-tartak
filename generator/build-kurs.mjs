@@ -398,6 +398,7 @@ function buildFinalQuiz(moduleId, moduleNames) {
     },
   ];
 
+  const quizAnswers = {};
   const questionsHtml = sampleQuestions.map((q, qIdx) => {
     const qNum = qIdx + 1;
     const promptSpans = LANGS.map((l) => {
@@ -407,12 +408,12 @@ function buildFinalQuiz(moduleId, moduleNames) {
 
     const optionsHtml = q.options.map((opt, optIdx) => {
       const value = ['a', 'b', 'c', 'd'][optIdx];
-      const correctAttr = opt.correct ? ' data-correct="true"' : '';
+      if (opt.correct) quizAnswers['q' + qNum] = value;
       const optSpans = LANGS.map((l) => {
         const hidden = l === 'es' ? '' : ' hidden';
         return `                  <span data-lang="${l}"${hidden}>${escapeHtml(opt.text[l])}</span>`;
       }).join('\n');
-      return `                <li><label><input type="radio" name="q${qNum}" value="${value}"${correctAttr}>
+      return `                <li><label><input type="radio" name="q${qNum}" value="${value}">
 ${optSpans}
                 </label></li>`;
     }).join('\n');
@@ -426,6 +427,8 @@ ${optionsHtml}
               </ul>
             </li>`;
   }).join('\n\n');
+
+  const quizAnswersScript = `        <script>window.__finalQuizAnswers = ${JSON.stringify(quizAnswers)};</script>`;
 
   const submitSpans = LANGS.map((l) => {
     const hidden = l === 'es' ? '' : ' hidden';
@@ -466,6 +469,7 @@ ${backSpans}
         </form>
 
         <div class="final-quiz-result" hidden aria-live="polite"></div>
+${quizAnswersScript}
       </section>`;
 }
 

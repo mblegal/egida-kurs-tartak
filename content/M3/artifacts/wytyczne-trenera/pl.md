@@ -10,37 +10,7 @@ odbiorca: trener / prowadzący kurs
 
 Metaprzewodnik metodyczny dla trenerów Fundacji EGIDA prowadzących Moduł 3 kursu tartakowego (4 tygodnie, 32 lekcje, grupy migrantów 4-językowych PL/EN/ES/UK, kursanci po ukończonym M1 Pomocnik tartaczny i M2 Operator tartaczny pod nadzorem, zwykle z 2-3 miesiącami pracy na hali między modułami).
 
-## 1. Cel dokumentu i odbiorca
-
-Ten dokument jest **podręcznikiem operacyjnym** dla osoby prowadzącej kurs M3. Nie zastępuje „Notatek dla trenera" z każdej lekcji (które są szczegółowe per-lekcja w 32 plikach PL), tylko **spina je w ramę organizacyjną M3**: paradygmat „operator samodzielny", 4 bloki tematyczne (T1 odpowiedzialność + T2 systemy + T3 procesy + T4 organizacja), 5 kompetencji odróżniających M3 od M2, integrację z testem końcowym 108-punktowym i egzaminem praktycznym solo w terminie +14 dni.
-
-**Kto go czyta**. Trener, który prowadził M1 i M2 tej samej kohorty (ciągłość pedagogiczna: polski specjalista BHP lub instruktor branżowy 5+ lat w tartaku + doświadczenie z migrantami). Dodatkowo: nowy trener dołączający wyłącznie do M3 (czyta najpierw wytyczne M1 + M2, potem to, minimum 4-5 h przygotowania).
-
-**Jak się go używa**. Czytasz raz w całości przed pierwszym kursem M3 (2-3 h). Wracasz punktowo przy problemach specyficznych dla M3: „kursant boi się podpisać KAO-001 Adriana" (sekcja 9.1 konflikt nadzorczy), „klient dzwoni z reklamacją w trakcie lekcji" (sekcja 9.2), „kursant pyta czy pójdzie do więzienia za podpis" (sekcja 9.3 obawa odpowiedzialności karnej). Dokument żyje: zgłaszaj koordynatorowi EGIDA sytuacje powtarzające się bez opisu.
-
-**Co M3 zmienia wobec M2**. W M2 paradygmat brzmiał „obsługuję pod nadzorem, pytam brygadzistę przed uruchomieniem". W M3 paradygmat to **„prowadzę zmianę 8 godzin bez bezpośredniego nadzoru, raportuję po fakcie, podejmuję decyzje parametryczne i nadzoruję M2 pod sobą"**. Różnica to skok odpowiedzialności porównywalny z awansem na stanowisko kierownicze: kursant M3 ponosi konsekwencje decyzji parametrycznych w wymiarze 500-2800 zł marży partii, a także konsekwencje prawne z KP art. 120 § 1 (odpowiedzialność pracownika za szkodę) oraz KC art. 556-563 (reklamacje klienta).
-
-## 2. Profil kursanta M3
-
-### Kursant przychodzi z M2 + doświadczenia terenowego
-
-**Co już wie po ukończonym M2**: parametry pilarki taśmowej (ciśnienie 2200-2400 PSI sosna, 2200-2600 dąb; prowadnica 3-4 mm), klasyfikacja wizualna A-D + wytrzymałościowa C14-D70, 4 pozycje pomiaru MC suszenia, 8 pól dziennika operatora + T/M/O/P przestojów, format 4W komunikacji, 3 gesty wózkowego, 5 szczebli eskalacji, łańcuch FSC vs PEFC. **Zaliczony test l8 M2** = 70%+ z 40 pkt + egzamin praktyczny wtorkowy 5 kryteriów Piotra minimum 3/4 na każdym.
-
-**Co NIE wie jeszcze**. Systemowa dokumentacja wieloformularzowa (KDP-001, KS-001, KKS-001, KAO-001), ekonomika pojedynczego zlecenia, reklamacje klienta przez pryzmat Kodeksu cywilnego, nadzór pedagogiczny nad M2, planowanie kariery liczbowej, audyty FSC od strony operatora, granica kompetencji wewnętrzna (operator vs UR) vs zewnętrzna (operator vs serwis producenta).
-
-**Doświadczenie praktyczne**. W przeciwieństwie do M2 (gdzie kursant przychodzi świeżo po M1), kursant M3 ma za sobą **2-3 miesiące pracy na hali** jako operator junior. Wie, jak wygląda zmiana w realu, nie tylko w symulacji. Zna swojego brygadzistę, wózkowego, mistrza suszarni. Ma pierwsze incydenty (zerwanie taśmy, awaria hydrauliczna, drobna reklamacja). To **zmienia dynamikę sali**: kursanci mówią o konkretach ze swojego tartaku, nie o teorii. Trener powinien używać tej wiedzy, zapraszać do dzielenia się: „Mykoła, u ciebie w EGIDA Kętrzyn jak to wygląda?".
-
-**Polski przy starcie M3**: B1 (60-75% rozumienia) u większości po 6 miesiącach intensywnego kontaktu. Ukraińcy często już B2 dzięki bliskości słowiańskiej. Kursanci hiszpańskojęzyczni (Kolumbijczycy, Wenezuelczycy, Peruwiańczycy, Boliwijczycy) zwykle A2-B1, potrzebują dłużej na przyswojenie języka prawniczego (art. 556-563 KC); rozumieją terminologię techniczną tartaku (200+ słów branżowych), ale gubią się w bardziej abstrakcyjnych rozmowach.
-
-**Motywacja**. Wysoka. Ścieżka widoczna: po M3 stawka operatora samodzielnego 55-70 zł brutto/h (M2 junior: 40-55 zł, M1 pomocnik: 28-35 zł). Po UDT IIWJO W-M + SEP G1-E (kurs 2500+500 zł, ROI 5,7 miesiąca): 65-85 zł. Po 2-3 latach stażu możliwość awansu na brygadzistę (85-100 zł) lub mistrza suszarni BTM (8500 zł brutto mies.). **Kurs M3 to kluczowy przeskok** z pracy „z ulicy" do wykwalifikowanej specjalizacji polskiego tartaku z perspektywą osiedlenia.
-
-**Bariery nowe w M3**: (1) **odpowiedzialność prawna**: kursanci z krajów o słabszej tradycji roszczeń cywilnych (część kursantów latynoskich, sporadycznie inni) boją się podpisów pod KAO-001 i dokumentacją partii; (2) **ekonomia**: pierwsze zobaczenie marży minus w raporcie zmianowym EGIDA-RZ-001 jest szokiem dla kursanta, który czuje się winny, choć nie popełnił błędu; (3) **nadzór nad kolegą**: kursant musi nauczyć się korygować Adriana (M2 pod swoim nadzorem) bez psucia relacji; (4) **samotność decyzji parametrycznej**: KDP-001 wypełniana pięć minut przed startem bez konsultacji to pierwszy raz, gdy nikt nie podpowiada.
-
-### Zmiana postawy
-
-W M1 postawa była „obserwuję, nie dotykam". W M2 postawa: „obsługuję, ale pytam przed uruchomieniem". W M3 postawa to **„prowadzę zmianę, raportuję po fakcie, odpowiadam za partię finansowo i prawnie"**. To największy skok pedagogiczny w całym kursie, większy niż M1→M2. Trener musi **aktywnie rozbudowywać komfort z niepewnością**: kursant musi zaakceptować, że nie każda decyzja będzie optymalna, że partia z marżą minus nie jest jego osobistą porażką, że ekonomia tartaku liczy się na długim dystansie 100+ zleceń, nie na pojedynczym.
-
-## 3. Harmonogram 4 tygodni M3
+## 1. Harmonogram 4 tygodni M3
 
 ### Ramy czasowe
 
@@ -76,7 +46,7 @@ W M1 postawa była „obserwuję, nie dotykam". W M2 postawa: „obsługuję, al
 - **Poniedziałek 29.06** 7:00-9:00, test końcowy l8 (30 pytań × 2 pkt + 3 scenariusze × 10 pkt + 6 zadań × 3 pkt = 108 pkt, próg 76)
 - **Piątek 10.07** (termin +2 tygodnie), egzamin praktyczny solo LT70 dąb FSC 12 m³ dla Bouwhout van Doorn pod obserwacją komisji EGIDA + brygadzisty + audytora
 
-## 4. Paradygmat M3: „operator samodzielny"
+## 2. Paradygmat M3: „operator samodzielny"
 
 ### Pięć kompetencji odróżniających M3 od M2 (z l7 T4 recap)
 
@@ -102,7 +72,7 @@ M2 nauczył kursanta obsługiwać pilarkę pod nadzorem. M3 uczy go pięciu nowy
 
 **Błąd typowy**. Kursant M3 po M2 ma nawyk „czekam na potwierdzenie Marka". W M3 to nie wystarcza, bo Marek jest 2 stanowiska dalej i nie może potwierdzać każdej decyzji. Trener aktywnie przełamuje nawyk: „Mykoła, widzę, że patrzysz w stronę Marka co 30 sekund. Dziś próbuj nie patrzyć. Zaufaj swojej KDP-001 z dzisiaj rana".
 
-## 5. Cztery bloki tematyczne i ich kalibracja
+## 3. Cztery bloki tematyczne i ich kalibracja
 
 Test końcowy M3 (108 pkt) rozkłada pytania po modułach w proporcji **20% M1 / 30% M2 / 50% M3**. W obrębie M3 (50% = 54 pkt) rozkład równy po 4 blokach (T1 + T2 + T3 + T4) po ok. 25% każdy.
 
@@ -130,7 +100,7 @@ Test końcowy M3 (108 pkt) rozkłada pytania po modułach w proporcji **20% M1 /
 
 **Pułapki**. Reklamacja w języku prawniczym (KC) przeraża kursantów z A2-B1 polskim. Stosuj **szablony zdań** (gotowe formuły: „Pani/Panie Jacku, zgodnie z art. 560 § 1 KC, wada jest nieistotna, proponuję..."). Trener robi 30 min dyktando pisemne tygodnia 4 pod l2 T4, kursanci piszą „Szanowny Panie, w odpowiedzi na Państwa zgłoszenie z dnia... na podstawie art. 556 § 1 KC...".
 
-## 6. Bohaterowie M3 i ich łuki narracyjne
+## 4. Bohaterowie M3 i ich łuki narracyjne
 
 M3 ma **głównego bohatera Mykołę Hrycenkę** kontynuującego łuk z M1 (listopad 2025) i M2 (marzec 2026) + **rozszerzony zespół 6 postaci**.
 
@@ -153,7 +123,7 @@ Adrian to **postać pedagogicznego odwrócenia**: Polak nadzorowany przez migran
 
 **M3 T3 l1-l4**: mentor suszarnictwa, pokazuje Mykole parametry premium Drew-Sus, harmonogramy, monitoring wilgotności końcowej.
 
-Pan Henryk to **głos doświadczenia i pokory**. Kursanci widzą, że polski senior z 38-letnim doświadczeniem uczy migranta, a migrant uczy się bez poczucia gorszości. Używaj jako przeciwwagi dla kursantów nadmiernie pewnych siebie (sekcja 9.5).
+Pan Henryk to **głos doświadczenia i pokory**. Kursanci widzą, że polski senior z 38-letnim doświadczeniem uczy migranta, a migrant uczy się bez poczucia gorszości. Używaj jako przeciwwagi dla kursantów nadmiernie pewnych siebie.
 
 ### Pani Anna Kowalczyk (Polka, Kętrzyn, 55 l., klasyfikatorka ITB Warszawa)
 
@@ -177,7 +147,7 @@ Kontynuacja z M1 (listopad 2025). W M3 pojawia się w retrospektywie l7 (9-miesi
 
 **Postaci epizodyczne**: pan Krzysztof (Wood-Mizer Polska, serwisant zewnętrzny, eskalacja usterki bicia koła), Krzysztof Kowalski (audytor FSC NEPCon), Natalia (klientka, Stolarz Meblowy Szczytno), Diego Vargas (Kolumbia, Bucaramanga, kolega Mykoły z tej samej kohorty, w roli M2 rozszerzonego).
 
-## 7. Ocenianie M3
+## 5. Ocenianie M3
 
 ### Test końcowy l8 (poniedziałek tyg. 5)
 
@@ -218,7 +188,7 @@ Kursant **niezdający testu, zdający praktyczny** = scenariusz rzadki, zaliczen
 
 Kursant **niezdający obu** = tryb poprawkowy 4-6 tygodni, ponowny test + ponowny egzamin praktyczny + dodatkowe lekcje T1 lub T3 (w zależności od luk).
 
-## 8. Pedagogika dla migrantów w M3
+## 6. Pedagogika dla migrantów w M3
 
 ### Specyfika M3 wobec M2
 
@@ -242,64 +212,7 @@ M3 wymaga **rozmów biznesowych po polsku** (z klientem po reklamacji, z serwisa
 
 **Wszystkie kultury**: **papier ma wagę prawną**. Kursanci z krajów, gdzie umowa ustna ma siłę równą pisemnej, muszą zinternalizować, że w polskim tartaku **każdy podpisany papier ma moc dowodową** wobec PIP, ubezpieczyciela, klienta, sądu. Powtarzaj zasadę: „podpis to odpowiedzialność majątkowa do trzymiesięcznego wynagrodzenia (art. 120 § 1 KP), w praktyce zwykle ok. 1/3 szkody jako potrącenie z pensji".
 
-## 9. Trudne sytuacje specyficzne dla M3
-
-### 9.1 „Konflikt nadzorczy M3-M2" (sekcja kluczowa)
-
-Objawy: kursant M3 (Mykoła) nie koryguje Adriana (M2) przez 2 dni, bo „nie chce obrazić kolegi Polaka". Karta KAO-001 wypełniana dopiero na koniec, oceny zawyżone (24/25 bez uzasadnienia), korekty merytoryczne niezapisane.
-
-**Częste u**: kursantów z silnym poczuciem zobowiązania wobec Polski (wdzięczność za przyjęcie, zwłaszcza u osób z trudną sytuacją w kraju pochodzenia, np. części kursantów wenezuelskich) oraz u osób z silnie hierarchicznym wzorcem szacunku do gospodarza.
-
-**Reakcja trenera**:
-1. Rozmowa 30 min po zakończeniu lekcji T3 l7. Nie publicznie, jeden-na-jeden.
-2. Pokaż **regulamin EGIDA § 8 ust. 3**: „koryguję gdy błędne, nie gdy inne niż moje". Tłumaczenie bilingualne na język ojczysty.
-3. Pokaż **statystykę wypadkowości M2 nienadzorowanego** (EGIDA 2023: 2 M2 bez regularnego nadzoru M3 = 4 incydenty w roku, w tym 1 poważny; 8 M2 pod aktywnym nadzorem M3 = 1 incydent drobny).
-4. Rola-play: trener gra Adriana z **3 błędami merytorycznymi** (prędkość posuwu 85%, prowadnice 4,2 mm, dziennik ołówkiem) + 1 **różnicą stylu** (kolejność cięć lewo-prawo). Kursant musi wychwycić 3 błędy i zostawić różnicę stylu bez korekty.
-5. Jeśli kursant po ćwiczeniu nadal nie koryguje, porozmawiaj z koordynatorem EGIDA o potencjalnej potrzebie **rotacji nadzorczej** (np. M3 nadzoruje innego M2 z tej samej kohorty kulturowej, jeśli relacja w obrębie tej samej grupy językowej okaże się łatwiejsza na początek).
-
-### 9.2 „Reklamacja klienta w trakcie lekcji"
-
-Objawy: w środku lekcji T4 l2 przychodzi rzeczywisty telefon od klienta Dom-Bud Mrągowo o wadzie nieistotnej w partii wysłanej wczoraj. Kursanci patrzą na trenera: „co teraz?".
-
-**Reakcja trenera**:
-1. **Wykorzystaj** jako live case study, ale **za zgodą klienta** (pytanie brygadzisty Marka: „mogę włączyć nagłośnik, kursanci słuchają?"). Jeśli klient się zgadza (zwykle po reasekuracji anonimizacji nazwiska), nagranie = najlepsza lekcja T4 l2 w kursie.
-2. Jeśli klient odmawia lub sytuacja wymaga natychmiastowej interwencji, przerwa 15 min, trener ogarnia sprawę, wraca z **anonimizowanym opisem** (ok. 5-7 zdań). Kursanci analizują case pisemnie 15 min, dyskusja 15 min, potem powrót do planowanej treści l2.
-3. Nigdy nie **udawaj rzeczywistej reklamacji** podczas lekcji. Scenariusze symulowane są w artefaktach (scenariusz 6 praktyczny), rzeczywiste reklamacje wymagają autentycznej reakcji.
-
-### 9.3 „Kursant z obawą o odpowiedzialność karną"
-
-Objawy: kursant po lekcji T4 l2 (reklamacje KC) pyta z drżeniem w głosie: „czy mogę pójść do więzienia za podpis?". Częste u kursantów z krajów o niestabilnej praworządności (Wenezuela w ostatnich latach, sporadycznie inni), gdzie „podpis" ma konotację więzienno-polityczną.
-
-**Reakcja trenera**:
-1. Rozmowa natychmiast, bez odkładania. 20-30 min. W razie potrzeby w języku ojczystym (jeśli w sali jest inny kursant bieglejszy, tłumaczy).
-2. **Rozróżnij prawnie**: (a) KC (Kodeks cywilny) = roszczenia finansowe, brak więzienia, maksymalna konsekwencja = odszkodowanie; (b) KP (Kodeks pracy) art. 120 § 1 = odpowiedzialność pracownika do 3 miesięcznych wynagrodzeń, brak więzienia; (c) KK (Kodeks karny) = więzienie, ale dotyczy **przestępstw umyślnych** (nadużycie zaufania, spowodowanie ciężkiego uszczerbku, celowe wprowadzenie w błąd) – **nie decyzji operatorskich w dobrej wierze**.
-3. Pokaż **art. 266 § 1 KP**: „pracownik ponosi odpowiedzialność materialną do 3-miesięcznego wynagrodzenia, chyba że szkoda wyrządzona umyślnie". Umyślność = świadome działanie na szkodę, nie pomyłka. Case EGIDA 2023 operator z amperomierzem: 1400 zł potrącenia z pensji, brak skutków karnych, brak rejestru karnego.
-4. **Dokumentacja chroni**. KDP-001 + KS-001 + KAO-001 = dowód, że operator działał zgodnie z procedurą. Brak dokumentacji = operator na swoim ryzyku. Paradoksalnie: kursant, który boi się podpisu, powinien podpisywać **więcej** formularzy, nie mniej.
-5. Jeśli obawa utrzymuje się po rozmowie, skieruj kursanta na konsultację z **pracownikiem socjalnym Fundacji EGIDA**, a w razie potrzeby z prawnikiem partnerskim (fundacja ma umowy o współpracy z kancelariami; godzina konsultacji jest dla kursanta bezpłatna).
-
-### 9.4 „Różnica doświadczenia w grupie"
-
-Objawy: w sali jest np. 3 kursantów ukraińskich z 10+ lat doświadczenia w tartakach (lwowskich, iwanofrankiwskich) plus 3 kursantów kolumbijskich i wenezuelskich bez doświadczenia w drzewnictwie. Ukraińcy nudzą się w T1 (znają wszystko), latynosi są zagubieni.
-
-**Reakcja trenera**:
-1. **Różnicowanie tempa**. Doświadczonym daj **role mentorskie** w scenkach: grają brygadzistę Marka, mistrza pana Henryka, audytora Krzysztofa Kowalskiego. Mniej doświadczonym daj **role podopieczne**: grają Adriana, pomocnika; obserwują i uczą się.
-2. **Dodatkowe konsultacje** po 30 minut dziennie dla kursantów bez doświadczenia (tygodnie 1-2). Doświadczeni mogą wychodzić na praktyki w tartaku partnera wcześniej, np. w poniedziałek tygodnia 2 zamiast w środę.
-3. **Kalibracja testu końcowego indywidualnie**. Kursant z 10 lat doświadczenia powinien celować w 90% i więcej (teoria jest dla niego łatwa), kursant bez doświadczenia może zaliczyć z wynikiem 76-80% i to też jest dobry rezultat.
-4. **Uwaga na dynamikę kulturową**. Doświadczeni potrafią traktować początkujących z góry, zwłaszcza gdy ci słabiej mówią po polsku. Trener aktywnie reguluje grupę: „Mykoła, pokaż Carlosowi po rosyjsku albo po hiszpańsku, jak rozpoznać tę wadę; po polsku będzie mu teraz trudniej".
-
-### 9.5 „Kursant nadmiernie pewny siebie"
-
-Objawy: kursant po M2 zaliczonym z 95%+ i 3-4 miesiącami bezbłędnej pracy na hali wchodzi do M3 z postawą „wszystko wiem". Kwestionuje trenera, nie słucha pana Henryka, ocenia Adriana z góry w rola-play, uznaje reklamację klienta za „przesadę".
-
-**Częste u**: młodych kursantów (22-28 lat) z dużą inteligencją operacyjną i wcześniejszymi sukcesami zawodowymi.
-
-**Reakcja trenera**:
-1. **Nie konfrontuj publicznie**. Pozwól grupie zobaczyć jego błąd naturalnie. Rozdaj case decyzji parametrycznej KDP-001 z pułapką (schemat A wybrany gdzie B byłby lepszy z powodu Ø 28 cm pni); kursant pewny siebie wybierze A, grupa ocena, dyskusja pokaże.
-2. **Case historii pana Henryka**. W jednym z bloków tydzień 3, pan Henryk opowiada (anonimowo) historię własnego błędu z 1995 roku: operator z 5 lat doświadczenia ustawił temperaturę komory 72°C zamiast 60°C dla dębu, partia 18 m³ z pęknięciami rdzeniowymi, strata 40 tys. zł w ówczesnych cenach. „Błąd zrobiłem z pewności siebie, nie z niewiedzy". Historia pana Henryka zwykle przełamuje postawę.
-3. **Rola odwrócenia**. Przekaż kursantowi pewnemu siebie rolę **nauczyciela** przez 1 lekcję (np. pokaż KAO-001 grupie). Jeśli uda mu się dobrze, wzmocnisz pozytywnie. Jeśli zawali, grupa zobaczy że „wszystko wiem" to nie to samo co „umiem przekazać". Pedagogika od drugiej strony otwiera oczy.
-4. **Rozmowa bezpośrednia na końcu tygodnia 2**, jeśli postawa trwa. Konkretne feedback: „Sylwester, widzę twoje kompetencje, są wysokie. Ale w M3 ważniejsze od posiadania wiedzy jest umieć słuchać pana Henryka, który ma 38 lat doświadczenia. Nie dlatego że on jest lepszy, tylko dlatego że operator M3 = operator który słucha".
-
-## 10. Integracja z artefaktami Fazy 4 M3
+## 7. Integracja z artefaktami Fazy 4 M3
 
 ### Quiz uzupełniający M3
 
@@ -325,13 +238,13 @@ Objawy: kursant po M2 zaliczonym z 95%+ i 3-4 miesiącami bezbłędnej pracy na 
 
 **Jak prowadzić**: checklista + obserwacja + feedback. Kryteria 0-4 pkt, próg 3/4 per kryterium.
 
-## 11. Przejście M2 → M3 → życie zawodowe
+## 8. Przejście M2 → M3 → życie zawodowe
 
 ### M2 → M3 (tydzień 1 M3)
 
 **Pierwszy dzień M3 (poniedziałek tyg. 1)**. Trener robi **45 min retrospektywy M2**: 5 kryteriów Piotra z egzaminu wtorkowego, 4 obszary kompetencji M2, dziennik 8-polowy, format 4W. Potem **45 min wprowadzenia paradygmatu M3**: 5 kompetencji odróżniających, granica zewnętrzna vs wewnętrzna, ekonomika zlecenia.
 
-**Pierwsza lekcja M3 T1 l1** (operator samodzielny – co się zmienia). Trener świadomie buduje **most od M2 (byłeś junior pod nadzorem) do M3 (jesteś samodzielny 8 h bez Marka obok)**. Kursant, który zaliczył M2 + 2-3 miesiące pracy, czuje dumę z awansu. Zaczyna M3 z motywacją, ale trener ma balansować: **„duma dobrze, pewność za wysoka niebezpieczna"** (sekcja 9.5).
+**Pierwsza lekcja M3 T1 l1** (operator samodzielny – co się zmienia). Trener świadomie buduje **most od M2 (byłeś junior pod nadzorem) do M3 (jesteś samodzielny 8 h bez Marka obok)**. Kursant, który zaliczył M2 + 2-3 miesiące pracy, czuje dumę z awansu. Zaczyna M3 z motywacją, ale trener ma balansować: **„duma dobrze, pewność za wysoka niebezpieczna"**.
 
 ### M3 → życie zawodowe (ostatni tydzień M3)
 
@@ -345,7 +258,7 @@ Objawy: kursant po M2 zaliczonym z 95%+ i 3-4 miesiącami bezbłędnej pracy na 
 
 **Cel briefingu**. Kursant wie, że M3 nie jest szczytem, tylko trampoliną. Motywacja długoterminowa. Rekrutacja tych, którzy chcą dalej (nie wszyscy; niektórzy pracują jako M3 5-10 lat i są zadowoleni, to też legalna ścieżka).
 
-## 12. Kalibracja trenera i jakość M3
+## 9. Kalibracja trenera i jakość M3
 
 ### Przed pierwszym M3
 
@@ -358,7 +271,7 @@ Objawy: kursant po M2 zaliczonym z 95%+ i 3-4 miesiącami bezbłędnej pracy na 
 
 ### W trakcie pierwszego M3
 
-1. Po każdym tygodniu **raport tygodniowy** (1 strona) dla koordynatora EGIDA: stan grupy, trudne sytuacje, kursanci wymagający interwencji (zwłaszcza sekcje 9.1, 9.3, 9.5).
+1. Po każdym tygodniu **raport tygodniowy** (1 strona) dla koordynatora EGIDA: stan grupy, trudne sytuacje, kursanci wymagający interwencji.
 2. W tygodniu 3 przed sesjami nadzorczymi: **konsultacja z Markiem Nowakiem** (brygadzista) o doborze par Mykoła-Adrian / Diego-inny M2. Unikaj par „dwa silne ego", „dwa kursanta A1 polskiego w parze", „kursanci z konfliktem kulturowym historycznym".
 3. W tygodniu 4 przed testem i egzaminem: **kalibracja 2-3 kursantów granicznych** z Anną Kwiatkowską (potencjalne 74-78 pkt test), wspólne ustalenie czy dopuszczamy do egzaminu +14 dni czy rekomendujemy powtórkę testu za 3 tygodnie.
 4. Po egzaminach praktycznych: **debriefing 3 h** z komisją (Anną + audytorem + brygadzistą): co zaobserwowali, gdzie trener mógłby lepiej przygotować.

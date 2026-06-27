@@ -34,7 +34,7 @@ def main() -> int:
             "NIP": txt.count("7543348716") >= 1,
             "REGON": txt.count("521360040") >= 1,
             "Ozimska_addr": (txt.count("Ozimska 14-16/314A") + txt.count("Озимська 14-16/314A")) >= 1,
-            "reklamacje_email": txt.count("reklamacje@fundacjaegida.eu") >= 1,
+            "sekretariat_email": txt.count("sekretariat@fundacjaegida.eu") >= 1,
             "SMART": txt.count("SMART") >= 1,
             "Opole_or_decl": (txt.count("Opole") + txt.count("Opolu") + txt.count("Ополе") + txt.count("Ополі")) >= 2,
         }

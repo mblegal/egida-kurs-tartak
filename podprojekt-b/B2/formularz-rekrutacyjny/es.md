@@ -264,7 +264,7 @@ El candidato presenta, mediante la firma del presente formulario, las siguientes
 >
 > a) el presente consentimiento es voluntario y su ausencia no afecta al examen de mi candidatura actual,
 >
-> b) puedo retirar mi consentimiento en cualquier momento mediante el envío de un mensaje a la dirección rodo@fundacjaegida.eu,
+> b) puedo retirar mi consentimiento en cualquier momento mediante el envío de un mensaje a la dirección sekretariat@fundacjaegida.eu,
 >
 > c) la retirada del consentimiento conlleva la supresión de mis datos de la base de candidatos, pero no afecta a la licitud del tratamiento realizado sobre la base del consentimiento previo a su retirada.
 
@@ -273,7 +273,7 @@ El candidato presenta, mediante la firma del presente formulario, las siguientes
 
 ### I.5. Consentimiento opcional – boletín informativo de la Fundación
 
-> Presto mi consentimiento voluntario, en el sentido del art. 6, apartado 1, letra a), del RGPD, así como del art. 10 de la Ley polaca de 18 de julio de 2002 sobre la prestación de servicios por vía electrónica, al tratamiento de mis datos personales (nombre, apellidos, dirección de correo electrónico) por la Fundacja pomocy prawnej EGIDA con la finalidad de recibir por vía electrónica información sobre los siguientes cursos, eventos y actividades de la Fundación (boletín informativo, newsletter). Puedo retirar mi consentimiento en cualquier momento mediante el envío de un mensaje a la dirección rodo@fundacjaegida.eu o haciendo clic en el enlace de baja incluido en cada mensaje del boletín informativo.
+> Presto mi consentimiento voluntario, en el sentido del art. 6, apartado 1, letra a), del RGPD, así como del art. 10 de la Ley polaca de 18 de julio de 2002 sobre la prestación de servicios por vía electrónica, al tratamiento de mis datos personales (nombre, apellidos, dirección de correo electrónico) por la Fundacja pomocy prawnej EGIDA con la finalidad de recibir por vía electrónica información sobre los siguientes cursos, eventos y actividades de la Fundación (boletín informativo, newsletter). Puedo retirar mi consentimiento en cualquier momento mediante el envío de un mensaje a la dirección sekretariat@fundacjaegida.eu o haciendo clic en el enlace de baja incluido en cada mensaje del boletín informativo.
 
 | ☐ SÍ, presto mi consentimiento | ☐ NO presto mi consentimiento |
 |--------------------------------|-------------------------------|
@@ -318,11 +318,11 @@ El candidato podrá presentar el formulario por una de las tres vías siguientes
 
 a) **en persona** en la sede de la Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, en el horario de oficina de la Fundación,
 
-b) **por correo electrónico** en forma de escaneo cumplimentado y firmado a la dirección: **rekrutacja@fundacjaegida.eu** (formatos aceptados: PDF, JPG; tamaño máximo del mensaje 25 MB),
+b) **por correo electrónico** en forma de escaneo cumplimentado y firmado a la dirección: **sekretariat@fundacjaegida.eu** (formatos aceptados: PDF, JPG; tamaño máximo del mensaje 25 MB),
 
 c) **por correo postal** a la dirección: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, con la mención «Formularz rekrutacyjny – Kurs Praca w tartaku» (decide la fecha de entrada en la Fundación, no la fecha de envío).
 
-La Fundación confirma la entrada del formulario en el plazo de 7 días desde la fecha de su recepción, por la vía elegida por el candidato en la parte A. La ausencia de confirmación en dicho plazo el candidato podrá aclararla poniéndose en contacto con la Fundación en la dirección rekrutacja@fundacjaegida.eu o telefónicamente en el número indicado en el sitio web de la Fundación.
+La Fundación confirma la entrada del formulario en el plazo de 7 días desde la fecha de su recepción, por la vía elegida por el candidato en la parte A. La ausencia de confirmación en dicho plazo el candidato podrá aclararla poniéndose en contacto con la Fundación en la dirección sekretariat@fundacjaegida.eu o telefónicamente en el número indicado en el sitio web de la Fundación.
 
 ---
 

@@ -264,7 +264,7 @@ By signing this form, the candidate makes the following declarations.
 >
 > a) this consent is voluntary and the absence thereof has no effect on the consideration of my current candidacy,
 >
-> b) I may withdraw my consent at any time by sending a message to the address rodo@fundacjaegida.eu,
+> b) I may withdraw my consent at any time by sending a message to the address sekretariat@fundacjaegida.eu,
 >
 > c) the withdrawal of consent results in the deletion of my data from the candidate database, but does not affect the lawfulness of the processing carried out on the basis of consent before its withdrawal.
 
@@ -273,7 +273,7 @@ By signing this form, the candidate makes the following declarations.
 
 ### I.5. Optional consent – Foundation's newsletter
 
-> I grant my voluntary consent, within the meaning of Article 6(1)(a) GDPR and Article 10 of the Polish Act of 18 July 2002 on the provision of electronic services, to the processing of my personal data (first name, surname, e-mail address) by Fundacja pomocy prawnej EGIDA for the purpose of receiving by electronic means information about subsequent courses, events and activities of the Foundation (newsletter). I may withdraw my consent at any time by sending a message to the address rodo@fundacjaegida.eu or by clicking the unsubscribe link included in every newsletter message.
+> I grant my voluntary consent, within the meaning of Article 6(1)(a) GDPR and Article 10 of the Polish Act of 18 July 2002 on the provision of electronic services, to the processing of my personal data (first name, surname, e-mail address) by Fundacja pomocy prawnej EGIDA for the purpose of receiving by electronic means information about subsequent courses, events and activities of the Foundation (newsletter). I may withdraw my consent at any time by sending a message to the address sekretariat@fundacjaegida.eu or by clicking the unsubscribe link included in every newsletter message.
 
 | ☐ YES, I grant consent | ☐ NO, I do not grant consent |
 |------------------------|-------------------------------|
@@ -318,11 +318,11 @@ The candidate may submit the form in one of three ways:
 
 a) **in person** at the registered seat of Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, during the office hours of the Foundation;
 
-b) **by electronic mail (email)** in the form of a completed and signed scan to the address: **rekrutacja@fundacjaegida.eu** (accepted formats: PDF, JPG; maximum message size 25 MB);
+b) **by electronic mail (email)** in the form of a completed and signed scan to the address: **sekretariat@fundacjaegida.eu** (accepted formats: PDF, JPG; maximum message size 25 MB);
 
 c) **by traditional post** to the address: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, with the annotation "Recruitment form – Course Praca w tartaku" (the date of receipt by the Foundation, not the date of dispatch, is decisive).
 
-The Foundation confirms receipt of the form within 7 days of the date of its receipt, by the means selected by the candidate in Part A. The absence of a confirmation within that period may be clarified by the candidate by contacting the Foundation at the address rekrutacja@fundacjaegida.eu or by telephone at the number indicated on the Foundation's website.
+The Foundation confirms receipt of the form within 7 days of the date of its receipt, by the means selected by the candidate in Part A. The absence of a confirmation within that period may be clarified by the candidate by contacting the Foundation at the address sekretariat@fundacjaegida.eu or by telephone at the number indicated on the Foundation's website.
 
 ---
 

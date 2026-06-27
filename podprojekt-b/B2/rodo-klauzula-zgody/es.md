@@ -54,7 +54,7 @@ El Empresario trata los datos personales del Cursante **exclusivamente** en la m
 
 La Fundación no ha designado un Delegado de Protección de Datos en el sentido del art. 37 RGPD, dado que no concurren los supuestos de designación obligatoria del DPD (art. 37, apartado 1, letras a, b, c, RGPD). En cualquier asunto relativo al tratamiento de los datos personales del Cursante, incluyendo el ejercicio de cualquiera de los derechos a los que se refiere el punto 7 de la presente cláusula, el Cursante puede ponerse en contacto con la Fundación a través de:
 
-- correo electrónico: **rodo@fundacjaegida.eu**
+- correo electrónico: **sekretariat@fundacjaegida.eu**
 - dirección postal: Fundacja pomocy prawnej EGIDA, ul. Ozimska 14-16/314A, 45-057 Opole, con la mención «RODO»
 - en persona, en horario de oficina de la Fundación en Opole
 
@@ -166,7 +166,7 @@ El Cursante podrá prestar, de forma voluntaria e independiente de la participac
 
 ### Consentimiento 1. Boletín informativo de la Fundación (newsletter)
 
-> Presto mi consentimiento al tratamiento de mis datos personales (nombre, apellidos, dirección de correo electrónico) por la Fundacja pomocy prawnej EGIDA con domicilio en Opole, con la finalidad de recibir por vía electrónica información sobre los siguientes cursos, eventos y actividades de la Fundación (boletín informativo, newsletter), sobre la base del art. 6, apartado 1, letra a, RGPD, así como del art. 10 de la Ley polaca de 18 de julio de 2002 sobre la prestación de servicios por vía electrónica. Sé que puedo retirar mi consentimiento en cualquier momento mediante el envío de un mensaje a la dirección rodo@fundacjaegida.eu o haciendo clic en el enlace de baja incluido en cada mensaje del boletín informativo.
+> Presto mi consentimiento al tratamiento de mis datos personales (nombre, apellidos, dirección de correo electrónico) por la Fundacja pomocy prawnej EGIDA con domicilio en Opole, con la finalidad de recibir por vía electrónica información sobre los siguientes cursos, eventos y actividades de la Fundación (boletín informativo, newsletter), sobre la base del art. 6, apartado 1, letra a, RGPD, así como del art. 10 de la Ley polaca de 18 de julio de 2002 sobre la prestación de servicios por vía electrónica. Sé que puedo retirar mi consentimiento en cualquier momento mediante el envío de un mensaje a la dirección sekretariat@fundacjaegida.eu o haciendo clic en el enlace de baja incluido en cada mensaje del boletín informativo.
 
 | ☐ SÍ, presto mi consentimiento | ☐ NO presto mi consentimiento |
 |--------------------------------|-------------------------------|
